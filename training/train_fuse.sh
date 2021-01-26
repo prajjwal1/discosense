@@ -1,0 +1,2 @@
+# deepspeed --num_gpus=2 run_clm_discovery.py --model_name_or_path gpt2-large --dataset_name discovery --dataset_config_name discovery --do_train --do_eval --output_dir /home/nlp/apex/experiment/train_gpt2_discovery --per_device_train_batch_size 4 --fp16 --deepspeed ds_config_1gpu.json
+deepspeed --num_gpus=2 run_seq_clas.py --model_name_or_path microsoft/DialoGPT-large --do_train --do_eval --max_seq_length 32 --per_device_train_batch_size 256 --output_dir /home/nlp/apex/experiment/seq_clas  --fp16 --deepspeed ds_config.json

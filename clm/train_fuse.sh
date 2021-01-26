@@ -1,1 +1,0 @@
-deepspeed --num_gpus=2 ./run_clm_discofuse.py --model_name_or_path /home/nlp/apex/experiment/train_gpt2_discofuse/ --dataset_name discofuse --dataset_config_name discofuse-wikipedia --do_eval --output_dir /home/nlp/apex/experiment/train_gpt2_discofuse --per_device_train_batch_size 4 --deepspeed ds_config_1gpu.json

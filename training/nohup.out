@@ -1,1309 +1,15 @@
-[2021-01-27 04:10:56,746] [WARNING] [runner.py:117:fetch_hostfile] Unable to find hostfile, will proceed with training with local resources only.
-[2021-01-27 04:10:58,400] [INFO] [runner.py:355:main] cmd = /usr/bin/python3 -u -m deepspeed.launcher.launch --world_info=eyJsb2NhbGhvc3QiOiBbMCwgMV19 --master_addr=127.0.0.1 --master_port=29500 run_seq_clas.py --model_name_or_path microsoft/DialoGPT-large --do_train --do_eval --max_seq_length 32 --per_device_train_batch_size 256 --output_dir /home/nlp/apex/experiment/seq_clas --fp16 --deepspeed ds_config.json
-[2021-01-27 04:10:59,573] [INFO] [launch.py:78:main] WORLD INFO DICT: {'localhost': [0, 1]}
-[2021-01-27 04:10:59,573] [INFO] [launch.py:84:main] nnodes=1, num_local_procs=2, node_rank=0
-[2021-01-27 04:10:59,573] [INFO] [launch.py:99:main] global_rank_mapping=defaultdict(<class 'list'>, {'localhost': [0, 1]})
-[2021-01-27 04:10:59,573] [INFO] [launch.py:100:main] dist_world_size=2
-[2021-01-27 04:10:59,573] [INFO] [launch.py:102:main] Setting CUDA_VISIBLE_DEVICES=0,1
-[2021-01-27 04:11:02,028] [INFO] [distributed.py:39:init_distributed] Initializing torch distributed with backend: nccl
-[2021-01-27 04:11:02,043] [INFO] [distributed.py:39:init_distributed] Initializing torch distributed with backend: nccl
-01/27/2021 04:11:04 - WARNING - __main__ -   Process rank: 0, device: cuda:0, n_gpu: 1distributed training: True, 16-bits training: True
-01/27/2021 04:11:04 - WARNING - __main__ -   Process rank: 1, device: cuda:1, n_gpu: 1distributed training: True, 16-bits training: True
-01/27/2021 04:11:04 - INFO - __main__ -   Training/evaluation parameters TrainingArguments(output_dir=/home/nlp/apex/experiment/seq_clas, overwrite_output_dir=False, do_train=True, do_eval=True, do_predict=False, evaluation_strategy=EvaluationStrategy.NO, prediction_loss_only=False, per_device_train_batch_size=256, per_device_eval_batch_size=8, gradient_accumulation_steps=1, eval_accumulation_steps=None, learning_rate=5e-05, weight_decay=0.0, adam_beta1=0.9, adam_beta2=0.999, adam_epsilon=1e-08, max_grad_norm=1.0, num_train_epochs=3.0, max_steps=-1, lr_scheduler_type=SchedulerType.LINEAR, warmup_steps=0, logging_dir=runs/Jan27_04-11-01_ai-compute-00, logging_first_step=False, logging_steps=500, save_steps=500, save_total_limit=None, no_cuda=False, seed=42, fp16=True, fp16_opt_level=O1, fp16_backend=auto, local_rank=0, tpu_num_cores=None, tpu_metrics_debug=False, debug=False, dataloader_drop_last=False, eval_steps=500, dataloader_num_workers=0, past_index=-1, run_name=/home/nlp/apex/experiment/seq_clas, disable_tqdm=False, remove_unused_columns=True, label_names=None, load_best_model_at_end=False, metric_for_best_model=None, greater_is_better=None, ignore_data_skip=False, sharded_ddp=False, deepspeed=ds_config.json, label_smoothing_factor=0.0, adafactor=False, _n_gpu=1)
-Reusing dataset discovery (/home/nlp/.cache/huggingface/datasets/discovery/discovery/1.0.0/f08ced5950fb93854c70d20fc70d1583766d7219cda67e65d197dfe9ec3775ca)
-Reusing dataset discovery (/home/nlp/.cache/huggingface/datasets/discovery/discovery/1.0.0/f08ced5950fb93854c70d20fc70d1583766d7219cda67e65d197dfe9ec3775ca)
-Reusing dataset discovery (/home/nlp/.cache/huggingface/datasets/discovery/discovery/1.0.0/f08ced5950fb93854c70d20fc70d1583766d7219cda67e65d197dfe9ec3775ca)
-Reusing dataset discovery (/home/nlp/.cache/huggingface/datasets/discovery/discovery/1.0.0/f08ced5950fb93854c70d20fc70d1583766d7219cda67e65d197dfe9ec3775ca)
-[INFO|configuration_utils.py:445] 2021-01-27 04:11:05,672 >> loading configuration file https://huggingface.co/microsoft/DialoGPT-large/resolve/main/config.json from cache at /home/nlp/.cache/huggingface/transformers/8ecbd13d967b45192821b73dffd1a5eea710336629cbffe26e540f0d54061bcd.bc153a9de418c98118fa71165e03079910cf70ac628944dbfa275e10bf0b5f60
-[INFO|configuration_utils.py:481] 2021-01-27 04:11:05,675 >> Model config GPT2Config {
-  "activation_function": "gelu_new",
-  "architectures": [
-    "GPT2LMHeadModel"
-  ],
-  "attn_pdrop": 0.1,
-  "bos_token_id": 50256,
-  "embd_pdrop": 0.1,
-  "eos_token_id": 50256,
-  "gradient_checkpointing": false,
-  "id2label": {
-    "0": "LABEL_0",
-    "1": "LABEL_1",
-    "2": "LABEL_2",
-    "3": "LABEL_3",
-    "4": "LABEL_4",
-    "5": "LABEL_5",
-    "6": "LABEL_6",
-    "7": "LABEL_7",
-    "8": "LABEL_8",
-    "9": "LABEL_9",
-    "10": "LABEL_10",
-    "11": "LABEL_11",
-    "12": "LABEL_12",
-    "13": "LABEL_13",
-    "14": "LABEL_14",
-    "15": "LABEL_15",
-    "16": "LABEL_16",
-    "17": "LABEL_17",
-    "18": "LABEL_18",
-    "19": "LABEL_19",
-    "20": "LABEL_20",
-    "21": "LABEL_21",
-    "22": "LABEL_22",
-    "23": "LABEL_23",
-    "24": "LABEL_24",
-    "25": "LABEL_25",
-    "26": "LABEL_26",
-    "27": "LABEL_27",
-    "28": "LABEL_28",
-    "29": "LABEL_29",
-    "30": "LABEL_30",
-    "31": "LABEL_31",
-    "32": "LABEL_32",
-    "33": "LABEL_33",
-    "34": "LABEL_34",
-    "35": "LABEL_35",
-    "36": "LABEL_36",
-    "37": "LABEL_37",
-    "38": "LABEL_38",
-    "39": "LABEL_39",
-    "40": "LABEL_40",
-    "41": "LABEL_41",
-    "42": "LABEL_42",
-    "43": "LABEL_43",
-    "44": "LABEL_44",
-    "45": "LABEL_45",
-    "46": "LABEL_46",
-    "47": "LABEL_47",
-    "48": "LABEL_48",
-    "49": "LABEL_49",
-    "50": "LABEL_50",
-    "51": "LABEL_51",
-    "52": "LABEL_52",
-    "53": "LABEL_53",
-    "54": "LABEL_54",
-    "55": "LABEL_55",
-    "56": "LABEL_56",
-    "57": "LABEL_57",
-    "58": "LABEL_58",
-    "59": "LABEL_59",
-    "60": "LABEL_60",
-    "61": "LABEL_61",
-    "62": "LABEL_62",
-    "63": "LABEL_63",
-    "64": "LABEL_64",
-    "65": "LABEL_65",
-    "66": "LABEL_66",
-    "67": "LABEL_67",
-    "68": "LABEL_68",
-    "69": "LABEL_69",
-    "70": "LABEL_70",
-    "71": "LABEL_71",
-    "72": "LABEL_72",
-    "73": "LABEL_73",
-    "74": "LABEL_74",
-    "75": "LABEL_75",
-    "76": "LABEL_76",
-    "77": "LABEL_77",
-    "78": "LABEL_78",
-    "79": "LABEL_79",
-    "80": "LABEL_80",
-    "81": "LABEL_81",
-    "82": "LABEL_82",
-    "83": "LABEL_83",
-    "84": "LABEL_84",
-    "85": "LABEL_85",
-    "86": "LABEL_86",
-    "87": "LABEL_87",
-    "88": "LABEL_88",
-    "89": "LABEL_89",
-    "90": "LABEL_90",
-    "91": "LABEL_91",
-    "92": "LABEL_92",
-    "93": "LABEL_93",
-    "94": "LABEL_94",
-    "95": "LABEL_95",
-    "96": "LABEL_96",
-    "97": "LABEL_97",
-    "98": "LABEL_98",
-    "99": "LABEL_99",
-    "100": "LABEL_100",
-    "101": "LABEL_101",
-    "102": "LABEL_102",
-    "103": "LABEL_103",
-    "104": "LABEL_104",
-    "105": "LABEL_105",
-    "106": "LABEL_106",
-    "107": "LABEL_107",
-    "108": "LABEL_108",
-    "109": "LABEL_109",
-    "110": "LABEL_110",
-    "111": "LABEL_111",
-    "112": "LABEL_112",
-    "113": "LABEL_113",
-    "114": "LABEL_114",
-    "115": "LABEL_115",
-    "116": "LABEL_116",
-    "117": "LABEL_117",
-    "118": "LABEL_118",
-    "119": "LABEL_119",
-    "120": "LABEL_120",
-    "121": "LABEL_121",
-    "122": "LABEL_122",
-    "123": "LABEL_123",
-    "124": "LABEL_124",
-    "125": "LABEL_125",
-    "126": "LABEL_126",
-    "127": "LABEL_127",
-    "128": "LABEL_128",
-    "129": "LABEL_129",
-    "130": "LABEL_130",
-    "131": "LABEL_131",
-    "132": "LABEL_132",
-    "133": "LABEL_133",
-    "134": "LABEL_134",
-    "135": "LABEL_135",
-    "136": "LABEL_136",
-    "137": "LABEL_137",
-    "138": "LABEL_138",
-    "139": "LABEL_139",
-    "140": "LABEL_140",
-    "141": "LABEL_141",
-    "142": "LABEL_142",
-    "143": "LABEL_143",
-    "144": "LABEL_144",
-    "145": "LABEL_145",
-    "146": "LABEL_146",
-    "147": "LABEL_147",
-    "148": "LABEL_148",
-    "149": "LABEL_149",
-    "150": "LABEL_150",
-    "151": "LABEL_151",
-    "152": "LABEL_152",
-    "153": "LABEL_153",
-    "154": "LABEL_154",
-    "155": "LABEL_155",
-    "156": "LABEL_156",
-    "157": "LABEL_157",
-    "158": "LABEL_158",
-    "159": "LABEL_159",
-    "160": "LABEL_160",
-    "161": "LABEL_161",
-    "162": "LABEL_162",
-    "163": "LABEL_163",
-    "164": "LABEL_164",
-    "165": "LABEL_165",
-    "166": "LABEL_166",
-    "167": "LABEL_167",
-    "168": "LABEL_168",
-    "169": "LABEL_169",
-    "170": "LABEL_170",
-    "171": "LABEL_171",
-    "172": "LABEL_172",
-    "173": "LABEL_173"
-  },
-  "initializer_range": 0.02,
-  "label2id": {
-    "LABEL_0": 0,
-    "LABEL_1": 1,
-    "LABEL_10": 10,
-    "LABEL_100": 100,
-    "LABEL_101": 101,
-    "LABEL_102": 102,
-    "LABEL_103": 103,
-    "LABEL_104": 104,
-    "LABEL_105": 105,
-    "LABEL_106": 106,
-    "LABEL_107": 107,
-    "LABEL_108": 108,
-    "LABEL_109": 109,
-    "LABEL_11": 11,
-    "LABEL_110": 110,
-    "LABEL_111": 111,
-    "LABEL_112": 112,
-    "LABEL_113": 113,
-    "LABEL_114": 114,
-    "LABEL_115": 115,
-    "LABEL_116": 116,
-    "LABEL_117": 117,
-    "LABEL_118": 118,
-    "LABEL_119": 119,
-    "LABEL_12": 12,
-    "LABEL_120": 120,
-    "LABEL_121": 121,
-    "LABEL_122": 122,
-    "LABEL_123": 123,
-    "LABEL_124": 124,
-    "LABEL_125": 125,
-    "LABEL_126": 126,
-    "LABEL_127": 127,
-    "LABEL_128": 128,
-    "LABEL_129": 129,
-    "LABEL_13": 13,
-    "LABEL_130": 130,
-    "LABEL_131": 131,
-    "LABEL_132": 132,
-    "LABEL_133": 133,
-    "LABEL_134": 134,
-    "LABEL_135": 135,
-    "LABEL_136": 136,
-    "LABEL_137": 137,
-    "LABEL_138": 138,
-    "LABEL_139": 139,
-    "LABEL_14": 14,
-    "LABEL_140": 140,
-    "LABEL_141": 141,
-    "LABEL_142": 142,
-    "LABEL_143": 143,
-    "LABEL_144": 144,
-    "LABEL_145": 145,
-    "LABEL_146": 146,
-    "LABEL_147": 147,
-    "LABEL_148": 148,
-    "LABEL_149": 149,
-    "LABEL_15": 15,
-    "LABEL_150": 150,
-    "LABEL_151": 151,
-    "LABEL_152": 152,
-    "LABEL_153": 153,
-    "LABEL_154": 154,
-    "LABEL_155": 155,
-    "LABEL_156": 156,
-    "LABEL_157": 157,
-    "LABEL_158": 158,
-    "LABEL_159": 159,
-    "LABEL_16": 16,
-    "LABEL_160": 160,
-    "LABEL_161": 161,
-    "LABEL_162": 162,
-    "LABEL_163": 163,
-    "LABEL_164": 164,
-    "LABEL_165": 165,
-    "LABEL_166": 166,
-    "LABEL_167": 167,
-    "LABEL_168": 168,
-    "LABEL_169": 169,
-    "LABEL_17": 17,
-    "LABEL_170": 170,
-    "LABEL_171": 171,
-    "LABEL_172": 172,
-    "LABEL_173": 173,
-    "LABEL_18": 18,
-    "LABEL_19": 19,
-    "LABEL_2": 2,
-    "LABEL_20": 20,
-    "LABEL_21": 21,
-    "LABEL_22": 22,
-    "LABEL_23": 23,
-    "LABEL_24": 24,
-    "LABEL_25": 25,
-    "LABEL_26": 26,
-    "LABEL_27": 27,
-    "LABEL_28": 28,
-    "LABEL_29": 29,
-    "LABEL_3": 3,
-    "LABEL_30": 30,
-    "LABEL_31": 31,
-    "LABEL_32": 32,
-    "LABEL_33": 33,
-    "LABEL_34": 34,
-    "LABEL_35": 35,
-    "LABEL_36": 36,
-    "LABEL_37": 37,
-    "LABEL_38": 38,
-    "LABEL_39": 39,
-    "LABEL_4": 4,
-    "LABEL_40": 40,
-    "LABEL_41": 41,
-    "LABEL_42": 42,
-    "LABEL_43": 43,
-    "LABEL_44": 44,
-    "LABEL_45": 45,
-    "LABEL_46": 46,
-    "LABEL_47": 47,
-    "LABEL_48": 48,
-    "LABEL_49": 49,
-    "LABEL_5": 5,
-    "LABEL_50": 50,
-    "LABEL_51": 51,
-    "LABEL_52": 52,
-    "LABEL_53": 53,
-    "LABEL_54": 54,
-    "LABEL_55": 55,
-    "LABEL_56": 56,
-    "LABEL_57": 57,
-    "LABEL_58": 58,
-    "LABEL_59": 59,
-    "LABEL_6": 6,
-    "LABEL_60": 60,
-    "LABEL_61": 61,
-    "LABEL_62": 62,
-    "LABEL_63": 63,
-    "LABEL_64": 64,
-    "LABEL_65": 65,
-    "LABEL_66": 66,
-    "LABEL_67": 67,
-    "LABEL_68": 68,
-    "LABEL_69": 69,
-    "LABEL_7": 7,
-    "LABEL_70": 70,
-    "LABEL_71": 71,
-    "LABEL_72": 72,
-    "LABEL_73": 73,
-    "LABEL_74": 74,
-    "LABEL_75": 75,
-    "LABEL_76": 76,
-    "LABEL_77": 77,
-    "LABEL_78": 78,
-    "LABEL_79": 79,
-    "LABEL_8": 8,
-    "LABEL_80": 80,
-    "LABEL_81": 81,
-    "LABEL_82": 82,
-    "LABEL_83": 83,
-    "LABEL_84": 84,
-    "LABEL_85": 85,
-    "LABEL_86": 86,
-    "LABEL_87": 87,
-    "LABEL_88": 88,
-    "LABEL_89": 89,
-    "LABEL_9": 9,
-    "LABEL_90": 90,
-    "LABEL_91": 91,
-    "LABEL_92": 92,
-    "LABEL_93": 93,
-    "LABEL_94": 94,
-    "LABEL_95": 95,
-    "LABEL_96": 96,
-    "LABEL_97": 97,
-    "LABEL_98": 98,
-    "LABEL_99": 99
-  },
-  "layer_norm_epsilon": 1e-05,
-  "model_type": "gpt2",
-  "n_ctx": 1024,
-  "n_embd": 1280,
-  "n_head": 20,
-  "n_inner": null,
-  "n_layer": 36,
-  "n_positions": 1024,
-  "resid_pdrop": 0.1,
-  "summary_activation": null,
-  "summary_first_dropout": 0.1,
-  "summary_proj_to_labels": true,
-  "summary_type": "cls_index",
-  "summary_use_proj": true,
-  "task_specific_params": {
-    "conversational": {
-      "max_length": 1000
-    }
-  },
-  "transformers_version": "4.2.2",
-  "use_cache": true,
-  "vocab_size": 50257
-}
-
-[INFO|configuration_utils.py:445] 2021-01-27 04:11:06,273 >> loading configuration file https://huggingface.co/microsoft/DialoGPT-large/resolve/main/config.json from cache at /home/nlp/.cache/huggingface/transformers/8ecbd13d967b45192821b73dffd1a5eea710336629cbffe26e540f0d54061bcd.bc153a9de418c98118fa71165e03079910cf70ac628944dbfa275e10bf0b5f60
-[INFO|configuration_utils.py:481] 2021-01-27 04:11:06,275 >> Model config GPT2Config {
-  "activation_function": "gelu_new",
-  "architectures": [
-    "GPT2LMHeadModel"
-  ],
-  "attn_pdrop": 0.1,
-  "bos_token_id": 50256,
-  "embd_pdrop": 0.1,
-  "eos_token_id": 50256,
-  "gradient_checkpointing": false,
-  "initializer_range": 0.02,
-  "layer_norm_epsilon": 1e-05,
-  "model_type": "gpt2",
-  "n_ctx": 1024,
-  "n_embd": 1280,
-  "n_head": 20,
-  "n_inner": null,
-  "n_layer": 36,
-  "n_positions": 1024,
-  "resid_pdrop": 0.1,
-  "summary_activation": null,
-  "summary_first_dropout": 0.1,
-  "summary_proj_to_labels": true,
-  "summary_type": "cls_index",
-  "summary_use_proj": true,
-  "task_specific_params": {
-    "conversational": {
-      "max_length": 1000
-    }
-  },
-  "transformers_version": "4.2.2",
-  "use_cache": true,
-  "vocab_size": 50257
-}
-
-[INFO|tokenization_utils_base.py:1682] 2021-01-27 04:11:06,275 >> Model name 'microsoft/DialoGPT-large' not found in model shortcut name list (gpt2, gpt2-medium, gpt2-large, gpt2-xl, distilgpt2). Assuming 'microsoft/DialoGPT-large' is a path, a model identifier, or url to a directory containing tokenizer files.
-[INFO|tokenization_utils_base.py:1766] 2021-01-27 04:11:09,699 >> loading file https://huggingface.co/microsoft/DialoGPT-large/resolve/main/vocab.json from cache at /home/nlp/.cache/huggingface/transformers/e9d85736709aebe2a1bbce612fac66defbcb8e2624fe286f25ee85582712ab0c.c7ed1f96aac49e745788faa77ba0a26a392643a50bb388b9c04ff469e555241f
-[INFO|tokenization_utils_base.py:1766] 2021-01-27 04:11:09,700 >> loading file https://huggingface.co/microsoft/DialoGPT-large/resolve/main/merges.txt from cache at /home/nlp/.cache/huggingface/transformers/42623383f70a4d3cb4b32daf6af997dc6817bbc2b25ac760dc50ef442ddcbac6.5d12962c5ee615a4c803841266e9c3be9a691a924f72d395d3a6c6c81157788b
-[INFO|tokenization_utils_base.py:1766] 2021-01-27 04:11:09,700 >> loading file https://huggingface.co/microsoft/DialoGPT-large/resolve/main/tokenizer.json from cache at None
-[INFO|tokenization_utils_base.py:1766] 2021-01-27 04:11:09,700 >> loading file https://huggingface.co/microsoft/DialoGPT-large/resolve/main/added_tokens.json from cache at None
-[INFO|tokenization_utils_base.py:1766] 2021-01-27 04:11:09,700 >> loading file https://huggingface.co/microsoft/DialoGPT-large/resolve/main/special_tokens_map.json from cache at None
-[INFO|tokenization_utils_base.py:1766] 2021-01-27 04:11:09,700 >> loading file https://huggingface.co/microsoft/DialoGPT-large/resolve/main/tokenizer_config.json from cache at None
-[INFO|modeling_utils.py:1027] 2021-01-27 04:11:10,577 >> loading weights file https://huggingface.co/microsoft/DialoGPT-large/resolve/main/pytorch_model.bin from cache at /home/nlp/.cache/huggingface/transformers/f9e478f34be167408371f277ed42ae0ee64bd611d7ffbcc6ab9277c7b58f494f.566963c293100a553be053651862cb16a72b9f6dbcad84f896397e2c9d59726e
-Some weights of the model checkpoint at microsoft/DialoGPT-large were not used when initializing GPT2ForSequenceClassification: ['lm_head.weight']
-- This IS expected if you are initializing GPT2ForSequenceClassification from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
-- This IS NOT expected if you are initializing GPT2ForSequenceClassification from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
-Some weights of GPT2ForSequenceClassification were not initialized from the model checkpoint at microsoft/DialoGPT-large and are newly initialized: ['score.weight']
-You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
-Loading cached processed dataset at /home/nlp/.cache/huggingface/datasets/discovery/discovery/1.0.0/f08ced5950fb93854c70d20fc70d1583766d7219cda67e65d197dfe9ec3775ca/cache-8f475053049fe363.arrow
-Loading cached processed dataset at /home/nlp/.cache/huggingface/datasets/discovery/discovery/1.0.0/f08ced5950fb93854c70d20fc70d1583766d7219cda67e65d197dfe9ec3775ca/cache-4eb87d2804151897.arrow
-[WARNING|modeling_utils.py:1134] 2021-01-27 04:11:33,800 >> Some weights of the model checkpoint at microsoft/DialoGPT-large were not used when initializing GPT2ForSequenceClassification: ['lm_head.weight']
-- This IS expected if you are initializing GPT2ForSequenceClassification from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
-- This IS NOT expected if you are initializing GPT2ForSequenceClassification from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
-[WARNING|modeling_utils.py:1145] 2021-01-27 04:11:33,801 >> Some weights of GPT2ForSequenceClassification were not initialized from the model checkpoint at microsoft/DialoGPT-large and are newly initialized: ['score.weight']
-You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
-Loading cached processed dataset at /home/nlp/.cache/huggingface/datasets/discovery/discovery/1.0.0/f08ced5950fb93854c70d20fc70d1583766d7219cda67e65d197dfe9ec3775ca/cache-8f475053049fe363.arrow
-Loading cached processed dataset at /home/nlp/.cache/huggingface/datasets/discovery/discovery/1.0.0/f08ced5950fb93854c70d20fc70d1583766d7219cda67e65d197dfe9ec3775ca/cache-4eb87d2804151897.arrow
-01/27/2021 04:11:33 - INFO - __main__ -   Sample 670487 of the training set: {'attention_mask': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0], 'idx': 1453487, 'input_ids': [32, 3212, 807, 284, 1367, 25, 1002, 534, 1200, 991, 266, 1039, 262, 3996, 11, 257, 20160, 10436, 743, 307, 257, 4388, 3513, 3038, 13, 50256, 50256, 50256, 50256, 50256, 50256, 50256], 'label': 9, 'sentence1': 'Ages 8 to 11: If your child still wets the bed, a moisture alarm may be a successful treatment option.'}.
-01/27/2021 04:11:33 - INFO - __main__ -   Sample 116739 of the training set: {'attention_mask': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0], 'idx': 899739, 'input_ids': [40, 2911, 597, 286, 262, 2089, 3730, 37241, 351, 428, 3404, 4656, 32258, 287, 257, 4077, 6279, 286, 39302, 1918, 11, 475, 326, 338, 655, 502, 13, 50256, 50256, 50256, 50256, 50256], 'label': 9, 'sentence1': "I hope any of the bad guys messing with this stuff die painfully in a green cloud of choking death, but that's just me."}.
-01/27/2021 04:11:33 - INFO - __main__ -   Sample 26225 of the training set: {'attention_mask': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 'idx': 809225, 'input_ids': [26583, 11, 24068, 1276, 307, 1498, 284, 7564, 6428, 25114, 290, 4199, 282, 25114, 35258, 13, 50256, 50256, 50256, 50256, 50256, 50256, 50256, 50256, 50256, 50256, 50256, 50256, 50256, 50256, 50256, 50256], 'label': 12, 'sentence1': 'Therefore, practitioners must be able to recognize malignant and premalignant lesions.'}.
-[2021-01-27 04:11:33,918] [INFO] [engine.py:70:_initialize_parameter_parallel_groups] data_parallel_size: 2, parameter_parallel_size: 2
-[INFO|trainer.py:441] 2021-01-27 04:11:34,556 >> The following columns in the training set don't have a corresponding argument in `GPT2ForSequenceClassification.forward` and have been ignored: sentence1, idx.
-[INFO|trainer.py:441] 2021-01-27 04:11:34,557 >> The following columns in the evaluation set don't have a corresponding argument in `GPT2ForSequenceClassification.forward` and have been ignored: sentence1, idx.
-[INFO|trainer.py:358] 2021-01-27 04:11:34,557 >> Using amp fp16 backend
-[INFO|integrations.py:290] 2021-01-27 04:11:34,558 >> Keeping the `optimizer` config from ds_config.json intact, ignoring any optimizer-specific cl args
-[INFO|integrations.py:323] 2021-01-27 04:11:34,558 >> Keeping the `scheduler` config from ds_config.json intact, ignoring any scheduler-specific cl args
-[INFO|integrations.py:368] 2021-01-27 04:11:34,558 >> Keeping the `fp16` config from ds_config.json intact, ignoring any fp16-specific cl args
-[2021-01-27 04:11:34,558] [INFO] [logging.py:60:log_dist] [Rank 0] DeepSpeed info: version=0.3.10, git-hash=unknown, git-branch=unknown
-[2021-01-27 04:11:34,576] [INFO] [engine.py:70:_initialize_parameter_parallel_groups] data_parallel_size: 2, parameter_parallel_size: 2
-huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
-To disable this warning, you can either:
-	- Avoid using `tokenizers` before the fork if possible
-	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
-huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
-To disable this warning, you can either:
-	- Avoid using `tokenizers` before the fork if possible
-	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
-huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
-To disable this warning, you can either:
-	- Avoid using `tokenizers` before the fork if possible
-	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
-huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
-To disable this warning, you can either:
-	- Avoid using `tokenizers` before the fork if possible
-	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
-huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
-To disable this warning, you can either:
-	- Avoid using `tokenizers` before the fork if possible
-	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
-huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
-To disable this warning, you can either:
-	- Avoid using `tokenizers` before the fork if possible
-	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
-huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
-To disable this warning, you can either:
-	- Avoid using `tokenizers` before the fork if possible
-	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
-huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
-To disable this warning, you can either:
-	- Avoid using `tokenizers` before the fork if possible
-	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
-huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
-To disable this warning, you can either:
-	- Avoid using `tokenizers` before the fork if possible
-	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
-huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
-To disable this warning, you can either:
-	- Avoid using `tokenizers` before the fork if possible
-	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
-Using /home/nlp/.cache/torch_extensions as PyTorch extensions root...
-Using /home/nlp/.cache/torch_extensions as PyTorch extensions root...
-huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
-To disable this warning, you can either:
-	- Avoid using `tokenizers` before the fork if possible
-	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
-huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
-To disable this warning, you can either:
-	- Avoid using `tokenizers` before the fork if possible
-	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
-huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
-To disable this warning, you can either:
-	- Avoid using `tokenizers` before the fork if possible
-	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
-Detected CUDA files, patching ldflags
-Emitting ninja build file /home/nlp/.cache/torch_extensions/cpu_adam/build.ninja...
-Building extension module cpu_adam...
-Allowing ninja to set a default number of workers... (overridable by setting the environment variable MAX_JOBS=N)
-huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
-To disable this warning, you can either:
-	- Avoid using `tokenizers` before the fork if possible
-	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
-ninja: no work to do.
-Loading extension module cpu_adam...
-Time to load cpu_adam op: 1.1755867004394531 seconds
-Loading extension module cpu_adam...
-Time to load cpu_adam op: 1.152785301208496 seconds
-Adam Optimizer #0 is created with AVX512 arithmetic capability.
-Config: alpha=0.000030, betas=(0.900000, 0.999000), weight_decay=0.000000, adam_w=1
-Checking ZeRO support for optimizer=DeepSpeedCPUAdam type=<class 'deepspeed.ops.adam.cpu_adam.DeepSpeedCPUAdam'>
-Adam Optimizer #0 is created with AVX512 arithmetic capability.
-Config: alpha=0.000030, betas=(0.900000, 0.999000), weight_decay=0.000000, adam_w=1
-[2021-01-27 04:11:40,139] [INFO] [engine.py:638:_configure_zero_optimizer] Creating fp16 ZeRO stage 2 optimizer
-[2021-01-27 04:11:40,139] [INFO] [engine.py:516:_configure_optimizer] Using DeepSpeed Optimizer param name adam as basic optimizer
-[2021-01-27 04:11:40,139] [INFO] [engine.py:521:_configure_optimizer] DeepSpeed Basic Optimizer = DeepSpeedCPUAdam (
-Parameter Group 0
-    amsgrad: False
-    betas: [0.9, 0.999]
-    bias_correction: True
-    eps: 1e-08
-    lr: 3e-05
-    weight_decay: 3e-07
-)
-Checking ZeRO support for optimizer=DeepSpeedCPUAdam type=<class 'deepspeed.ops.adam.cpu_adam.DeepSpeedCPUAdam'>
-[2021-01-27 04:11:40,140] [INFO] [engine.py:638:_configure_zero_optimizer] Creating fp16 ZeRO stage 2 optimizer
-Using /home/nlp/.cache/torch_extensions as PyTorch extensions root...
-Using /home/nlp/.cache/torch_extensions as PyTorch extensions root...
-huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
-To disable this warning, you can either:
-	- Avoid using `tokenizers` before the fork if possible
-	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
-huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
-To disable this warning, you can either:
-	- Avoid using `tokenizers` before the fork if possible
-	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
-huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
-To disable this warning, you can either:
-	- Avoid using `tokenizers` before the fork if possible
-	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
-Emitting ninja build file /home/nlp/.cache/torch_extensions/utils/build.ninja...
-Building extension module utils...
-Allowing ninja to set a default number of workers... (overridable by setting the environment variable MAX_JOBS=N)
-huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
-To disable this warning, you can either:
-	- Avoid using `tokenizers` before the fork if possible
-	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
-ninja: no work to do.
-Loading extension module utils...
-Time to load utils op: 0.9904367923736572 seconds
-[2021-01-27 04:11:41,130] [INFO] [stage2.py:130:__init__] Reduce bucket size 200000000.0
-[2021-01-27 04:11:41,131] [INFO] [stage2.py:131:__init__] Allgather bucket size 200000000.0
-[2021-01-27 04:11:41,131] [INFO] [stage2.py:132:__init__] CPU Offload: True
-Loading extension module utils...
-Time to load utils op: 1.01235032081604 seconds
-group 0 param 0 = 387126400
-group 0 param 0 = 387126400
-[2021-01-27 04:11:44,219] [INFO] [engine.py:551:_configure_optimizer] DeepSpeed Final Optimizer = <deepspeed.runtime.zero.stage2.FP16_DeepSpeedZeroOptimizer object at 0x7f09e008bcd0>
-Using /home/nlp/.cache/torch_extensions as PyTorch extensions root...
-No modifications detected for re-loaded extension module utils, skipping build step...
-Loading extension module utils...
-Time to load utils op: 0.0011854171752929688 seconds
-[2021-01-27 04:11:44,354] [INFO] [stage2.py:399:__init__] optimizer state initialized
-[2021-01-27 04:11:44,355] [INFO] [engine.py:551:_configure_optimizer] DeepSpeed Final Optimizer = <deepspeed.runtime.zero.stage2.FP16_DeepSpeedZeroOptimizer object at 0x7f9af00a2d90>
-[2021-01-27 04:11:44,355] [INFO] [engine.py:381:_configure_lr_scheduler] DeepSpeed using configured LR scheduler = WarmupLR
-[2021-01-27 04:11:44,355] [INFO] [logging.py:60:log_dist] [Rank 0] DeepSpeed LR Scheduler = <deepspeed.runtime.lr_schedules.WarmupLR object at 0x7f9ae0300a90>
-[2021-01-27 04:11:44,355] [INFO] [logging.py:60:log_dist] [Rank 0] step=0, skipped=0, lr=[3e-05], mom=[[0.9, 0.999]]
-[2021-01-27 04:11:44,355] [INFO] [config.py:705:print] DeepSpeedEngine configuration:
-[2021-01-27 04:11:44,356] [INFO] [config.py:709:print]   activation_checkpointing_config  <deepspeed.runtime.activation_checkpointing.config.DeepSpeedActivationCheckpointingConfig object at 0x7f9af00a2c10>
-[2021-01-27 04:11:44,356] [INFO] [config.py:709:print]   allreduce_always_fp32 ........ False
-[2021-01-27 04:11:44,356] [INFO] [config.py:709:print]   amp_enabled .................. False
-[2021-01-27 04:11:44,356] [INFO] [config.py:709:print]   amp_params ................... False
-[2021-01-27 04:11:44,356] [INFO] [config.py:709:print]   disable_allgather ............ False
-[2021-01-27 04:11:44,356] [INFO] [config.py:709:print]   dump_state ................... False
-[2021-01-27 04:11:44,356] [INFO] [config.py:709:print]   dynamic_loss_scale_args ...... {'init_scale': 4294967296, 'scale_window': 1000, 'delayed_shift': 2, 'min_scale': 1}
-[2021-01-27 04:11:44,356] [INFO] [config.py:709:print]   elasticity_enabled ........... False
-[2021-01-27 04:11:44,356] [INFO] [config.py:709:print]   fp16_enabled ................. True
-[2021-01-27 04:11:44,356] [INFO] [config.py:709:print]   global_rank .................. 0
-[2021-01-27 04:11:44,356] [INFO] [config.py:709:print]   gradient_accumulation_steps .. 1
-[2021-01-27 04:11:44,356] [INFO] [config.py:709:print]   gradient_clipping ............ 1.0
-[2021-01-27 04:11:44,356] [INFO] [config.py:709:print]   gradient_predivide_factor .... 1.0
-[2021-01-27 04:11:44,356] [INFO] [config.py:709:print]   initial_dynamic_scale ........ 4294967296
-[2021-01-27 04:11:44,356] [INFO] [config.py:709:print]   loss_scale ................... 0
-[2021-01-27 04:11:44,356] [INFO] [config.py:709:print]   memory_breakdown ............. False
-[2021-01-27 04:11:44,356] [INFO] [config.py:709:print]   optimizer_legacy_fusion ...... False
-[2021-01-27 04:11:44,356] [INFO] [config.py:709:print]   optimizer_name ............... adam
-[2021-01-27 04:11:44,356] [INFO] [config.py:709:print]   optimizer_params ............. {'lr': 3e-05, 'betas': [0.9, 0.999], 'eps': 1e-08, 'weight_decay': 3e-07}
-[2021-01-27 04:11:44,356] [INFO] [config.py:709:print]   pipeline ..................... {'stages': 'auto', 'partition': 'best', 'seed_layers': False, 'activation_checkpoint_interval': 0}
-[2021-01-27 04:11:44,356] [INFO] [config.py:709:print]   pld_enabled .................. False
-[2021-01-27 04:11:44,356] [INFO] [config.py:709:print]   pld_params ................... False
-[2021-01-27 04:11:44,356] [INFO] [config.py:709:print]   prescale_gradients ........... False
-[2021-01-27 04:11:44,356] [INFO] [config.py:709:print]   scheduler_name ............... WarmupLR
-[2021-01-27 04:11:44,356] [INFO] [config.py:709:print]   scheduler_params ............. {'warmup_min_lr': 0, 'warmup_max_lr': 3e-05, 'warmup_num_steps': 500}
-[2021-01-27 04:11:44,356] [INFO] [config.py:709:print]   sparse_attention ............. None
-[2021-01-27 04:11:44,356] [INFO] [config.py:709:print]   sparse_gradients_enabled ..... False
-[2021-01-27 04:11:44,356] [INFO] [config.py:709:print]   steps_per_print .............. 10
-[2021-01-27 04:11:44,356] [INFO] [config.py:709:print]   tensorboard_enabled .......... False
-[2021-01-27 04:11:44,356] [INFO] [config.py:709:print]   tensorboard_job_name ......... DeepSpeedJobName
-[2021-01-27 04:11:44,356] [INFO] [config.py:709:print]   tensorboard_output_path ...... 
-[2021-01-27 04:11:44,356] [INFO] [config.py:709:print]   train_batch_size ............. 512
-[2021-01-27 04:11:44,356] [INFO] [config.py:709:print]   train_micro_batch_size_per_gpu  256
-[2021-01-27 04:11:44,356] [INFO] [config.py:709:print]   wall_clock_breakdown ......... False
-[2021-01-27 04:11:44,356] [INFO] [config.py:709:print]   world_size ................... 2
-[2021-01-27 04:11:44,356] [INFO] [config.py:709:print]   zero_allow_untested_optimizer  False
-[2021-01-27 04:11:44,356] [INFO] [config.py:709:print]   zero_config .................. {
-    "allgather_bucket_size": 200000000.0,
-    "allgather_partitions": true,
-    "contiguous_gradients": true,
-    "cpu_offload": true,
-    "elastic_checkpoint": true,
-    "load_from_fp32_weights": true,
-    "overlap_comm": true,
-    "reduce_bucket_size": 200000000.0,
-    "reduce_scatter": true,
-    "stage": 2
-}
-[2021-01-27 04:11:44,356] [INFO] [config.py:709:print]   zero_enabled ................. True
-[2021-01-27 04:11:44,356] [INFO] [config.py:709:print]   zero_optimization_stage ...... 2
-[2021-01-27 04:11:44,357] [INFO] [config.py:711:print]   json = {
-    "fp16":{
-        "enabled":true,
-        "hysteresis":2,
-        "loss_scale":0,
-        "loss_scale_window":1000,
-        "min_loss_scale":1
-    },
-    "gradient_accumulation_steps":1,
-    "gradient_clipping":1.0,
-    "optimizer":{
-        "params":{
-            "betas":[
-                0.9,
-                0.999
-            ],
-            "eps":1e-08,
-            "lr":3e-05,
-            "weight_decay":3e-07
-        },
-        "type":"Adam"
-    },
-    "scheduler":{
-        "params":{
-            "warmup_max_lr":3e-05,
-            "warmup_min_lr":0,
-            "warmup_num_steps":500
-        },
-        "type":"WarmupLR"
-    },
-    "train_micro_batch_size_per_gpu":256,
-    "zero_optimization":{
-        "allgather_bucket_size":200000000.0,
-        "allgather_partitions":true,
-        "contiguous_gradients":true,
-        "cpu_offload":true,
-        "overlap_comm":true,
-        "reduce_bucket_size":200000000.0,
-        "reduce_scatter":true,
-        "stage":2
-    }
-}
-Using /home/nlp/.cache/torch_extensions as PyTorch extensions root...
-No modifications detected for re-loaded extension module utils, skipping build step...
-Loading extension module utils...
-Time to load utils op: 0.0009827613830566406 seconds
-[INFO|trainer.py:791] 2021-01-27 04:11:44,511 >> ***** Running training *****
-[INFO|trainer.py:792] 2021-01-27 04:11:44,511 >>   Num examples = 783000
-[INFO|trainer.py:793] 2021-01-27 04:11:44,511 >>   Num Epochs = 3
-[INFO|trainer.py:794] 2021-01-27 04:11:44,511 >>   Instantaneous batch size per device = 256
-[INFO|trainer.py:795] 2021-01-27 04:11:44,511 >>   Total train batch size (w. parallel, distributed & accumulation) = 512
-[INFO|trainer.py:796] 2021-01-27 04:11:44,511 >>   Gradient Accumulation steps = 1
-[INFO|trainer.py:797] 2021-01-27 04:11:44,511 >>   Total optimization steps = 4590
-  0%|          | 0/4590 [00:00<?, ?it/s][2021-01-27 04:11:46,451] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 4294967296, reducing to 4294967296
-[2021-01-27 04:11:46,451] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 4294967296, reducing to 4294967296
-  0%|          | 1/4590 [00:01<1:57:09,  1.53s/it][2021-01-27 04:11:47,894] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 4294967296, reducing to 2147483648.0
-[2021-01-27 04:11:47,894] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 4294967296, reducing to 2147483648.0
-  0%|          | 2/4590 [00:02<1:55:05,  1.51s/it][2021-01-27 04:11:49,337] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 2147483648.0, reducing to 1073741824.0
-[2021-01-27 04:11:49,337] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 2147483648.0, reducing to 1073741824.0
-  0%|          | 3/4590 [00:04<1:53:38,  1.49s/it][2021-01-27 04:11:50,785] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 1073741824.0, reducing to 536870912.0
-[2021-01-27 04:11:50,785] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 1073741824.0, reducing to 536870912.0
-  0%|          | 4/4590 [00:05<1:52:44,  1.48s/it][2021-01-27 04:11:52,231] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 536870912.0, reducing to 268435456.0
-[2021-01-27 04:11:52,231] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 536870912.0, reducing to 268435456.0
-  0%|          | 5/4590 [00:07<1:52:02,  1.47s/it][2021-01-27 04:11:53,675] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 268435456.0, reducing to 134217728.0
-[2021-01-27 04:11:53,675] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 268435456.0, reducing to 134217728.0
-  0%|          | 6/4590 [00:08<1:51:31,  1.46s/it][2021-01-27 04:11:55,120] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 134217728.0, reducing to 67108864.0
-[2021-01-27 04:11:55,120] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 134217728.0, reducing to 67108864.0
-  0%|          | 7/4590 [00:10<1:51:09,  1.46s/it][2021-01-27 04:11:56,566] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 67108864.0, reducing to 33554432.0
-[2021-01-27 04:11:56,566] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 67108864.0, reducing to 33554432.0
-  0%|          | 8/4590 [00:11<1:50:54,  1.45s/it][2021-01-27 04:11:58,012] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 33554432.0, reducing to 16777216.0
-[2021-01-27 04:11:58,012] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 33554432.0, reducing to 16777216.0
-  0%|          | 9/4590 [00:13<1:50:45,  1.45s/it][2021-01-27 04:11:59,458] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 16777216.0, reducing to 8388608.0
-[2021-01-27 04:11:59,458] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 16777216.0, reducing to 8388608.0
-  0%|          | 10/4590 [00:14<1:50:36,  1.45s/it][2021-01-27 04:12:00,903] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 8388608.0, reducing to 4194304.0
-[2021-01-27 04:12:00,903] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 8388608.0, reducing to 4194304.0
-  0%|          | 11/4590 [00:15<1:50:29,  1.45s/it][2021-01-27 04:12:02,349] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 4194304.0, reducing to 2097152.0
-[2021-01-27 04:12:02,349] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 4194304.0, reducing to 2097152.0
-  0%|          | 12/4590 [00:17<1:50:25,  1.45s/it][2021-01-27 04:12:03,797] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 2097152.0, reducing to 1048576.0
-[2021-01-27 04:12:03,797] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 2097152.0, reducing to 1048576.0
-  0%|          | 13/4590 [00:18<1:50:25,  1.45s/it][2021-01-27 04:12:05,245] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 1048576.0, reducing to 524288.0
-[2021-01-27 04:12:05,245] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 1048576.0, reducing to 524288.0
-  0%|          | 14/4590 [00:20<1:50:24,  1.45s/it][2021-01-27 04:12:06,693] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 524288.0, reducing to 262144.0
-[2021-01-27 04:12:06,694] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 524288.0, reducing to 262144.0
-  0%|          | 15/4590 [00:21<1:50:24,  1.45s/it][2021-01-27 04:12:08,141] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 262144.0, reducing to 131072.0
-[2021-01-27 04:12:08,141] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 262144.0, reducing to 131072.0
-  0%|          | 16/4590 [00:23<1:50:22,  1.45s/it][2021-01-27 04:12:09,588] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 131072.0, reducing to 65536.0
-[2021-01-27 04:12:09,588] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 131072.0, reducing to 65536.0
-  0%|          | 17/4590 [00:24<1:50:20,  1.45s/it][2021-01-27 04:12:11,036] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 65536.0, reducing to 32768.0
-[2021-01-27 04:12:11,036] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 65536.0, reducing to 32768.0
-  0%|          | 18/4590 [00:26<1:50:19,  1.45s/it][2021-01-27 04:12:12,494] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 32768.0, reducing to 16384.0
-[2021-01-27 04:12:12,494] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 32768.0, reducing to 16384.0
-  0%|          | 19/4590 [00:27<1:50:31,  1.45s/it]rank=0 time (ms) | optimizer_gradients: 50.70 | optimizer_step: 470.07 | optimizer_allgather: 1355.05
-  0%|          | 20/4590 [00:30<2:33:40,  2.02s/it]rank=0 time (ms) | optimizer_gradients: 49.65 | optimizer_step: 350.86 | optimizer_allgather: 1355.10
-  0%|          | 21/4590 [00:34<3:01:04,  2.38s/it]rank=0 time (ms) | optimizer_gradients: 49.14 | optimizer_step: 341.49 | optimizer_allgather: 1459.14
-  0%|          | 22/4590 [00:37<3:22:24,  2.66s/it][2021-01-27 04:12:23,826] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 16384.0, reducing to 8192.0
-[2021-01-27 04:12:23,826] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 16384.0, reducing to 8192.0
-  1%|          | 23/4590 [00:38<2:54:59,  2.30s/it]rank=0 time (ms) | optimizer_gradients: 49.57 | optimizer_step: 339.43 | optimizer_allgather: 1374.65
-  1%|          | 24/4590 [00:42<3:16:11,  2.58s/it]rank=0 time (ms) | optimizer_gradients: 49.18 | optimizer_step: 336.08 | optimizer_allgather: 1360.46
-  1%|          | 25/4590 [00:45<3:30:40,  2.77s/it]rank=0 time (ms) | optimizer_gradients: 49.01 | optimizer_step: 336.11 | optimizer_allgather: 1360.92
-  1%|          | 26/4590 [00:48<3:40:46,  2.90s/it]rank=0 time (ms) | optimizer_gradients: 49.25 | optimizer_step: 336.64 | optimizer_allgather: 1358.64
-  1%|          | 27/4590 [00:51<3:47:48,  3.00s/it][2021-01-27 04:12:38,156] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 8192.0, reducing to 4096.0
-[2021-01-27 04:12:38,156] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 8192.0, reducing to 4096.0
-  1%|          | 28/4590 [00:53<3:12:43,  2.53s/it]rank=0 time (ms) | optimizer_gradients: 49.15 | optimizer_step: 336.16 | optimizer_allgather: 1358.53
-  1%|          | 29/4590 [00:56<3:31:00,  2.78s/it]rank=0 time (ms) | optimizer_gradients: 49.19 | optimizer_step: 336.08 | optimizer_allgather: 1360.16
-  1%|          | 30/4590 [00:59<3:40:56,  2.91s/it]rank=0 time (ms) | optimizer_gradients: 49.18 | optimizer_step: 338.24 | optimizer_allgather: 1358.17
-  1%|          | 31/4590 [01:03<3:47:50,  3.00s/it]rank=0 time (ms) | optimizer_gradients: 49.53 | optimizer_step: 338.63 | optimizer_allgather: 1357.27
-  1%|          | 32/4590 [01:06<3:52:40,  3.06s/it]rank=0 time (ms) | optimizer_gradients: 49.09 | optimizer_step: 337.42 | optimizer_allgather: 1358.21
-  1%|          | 33/4590 [01:09<3:56:01,  3.11s/it]rank=0 time (ms) | optimizer_gradients: 49.30 | optimizer_step: 337.49 | optimizer_allgather: 1364.84
-  1%|          | 34/4590 [01:12<3:58:29,  3.14s/it]rank=0 time (ms) | optimizer_gradients: 49.16 | optimizer_step: 338.04 | optimizer_allgather: 1358.89
-  1%|          | 35/4590 [01:15<4:00:05,  3.16s/it]rank=0 time (ms) | optimizer_gradients: 49.19 | optimizer_step: 337.97 | optimizer_allgather: 1357.32
-  1%|          | 36/4590 [01:19<4:01:08,  3.18s/it]rank=0 time (ms) | optimizer_gradients: 49.23 | optimizer_step: 339.92 | optimizer_allgather: 1357.71
-  1%|          | 37/4590 [01:22<4:01:57,  3.19s/it]rank=0 time (ms) | optimizer_gradients: 50.27 | optimizer_step: 336.15 | optimizer_allgather: 1358.23
-  1%|          | 38/4590 [01:25<4:02:25,  3.20s/it]rank=0 time (ms) | optimizer_gradients: 49.04 | optimizer_step: 336.95 | optimizer_allgather: 1357.83
-  1%|          | 39/4590 [01:28<4:02:42,  3.20s/it]rank=0 time (ms) | optimizer_gradients: 49.18 | optimizer_step: 336.91 | optimizer_allgather: 1358.76
-  1%|          | 40/4590 [01:31<4:02:58,  3.20s/it]rank=0 time (ms) | optimizer_gradients: 49.22 | optimizer_step: 336.10 | optimizer_allgather: 1359.94
-  1%|          | 41/4590 [01:35<4:03:07,  3.21s/it][2021-01-27 04:13:21,513] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 4096.0, reducing to 2048.0
-[2021-01-27 04:13:21,513] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 4096.0, reducing to 2048.0
-  1%|          | 42/4590 [01:36<3:23:24,  2.68s/it]rank=0 time (ms) | optimizer_gradients: 49.22 | optimizer_step: 336.77 | optimizer_allgather: 1362.59
-  1%|          | 43/4590 [01:39<3:35:26,  2.84s/it][2021-01-27 04:13:26,192] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 2048.0, reducing to 1024.0
-[2021-01-27 04:13:26,192] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 2048.0, reducing to 1024.0
-  1%|          | 44/4590 [01:41<3:04:03,  2.43s/it]rank=0 time (ms) | optimizer_gradients: 49.11 | optimizer_step: 336.27 | optimizer_allgather: 1364.94
-  1%|          | 45/4590 [01:44<3:21:57,  2.67s/it][2021-01-27 04:13:30,876] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 1024.0, reducing to 512.0
-[2021-01-27 04:13:30,876] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 1024.0, reducing to 512.0
-  1%|          | 46/4590 [01:45<2:54:37,  2.31s/it]rank=0 time (ms) | optimizer_gradients: 49.20 | optimizer_step: 338.25 | optimizer_allgather: 1362.25
-  1%|          | 47/4590 [01:49<3:15:16,  2.58s/it]rank=0 time (ms) | optimizer_gradients: 49.25 | optimizer_step: 337.83 | optimizer_allgather: 1361.17
-  1%|          | 48/4590 [01:52<3:29:43,  2.77s/it]rank=0 time (ms) | optimizer_gradients: 49.25 | optimizer_step: 337.73 | optimizer_allgather: 1362.61
-  1%|          | 49/4590 [01:55<3:39:52,  2.91s/it]rank=0 time (ms) | optimizer_gradients: 49.12 | optimizer_step: 339.69 | optimizer_allgather: 1362.13
-  1%|          | 50/4590 [01:58<3:46:58,  3.00s/it]rank=0 time (ms) | optimizer_gradients: 49.12 | optimizer_step: 337.91 | optimizer_allgather: 1362.13
-  1%|          | 51/4590 [02:02<3:51:51,  3.06s/it]rank=0 time (ms) | optimizer_gradients: 49.28 | optimizer_step: 338.29 | optimizer_allgather: 1361.42
-  1%|          | 52/4590 [02:05<3:55:13,  3.11s/it]rank=0 time (ms) | optimizer_gradients: 49.12 | optimizer_step: 338.35 | optimizer_allgather: 1362.25
-  1%|          | 53/4590 [02:08<3:57:37,  3.14s/it]rank=0 time (ms) | optimizer_gradients: 49.32 | optimizer_step: 337.55 | optimizer_allgather: 1364.42
-  1%|          | 54/4590 [02:11<3:59:20,  3.17s/it]rank=0 time (ms) | optimizer_gradients: 49.26 | optimizer_step: 337.98 | optimizer_allgather: 1362.28
-  1%|          | 55/4590 [02:14<4:00:28,  3.18s/it]rank=0 time (ms) | optimizer_gradients: 49.40 | optimizer_step: 338.70 | optimizer_allgather: 1363.16
-  1%|          | 56/4590 [02:18<4:01:20,  3.19s/it]rank=0 time (ms) | optimizer_gradients: 49.13 | optimizer_step: 336.13 | optimizer_allgather: 1365.41
-  1%|          | 57/4590 [02:21<4:01:52,  3.20s/it]rank=0 time (ms) | optimizer_gradients: 49.26 | optimizer_step: 336.34 | optimizer_allgather: 1364.17
-  1%|▏         | 58/4590 [02:24<4:02:12,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.25 | optimizer_step: 336.91 | optimizer_allgather: 1363.19
-  1%|▏         | 59/4590 [02:27<4:02:25,  3.21s/it][2021-01-27 04:14:14,183] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 512.0, reducing to 256.0
-[2021-01-27 04:14:14,183] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 512.0, reducing to 256.0
-  1%|▏         | 60/4590 [02:29<3:22:51,  2.69s/it][2021-01-27 04:14:15,647] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 256.0, reducing to 128.0
-[2021-01-27 04:14:15,647] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 256.0, reducing to 128.0
-  1%|▏         | 61/4590 [02:30<2:55:06,  2.32s/it][2021-01-27 04:14:17,108] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 128.0, reducing to 64.0
-[2021-01-27 04:14:17,108] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 128.0, reducing to 64.0
-  1%|▏         | 62/4590 [02:32<2:35:38,  2.06s/it]rank=0 time (ms) | optimizer_gradients: 49.25 | optimizer_step: 336.22 | optimizer_allgather: 1371.62
-  1%|▏         | 63/4590 [02:35<3:01:51,  2.41s/it]rank=0 time (ms) | optimizer_gradients: 49.13 | optimizer_step: 336.71 | optimizer_allgather: 1364.14
-  1%|▏         | 64/4590 [02:38<3:20:02,  2.65s/it]rank=0 time (ms) | optimizer_gradients: 49.07 | optimizer_step: 337.16 | optimizer_allgather: 1361.73
-  1%|▏         | 65/4590 [02:41<3:32:45,  2.82s/it][2021-01-27 04:14:28,224] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 64.0, reducing to 32.0
-[2021-01-27 04:14:28,225] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 64.0, reducing to 32.0
-  1%|▏         | 66/4590 [02:43<3:01:58,  2.41s/it][2021-01-27 04:14:29,686] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 32.0, reducing to 16.0
-[2021-01-27 04:14:29,686] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 32.0, reducing to 16.0
-  1%|▏         | 67/4590 [02:44<2:40:24,  2.13s/it]rank=0 time (ms) | optimizer_gradients: 49.28 | optimizer_step: 342.29 | optimizer_allgather: 1363.07
-  1%|▏         | 68/4590 [02:47<3:05:02,  2.46s/it]rank=0 time (ms) | optimizer_gradients: 49.23 | optimizer_step: 337.65 | optimizer_allgather: 1362.33
-  2%|▏         | 69/4590 [02:51<3:22:13,  2.68s/it]rank=0 time (ms) | optimizer_gradients: 49.04 | optimizer_step: 338.52 | optimizer_allgather: 1364.86
-  2%|▏         | 70/4590 [02:54<3:34:15,  2.84s/it]rank=0 time (ms) | optimizer_gradients: 49.15 | optimizer_step: 337.36 | optimizer_allgather: 1364.91
-  2%|▏         | 71/4590 [02:57<3:42:38,  2.96s/it][2021-01-27 04:14:44,019] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 16.0, reducing to 8.0
-[2021-01-27 04:14:44,019] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 16.0, reducing to 8.0
-  2%|▏         | 72/4590 [02:59<3:08:49,  2.51s/it]rank=0 time (ms) | optimizer_gradients: 49.17 | optimizer_step: 338.71 | optimizer_allgather: 1361.85
-  2%|▏         | 73/4590 [03:02<3:24:43,  2.72s/it]rank=0 time (ms) | optimizer_gradients: 49.02 | optimizer_step: 336.20 | optimizer_allgather: 1365.48
-  2%|▏         | 74/4590 [03:05<3:35:53,  2.87s/it]rank=0 time (ms) | optimizer_gradients: 48.95 | optimizer_step: 336.11 | optimizer_allgather: 1365.98
-  2%|▏         | 75/4590 [03:08<3:43:39,  2.97s/it]rank=0 time (ms) | optimizer_gradients: 49.02 | optimizer_step: 336.93 | optimizer_allgather: 1364.29
-  2%|▏         | 76/4590 [03:11<3:49:05,  3.05s/it]rank=0 time (ms) | optimizer_gradients: 49.08 | optimizer_step: 336.60 | optimizer_allgather: 1361.42
-  2%|▏         | 77/4590 [03:15<3:52:49,  3.10s/it]rank=0 time (ms) | optimizer_gradients: 49.21 | optimizer_step: 336.19 | optimizer_allgather: 1360.46
-  2%|▏         | 78/4590 [03:18<3:55:26,  3.13s/it][2021-01-27 04:15:04,766] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 8.0, reducing to 4.0
-[2021-01-27 04:15:04,766] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 8.0, reducing to 4.0
-  2%|▏         | 79/4590 [03:19<3:17:44,  2.63s/it]rank=0 time (ms) | optimizer_gradients: 49.31 | optimizer_step: 337.90 | optimizer_allgather: 1361.59
-  2%|▏         | 80/4590 [03:23<3:30:48,  2.80s/it]rank=0 time (ms) | optimizer_gradients: 49.40 | optimizer_step: 337.28 | optimizer_allgather: 1362.33
-  2%|▏         | 81/4590 [03:26<3:39:55,  2.93s/it]rank=0 time (ms) | optimizer_gradients: 48.99 | optimizer_step: 337.48 | optimizer_allgather: 1362.25
-  2%|▏         | 82/4590 [03:29<3:46:22,  3.01s/it]rank=0 time (ms) | optimizer_gradients: 49.12 | optimizer_step: 337.90 | optimizer_allgather: 1362.57
-  2%|▏         | 83/4590 [03:32<3:50:48,  3.07s/it]rank=0 time (ms) | optimizer_gradients: 49.54 | optimizer_step: 337.49 | optimizer_allgather: 1361.96
-  2%|▏         | 84/4590 [03:35<3:53:54,  3.11s/it]rank=0 time (ms) | optimizer_gradients: 49.50 | optimizer_step: 341.24 | optimizer_allgather: 1361.73
-  2%|▏         | 85/4590 [03:39<3:56:09,  3.15s/it]rank=0 time (ms) | optimizer_gradients: 49.05 | optimizer_step: 336.26 | optimizer_allgather: 1364.10
-  2%|▏         | 86/4590 [03:42<3:57:36,  3.17s/it]rank=0 time (ms) | optimizer_gradients: 48.89 | optimizer_step: 336.17 | optimizer_allgather: 1366.45
-  2%|▏         | 87/4590 [03:45<3:58:42,  3.18s/it]rank=0 time (ms) | optimizer_gradients: 49.02 | optimizer_step: 336.21 | optimizer_allgather: 1363.62
-  2%|▏         | 88/4590 [03:48<3:59:22,  3.19s/it]rank=0 time (ms) | optimizer_gradients: 49.87 | optimizer_step: 336.12 | optimizer_allgather: 1362.42
-  2%|▏         | 89/4590 [03:51<3:59:47,  3.20s/it]rank=0 time (ms) | optimizer_gradients: 49.28 | optimizer_step: 336.11 | optimizer_allgather: 1363.82
-  2%|▏         | 90/4590 [03:55<4:00:05,  3.20s/it]rank=0 time (ms) | optimizer_gradients: 49.22 | optimizer_step: 337.08 | optimizer_allgather: 1363.20
-  2%|▏         | 91/4590 [03:58<4:00:17,  3.20s/it]rank=0 time (ms) | optimizer_gradients: 49.26 | optimizer_step: 337.15 | optimizer_allgather: 1364.06
-  2%|▏         | 92/4590 [04:01<4:00:26,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.08 | optimizer_step: 337.42 | optimizer_allgather: 1363.12
-  2%|▏         | 93/4590 [04:04<4:00:29,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.26 | optimizer_step: 337.75 | optimizer_allgather: 1363.06
-  2%|▏         | 94/4590 [04:08<4:00:31,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.18 | optimizer_step: 337.18 | optimizer_allgather: 1362.38
-  2%|▏         | 95/4590 [04:11<4:00:31,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.28 | optimizer_step: 337.45 | optimizer_allgather: 1364.44
-  2%|▏         | 96/4590 [04:14<4:00:34,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.29 | optimizer_step: 336.01 | optimizer_allgather: 1364.33
-  2%|▏         | 97/4590 [04:17<4:00:33,  3.21s/it][2021-01-27 04:16:04,061] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 4.0, reducing to 2.0
-[2021-01-27 04:16:04,061] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 4.0, reducing to 2.0
-  2%|▏         | 98/4590 [04:19<3:21:09,  2.69s/it]rank=0 time (ms) | optimizer_gradients: 49.22 | optimizer_step: 336.04 | optimizer_allgather: 1364.25
-  2%|▏         | 99/4590 [04:22<3:32:59,  2.85s/it]rank=0 time (ms) | optimizer_gradients: 49.12 | optimizer_step: 336.20 | optimizer_allgather: 1362.83
-  2%|▏         | 100/4590 [04:25<3:41:08,  2.96s/it]rank=0 time (ms) | optimizer_gradients: 49.24 | optimizer_step: 336.87 | optimizer_allgather: 1363.37
-  2%|▏         | 101/4590 [04:28<3:46:50,  3.03s/it]rank=0 time (ms) | optimizer_gradients: 49.36 | optimizer_step: 336.06 | optimizer_allgather: 1363.26
-  2%|▏         | 102/4590 [04:31<3:50:48,  3.09s/it]rank=0 time (ms) | optimizer_gradients: 49.10 | optimizer_step: 337.36 | optimizer_allgather: 1364.81
-  2%|▏         | 103/4590 [04:35<3:53:38,  3.12s/it]rank=0 time (ms) | optimizer_gradients: 49.00 | optimizer_step: 337.24 | optimizer_allgather: 1363.23
-  2%|▏         | 104/4590 [04:38<3:55:33,  3.15s/it]rank=0 time (ms) | optimizer_gradients: 49.47 | optimizer_step: 337.23 | optimizer_allgather: 1362.73
-  2%|▏         | 105/4590 [04:41<3:56:54,  3.17s/it]rank=0 time (ms) | optimizer_gradients: 49.15 | optimizer_step: 337.48 | optimizer_allgather: 1362.57
-  2%|▏         | 106/4590 [04:44<3:57:47,  3.18s/it]rank=0 time (ms) | optimizer_gradients: 49.10 | optimizer_step: 337.40 | optimizer_allgather: 1362.72
-  2%|▏         | 107/4590 [04:48<3:58:25,  3.19s/it]rank=0 time (ms) | optimizer_gradients: 49.17 | optimizer_step: 338.22 | optimizer_allgather: 1361.64
-  2%|▏         | 108/4590 [04:51<3:58:53,  3.20s/it]rank=0 time (ms) | optimizer_gradients: 49.09 | optimizer_step: 337.12 | optimizer_allgather: 1365.90
-  2%|▏         | 109/4590 [04:54<3:59:12,  3.20s/it]rank=0 time (ms) | optimizer_gradients: 51.11 | optimizer_step: 335.94 | optimizer_allgather: 1362.47
-  2%|▏         | 110/4590 [04:57<3:59:20,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.00 | optimizer_step: 336.03 | optimizer_allgather: 1364.08
-  2%|▏         | 111/4590 [05:00<3:59:24,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.07 | optimizer_step: 336.09 | optimizer_allgather: 1362.96
-  2%|▏         | 112/4590 [05:04<3:59:25,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.42 | optimizer_step: 336.11 | optimizer_allgather: 1363.32
-  2%|▏         | 113/4590 [05:07<3:59:25,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.07 | optimizer_step: 336.78 | optimizer_allgather: 1364.07
-  2%|▏         | 114/4590 [05:10<3:59:26,  3.21s/it][2021-01-27 04:16:56,916] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 2.0, reducing to 1.0
-[2021-01-27 04:16:56,916] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 2.0, reducing to 1.0
-  3%|▎         | 115/4590 [05:11<3:20:12,  2.68s/it][2021-01-27 04:16:58,371] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 1.0, reducing to 1
-[2021-01-27 04:16:58,372] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 1.0, reducing to 1
-  3%|▎         | 116/4590 [05:13<2:52:41,  2.32s/it]rank=0 time (ms) | optimizer_gradients: 49.27 | optimizer_step: 337.34 | optimizer_allgather: 1363.89
-  3%|▎         | 117/4590 [05:16<3:12:38,  2.58s/it]rank=0 time (ms) | optimizer_gradients: 49.13 | optimizer_step: 337.55 | optimizer_allgather: 1362.19
-  3%|▎         | 118/4590 [05:19<3:26:36,  2.77s/it]rank=0 time (ms) | optimizer_gradients: 49.07 | optimizer_step: 338.74 | optimizer_allgather: 1360.38
-  3%|▎         | 119/4590 [05:23<3:36:19,  2.90s/it]rank=0 time (ms) | optimizer_gradients: 49.03 | optimizer_step: 337.66 | optimizer_allgather: 1365.59
-  3%|▎         | 120/4590 [05:26<3:43:18,  3.00s/it]rank=0 time (ms) | optimizer_gradients: 49.34 | optimizer_step: 337.39 | optimizer_allgather: 1363.81
-  3%|▎         | 121/4590 [05:29<3:48:06,  3.06s/it][2021-01-27 04:17:15,891] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 1, reducing to 1
-[2021-01-27 04:17:15,891] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 1, reducing to 1
-  3%|▎         | 122/4590 [05:30<3:12:12,  2.58s/it]rank=0 time (ms) | optimizer_gradients: 49.21 | optimizer_step: 341.22 | optimizer_allgather: 1362.18
-  3%|▎         | 123/4590 [05:34<3:26:19,  2.77s/it]rank=0 time (ms) | optimizer_gradients: 49.25 | optimizer_step: 336.11 | optimizer_allgather: 1363.36
-  3%|▎         | 124/4590 [05:37<3:36:07,  2.90s/it]rank=0 time (ms) | optimizer_gradients: 49.15 | optimizer_step: 336.09 | optimizer_allgather: 1363.38
-  3%|▎         | 125/4590 [05:40<3:42:57,  3.00s/it]rank=0 time (ms) | optimizer_gradients: 49.21 | optimizer_step: 336.71 | optimizer_allgather: 1362.86
-  3%|▎         | 126/4590 [05:43<3:47:42,  3.06s/it]rank=0 time (ms) | optimizer_gradients: 49.94 | optimizer_step: 336.12 | optimizer_allgather: 1362.49
-  3%|▎         | 127/4590 [05:47<3:51:01,  3.11s/it]rank=0 time (ms) | optimizer_gradients: 49.20 | optimizer_step: 336.14 | optimizer_allgather: 1363.17
-  3%|▎         | 128/4590 [05:50<3:53:18,  3.14s/it]rank=0 time (ms) | optimizer_gradients: 49.17 | optimizer_step: 337.22 | optimizer_allgather: 1362.92
-  3%|▎         | 129/4590 [05:53<3:54:56,  3.16s/it]rank=0 time (ms) | optimizer_gradients: 49.38 | optimizer_step: 337.25 | optimizer_allgather: 1362.84
-  3%|▎         | 130/4590 [05:56<3:56:00,  3.18s/it][2021-01-27 04:17:43,041] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 1, reducing to 1
-[2021-01-27 04:17:43,041] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 1, reducing to 1
-  3%|▎         | 131/4590 [05:58<3:17:36,  2.66s/it]rank=0 time (ms) | optimizer_gradients: 49.28 | optimizer_step: 337.54 | optimizer_allgather: 1362.86
-  3%|▎         | 132/4590 [06:01<3:29:51,  2.82s/it]rank=0 time (ms) | optimizer_gradients: 49.23 | optimizer_step: 337.78 | optimizer_allgather: 1362.23
-  3%|▎         | 133/4590 [06:04<3:38:25,  2.94s/it]rank=0 time (ms) | optimizer_gradients: 49.43 | optimizer_step: 338.71 | optimizer_allgather: 1364.21
-  3%|▎         | 134/4590 [06:07<3:44:30,  3.02s/it]rank=0 time (ms) | optimizer_gradients: 49.20 | optimizer_step: 338.93 | optimizer_allgather: 1361.67
-  3%|▎         | 135/4590 [06:10<3:48:39,  3.08s/it]rank=0 time (ms) | optimizer_gradients: 49.67 | optimizer_step: 336.15 | optimizer_allgather: 1366.08
-  3%|▎         | 136/4590 [06:14<3:51:39,  3.12s/it]rank=0 time (ms) | optimizer_gradients: 49.12 | optimizer_step: 336.08 | optimizer_allgather: 1365.81
-  3%|▎         | 137/4590 [06:17<3:53:40,  3.15s/it]rank=0 time (ms) | optimizer_gradients: 49.19 | optimizer_step: 336.16 | optimizer_allgather: 1365.66
-  3%|▎         | 138/4590 [06:20<3:55:03,  3.17s/it]rank=0 time (ms) | optimizer_gradients: 49.22 | optimizer_step: 336.76 | optimizer_allgather: 1363.97
-  3%|▎         | 139/4590 [06:23<3:55:59,  3.18s/it]rank=0 time (ms) | optimizer_gradients: 49.35 | optimizer_step: 336.01 | optimizer_allgather: 1365.35
-  3%|▎         | 140/4590 [06:27<3:56:39,  3.19s/it]rank=0 time (ms) | optimizer_gradients: 49.11 | optimizer_step: 338.26 | optimizer_allgather: 1361.14
-  3%|▎         | 141/4590 [06:30<3:57:01,  3.20s/it]rank=0 time (ms) | optimizer_gradients: 49.22 | optimizer_step: 338.35 | optimizer_allgather: 1362.16
-  3%|▎         | 142/4590 [06:33<3:57:19,  3.20s/it]rank=0 time (ms) | optimizer_gradients: 48.97 | optimizer_step: 337.37 | optimizer_allgather: 1361.49
-  3%|▎         | 143/4590 [06:36<3:57:27,  3.20s/it]rank=0 time (ms) | optimizer_gradients: 49.40 | optimizer_step: 337.16 | optimizer_allgather: 1362.02
-  3%|▎         | 144/4590 [06:39<3:57:33,  3.21s/it][2021-01-27 04:18:26,258] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 1, reducing to 1
-[2021-01-27 04:18:26,258] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 1, reducing to 1
-  3%|▎         | 145/4590 [06:41<3:18:37,  2.68s/it][2021-01-27 04:18:27,716] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 1, reducing to 1
-[2021-01-27 04:18:27,716] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 1, reducing to 1
-  3%|▎         | 146/4590 [06:42<2:51:24,  2.31s/it]rank=0 time (ms) | optimizer_gradients: 49.12 | optimizer_step: 338.61 | optimizer_allgather: 1361.86
-  3%|▎         | 147/4590 [06:46<3:11:18,  2.58s/it][2021-01-27 04:18:32,385] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 1, reducing to 1
-[2021-01-27 04:18:32,385] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 1, reducing to 1
-  3%|▎         | 148/4590 [06:47<2:46:15,  2.25s/it]rank=0 time (ms) | optimizer_gradients: 49.26 | optimizer_step: 338.95 | optimizer_allgather: 1362.33
-  3%|▎         | 149/4590 [06:50<3:07:42,  2.54s/it][2021-01-27 04:18:37,056] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 1, reducing to 1
-[2021-01-27 04:18:37,056] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 1, reducing to 1
-  3%|▎         | 150/4590 [06:52<2:43:43,  2.21s/it]rank=0 time (ms) | optimizer_gradients: 49.18 | optimizer_step: 336.12 | optimizer_allgather: 1364.86
-  3%|▎         | 151/4590 [06:55<3:05:50,  2.51s/it]rank=0 time (ms) | optimizer_gradients: 50.46 | optimizer_step: 337.28 | optimizer_allgather: 1362.92
-  3%|▎         | 152/4590 [06:58<3:21:23,  2.72s/it][2021-01-27 04:18:44,939] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 1, reducing to 1
-[2021-01-27 04:18:44,939] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 1, reducing to 1
-  3%|▎         | 153/4590 [07:00<2:53:15,  2.34s/it][2021-01-27 04:18:46,397] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 1, reducing to 1
-[2021-01-27 04:18:46,397] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 1, reducing to 1
-  3%|▎         | 154/4590 [07:01<2:33:36,  2.08s/it]rank=0 time (ms) | optimizer_gradients: 49.23 | optimizer_step: 336.10 | optimizer_allgather: 1363.89
-  3%|▎         | 155/4590 [07:04<2:58:41,  2.42s/it]rank=0 time (ms) | optimizer_gradients: 49.40 | optimizer_step: 338.23 | optimizer_allgather: 1363.65
-  3%|▎         | 156/4590 [07:07<3:16:16,  2.66s/it]rank=0 time (ms) | optimizer_gradients: 49.24 | optimizer_step: 338.68 | optimizer_allgather: 1362.07
-  3%|▎         | 157/4590 [07:11<3:28:33,  2.82s/it]rank=0 time (ms) | optimizer_gradients: 49.15 | optimizer_step: 337.69 | optimizer_allgather: 1361.82
-  3%|▎         | 158/4590 [07:14<3:37:06,  2.94s/it]rank=0 time (ms) | optimizer_gradients: 49.20 | optimizer_step: 337.32 | optimizer_allgather: 1362.14
-  3%|▎         | 159/4590 [07:17<3:43:05,  3.02s/it]rank=0 time (ms) | optimizer_gradients: 49.25 | optimizer_step: 339.06 | optimizer_allgather: 1362.98
-  3%|▎         | 160/4590 [07:20<3:47:19,  3.08s/it]rank=0 time (ms) | optimizer_gradients: 49.65 | optimizer_step: 338.23 | optimizer_allgather: 1361.61
-  4%|▎         | 161/4590 [07:23<3:50:13,  3.12s/it]rank=0 time (ms) | optimizer_gradients: 49.22 | optimizer_step: 341.20 | optimizer_allgather: 1361.74
-  4%|▎         | 162/4590 [07:27<3:52:20,  3.15s/it]rank=0 time (ms) | optimizer_gradients: 49.25 | optimizer_step: 336.10 | optimizer_allgather: 1363.82
-  4%|▎         | 163/4590 [07:30<3:53:41,  3.17s/it]rank=0 time (ms) | optimizer_gradients: 49.33 | optimizer_step: 336.14 | optimizer_allgather: 1363.46
-  4%|▎         | 164/4590 [07:33<3:54:33,  3.18s/it]rank=0 time (ms) | optimizer_gradients: 49.06 | optimizer_step: 336.61 | optimizer_allgather: 1364.37
-  4%|▎         | 165/4590 [07:36<3:55:15,  3.19s/it]rank=0 time (ms) | optimizer_gradients: 49.24 | optimizer_step: 336.04 | optimizer_allgather: 1366.52
-  4%|▎         | 166/4590 [07:40<3:55:46,  3.20s/it]rank=0 time (ms) | optimizer_gradients: 49.09 | optimizer_step: 336.22 | optimizer_allgather: 1361.97
-  4%|▎         | 167/4590 [07:43<3:55:59,  3.20s/it][2021-01-27 04:19:29,615] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 1, reducing to 1
-[2021-01-27 04:19:29,615] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 1, reducing to 1
-  4%|▎         | 168/4590 [07:44<3:17:23,  2.68s/it]rank=0 time (ms) | optimizer_gradients: 49.24 | optimizer_step: 337.27 | optimizer_allgather: 1362.24
-  4%|▎         | 169/4590 [07:47<3:29:05,  2.84s/it]rank=0 time (ms) | optimizer_gradients: 49.21 | optimizer_step: 337.42 | optimizer_allgather: 1361.78
-  4%|▎         | 170/4590 [07:51<3:37:17,  2.95s/it]rank=0 time (ms) | optimizer_gradients: 49.10 | optimizer_step: 337.30 | optimizer_allgather: 1362.67
-  4%|▎         | 171/4590 [07:54<3:44:30,  3.05s/it]rank=0 time (ms) | optimizer_gradients: 49.17 | optimizer_step: 338.01 | optimizer_allgather: 1363.72
-  4%|▎         | 172/4590 [07:57<3:48:09,  3.10s/it]rank=0 time (ms) | optimizer_gradients: 49.67 | optimizer_step: 337.24 | optimizer_allgather: 1362.49
-  4%|▍         | 173/4590 [08:00<3:50:36,  3.13s/it]rank=0 time (ms) | optimizer_gradients: 49.14 | optimizer_step: 341.28 | optimizer_allgather: 1362.07
-  4%|▍         | 174/4590 [08:04<3:52:23,  3.16s/it][2021-01-27 04:19:50,417] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 1, reducing to 1
-[2021-01-27 04:19:50,417] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 1, reducing to 1
-  4%|▍         | 175/4590 [08:05<3:14:52,  2.65s/it]rank=0 time (ms) | optimizer_gradients: 49.16 | optimizer_step: 336.11 | optimizer_allgather: 1365.38
-  4%|▍         | 176/4590 [08:08<3:27:14,  2.82s/it]rank=0 time (ms) | optimizer_gradients: 49.03 | optimizer_step: 336.17 | optimizer_allgather: 1364.75
-  4%|▍         | 177/4590 [08:11<3:35:55,  2.94s/it][2021-01-27 04:19:58,300] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 1, reducing to 1
-[2021-01-27 04:19:58,300] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 1, reducing to 1
-  4%|▍         | 178/4590 [08:13<3:03:18,  2.49s/it]rank=0 time (ms) | optimizer_gradients: 49.09 | optimizer_step: 336.06 | optimizer_allgather: 1365.23
-  4%|▍         | 179/4590 [08:16<3:19:13,  2.71s/it]rank=0 time (ms) | optimizer_gradients: 49.30 | optimizer_step: 336.17 | optimizer_allgather: 1363.69
-  4%|▍         | 180/4590 [08:19<3:30:17,  2.86s/it][2021-01-27 04:20:06,187] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 1, reducing to 1
-[2021-01-27 04:20:06,187] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 1, reducing to 1
-  4%|▍         | 181/4590 [08:21<2:59:16,  2.44s/it][2021-01-27 04:20:07,644] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 1, reducing to 1
-[2021-01-27 04:20:07,644] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 1, reducing to 1
-  4%|▍         | 182/4590 [08:22<2:37:34,  2.14s/it]rank=0 time (ms) | optimizer_gradients: 49.14 | optimizer_step: 337.25 | optimizer_allgather: 1361.31
-  4%|▍         | 183/4590 [08:25<3:00:58,  2.46s/it]rank=0 time (ms) | optimizer_gradients: 49.21 | optimizer_step: 337.21 | optimizer_allgather: 1362.73
-  4%|▍         | 184/4590 [08:29<3:17:25,  2.69s/it]rank=0 time (ms) | optimizer_gradients: 49.05 | optimizer_step: 337.25 | optimizer_allgather: 1362.81
-  4%|▍         | 185/4590 [08:32<3:28:51,  2.84s/it][2021-01-27 04:20:18,732] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 1, reducing to 1
-[2021-01-27 04:20:18,732] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 1, reducing to 1
-  4%|▍         | 186/4590 [08:33<2:58:15,  2.43s/it]rank=0 time (ms) | optimizer_gradients: 49.02 | optimizer_step: 337.64 | optimizer_allgather: 1362.66
-  4%|▍         | 187/4590 [08:37<3:15:27,  2.66s/it]rank=0 time (ms) | optimizer_gradients: 49.15 | optimizer_step: 337.35 | optimizer_allgather: 1364.89
-  4%|▍         | 188/4590 [08:40<3:27:31,  2.83s/it]rank=0 time (ms) | optimizer_gradients: 49.25 | optimizer_step: 341.28 | optimizer_allgather: 1362.64
-  4%|▍         | 189/4590 [08:43<3:36:02,  2.95s/it]rank=0 time (ms) | optimizer_gradients: 49.29 | optimizer_step: 336.89 | optimizer_allgather: 1362.85
-  4%|▍         | 190/4590 [08:46<3:41:52,  3.03s/it][2021-01-27 04:20:33,045] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 1, reducing to 1
-[2021-01-27 04:20:33,046] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 1, reducing to 1
-  4%|▍         | 191/4590 [08:48<3:07:20,  2.56s/it]rank=0 time (ms) | optimizer_gradients: 49.25 | optimizer_step: 336.29 | optimizer_allgather: 1366.30
-  4%|▍         | 192/4590 [08:51<3:21:46,  2.75s/it][2021-01-27 04:20:37,718] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 1, reducing to 1
-[2021-01-27 04:20:37,718] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 1, reducing to 1
-  4%|▍         | 193/4590 [08:52<2:53:16,  2.36s/it][2021-01-27 04:20:39,176] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 1, reducing to 1
-[2021-01-27 04:20:39,176] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 1, reducing to 1
-  4%|▍         | 194/4590 [08:54<2:33:18,  2.09s/it]rank=0 time (ms) | optimizer_gradients: 49.07 | optimizer_step: 336.21 | optimizer_allgather: 1363.44
-  4%|▍         | 195/4590 [08:57<2:57:52,  2.43s/it]rank=0 time (ms) | optimizer_gradients: 49.12 | optimizer_step: 336.06 | optimizer_allgather: 1361.79
-  4%|▍         | 196/4590 [09:00<3:15:02,  2.66s/it]rank=0 time (ms) | optimizer_gradients: 49.29 | optimizer_step: 337.22 | optimizer_allgather: 1363.03
-  4%|▍         | 197/4590 [09:03<3:27:04,  2.83s/it][2021-01-27 04:20:50,269] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 1, reducing to 1
-[2021-01-27 04:20:50,269] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 1, reducing to 1
-  4%|▍         | 198/4590 [09:05<2:56:54,  2.42s/it][2021-01-27 04:20:51,728] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 1, reducing to 1
-[2021-01-27 04:20:51,728] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 1, reducing to 1
-  4%|▍         | 199/4590 [09:06<2:35:49,  2.13s/it]rank=0 time (ms) | optimizer_gradients: 49.21 | optimizer_step: 342.51 | optimizer_allgather: 1362.91
-  4%|▍         | 200/4590 [09:10<2:59:40,  2.46s/it]rank=0 time (ms) | optimizer_gradients: 49.24 | optimizer_step: 337.66 | optimizer_allgather: 1361.93
-  4%|▍         | 201/4590 [09:13<3:16:13,  2.68s/it][2021-01-27 04:20:59,614] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 1, reducing to 1
-[2021-01-27 04:20:59,614] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 1, reducing to 1
-  4%|▍         | 202/4590 [09:14<2:49:17,  2.31s/it][2021-01-27 04:21:01,072] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 1, reducing to 1
-[2021-01-27 04:21:01,072] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 1, reducing to 1
-  4%|▍         | 203/4590 [09:16<2:30:27,  2.06s/it]rank=0 time (ms) | optimizer_gradients: 49.17 | optimizer_step: 337.65 | optimizer_allgather: 1362.82
-  4%|▍         | 204/4590 [09:19<2:55:45,  2.40s/it]rank=0 time (ms) | optimizer_gradients: 49.13 | optimizer_step: 336.17 | optimizer_allgather: 1364.78
-  4%|▍         | 205/4590 [09:22<3:13:30,  2.65s/it]rank=0 time (ms) | optimizer_gradients: 49.08 | optimizer_step: 336.97 | optimizer_allgather: 1364.57
-  4%|▍         | 206/4590 [09:25<3:25:56,  2.82s/it]rank=0 time (ms) | optimizer_gradients: 49.87 | optimizer_step: 336.04 | optimizer_allgather: 1362.86
-  5%|▍         | 207/4590 [09:29<3:34:33,  2.94s/it]rank=0 time (ms) | optimizer_gradients: 49.19 | optimizer_step: 336.09 | optimizer_allgather: 1362.75
-  5%|▍         | 208/4590 [09:32<3:40:29,  3.02s/it]rank=0 time (ms) | optimizer_gradients: 49.22 | optimizer_step: 336.30 | optimizer_allgather: 1364.69
-  5%|▍         | 209/4590 [09:35<3:44:40,  3.08s/it][2021-01-27 04:21:21,812] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 1, reducing to 1
-[2021-01-27 04:21:21,812] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 1, reducing to 1
-  5%|▍         | 210/4590 [09:36<3:09:10,  2.59s/it][2021-01-27 04:21:23,269] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 1, reducing to 1
-[2021-01-27 04:21:23,269] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 1, reducing to 1
-  5%|▍         | 211/4590 [09:38<2:44:16,  2.25s/it]rank=0 time (ms) | optimizer_gradients: 49.11 | optimizer_step: 337.48 | optimizer_allgather: 1362.35
-  5%|▍         | 212/4590 [09:41<3:05:16,  2.54s/it]rank=0 time (ms) | optimizer_gradients: 49.11 | optimizer_step: 337.29 | optimizer_allgather: 1363.26
-  5%|▍         | 213/4590 [09:44<3:19:57,  2.74s/it]rank=0 time (ms) | optimizer_gradients: 49.13 | optimizer_step: 337.28 | optimizer_allgather: 1364.36
-  5%|▍         | 214/4590 [09:47<3:30:15,  2.88s/it]rank=0 time (ms) | optimizer_gradients: 49.54 | optimizer_step: 337.69 | optimizer_allgather: 1363.50
-  5%|▍         | 215/4590 [09:51<3:37:24,  2.98s/it]rank=0 time (ms) | optimizer_gradients: 49.47 | optimizer_step: 337.23 | optimizer_allgather: 1364.07
-  5%|▍         | 216/4590 [09:54<3:42:25,  3.05s/it]rank=0 time (ms) | optimizer_gradients: 49.18 | optimizer_step: 337.53 | optimizer_allgather: 1365.05
-  5%|▍         | 217/4590 [09:57<3:45:55,  3.10s/it][2021-01-27 04:21:44,005] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 1, reducing to 1
-[2021-01-27 04:21:44,005] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 1, reducing to 1
-  5%|▍         | 218/4590 [09:59<3:10:01,  2.61s/it]rank=0 time (ms) | optimizer_gradients: 49.25 | optimizer_step: 336.26 | optimizer_allgather: 1363.09
-  5%|▍         | 219/4590 [10:02<3:23:12,  2.79s/it]rank=0 time (ms) | optimizer_gradients: 49.12 | optimizer_step: 336.93 | optimizer_allgather: 1362.67
-  5%|▍         | 220/4590 [10:05<3:32:24,  2.92s/it]rank=0 time (ms) | optimizer_gradients: 49.06 | optimizer_step: 336.12 | optimizer_allgather: 1363.17
-  5%|▍         | 221/4590 [10:08<3:38:48,  3.01s/it][2021-01-27 04:21:55,100] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 1, reducing to 1
-[2021-01-27 04:21:55,100] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 1, reducing to 1
-  5%|▍         | 222/4590 [10:10<3:04:58,  2.54s/it]rank=0 time (ms) | optimizer_gradients: 49.07 | optimizer_step: 336.86 | optimizer_allgather: 1364.21
-  5%|▍         | 223/4590 [10:13<3:19:34,  2.74s/it]rank=0 time (ms) | optimizer_gradients: 49.22 | optimizer_step: 336.85 | optimizer_allgather: 1364.04
-  5%|▍         | 224/4590 [10:16<3:29:49,  2.88s/it]rank=0 time (ms) | optimizer_gradients: 49.05 | optimizer_step: 339.87 | optimizer_allgather: 1361.56
-  5%|▍         | 225/4590 [10:19<3:36:57,  2.98s/it]rank=0 time (ms) | optimizer_gradients: 49.17 | optimizer_step: 337.66 | optimizer_allgather: 1361.91
-  5%|▍         | 226/4590 [10:23<3:41:53,  3.05s/it]rank=0 time (ms) | optimizer_gradients: 49.29 | optimizer_step: 337.61 | optimizer_allgather: 1360.87
-  5%|▍         | 227/4590 [10:26<3:45:18,  3.10s/it]rank=0 time (ms) | optimizer_gradients: 49.22 | optimizer_step: 337.58 | optimizer_allgather: 1363.50
-  5%|▍         | 228/4590 [10:29<3:47:46,  3.13s/it]rank=0 time (ms) | optimizer_gradients: 49.22 | optimizer_step: 337.50 | optimizer_allgather: 1369.57
-  5%|▍         | 229/4590 [10:32<3:49:33,  3.16s/it]rank=0 time (ms) | optimizer_gradients: 49.18 | optimizer_step: 337.51 | optimizer_allgather: 1362.57
-  5%|▌         | 230/4590 [10:35<3:50:39,  3.17s/it]rank=0 time (ms) | optimizer_gradients: 49.21 | optimizer_step: 341.33 | optimizer_allgather: 1362.56
-  5%|▌         | 231/4590 [10:39<3:51:29,  3.19s/it]rank=0 time (ms) | optimizer_gradients: 49.44 | optimizer_step: 336.17 | optimizer_allgather: 1362.26
-  5%|▌         | 232/4590 [10:42<3:51:58,  3.19s/it]rank=0 time (ms) | optimizer_gradients: 49.13 | optimizer_step: 336.07 | optimizer_allgather: 1367.99
-  5%|▌         | 233/4590 [10:45<3:52:22,  3.20s/it]rank=0 time (ms) | optimizer_gradients: 49.10 | optimizer_step: 336.18 | optimizer_allgather: 1365.57
-  5%|▌         | 234/4590 [10:48<3:52:38,  3.20s/it]rank=0 time (ms) | optimizer_gradients: 49.39 | optimizer_step: 336.09 | optimizer_allgather: 1366.00
-  5%|▌         | 235/4590 [10:51<3:52:45,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.04 | optimizer_step: 336.80 | optimizer_allgather: 1362.83
-  5%|▌         | 236/4590 [10:55<3:52:44,  3.21s/it][2021-01-27 04:22:41,534] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 1, reducing to 1
-[2021-01-27 04:22:41,534] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 1, reducing to 1
-  5%|▌         | 237/4590 [10:56<3:14:36,  2.68s/it]rank=0 time (ms) | optimizer_gradients: 49.30 | optimizer_step: 337.32 | optimizer_allgather: 1362.86
-  5%|▌         | 238/4590 [10:59<3:26:03,  2.84s/it][2021-01-27 04:22:46,203] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 1, reducing to 1
-[2021-01-27 04:22:46,203] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 1, reducing to 1
-  5%|▌         | 239/4590 [11:01<2:55:55,  2.43s/it]rank=0 time (ms) | optimizer_gradients: 49.58 | optimizer_step: 337.69 | optimizer_allgather: 1361.34
-  5%|▌         | 240/4590 [11:04<3:12:58,  2.66s/it]rank=0 time (ms) | optimizer_gradients: 49.51 | optimizer_step: 337.49 | optimizer_allgather: 1365.01
-  5%|▌         | 241/4590 [11:07<3:24:56,  2.83s/it][2021-01-27 04:22:54,086] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 1, reducing to 1
-[2021-01-27 04:22:54,086] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 1, reducing to 1
-  5%|▌         | 242/4590 [11:09<2:55:06,  2.42s/it]rank=0 time (ms) | optimizer_gradients: 49.06 | optimizer_step: 337.45 | optimizer_allgather: 1362.68
-  5%|▌         | 243/4590 [11:12<3:12:18,  2.65s/it][2021-01-27 04:22:58,754] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 1, reducing to 1
-[2021-01-27 04:22:58,754] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 1, reducing to 1
-  5%|▌         | 244/4590 [11:13<2:46:16,  2.30s/it]rank=0 time (ms) | optimizer_gradients: 50.13 | optimizer_step: 337.34 | optimizer_allgather: 1362.59
-  5%|▌         | 245/4590 [11:17<3:06:10,  2.57s/it]rank=0 time (ms) | optimizer_gradients: 49.00 | optimizer_step: 336.20 | optimizer_allgather: 1363.22
-  5%|▌         | 246/4590 [11:20<3:20:08,  2.76s/it][2021-01-27 04:23:06,642] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 1, reducing to 1
-[2021-01-27 04:23:06,642] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 1, reducing to 1
-  5%|▌         | 247/4590 [11:21<2:51:44,  2.37s/it][2021-01-27 04:23:08,097] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 1, reducing to 1
-[2021-01-27 04:23:08,097] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 1, reducing to 1
-  5%|▌         | 248/4590 [11:23<2:31:46,  2.10s/it]rank=0 time (ms) | optimizer_gradients: 49.11 | optimizer_step: 336.94 | optimizer_allgather: 1363.52
-  5%|▌         | 249/4590 [11:26<2:55:56,  2.43s/it][2021-01-27 04:23:12,768] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 1, reducing to 1
-[2021-01-27 04:23:12,768] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 1, reducing to 1
-  5%|▌         | 250/4590 [11:27<2:34:46,  2.14s/it][2021-01-27 04:23:14,226] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 1, reducing to 1
-[2021-01-27 04:23:14,226] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 1, reducing to 1
-  5%|▌         | 251/4590 [11:29<2:19:57,  1.94s/it]rank=0 time (ms) | optimizer_gradients: 49.04 | optimizer_step: 336.14 | optimizer_allgather: 1362.76
-  5%|▌         | 252/4590 [11:32<2:47:35,  2.32s/it]rank=0 time (ms) | optimizer_gradients: 49.75 | optimizer_step: 336.19 | optimizer_allgather: 1362.70
-  6%|▌         | 253/4590 [11:35<3:06:56,  2.59s/it]rank=0 time (ms) | optimizer_gradients: 49.13 | optimizer_step: 337.39 | optimizer_allgather: 1363.92
-  6%|▌         | 254/4590 [11:38<3:20:30,  2.77s/it]rank=0 time (ms) | optimizer_gradients: 49.24 | optimizer_step: 337.29 | optimizer_allgather: 1363.15
-  6%|▌         | 255/4590 [11:42<3:29:59,  2.91s/it]rank=0 time (ms) | optimizer_gradients: 49.11 | optimizer_step: 338.58 | optimizer_allgather: 1362.50
-  6%|▌         | 256/4590 [11:45<3:36:35,  3.00s/it]rank=0 time (ms) | optimizer_gradients: 49.12 | optimizer_step: 338.05 | optimizer_allgather: 1362.16
-  6%|▌         | 257/4590 [11:48<3:41:09,  3.06s/it]rank=0 time (ms) | optimizer_gradients: 49.15 | optimizer_step: 337.35 | optimizer_allgather: 1363.09
-  6%|▌         | 258/4590 [11:51<3:44:21,  3.11s/it][2021-01-27 04:23:38,174] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 1, reducing to 1
-[2021-01-27 04:23:38,174] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 1, reducing to 1
-  6%|▌         | 259/4590 [11:53<3:08:37,  2.61s/it][2021-01-27 04:23:39,633] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 1, reducing to 1
-[2021-01-27 04:23:39,633] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 1, reducing to 1
-  6%|▌         | 260/4590 [11:54<2:43:35,  2.27s/it]rank=0 time (ms) | optimizer_gradients: 49.03 | optimizer_step: 338.69 | optimizer_allgather: 1362.26
-  6%|▌         | 261/4590 [11:57<3:04:00,  2.55s/it]rank=0 time (ms) | optimizer_gradients: 49.01 | optimizer_step: 336.16 | optimizer_allgather: 1365.63
-  6%|▌         | 262/4590 [12:01<3:18:21,  2.75s/it][2021-01-27 04:23:47,519] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 1, reducing to 1
-[2021-01-27 04:23:47,519] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 1, reducing to 1
-  6%|▌         | 263/4590 [12:02<2:50:22,  2.36s/it][2021-01-27 04:23:48,978] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 1, reducing to 1
-[2021-01-27 04:23:48,978] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 1, reducing to 1
-  6%|▌         | 264/4590 [12:04<2:30:46,  2.09s/it]rank=0 time (ms) | optimizer_gradients: 49.10 | optimizer_step: 337.02 | optimizer_allgather: 1362.78
-  6%|▌         | 265/4590 [12:07<2:54:58,  2.43s/it][2021-01-27 04:23:53,645] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 1, reducing to 1
-[2021-01-27 04:23:53,645] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 1, reducing to 1
-  6%|▌         | 266/4590 [12:08<2:33:55,  2.14s/it]rank=0 time (ms) | optimizer_gradients: 49.14 | optimizer_step: 336.12 | optimizer_allgather: 1363.03
-  6%|▌         | 267/4590 [12:11<2:57:07,  2.46s/it]rank=0 time (ms) | optimizer_gradients: 49.17 | optimizer_step: 336.13 | optimizer_allgather: 1363.72
-  6%|▌         | 268/4590 [12:15<3:13:22,  2.68s/it][2021-01-27 04:24:01,527] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 1, reducing to 1
-[2021-01-27 04:24:01,527] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 1, reducing to 1
-  6%|▌         | 269/4590 [12:16<2:46:50,  2.32s/it]rank=0 time (ms) | optimizer_gradients: 49.40 | optimizer_step: 337.53 | optimizer_allgather: 1363.98
-  6%|▌         | 270/4590 [12:19<3:06:09,  2.59s/it]rank=0 time (ms) | optimizer_gradients: 49.18 | optimizer_step: 337.41 | optimizer_allgather: 1361.71
-  6%|▌         | 271/4590 [12:23<3:19:37,  2.77s/it][2021-01-27 04:24:09,409] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 1, reducing to 1
-[2021-01-27 04:24:09,409] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 1, reducing to 1
-  6%|▌         | 272/4590 [12:24<2:51:11,  2.38s/it]rank=0 time (ms) | optimizer_gradients: 49.21 | optimizer_step: 337.61 | optimizer_allgather: 1362.32
-  6%|▌         | 273/4590 [12:27<3:09:08,  2.63s/it]rank=0 time (ms) | optimizer_gradients: 49.15 | optimizer_step: 337.44 | optimizer_allgather: 1361.75
-  6%|▌         | 274/4590 [12:30<3:21:39,  2.80s/it]rank=0 time (ms) | optimizer_gradients: 49.15 | optimizer_step: 337.50 | optimizer_allgather: 1363.85
-  6%|▌         | 275/4590 [12:34<3:30:26,  2.93s/it][2021-01-27 04:24:20,504] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 1, reducing to 1
-[2021-01-27 04:24:20,504] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 1, reducing to 1
-  6%|▌         | 276/4590 [12:35<2:58:44,  2.49s/it]rank=0 time (ms) | optimizer_gradients: 49.07 | optimizer_step: 336.13 | optimizer_allgather: 1364.07
-  6%|▌         | 277/4590 [12:38<3:14:20,  2.70s/it]rank=0 time (ms) | optimizer_gradients: 49.06 | optimizer_step: 337.28 | optimizer_allgather: 1363.32
-  6%|▌         | 278/4590 [12:42<3:25:15,  2.86s/it]rank=0 time (ms) | optimizer_gradients: 49.43 | optimizer_step: 336.24 | optimizer_allgather: 1363.31
-  6%|▌         | 279/4590 [12:45<3:32:55,  2.96s/it]rank=0 time (ms) | optimizer_gradients: 49.20 | optimizer_step: 336.17 | optimizer_allgather: 1362.92
-  6%|▌         | 280/4590 [12:48<3:38:14,  3.04s/it]rank=0 time (ms) | optimizer_gradients: 49.37 | optimizer_step: 336.04 | optimizer_allgather: 1364.27
-  6%|▌         | 281/4590 [12:51<3:41:55,  3.09s/it]rank=0 time (ms) | optimizer_gradients: 49.35 | optimizer_step: 338.90 | optimizer_allgather: 1364.64
-  6%|▌         | 282/4590 [12:54<3:44:34,  3.13s/it]rank=0 time (ms) | optimizer_gradients: 49.29 | optimizer_step: 337.45 | optimizer_allgather: 1361.81
-  6%|▌         | 283/4590 [12:58<3:46:19,  3.15s/it]rank=0 time (ms) | optimizer_gradients: 49.17 | optimizer_step: 337.53 | optimizer_allgather: 1362.12
-  6%|▌         | 284/4590 [13:01<3:47:31,  3.17s/it]rank=0 time (ms) | optimizer_gradients: 49.24 | optimizer_step: 337.29 | optimizer_allgather: 1364.42
-  6%|▌         | 285/4590 [13:04<3:48:24,  3.18s/it]rank=0 time (ms) | optimizer_gradients: 48.95 | optimizer_step: 337.69 | optimizer_allgather: 1364.18
-  6%|▌         | 286/4590 [13:07<3:49:01,  3.19s/it]rank=0 time (ms) | optimizer_gradients: 49.11 | optimizer_step: 337.68 | optimizer_allgather: 1362.64
-  6%|▋         | 287/4590 [13:10<3:49:22,  3.20s/it][2021-01-27 04:24:57,303] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 1, reducing to 1
-[2021-01-27 04:24:57,303] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 1, reducing to 1
-  6%|▋         | 288/4590 [13:12<3:11:55,  2.68s/it]rank=0 time (ms) | optimizer_gradients: 49.29 | optimizer_step: 341.13 | optimizer_allgather: 1362.14
-  6%|▋         | 289/4590 [13:15<3:23:28,  2.84s/it]rank=0 time (ms) | optimizer_gradients: 49.11 | optimizer_step: 337.07 | optimizer_allgather: 1363.05
-  6%|▋         | 290/4590 [13:18<3:31:27,  2.95s/it][2021-01-27 04:25:05,187] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 1, reducing to 1
-[2021-01-27 04:25:05,188] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 1, reducing to 1
-  6%|▋         | 291/4590 [13:20<2:59:17,  2.50s/it]rank=0 time (ms) | optimizer_gradients: 49.15 | optimizer_step: 336.33 | optimizer_allgather: 1363.72
-  6%|▋         | 292/4590 [13:23<3:14:29,  2.72s/it]rank=0 time (ms) | optimizer_gradients: 49.10 | optimizer_step: 336.10 | optimizer_allgather: 1364.30
-  6%|▋         | 293/4590 [13:26<3:25:11,  2.87s/it]rank=0 time (ms) | optimizer_gradients: 48.99 | optimizer_step: 336.66 | optimizer_allgather: 1366.25
-  6%|▋         | 294/4590 [13:29<3:32:39,  2.97s/it]rank=0 time (ms) | optimizer_gradients: 49.18 | optimizer_step: 338.80 | optimizer_allgather: 1363.48
-  6%|▋         | 295/4590 [13:33<3:37:49,  3.04s/it]rank=0 time (ms) | optimizer_gradients: 49.20 | optimizer_step: 337.43 | optimizer_allgather: 1363.25
-  6%|▋         | 296/4590 [13:36<3:41:24,  3.09s/it]rank=0 time (ms) | optimizer_gradients: 48.98 | optimizer_step: 337.42 | optimizer_allgather: 1363.36
-  6%|▋         | 297/4590 [13:39<3:43:54,  3.13s/it]rank=0 time (ms) | optimizer_gradients: 49.19 | optimizer_step: 337.97 | optimizer_allgather: 1365.19
-  6%|▋         | 298/4590 [13:42<3:45:40,  3.15s/it]rank=0 time (ms) | optimizer_gradients: 49.22 | optimizer_step: 337.82 | optimizer_allgather: 1362.56
-  7%|▋         | 299/4590 [13:45<3:46:53,  3.17s/it]rank=0 time (ms) | optimizer_gradients: 49.40 | optimizer_step: 337.65 | optimizer_allgather: 1361.94
-  7%|▋         | 300/4590 [13:49<3:47:42,  3.18s/it]rank=0 time (ms) | optimizer_gradients: 49.05 | optimizer_step: 336.15 | optimizer_allgather: 1363.57
-  7%|▋         | 301/4590 [13:52<3:48:13,  3.19s/it]rank=0 time (ms) | optimizer_gradients: 49.02 | optimizer_step: 336.19 | optimizer_allgather: 1364.70
-  7%|▋         | 302/4590 [13:55<3:48:38,  3.20s/it]rank=0 time (ms) | optimizer_gradients: 49.56 | optimizer_step: 336.11 | optimizer_allgather: 1362.47
-  7%|▋         | 303/4590 [13:58<3:48:51,  3.20s/it]rank=0 time (ms) | optimizer_gradients: 49.04 | optimizer_step: 336.94 | optimizer_allgather: 1365.79
-  7%|▋         | 304/4590 [14:02<3:49:03,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.03 | optimizer_step: 336.11 | optimizer_allgather: 1361.78
-  7%|▋         | 305/4590 [14:05<3:49:05,  3.21s/it][2021-01-27 04:25:51,630] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 1, reducing to 1
-[2021-01-27 04:25:51,630] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 1, reducing to 1
-  7%|▋         | 306/4590 [14:06<3:11:34,  2.68s/it]rank=0 time (ms) | optimizer_gradients: 49.12 | optimizer_step: 339.91 | optimizer_allgather: 1362.38
-  7%|▋         | 307/4590 [14:09<3:22:52,  2.84s/it]rank=0 time (ms) | optimizer_gradients: 49.20 | optimizer_step: 338.79 | optimizer_allgather: 1362.22
-  7%|▋         | 308/4590 [14:13<3:30:47,  2.95s/it]rank=0 time (ms) | optimizer_gradients: 49.02 | optimizer_step: 337.38 | optimizer_allgather: 1366.87
-  7%|▋         | 309/4590 [14:16<3:36:23,  3.03s/it]rank=0 time (ms) | optimizer_gradients: 49.01 | optimizer_step: 337.33 | optimizer_allgather: 1363.06
-  7%|▋         | 310/4590 [14:19<3:40:09,  3.09s/it]rank=0 time (ms) | optimizer_gradients: 49.12 | optimizer_step: 338.15 | optimizer_allgather: 1363.69
-  7%|▋         | 311/4590 [14:22<3:42:47,  3.12s/it]rank=0 time (ms) | optimizer_gradients: 49.45 | optimizer_step: 337.21 | optimizer_allgather: 1363.41
-  7%|▋         | 312/4590 [14:25<3:44:38,  3.15s/it]rank=0 time (ms) | optimizer_gradients: 49.11 | optimizer_step: 338.83 | optimizer_allgather: 1361.74
-  7%|▋         | 313/4590 [14:29<3:45:53,  3.17s/it]rank=0 time (ms) | optimizer_gradients: 49.03 | optimizer_step: 336.11 | optimizer_allgather: 1363.99
-  7%|▋         | 314/4590 [14:32<3:46:45,  3.18s/it]rank=0 time (ms) | optimizer_gradients: 49.15 | optimizer_step: 337.03 | optimizer_allgather: 1365.13
-  7%|▋         | 315/4590 [14:35<3:47:21,  3.19s/it]rank=0 time (ms) | optimizer_gradients: 49.64 | optimizer_step: 336.12 | optimizer_allgather: 1361.80
-  7%|▋         | 316/4590 [14:38<3:47:45,  3.20s/it][2021-01-27 04:26:25,216] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 1, reducing to 1
-[2021-01-27 04:26:25,216] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 1, reducing to 1
-  7%|▋         | 317/4590 [14:40<3:10:30,  2.68s/it]rank=0 time (ms) | optimizer_gradients: 49.05 | optimizer_step: 336.17 | optimizer_allgather: 1363.81
-  7%|▋         | 318/4590 [14:43<3:21:54,  2.84s/it]rank=0 time (ms) | optimizer_gradients: 49.72 | optimizer_step: 336.05 | optimizer_allgather: 1362.52
-  7%|▋         | 319/4590 [14:46<3:29:50,  2.95s/it]rank=0 time (ms) | optimizer_gradients: 49.38 | optimizer_step: 337.24 | optimizer_allgather: 1364.33
-  7%|▋         | 320/4590 [14:49<3:35:26,  3.03s/it]rank=0 time (ms) | optimizer_gradients: 49.11 | optimizer_step: 337.26 | optimizer_allgather: 1362.61
-  7%|▋         | 321/4590 [14:53<3:39:20,  3.08s/it][2021-01-27 04:26:39,518] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 1, reducing to 1
-[2021-01-27 04:26:39,518] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 1, reducing to 1
-  7%|▋         | 322/4590 [14:54<3:04:36,  2.60s/it]rank=0 time (ms) | optimizer_gradients: 49.10 | optimizer_step: 337.35 | optimizer_allgather: 1363.46
-  7%|▋         | 323/4590 [14:57<3:17:43,  2.78s/it]rank=0 time (ms) | optimizer_gradients: 49.26 | optimizer_step: 338.06 | optimizer_allgather: 1361.83
-  7%|▋         | 324/4590 [15:01<3:26:53,  2.91s/it]rank=0 time (ms) | optimizer_gradients: 49.03 | optimizer_step: 338.57 | optimizer_allgather: 1361.72
-  7%|▋         | 325/4590 [15:04<3:33:17,  3.00s/it]rank=0 time (ms) | optimizer_gradients: 49.13 | optimizer_step: 338.60 | optimizer_allgather: 1361.15
-  7%|▋         | 326/4590 [15:07<3:37:47,  3.06s/it]rank=0 time (ms) | optimizer_gradients: 49.19 | optimizer_step: 336.11 | optimizer_allgather: 1366.60
-  7%|▋         | 327/4590 [15:10<3:40:56,  3.11s/it]rank=0 time (ms) | optimizer_gradients: 49.17 | optimizer_step: 336.80 | optimizer_allgather: 1362.15
-  7%|▋         | 328/4590 [15:13<3:43:01,  3.14s/it]rank=0 time (ms) | optimizer_gradients: 51.12 | optimizer_step: 335.97 | optimizer_allgather: 1362.21
-  7%|▋         | 329/4590 [15:17<3:44:30,  3.16s/it]rank=0 time (ms) | optimizer_gradients: 48.99 | optimizer_step: 336.08 | optimizer_allgather: 1361.75
-  7%|▋         | 330/4590 [15:20<3:45:30,  3.18s/it]rank=0 time (ms) | optimizer_gradients: 49.04 | optimizer_step: 336.17 | optimizer_allgather: 1366.93
-  7%|▋         | 331/4590 [15:23<3:46:16,  3.19s/it]rank=0 time (ms) | optimizer_gradients: 49.12 | optimizer_step: 339.39 | optimizer_allgather: 1362.06
-  7%|▋         | 332/4590 [15:26<3:46:46,  3.20s/it]rank=0 time (ms) | optimizer_gradients: 49.48 | optimizer_step: 337.34 | optimizer_allgather: 1362.25
-  7%|▋         | 333/4590 [15:29<3:47:00,  3.20s/it]rank=0 time (ms) | optimizer_gradients: 49.00 | optimizer_step: 337.42 | optimizer_allgather: 1363.36
-  7%|▋         | 334/4590 [15:33<3:47:13,  3.20s/it]rank=0 time (ms) | optimizer_gradients: 49.20 | optimizer_step: 337.34 | optimizer_allgather: 1364.40
-  7%|▋         | 335/4590 [15:36<3:47:22,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.17 | optimizer_step: 337.58 | optimizer_allgather: 1363.75
-  7%|▋         | 336/4590 [15:39<3:47:27,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.30 | optimizer_step: 338.17 | optimizer_allgather: 1364.19
-  7%|▋         | 337/4590 [15:42<3:47:31,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.13 | optimizer_step: 336.70 | optimizer_allgather: 1362.38
-  7%|▋         | 338/4590 [15:45<3:47:29,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.12 | optimizer_step: 336.13 | optimizer_allgather: 1363.75
-  7%|▋         | 339/4590 [15:49<3:47:28,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.34 | optimizer_step: 336.96 | optimizer_allgather: 1360.58
-  7%|▋         | 340/4590 [15:52<3:47:26,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 51.35 | optimizer_step: 336.08 | optimizer_allgather: 1362.73
-  7%|▋         | 341/4590 [15:55<3:47:24,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.00 | optimizer_step: 336.15 | optimizer_allgather: 1364.79
-  7%|▋         | 342/4590 [15:58<3:47:24,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.26 | optimizer_step: 339.97 | optimizer_allgather: 1363.63
-  7%|▋         | 343/4590 [16:02<3:47:23,  3.21s/it][2021-01-27 04:27:48,435] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 1, reducing to 1
-[2021-01-27 04:27:48,435] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 1, reducing to 1
-  7%|▋         | 344/4590 [16:03<3:10:03,  2.69s/it]rank=0 time (ms) | optimizer_gradients: 49.02 | optimizer_step: 338.42 | optimizer_allgather: 1362.34
-  8%|▊         | 345/4590 [16:06<3:21:09,  2.84s/it]rank=0 time (ms) | optimizer_gradients: 49.53 | optimizer_step: 337.20 | optimizer_allgather: 1363.45
-  8%|▊         | 346/4590 [16:09<3:28:56,  2.95s/it]rank=0 time (ms) | optimizer_gradients: 49.19 | optimizer_step: 337.63 | optimizer_allgather: 1361.80
-  8%|▊         | 347/4590 [16:13<3:34:20,  3.03s/it]rank=0 time (ms) | optimizer_gradients: 49.26 | optimizer_step: 338.40 | optimizer_allgather: 1364.21
-  8%|▊         | 348/4590 [16:16<3:38:08,  3.09s/it]rank=0 time (ms) | optimizer_gradients: 49.04 | optimizer_step: 338.30 | optimizer_allgather: 1362.35
-  8%|▊         | 349/4590 [16:19<3:40:46,  3.12s/it]rank=0 time (ms) | optimizer_gradients: 49.23 | optimizer_step: 336.06 | optimizer_allgather: 1362.92
-  8%|▊         | 350/4590 [16:22<3:42:35,  3.15s/it]rank=0 time (ms) | optimizer_gradients: 49.12 | optimizer_step: 336.14 | optimizer_allgather: 1363.69
-  8%|▊         | 351/4590 [16:25<3:43:52,  3.17s/it]rank=0 time (ms) | optimizer_gradients: 49.25 | optimizer_step: 336.10 | optimizer_allgather: 1363.63
-  8%|▊         | 352/4590 [16:29<3:44:41,  3.18s/it]rank=0 time (ms) | optimizer_gradients: 49.20 | optimizer_step: 336.73 | optimizer_allgather: 1363.25
-  8%|▊         | 353/4590 [16:32<3:45:17,  3.19s/it][2021-01-27 04:28:18,797] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 1, reducing to 1
-[2021-01-27 04:28:18,797] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 1, reducing to 1
-  8%|▊         | 354/4590 [16:33<3:08:31,  2.67s/it]rank=0 time (ms) | optimizer_gradients: 49.08 | optimizer_step: 336.17 | optimizer_allgather: 1362.90
-  8%|▊         | 355/4590 [16:37<3:19:52,  2.83s/it]rank=0 time (ms) | optimizer_gradients: 49.32 | optimizer_step: 339.85 | optimizer_allgather: 1362.30
-  8%|▊         | 356/4590 [16:40<3:27:56,  2.95s/it]rank=0 time (ms) | optimizer_gradients: 49.08 | optimizer_step: 337.69 | optimizer_allgather: 1364.75
-  8%|▊         | 357/4590 [16:43<3:33:31,  3.03s/it]rank=0 time (ms) | optimizer_gradients: 49.18 | optimizer_step: 338.37 | optimizer_allgather: 1361.34
-  8%|▊         | 358/4590 [16:46<3:37:22,  3.08s/it]rank=0 time (ms) | optimizer_gradients: 49.23 | optimizer_step: 337.23 | optimizer_allgather: 1365.05
-  8%|▊         | 359/4590 [16:49<3:40:05,  3.12s/it]rank=0 time (ms) | optimizer_gradients: 49.06 | optimizer_step: 337.33 | optimizer_allgather: 1361.31
-  8%|▊         | 360/4590 [16:53<3:41:54,  3.15s/it]rank=0 time (ms) | optimizer_gradients: 49.08 | optimizer_step: 337.50 | optimizer_allgather: 1361.34
-  8%|▊         | 361/4590 [16:56<3:43:14,  3.17s/it]rank=0 time (ms) | optimizer_gradients: 49.14 | optimizer_step: 341.08 | optimizer_allgather: 1361.29
-  8%|▊         | 362/4590 [16:59<3:44:11,  3.18s/it]rank=0 time (ms) | optimizer_gradients: 49.32 | optimizer_step: 336.05 | optimizer_allgather: 1362.75
-  8%|▊         | 363/4590 [17:02<3:44:44,  3.19s/it]rank=0 time (ms) | optimizer_gradients: 49.16 | optimizer_step: 336.31 | optimizer_allgather: 1365.55
-  8%|▊         | 364/4590 [17:05<3:45:11,  3.20s/it]rank=0 time (ms) | optimizer_gradients: 49.14 | optimizer_step: 336.14 | optimizer_allgather: 1364.05
-  8%|▊         | 365/4590 [17:09<3:45:26,  3.20s/it]rank=0 time (ms) | optimizer_gradients: 49.04 | optimizer_step: 337.02 | optimizer_allgather: 1363.50
-  8%|▊         | 366/4590 [17:12<3:45:37,  3.20s/it]rank=0 time (ms) | optimizer_gradients: 49.29 | optimizer_step: 336.98 | optimizer_allgather: 1363.76
-  8%|▊         | 367/4590 [17:15<3:45:43,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.12 | optimizer_step: 338.24 | optimizer_allgather: 1362.67
-  8%|▊         | 368/4590 [17:18<3:45:45,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.18 | optimizer_step: 337.54 | optimizer_allgather: 1361.76
-  8%|▊         | 369/4590 [17:22<3:45:43,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.08 | optimizer_step: 337.38 | optimizer_allgather: 1362.89
-  8%|▊         | 370/4590 [17:25<3:45:44,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.34 | optimizer_step: 337.63 | optimizer_allgather: 1361.47
-  8%|▊         | 371/4590 [17:28<3:45:41,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.07 | optimizer_step: 337.14 | optimizer_allgather: 1363.41
-  8%|▊         | 372/4590 [17:31<3:45:40,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.13 | optimizer_step: 337.46 | optimizer_allgather: 1361.36
-  8%|▊         | 373/4590 [17:34<3:45:38,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.16 | optimizer_step: 336.15 | optimizer_allgather: 1366.53
-  8%|▊         | 374/4590 [17:38<3:46:17,  3.22s/it]rank=0 time (ms) | optimizer_gradients: 49.78 | optimizer_step: 336.13 | optimizer_allgather: 1364.54
-  8%|▊         | 375/4590 [17:41<3:46:09,  3.22s/it]rank=0 time (ms) | optimizer_gradients: 49.21 | optimizer_step: 336.06 | optimizer_allgather: 1362.63
-  8%|▊         | 376/4590 [17:44<3:45:56,  3.22s/it]rank=0 time (ms) | optimizer_gradients: 49.09 | optimizer_step: 335.98 | optimizer_allgather: 1365.26
-  8%|▊         | 377/4590 [17:47<3:45:46,  3.22s/it][2021-01-27 04:29:34,160] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 1, reducing to 1
-[2021-01-27 04:29:34,160] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 1, reducing to 1
-  8%|▊         | 378/4590 [17:49<3:08:41,  2.69s/it]rank=0 time (ms) | optimizer_gradients: 49.12 | optimizer_step: 336.88 | optimizer_allgather: 1362.50
-  8%|▊         | 379/4590 [17:52<3:19:39,  2.84s/it]rank=0 time (ms) | optimizer_gradients: 49.08 | optimizer_step: 338.13 | optimizer_allgather: 1363.82
-  8%|▊         | 380/4590 [17:55<3:27:22,  2.96s/it]rank=0 time (ms) | optimizer_gradients: 49.21 | optimizer_step: 337.35 | optimizer_allgather: 1365.06
-  8%|▊         | 381/4590 [17:58<3:32:47,  3.03s/it]rank=0 time (ms) | optimizer_gradients: 49.13 | optimizer_step: 337.53 | optimizer_allgather: 1361.99
-  8%|▊         | 382/4590 [18:02<3:36:29,  3.09s/it]rank=0 time (ms) | optimizer_gradients: 49.15 | optimizer_step: 338.28 | optimizer_allgather: 1362.75
-  8%|▊         | 383/4590 [18:05<3:39:03,  3.12s/it]rank=0 time (ms) | optimizer_gradients: 49.09 | optimizer_step: 337.22 | optimizer_allgather: 1361.81
-  8%|▊         | 384/4590 [18:08<3:40:50,  3.15s/it]rank=0 time (ms) | optimizer_gradients: 49.16 | optimizer_step: 337.42 | optimizer_allgather: 1363.10
-  8%|▊         | 385/4590 [18:11<3:42:05,  3.17s/it]rank=0 time (ms) | optimizer_gradients: 49.07 | optimizer_step: 336.19 | optimizer_allgather: 1366.30
-  8%|▊         | 386/4590 [18:14<3:42:59,  3.18s/it]rank=0 time (ms) | optimizer_gradients: 49.03 | optimizer_step: 336.89 | optimizer_allgather: 1364.29
-  8%|▊         | 387/4590 [18:18<3:43:33,  3.19s/it]rank=0 time (ms) | optimizer_gradients: 49.03 | optimizer_step: 336.15 | optimizer_allgather: 1364.53
-  8%|▊         | 388/4590 [18:21<3:43:56,  3.20s/it]rank=0 time (ms) | optimizer_gradients: 49.22 | optimizer_step: 336.14 | optimizer_allgather: 1364.36
-  8%|▊         | 389/4590 [18:24<3:44:10,  3.20s/it]rank=0 time (ms) | optimizer_gradients: 49.09 | optimizer_step: 336.05 | optimizer_allgather: 1366.56
-  8%|▊         | 390/4590 [18:27<3:44:22,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.31 | optimizer_step: 336.51 | optimizer_allgather: 1367.29
-  9%|▊         | 391/4590 [18:31<3:44:29,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.11 | optimizer_step: 337.65 | optimizer_allgather: 1361.05
-  9%|▊         | 392/4590 [18:34<3:44:29,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.19 | optimizer_step: 337.31 | optimizer_allgather: 1363.94
-  9%|▊         | 393/4590 [18:37<3:44:31,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.05 | optimizer_step: 337.35 | optimizer_allgather: 1362.69
-  9%|▊         | 394/4590 [18:40<3:44:31,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.10 | optimizer_step: 337.53 | optimizer_allgather: 1362.28
-  9%|▊         | 395/4590 [18:43<3:44:28,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.48 | optimizer_step: 337.34 | optimizer_allgather: 1360.88
-  9%|▊         | 396/4590 [18:47<3:44:24,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.27 | optimizer_step: 341.31 | optimizer_allgather: 1362.96
-  9%|▊         | 397/4590 [18:50<3:44:29,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.08 | optimizer_step: 336.15 | optimizer_allgather: 1365.43
-  9%|▊         | 398/4590 [18:53<3:44:26,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.20 | optimizer_step: 336.09 | optimizer_allgather: 1362.93
-  9%|▊         | 399/4590 [18:56<3:44:20,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.13 | optimizer_step: 336.86 | optimizer_allgather: 1363.68
-  9%|▊         | 400/4590 [18:59<3:44:19,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.24 | optimizer_step: 336.10 | optimizer_allgather: 1363.16
-  9%|▊         | 401/4590 [19:03<3:44:15,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.06 | optimizer_step: 336.03 | optimizer_allgather: 1364.49
-  9%|▉         | 402/4590 [19:06<3:44:12,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.28 | optimizer_step: 338.88 | optimizer_allgather: 1363.71
-  9%|▉         | 403/4590 [19:09<3:44:12,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.24 | optimizer_step: 337.44 | optimizer_allgather: 1360.83
-  9%|▉         | 404/4590 [19:12<3:44:06,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.15 | optimizer_step: 337.04 | optimizer_allgather: 1362.62
-  9%|▉         | 405/4590 [19:15<3:44:01,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.29 | optimizer_step: 337.58 | optimizer_allgather: 1363.94
-  9%|▉         | 406/4590 [19:19<3:44:01,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.13 | optimizer_step: 337.19 | optimizer_allgather: 1364.59
-  9%|▉         | 407/4590 [19:22<3:43:57,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.33 | optimizer_step: 338.52 | optimizer_allgather: 1361.84
-  9%|▉         | 408/4590 [19:25<3:43:54,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.13 | optimizer_step: 339.31 | optimizer_allgather: 1362.13
-  9%|▉         | 409/4590 [19:28<3:43:53,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.35 | optimizer_step: 337.12 | optimizer_allgather: 1363.02
-  9%|▉         | 410/4590 [19:32<3:43:47,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.21 | optimizer_step: 336.05 | optimizer_allgather: 1363.92
-  9%|▉         | 411/4590 [19:35<3:43:44,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.25 | optimizer_step: 336.63 | optimizer_allgather: 1365.09
-  9%|▉         | 412/4590 [19:38<3:43:43,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.22 | optimizer_step: 336.83 | optimizer_allgather: 1362.67
-  9%|▉         | 413/4590 [19:41<3:43:36,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.19 | optimizer_step: 338.15 | optimizer_allgather: 1362.77
-  9%|▉         | 414/4590 [19:44<3:43:35,  3.21s/it][2021-01-27 04:31:31,264] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 1, reducing to 1
-[2021-01-27 04:31:31,264] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 1, reducing to 1
-  9%|▉         | 415/4590 [19:46<3:06:53,  2.69s/it]rank=0 time (ms) | optimizer_gradients: 49.31 | optimizer_step: 337.41 | optimizer_allgather: 1362.16
-  9%|▉         | 416/4590 [19:49<3:17:48,  2.84s/it]rank=0 time (ms) | optimizer_gradients: 49.28 | optimizer_step: 337.31 | optimizer_allgather: 1362.57
-  9%|▉         | 417/4590 [19:52<3:25:22,  2.95s/it]rank=0 time (ms) | optimizer_gradients: 49.04 | optimizer_step: 337.59 | optimizer_allgather: 1364.31
-  9%|▉         | 418/4590 [19:55<3:30:46,  3.03s/it]rank=0 time (ms) | optimizer_gradients: 49.06 | optimizer_step: 337.29 | optimizer_allgather: 1363.17
-  9%|▉         | 419/4590 [19:59<3:34:28,  3.09s/it]rank=0 time (ms) | optimizer_gradients: 49.25 | optimizer_step: 337.61 | optimizer_allgather: 1364.00
-  9%|▉         | 420/4590 [20:02<3:37:07,  3.12s/it]rank=0 time (ms) | optimizer_gradients: 49.17 | optimizer_step: 336.14 | optimizer_allgather: 1365.86
-  9%|▉         | 421/4590 [20:05<3:38:58,  3.15s/it]rank=0 time (ms) | optimizer_gradients: 49.14 | optimizer_step: 336.18 | optimizer_allgather: 1364.92
-  9%|▉         | 422/4590 [20:08<3:40:10,  3.17s/it][2021-01-27 04:31:55,209] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 1, reducing to 1
-[2021-01-27 04:31:55,209] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 1, reducing to 1
-  9%|▉         | 423/4590 [20:10<3:04:27,  2.66s/it]rank=0 time (ms) | optimizer_gradients: 49.25 | optimizer_step: 336.14 | optimizer_allgather: 1366.24
-  9%|▉         | 424/4590 [20:13<3:16:02,  2.82s/it]rank=0 time (ms) | optimizer_gradients: 49.59 | optimizer_step: 336.14 | optimizer_allgather: 1363.80
-  9%|▉         | 425/4590 [20:16<3:24:04,  2.94s/it]rank=0 time (ms) | optimizer_gradients: 49.27 | optimizer_step: 336.08 | optimizer_allgather: 1362.99
-  9%|▉         | 426/4590 [20:19<3:29:40,  3.02s/it]rank=0 time (ms) | optimizer_gradients: 49.33 | optimizer_step: 339.85 | optimizer_allgather: 1361.83
-  9%|▉         | 427/4590 [20:23<3:33:37,  3.08s/it]rank=0 time (ms) | optimizer_gradients: 49.16 | optimizer_step: 337.66 | optimizer_allgather: 1362.31
-  9%|▉         | 428/4590 [20:26<3:36:20,  3.12s/it]rank=0 time (ms) | optimizer_gradients: 48.99 | optimizer_step: 337.74 | optimizer_allgather: 1363.10
-  9%|▉         | 429/4590 [20:29<3:38:13,  3.15s/it]rank=0 time (ms) | optimizer_gradients: 49.18 | optimizer_step: 337.45 | optimizer_allgather: 1362.12
-  9%|▉         | 430/4590 [20:32<3:39:31,  3.17s/it]rank=0 time (ms) | optimizer_gradients: 49.18 | optimizer_step: 337.83 | optimizer_allgather: 1362.10
-  9%|▉         | 431/4590 [20:35<3:40:26,  3.18s/it]rank=0 time (ms) | optimizer_gradients: 49.05 | optimizer_step: 337.51 | optimizer_allgather: 1362.11
-  9%|▉         | 432/4590 [20:39<3:41:04,  3.19s/it]rank=0 time (ms) | optimizer_gradients: 49.37 | optimizer_step: 338.88 | optimizer_allgather: 1361.69
-  9%|▉         | 433/4590 [20:42<3:42:26,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.94 | optimizer_step: 336.02 | optimizer_allgather: 1362.65
-  9%|▉         | 434/4590 [20:45<3:42:28,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 48.96 | optimizer_step: 336.17 | optimizer_allgather: 1360.77
-  9%|▉         | 435/4590 [20:48<3:42:23,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.73 | optimizer_step: 336.07 | optimizer_allgather: 1361.10
-  9%|▉         | 436/4590 [20:52<3:42:18,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.28 | optimizer_step: 336.11 | optimizer_allgather: 1362.98
- 10%|▉         | 437/4590 [20:55<3:42:11,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.13 | optimizer_step: 336.03 | optimizer_allgather: 1363.68
- 10%|▉         | 438/4590 [20:58<3:42:10,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.03 | optimizer_step: 337.24 | optimizer_allgather: 1364.27
- 10%|▉         | 439/4590 [21:01<3:42:10,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.15 | optimizer_step: 337.29 | optimizer_allgather: 1362.94
- 10%|▉         | 440/4590 [21:04<3:42:06,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.29 | optimizer_step: 337.23 | optimizer_allgather: 1361.77
- 10%|▉         | 441/4590 [21:08<3:42:02,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.71 | optimizer_step: 337.64 | optimizer_allgather: 1363.65
- 10%|▉         | 442/4590 [21:11<3:42:01,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.11 | optimizer_step: 337.36 | optimizer_allgather: 1365.67
- 10%|▉         | 443/4590 [21:14<3:42:03,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.04 | optimizer_step: 338.73 | optimizer_allgather: 1362.82
- 10%|▉         | 444/4590 [21:17<3:42:01,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.32 | optimizer_step: 336.16 | optimizer_allgather: 1362.84
- 10%|▉         | 445/4590 [21:21<3:41:56,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 50.91 | optimizer_step: 336.17 | optimizer_allgather: 1361.52
- 10%|▉         | 446/4590 [21:24<3:41:52,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.15 | optimizer_step: 336.10 | optimizer_allgather: 1362.68
- 10%|▉         | 447/4590 [21:27<3:41:49,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.06 | optimizer_step: 336.00 | optimizer_allgather: 1363.19
- 10%|▉         | 448/4590 [21:30<3:41:43,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.21 | optimizer_step: 336.13 | optimizer_allgather: 1364.02
- 10%|▉         | 449/4590 [21:33<3:41:37,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.14 | optimizer_step: 338.94 | optimizer_allgather: 1363.34
- 10%|▉         | 450/4590 [21:37<3:41:37,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.43 | optimizer_step: 337.39 | optimizer_allgather: 1363.84
- 10%|▉         | 451/4590 [21:40<3:41:36,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.20 | optimizer_step: 337.63 | optimizer_allgather: 1363.04
- 10%|▉         | 452/4590 [21:43<3:41:32,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.07 | optimizer_step: 337.29 | optimizer_allgather: 1363.65
- 10%|▉         | 453/4590 [21:46<3:41:29,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.46 | optimizer_step: 337.49 | optimizer_allgather: 1365.56
- 10%|▉         | 454/4590 [21:49<3:41:29,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.40 | optimizer_step: 337.50 | optimizer_allgather: 1363.77
- 10%|▉         | 455/4590 [21:53<3:41:26,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.16 | optimizer_step: 336.15 | optimizer_allgather: 1363.73
- 10%|▉         | 456/4590 [21:56<3:41:24,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.14 | optimizer_step: 336.29 | optimizer_allgather: 1366.55
- 10%|▉         | 457/4590 [21:59<3:41:21,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.56 | optimizer_step: 336.13 | optimizer_allgather: 1362.56
- 10%|▉         | 458/4590 [22:02<3:41:15,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.67 | optimizer_step: 336.10 | optimizer_allgather: 1363.45
- 10%|█         | 459/4590 [22:05<3:41:11,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.15 | optimizer_step: 336.18 | optimizer_allgather: 1364.84
- 10%|█         | 460/4590 [22:09<3:41:11,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.59 | optimizer_step: 336.19 | optimizer_allgather: 1363.68
- 10%|█         | 461/4590 [22:12<3:41:07,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.00 | optimizer_step: 338.67 | optimizer_allgather: 1363.48
- 10%|█         | 462/4590 [22:15<3:41:04,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.64 | optimizer_step: 337.32 | optimizer_allgather: 1361.98
- 10%|█         | 463/4590 [22:18<3:40:58,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.14 | optimizer_step: 337.72 | optimizer_allgather: 1361.71
- 10%|█         | 464/4590 [22:22<3:40:54,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.09 | optimizer_step: 337.46 | optimizer_allgather: 1363.26
- 10%|█         | 465/4590 [22:25<3:40:49,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.11 | optimizer_step: 337.38 | optimizer_allgather: 1363.72
- 10%|█         | 466/4590 [22:28<3:40:46,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.14 | optimizer_step: 338.56 | optimizer_allgather: 1363.13
- 10%|█         | 467/4590 [22:31<3:40:46,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.24 | optimizer_step: 340.55 | optimizer_allgather: 1361.70
- 10%|█         | 468/4590 [22:34<3:40:47,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.11 | optimizer_step: 336.09 | optimizer_allgather: 1364.40
- 10%|█         | 469/4590 [22:38<3:40:42,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.40 | optimizer_step: 336.10 | optimizer_allgather: 1365.63
- 10%|█         | 470/4590 [22:41<3:40:38,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.19 | optimizer_step: 336.84 | optimizer_allgather: 1364.81
- 10%|█         | 471/4590 [22:44<3:40:34,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.45 | optimizer_step: 336.16 | optimizer_allgather: 1364.46
- 10%|█         | 472/4590 [22:47<3:40:30,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.32 | optimizer_step: 336.00 | optimizer_allgather: 1364.70
- 10%|█         | 473/4590 [22:50<3:40:27,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.31 | optimizer_step: 338.27 | optimizer_allgather: 1362.05
- 10%|█         | 474/4590 [22:54<3:40:22,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.13 | optimizer_step: 338.36 | optimizer_allgather: 1362.35
- 10%|█         | 475/4590 [22:57<3:40:17,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.15 | optimizer_step: 338.09 | optimizer_allgather: 1364.74
- 10%|█         | 476/4590 [23:00<3:40:16,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.15 | optimizer_step: 337.62 | optimizer_allgather: 1361.62
- 10%|█         | 477/4590 [23:03<3:40:11,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.11 | optimizer_step: 337.16 | optimizer_allgather: 1363.28
- 10%|█         | 478/4590 [23:07<3:40:08,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.19 | optimizer_step: 337.51 | optimizer_allgather: 1361.32
- 10%|█         | 479/4590 [23:10<3:40:02,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.82 | optimizer_step: 336.05 | optimizer_allgather: 1362.04
- 10%|█         | 480/4590 [23:13<3:39:58,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.07 | optimizer_step: 335.97 | optimizer_allgather: 1365.19
- 10%|█         | 481/4590 [23:16<3:39:56,  3.21s/it][2021-01-27 04:35:03,031] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 1 Skipping step. Attempted loss scale: 1, reducing to 1
-[2021-01-27 04:35:03,031] [INFO] [stage2.py:1357:step] [deepscale] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 1, reducing to 1
- 11%|█         | 482/4590 [23:18<3:03:52,  2.69s/it]rank=0 time (ms) | optimizer_gradients: 49.24 | optimizer_step: 338.04 | optimizer_allgather: 1363.97
- 11%|█         | 483/4590 [23:21<3:14:39,  2.84s/it]rank=0 time (ms) | optimizer_gradients: 49.16 | optimizer_step: 336.74 | optimizer_allgather: 1365.07
- 11%|█         | 484/4590 [23:24<3:22:08,  2.95s/it]rank=0 time (ms) | optimizer_gradients: 49.58 | optimizer_step: 336.23 | optimizer_allgather: 1364.73
- 11%|█         | 485/4590 [23:27<3:27:24,  3.03s/it]rank=0 time (ms) | optimizer_gradients: 49.17 | optimizer_step: 338.01 | optimizer_allgather: 1363.04
- 11%|█         | 486/4590 [23:30<3:31:04,  3.09s/it]rank=0 time (ms) | optimizer_gradients: 49.16 | optimizer_step: 338.95 | optimizer_allgather: 1364.99
- 11%|█         | 487/4590 [23:34<3:33:39,  3.12s/it]rank=0 time (ms) | optimizer_gradients: 49.74 | optimizer_step: 337.67 | optimizer_allgather: 1361.30
- 11%|█         | 488/4590 [23:37<3:35:21,  3.15s/it]rank=0 time (ms) | optimizer_gradients: 49.41 | optimizer_step: 337.42 | optimizer_allgather: 1363.00
- 11%|█         | 489/4590 [23:40<3:36:34,  3.17s/it]rank=0 time (ms) | optimizer_gradients: 49.12 | optimizer_step: 338.39 | optimizer_allgather: 1362.21
- 11%|█         | 490/4590 [23:43<3:37:26,  3.18s/it]rank=0 time (ms) | optimizer_gradients: 49.01 | optimizer_step: 337.37 | optimizer_allgather: 1361.25
- 11%|█         | 491/4590 [23:47<3:37:55,  3.19s/it]rank=0 time (ms) | optimizer_gradients: 49.37 | optimizer_step: 338.79 | optimizer_allgather: 1363.19
- 11%|█         | 492/4590 [23:50<3:38:22,  3.20s/it]rank=0 time (ms) | optimizer_gradients: 49.17 | optimizer_step: 337.01 | optimizer_allgather: 1363.98
- 11%|█         | 493/4590 [23:53<3:38:37,  3.20s/it]rank=0 time (ms) | optimizer_gradients: 49.15 | optimizer_step: 336.15 | optimizer_allgather: 1364.93
- 11%|█         | 494/4590 [23:56<3:38:49,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.10 | optimizer_step: 336.24 | optimizer_allgather: 1364.21
- 11%|█         | 495/4590 [23:59<3:38:54,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.05 | optimizer_step: 336.83 | optimizer_allgather: 1364.58
- 11%|█         | 496/4590 [24:03<3:38:57,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.53 | optimizer_step: 336.05 | optimizer_allgather: 1364.12
- 11%|█         | 497/4590 [24:06<3:38:57,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.09 | optimizer_step: 338.17 | optimizer_allgather: 1362.43
- 11%|█         | 498/4590 [24:09<3:38:59,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.16 | optimizer_step: 337.54 | optimizer_allgather: 1361.53
- 11%|█         | 499/4590 [24:12<3:38:57,  3.21s/it]rank=0 time (ms) | optimizer_gradients: 49.21 | optimizer_step: 338.30 | optimizer_allgather: 1361.77
- 11%|█         | 500/4590 [24:15<3:38:53,  3.21s/it]                                                    {'loss': 4.8325, 'learning_rate': 3e-05, 'epoch': 0.33}
- 11%|█         | 500/4590 [24:16<3:38:53,  3.21s/it][INFO|trainer.py:1344] 2021-01-27 04:36:01,062 >> Saving model checkpoint to /home/nlp/apex/experiment/seq_clas/checkpoint-500
-[INFO|configuration_utils.py:300] 2021-01-27 04:36:01,179 >> Configuration saved in /home/nlp/apex/experiment/seq_clas/checkpoint-500/config.json
-[INFO|modeling_utils.py:817] 2021-01-27 04:36:09,871 >> Model weights saved in /home/nlp/apex/experiment/seq_clas/checkpoint-500/pytorch_model.bin
-[2021-01-27 04:36:10,336] [INFO] [logging.py:60:log_dist] [Rank 0] Saving model checkpoint: /home/nlp/apex/experiment/seq_clas/checkpoint-500/global_step0/mp_rank_00_model_states.pt
-[2021-01-27 04:36:46,211] [INFO] [engine.py:1493:_save_zero_checkpoint] zero checkpoint saved /home/nlp/apex/experiment/seq_clas/checkpoint-500/global_step0/zero_pp_rank_0_mp_rank_00optim_states.pt
-[2021-01-27 04:36:46,284] [INFO] [engine.py:1493:_save_zero_checkpoint] zero checkpoint saved /home/nlp/apex/experiment/seq_clas/checkpoint-500/global_step0/zero_pp_rank_1_mp_rank_00optim_states.pt
-rank=0 time (ms) | optimizer_gradients: 49.96 | optimizer_step: 338.00 | optimizer_allgather: 1353.04
- 11%|█         | 501/4590 [25:04<19:11:46, 16.90s/it]rank=0 time (ms) | optimizer_gradients: 49.81 | optimizer_step: 338.02 | optimizer_allgather: 1352.87
- 11%|█         | 502/4590 [25:07<14:31:19, 12.79s/it]rank=0 time (ms) | optimizer_gradients: 49.64 | optimizer_step: 339.60 | optimizer_allgather: 1353.62
- 11%|█         | 503/4590 [25:11<11:15:08,  9.91s/it]rank=0 time (ms) | optimizer_gradients: 49.73 | optimizer_step: 339.07 | optimizer_allgather: 1351.92
- 11%|█         | 504/4590 [25:14<8:57:46,  7.90s/it] rank=0 time (ms) | optimizer_gradients: 49.65 | optimizer_step: 339.96 | optimizer_allgather: 1354.47
- 11%|█         | 505/4590 [25:17<7:21:41,  6.49s/it]rank=0 time (ms) | optimizer_gradients: 50.01 | optimizer_step: 339.95 | optimizer_allgather: 1353.72
- 11%|█         | 506/4590 [25:20<6:14:27,  5.50s/it]rank=0 time (ms) | optimizer_gradients: 49.83 | optimizer_step: 339.37 | optimizer_allgather: 1354.08
- 11%|█         | 507/4590 [25:23<5:27:21,  4.81s/it]rank=0 time (ms) | optimizer_gradients: 49.74 | optimizer_step: 340.45 | optimizer_allgather: 1352.42
- 11%|█         | 508/4590 [25:27<4:54:24,  4.33s/it]rank=0 time (ms) | optimizer_gradients: 49.77 | optimizer_step: 345.78 | optimizer_allgather: 1353.14
- 11%|█         | 509/4590 [25:30<4:31:28,  3.99s/it]rank=0 time (ms) | optimizer_gradients: 50.38 | optimizer_step: 337.96 | optimizer_allgather: 1355.60
- 11%|█         | 510/4590 [25:33<4:15:16,  3.75s/it]rank=0 time (ms) | optimizer_gradients: 49.89 | optimizer_step: 337.85 | optimizer_allgather: 1353.62
- 11%|█         | 511/4590 [25:36<4:03:53,  3.59s/it]
+[2021-01-28 08:32:17,646] [WARNING] [runner.py:117:fetch_hostfile] Unable to find hostfile, will proceed with training with local resources only.
+[2021-01-28 08:32:17,681] [INFO] [runner.py:355:main] cmd = /usr/bin/python3 -u -m deepspeed.launcher.launch --world_info=eyJsb2NhbGhvc3QiOiBbMCwgMV19 --master_addr=127.0.0.1 --master_port=29500 run_seq_clas.py --model_name_or_path microsoft/DialoGPT-large --do_train --do_eval --max_seq_length 32 --per_device_train_batch_size 256 --output_dir /home/nlp/apex/experiment/seq_clas --fp16 --deepspeed ds_config.json
+[2021-01-28 08:32:18,792] [INFO] [launch.py:78:main] WORLD INFO DICT: {'localhost': [0, 1]}
+[2021-01-28 08:32:18,792] [INFO] [launch.py:84:main] nnodes=1, num_local_procs=2, node_rank=0
+[2021-01-28 08:32:18,792] [INFO] [launch.py:99:main] global_rank_mapping=defaultdict(<class 'list'>, {'localhost': [0, 1]})
+[2021-01-28 08:32:18,792] [INFO] [launch.py:100:main] dist_world_size=2
+[2021-01-28 08:32:18,792] [INFO] [launch.py:102:main] Setting CUDA_VISIBLE_DEVICES=0,1
+Traceback (most recent call last):
+  File "run_seq_clas.py", line 25, in <module>
+    from transformers.trainer_utils import is_main_process
+ImportError: cannot import name 'is_main_process' from 'transformers.trainer_utils' (/home/nlp/.local/lib/python3.8/site-packages/transformers/trainer_utils.py)
+Traceback (most recent call last):
+  File "run_seq_clas.py", line 25, in <module>
+    from transformers.trainer_utils import is_main_process
+ImportError: cannot import name 'is_main_process' from 'transformers.trainer_utils' (/home/nlp/.local/lib/python3.8/site-packages/transformers/trainer_utils.py)

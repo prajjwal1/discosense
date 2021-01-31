@@ -1,3 +1,4 @@
+import re
 import logging
 import os
 import random
@@ -31,6 +32,8 @@ task_to_keys = {
 }
 
 logger = logging.getLogger(__name__)
+PREFIX_CHECKPOINT_DIR = "checkpoint"
+_re_checkpoint = re.compile(r"^" + PREFIX_CHECKPOINT_DIR + r"\-(\d+)$")
 
 def get_last_checkpoint(folder):
     content = os.listdir(folder)

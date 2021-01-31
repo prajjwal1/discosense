@@ -137,16 +137,16 @@ class DataTrainingArguments:
         metadata={"help": "The number of processes to use for the preprocessing."},
     )
 
-    def __post_init__(self):
-        if self.dataset_name is None and self.train_file is None and self.validation_file is None:
-            raise ValueError("Need either a dataset name or a training/validation file.")
-        else:
-            if self.train_file is not None:
-                extension = self.train_file.split(".")[-1]
-                assert extension in ["csv", "json", "txt"], "`train_file` should be a csv, a json or a txt file."
-            if self.validation_file is not None:
-                extension = self.validation_file.split(".")[-1]
-                assert extension in ["csv", "json", "txt"], "`validation_file` should be a csv, a json or a txt file."
+#      def __post_init__(self):
+        #  if self.dataset_name is None and self.train_file is None and self.validation_file is None:
+            #  raise ValueError("Need either a dataset name or a training/validation file.")
+        #  else:
+            #  if self.train_file is not None:
+                #  extension = self.train_file.split(".")[-1]
+                #  assert extension in ["csv", "json", "txt"], "`train_file` should be a csv, a json or a txt file."
+            #  if self.validation_file is not None:
+                #  extension = self.validation_file.split(".")[-1]
+                #  assert extension in ["csv", "json", "txt"], "`validation_file` should be a csv, a json or a txt file."
 
 
 def main():
@@ -195,26 +195,9 @@ def main():
     # Set seed before initializing model.
     set_seed(training_args.seed)
 
-    # Get the datasets: you can either provide your own CSV/JSON/TXT training and evaluation files (see below)
-    # or just provide the name of one of the public datasets available on the hub at https://huggingface.co/datasets/
-    # (the dataset will be downloaded automatically from the datasets Hub).
-    #
-    # For CSV/JSON files, this script will use the column called 'text' or the first column if no column called
-    # 'text' is found. You can easily tweak this behavior (see below).
-    #
-    # In distributed training, the load_dataset function guarantee that only one local process can concurrently
-    # download the dataset.
-    datasets = load_dataset('/home/nlp/apex/commonsense-discourse/data/discovery.py', 'discovery', split='train[:50%]')
+    train_ds = load_dataset('/home/nlp/apex/commonsense-discourse/data/discovery.py', 'discovery', split='train[:50%]')
     validation_ds = load_dataset('/home/nlp/apex/commonsense-discourse/data/discovery.py', 'discovery',)["validation"]
 
-    # See more about loading any type of standard or custom dataset (from files, python dict, pandas DataFrame, etc) at
-    # https://huggingface.co/docs/datasets/loading_datasets.html.
-
-    # Load pretrained model and tokenizer
-    #
-    # Distributed training:
-    # The .from_pretrained methods guarantee that only one local process can concurrently
-    # download model & vocab.
 
     config_kwargs = {
         "cache_dir": model_args.cache_dir,
@@ -244,6 +227,8 @@ def main():
             "You are instantiating a new tokenizer from scratch. This is not supported by this script."
             "You can do it from another script, save it, and load it from here, using --tokenizer_name."
         )
+    tokenizer.add_special_tokens({'pad_token': '[PAD]'})
+
 
     if model_args.model_name_or_path:
         model = AutoModelForCausalLM.from_pretrained(
@@ -262,21 +247,28 @@ def main():
 
     # Preprocessing the datasets.
     # First we tokenize all the texts.
-    if training_args.do_train:
-        column_names = datasets.column_names
-    else:
-        column_names = datasets.column_names
-    text_column_name = "text" if "text" in column_names else column_names[0]
+    column_names = train_ds.column_names
+
+    def convert_labels_indices_to_labels(indices):
+        labels = []
+        for i in indices:
+            labels.append(LABELS[i])
+        return labels
+
+    def filter_func(examples):
+        indices = [i for i, n in enumerate(examples['input_ids']) if n == 985]
+        if len(indices)==2 and len(examples['input_ids']) > 32: return True
+        else: return False
 
 
     def tokenize_function(examples):
-        label_indices = examples['label']
-        examples['label'] = [LABELS[label_indices[0]], LABELS[label_indices[1]] ]
-        return tokenizer(examples['sentence1'] + [' '] + [examples['label']] + [' '] + examples['sentence2'])
+        text = LABELS[examples['label']] + ' [SEP] ' + examples['sentence1'] + ' [SEP] ' + examples['sentence2']
+        tokenized_input = tokenizer(text, add_special_tokens=True, max_length=64, padding='max_length', truncation=True)
+        return tokenized_input
 
-    tokenized_datasets = datasets.map(
+    train_ds = train_ds.map(
         tokenize_function,
-        batched=True,
+        batched=False,
         num_proc=data_args.preprocessing_num_workers,
         remove_columns=column_names,
         load_from_cache_file=not data_args.overwrite_cache,
@@ -284,62 +276,52 @@ def main():
 
     validation_ds = validation_ds.map(
         tokenize_function,
-        batched=True,
+        batched=False,
         num_proc=data_args.preprocessing_num_workers,
         remove_columns=column_names,
         load_from_cache_file=not data_args.overwrite_cache,
     )
 
+    train_ds = train_ds.filter(
+        filter_func,
+        num_proc=data_args.preprocessing_num_workers
+    )
+    validation_ds = validation_ds.filter(
+        filter_func,
+        num_proc=data_args.preprocessing_num_workers
+    )
 
-
-    if data_args.block_size is None:
-        block_size = tokenizer.model_max_length
-        if block_size > 1024:
-            logger.warn(
-                f"The tokenizer picked seems to have a very large `model_max_length` ({tokenizer.model_max_length}). "
-                "Picking 1024 instead. You can change that default value by passing --block_size xxx."
-            )
-        block_size = 1024
-    else:
-        if data_args.block_size > tokenizer.model_max_length:
-            logger.warn(
-                f"The block_size passed ({data_args.block_size}) is larger than the maximum length for the model"
-                f"({tokenizer.model_max_length}). Using block_size={tokenizer.model_max_length}."
-            )
-        block_size = min(data_args.block_size, tokenizer.model_max_length)
 
     # Main data processing function that will concatenate all texts from our dataset and generate chunks of block_size.
     def group_texts(examples):
         # Concatenate all texts.
-        concatenated_examples = {k: sum(examples[k], []) for k in examples.keys()}
-        total_length = len(concatenated_examples[list(examples.keys())[0]])
-        # We drop the small remainder, we could add padding if the model supported it instead of this drop, you can
-        # customize this part to your needs.
-        total_length = (total_length // block_size) * block_size
-        # Split by chunks of max_len.
-        result = {
-            k: [t[i : i + block_size] for i in range(0, total_length, block_size)]
-            for k, t in concatenated_examples.items()
-        }
-        result["labels"] = result["input_ids"].copy()
-        return result
+        second_sentence_start_pos = [i for i, n in enumerate(examples['input_ids']) if n == 985][1]
 
-    # Note that with `batched=True`, this map processes 1,000 texts together, so group_texts throws away a remainder
-    # for each of those groups of 1,000 texts. You can adjust that batch_size here but a higher value might be slower
-    # to preprocess.
-    #
+        attention_mask = examples["attention_mask"].copy()
+        token_type_ids = examples["token_type_ids"].copy()
+        labels = examples["input_ids"].copy()
+
+        attention_mask[:second_sentence_start_pos+1] = [0]*(second_sentence_start_pos+1)
+        token_type_ids[second_sentence_start_pos+1:] = [1]*(len(examples['input_ids'])-second_sentence_start_pos-1)
+        labels[:second_sentence_start_pos+1] = [-100]*(second_sentence_start_pos+1)
+
+        examples["attention_mask"] = attention_mask
+        examples["token_type_ids"] = token_type_ids
+        examples["labels"] = labels
+        return examples
+
     # To speed up this part, we use multiprocessing. See the documentation of the map method for more information:
     # https://huggingface.co/docs/datasets/package_reference/main_classes.html#datasets.Dataset.map
-    lm_datasets = tokenized_datasets.map(
+    train_ds = train_ds.map(
         group_texts,
-        batched=True,
+        batched=False,
         num_proc=data_args.preprocessing_num_workers,
         load_from_cache_file=not data_args.overwrite_cache,
     )
-
+    
     validation_ds = validation_ds.map(
         group_texts,
-        batched=True,
+        batched=False,
         num_proc=data_args.preprocessing_num_workers,
         load_from_cache_file=not data_args.overwrite_cache,
     )
@@ -349,7 +331,7 @@ def main():
     trainer = Trainer(
         model=model,
         args=training_args,
-        train_dataset=lm_datasets if training_args.do_train else None,
+        train_dataset=train_ds if training_args.do_train else None,
         eval_dataset=validation_ds if training_args.do_eval else None,
         tokenizer=tokenizer,
         # Data collator will default to DataCollatorWithPadding, so we change it.

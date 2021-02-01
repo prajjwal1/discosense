@@ -138,18 +138,6 @@ class DataTrainingArguments:
         metadata={"help": "The number of processes to use for the preprocessing."},
     )
 
-#      def __post_init__(self):
-        #  if self.dataset_name is None and self.train_file is None and self.validation_file is None:
-            #  raise ValueError("Need either a dataset name or a training/validation file.")
-        #  else:
-            #  if self.train_file is not None:
-                #  extension = self.train_file.split(".")[-1]
-                #  assert extension in ["csv", "json", "txt"], "`train_file` should be a csv, a json or a txt file."
-            #  if self.validation_file is not None:
-                #  extension = self.validation_file.split(".")[-1]
-                #  assert extension in ["csv", "json", "txt"], "`validation_file` should be a csv, a json or a txt file."
-
-
 def main():
     # See all possible arguments in src/transformers/training_args.py
     # or by passing the --help flag to this script.
@@ -220,6 +208,7 @@ def main():
         "use_fast": True,
         "revision": model_args.model_revision,
         "use_auth_token": True if model_args.use_auth_token else None,
+        "padding_side": 'right'
     }
     if model_args.tokenizer_name:
         tokenizer = AutoTokenizer.from_pretrained(model_args.tokenizer_name, **tokenizer_kwargs)

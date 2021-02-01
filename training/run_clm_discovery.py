@@ -27,6 +27,7 @@ import sys
 from dataclasses import dataclass, field
 from typing import Optional
 
+import torch
 from datasets import load_dataset
 
 import transformers
@@ -195,8 +196,10 @@ def main():
     # Set seed before initializing model.
     set_seed(training_args.seed)
 
-    train_ds = load_dataset('/home/nlp/apex/commonsense-discourse/data/discovery.py', 'discovery', split='train[:50%]')
+    train_ds = load_dataset('/home/nlp/apex/commonsense-discourse/data/discovery.py', 'discovery', split='train[:15%]')
     validation_ds = load_dataset('/home/nlp/apex/commonsense-discourse/data/discovery.py', 'discovery',)["validation"]
+
+    print(len(train_ds))
 
 
     config_kwargs = {
@@ -255,15 +258,12 @@ def main():
             labels.append(LABELS[i])
         return labels
 
-    def filter_func(examples):
-        indices = [i for i, n in enumerate(examples['input_ids']) if n == 985]
-        if len(indices)==2 and len(examples['input_ids']) > 32: return True
-        else: return False
-
 
     def tokenize_function(examples):
-        text = LABELS[examples['label']] + ' [SEP] ' + examples['sentence1'] + ' [SEP] ' + examples['sentence2']
+        len_context = len(tokenizer(LABELS[examples['label']] + ' ' + examples['sentence1']).input_ids)
+        text = LABELS[examples['label']] + ' ' + examples['sentence1'] + ' ' + examples['sentence2']
         tokenized_input = tokenizer(text, add_special_tokens=True, max_length=64, padding='max_length', truncation=True)
+        tokenized_input["context_length"] = len_context
         return tokenized_input
 
     train_ds = train_ds.map(
@@ -282,32 +282,28 @@ def main():
         load_from_cache_file=not data_args.overwrite_cache,
     )
 
-    train_ds = train_ds.filter(
-        filter_func,
-        num_proc=data_args.preprocessing_num_workers
-    )
-    validation_ds = validation_ds.filter(
-        filter_func,
-        num_proc=data_args.preprocessing_num_workers
-    )
-
 
     # Main data processing function that will concatenate all texts from our dataset and generate chunks of block_size.
     def group_texts(examples):
         # Concatenate all texts.
-        second_sentence_start_pos = [i for i, n in enumerate(examples['input_ids']) if n == 985][1]
+        second_sentence_start_pos = examples['context_length']
+        examples.pop('context_length')
 
-        attention_mask = examples["attention_mask"].copy()
-        token_type_ids = examples["token_type_ids"].copy()
-        labels = examples["input_ids"].copy()
+        token_type_ids = torch.tensor(examples["token_type_ids"].copy())
+        labels = torch.tensor(examples["input_ids"].copy())
 
-        attention_mask[:second_sentence_start_pos+1] = [0]*(second_sentence_start_pos+1)
-        token_type_ids[second_sentence_start_pos+1:] = [1]*(len(examples['input_ids'])-second_sentence_start_pos-1)
-        labels[:second_sentence_start_pos+1] = [-100]*(second_sentence_start_pos+1)
+        #  attention_mask = examples["attention_mask"].copy()
+        #  attention_mask[:second_sentence_start_pos+1] = [0]*(second_sentence_start_pos+1)
+        token_type_ids[second_sentence_start_pos+1:] = 1
+        labels[:second_sentence_start_pos+1] = -100
 
-        examples["attention_mask"] = attention_mask
-        examples["token_type_ids"] = token_type_ids
-        examples["labels"] = labels
+        #  examples["attention_mask"] = attention_mask
+        examples["token_type_ids"] = token_type_ids.tolist()
+        examples["labels"] = labels.tolist()
+
+        for k, v in examples.items():
+            assert len(examples[k])==64
+
         return examples
 
     # To speed up this part, we use multiprocessing. See the documentation of the map method for more information:

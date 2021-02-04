@@ -184,8 +184,8 @@ def main():
     # Set seed before initializing model.
     set_seed(training_args.seed)
 
-    train_ds = load_dataset('/home/nlp/apex/commonsense-discourse/data/discovery.py', 'discovery', split='train[:15%]')
-    validation_ds = load_dataset('/home/nlp/apex/commonsense-discourse/data/discovery.py', 'discovery',)["validation"]
+    train_ds = load_dataset('/home/nlp/apex/commonsense-discourse/data/discovery.py', 'discovery', split='train[40%:]')
+    validation_ds = load_dataset('/home/nlp/apex/commonsense-discourse/data/discovery.py', 'discovery', split='validation')
 
     print(len(train_ds))
 
@@ -208,7 +208,7 @@ def main():
         "use_fast": True,
         "revision": model_args.model_revision,
         "use_auth_token": True if model_args.use_auth_token else None,
-        "padding_side": 'right'
+        #  "padding_side": 'right'
     }
     if model_args.tokenizer_name:
         tokenizer = AutoTokenizer.from_pretrained(model_args.tokenizer_name, **tokenizer_kwargs)
@@ -283,8 +283,8 @@ def main():
 
         #  attention_mask = examples["attention_mask"].copy()
         #  attention_mask[:second_sentence_start_pos+1] = [0]*(second_sentence_start_pos+1)
-        token_type_ids[second_sentence_start_pos+1:] = 1
-        labels[:second_sentence_start_pos+1] = -100
+        token_type_ids[second_sentence_start_pos:] = 1
+        labels[:second_sentence_start_pos] = -100
 
         #  examples["attention_mask"] = attention_mask
         examples["token_type_ids"] = token_type_ids.tolist()
@@ -319,7 +319,6 @@ def main():
         train_dataset=train_ds if training_args.do_train else None,
         eval_dataset=validation_ds if training_args.do_eval else None,
         tokenizer=tokenizer,
-        # Data collator will default to DataCollatorWithPadding, so we change it.
         data_collator=default_data_collator,
     )
 

@@ -184,8 +184,8 @@ def main():
     # Set seed before initializing model.
     set_seed(training_args.seed)
 
-    train_ds = load_dataset('/home/nlp/apex/commonsense-discourse/data/discovery.py', 'discovery', split='train[40%:]')
-    validation_ds = load_dataset('/home/nlp/apex/commonsense-discourse/data/discovery.py', 'discovery', split='validation')
+    train_ds = load_dataset('discovery', 'discovery', split='train[7%:40%]')
+    validation_ds = load_dataset('discovery', 'discovery', split='validation')
 
     print(len(train_ds))
 
@@ -249,8 +249,13 @@ def main():
 
 
     def tokenize_function(examples):
-        len_context = len(tokenizer(LABELS[examples['label']] + ' ' + examples['sentence1']).input_ids)
-        text = LABELS[examples['label']] + ' ' + examples['sentence1'] + ' ' + examples['sentence2']
+        # ctrl
+        #  len_context = len(tokenizer(LABELS[examples['label']] + ' ' + examples['sentence1']).input_ids)
+        #  text = LABELS[examples['label']] + ' ' + examples['sentence1'] + ' ' + examples['sentence2']
+        # gpt2
+        len_context = len(tokenizer(examples['sentence1']+ ' ' + LABELS[examples['label']]).input_ids)
+        text  = examples['sentence1'] + ' ' + LABELS[examples['label']] + ' ' + examples['sentence2']
+
         tokenized_input = tokenizer(text, add_special_tokens=True, max_length=64, padding='max_length', truncation=True)
         tokenized_input["context_length"] = len_context
         return tokenized_input
@@ -272,22 +277,18 @@ def main():
     )
 
 
-    # Main data processing function that will concatenate all texts from our dataset and generate chunks of block_size.
     def group_texts(examples):
         # Concatenate all texts.
         second_sentence_start_pos = examples['context_length']
         examples.pop('context_length')
 
-        token_type_ids = torch.tensor(examples["token_type_ids"].copy())
+        #  token_type_ids = torch.tensor(examples["token_type_ids"].copy())
         labels = torch.tensor(examples["input_ids"].copy())
 
-        #  attention_mask = examples["attention_mask"].copy()
-        #  attention_mask[:second_sentence_start_pos+1] = [0]*(second_sentence_start_pos+1)
-        token_type_ids[second_sentence_start_pos:] = 1
+        #  token_type_ids[second_sentence_start_pos:] = 1
         labels[:second_sentence_start_pos] = -100
 
-        #  examples["attention_mask"] = attention_mask
-        examples["token_type_ids"] = token_type_ids.tolist()
+        #  examples["token_type_ids"] = token_type_ids.tolist()
         examples["labels"] = labels.tolist()
 
         for k, v in examples.items():
@@ -295,15 +296,13 @@ def main():
 
         return examples
 
-    # To speed up this part, we use multiprocessing. See the documentation of the map method for more information:
-    # https://huggingface.co/docs/datasets/package_reference/main_classes.html#datasets.Dataset.map
     train_ds = train_ds.map(
         group_texts,
         batched=False,
         num_proc=data_args.preprocessing_num_workers,
         load_from_cache_file=not data_args.overwrite_cache,
     )
-    
+
     validation_ds = validation_ds.map(
         group_texts,
         batched=False,
@@ -312,7 +311,6 @@ def main():
     )
 
 
-    # Initialize our Trainer
     trainer = Trainer(
         model=model,
         args=training_args,
@@ -322,7 +320,6 @@ def main():
         data_collator=default_data_collator,
     )
 
-    # Training
     if training_args.do_train:
         model_path = (
             model_args.model_name_or_path

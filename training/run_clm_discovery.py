@@ -47,6 +47,7 @@ from transformers.trainer_utils import is_main_process
 sys.path.append('..')
 from data.discovery_con import LABELS
 
+os.environ["WANDB_DISABLED"] = "true"
 
 logger = logging.getLogger(__name__)
 
@@ -184,7 +185,7 @@ def main():
     # Set seed before initializing model.
     set_seed(training_args.seed)
 
-    train_ds = load_dataset('discovery', 'discovery', split='train[7%:40%]')
+    train_ds = load_dataset('discovery', 'discovery', split='train[7%:]')
     validation_ds = load_dataset('discovery', 'discovery', split='validation')
 
     print(len(train_ds))

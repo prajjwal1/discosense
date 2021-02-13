@@ -13,11 +13,11 @@ from transformers import AutoModelForCausalLM, AutoTokenizer
 
 model_path = "/home/nlp/apex/experiment/ctrl/"
 
-dataset = load_dataset("discovery.py", "discovery")
+#  dataset = load_dataset("discovery", "discovery")
 
-discovery_train_ds = load_dataset("discovery.py", "discovery", split="train[:40%]")
-discovery_valid_ds = dataset["validation"]
-discovery_test_ds = dataset["test"]
+discovery_train_ds = load_dataset("discovery", "discovery", split="train[:7%]")
+discovery_valid_ds = load_dataset("discovery", "discovery", split="validation")
+discovery_test_ds =  load_dataset("discovery", "discovery", split="test")
 
 model = AutoModelForCausalLM.from_pretrained(model_path)
 tokenizer = AutoTokenizer.from_pretrained(

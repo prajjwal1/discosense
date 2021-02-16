@@ -156,7 +156,7 @@ discovery_ds = DiscoveryDatasetGenerate(
 
 synthetic_dataset = []
 
-for i in tqdm(range(1, 2001)):
+for i in tqdm(range(1, 7001)):
     example = {}
     values = discovery_train_ds[i]
     example["context"] = values["sentence1"]
@@ -165,7 +165,7 @@ for i in tqdm(range(1, 2001)):
     example.update(generated_options)
     synthetic_dataset.append(example)
 
-    if i==2000:
+    if i==7000:
         with open("../data/ctrl_main.json", "w") as fout:
             json.dump(synthetic_dataset, fout)
         sys.exit(0)

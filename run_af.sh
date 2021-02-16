@@ -1,0 +1,1 @@
+python3 run_af.py --classification_model_name_or_path roberta_large --autoregressive_model_name_or_path /home/nlp/apex/experiment/ctrl --freeze_encoder --data_path /home/nlp/apex/commonsense-discourse/data/ctrl_main.json --output_dir /home/nlp/apex/experiment/roberta 

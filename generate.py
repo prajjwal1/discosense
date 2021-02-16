@@ -8,7 +8,7 @@ from data.discovery_con import LABELS
 from utils import convert_dataset_to_json
 
 class DatasetGenerate:
-    def __init__(self, dataset, labels, tokenizer, model, decoding_options):
+    def __init__(self, dataset, model, tokenizer, labels, decoding_options):
         self.dataset = dataset
         self.labels = labels
         self.tokenizer = tokenizer
@@ -104,10 +104,9 @@ class DatasetGenerate:
 
 
 class AdversarialFiltering:
-    def __init__(self, generate_dataset, model, preds, decoding_options):
+    def __init__(self, generate_dataset, model, preds):
         self.generate_dataset = generate_dataset
         self.model = model
-        self.decoding_options = decoding_options
         self.preds = preds  # PredictionOutput, contains predictions, label_ids
         self.dataset = convert_dataset_to_json(generate_dataset.dataset)
 

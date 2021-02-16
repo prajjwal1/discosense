@@ -1,34 +1,13 @@
-import sys
-import torch
-import json
 import re
+import torch
 
-from datasets import load_dataset
+import numpy as np
 from tqdm import tqdm
 
-sys.path.append("..")
 from data.discovery_con import LABELS
+from utils import convert_dataset_to_json
 
-from transformers import AutoModelForCausalLM, AutoTokenizer
-
-model_path = "/home/nlp/apex/experiment/ctrl/"
-
-
-discovery_train_ds = load_dataset("discovery", "discovery", split="train[:1%]")
-discovery_valid_ds = load_dataset("discovery", "discovery", split="validation")
-discovery_test_ds = load_dataset("discovery", "discovery", split="test")
-
-model = AutoModelForCausalLM.from_pretrained(model_path)
-tokenizer = AutoTokenizer.from_pretrained(
-    model_path, max_length=64, padding="max_length", add_special_tokens=True
-)
-
-tokenizer.add_special_tokens({"pad_token": "[PAD]"})
-tokenizer.add_special_tokens({"cls_token": "[CLS]"})
-tokenizer.add_special_tokens({"sep_token": "[SEP]"})
-
-
-class DiscoveryDatasetGenerate:
+class DatasetGenerate:
     def __init__(self, dataset, labels, tokenizer, model, decoding_options):
         self.dataset = dataset
         self.labels = labels
@@ -52,7 +31,7 @@ class DiscoveryDatasetGenerate:
     def check_model_output(self, output_from_model, original_text_length):
         if (
             len(
-                tokenizer.decode(
+                self.tokenizer.decode(
                     output_from_model.squeeze(0), skip_special_tokens=True
                 )[original_text_length:]
             )
@@ -68,13 +47,19 @@ class DiscoveryDatasetGenerate:
 
         outputs = []
 
-        greedy_output = model.generate(input_ids=input_ids, **self.decoding_options[0])
-        beam_output = model.generate(input_ids=input_ids, **self.decoding_options[1])
-        top_p_k_output = model.generate(input_ids=input_ids, **self.decoding_options[2])
+        greedy_output = self.model.generate(
+            input_ids=input_ids, **self.decoding_options[0]
+        )
+        beam_output = self.model.generate(
+            input_ids=input_ids, **self.decoding_options[1]
+        )
+        top_p_k_output = self.model.generate(
+            input_ids=input_ids, **self.decoding_options[2]
+        )
 
         # Sometimes the greedy output is empty, so replace it with top-p-k
         if self.check_model_output(greedy_output, original_text_length):
-            greedy_output, top_p_k_output = model.generate(
+            greedy_output, top_p_k_output = self.model.generate(
                 input_ids=input_ids, **self.decoding_options[3]
             )[:]
 
@@ -89,7 +74,7 @@ class DiscoveryDatasetGenerate:
         example["ground_truth"] = self.dataset[idx]["sentence2"]
 
         for i, sample_output in enumerate(outputs):
-            text = tokenizer.decode(
+            text = self.tokenizer.decode(
                 sample_output.squeeze(0).tolist(), skip_special_tokens=True
             )[len_context:]
             if "." in text:
@@ -118,54 +103,37 @@ class DiscoveryDatasetGenerate:
         return clean_examples
 
 
-decoding_options_0 = {"max_length": 64, "repetition_penalty": 1.2, "temperature": 0}
+class AdversarialFiltering:
+    def __init__(self, generate_dataset, model, preds, decoding_options):
+        self.generate_dataset = generate_dataset
+        self.model = model
+        self.decoding_options = decoding_options
+        self.preds = preds  # PredictionOutput, contains predictions, label_ids
+        self.dataset = convert_dataset_to_json(generate_dataset.dataset)
 
-decoding_options_1 = {
-    "max_length": 64,
-    "num_beams": 5,
-    "no_repeat_ngram_size": 2,
-    "early_stopping": True,
-}
+    def get_solved_dataset(self):
+        predictions = []
+        for pred in self.preds.predictions:
+            predictions.append(np.argmax(pred))
 
-decoding_options_2 = {
-    "max_length": 64,
-    "do_sample": True,
-    "max_length": 64,
-    "top_k": 50,
-    "top_p": 0.95,
-}
+        indices = np.argwhere(self.preds.label_ids == predictions).squeeze().tolist()
 
-fallback_decoding = {
-    "max_length": 64,
-    "num_beams": 25,
-    "no_repeat_ngram_size": 2,
-    "num_return_sequences": 2,
-    "temperature": 0.7,
-    "early_stopping": True,
-}
+        solved_dataset = []
+        for idx in tqdm(indices):
+            if idx in indices:
+                solved_dataset.append(self.dataset[idx])
 
-decoding_options = []
-decoding_options.append(decoding_options_0)
-decoding_options.append(decoding_options_1)
-decoding_options.append(decoding_options_2)
-decoding_options.append(fallback_decoding)
+        return solved_dataset, indices
 
-discovery_ds = DiscoveryDatasetGenerate(
-    discovery_train_ds, LABELS, tokenizer, model, decoding_options
-)
+    def generate_new_samples(self):
+        solved_dataset, indices = self.get_solved_dataset()
 
-synthetic_dataset = []
-
-for i in tqdm(range(1, 2001)):
-    example = {}
-    values = discovery_train_ds[i]
-    example["context"] = values["sentence1"]
-    example["marker"] = LABELS[values["label"]]
-    generated_options = discovery_ds.generate_synthetic_options(i)
-    example.update(generated_options)
-    synthetic_dataset.append(example)
-
-    if i==2000:
-        with open("../data/ctrl_main.json", "w") as fout:
-            json.dump(synthetic_dataset, fout)
-        sys.exit(0)
+        for i in tqdm(range(len(solved_dataset))):
+            idx = indices[i]
+            example = {}
+            values = solved_dataset[i]
+            example["context"] = values["sentence1"]
+            example["marker"] = LABELS[values["label"]]
+            generated_options = self.generate_dataset.generate_synthetic_options(i)
+            example.update(generated_options)
+            self.dataset[idx] = example

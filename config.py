@@ -1,0 +1,28 @@
+decoding_options_0 = {'max_length': 64,
+                    'repetition_penalty': 1.2,
+                    'temperature': 0}
+
+decoding_options_1 = {'max_length': 64,
+                      'num_beams':5, 
+                      'no_repeat_ngram_size':2, 
+                      'early_stopping':True}
+
+decoding_options_2 = {'max_length': 64,
+                    'do_sample':True, 
+                    'max_length':64, 
+                    'top_k':50, 
+                    'top_p':0.95}
+
+fallback_decoding = {'max_length': 64,
+                     'num_beams':25, 
+                     'no_repeat_ngram_size':2,
+                     'num_return_sequences': 2,
+                     'temperature': 0.7,
+                     'early_stopping':True}
+decoding_options = []
+decoding_options.append(decoding_options_0)
+decoding_options.append(decoding_options_1)
+decoding_options.append(decoding_options_2)
+decoding_options.append(fallback_decoding)
+
+

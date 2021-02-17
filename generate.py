@@ -38,7 +38,6 @@ class DatasetGenerate:
             < 5
         ):
             self.fixed_sequences += 1
-            print("Detected an empty greedy output. Count: ", self.fixed_sequences)
             return True
         return False
 
@@ -75,7 +74,7 @@ class DatasetGenerate:
 
         for i, sample_output in enumerate(outputs):
             text = self.tokenizer.decode(
-                sample_output.squeeze(0).tolist(), skip_special_tokens=True
+                sample_output.squeeze(0).tolist(), skip_special_tokens=True, clean_up_tokenization_spaces=True
             )[len_context:]
             if "." in text:
                 prev_input_end_index = text.index(
@@ -104,11 +103,12 @@ class DatasetGenerate:
 
 
 class AdversarialFiltering:
-    def __init__(self, generate_dataset, model, preds):
-        self.generate_dataset = generate_dataset
+    def __init__(self, generate_dataset_func, model, generated_dataset, preds):
+        self.generate_dataset_func = generate_dataset_func
         self.model = model
         self.preds = preds  # PredictionOutput, contains predictions, label_ids
-        self.dataset = convert_dataset_to_json(generate_dataset.dataset)
+        self.original_dataset = convert_dataset_to_json(self.generate_dataset_func.dataset)
+        self.generated_dataset = convert_dataset_to_json(generated_dataset)
 
     def get_solved_dataset(self):
         predictions = []
@@ -120,8 +120,8 @@ class AdversarialFiltering:
         solved_dataset = []
         for idx in tqdm(indices):
             if idx in indices:
-                solved_dataset.append(self.dataset[idx])
-
+                solved_dataset.append(self.original_dataset[idx])
+        print("Creating ", len(indices), " new samples")
         return solved_dataset, indices
 
     def generate_new_samples(self):
@@ -133,6 +133,7 @@ class AdversarialFiltering:
             values = solved_dataset[i]
             example["context"] = values["sentence1"]
             example["marker"] = LABELS[values["label"]]
-            generated_options = self.generate_dataset.generate_synthetic_options(i)
+            generated_options = self.generate_dataset_func.generate_synthetic_options(i)
             example.update(generated_options)
-            self.dataset[idx] = example
+            self.generated_dataset[idx] = example
+        print('Replaced ', self.generate_dataset_func.fixed_sequences, ' sequences')

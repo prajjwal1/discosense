@@ -1,1 +1,2 @@
-python3 run_af.py --classification_model_name_or_path roberta_large --autoregressive_model_name_or_path /home/nlp/apex/experiment/ctrl --freeze_encoder --data_path /home/nlp/apex/commonsense-discourse/data/ctrl_main.json --output_dir /home/nlp/apex/experiment/roberta 
+CUDA_VISIBLDE_DEVICES=0 python3 run_af.py --classification_model_name_or_path roberta-large --autoregressive_model_name_or_path /home/nlp/apex/experiment/ctrl  --train_data_path /home/nlp/apex/commonsense-discourse/data/ctrl_main.json --validation_data_path /home/nlp/apex/commonsense-discourse/data/ctrl_va --output_dir /home/nlp/apex/experiment/roberta --per_device_train_batch_size 32 --per_device_eval_batch_size 32 --num_train_epochs 1
+# --freeze_encoder

@@ -3,6 +3,7 @@ import torch
 import json
 import re
 from dataclasses import dataclass, field
+from typing import Optional
 
 from datasets import load_dataset
 from tqdm import tqdm
@@ -24,8 +25,8 @@ class ModelArguments:
 
 @dataclass
 class DataTrainingArguments:
-    dataset_mode: str = field(metadata={"help": "name or path"})
-    output_file_path: str = field(metadata={"help": "File path for generated dataset")
+    #  dataset_mode: str = field(metadata={"help": "name or path"})
+    output_file_path: str = field(metadata={"help": "File path for generated dataset"})
     train_pct: Optional[int] = field(default=None)
     valid_pct: Optional[int] = field(default=None)
 
@@ -33,18 +34,18 @@ parser = HfArgumentParser((ModelArguments, DataTrainingArguments))
 model_args, data_args = parser.parse_args_into_dataclasses()
 
 
-if data_args.train_pct:
-    discovery_dataset = load_dataset("discovery", "discovery", split= f"train[:{data_args.train_pct}%]")
-    print(f"Using {data_args.train_pct} of training data")
-else:
+if data_args.valid_pct:
     discovery_dataset = load_dataset("discovery", "discovery", split= f"validation[:{data_args.valid_pct}%]")
-    print(f"Using {data_args.valid_pct} of validation data")
+    print(f"Using {data_args.valid_pct}% of validation data")
+else:
+    discovery_dataset = load_dataset("discovery", "discovery", split= f"train[:{data_args.train_pct}%]")
+    print(f"Using {data_args.train_pct}% of training data")
 
 #  discovery_test_ds = load_dataset("discovery", "discovery", split="test")
 
-model = AutoModelForCausalLM.from_pretrained(model_path)
+model = AutoModelForCausalLM.from_pretrained(model_args.model_name_or_path)
 tokenizer = AutoTokenizer.from_pretrained(
-    model_path, max_length=96, padding="max_length", add_special_tokens=True
+    model_args.model_name_or_path, max_length=96, padding="max_length", add_special_tokens=True
 )
 
 tokenizer.add_special_tokens({"pad_token": "[PAD]"})
@@ -67,5 +68,5 @@ for i in tqdm(range(len(discovery_dataset))):
     example.update(generated_options)
     synthetic_dataset.append(example)
 
-with open(output_file_path, "w") as fout:
+with open(data_args.output_file_path, "w") as fout:
     json.dump(synthetic_dataset, fout)

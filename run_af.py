@@ -51,7 +51,8 @@ class ModelArguments:
 @dataclass
 class DataTrainingArguments:
     train_data_path: str = field(metadata={"help": "Path of generated data"})
-    valididation_data_path: str = field(metadata={"help": "Path for validation set"})
+    validation_data_path: str = field(metadata={"help": "Path for validation set"})
+    file_output_path: str = field(metadata={"help":"File Path of generated dataset"})
     replace_dataset: Optional[str] = field(default="validation")
 
 @dataclass
@@ -87,7 +88,7 @@ def train_classification(generated_train_dataset, generated_validation_dataset, 
     trainer = Trainer(
                 model=classification_model,
                 args=training_args,
-                train_dataset=generated_dataset,
+                train_dataset=generated_train_dataset,
                 compute_metrics=compute_metrics,
                 tokenizer=classification_tokenizer,
                 data_collator=default_data_collator
@@ -114,7 +115,7 @@ parser = HfArgumentParser((ModelArguments, DataTrainingArguments, CustomTraining
 model_args, data_args, training_args = parser.parse_args_into_dataclasses()
 
 generated_train_dataset = Dataset.from_pandas(pd.read_json(data_args.train_data_path))
-generated_validation_dataset = Dataset.from_pandas(pd.read_json(data_args.valid_data_path))
+generated_validation_dataset = Dataset.from_pandas(pd.read_json(data_args.validation_data_path))
 
 preds = train_classification(generated_train_dataset, generated_validation_dataset, model_args, run_inference_only=training_args.run_inference_only)
 
@@ -127,5 +128,5 @@ print("Adversarial Filtering In Progress")
 
 af = run_adversarial_filtering(original_dataset, generated_validation_dataset, preds)
 
-with open("data/ctrl_main_new.json", "w") as fout:
+with open(data_args.file_output_path, "w") as fout:
     json.dump(af.generated_dataset, fout)

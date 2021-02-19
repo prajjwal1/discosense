@@ -57,7 +57,7 @@ class DataTrainingArguments:
 
 @dataclass
 class CustomTrainingArguments(TrainingArguments):
-    run_inference_only: Optional[str] = field(default=False)
+    run_inference_only: Optional[bool] = field(default=False)
 
 def train_classification(generated_train_dataset, generated_validation_dataset, model_args, run_inference_only):
     classification_config = AutoConfig.from_pretrained(model_args.classification_model_name_or_path)
@@ -96,6 +96,7 @@ def train_classification(generated_train_dataset, generated_validation_dataset, 
     if not run_inference_only:
         print("Training In-Progress")
         trainer.train()
+        trainer.save_model()
     print("Running Inference")
     preds = trainer.predict(generated_validation_dataset)
     print(preds.metrics)
@@ -114,6 +115,7 @@ def run_adversarial_filtering(original_dataset, generated_dataset, preds):
 parser = HfArgumentParser((ModelArguments, DataTrainingArguments, CustomTrainingArguments))
 model_args, data_args, training_args = parser.parse_args_into_dataclasses()
 
+#  if not training_args.run_inference_only:
 generated_train_dataset = Dataset.from_pandas(pd.read_json(data_args.train_data_path))
 generated_validation_dataset = Dataset.from_pandas(pd.read_json(data_args.validation_data_path))
 
@@ -130,3 +132,5 @@ af = run_adversarial_filtering(original_dataset, generated_validation_dataset, p
 
 with open(data_args.file_output_path, "w") as fout:
     json.dump(af.generated_dataset, fout)
+
+

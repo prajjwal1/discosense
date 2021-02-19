@@ -209,7 +209,6 @@ def main():
         "use_fast": True,
         "revision": model_args.model_revision,
         "use_auth_token": True if model_args.use_auth_token else None,
-        #  "padding_side": 'right'
     }
     if model_args.tokenizer_name:
         tokenizer = AutoTokenizer.from_pretrained(model_args.tokenizer_name, **tokenizer_kwargs)
@@ -280,8 +279,7 @@ def main():
 
     def group_texts(examples):
         # Concatenate all texts.
-        second_sentence_start_pos = examples['context_length']
-        examples.pop('context_length')
+        second_sentence_start_pos = examples.pop('context_length')
 
         #  token_type_ids = torch.tensor(examples["token_type_ids"].copy())
         labels = torch.tensor(examples["input_ids"].copy())

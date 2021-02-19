@@ -1,4 +1,5 @@
 import re
+from string import digits
 import torch
 
 import numpy as np
@@ -6,6 +7,7 @@ from tqdm import tqdm
 
 from data.discovery_con import LABELS
 from utils import convert_dataset_to_json
+
 
 class DatasetGenerate:
     def __init__(self, dataset, model, tokenizer, labels, decoding_options):
@@ -16,6 +18,7 @@ class DatasetGenerate:
         self.model = model.to(self.device).eval()
         self.decoding_options = decoding_options
         self.fixed_sequences = 0
+        self.remove_digits = str.maketrans('', '', digits)
 
     def get_sentence_as_context(self, idx, sentence_order):
         context = self.dataset[idx]
@@ -86,6 +89,11 @@ class DatasetGenerate:
             if text[0] == ".":
                 text = text[1:]
                 text = text.replace(".", "").strip()
+
+            # check for numbers that model generates, only 2 nums allowed
+            if sum(c.isdigit() for c in text) > 2:
+                text = text.translate(self.remove_digits)
+
             example["option_" + str(i)] = text
 
         return example
@@ -133,7 +141,7 @@ class AdversarialFiltering:
             values = solved_dataset[i]
             example["context"] = values["sentence1"]
             example["marker"] = LABELS[values["label"]]
-            generated_options = self.generate_dataset_func.generate_synthetic_options(i)
+            generated_options = self.generate_dataset_func.generate_synthetic_options(idx)
             example.update(generated_options)
             self.generated_dataset[idx] = example
         print('Replaced ', self.generate_dataset_func.fixed_sequences, ' sequences')

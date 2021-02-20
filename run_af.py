@@ -122,9 +122,9 @@ generated_validation_dataset = Dataset.from_pandas(pd.read_json(data_args.valida
 preds = train_classification(generated_train_dataset, generated_validation_dataset, model_args, run_inference_only=training_args.run_inference_only)
 
 if data_args.replace_dataset =='validation':
-    original_dataset = load_dataset('discovery', 'discovery', split='validation[:2%]')
+    original_dataset = load_dataset('discovery', 'discovery', split='validation[:3%]')
 else:
-    original_dataset = load_dataset('discovery', 'discovery', split='train[:2%]')
+    original_dataset = load_dataset('discovery', 'discovery', split='train[:7%]')
 
 print("Adversarial Filtering In Progress")
 

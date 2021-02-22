@@ -20,7 +20,7 @@ decoding_options_2 = {'do_sample':True,
 fallback_decoding = {'max_length': 96,
                      'num_beams':25,
                      'no_repeat_ngram_size':2,
-                     'num_return_sequences': 2,
+                     'num_return_sequences': 1,
                      'temperature': 0.6,
                      'early_stopping':True}
 

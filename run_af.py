@@ -125,9 +125,11 @@ def train_classification(
     remove_columns = ["option_0", "option_1", "option_2", "ground_truth"]
     print("Performing tokenization of dataset")
 
-    generated_train_dataset = generated_train_dataset.map(
-        preprocess_function, remove_columns=remove_columns
-    )
+    if not run_inference_only:
+        generated_train_dataset = generated_train_dataset.map(
+            preprocess_function, remove_columns=remove_columns
+        )
+
     generated_validation_dataset = generated_validation_dataset.map(
         preprocess_function, remove_columns=remove_columns
     )

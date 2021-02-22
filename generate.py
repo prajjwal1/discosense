@@ -56,36 +56,35 @@ class DatasetGenerate:
         """
         input_ids = tokenized_context["input_ids"].to(self.device)
 
-        if not option_id:
+        output = []
+        if option_id is not None:
+            output.append(self.model.generate(
+                input_ids=input_ids, **self.decoding_options[0]
+            ))
+        else:
             output = []
             for i in range(3):
                 output.append(self.model.generate(
                     input_ids=input_ids, **self.decoding_options[i]
                 ))
             # Sometimes the greedy output is empty, so replace it with top-p-k
-            if self.check_model_output(outputs[0], original_text_length):
-                output[0] = self.model.generate(
-                input_ids=input_ids, **self.decoding_options[3]
-                )
-            return outputs
-        else:
-            output = self.model.generate(
-                input_ids=input_ids, **self.decoding_options[0]
+        if self.check_model_output(output[0], original_text_length):
+            output[0] = self.model.generate(
+                input_ids=input_ids, **self.decoding_options[-1]
             )
-            return output
+        return output
 
     def cleanup_generated_examples(
         self, outputs, idx, len_context, marker, to_predict_context, option_id=None
     ):
         example = {}
-        example["ground_truth"] = self.dataset[idx][to_predict_context]
-
         for i, sample_output in enumerate(outputs):
-            text = self.tokenizer.decode(
+            text = self.tokenizer.decode(              #[1,max_len]
                 sample_output.squeeze(0).tolist(),
                 skip_special_tokens=True,
                 clean_up_tokenization_spaces=True,
             )[len_context:]
+
             if "." in text:
                 prev_input_end_index = text.index(
                     "."
@@ -101,26 +100,27 @@ class DatasetGenerate:
             if sum(c.isdigit() for c in text) > 2:
                 text = text.translate(self.remove_digits)
 
-            if not option_id:
-                example["option_" + str(i)] = text
-            else:
+            if option_id is not None:
                 example["option_" + str(option_id)] = text
-                return example
+                break
+            else:
+                example["ground_truth"] = self.dataset[idx][to_predict_context]
+                example["option_" + str(i)] = text
 
         return example
 
     def generate_synthetic_options(
-        self, idx, option_id, context="sentence1", to_predict_next="sentence2"
+        self, idx, option_id=None, context="sentence1", to_predict_next="sentence2"
     ):
         tokenized_context, marker, original_text_length = self.get_sentence_as_context(
             idx, context
         )
         len_context = len(self.dataset[idx][context])
-        outputs = self.generate_from_model(
-            tokenized_context, original_text_length, option_id
+        output = self.generate_from_model(
+            tokenized_context, original_text_length, option_id=option_id
         )
         clean_examples = self.cleanup_generated_examples(
-            outputs, idx, len_context, marker, to_predict_next, option_id
+            output, idx, len_context, marker, to_predict_next, option_id=option_id
         )
         return clean_examples
 
@@ -162,6 +162,7 @@ class AdversarialFiltering:
         for idx in tqdm(indices):
             if idx in indices:
                 solved_dataset.append(self.original_dataset[idx])
+        print(len(indices), " were classified correctly ")
         return solved_dataset, indices_dict if return_dict else indices
 
     def generate_new_samples(self, context, to_predict_next, replace_one):
@@ -187,15 +188,16 @@ class AdversarialFiltering:
             values = solved_dataset[i]
             example["context"] = values[context]
             example["marker"] = LABELS[values["label"]]
+
             generated_output = self.generate_dataset_func.generate_synthetic_options(
-                idx, option_id, context=context, to_predict_next=to_predict_next
+                idx, option_id=option_id, context=context, to_predict_next=to_predict_next
             )
 
             if replace_one:
-                assert len(generated_output) == 1
-                self.generated_dataset[idx][
-                    "options_" + str(option_id)
-                ] = generated_output
+                assert len(generated_output) == 1 # returns ground_truth and option_id example
+
+                for k,v in generated_output.items():
+                    self.generated_dataset[idx][k] = v
             else:
                 example.update(generated_output)
                 self.generated_dataset[idx] = example

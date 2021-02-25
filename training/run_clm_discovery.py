@@ -250,13 +250,10 @@ def main():
 
     def tokenize_function(examples):
         # ctrl
-        #  len_context = len(tokenizer(LABELS[examples['label']] + ' ' + examples['sentence1']).input_ids)
-        #  text = LABELS[examples['label']] + ' ' + examples['sentence1'] + ' ' + examples['sentence2']
-        # gpt2
-        len_context = len(tokenizer(examples['sentence1']+ ' ' + LABELS[examples['label']]).input_ids)
-        text  = examples['sentence1'] + ' ' + LABELS[examples['label']] + ' ' + examples['sentence2']
+        len_context = len(tokenizer(LABELS[examples['label']] + ' ' + examples['sentence1']).input_ids)
+        text = LABELS[examples['label']] + ' ' + examples['sentence1'] + ' ' + examples['sentence2']
 
-        tokenized_input = tokenizer(text, add_special_tokens=True, max_length=64, padding='max_length', truncation=True)
+        tokenized_input = tokenizer(text, add_special_tokens=True, max_length=96, padding='max_length', truncation=True)
         tokenized_input["context_length"] = len_context
         return tokenized_input
 
@@ -290,8 +287,8 @@ def main():
         #  examples["token_type_ids"] = token_type_ids.tolist()
         examples["labels"] = labels.tolist()
 
-        for k, v in examples.items():
-            assert len(examples[k])==64
+        #  for k, v in examples.items():
+            #  assert len(examples[k])==64
 
         return examples
 

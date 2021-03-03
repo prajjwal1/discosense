@@ -250,8 +250,8 @@ def main():
 
     def tokenize_function(examples):
         # ctrl
-        len_context = len(tokenizer(LABELS[examples['label']] + ' ' + examples['sentence1']).input_ids)
-        text = LABELS[examples['label']] + ' ' + examples['sentence1'] + ' ' + examples['sentence2']
+        len_context = len(tokenizer(LABELS[examples['label']] + ' ' + examples['sentence2']).input_ids)
+        text = LABELS[examples['label']] + ' ' + examples['sentence2'] + ' ' + examples['sentence1']
 
         tokenized_input = tokenizer(text, add_special_tokens=True, max_length=96, padding='max_length', truncation=True)
         tokenized_input["context_length"] = len_context

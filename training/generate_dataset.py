@@ -69,4 +69,4 @@ for i in tqdm(range(len(discovery_dataset))):
     synthetic_dataset.append(example)
 
 with open(data_args.output_file_path, "w") as fout:
-    json.dump(synthetic_dataset, fout)
+    json.dump(synthetic_dataset, fout, indent=4)

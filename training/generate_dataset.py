@@ -27,6 +27,8 @@ class ModelArguments:
 class DataTrainingArguments:
     #  dataset_mode: str = field(metadata={"help": "name or path"})
     output_file_path: str = field(metadata={"help": "File path for generated dataset"})
+    context_col: str
+    to_predict_next_col: str
     train_pct: Optional[int] = field(default=None)
     valid_pct: Optional[int] = field(default=None)
 
@@ -44,8 +46,10 @@ else:
 #  discovery_test_ds = load_dataset("discovery", "discovery", split="test")
 
 model = AutoModelForCausalLM.from_pretrained(model_args.model_name_or_path)
+
+# take greedy decoding config's max_length since output is the shortest
 tokenizer = AutoTokenizer.from_pretrained(
-    model_args.model_name_or_path, max_length=96, padding="max_length", add_special_tokens=True
+    model_args.model_name_or_path, max_length=decoding_options[0]['max_length'], padding="max_length", add_special_tokens=True
 )
 
 tokenizer.add_special_tokens({"pad_token": "[PAD]"})
@@ -62,9 +66,9 @@ synthetic_dataset = []
 for i in tqdm(range(len(discovery_dataset))):
     example = {}
     values = discovery_dataset[i]
-    example["context"] = values["sentence1"]
+    example["context"] = values[data_args.context_col]
     example["marker"] = LABELS[values["label"]]
-    generated_options = discovery_ds.generate_synthetic_options(i)
+    generated_options = discovery_ds.generate_synthetic_options(i, option_id=None, context_col=data_args.context_col, to_predict_next_col=data_args.to_predict_next_col)
     example.update(generated_options)
     synthetic_dataset.append(example)
 

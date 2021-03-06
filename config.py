@@ -1,4 +1,4 @@
-MAX_LENGTH = 96
+MAX_LENGTH = 72
 
 decoding_options_0 = {'max_length': MAX_LENGTH,
                     'repetition_penalty': 1.2,

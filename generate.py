@@ -58,6 +58,7 @@ class DatasetGenerate:
 
         output = []
         if option_id is not None:
+            # Use greedy for AF (replace one) option
             output.append(self.model.generate(
                 input_ids=input_ids, **self.decoding_options[0]
             ))
@@ -90,11 +91,11 @@ class DatasetGenerate:
                     "."
                 )  # remove context in generated output
                 text = text[prev_input_end_index:]
-            text = re.sub("[^A-Za-z0-9\. ]+", "", text)  # remove special characters
+            text = re.sub("[^A-Za-z0-9\. ]+", "", text)  # remove special characters, preserves .
             text = text.replace(marker, "")  # 2. remove marker
             if text[0] == ".":
                 text = text[1:]
-                text = text.replace(".", "").strip()
+                #  text = text.replace(".", "").strip()
 
             # check for numbers that model generates, only 2 nums allowed
             if sum(c.isdigit() for c in text) > 2:
@@ -110,17 +111,17 @@ class DatasetGenerate:
         return example
 
     def generate_synthetic_options(
-        self, idx, option_id=None, context="sentence1", to_predict_next="sentence2"
+        self, idx, option_id, context_col, to_predict_next_col
     ):
         tokenized_context, marker, original_text_length = self.get_sentence_as_context(
-            idx, context
+            idx, context_col
         )
-        len_context = len(self.dataset[idx][context])
+        len_context = len(self.dataset[idx][context_col])
         output = self.generate_from_model(
             tokenized_context, original_text_length, option_id=option_id
         )
         clean_examples = self.cleanup_generated_examples(
-            output, idx, len_context, marker, to_predict_next, option_id=option_id
+            output, idx, len_context, marker, to_predict_next_col, option_id=option_id
         )
         return clean_examples
 
@@ -152,20 +153,31 @@ class AdversarialFiltering:
 
         indices = np.argwhere(self.preds.label_ids == predictions).squeeze().tolist()
 
+        # It should be compatible with training set (can contain shuffled options),
+        # If the model's certaintly on GT is least, remove the second least confident option
+
         if return_dict:
             indices_dict = {}
+
+            #  predictions_logit, label_ids = self.preds.predictions, self.preds.label_ids
+
             for idx, pred in enumerate(self.preds.predictions):
                 if idx in indices:
-                    indices_dict[idx] = np.argmin(pred)
+                    # Remove ground truth from pred
+                    # GT is located at 0th index
+                    indices_dict[idx] = np.argmin(pred[1:])
 
         solved_dataset = []
         for idx in tqdm(indices):
             if idx in indices:
                 solved_dataset.append(self.original_dataset[idx])
+
+        assert len(solved_dataset) == len(indices_dict)
         print(len(indices), " were classified correctly ")
+
         return solved_dataset, indices_dict if return_dict else indices
 
-    def generate_new_samples(self, context, to_predict_next, replace_one):
+    def generate_new_samples(self, context_col, to_predict_next_col, replace_one):
         """
         Responsible for replacing correctly classified options
 
@@ -186,21 +198,22 @@ class AdversarialFiltering:
             idx, option_id = indices[i], option_ids[i]
             example = {}
             values = solved_dataset[i]
-            example["context"] = values[context]
+            example["context"] = values[context_col]
             example["marker"] = LABELS[values["label"]]
 
             generated_output = self.generate_dataset_func.generate_synthetic_options(
-                idx, option_id=option_id, context=context, to_predict_next=to_predict_next
+                idx, option_id=option_id, context_col=context_col, to_predict_next_col=to_predict_next_col
             )
 
             if replace_one:
                 assert len(generated_output) == 1 # returns ground_truth and option_id example
 
-                for k,v in generated_output.items():
+                for k, v in generated_output.items():
+                    assert k in self.generated_dataset[i].keys()
                     self.generated_dataset[idx][k] = v
             else:
                 example.update(generated_output)
                 self.generated_dataset[idx] = example
 
-        print("Replaced ", self.generate_dataset_func.fixed_sequences, " sequences")
+        print("Found ", self.generate_dataset_func.fixed_sequences, " empty greedy output(s)")
         return self.generated_dataset

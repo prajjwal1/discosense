@@ -112,6 +112,8 @@ class DataTrainingArguments:
     dataset_config_name: Optional[str] = field(
         default=None, metadata={"help": "The configuration name of the dataset to use (via the datasets library)."}
     )
+    context_col: str
+    to_predict_next_col: str
     train_file: Optional[str] = field(default=None, metadata={"help": "The input training data file (a text file)."})
     validation_file: Optional[str] = field(
         default=None,
@@ -185,8 +187,8 @@ def main():
     # Set seed before initializing model.
     set_seed(training_args.seed)
 
-    train_ds = load_dataset('discovery', 'discovery', split='train[7%:]')
-    validation_ds = load_dataset('discovery', 'discovery', split='validation')
+    train_ds = load_dataset(data_args.dataset_name, data_args.dataset_config_name, split='test')
+    validation_ds = load_dataset(data_args.dataset_name, data_args.config_name, split='validation')
 
     print(len(train_ds))
 
@@ -250,8 +252,8 @@ def main():
 
     def tokenize_function(examples):
         # ctrl
-        len_context = len(tokenizer(LABELS[examples['label']] + ' ' + examples['sentence2']).input_ids)
-        text = LABELS[examples['label']] + ' ' + examples['sentence2'] + ' ' + examples['sentence1']
+        len_context = len(tokenizer(LABELS[examples['label']] + ' ' + examples[data_args.context_col]).input_ids)
+        text = LABELS[examples['label']] + ' ' + examples[data_args.context_col] + ' ' + examples[data_args.to_predict_next_col]
 
         tokenized_input = tokenizer(text, add_special_tokens=True, max_length=96, padding='max_length', truncation=True)
         tokenized_input["context_length"] = len_context
@@ -275,20 +277,11 @@ def main():
 
 
     def group_texts(examples):
-        # Concatenate all texts.
         second_sentence_start_pos = examples.pop('context_length')
 
-        #  token_type_ids = torch.tensor(examples["token_type_ids"].copy())
         labels = torch.tensor(examples["input_ids"].copy())
-
-        #  token_type_ids[second_sentence_start_pos:] = 1
         labels[:second_sentence_start_pos] = -100
-
-        #  examples["token_type_ids"] = token_type_ids.tolist()
         examples["labels"] = labels.tolist()
-
-        #  for k, v in examples.items():
-            #  assert len(examples[k])==64
 
         return examples
 

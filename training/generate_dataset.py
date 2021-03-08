@@ -29,19 +29,21 @@ class DataTrainingArguments:
     output_file_path: str = field(metadata={"help": "File path for generated dataset"})
     context_col: str
     to_predict_next_col: str
-    train_pct: Optional[int] = field(default=None)
-    valid_pct: Optional[int] = field(default=None)
+    train_pct_range: Optional[str] = field(default=None)
+    valid_pct_range: Optional[str] = field(default=None)
 
 parser = HfArgumentParser((ModelArguments, DataTrainingArguments))
 model_args, data_args = parser.parse_args_into_dataclasses()
 
 
-if data_args.valid_pct:
-    discovery_dataset = load_dataset("discovery", "discovery", split= f"validation[:{data_args.valid_pct}%]")
-    print(f"Using {data_args.valid_pct}% of validation data")
+if data_args.valid_pct_range:
+    start_valid_pct, end_valid_pct = map(int, data_args.valid_pct_range.split("-"))
+    discovery_dataset = load_dataset("discovery", "discovery", split= f"validation[{data_args.start_valid_pct}:{data_args.end_valid_pct}%]")
+    print(f"Using {start_valid_pct}-{end_valid_pct}% of validation data")
 else:
-    discovery_dataset = load_dataset("discovery", "discovery", split= f"train[:{data_args.train_pct}%]")
-    print(f"Using {data_args.train_pct}% of training data")
+    start_train_pct, end_train_pct = map(int, data_args.train_pct_range.split("-"))
+    discovery_dataset = load_dataset("discovery", "discovery", split= f"train[{data_args.start_train_pct}:{data_args.end_train_pct}%]")
+    print(f"Using {start_train_pct}-{end_train_pct}% of training data")
 
 #  discovery_test_ds = load_dataset("discovery", "discovery", split="test")
 

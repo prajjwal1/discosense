@@ -69,10 +69,10 @@ class DatasetGenerate:
                     input_ids=input_ids, **self.decoding_options[i]
                 ))
             # Sometimes the greedy output is empty, so replace it with top-p-k
-#          if self.check_model_output(output[0], original_text_length):
-            #  output[0] = self.model.generate(
-                #  input_ids=input_ids, **self.decoding_options[-1]
-            #  )
+        if self.check_model_output(output[0], original_text_length):
+            output[0] = self.model.generate(
+                input_ids=input_ids, **self.decoding_options[-1]
+            )
         return output
 
     def cleanup_generated_examples(

@@ -38,11 +38,11 @@ model_args, data_args = parser.parse_args_into_dataclasses()
 
 if data_args.valid_pct_range:
     start_valid_pct, end_valid_pct = map(int, data_args.valid_pct_range.split("-"))
-    discovery_dataset = load_dataset("discovery", "discovery", split= f"validation[{data_args.start_valid_pct}:{data_args.end_valid_pct}%]")
+    discovery_dataset = load_dataset("discovery", "discovery", split= f"validation[{start_valid_pct}:{end_valid_pct}%]")
     print(f"Using {start_valid_pct}-{end_valid_pct}% of validation data")
 else:
     start_train_pct, end_train_pct = map(int, data_args.train_pct_range.split("-"))
-    discovery_dataset = load_dataset("discovery", "discovery", split= f"train[{data_args.start_train_pct}:{data_args.end_train_pct}%]")
+    discovery_dataset = load_dataset("discovery", "discovery", split= f"train[{start_train_pct}:{end_train_pct}%]")
     print(f"Using {start_train_pct}-{end_train_pct}% of training data")
 
 #  discovery_test_ds = load_dataset("discovery", "discovery", split="test")

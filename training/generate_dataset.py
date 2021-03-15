@@ -29,6 +29,7 @@ class DataTrainingArguments:
     output_file_path: str = field(metadata={"help": "File path for generated dataset"})
     context_col: str
     to_predict_next_col: str
+    marker_col: str
     train_pct_range: Optional[str] = field(default=None)
     valid_pct_range: Optional[str] = field(default=None)
 
@@ -59,17 +60,17 @@ tokenizer.add_special_tokens({"pad_token": "[PAD]"})
 #  tokenizer.add_special_tokens({"sep_token": "[SEP]"})
 
 
-discovery_ds = DatasetGenerate(
+dataset = DatasetGenerate(
     discovery_dataset, model, tokenizer, LABELS, decoding_options
 )
 
 synthetic_dataset = []
 
-for i in tqdm(range(len(discovery_dataset))):
+for i in tqdm(range(len(dataset))):
     example = {}
-    values = discovery_dataset[i]
+    values = dataset[i]
     example["context"] = values[data_args.context_col]
-    example["marker"] = LABELS[values["label"]]
+    example["marker"] = values[data_args.marker_col]
     generated_options = discovery_ds.generate_synthetic_options(i, option_id=None, context_col=data_args.context_col, to_predict_next_col=data_args.to_predict_next_col)
     example.update(generated_options)
     synthetic_dataset.append(example)

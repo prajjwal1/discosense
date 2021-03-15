@@ -44,7 +44,7 @@ class ModelArguments:
             )
         }
     )
-    freeze_encoder: bool = field(default=True)
+    freeze_encoder: bool = field(default=False)
     classification_config_name: Optional[str] = field(
         default=None,
         metadata={
@@ -78,7 +78,7 @@ class DataTrainingArguments:
     file_output_path: str = field(metadata={"help": "File Path of generated dataset"})
     context_col: Optional[str]
     to_predict_col: Optional[str]
-    replace_one: Optional[str] = field(default=True)
+    replace_one: Optional[bool] = field(default=True)
     #  replace_dataset: Optional[str] = field(default="validation")
 
 @dataclass
@@ -149,14 +149,15 @@ def train_classification(
         preprocess_function, fn_kwargs = {'tokenizer': classification_tokenizer, 'shuffle_labels': False}, remove_columns=remove_columns
     )
 
-    if model_args.freeze_encoder:
-        for param in classification_model.roberta.parameters():
-            param.requires_grad = False
+    #  if model_args.freeze_encoder:
+        #  for param in classification_model.roberta.parameters():
+            #  param.requires_grad = False
 
     trainer = Trainer(
         model=classification_model,
         args=training_args,
         train_dataset=generated_train_dataset,
+        eval_dataset = generated_validation_dataset,
         compute_metrics=compute_metrics,
         tokenizer=classification_tokenizer,
         data_collator=default_data_collator,
@@ -165,7 +166,7 @@ def train_classification(
         print("Training In-Progress")
         trainer.train()
         trainer.save_model()
-    print("Running Inference")
+    #  print("Running Inference")
     preds = trainer.predict(generated_validation_dataset)
     print(preds.metrics)
     del trainer, classification_model
@@ -183,16 +184,15 @@ def run_adversarial_filtering(original_dataset, generated_dataset, preds, action
         original_dataset,
         autoregressive_model,
         autoregressive_tokenizer,
-        LABELS,
         decoding_options,
+        actions_col,
+        replace_one=data_args.replace_one
     )
     af = AdversarialFiltering(
         generate_dataset_func, autoregressive_model, generated_dataset, preds
     )
-    af.generate_new_samples(
-        context_col=actions_col[0], to_predict_next_col=actions_col[1], replace_one=data_args.replace_one
-    )
-    return af
+    generated_samples = af.generate_new_samples()
+    return generated_samples
 
 
 parser = HfArgumentParser(
@@ -217,7 +217,7 @@ preds = train_classification(
 # GTs are shuffled in training set, so np.argmin can give index of GT which AF can remove
 
 #  if data_args.replace_dataset == "validation":
-original_dataset = load_dataset("discovery", "discovery", split="validation[:3%]")
+original_dataset = Dataset.from_df(pd.read_json(data_args.original_data_path))
 #  else:
     #  original_dataset = load_dataset("discovery", "discovery", split="train[:7%]")
 
@@ -225,10 +225,10 @@ original_dataset = load_dataset("discovery", "discovery", split="validation[:3%]
 if not training_args.no_af:
     print("Adversarial Filtering In Progress")
 
-    actions_col = [data_args.context_col, data_args.to_predict_col]
-    af = run_adversarial_filtering(
+    actions_col = [data_args.context_col, data_args.to_predict_col, data_args.marker_col]
+    generated_samples = run_adversarial_filtering(
         original_dataset, generated_validation_dataset, preds, actions_col
     )
 
     with open(data_args.file_output_path, "w") as fout:
-        json.dump(af.generated_dataset, fout)
+        json.dump(generated_samples, fout)

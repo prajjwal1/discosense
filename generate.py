@@ -10,24 +10,24 @@ from utils import convert_dataset_to_json
 
 
 class DatasetGenerate:
-    def __init__(self, dataset, model, tokenizer, labels, decoding_options):
+    def __init__(self, dataset, model, tokenizer, decoding_options, required_col):
         self.dataset = dataset
-        self.labels = labels
         self.tokenizer = tokenizer
         self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
         self.model = model.to(self.device).eval()
         self.decoding_options = decoding_options
         self.fixed_sequences = 0
+        self.context_col, , self.marker_col = required_col.split(',')
         self.remove_digits = str.maketrans("", "", digits)
 
-    def get_sentence_as_context(self, idx, sentence_order):
+    def get_sentence_as_context(self, idx):
         context = self.dataset[idx]
         tokenized_context = self.tokenizer(
-            self.labels[context["label"]] + " " + context[sentence_order],
+            self.labels[self.marker_col] + " " + context[self.context_col],
             return_tensors="pt",
         )
         original_text_length = len(
-            self.labels[context["label"]] + " " + context[sentence_order]
+            self.labels[context[marker_col]] + " " + context[context_col]
         )
         return tokenized_context, self.labels[context["label"]], original_text_length
 
@@ -76,7 +76,7 @@ class DatasetGenerate:
         return output
 
     def cleanup_generated_examples(
-        self, outputs, idx, len_context, marker, to_predict_context, option_id=None
+        self, outputs, idx, len_context, marker, option_id=None
     ):
         example = {}
         for i, sample_output in enumerate(outputs):
@@ -105,23 +105,19 @@ class DatasetGenerate:
                 example["option_" + str(option_id)] = text
                 break
             else:
-                example["ground_truth"] = self.dataset[idx][to_predict_context]
+                example["ground_truth"] = self.dataset[idx][self.to_predict_col]
                 example["option_" + str(i)] = text
 
         return example
 
-    def generate_synthetic_options(
-        self, idx, option_id, context_col, to_predict_next_col
-    ):
-        tokenized_context, marker, original_text_length = self.get_sentence_as_context(
-            idx, context_col
-        )
-        len_context = len(self.dataset[idx][context_col])
+    def generate_synthetic_options(self, idx, option_id):
+        tokenized_context, marker, original_text_length = self.get_sentence_as_context(idx)
+        len_context = len(self.dataset[idx][self.context_col])
         output = self.generate_from_model(
             tokenized_context, original_text_length, option_id=option_id
         )
         clean_examples = self.cleanup_generated_examples(
-            output, idx, len_context, marker, to_predict_next_col, option_id=option_id
+            output, idx, len_context, marker, option_id=option_id
         )
         return clean_examples
 
@@ -188,6 +184,7 @@ class AdversarialFiltering:
         Output:
             generated_dataset: return new dataset created from AF
         """
+        print("Replace One Mode set to: ", replace_one)
         solved_dataset, indices_val = self.get_solved_dataset(return_dict=replace_one)
         if replace_one:
             indices, option_ids = list(indices_val.keys()), list(indices_val.values())

@@ -1,1 +1,13 @@
-CUDA_VISIBLE_DEVICES=3 python3 generate_dataset.py --model_name_or_path prajjwal1/ctrl_discovery_1 --output_file_path ../data/ctrl_train_0_2.json --train_pct_range 0-2  --context_col sentence1 --to_predict_next_col sentence2
+export MODEL_NAME='prajjwal1/ctrl_discovery_1'
+export RAW_DATA='../data/raw_train.json'
+export PCT_RANGE='60-100'
+export OUTPUT_FILE_PATH='../data/gen_train_60_100.json'
+export CONTEXT_COL='sentence1'
+export TO_PREDICT_COL='sentence2'
+export MARKER_COL='marker'
+
+# Change the train/valid flag
+# Check for flipping (Sentence order)
+
+CUDA_VISIBLE_DEVICES=3 python3 generate_dataset.py --train_pct_range $PCT_RANGE \
+                      --model_name_or_path $MODEL_NAME --raw_data $RAW_DATA  --output_file_path $OUTPUT_FILE_PATH --context_col $CONTEXT_COL --to_predict_col $TO_PREDICT_COL --marker_col $MARKER_COL

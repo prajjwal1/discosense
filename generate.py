@@ -10,26 +10,37 @@ from utils import convert_dataset_to_json
 
 
 class DatasetGenerate:
-    def __init__(self, dataset, model, tokenizer, decoding_options, required_col):
+    def __init__(self, dataset, model, tokenizer, decoding_options, required_cols, replace_one):
         self.dataset = dataset
         self.tokenizer = tokenizer
         self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
         self.model = model.to(self.device).eval()
         self.decoding_options = decoding_options
         self.fixed_sequences = 0
-        self.context_col, , self.marker_col = required_col.split(',')
+        self.context_col, self.to_predict_col, self.marker_col = required_cols
         self.remove_digits = str.maketrans("", "", digits)
+        self.replace_one = replace_one
 
     def get_sentence_as_context(self, idx):
+        """
+        Args:
+            idx
+        Returns:
+            tokenized_context
+            marker
+            to_predict_context_len
+            original_text_length
+        """
         context = self.dataset[idx]
         tokenized_context = self.tokenizer(
-            self.labels[self.marker_col] + " " + context[self.context_col],
+            context[self.marker_col] + " " + context[self.context_col],
             return_tensors="pt",
         )
+        to_predict_context_len = self.tokenizer(context[self.to_predict_col], return_tensors="pt").input_ids.shape[-1]
         original_text_length = len(
-            self.labels[context[marker_col]] + " " + context[context_col]
+            context[self.marker_col] + " " + context[self.context_col]
         )
-        return tokenized_context, self.labels[context["label"]], original_text_length
+        return tokenized_context, context[self.marker_col], to_predict_context_len, original_text_length
 
     def check_model_output(self, output_from_model, original_text_length):
         if (
@@ -44,7 +55,7 @@ class DatasetGenerate:
             return True
         return False
 
-    def generate_from_model(self, tokenized_context, original_text_length, option_id):
+    def generate_from_model(self, tokenized_context, to_predict_context_len, original_text_length, option_id):
         """
         Generate options from Autoregressive LM
         Input:
@@ -55,6 +66,10 @@ class DatasetGenerate:
             output: Generated output from LM
         """
         input_ids = tokenized_context["input_ids"].to(self.device)
+
+        # find MAX_LENGTH from input_ids
+        for i in range(len(self.decoding_options)):
+            self.decoding_options[i]['max_length'] = int(1.5*input_ids.shape[-1]+to_predict_context_len) # infer from last dim [[]]
 
         output = []
         if option_id is not None:
@@ -78,9 +93,12 @@ class DatasetGenerate:
     def cleanup_generated_examples(
         self, outputs, idx, len_context, marker, option_id=None
     ):
-        example = {}
+        if option_id is None:
+            example = {}
+            example["ground_truth"] = self.dataset[idx][self.to_predict_col][:-1]
+
         for i, sample_output in enumerate(outputs):
-            text = self.tokenizer.decode(              #[1,max_len]
+            text = self.tokenizer.decode(              # [1, max_len]
                 sample_output.squeeze(0).tolist(),
                 skip_special_tokens=True,
                 clean_up_tokenization_spaces=True,
@@ -93,7 +111,8 @@ class DatasetGenerate:
                 text = text[prev_input_end_index:]
             text = re.sub("[^A-Za-z0-9\. ]+", "", text)  # remove special characters, preserves .
             text = text.replace(marker, "")  # 2. remove marker
-            if text[0] == ".":
+
+            if text and text[0] == ".":
                 text = text[1:]
                 #  text = text.replace(".", "").strip()
 
@@ -102,19 +121,21 @@ class DatasetGenerate:
                 text = text.translate(self.remove_digits)
 
             if option_id is not None:
-                example["option_" + str(option_id)] = text
-                break
+                example = {}
+                if text[-1] == '.':
+                    text = text[:-1]
+                example["option_" + str(option_id)] = text.strip()
+                return example
             else:
-                example["ground_truth"] = self.dataset[idx][self.to_predict_col]
-                example["option_" + str(i)] = text
+                example["option_" + str(i)] = text.strip()
 
         return example
 
     def generate_synthetic_options(self, idx, option_id):
-        tokenized_context, marker, original_text_length = self.get_sentence_as_context(idx)
+        tokenized_context, marker, to_predict_context_len, original_text_length = self.get_sentence_as_context(idx)
         len_context = len(self.dataset[idx][self.context_col])
         output = self.generate_from_model(
-            tokenized_context, original_text_length, option_id=option_id
+            tokenized_context,  to_predict_context_len, original_text_length, option_id=option_id
         )
         clean_examples = self.cleanup_generated_examples(
             output, idx, len_context, marker, option_id=option_id
@@ -149,9 +170,7 @@ class AdversarialFiltering:
 
         indices = np.argwhere(self.preds.label_ids == predictions).squeeze().tolist()
 
-        # It should be compatible with training set (can contain shuffled options),
-        # If the model's certaintly on GT is least, remove the second least confident option
-
+        # Shuffling is not supported for Validation set. GT is expected to be first option
         if return_dict:
             indices_dict = {}
 
@@ -163,6 +182,7 @@ class AdversarialFiltering:
                     # GT is located at 0th index
                     indices_dict[idx] = np.argmin(pred[1:])
 
+
         solved_dataset = []
         for idx in tqdm(indices):
             if idx in indices:
@@ -173,7 +193,7 @@ class AdversarialFiltering:
 
         return solved_dataset, indices_dict if return_dict else indices
 
-    def generate_new_samples(self, context_col, to_predict_next_col, replace_one):
+    def generate_new_samples(self):
         """
         Responsible for replacing correctly classified options
 
@@ -184,7 +204,9 @@ class AdversarialFiltering:
         Output:
             generated_dataset: return new dataset created from AF
         """
+        replace_one = self.generate_dataset_func.replace_one
         print("Replace One Mode set to: ", replace_one)
+
         solved_dataset, indices_val = self.get_solved_dataset(return_dict=replace_one)
         if replace_one:
             indices, option_ids = list(indices_val.keys()), list(indices_val.values())
@@ -195,14 +217,15 @@ class AdversarialFiltering:
             idx, option_id = indices[i], option_ids[i]
             example = {}
             values = solved_dataset[i]
-            example["context"] = values[context_col]
-            example["marker"] = LABELS[values["label"]]
+            example[self.generate_dataset_func.context_col] = values[self.generate_dataset_func.context_col]
+            example[self.generate_dataset_func.marker_col] = values[self.generate_dataset_func.marker_col]
 
             generated_output = self.generate_dataset_func.generate_synthetic_options(
-                idx, option_id=option_id, context_col=context_col, to_predict_next_col=to_predict_next_col
+                idx, option_id=option_id
             )
 
-            if replace_one:
+            if self.generate_dataset_func.replace_one:
+                #  print(generated_output)
                 assert len(generated_output) == 1 # returns ground_truth and option_id example
 
                 for k, v in generated_output.items():

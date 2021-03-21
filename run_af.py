@@ -1,3 +1,4 @@
+import os
 import json
 import random
 from typing import Optional
@@ -76,9 +77,11 @@ class DataTrainingArguments:
     train_data_path: str = field(metadata={"help": "Path of generated data"})
     validation_data_path: str = field(metadata={"help": "Path for validation set"})
     file_output_path: str = field(metadata={"help": "File Path of generated dataset"})
+    raw_data_path: str = field(metadata={"help": "Path of raw data"})
     context_col: Optional[str]
     to_predict_col: Optional[str]
-    replace_one: Optional[bool] = field(default=True)
+    marker_col: Optional[str]
+    replace_one: Optional[bool] = field(default=False)
     #  replace_dataset: Optional[str] = field(default="validation")
 
 @dataclass
@@ -118,7 +121,6 @@ def preprocess_function(examples, tokenizer, shuffle_labels):
     return encoding
 
 
-
 def train_classification(
     generated_train_dataset,
     generated_validation_dataset,
@@ -135,19 +137,20 @@ def train_classification(
         model_args.classification_model_name_or_path
     )
 
-    remove_columns = ["option_0", "option_1", "option_2", "ground_truth"]
     print("Performing tokenization of dataset")
 
     if not run_inference_only:
         generated_train_dataset = generated_train_dataset.map(
-            preprocess_function, fn_kwargs = {'tokenizer': classification_tokenizer, 'shuffle_labels': True}, remove_columns=remove_columns
+            preprocess_function, fn_kwargs = {'tokenizer': classification_tokenizer, 'shuffle_labels': True}, remove_columns=generated_train_dataset.column_names
         )
 
     # Different preprocess_function for valid because ground truth should not be removed during AF
     # By default, we will take argmin over preds[1:], this ensures that GT is preserved
     generated_validation_dataset = generated_validation_dataset.map(
-        preprocess_function, fn_kwargs = {'tokenizer': classification_tokenizer, 'shuffle_labels': False}, remove_columns=remove_columns
+        preprocess_function, fn_kwargs = {'tokenizer': classification_tokenizer, 'shuffle_labels': False}, remove_columns=generated_validation_dataset.column_names
     )
+
+    # Only get the input dict provided by tokenizer, remove columns which contains text (only ones that have tensor).
 
     #  if model_args.freeze_encoder:
         #  for param in classification_model.roberta.parameters():
@@ -165,11 +168,13 @@ def train_classification(
     if not run_inference_only:
         print("Training In-Progress")
         trainer.train()
-        trainer.save_model()
+
+        if not os.path.isdir(training_args.output_dir) :
+            os.mkdir(training_args.output_dir)
+        trainer.save_model(training_args.output_dir)
     #  print("Running Inference")
     preds = trainer.predict(generated_validation_dataset)
     print(preds.metrics)
-    del trainer, classification_model
     return preds
 
 
@@ -217,7 +222,7 @@ preds = train_classification(
 # GTs are shuffled in training set, so np.argmin can give index of GT which AF can remove
 
 #  if data_args.replace_dataset == "validation":
-original_dataset = Dataset.from_df(pd.read_json(data_args.original_data_path))
+original_dataset = Dataset.from_pandas(pd.read_json(data_args.raw_data_path))
 #  else:
     #  original_dataset = load_dataset("discovery", "discovery", split="train[:7%]")
 

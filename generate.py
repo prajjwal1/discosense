@@ -5,21 +5,28 @@ import torch
 import numpy as np
 from tqdm import tqdm
 
-from data.discovery_con import LABELS
+#  from data.discovery_con import LABELS
 from utils import convert_dataset_to_json
 
 
 class DatasetGenerate:
-    def __init__(self, dataset, model, tokenizer, decoding_options, required_cols, replace_one):
+    def __init__(
+        self, dataset, model, tokenizer, decoding_options, required_cols, replace_one
+    ):
         self.dataset = dataset
         self.tokenizer = tokenizer
         self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
         self.model = model.to(self.device).eval()
         self.decoding_options = decoding_options
-        self.fixed_sequences = 0
         self.context_col, self.to_predict_col, self.marker_col = required_cols
-        self.remove_digits = str.maketrans("", "", digits)
         self.replace_one = replace_one
+        self.init_common_attrs()
+
+    def init_common_attrs(self):
+        self.fixed_sequences = 0
+        self.remove_digits = str.maketrans("", "", digits)
+        self.bad_tokens_list = ["@@", "@", "``", "$", ":", "\"", "``", "\u00a3", "\u0394", "\u03b1", "\u2010", "\u03b3", "\u03b2", "\u0391", "\u00a7", "\u2010"]
+        #  self.bad_tokens_ids = [self.tokenizer(bad_word, add_prefix_space=True)['input_ids'] for bad_word in bad_tokens_list]
 
     def get_sentence_as_context(self, idx):
         """
@@ -31,16 +38,15 @@ class DatasetGenerate:
             to_predict_context_len
             original_text_length
         """
-        context = self.dataset[idx]
-        tokenized_context = self.tokenizer(
-            context[self.marker_col] + " " + context[self.context_col],
-            return_tensors="pt",
-        )
-        to_predict_context_len = self.tokenizer(context[self.to_predict_col], return_tensors="pt").input_ids.shape[-1]
-        original_text_length = len(
-            context[self.marker_col] + " " + context[self.context_col]
-        )
-        return tokenized_context, context[self.marker_col], to_predict_context_len, original_text_length
+        example = self.dataset[idx]
+        input_text = example[self.marker_col] + " " + example[self.context_col]
+        tokenized_context = self.tokenizer(input_text, return_tensors="pt")
+        #  to_predict_context_len = self.tokenizer(context[self.to_predict_col], return_tensors="pt").input_ids.shape[-1]
+        #  original_text_length = len(
+        #  context[self.marker_col] + " " + context[self.context_col]
+        #  )
+        return input_text, tokenized_context
+        #  return tokenized_co,ntext, context[self.marker_col], to_predict_context_len, original_text_length
 
     def check_model_output(self, output_from_model, original_text_length):
         if (
@@ -55,7 +61,7 @@ class DatasetGenerate:
             return True
         return False
 
-    def generate_from_model(self, tokenized_context, to_predict_context_len, original_text_length, option_id):
+    def generate_from_model(self, tokenized_context, text_length, option_id):
         """
         Generate options from Autoregressive LM
         Input:
@@ -67,78 +73,84 @@ class DatasetGenerate:
         """
         input_ids = tokenized_context["input_ids"].to(self.device)
 
-        # find MAX_LENGTH from input_ids
         for i in range(len(self.decoding_options)):
-            self.decoding_options[i]['max_length'] = int(1.5*input_ids.shape[-1]+to_predict_context_len) # infer from last dim [[]]
+            self.decoding_options[i]["max_length"] = text_length
 
         output = []
         if option_id is not None:
             # Use greedy for AF (replace one) option
-            output.append(self.model.generate(
-                input_ids=input_ids, **self.decoding_options[0]
-            ))
+            output.append(
+                self.model.generate(
+                                    input_ids=input_ids,
+                                    **self.decoding_options[0]
+                                   )
+            )
         else:
             output = []
             for i in range(3):
-                output.append(self.model.generate(
-                    input_ids=input_ids, **self.decoding_options[i]
-                ))
+                output.append(
+                    self.model.generate(
+                                        input_ids=input_ids,
+                                        **self.decoding_options[i])
+                                        )
             # Sometimes the greedy output is empty, so replace it with top-p-k
-        if self.check_model_output(output[0], original_text_length):
-            output[0] = self.model.generate(
-                input_ids=input_ids, **self.decoding_options[-1]
-            )
+        #  if self.check_model_output(output[0], text_length):
+        #  output[0] = self.model.generate(
+        #  input_ids=input_ids, **self.decoding_options[-1]
+        #  )
         return output
 
-    def cleanup_generated_examples(
-        self, outputs, idx, len_context, marker, option_id=None
-    ):
+    def cleanup_generated_examples(self, outputs, input_text, idx, option_id=None):
         if option_id is None:
             example = {}
             example["ground_truth"] = self.dataset[idx][self.to_predict_col][:-1]
 
         for i, sample_output in enumerate(outputs):
-            text = self.tokenizer.decode(              # [1, max_len]
+            text = self.tokenizer.decode(  # [1, max_len]
                 sample_output.squeeze(0).tolist(),
                 skip_special_tokens=True,
                 clean_up_tokenization_spaces=True,
-            )[len_context:]
+            )
 
-            if "." in text:
-                prev_input_end_index = text.index(
-                    "."
-                )  # remove context in generated output
-                text = text[prev_input_end_index:]
-            text = re.sub("[^A-Za-z0-9\. ]+", "", text)  # remove special characters, preserves .
-            text = text.replace(marker, "")  # 2. remove marker
+            # Remove input text from the generation
+            text = text.replace(input_text, "")
 
-            if text and text[0] == ".":
-                text = text[1:]
-                #  text = text.replace(".", "").strip()
+            if '?' in text:
+                text = text[:text.index('?')]
 
-            # check for numbers that model generates, only 2 nums allowed
-            if sum(c.isdigit() for c in text) > 2:
-                text = text.translate(self.remove_digits)
+            if '.' in text:
+                text = text[:text.index('.')]
+
+            for bad_word in self.bad_tokens_list:
+                if bad_word in text:
+                    if bad_word != '``':
+                        text = text.replace(bad_word, "")
+                    else:
+                        text = text.replace(bad_word, " ")
+
+            # Remove (), [] and text within it
+            text = re.sub("[\(\[].*?[\)\]]", "", text)
 
             if option_id is not None:
                 example = {}
-                if text[-1] == '.':
+                if text[-1] == ".":
                     text = text[:-1]
                 example["option_" + str(option_id)] = text.strip()
                 return example
-            else:
-                example["option_" + str(i)] = text.strip()
+
+            example["option_" + str(i)] = text.strip()
 
         return example
 
     def generate_synthetic_options(self, idx, option_id):
-        tokenized_context, marker, to_predict_context_len, original_text_length = self.get_sentence_as_context(idx)
-        len_context = len(self.dataset[idx][self.context_col])
+        #  tokenized_context, marker, to_predict_context_len, original_text_length = self.get_sentence_as_context(idx)
+        input_text, tokenized_context = self.get_sentence_as_context(idx)
+        #  len_context = len(self.dataset[idx][self.context_col])
         output = self.generate_from_model(
-            tokenized_context,  to_predict_context_len, original_text_length, option_id=option_id
+            tokenized_context, len(input_text), option_id=option_id
         )
         clean_examples = self.cleanup_generated_examples(
-            output, idx, len_context, marker, option_id=option_id
+            output, input_text, idx, option_id=option_id
         )
         return clean_examples
 
@@ -182,7 +194,6 @@ class AdversarialFiltering:
                     # GT is located at 0th index
                     indices_dict[idx] = np.argmin(pred[1:])
 
-
         solved_dataset = []
         for idx in tqdm(indices):
             if idx in indices:
@@ -217,8 +228,12 @@ class AdversarialFiltering:
             idx, option_id = indices[i], option_ids[i]
             example = {}
             values = solved_dataset[i]
-            example[self.generate_dataset_func.context_col] = values[self.generate_dataset_func.context_col]
-            example[self.generate_dataset_func.marker_col] = values[self.generate_dataset_func.marker_col]
+            example[self.generate_dataset_func.context_col] = values[
+                self.generate_dataset_func.context_col
+            ]
+            example[self.generate_dataset_func.marker_col] = values[
+                self.generate_dataset_func.marker_col
+            ]
 
             generated_output = self.generate_dataset_func.generate_synthetic_options(
                 idx, option_id=option_id
@@ -226,7 +241,9 @@ class AdversarialFiltering:
 
             if self.generate_dataset_func.replace_one:
                 #  print(generated_output)
-                assert len(generated_output) == 1 # returns ground_truth and option_id example
+                assert (
+                    len(generated_output) == 1
+                )  # returns ground_truth and option_id example
 
                 for k, v in generated_output.items():
                     assert k in self.generated_dataset[i].keys()
@@ -235,5 +252,9 @@ class AdversarialFiltering:
                 example.update(generated_output)
                 self.generated_dataset[idx] = example
 
-        print("Found ", self.generate_dataset_func.fixed_sequences, " empty greedy output(s)")
+        print(
+            "Found ",
+            self.generate_dataset_func.fixed_sequences,
+            " empty greedy output(s)",
+        )
         return self.generated_dataset

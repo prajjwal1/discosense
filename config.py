@@ -1,30 +1,22 @@
 token_max_length = 75
 
-decoding_options_0 = {
-                    'repetition_penalty': 1.2,
-                    'temperature': 0}
+decoding_options_0 = {"repetition_penalty": 1.2, "temperature": 0.2, "no_repeat_ngram_size": 3, "length_penalty": 0.9}
 
-decoding_options_1 = {'do_sample': True,
-                      #  'max_length': MAX_LENGTH,
-                      'temperature': 0.4,
-                      'top_k': 5
-                      #  'top_p': 0.98
-                     }
+decoding_options_1 = {"do_sample": True, "temperature": 0.4, "top_k": 40, "no_repeat_ngram_size": 3,
+                      "length_penalty": 0.7}
 
-decoding_options_2 = {'do_sample':True,
-                    #  'max_length':MAX_LENGTH,
-                    'top_k':50,
-                    'top_p':0.9}
+decoding_options_2 = {"do_sample": True, "top_k": 50, "top_p": 0.9, "no_repeat_ngram_size": 3, "length_penalty": 0.7}
 
 fallback_decoding = {
-                     #  'max_length': MAX_LENGTH,
-                     'num_beams':25,
-                     'no_repeat_ngram_size':2,
-                     'num_return_sequences': 1,
-                     #  'temperature': 0.6,
-                     'early_stopping':True
-                    }
+    "num_beams": 25,
+    "no_repeat_ngram_size": 2,
+    "num_return_sequences": 1,
+    "early_stopping": True,
+}
 
-decoding_options = [decoding_options_0, decoding_options_1, decoding_options_2, fallback_decoding]
-
-
+decoding_options = [
+    decoding_options_0,
+    decoding_options_1,
+    decoding_options_2,
+    fallback_decoding,
+]

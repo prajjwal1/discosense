@@ -1,26 +1,29 @@
+import os
 import fire
 from tqdm import tqdm
 import json
 
-def merge_files(f1, f2, f3, fname):
-    with open(f1) as f:
-        data = json.load(f)
-    with open(f2) as f:
-        data1 = json.load(f)
-    with open(f3) as f:
-        data2 = json.load(f)
-    data.extend(data1)
-    data.extend(data2)
+
+def merge_files(*args, fname):
+    data = []
+    for fp in tqdm(args):
+        with open(fp) as f:
+            data.extend(json.load(f))
     print("File merged")
 
-    for el in tqdm(data):
-        for k, v in el.items():
-            if v and v[-1] == '.':
-                el[k] = v[:-1]
+    #  for d in tqdm(data, desc='Fixing inputs'):
+        #  for k, v in d.items():
+            #  d[k] = v.capitalize()
+            #  if v[0] == '.':
+             #     d[k] = v.replace('.', '')
 
-    with open(fname, 'w') as f:
-        json.dump(data, f, indent=4)
-    print("File written successfully")
+    if not os.path.isfile(fname):
+        with open(fname, 'w') as f:
+            json.dump(data, f, indent=4)
+        print("File written successfully")
+    else:
+        print("File already exists")
+
 
 if __name__ == '__main__':
-  fire.Fire(merge_files)
+    fire.Fire(merge_files)

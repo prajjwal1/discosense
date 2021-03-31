@@ -1,1 +1,0 @@
-deepspeed --num_gpus=1 ./run_clm_discovery.py --model_name_or_path ctrl --do_train --do_eval --per_device_train_batch_size 1 --per_device_eval_batch_size 1 --output_dir ~/experiments/ctrl_2_flipped  --preprocessing_num_workers 4 --evaluation_strategy no --tokenizer_name ctrl --gradient_accumulation_steps 12 --deepspeed ds_config.json --fp16

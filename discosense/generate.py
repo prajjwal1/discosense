@@ -149,6 +149,7 @@ class AdversarialFiltering:
             predictions.append(np.argmax(pred))
 
         indices = np.argwhere(self.preds.label_ids == predictions).squeeze().tolist()
+        print(indices)
 
         # Shuffling is not supported for Validation set. GT is expected to be first option
         if return_dict:
@@ -163,7 +164,7 @@ class AdversarialFiltering:
                     indices_dict[idx] = np.argmin(pred[1:])
 
         solved_dataset = []
-        for idx in tqdm(indices):
+        for idx in tqdm(self.raw_dataset):
             if idx in indices:
                 solved_dataset.append(self.raw_dataset[idx])
 
@@ -188,6 +189,7 @@ class AdversarialFiltering:
         print("Replace One mode set to: ", replace_one)
 
         solved_dataset, indices_val = self.get_solved_dataset(return_dict=replace_one)
+
         if replace_one:
             indices, option_ids = list(indices_val.keys()), list(indices_val.values())
         else:

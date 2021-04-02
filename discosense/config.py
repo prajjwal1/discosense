@@ -26,6 +26,15 @@ decoding_options_2 = {
     "length_penalty": 0.7,
 }
 
+decoding_af = {
+    "do_sample": True,
+    "top_p": 0.98,
+    "temperature": 0.7,
+    #  "repetition_penalty": 1.2,
+    "no_length_ngram_size": 2,
+    "length_penalty": 0.6
+}
+
 #  fallback_decoding = {
 #  "num_beams": 25,
 #  "no_repeat_ngram_size": 3,
@@ -37,5 +46,5 @@ decoding_options = [
     decoding_options_0,
     decoding_options_1,
     decoding_options_2,
-    #  fallback_decoding,
+    decoding_af
 ]

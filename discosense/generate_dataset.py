@@ -96,6 +96,7 @@ for i in tqdm(range(len(dataset))):
     values = dataset[i]
     example["context"] = values[data_args.context_col]
     example["marker"] = values[data_args.marker_col]
+    example["idx"] = i
     generated_options = dataset_gen_func.generate_synthetic_options(i, option_id=None)
     example.update(generated_options)
     for k, v in example.items():

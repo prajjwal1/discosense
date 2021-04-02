@@ -1,14 +1,38 @@
 import numpy as np
 
+tokens_to_remove = [
+    "@@",
+    "@",
+    "``",
+    "$",
+    ":",
+    '"',
+    "``",
+    "(",
+    ")",
+    ";",
+    "\r",
+    "\n",
+    "\\",
+    "'"
+]
+
 def fix_text(text):
-    text = str(text.strip())
+    text = text.strip()
+    for i in tokens_to_remove:
+        if i != "``":
+            text = text.replace(i, "")
+        else:
+            text = text.replace(i, " ")
     text = text.replace(" .", ".")
     text = text.replace(" , ",", ")
     text = text.replace(", , ", ", ")
+    text = text.replace("--", " ")
     text = text.replace(" %", "%")
     text = text.replace("? ?", "?")
     text = text.replace(" :", ":")
     text = text.replace(" ,", ", ")
+    text = text.capitalize()
     return text
 
 
@@ -28,17 +52,11 @@ def compute_metrics(p):
     return {"accuracy": (preds == p.label_ids).astype(np.float32).mean().item()}
 
 
-tokens_to_remove = [
-    "@@",
-    "@",
-    "``",
-    "$",
-    ":",
-    '"',
-    "``",
-    "(",
-    ")",
-    ";",
+
+
+
+
+
 #      "\u00a3",
     #  "\u0394",
     #  "\u03b1",
@@ -60,8 +78,4 @@ tokens_to_remove = [
     #  "\u2122",
     #  "\u00ef",
     #  "\u00e9",
-    "\r",
-    "\n",
-    "\\",
-    "'"
-]
+

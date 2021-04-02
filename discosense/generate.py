@@ -57,9 +57,9 @@ class DatasetGenerate:
 
         output = []
         if option_id is not None:
-            # Use greedy for AF (replace one) option
+            # last index is reserved for AF decoding method
             output.append(
-                self.model.generate(input_ids=input_ids, **self.decoding_options[0])
+                self.model.generate(input_ids=input_ids, **self.decoding_options[-1])
             )
         else:
             output = []
@@ -90,20 +90,13 @@ class DatasetGenerate:
             if "." in text:
                 text = text[: text.index(".")]
 
-            for bad_word in self.filter_tokens_list:
-                if bad_word in text:
-                    if bad_word != "``":
-                        text = text.replace(bad_word, "")
-                    else:
-                        text = text.replace(bad_word, " ")
-
             # Remove (), [] and text within it and then apply text
             text = re.sub("[\(\[].*?[\)\]]", "", text)
             text = fix_text(text)
 
             if option_id is not None:
                 example = {}
-                if text[-1] == ".":
+                if text and  text[-1] == ".":
                     text = text[:-1]
                 example["option_" + str(option_id)] = text.strip()
                 return example
@@ -149,7 +142,6 @@ class AdversarialFiltering:
             predictions.append(np.argmax(pred))
 
         indices = np.argwhere(self.preds.label_ids == predictions).squeeze().tolist()
-        print(indices)
 
         # Shuffling is not supported for Validation set. GT is expected to be first option
         if return_dict:
@@ -164,7 +156,7 @@ class AdversarialFiltering:
                     indices_dict[idx] = np.argmin(pred[1:])
 
         solved_dataset = []
-        for idx in tqdm(self.raw_dataset):
+        for idx in tqdm(range(len(self.raw_dataset))):
             if idx in indices:
                 solved_dataset.append(self.raw_dataset[idx])
 

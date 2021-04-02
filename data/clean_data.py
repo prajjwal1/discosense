@@ -35,7 +35,7 @@ def remove_brackets(text):
 
 def cleanup(data):
     for idx, d in enumerate(tqdm(data)):
-        if len(d["sentence1"]) < 5 or d["sentence2"]) < 5:
+        if len(d["sentence1"]) < 5 or len(d["sentence2"]) < 5:
             continue
         for b in bad_tokens_list:
 

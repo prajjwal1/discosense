@@ -239,4 +239,4 @@ if not training_args.no_af:
     )
 
     with open(data_args.file_output_path, "w") as fout:
-        json.dump(generated_samples, fout)
+        json.dump(generated_samples, fout, indent=4)

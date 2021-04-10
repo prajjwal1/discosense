@@ -31,28 +31,28 @@ def cleanup(data):
         #  else:
             #  d["sentence1"] = fix_text(d["sentence1"])
             #  d["sentence2"] = fix_text(d["sentence2"])
-            sentence1 = d["sentence1"]
-            sentence2 = d["sentence2"]
+#              sentence1 = d["sentence1"]
+            #  sentence2 = d["sentence2"]
 
-            if not hasNumbers(sentence1) and ', ' not in sentence1:
-                text1 = ' '.join(segment(sentence1))+'.'
-                text1 = text1.capitalize()
-                if text1 != sentence1:
-                    print("original: ", sentence1)
-                    print("new: ", text1)
-                    value = input("Change? ")
-                    if value == "y":
-                        d["sentence1"] = text1
+            #  if not hasNumbers(sentence1) and ', ' not in sentence1:
+                #  text1 = ' '.join(segment(sentence1))+'.'
+                #  text1 = text1.capitalize()
+                #  if text1 != sentence1:
+                    #  print("original: ", sentence1)
+                    #  print("new: ", text1)
+                    #  value = input("Change? ")
+                    #  if value == "y":
+                        #  d["sentence1"] = text1
 
-            if not hasNumbers(sentence2) and ', ' not in sentence2:
-                text2 = ' '.join(segment(sentence2))+'.'
-                text2 = text2.capitalize()
-                if text2 != sentence2:
-                    print("original: ", sentence2)
-                    print("new: ", text2)
-                    value = input("Change? ")
-                    if value == "y":
-                        d["sentence2"] = text2
+            #  if not hasNumbers(sentence2) and ', ' not in sentence2:
+                #  text2 = ' '.join(segment(sentence2))+'.'
+                #  text2 = text2.capitalize()
+                #  if text2 != sentence2:
+                    #  print("original: ", sentence2)
+                    #  print("new: ", text2)
+                    #  value = input("Change? ")
+                    #  if value == "y":
+                        #  d["sentence2"] = text2
 
             d["idx"] = cnt
             cnt += 1
@@ -62,14 +62,14 @@ def cleanup(data):
 #  train_data, remove_examples = cleanup(train_data)
 #  for i in remove_examples:
 #      del train_data[i]
-valid_data, remove_examples = cleanup(train_data)
+valid_data, remove_examples = cleanup(valid_data)
 #  for i in remove_examples:
    #   del valid_data[i]
 
 
 #  with open("raw_train.json", "w") as f:
     #  json.dump(train_data, f, indent=4)
-with open("raw_train_ninja.json", "w") as f:
+with open("raw_valid_ninja.json", "w") as f:
     json.dump(valid_data, f, indent=4)
 
 

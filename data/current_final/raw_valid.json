@@ -4057,7 +4057,7 @@
     },
     {
         "sentence1": "And if you cant make it to their service shop, youd like your auto glass repair service to come to you.",
-        "sentence2": "Youre looking for an auto glass repair service like auto glass network in dacula, ga!",
+        "sentence2": "Youre looking for an auto glass repair service like auto glass network in dacula.",
         "marker": "in short",
         "idx": 676
     },
@@ -4380,7 +4380,7 @@
         "idx": 729
     },
     {
-        "sentence1": "For one thing, lao tzu meansold boyorold master.",
+        "sentence1": "For one thing, lao tzu mean sold boyorold master.",
         "sentence2": "This title doesnt really provide much clue as to who lao tzu actually was.",
         "marker": "consequently",
         "idx": 730
@@ -5845,7 +5845,7 @@
     },
     {
         "sentence1": "You cant override them, even using nested classes where they may be accessible to subclasses.",
-        "sentence2": "Methods the instructoin to call privates is different from that used for non-privates.",
+        "sentence2": "Methods instruction to call privates is different from that used for non-privates.",
         "marker": "for instance",
         "idx": 974
     },
@@ -5856,16 +5856,10 @@
         "idx": 975
     },
     {
-        "sentence1": "Eagle, idaho, december 2, 2014 - amid busy lives and hectic schedules, families continue to seek ways to simplify their lives, especially in the kitchen.",
+        "sentence1": "Amid busy lives and hectic schedules, families continue to seek ways to simplify their lives, especially in the kitchen.",
         "sentence2": "Simple doesnt have to mean tasteless.",
         "marker": "but",
         "idx": 976
-    },
-    {
-        "sentence1": "Ouravant-popcategory may not follow a strict formula, but, much like the supreme courts definition of pornography, you know it when you hear it.",
-        "sentence2": "Avant-pop fuses an electronic methodology and a pop sensibility, encompassing the avant-garde and the catchy, the alien and the familiar.",
-        "marker": "in short",
-        "idx": 977
     },
     {
         "sentence1": "That they are made much better than others.",
@@ -6084,12 +6078,6 @@
         "idx": 1013
     },
     {
-        "sentence1": "The work and the device, as well as a sophisticated tracking mechanism when the device is mobile.",
-        "sentence2": "Witricity.",
-        "marker": "in contrast",
-        "idx": 1014
-    },
-    {
         "sentence1": "Respect they confirmed that it covered the main issues, though they suggested that trained health educators would be needed to present it.",
         "sentence2": "They expressed concern that this kind of education might be discouraging to participation in paediatric cts.",
         "marker": "interestingly",
@@ -6288,13 +6276,13 @@
         "idx": 1047
     },
     {
-        "sentence1": "Therefore, document d19 is less relevant than the documents filed within the opposition period and also than d18 and would not change the outcome of the proceedings.",
-        "sentence2": "Document d19 is not admitted into the proceedings epc.",
+        "sentence1": "Document d19 is less relevant than the documents filed within the opposition period and also than d18 and would not change the outcome of the proceedings.",
+        "sentence2": "Document d19 is not admitted into the proceedings.",
         "marker": "consequently",
         "idx": 1048
     },
     {
-        "sentence1": "Recent topics of interest include multi-media, hypermedia and distributed applications.",
+        "sentence1": "Recent topics of interest include multimedia, hypermedia and distributed applications.",
         "sentence2": "The importance of www is increasing.",
         "marker": "particularly",
         "idx": 1049
@@ -6552,13 +6540,13 @@
         "idx": 1091
     },
     {
-        "sentence1": "If, however, the call is not toll-free, the untranslated ii digits are passed to the ixc, as in step 313.",
+        "sentence1": "If, however, the call is not toll-free, the untranslated digits are passed to the ixc.",
         "sentence2": "The call is simply routed to the terminating co, which then completes the call setup.",
         "marker": "thereafter",
         "idx": 1092
     },
     {
-        "sentence1": "7, and thereby generation of plasma is also weakened.",
+        "sentence1": "Generation of plasma is also weakened.",
         "sentence2": "Generation of a magnetic field due to eddy currents largely obstructs film formation of a ferroelectric substance.",
         "marker": "consequently",
         "idx": 1093
@@ -6730,12 +6718,6 @@
         "sentence2": "The best law firms wachtell excluded largely pay the same yearly salary and lockstep bonuses to their associates.",
         "marker": "by contrast",
         "idx": 1121
-    },
-    {
-        "sentence1": "And 33d-were inactivated on 1 3 october.",
-        "sentence2": "The primarv unit at each.",
-        "marker": "thereafter",
-        "idx": 1122
     },
     {
         "sentence1": "As a result of untreated ptsd and other related medical issues, many soldiers struggled in their readjustment to civilian life and turned to drugs and alcohol to self-medicate.",
@@ -7680,14 +7662,8 @@
         "idx": 1279
     },
     {
-        "sentence1": "Indicate part report international bank commerce, previously listed part vii, line 14, longer meets the threshold for reporting.",
-        "sentence2": "Has been deleted.",
-        "marker": "thus",
-        "idx": 1280
-    },
-    {
         "sentence1": "You can find in the links of the week the general design i followed.",
-        "sentence2": "Most of the passive repeater designs on the internet have not been tested - a fact i notch up primarily to thejolt cola and three musketeersphenomenon mentioned below.",
+        "sentence2": "Most of the passive repeater designs on the internet have not been tested - a fact i notch up primarily to the jolt cola and three musketeers phenomenon mentioned below.",
         "marker": "interestingly",
         "idx": 1281
     },
@@ -7788,7 +7764,7 @@
         "idx": 1297
     },
     {
-        "sentence1": "In july 2009, we issued audit of va electronic contract management system.",
+        "sentence1": "We issued audit of va electronic contract management system.",
         "sentence2": "We examined whether information in ecms enables va to use the system as a comprehensive management tool to improve its procurement processes and information.",
         "marker": "specifically",
         "idx": 1298
@@ -7831,7 +7807,7 @@
     },
     {
         "sentence1": "The spurs are possibly the best team in the league right now and dont have any holes.",
-        "sentence2": "They ll be looking for the best player available with the second to last pick in the draft.",
+        "sentence2": "Theyll be looking for the best player available with the second to last pick in the draft.",
         "marker": "therefore",
         "idx": 1305
     },
@@ -7849,7 +7825,7 @@
     },
     {
         "sentence1": "Did you try looking up compatibility issues with certain games?",
-        "sentence2": "A lot of nivida gpus dont work with league when they do a certain upgrade.",
+        "sentence2": "A lot of nvidia gpus dont work with league when they do a certain upgrade.",
         "marker": "for instance",
         "idx": 1308
     },
@@ -8286,13 +8262,13 @@
         "idx": 1380
     },
     {
-        "sentence1": "Even in the church, those who want to lead and who are even called to leadoften fear those they lead.",
-        "sentence2": "They fear hurting those they lead, mistakenly thinkingthat their task is to make the life of those they lead secure.",
+        "sentence1": "Even in the church, those who want to lead and who are even called to lead often fear those they lead.",
+        "sentence2": "They fear hurting those they lead, mistakenly thinking that their task is to make the life of those they lead secure.",
         "marker": "specifically",
         "idx": 1381
     },
     {
-        "sentence1": "Also, some of theinterviewforms are ridiculous.",
+        "sentence1": "Also, some of the interview forms are ridiculous.",
         "sentence2": "If you are a retiree drawing a pension, they ask for the taxpayer id of the pension payor.",
         "marker": "for instance",
         "idx": 1382
@@ -10146,12 +10122,6 @@
         "idx": 1690
     },
     {
-        "sentence1": "Other processes that treat fcc regenerator flue gas differ from the present invention, but differ in significant conditions and do not provide the advantages that the present invention achieves.",
-        "sentence2": "U.s. pat.",
-        "marker": "for instance",
-        "idx": 1691
-    },
-    {
         "sentence1": "Correction officers know where these areas are and that is where abuse often takes place.",
         "sentence2": "The assault of andre lane, which was recently reported in the new york times, occurred in the mental health clinic where there are no cameras.",
         "marker": "for instance",
@@ -10338,16 +10308,10 @@
         "idx": 1722
     },
     {
-        "sentence1": "Holly3278, i will pray that this depression lifts soon for you.",
-        "sentence2": "You know, it seems like your ex-friend could use a goodconversionprayer also.",
+        "sentence1": "I will pray that this depression lifts soon for you.",
+        "sentence2": "You know, it seems like your ex-friend could use a good conversion prayer also.",
         "marker": "but",
         "idx": 1723
-    },
-    {
-        "sentence1": "24, the reverse side of the single crystal silicon substrate 30 is subjected to mirror polishing to a predetermined thickness.",
-        "sentence2": "As illustrated in fig.",
-        "marker": "thereafter",
-        "idx": 1724
     },
     {
         "sentence1": "I learn the frequently sung pieces by ear and then use the written music as a reminder.",
@@ -12319,19 +12283,13 @@
     },
     {
         "sentence1": "Scroll down to see the pictures of his visit to the poconos.",
-        "sentence2": "He says of the hearing which attempted to deport glen three of the letters attesting to his extraordinary ability came from cia agents.",
+        "sentence2": "He says of the hearing which attempted to deport glen, three of the letters attesting to his extraordinary ability came from cia agents.",
         "marker": "interestingly",
         "idx": 2053
     },
     {
-        "sentence1": "The room for the presentation is selected by typing in or otherwise entering in a conventional manner an appropriate room location at screen location 146.",
-        "sentence2": "As shown in fig.",
-        "marker": "for example",
-        "idx": 2054
-    },
-    {
         "sentence1": "Similarly, we conclude that nebraska power had submitted sufficient evidence to permit the jury to determine its damages on an individual claim basis.",
-        "sentence2": "We find that the district court properly denied austins motion for a judgment notwithstanding the verdict.",
+        "sentence2": "We find that the district court properly denied austins motion for a judgment not withstanding the verdict.",
         "marker": "thus",
         "idx": 2055
     },
@@ -12480,12 +12438,6 @@
         "idx": 2079
     },
     {
-        "sentence1": "Cigarette can make any babe sexy, but those amazing beauties smoking on the pages of this porn site are just outstanding.",
-        "sentence2": "They smoke big cocks as well as cigarettes.",
-        "marker": "though",
-        "idx": 2080
-    },
-    {
         "sentence1": "Why would publicizing the ill treatment of slaughter-bound horses detract from theundue suffering of other food animals, as christa weil suggests?",
         "sentence2": "If ms. weil is truly concerned about the ill treatment of other slaughter-bound animals, the horse could well serve as a poster animal for the cause.",
         "marker": "on the contrary",
@@ -12612,7 +12564,7 @@
         "idx": 2101
     },
     {
-        "sentence1": "Sail hamers choice of the name historical creationism is partially motivated by his desire to call attention to the fact that his view is not new.",
+        "sentence1": "Sailhamers choice of the name historical creationism is partially motivated by his desire to call attention to the fact that his view is not new.",
         "sentence2": "Many theologians of the past held to the central elements of sailhamers view.",
         "marker": "rather",
         "idx": 2102
@@ -13747,7 +13699,7 @@
     },
     {
         "sentence1": "But this circumstance does not make the office of the preacher unnecessary by no means.",
-        "sentence2": "It is from this that the preacher derives a great part of his pover.",
+        "sentence2": "It is from this that the preacher derives a great part of his power.",
         "marker": "on the contrary",
         "idx": 2291
     },
@@ -13776,20 +13728,20 @@
         "idx": 2295
     },
     {
-        "sentence1": "1 count two charged that appellant perjured himself in denying various aspects of a conversation between himself and an undercover internal revenue service agent who was posing as a bettor.",
+        "sentence1": "Two charged that appellant perjured himself in denying various aspects of a conversation between himself and an undercover internal revenue service agent who was posing as a bettor.",
         "sentence2": "Peden placed a 280 bet which he lost.",
         "marker": "subsequently",
         "idx": 2296
     },
     {
-        "sentence1": "Commenting on lawson lundell, he notes that the firm hasembraced the principles and ideas of knowledge management and benefited greatly from them.",
+        "sentence1": "Commenting on lawson lundell, he notes that the firm has embraced the principles and ideas of knowledge management and benefited greatly from them.",
         "sentence2": "Didomenico calls attention to the fact that the knowledge management group, under euan sinclairs direction,smartly leverages employees in other groups to participate in knowledge management projects and activities.",
         "marker": "in particular",
         "idx": 2297
     },
     {
         "sentence1": "I would guess that they will have us keep the router and use it.",
-        "sentence2": "Why buy the most expensive router that linksys makes???",
+        "sentence2": "Why buy the most expensive router that linksys makes?",
         "marker": "otherwise",
         "idx": 2298
     },
@@ -13987,7 +13939,7 @@
     },
     {
         "sentence1": "In the main, these writings address themselves to lacans conceptual edifice and to what his conceptualizations have to offer to an understanding of culture, art, and philosophy.",
-        "sentence2": "In north america, the impression among clinicians is that lacan isall theory.",
+        "sentence2": "In north america, the impression among clinicians is that lacan is all theory.",
         "marker": "thus",
         "idx": 2331
     },
@@ -14005,7 +13957,7 @@
     },
     {
         "sentence1": "The dietary data from the different days could affect actual dietary intake.",
-        "sentence2": "8-days out of all days were randomly selected through the surveyselect procedure using sas 9.1.",
+        "sentence2": "8-days out of all days were randomly selected through the surveyselect procedure using sas.",
         "marker": "thus",
         "idx": 2334
     },
@@ -14610,12 +14562,6 @@
         "idx": 2434
     },
     {
-        "sentence1": "Be aware that grep returns nothing if there is no match, and multiple values if there are multiple matches.",
-        "sentence2": "Consider",
-        "marker": "because of that",
-        "idx": 2435
-    },
-    {
         "sentence1": "Most of us were babes in chris mullins prime.",
         "sentence2": "His prowess on the court puts him among some of the best to ever play the game.",
         "marker": "nonetheless",
@@ -14910,7 +14856,7 @@
         "idx": 2484
     },
     {
-        "sentence1": "He pointed out that in certain countries general restrictions coulc not strictly be construed as discriminatory.",
+        "sentence1": "He pointed out that in certain countries general restrictions could not strictly be construed as discriminatory.",
         "sentence2": "They affected large numbers of people who wished to leave those countries.",
         "marker": "nevertheless",
         "idx": 2485
@@ -16380,12 +16326,6 @@
         "idx": 2729
     },
     {
-        "sentence1": "Hes resorting to the pornography argument -i know it when i see it.",
-        "sentence2": "Id fl its back an forth between an argument from ignorance and a designer of the gaps argument.",
-        "marker": "in sum",
-        "idx": 2730
-    },
-    {
         "sentence1": "Just a rise of lactic acid levels may not signify lactic acidosis, there needs to be a change in the acid and other electrolyte levels in the body.",
         "sentence2": "Diagnosing an infants seizures may require some more effort.",
         "marker": "on the other hand",
@@ -16633,13 +16573,13 @@
     },
     {
         "sentence1": "When you play a rule card, the rule on that card becomes part of the game.",
-        "sentence2": "You might play adraw 3card, at which point the rule is now to draw three cards instead of one at the beginning of your turn.",
+        "sentence2": "You might play a draw card, at which point the rule is now to draw three cards instead of one at the beginning of your turn.",
         "marker": "for example",
         "idx": 2772
     },
     {
         "sentence1": "This will restrict the aircraft to 338 seats.",
-        "sentence2": "V australia has theirs configured for over 350.",
+        "sentence2": "Australia has theirs configured for over 350.",
         "marker": "by contrast",
         "idx": 2773
     },
@@ -17257,7 +17197,7 @@
     },
     {
         "sentence1": "Westat found the ads had nosignificant favorable effectsin deterring children from trying marijuana or in getting them to stop.",
-        "sentence2": "It found that more 12 1/2- to 13-year-olds and girls were trying the drug after seeing the ads, the gao said.",
+        "sentence2": "It found that more 12 to 13-year-olds and girls were trying the drug after seeing the ads, the gao said.",
         "marker": "rather",
         "idx": 2876
     },
@@ -19602,12 +19542,6 @@
         "idx": 3266
     },
     {
-        "sentence1": "I have to admit, i agree with cp about ben lawscommenton post 613.",
-        "sentence2": "I dont get somethingthe menglabot can dispatchanyone?",
-        "marker": "although",
-        "idx": 3267
-    },
-    {
         "sentence1": "At times, more than one base station is allowed to use the same channel for reducing coverage holes.",
         "sentence2": "The ardis approach is not efficient enough for the acis environment.",
         "marker": "thus",
@@ -19998,7 +19932,7 @@
         "idx": 3332
     },
     {
-        "sentence1": "It has to be noticed that there was no statistically significant differences at 1 year postoperatively.",
+        "sentence1": "It has to be noticed that there was no statistically significant differences at 1 year post operatively.",
         "sentence2": "Our surgical modification achieved an earlier continence recovery postoperatively however, it did not increase the final continence rate after 1 year of follow-up.",
         "marker": "consequently",
         "idx": 3333
@@ -20058,7 +19992,7 @@
         "idx": 3342
     },
     {
-        "sentence1": "Although this study attempts to control for factors that might impact workplace injuryrates, alternativeexplanationscannotberuledoutentirely.",
+        "sentence1": "Although this study attempts to control for factors that might impact workplace injury rates, alternative explanations cannot be ruled out entirely.",
         "sentence2": "Evidence does exist to support attribution.",
         "marker": "nevertheless",
         "idx": 3343
@@ -20316,7 +20250,7 @@
         "idx": 3385
     },
     {
-        "sentence1": "As a result, dish conducted its own air quality test -at a cost of 15 percent of the towns annual budget of 70,000-that revealed the toxic mix of air pollution.",
+        "sentence1": "As a result, dish conducted its own air quality test at a cost of 15 percent of the towns annual budget of 70,000 that revealed the toxic mix of air pollution.",
         "sentence2": "The town petitioned and won the right to install one of seven permanent air monitors in the entire state of texas.",
         "marker": "subsequently",
         "idx": 3386
@@ -20362,12 +20296,6 @@
         "sentence2": "In his typical fairness toward talent, he can still appreciate the gifts of the shows creator stephen dolginoff.",
         "marker": "yet",
         "idx": 3393
-    },
-    {
-        "sentence1": "In the baseline, energy demand would almost double by 2050, much of this increase having to be met by non-renewable energy sources.",
-        "sentence2": "The main assumptions in the ter approach are.",
-        "marker": "in contrast",
-        "idx": 3394
     },
     {
         "sentence1": "Can the fact that the picture is washed out and focused on the accessories have anything to do with your assertion?",
@@ -20640,8 +20568,8 @@
         "idx": 3439
     },
     {
-        "sentence1": "Skip section 3 below and start from section 4using accutracking.",
-        "sentence2": "If you have your own phone, start with section 3installation guide.",
+        "sentence1": "Skip section 3 below and start from section using accutracking.",
+        "sentence2": "If you have your own phone, start with section installation guide.",
         "marker": "otherwise",
         "idx": 3440
     },
@@ -20659,13 +20587,13 @@
     },
     {
         "sentence1": "The model estimates can also be used to form a proxy for an individuals risk tolerance at a particular point in time.",
-        "sentence2": "I calculate the expected value of log risk tolerance conditional on the individuals observed attributes and and gamble responses in the panel, such that,.",
+        "sentence2": "I calculate the expected value of log risk tolerance conditional on the individuals observed attributes and and gamble responses in the panel.",
         "marker": "specifically",
         "idx": 3443
     },
     {
         "sentence1": "A prose party who have settled has asked a judge to set aside the settlement and make an award against right haven.",
-        "sentence2": "According to goldman,righthavens business is in tatters.",
+        "sentence2": "According to goldman, righthavens business is in tatters.",
         "marker": "in sum",
         "idx": 3444
     },
@@ -20701,7 +20629,7 @@
     },
     {
         "sentence1": "To remove the barrier layer and open the pores at the bottom, the membranes were treated with 5% h 3 po 4 aqueous solution at room temperature.",
-        "sentence2": "The pores were widened in a 0.085-m h 3 po 4 solution at 37c for 15 min.",
+        "sentence2": "The pores were widened in a 0.085-m h3po4 solution at 37c for 15 min.",
         "marker": "subsequently",
         "idx": 3450
     },
@@ -20712,25 +20640,13 @@
         "idx": 3451
     },
     {
-        "sentence1": "8 which generates the predetermined reference voltage which is higher than the full charging voltage v c.",
-        "sentence2": "Although the safety of the charger is somewhat inferior to the charger of fig.",
-        "marker": "consequently",
-        "idx": 3452
-    },
-    {
         "sentence1": "This is in contrast to us having to call some calculate function each time we deem it necessary is called.",
         "sentence2": "To keep one repaint from obscuring another, we need to start with a clean slate each time.",
         "marker": "therefore",
         "idx": 3453
     },
     {
-        "sentence1": "2 low pass filter 3l which passes only the secondary harmonics.",
-        "sentence2": "Only the secondary harmonics are extracted.",
-        "marker": "thus",
-        "idx": 3454
-    },
-    {
-        "sentence1": "Had to dilute with 1/2c soymilk and 1/2c more mayo!!",
+        "sentence1": "Had to dilute with 1/2c soymilk and 1/2c more mayo!",
         "sentence2": "This was absolutely delish.",
         "marker": "otherwise",
         "idx": 3455
@@ -21186,22 +21102,10 @@
         "idx": 3530
     },
     {
-        "sentence1": "It is shown that participation constraints are desirable if public goods are provided by a malevolent leviathan.",
-        "sentence2": "With a pigouvian planner, e? ciency can be achieved.",
-        "marker": "by contrast",
-        "idx": 3531
-    },
-    {
         "sentence1": "If you can figure out what is making you afraid and you deal with that fear, your anger will go away.",
         "sentence2": "Once letters from lenders, servicers and other creditors demanding payment start to come in fear turns into a dominating emotion that leads to anxiety and oftentimes depression.",
         "marker": "hence",
         "idx": 3532
-    },
-    {
-        "sentence1": "Did koizumi think that after he mentioned fatal conflicts between rival factions that i wouldnt take him seriously?",
-        "sentence2": "Before that.",
-        "marker": "though",
-        "idx": 3533
     },
     {
         "sentence1": "The only other weird thing about the game is seeing mario punch an enemy it seems unnatural to have him use his hands while fighting.",
@@ -21306,12 +21210,6 @@
         "idx": 3550
     },
     {
-        "sentence1": "By way of defining porn, thompson attached links to strip club and hooker scenes from grand theft auto iv.",
-        "sentence2": "While certainly not intended for younger buyers, gta iv has not been declared obscene in any u.s.",
-        "marker": "however",
-        "idx": 3551
-    },
-    {
         "sentence1": "On the one hand, the amount of monomer employed may be the maximum solubility of the particular monomer in a particular solvent.",
         "sentence2": "The monomer may be present in small molar concentrations of the order of 10-2 or 10-3 molar.",
         "marker": "on the other hand",
@@ -21319,7 +21217,7 @@
     },
     {
         "sentence1": "As has been described, the present invention provides an improved method and system for topographical interfacing.",
-        "sentence2": "One example of the application of the present invention has been depicted in fig.",
+        "sentence2": "One example of the application of the present invention has been depicted.",
         "marker": "in particular",
         "idx": 3553
     },
@@ -21661,7 +21559,7 @@
     },
     {
         "sentence1": "All three agreed the sale was legal.",
-        "sentence2": "Because abramski bought the gun from a federally-licensed dealer, he had to fill out an form stating that he was theactual buyerof the firearm.",
+        "sentence2": "Because abramski bought the gun from a federally-licensed dealer, he had to fill out an form stating that he was the actual buyer of the firearm.",
         "marker": "nevertheless",
         "idx": 3610
     },
@@ -22770,7 +22668,7 @@
         "idx": 3794
     },
     {
-        "sentence1": "Second, even if halperin isotherwise qualified, which we doubt, he has not established the remaining elements of his prima facie case.",
+        "sentence1": "Second, even if halperin is otherwise qualified, which we doubt, he has not established the remaining elements of his prima facie case.",
         "sentence2": "Halperin failed to demonstrate that he has a disability.",
         "marker": "in particular",
         "idx": 3795
@@ -24061,7 +23959,7 @@
     },
     {
         "sentence1": "When the parent combobox is selected, you need to execute the getter method to get the cities for the child combobox which you are doing to load the store.",
-        "sentence2": "That store instance isnt on the child combobox, a different store instance is and you need to set the store onto the child combobox.",
+        "sentence2": "That store instance isnt on the child combobox, a different store instance is and you need to set the store onto the child combo box.",
         "marker": "however",
         "idx": 4010
     },
@@ -24072,28 +23970,16 @@
         "idx": 4011
     },
     {
-        "sentence1": "Not that perhaps will be a sold out game, though!",
+        "sentence1": "Not that perhaps will be a sold out game, though.",
         "sentence2": "Certainly it would be doind so much better.",
         "marker": "however",
         "idx": 4012
-    },
-    {
-        "sentence1": "Yes you can.",
-        "sentence2": "More details on the kit will help.",
-        "marker": "but",
-        "idx": 4013
     },
     {
         "sentence1": "Examples of such sustained release preparations include microcapsules and imbedding agents.",
         "sentence2": "The sustained release preparations are preferably imbedded subcutaneously to allow the bases to exhibit their effect for a long period of time.",
         "marker": "in particular",
         "idx": 4014
-    },
-    {
-        "sentence1": "When we talk aboutfood safetyin industrialised countries, normally we think of food quality in terms of nutritional content, and sanitary inspections for the presence of pathogens and contaminants.",
-        "sentence2": "Sustainability.",
-        "marker": "in short",
-        "idx": 4015
     },
     {
         "sentence1": "The medical malpractice lawyers would make necessary investigations to determine whether the death or injury is the direct result of negligence.",
@@ -24606,12 +24492,6 @@
         "idx": 4100
     },
     {
-        "sentence1": "When we were living in north carolina, we lived near himand he always talked about stuff around us.",
-        "sentence2": "At first sight.",
-        "marker": "particularly",
-        "idx": 4101
-    },
-    {
         "sentence1": "1, although the size and width of the windows are physically constant at each target range, the window sizes appear to vary from the perspective of the camera 12.",
         "sentence2": "The height and width of the preceding vehicle 18 will appear to vary at each target range.",
         "marker": "similarly",
@@ -24670,18 +24550,6 @@
         "sentence2": "All necessary leads are extended from the termination base 210 through the plug 282-jack 290 connection over cable 222 into the multiplexer 220.",
         "marker": "hence",
         "idx": 4111
-    },
-    {
-        "sentence1": "Our clinker is produced by one of the top three biggest cement factories in iran.",
-        "sentence2": "Its..",
-        "marker": "therefore",
-        "idx": 4112
-    },
-    {
-        "sentence1": "Presumably this all has something to do with the supposed abolition of private capital ownership in communist states.",
-        "sentence2": "Really?",
-        "marker": "but",
-        "idx": 4113
     },
     {
         "sentence1": "We again have molecular evidence to support the morphological/fossil evidence of common ancestry.",
@@ -24780,7 +24648,7 @@
         "idx": 4129
     },
     {
-        "sentence1": "If we were.500 and the offense was at least playing respectable, i would say stick with brunnell.",
+        "sentence1": "If we were, 500 and the offense was at least playing respectable, i would say stick with brunnell.",
         "sentence2": "This team is not going to make the playoffs.",
         "marker": "however",
         "idx": 4130
@@ -24876,7 +24744,7 @@
         "idx": 4145
     },
     {
-        "sentence1": "I defend the position that the appearance of a conflict between common-sense epistemology and skeptical theism remains, even after one fully appreciates the role defeat plays in rational belief.",
+        "sentence1": "I defend the position that the appearance of a conflict between commonsense epistemology and skeptical theism remains, even after one fully appreciates the role defeat plays in rational belief.",
         "sentence2": "Mathesons recent attempt to establish peace is not fully successful",
         "marker": "in particular",
         "idx": 4146
@@ -24888,7 +24756,7 @@
         "idx": 4147
     },
     {
-        "sentence1": "Well, it appears that bartons publisher has pulled the book from publication, due tohistorical details included in the book that were not adequately supported.",
+        "sentence1": "Well, it appears that bartons publisher has pulled the book from publication, due to historical details included in the book that were not adequately supported.",
         "sentence2": "Due to fabrications.",
         "marker": "in other words",
         "idx": 4148
@@ -24919,7 +24787,7 @@
     },
     {
         "sentence1": "Unlike cuda/opencl, in hlsl, the shape of thread group has to be specified statically using numthreads annotation to the entry function.",
-        "sentence2": "Camp also has this static compilation requirement.",
+        "sentence2": "C++ amp also has this static compilation requirement.",
         "marker": "as a result",
         "idx": 4153
     },
@@ -25572,7 +25440,7 @@
         "idx": 4261
     },
     {
-        "sentence1": "These concerns primarily focus on government contracts and research and are predominately theprimesmentioned above.",
+        "sentence1": "These concerns primarily focus on government contracts and research and are predominately the primes mentioned above.",
         "sentence2": "Reliance on government contracts, this segment underwent a series of consolidations and an overall contraction in the 1990s and early 2000s.",
         "marker": "because of this",
         "idx": 4262
@@ -25834,12 +25702,6 @@
         "sentence2": "Pinning down the effects of genes that influence body development is the key to predicting a specific individuals looks.",
         "marker": "nevertheless",
         "idx": 4305
-    },
-    {
-        "sentence1": "\"The Government of the United States has NEVER made a``profit\"\"by which The Government takes NO taxes and pays US (like Alaska apparently may do because of their oil royalties).\"",
-        "sentence2": "Bi.",
-        "marker": "in other words",
-        "idx": 4306
     },
     {
         "sentence1": "What would the vendor represent?",
@@ -26298,7 +26160,7 @@
         "idx": 4382
     },
     {
-        "sentence1": "No non-smiking japanese style room were available.",
+        "sentence1": "No non-smoking japanese style room were available.",
         "sentence2": "There was no smell in the room.",
         "marker": "nevertheless",
         "idx": 4383
@@ -26371,7 +26233,7 @@
     },
     {
         "sentence1": "But according to a survey released this week, liebermans comments reflect the beliefs of the majority of american jews.",
-        "sentence2": "According to the survey,the jewish taboo on mixed marriage has clearly collapsed.",
+        "sentence2": "According to the survey, the jewish taboo on mixed marriage has clearly collapsed.",
         "marker": "in short",
         "idx": 4395
     },
@@ -26419,7 +26281,7 @@
     },
     {
         "sentence1": "Herbal schools are seeing an uptick in people interested in grandmas old-fashioned remedies, such as elderberry cough drops, or herbal heating packs for joint pain.",
-        "sentence2": "My mother would be proud to know i listened when she told me that a glass of peppermint tea relieves a stomachache.",
+        "sentence2": "My mother would be proud to know i listened when she told me that a glass of peppermint tea relieves a stomach ache.",
         "marker": "likewise",
         "idx": 4403
     },
@@ -26862,12 +26724,6 @@
         "idx": 4476
     },
     {
-        "sentence1": "She has a website.",
-        "sentence2": "She is hot lolita xxx is that a bruise on her hip?",
-        "marker": "but",
-        "idx": 4477
-    },
-    {
         "sentence1": "I think rex was too kind.",
         "sentence2": "If you want a more humorous take on our national obsession with illegal immigration you might want to try playing smuggle truck.",
         "marker": "on the other hand",
@@ -27016,12 +26872,6 @@
         "sentence2": "The typical beneficiary will not be a poor father or mother scrambling to keep a family fed, clothed, and housed.",
         "marker": "in other words",
         "idx": 4502
-    },
-    {
-        "sentence1": "We know that.",
-        "sentence2": "We know that a man named vladimir ilich lenin also existed.",
-        "marker": "similarly",
-        "idx": 4503
     },
     {
         "sentence1": "Campaign management 128 e includes managing a sequence of contacts with a targeted customer base.",
@@ -27511,7 +27361,7 @@
     },
     {
         "sentence1": "Several criteria for treatment response to interferon beta have been proposed, although there is no consensus among different investigators.",
-        "sentence2": "The aim of this study was to investigate magnetic resonance imaging",
+        "sentence2": "The aim of this study was to investigate magnetic resonance imaging.",
         "marker": "hence",
         "idx": 4585
     },
@@ -28459,7 +28309,7 @@
     },
     {
         "sentence1": "Hed be delighted to see you over there.",
-        "sentence2": "Be warned.hes a man of few words today.",
+        "sentence2": "Be warned, hes a man of few words today.",
         "marker": "although",
         "idx": 4743
     },
@@ -28542,7 +28392,7 @@
         "idx": 4756
     },
     {
-        "sentence1": "Due to shortages in the reloading product industry we try to make sure that all products listed asavailable for purchaseare in stock.",
+        "sentence1": "Due to shortages in the reloading product industry we try to make sure that all products listed asavailable for purchase are in stock.",
         "sentence2": "If we find ourselves oversold we apologize for the inconvenience.",
         "marker": "however",
         "idx": 4757
@@ -28602,19 +28452,19 @@
         "idx": 4766
     },
     {
-        "sentence1": "Significantly elevated levels of collagenase-2 and interleukin -8 but not tumour necrosis factor- were found in crswnp patients.",
+        "sentence1": "Significantly elevated levels of collagenase-2 and interleukin -8 but not tumour necrosis factor were found in crswnp patients.",
         "sentence2": "The activation of mesenchymal-type mmp-8 but not polymorphonuclear-type mmp-8 was associated with elevated il-8 levels.",
         "marker": "in particular",
         "idx": 4767
     },
     {
         "sentence1": "The scent is very light and not overpowering at all.",
-        "sentence2": "This is a great lotion - 4 years, 4 months ago.",
+        "sentence2": "This is a great lotion.",
         "marker": "overall",
         "idx": 4768
     },
     {
-        "sentence1": "The angel gabriel did not say,the holy spirit will impregnate you.",
+        "sentence1": "The angel gabriel did not say, the holy spirit will impregnate you.",
         "sentence2": "He said the holy spirit will overshadow you and the child will be called son of god.",
         "marker": "rather",
         "idx": 4769
@@ -28714,12 +28564,6 @@
         "sentence2": "Obama seems to give the perfect answer on how to strike the right balance between church and state.",
         "marker": "in contrast",
         "idx": 4785
-    },
-    {
-        "sentence1": "The film was directed by chloe sampson and eddie powell.",
-        "sentence2": "This film was good for a porn, especially if you are not accustomed to lesbian porn.",
-        "marker": "overall",
-        "idx": 4786
     },
     {
         "sentence1": "Smart grid, equipped with modern communication infrastructures, is subject to possible cyber attacks.",
@@ -29052,12 +28896,6 @@
         "idx": 4841
     },
     {
-        "sentence1": "Jim crow?",
-        "sentence2": "Jim crow laws were started by southern democrats.",
-        "marker": "interestingly",
-        "idx": 4842
-    },
-    {
         "sentence1": "Thats not good because india always perform well at icc events against pakistan.",
         "sentence2": "Its better to go out on the field and play well instead of giving all this speeches to the media.",
         "marker": "therefore",
@@ -29238,7 +29076,7 @@
         "idx": 4872
     },
     {
-        "sentence1": "Mcquaig explainedno energy source in view.is as effective, versatile, and potent as oil.",
+        "sentence1": "Mcquaig explainedno energy source in view is as effective, versatile, and potent as oil.",
         "sentence2": "The solution to our dilemma is to rely on lots less of it, substituting less ecologically damaging sources like wind, sun and waves.",
         "marker": "yet",
         "idx": 4873
@@ -29569,7 +29407,7 @@
     },
     {
         "sentence1": "Treatment seven hit me harder this time.",
-        "sentence2": "I got through it and just went in to remission last november of 2007.",
+        "sentence2": "I got through it and just went in to remission.",
         "marker": "but",
         "idx": 4928
     },
@@ -29964,12 +29802,6 @@
         "idx": 4993
     },
     {
-        "sentence1": "Mintz-plasse turns out to be a real actor, one who yearns to get beyond his own caricatures.",
-        "sentence2": "When he saunters into this small roundtable a little late, he explains with a characteristically mclovin swagger that he was down the halldoing coke and having sex with whores.",
-        "marker": "nonetheless",
-        "idx": 4994
-    },
-    {
         "sentence1": "By uploading a file with the same name as an existing file, that includes an underscore followed by a dot, it is possible to bypass the file renaming mitigation in place.",
         "sentence2": "By uploading a file twice with the name.",
         "marker": "for instance",
@@ -30264,12 +30096,6 @@
         "idx": 5043
     },
     {
-        "sentence1": "First, it is assumed that n is the maximum possible number of bidders.",
-        "sentence2": "The encrypted bid eb i is hidden by a one-way hash function h in the same manner as in fig.",
-        "marker": "thereafter",
-        "idx": 5044
-    },
-    {
         "sentence1": "But mounting evidence suggests that even if these stem cells exist, their numbers decline with age.",
         "sentence2": "Some scientists suspect there are fewer new heart cells to replace older ones which are dying in greater numbers due to age, injury, and other problems.",
         "marker": "as a result",
@@ -30282,7 +30108,7 @@
         "idx": 5046
     },
     {
-        "sentence1": "In canada,the frequency of data collection by nrcan using the mobile surveys has been decreased due to the low levels of radiation being detected.",
+        "sentence1": "In canada, the frequency of data collection by nrcan using the mobile surveys has been decreased due to the low levels of radiation being detected.",
         "sentence2": "Since theyre detecting radiation, they decided to turn off their radiation detectors.",
         "marker": "in other words",
         "idx": 5047
@@ -30988,12 +30814,6 @@
         "sentence2": "The system uses a computer to prevent delays as vehicles transition from a greater number of toll lanes to a lesser number of travel lanes.",
         "marker": "specifically",
         "idx": 5164
-    },
-    {
-        "sentence1": "Irish mistress buys up a bevy of black female slaves in the 1800s in georgia, usa, but doesnt mistreat them or put them to hard labor.",
-        "sentence2": "She lets them stay in nicely accomodated dwellings, and all they have to do is sew, and also service her sordid sexual desires at night.",
-        "marker": "rather",
-        "idx": 5165
     },
     {
         "sentence1": "The links are serial links when the path is a single bit wide path.",
@@ -32526,7 +32346,7 @@
         "idx": 5420
     },
     {
-        "sentence1": "Id trul appreciat it.",
+        "sentence1": "Id truly appreciate it.",
         "sentence2": "They become obsessed by the grass is always greener syndrome where everyone elses relationship and their own past lovers are elevated to the status of perfection.",
         "marker": "in short",
         "idx": 5421
@@ -32758,12 +32578,6 @@
         "sentence2": "Your staff development plan needs to address the greatest needs of staff to implement the strategies you have chosen to be able to improve student achievement.",
         "marker": "consequently",
         "idx": 5459
-    },
-    {
-        "sentence1": "I retrieved one antler and one ear is still intact with the head, is there anyway i can get the deer repaired and parts recarved to match?",
-        "sentence2": "Restored?",
-        "marker": "in other words",
-        "idx": 5460
     },
     {
         "sentence1": "When mounting a plurality of light emitting components on the mount lead, the light emitting components generate significant amount of heat and therefore high thermal conductivity is required.",
@@ -33019,7 +32833,7 @@
     },
     {
         "sentence1": "Eventually i began to think about frbr and the changes coming out of oclc.",
-        "sentence2": "I focused on the various attempts being made to identify theworkunder the new system.",
+        "sentence2": "I focused on the various attempts being made to identify the work under the new system.",
         "marker": "particularly",
         "idx": 5503
     },
@@ -33166,12 +32980,6 @@
         "sentence2": "I have a feeling that with ams now in the consolation round, my chances are shot, well it was fun while it lasted.",
         "marker": "though",
         "idx": 5527
-    },
-    {
-        "sentence1": "She told howard stern she only had two sex partners so far.",
-        "sentence2": "She claims her virgin tattoo is only meant to indicate her birth sign, virgo.",
-        "marker": "however",
-        "idx": 5528
     },
     {
         "sentence1": "I suspect that is the case for most of the dpreview readers.",
@@ -33744,12 +33552,6 @@
         "idx": 5623
     },
     {
-        "sentence1": "There are some sights so horrific that youd never want to see them.",
-        "sentence2": "You probably wouldnt want to see your mother gang-raped by rabid possums.",
-        "marker": "for instance",
-        "idx": 5624
-    },
-    {
         "sentence1": "Between 1983 and 1996, pounds watched two cloud forest lizard species vanish from his study site.",
         "sentence2": "A third species that also lives in the drier forest downslope continued to flourish in the cloud forest, possibly even increasing in number.",
         "marker": "in contrast",
@@ -34201,7 +34003,7 @@
     },
     {
         "sentence1": "While it has since matured into a very capable suite of programs, the first few versions were just awful.",
-        "sentence2": "I couldnt get the formatting correct on a numbered list with bullet-ted sub-points.",
+        "sentence2": "I couldnt get the formatting correct on a numbered list with bulletted sub-points.",
         "marker": "in particular",
         "idx": 5700
     },
@@ -34404,12 +34206,6 @@
         "idx": 5733
     },
     {
-        "sentence1": "N adjacent to the cathode.",
-        "sentence2": "The etl in each organic el unit are designated 327.",
-        "marker": "similarly",
-        "idx": 5734
-    },
-    {
         "sentence1": "And be sure to write about all the fringe people theron paul fanatics and the bandana wearing anarchists and whatnot.",
         "sentence2": "The business press has had some of the most sympathetic coverage.",
         "marker": "interestingly",
@@ -34488,12 +34284,6 @@
         "idx": 5747
     },
     {
-        "sentence1": "We started doing that classification in the new java producer.",
-        "sentence2": "There are certain exceptions are of retriableexception.",
-        "marker": "for example",
-        "idx": 5748
-    },
-    {
         "sentence1": "Agricultural species are often selected to have a predictable flowering time, a predictable seed size - and a predictable degree of tolerance for drought, salt, or heavy metals.",
         "sentence2": "Wild species retain a much greater degree of genetic diversity in all of these traits.",
         "marker": "by contrast",
@@ -34506,7 +34296,7 @@
         "idx": 5750
     },
     {
-        "sentence1": "Moreover, the trinity proceeds from the father and the son, so it could only becomevisible to us in the new testament.",
+        "sentence1": "Moreover, the trinity proceeds from the father and the son, so it could only become visible to us in the new testament.",
         "sentence2": "We cant elevate one member of the trinity as higher than the rest.",
         "marker": "in sum",
         "idx": 5751
@@ -34522,12 +34312,6 @@
         "sentence2": "There is a g. meyrs, also spelled meyers and mayers, that wrote some marvelous things.",
         "marker": "for instance",
         "idx": 5753
-    },
-    {
-        "sentence1": "Why not.",
-        "sentence2": "Id have to say weve reached the point where the stuff timms putting out really is just for kids.",
-        "marker": "otherwise",
-        "idx": 5754
     },
     {
         "sentence1": "In the report, the seven roles of physicians have therefore been revised and adjusted, and they are now based on various medical situations that physicians meet every day.",
@@ -34930,12 +34714,6 @@
         "sentence2": "Negro league players who hit for power would hit significantly more hrs in the major leagues.",
         "marker": "in particular",
         "idx": 5821
-    },
-    {
-        "sentence1": "She likes to lick her own impressive milf pair while having sex.",
-        "sentence2": "This clip is smoking, becki crewz can get much freakier.",
-        "marker": "though",
-        "idx": 5822
     },
     {
         "sentence1": "After radical prostatectomy, it is habitually caused by bladder cancer or infection and is almost never related to prostate cancer.",
@@ -35802,13 +35580,13 @@
         "idx": 5966
     },
     {
-        "sentence1": "Besides, the methylene function could be viewed very much like an -alkyl branch condensed into the ring system.",
+        "sentence1": "Besides, the methylene function could be viewed very much like an alkyl branch condensed into the ring system.",
         "sentence2": "The inherent phenyl substituent grants certain degree of activity against the generalized tonic-clonic and partial seizures.",
         "marker": "particularly",
         "idx": 5967
     },
     {
-        "sentence1": "They even did some things that an australian would callshonky.",
+        "sentence1": "They even did some things that an australian would call shonky.",
         "sentence2": "They removed the effect of social class variables such as wealth on their results.",
         "marker": "for example",
         "idx": 5968
@@ -35826,7 +35604,7 @@
         "idx": 5970
     },
     {
-        "sentence1": "One challenge, of course, is that anyinheritancecarries the risk of robbing a developing person of their work ethic.",
+        "sentence1": "One challenge, of course, is that any inheritance carries the risk of robbing a developing person of their work ethic.",
         "sentence2": "What makes you, your assets, and your heirs unique?",
         "marker": "in short",
         "idx": 5971
@@ -36384,8 +36162,8 @@
         "idx": 6063
     },
     {
-        "sentence1": "Percent of all hbcus have a minimum standardized-test-score requirement.",
-        "sentence2": "The average admissions requirements for 55flagshipor most competitive state institutions across 50 states are a 2.4 gpa, a 21 on the act and a 1,032",
+        "sentence1": "Percent of all hbcus have a minimum standardized test score requirement.",
+        "sentence2": "The average admissions requirements for 55 flagship or most competitive state institutions across 50 states are a 2.4 gpa, a 21 on the act and a 1,032",
         "marker": "by contrast",
         "idx": 6064
     },
@@ -36660,8 +36438,8 @@
         "idx": 6109
     },
     {
-        "sentence1": "It was found that co crystals of up to 72 g cm -2 have no effect on cell migration for up to 48 h of treatment.",
-        "sentence2": "After 48 h of treatment with 72 g cm -2 of ha crystals, 4t1 cell migration increased by 20% in comparison with the control group.",
+        "sentence1": "It was found that co crystals of up to 72 g/cm have no effect on cell migration for up to 48 h of treatment.",
+        "sentence2": "After 48 h of treatment with 72 g/cm of ha crystals, 4t1 cell migration increased by 20% in comparison with the control group.",
         "marker": "in contrast",
         "idx": 6110
     },
@@ -36676,12 +36454,6 @@
         "sentence2": "A parasitic scr is formed by the p-type contact, the n-well, the p-substrate, the source region.",
         "marker": "as a result",
         "idx": 6112
-    },
-    {
-        "sentence1": "Loveland stated about the registers editor,the editor has stepped beyond the limits of journalism.",
-        "sentence2": "In charles e. frohmans book about i.f.",
-        "marker": "interestingly",
-        "idx": 6113
     },
     {
         "sentence1": "I refer to it as the entrepreneurial ecclesial executive, who embraces capitalism and prosperity while urging followers to be pious and hard working.",
@@ -36744,22 +36516,10 @@
         "idx": 6123
     },
     {
-        "sentence1": "The final number was 57.",
-        "sentence2": "The use of forward operating earnings to determine the value of the market can be extremely hazardous.",
-        "marker": "in sum",
-        "idx": 6124
-    },
-    {
         "sentence1": "So, maybe i can give ginger another shot.",
         "sentence2": "Still, its certainly not a chocolate cookie.",
         "marker": "though",
         "idx": 6125
-    },
-    {
-        "sentence1": "Among them, those having a relatively low molecular weight is preferred from the viewpoint of reduction of electrical resistance, although they may cause blooming.",
-        "sentence2": "Tmtd and tetd are preferred.",
-        "marker": "particularly",
-        "idx": 6126
     },
     {
         "sentence1": "Id been surprised as its my job to consider you have to aid you from the house for the top academic institutions.",
@@ -36823,7 +36583,7 @@
     },
     {
         "sentence1": "I dont think he advocated the attitude ofif i do this good service to others, what will they give me back in return?",
-        "sentence2": "Its more likeif i do this service to others, wholesome qualities like peace of mind, sympathetic joy, etc.. will arrive.",
+        "sentence2": "Its more likeif i do this service to others, wholesome qualities like peace of mind, sympathetic joy, etc. will arrive.",
         "marker": "instead",
         "idx": 6137
     },
@@ -36858,8 +36618,8 @@
         "idx": 6142
     },
     {
-        "sentence1": "This was not unexpected, since the indirect proresorptive activity of ifn- overrides its direct anti-osteoclastogenic activity only in conditions of increased t cell activation.",
-        "sentence2": "In unstimulated conditions, ifn- exerts only its direct anti-osteoclastogenic activity.",
+        "sentence1": "This was not unexpected, since the indirect proresorptive activity of ifn overrides its direct anti-osteoclastogenic activity only in conditions of increased t cell activation.",
+        "sentence2": "In unstimulated conditions, ifn exerts only its direct anti-osteoclastogenic activity.",
         "marker": "in contrast",
         "idx": 6143
     },
@@ -36876,7 +36636,7 @@
         "idx": 6145
     },
     {
-        "sentence1": "If the comparison result indicates coincidence in position information,starting stateof the table is renewed tostart.",
+        "sentence1": "If the comparison result indicates coincidence in position information, starting state of the table is renewed to start.",
         "sentence2": "It is notified to the executing server 401 that the start processing of the server object finished normally, and then this flow is finished.",
         "marker": "thereafter",
         "idx": 6146
@@ -36888,7 +36648,7 @@
         "idx": 6147
     },
     {
-        "sentence1": "A chitinase sequence was recently discovered in the hydroid cnidarian hydractinia and a possible role of chitinase enzyme in pattern formation and allorecognition was suggested.",
+        "sentence1": "A chitinase sequence was recently discovered in the hydroid cnidarian hydractinia and a possible role of chitinase enzyme in pattern formation and allo recognition was suggested.",
         "sentence2": "The transcript was exclusively expressed in ectodermal tissues of the animal, and the authors also suggested a possible role in host defense against pathogens.",
         "marker": "interestingly",
         "idx": 6148
@@ -37002,8 +36762,8 @@
         "idx": 6166
     },
     {
-        "sentence1": "Their organization is based on the premise ofequal rights for all, special privileges for none.",
-        "sentence2": "Premise, the kkkk is against all affirmative action programs.",
+        "sentence1": "Their organization is based on the premise of equal rights for all, special privileges for none.",
+        "sentence2": "Premise is against all affirmative action programs.",
         "marker": "because of this",
         "idx": 6167
     },
@@ -38034,12 +37794,6 @@
         "idx": 6338
     },
     {
-        "sentence1": "]",
-        "sentence2": "Apollo seems to be the only one who uses the power for anything more than poker.",
-        "marker": "interestingly",
-        "idx": 6339
-    },
-    {
         "sentence1": "Simultaneously, la 2 o 3 was heated at about 2,400 c., srco 3 was heated at about 2,200 c., and cuo was heated at about 980 c. by electron beam.",
         "sentence2": "The materials were evaporated towards the substrate and deposited on the substrate to form a thin film of la-sr-cu-o type ceramic oxide superconductor having a thickness of about 1 m.",
         "marker": "thereby",
@@ -38233,7 +37987,7 @@
     },
     {
         "sentence1": "Btw always remember that internet blogs are highly subjective and not objective.",
-        "sentence2": "Even when it comes to comments on this website dont forget one mans pussy is another mans dog.",
+        "sentence2": "Even when it comes to comments on this website dont forget one mans cowardice is another mans dog.",
         "marker": "hence",
         "idx": 6372
     },
@@ -38314,12 +38068,6 @@
         "sentence2": "Ive been very happy with it.",
         "marker": "overall",
         "idx": 6385
-    },
-    {
-        "sentence1": "The length is meaningless when talking about existance.",
-        "sentence2": "no.",
-        "marker": "in short",
-        "idx": 6386
     },
     {
         "sentence1": "I dont think the maf mod makes much of a difference other than apples-to-apples comparison.",
@@ -38436,13 +38184,7 @@
         "idx": 6405
     },
     {
-        "sentence1": "The product of these reactions appears to be the same whether single stranded dna or duplex dna is used.",
-        "sentence2": "Vs, r, s -d d, may form a duplex in which one strand is either.",
-        "marker": "in contrast",
-        "idx": 6406
-    },
-    {
-        "sentence1": "Thus, a 160 mg tablet, known as ablue bomber, may sell for up to 160 with its illicit sale.",
+        "sentence1": "Thus, a 160 mg tablet, known as a blue bomber, may sell for up to 160 with its illicit sale.",
         "sentence2": "Oxycontin is sometimes referred to as poormans heroin.",
         "marker": "interestingly",
         "idx": 6407
@@ -38484,7 +38226,7 @@
         "idx": 6413
     },
     {
-        "sentence1": "Into the ice-cooled solution was slowly dropped 12.6 g of 2-methoxy-3,5-octanedione, and the mixture was stirred for 5 minutes.",
+        "sentence1": "Into the ice-cooled solution was slowly dropped 12.6 g of 2-methoxy-3, 5-octanedione, and the mixture was stirred for 5 minutes.",
         "sentence2": "A solution of 10.0 g of nickel chloride hexahydrate in 30 ml of methanol was slowly dropped into the ice-cooled mixture.",
         "marker": "subsequently",
         "idx": 6414
@@ -38497,7 +38239,7 @@
     },
     {
         "sentence1": "After transforming into a christian rap artist, his passion becamesharing the word through his music.",
-        "sentence2": "Break free ministries opened its doors and kevin and his friend aaron thompson became record producers for christian rock, rap,beat productionfor rap, hip-hop, and pop artists.",
+        "sentence2": "Break free ministries opened its doors and kevin and his friend aaron thompson became record producers for christian rock, rap, beat production for rap, hip-hop, and pop artists.",
         "marker": "therefore",
         "idx": 6416
     },
@@ -38620,12 +38362,6 @@
         "sentence2": "All users are denied access to all fields, unless they are specifically given access on a per-field basis.",
         "marker": "in other words",
         "idx": 6436
-    },
-    {
-        "sentence1": "Or, we could again just call them o and orslackandthe conspiracy.",
-        "sentence2": "This can be thought of as a sword that cuts mankind right down the middle, between thechildren of this worldandthe children of light.",
-        "marker": "likewise",
-        "idx": 6437
     },
     {
         "sentence1": "Player x might think itsrobbyery and not pay it.",
@@ -39006,13 +38742,7 @@
         "idx": 6500
     },
     {
-        "sentence1": "Although im 25 weeks along, i think 15 weeks is a little excessive to be in a perpetual phase of cooking, cleaning and baby preparing.",
-        "sentence2": "Are you ready?",
-        "marker": "but",
-        "idx": 6501
-    },
-    {
-        "sentence1": "In fact the only person who really calls them elves is vlads grandfather.",
+        "sentence1": "In fact the only person who really calls themselves is vlads grandfather.",
         "sentence2": "They are simply the dominant sentient species of this world, so take them as they are presented without preconceptions about elves.",
         "marker": "otherwise",
         "idx": 6502
@@ -39025,7 +38755,7 @@
     },
     {
         "sentence1": "104-5 the weapons we fight with are not the weapons of the world.",
-        "sentence2": "They have divine power to demolish strongholds.",
+        "sentence2": "They have divine power to demolish strong holds.",
         "marker": "on the contrary",
         "idx": 6504
     },
@@ -39034,12 +38764,6 @@
         "sentence2": "For realizing the thermometer circuit, trimming for absorbing variations in the detected temperature is needed.",
         "marker": "conversely",
         "idx": 6505
-    },
-    {
-        "sentence1": "Can't win much, going forward with that one!",
-        "sentence2": "?",
-        "marker": "on the other hand",
-        "idx": 6506
     },
     {
         "sentence1": "The united states then asked india to waive the newly granted immunity so it could prosecute khobragade, but the indians refused.",
@@ -39385,7 +39109,7 @@
     },
     {
         "sentence1": "He attended the parish school at st. johns church at joppa until his parents migrated to north carolina.",
-        "sentence2": "His education was provided by family members and local schoolmasters.",
+        "sentence2": "His education was provided by family members and local school masters.",
         "marker": "thereafter",
         "idx": 6564
     },
@@ -40321,7 +40045,7 @@
     },
     {
         "sentence1": "Now that its been a few years since their start, the folks behind coverspy are noticing over-all trends as well as smaller scale trends.",
-        "sentence2": "Did you know the book covers on the l train tend to be theprettiest, while the g train passengers read more of a range of books?",
+        "sentence2": "Did you know the book covers on the train tend to be the prettiest, while the train passengers read more of a range of books?",
         "marker": "for instance",
         "idx": 6720
     },
@@ -40348,12 +40072,6 @@
         "sentence2": "Brooks has only been a starter for 3 years and you guys want him to be perfect.",
         "marker": "yet",
         "idx": 6724
-    },
-    {
-        "sentence1": "C is a member of group b.",
-        "sentence2": "C is a member of subset a..",
-        "marker": "therefore",
-        "idx": 6725
     },
     {
         "sentence1": "There are, of course, significant differences of kind and degree among diseases, and an objective immigration policy must take these differences into account.",
@@ -40722,7 +40440,7 @@
         "idx": 6786
     },
     {
-        "sentence1": "The adopt-a-horse program has been around for many years- more information can be found here.",
+        "sentence1": "The adopt-a-horse program has been around for many years more information can be found here.",
         "sentence2": "This program ensures money for each adopted horses basic needs for the year-feed, annuals shots, deworming treatments as needed, and hoof care.",
         "marker": "in short",
         "idx": 6787
@@ -40897,7 +40615,7 @@
     },
     {
         "sentence1": "The lens is now bonded into position using a suitable glue, such as a uv curing cement.",
-        "sentence2": "The retaining lip 31 might be provided as an annular structure circumscribing the interior wall of the apex ring.",
+        "sentence2": "The retaining lip might be provided as an annular structure circumscribing the interior wall of the apex ring.",
         "marker": "likewise",
         "idx": 6816
     },
@@ -41598,12 +41316,6 @@
         "idx": 6932
     },
     {
-        "sentence1": "The just-identified minimum limit is selected in some embodiments to be manufacturing grid of a process to be used in fabricating the integrated circuit.",
-        "sentence2": "The grid size is selected to be e.g.",
-        "marker": "hence",
-        "idx": 6933
-    },
-    {
         "sentence1": "Rated 5 out of 5 by laura from high quality i totally love this v-neck mj detroit tee, ordered in a heather grey with blue script.",
         "sentence2": "I usually wear size small, this shirt is a medium and fits great.",
         "marker": "although",
@@ -42198,7 +41910,7 @@
         "idx": 7032
     },
     {
-        "sentence1": "Thesinnerswere people who had publicly broken the law of moses.",
+        "sentence1": "The sinners were people who had publicly broken the law of moses.",
         "sentence2": "They were drawn to jesus.",
         "marker": "yet",
         "idx": 7033
@@ -42222,7 +41934,7 @@
         "idx": 7036
     },
     {
-        "sentence1": "20110184057 - parenteral treatment with statins cancer patients, patients with cognitive dysfunction, or patients with pulmonary hypertension are treated with parenterally administered therapeutic doses of statins.",
+        "sentence1": "Parenteral treatment with statins cancer patients, patients with cognitive dysfunction, or patients with pulmonary hypertension are treated with parenterally administered therapeutic doses of statins.",
         "sentence2": "Transdermal, injection employing liquid infusion or particles are employed.",
         "marker": "particularly",
         "idx": 7037
@@ -42235,7 +41947,7 @@
     },
     {
         "sentence1": "They want not to be reminded of what they think and feel, but more conveyed away from it.",
-        "sentence2": "Oreilly says,so it means nothing, but its got a nice upbeat to it but you can do the pony and ride around.",
+        "sentence2": "Oreilly says, so it means nothing, but its got a nice upbeat to it but you can do the pony and ride around.",
         "marker": "in sum",
         "idx": 7039
     },
@@ -42247,7 +41959,7 @@
     },
     {
         "sentence1": "Tka recipients in terms of distance walked over a 30 minute period.",
-        "sentence2": "We now have confirmation that the 6mw test is an excellent predictor of longer dur- ation ambulation after tka.",
+        "sentence2": "We now have confirmation that the 6mw test is an excellent predictor of longer duration ambulation after tka.",
         "marker": "likewise",
         "idx": 7041
     },
@@ -42577,7 +42289,7 @@
     },
     {
         "sentence1": "I stopped when i felt done.",
-        "sentence2": "The pages ended up resembling mirror images of each other, which makes sense, ashappycan sometimes be simply the absence of somethingsad.",
+        "sentence2": "The pages ended up resembling mirror images of each other, which makes sense, as happy can sometimes be simply the absence of something sad.",
         "marker": "interestingly",
         "idx": 7096
     },
@@ -42886,12 +42598,6 @@
         "sentence2": "Success the antonio spurs invited him to sing the national anthem at game 3 of the nba finals.",
         "marker": "because of that",
         "idx": 7147
-    },
-    {
-        "sentence1": "I'm not sure they have one.",
-        "sentence2": "p.k.",
-        "marker": "although",
-        "idx": 7148
     },
     {
         "sentence1": "This report replaces read-only access to submitted application data and the application detail report.",
@@ -43342,12 +43048,6 @@
         "sentence2": "Continued, thorough discussions and cumulated achievements should come first, resulting in the establishment of such a community.",
         "marker": "instead",
         "idx": 7223
-    },
-    {
-        "sentence1": "That means you can get unprecedented access to nationally and internationally acclaimed winemakers, bottle signings, wine tastings, and more.",
-        "sentence2": "Theres more!",
-        "marker": "but",
-        "idx": 7224
     },
     {
         "sentence1": "For example, i learned that french women do not wear bright colors.",
@@ -43848,12 +43548,6 @@
         "idx": 7307
     },
     {
-        "sentence1": "He offers all three of the iols as options to his patients but likes the results of the rezooms for us mature folk that are 60+.",
-        "sentence2": "I got the impression he favors the rezoom over restor.",
-        "marker": "overall",
-        "idx": 7308
-    },
-    {
         "sentence1": "After each of the major accidents, brans was disciplined.",
         "sentence2": "The october, 1975, accident was followed by an oral reprimand while the january, 1976, incident resulted in a written disciplinary warning.",
         "marker": "thus",
@@ -43872,14 +43566,8 @@
         "idx": 7311
     },
     {
-        "sentence1": "This only happens when the three of you is in the same room,.",
-        "sentence2": "So if, like, your wife is way off to work, or is in another room,.",
-        "marker": "though",
-        "idx": 7312
-    },
-    {
         "sentence1": "Microsoft does not have a monopoly in embedded devices, and probably never will linux is beating microsoft in that market.",
-        "sentence2": "If microsoft wants its media player to exist in that market, they have to",
+        "sentence2": "If microsoft wants its media player to exist in that market, they have to expand.",
         "marker": "therefore",
         "idx": 7313
     },
@@ -44002,12 +43690,6 @@
         "sentence2": "There has been a fair amount of consolidation, and a shift to fabless and asset-lite business models.",
         "marker": "on the other hand",
         "idx": 7333
-    },
-    {
-        "sentence1": "We get it?",
-        "sentence2": "If youre catering to women or want to appeal to them, you have to work on the aesthetics.",
-        "marker": "but",
-        "idx": 7334
     },
     {
         "sentence1": "The ps4 is looking quite interesting.",
@@ -44622,13 +44304,7 @@
         "idx": 7436
     },
     {
-        "sentence1": "Created by such fires.",
-        "sentence2": "What little information we do have on wildfires is absolutely.",
-        "marker": "yet",
-        "idx": 7437
-    },
-    {
-        "sentence1": "The candidate can advance to the next screening question by touching thenext itemtouch area.",
+        "sentence1": "The candidate can advance to the next screening question by touching the next item touch area.",
         "sentence2": "The candidate can return to the previous question by touching the previous item touch area.",
         "marker": "similarly",
         "idx": 7438
@@ -45738,7 +45414,7 @@
         "idx": 7622
     },
     {
-        "sentence1": "Yknow what im saying?",
+        "sentence1": "You know what im saying?",
         "sentence2": "I love the deep blue in contrast to his light skin tone and white shirt, its very striking.",
         "marker": "nonetheless",
         "idx": 7623
@@ -47346,12 +47022,6 @@
         "idx": 7890
     },
     {
-        "sentence1": "In particular, the shape of the pedestal can be affected by velocity changing collisions of the rubidium atoms with the cell window.",
-        "sentence2": "The observed additional narrowing of the cusp [fig.",
-        "marker": "on the other hand",
-        "idx": 7891
-    },
-    {
         "sentence1": "The fabric-softening effects of various additive compositions for detergents were evaluated in the following manner.",
         "sentence2": "The mixture was cooled to room temperature.",
         "marker": "thereafter",
@@ -47365,7 +47035,7 @@
     },
     {
         "sentence1": "Adding the remainder 156 trades that were apparently under a different regime doesnt really help, assuming that there really was something special about the time frame of those 42 trades.",
-        "sentence2": "10 years ofout of regimedata wouldnt help either.",
+        "sentence2": "10 years ofout of regime data wouldnt help either.",
         "marker": "likewise",
         "idx": 7894
     },
@@ -47749,7 +47419,7 @@
     },
     {
         "sentence1": "This indicates that l -carnitine can protect mitochondria not only in hyperammonemia or damage induced by octanoic acid but also from impairment caused by pcp.",
-        "sentence2": "It is of interest that mitochondrial dysfunction caused by different kinds of chemicals can be ameliorated by l -carnitine which plays an important physiological role in inner mitochondrial membrane.",
+        "sentence2": "It is of interest that mitochondrial dysfunction caused by different kinds of chemicals can be ameliorated by l carnitine which plays an important physiological role in inner mitochondrial membrane.",
         "marker": "hence",
         "idx": 7958
     },
@@ -48426,12 +48096,6 @@
         "idx": 8070
     },
     {
-        "sentence1": "Its not likely that the boy and his atom is the father of a new genre of atomic filmmaking.",
-        "sentence2": "Who knows?",
-        "marker": "though",
-        "idx": 8071
-    },
-    {
         "sentence1": "Also, the sega logo flies in now.",
         "sentence2": "The music tracks seem the same, but the sound test changed to include the several sound chip sprites, but it still has the pwm beeps from 1207.",
         "marker": "overall",
@@ -49032,14 +48696,8 @@
         "idx": 8171
     },
     {
-        "sentence1": "It also gives an excellent opportunity for india to develop and harness its renewable resources and decrease its dependence on conventional methods.",
-        "sentence2": "The verdict, therefore, is athumbs upin favor of jairam ramesh.",
-        "marker": "in short",
-        "idx": 8172
-    },
-    {
         "sentence1": "Jesus did not say to peter,i give you the keys of the church, but i retain the keys of the kingdom.",
-        "sentence2": "Jesus said to peter,i will give to you the keys of the kingdom of heaven.",
+        "sentence2": "Jesus said to peter, i will give to you the keys of the kingdom of heaven.",
         "marker": "rather",
         "idx": 8173
     },
@@ -49056,22 +48714,10 @@
         "idx": 8175
     },
     {
-        "sentence1": "I agree with julians comments.",
-        "sentence2": "I would also prefer.",
-        "marker": "in particular",
-        "idx": 8176
-    },
-    {
         "sentence1": "Chase should at least rum up that offering some.",
         "sentence2": "I hear you cant trust ross gload around free booze.",
         "marker": "although",
         "idx": 8177
-    },
-    {
-        "sentence1": "Childrens hospital through a mitacs-accelerate internship to conduct research involving the personalization of treatment for pediatric brain tumors.",
-        "sentence2": "Research, b.c.",
-        "marker": "because of this",
-        "idx": 8178
     },
     {
         "sentence1": "In comparison to that pairing, dembele and scott parker are just too pragmatically inclined.",
@@ -50520,12 +50166,6 @@
         "idx": 8419
     },
     {
-        "sentence1": "Image courtesy powderwhore productions.",
-        "sentence2": "Some segments do have a narrative and are quite good.",
-        "marker": "although",
-        "idx": 8420
-    },
-    {
         "sentence1": "Seeing her was one of the highlights of the film.",
         "sentence2": "A very talented cast virtually wasted.",
         "marker": "overall",
@@ -50598,12 +50238,6 @@
         "idx": 8432
     },
     {
-        "sentence1": "Monia wakes up and looks around and her father still has nt come she is bit worried about her father.",
-        "sentence2": "Doctor sahab is very worried, and scolding dayal, that you are still not able to capture that man, agar who nahi mila to anarth ho jaaega.",
-        "marker": "on the other hand",
-        "idx": 8433
-    },
-    {
         "sentence1": "From a plot of the peak area ratio against time, the gradient of the line is determined.",
         "sentence2": "Half-life and intrinsic clearance are calculated using the equations below.",
         "marker": "subsequently",
@@ -50634,8 +50268,8 @@
         "idx": 8438
     },
     {
-        "sentence1": "7, the sentence 725 has a link to a card 730 to be displayed on the companions screen.",
-        "sentence2": "The card 730 appears on the display for the companion fig.",
+        "sentence1": "The sentence 725 has a link to a card 730 to be displayed on the companions screen.",
+        "sentence2": "The card 730 appears on the display for the companion.",
         "marker": "hence",
         "idx": 8439
     },
@@ -50710,12 +50344,6 @@
         "sentence2": "Congress undertook to negotiate with the coeur dalene tribe for reduction in the territory of an executive order reservation that idaho concedes included the submerged lands at issue here.",
         "marker": "in sum",
         "idx": 8451
-    },
-    {
-        "sentence1": "A new tournament?",
-        "sentence2": "Visit we got the opportunity to talk to the deputy ambassador of korea in the netherlands.",
-        "marker": "because of this",
-        "idx": 8452
     },
     {
         "sentence1": "Therefore is wrath upon thee from before the lord.",
@@ -51210,12 +50838,6 @@
         "idx": 8534
     },
     {
-        "sentence1": "He said they were resistant to damage.",
-        "sentence2": "Brikwussiness.",
-        "marker": "in short",
-        "idx": 8535
-    },
-    {
         "sentence1": "This suggests that mtor-mediated st2l expression contributes to increased il-33-induced sst2 expression observed in these variants.",
         "sentence2": "While q501r and q501k variants both result in positively charged amino acid substitutions, they have differential effects on signaling pathways.",
         "marker": "interestingly",
@@ -51229,7 +50851,7 @@
     },
     {
         "sentence1": "But many seem designed in the spirit of the card act, which aims to make card rules clearer and turn us into better money managers.",
-        "sentence2": "The bankamericard basic visa comes with one rate for all transactions, no over-the-limit fee and a single page of disclosures.",
+        "sentence2": "The bank of america basic visa comes with one rate for all transactions, no over-the-limit fee and a single page of disclosures.",
         "marker": "for instance",
         "idx": 8538
     },
@@ -52225,7 +51847,7 @@
     },
     {
         "sentence1": "The attitude of the jailers is regrettable however, baptism is not essential.",
-        "sentence2": "One of the dying thieves on a cross beside jesus was told by our lord,today you will be with me in paradise.",
+        "sentence2": "One of the dying thieves on a cross beside jesus was told by our lord, today you will be with me in paradise.",
         "marker": "for example",
         "idx": 8704
     },
@@ -52234,12 +51856,6 @@
         "sentence2": "I cannot stop saying that!",
         "marker": "but",
         "idx": 8705
-    },
-    {
-        "sentence1": "Known as cross-sensitization.",
-        "sentence2": "When animals were.",
-        "marker": "conversely",
-        "idx": 8706
     },
     {
         "sentence1": "The trouble is, mr. velsquez points out, inspectors are not judges and the accused has the right to have the case heard in a court of law.",
@@ -52264,12 +51880,6 @@
         "sentence2": "Not every student struggled like others did.",
         "marker": "likewise",
         "idx": 8710
-    },
-    {
-        "sentence1": "At leath the music can be turned off.",
-        "sentence2": "Its a 4 star app.",
-        "marker": "overall",
-        "idx": 8711
     },
     {
         "sentence1": "However, facebook use can be distractive when exaggerated and result in procrastination, distraction and privacy issues.",
@@ -52422,7 +52032,7 @@
         "idx": 8736
     },
     {
-        "sentence1": "Neelos song- cum dance was totally unacceptable to riaz.",
+        "sentence1": "Neelos song cum dance was totally unacceptable to riaz.",
         "sentence2": "He lost his temper and started ignoring her thereafter.",
         "marker": "hence",
         "idx": 8737
@@ -52752,20 +52362,14 @@
         "idx": 8791
     },
     {
-        "sentence1": "Also, phernudge.",
-        "sentence2": "Fnudger, one who cheats.",
-        "marker": "hence",
-        "idx": 8792
-    },
-    {
         "sentence1": "When one of the cows entered a shop belonging to a nonbeliever, the drover left the eleven and followed the one into the nonbelievers shop.",
         "sentence2": "Jacobs other sons were grown up and under their fathers control, but joseph was young and away from his fathers supervision.",
         "marker": "similarly",
         "idx": 8793
     },
     {
-        "sentence1": "Below is my latex code, which was working with texstudio,.",
-        "sentence2": "Looking up my questions using the usual suspects",
+        "sentence1": "Below is my latex code, which was working with texstudio.",
+        "sentence2": "Looking up my questions using the usual suspects.",
         "marker": "however",
         "idx": 8794
     },
@@ -53478,7 +53082,7 @@
         "idx": 8912
     },
     {
-        "sentence1": "I saidstyle.",
+        "sentence1": "I said style.",
         "sentence2": "There is a huge number of holsters made for this type gun.",
         "marker": "consequently",
         "idx": 8913
@@ -53766,12 +53370,6 @@
         "idx": 8960
     },
     {
-        "sentence1": "Targeted eminent domain?",
-        "sentence2": "Donovan brought up the imporance of usingeminent domain in a very targeted way in that community to help revive it.",
-        "marker": "interestingly",
-        "idx": 8961
-    },
-    {
         "sentence1": "County code allows only one freestanding sign per business.",
         "sentence2": "Officials say the sign must come down.",
         "marker": "because of that",
@@ -53788,12 +53386,6 @@
         "sentence2": "This last one in 2012 has to be one of the best moments of chipper jones career with the atlanta braves.",
         "marker": "however",
         "idx": 8964
-    },
-    {
-        "sentence1": "For instance, government health care programs are supposed to be more efficient than private medicine.",
-        "sentence2": "Ms.",
-        "marker": "yet",
-        "idx": 8965
     },
     {
         "sentence1": "Background delaware benefits from being one of the lowest property taxes in the tri-state region.",
@@ -54640,12 +54232,6 @@
         "sentence2": "It appears only in some particular situations, and can be corrected in pp.",
         "marker": "nevertheless",
         "idx": 9106
-    },
-    {
-        "sentence1": "Since the movies are reality porn, the quality is not as clear as staged porn in a controlled setting.",
-        "sentence2": "The videos are not enjoyable sincethey play in such a small screen.",
-        "marker": "because of that",
-        "idx": 9107
     },
     {
         "sentence1": "This mini replica was a lovely gift that we will always treasure.",
@@ -56358,7 +55944,7 @@
         "idx": 9392
     },
     {
-        "sentence1": "2002-07-05 thereve been some improvements in cvs, so you might want to go check that out.",
+        "sentence1": "Thereve been some improvements in cvs, so you might want to go check that out.",
         "sentence2": "It doesnt crash randomly when kxine is closed.",
         "marker": "particularly",
         "idx": 9393
@@ -56839,15 +56425,9 @@
     },
     {
         "sentence1": "Gradation patterns were printed on the printing layer.",
-        "sentence2": "A plain paper was placed on the printing layer and passed at about 200 c. through the heat roller as generally described in example 1.",
+        "sentence2": "A plain paper was placed on the printing layer and passed at about 200 c. through the heat roller as generally described.",
         "marker": "subsequently",
         "idx": 9473
-    },
-    {
-        "sentence1": "Bound by blood, divided by principles, and hellbent to survive, they understand that this rising moon signals the fulfillment of an ancient prophecy.",
-        "sentence2": "The packs are prepared to w..",
-        "marker": "consequently",
-        "idx": 9474
     },
     {
         "sentence1": "They dont list all the ingredients and then give the instructions.",
@@ -57073,7 +56653,7 @@
     },
     {
         "sentence1": "Real charities will spend 60 to 99 percent of the money they collect on the people they are supposed to serve.",
-        "sentence2": "Charity scams often wind up spending most or all of the money on itsadministrators.",
+        "sentence2": "Charity scams often wind up spending most or all of the money on its administrators.",
         "marker": "by contrast",
         "idx": 9512
     },
@@ -57174,7 +56754,7 @@
         "idx": 9528
     },
     {
-        "sentence1": "3, the distal end portion 4 can be led to an appropriate position by a simple operation of step 104, so as to readily obtain a highly efficient optical coupling.",
+        "sentence1": "The distal end portion 4 can be led to an appropriate position by a simple operation of step 104, so as to readily obtain a highly efficient optical coupling.",
         "sentence2": "Assembly work is facilitated.",
         "marker": "in other words",
         "idx": 9529
@@ -58044,12 +57624,6 @@
         "idx": 9673
     },
     {
-        "sentence1": "Every ti has a terminating decimal representation.",
-        "sentence2": "Every t_i has a shorter representation than d..",
-        "marker": "hence",
-        "idx": 9674
-    },
-    {
         "sentence1": "For example, the round trip signal delay may be normalized, yielding an estimate of distance by a time of arrival technique.",
         "sentence2": "Any doppler shift in the signal may be determined and compensated, allowing an indication of relative speed.",
         "marker": "likewise",
@@ -58078,12 +57652,6 @@
         "sentence2": "Graham packaging, a leading innovator in plastic packaging is looking for a dynamic, solution-oriented individual to join our team as quality assurance manager.",
         "marker": "specifically",
         "idx": 9679
-    },
-    {
-        "sentence1": "I am not the hyper-sexual type and sex horrifies me though i can watch porn and not be affected.",
-        "sentence2": "Through recent therapy i had met somebody who was a rape victim and had slept around a lot more after her attack.",
-        "marker": "though",
-        "idx": 9680
     },
     {
         "sentence1": "The writing was smooth and flowed nicely with the story.",
@@ -58213,7 +57781,7 @@
     },
     {
         "sentence1": "I was surprised when i found this out.",
-        "sentence2": "Its almost aduhmoment if you think about.",
+        "sentence2": "Its almost a duh moment if you think about.",
         "marker": "yet",
         "idx": 9702
     },
@@ -58422,16 +57990,10 @@
         "idx": 9736
     },
     {
-        "sentence1": "Anyway, i will likely continue to make fanart, comics, and videos as they take me much less time than what it takes to plan and write a chapter of this fic.",
+        "sentence1": "Anyway, i will likely continue to make fanart, comics, and videos as they take me much less time than what it takes to plan and write a chapter of this fiction.",
         "sentence2": "I may start another naruto fic some day.",
         "marker": "though",
         "idx": 9737
-    },
-    {
-        "sentence1": "Thats it?",
-        "sentence2": "If true, it says alot that chicago turned it down anyway, but we all know nyls has been very unimpressive so far.",
-        "marker": "although",
-        "idx": 9738
     },
     {
         "sentence1": "Long overdue for the original due date i had set, or as a good april fools prank.",
@@ -58566,7 +58128,7 @@
         "idx": 9760
     },
     {
-        "sentence1": "10/14/2011, now that the iphone 4s has been released, one of its most impressive features - siri voice assistant, is available for people to use.",
+        "sentence1": "Now that the iphone 4s has been released, one of its most impressive features - siri voice assistant, is available for people to use.",
         "sentence2": "What about all the previous generation of iphone users who dont get it even with the ios 5 update?",
         "marker": "but",
         "idx": 9761
@@ -58596,7 +58158,7 @@
         "idx": 9765
     },
     {
-        "sentence1": "3 - you have several people working on code at the same time, some on short term work, some on longer term stuff.",
+        "sentence1": "You have several people working on code at the same time, some on short term work, some on longer term stuff.",
         "sentence2": "Have incomplete work you dont want to release yet.",
         "marker": "therefore",
         "idx": 9766
@@ -58644,7 +58206,7 @@
         "idx": 9773
     },
     {
-        "sentence1": "08.08.2012 theyre everywhere in magazines, on the internet, on television-people with super-thin bodies who are presented as having the ideal body form.",
+        "sentence1": "Theyre everywhere in magazines, on the internet, on television-people with super-thin bodies who are presented as having the ideal body form.",
         "sentence2": "Despite the increasing pressure to be thin, more and more of us are overweight.",
         "marker": "but",
         "idx": 9774
@@ -58662,20 +58224,8 @@
         "idx": 9776
     },
     {
-        "sentence1": "Parsons v. georgetown steel, 318 s.c. 63, 67, 456 s.e.2d 366, 368.",
-        "sentence2": "Frasier provided sufficient proof of sudden, unforeseeable incapacity to create an issue of fact for the jury.",
-        "marker": "in sum",
-        "idx": 9777
-    },
-    {
-        "sentence1": "10th antijanuary - rapture occurs.",
-        "sentence2": "Things are so great in 1927 that no one wants to go to heaven.",
-        "marker": "however",
-        "idx": 9778
-    },
-    {
         "sentence1": "In step s63, if the continuation flag is not set, the operation is completed.",
-        "sentence2": "The change of the story development can be indicated to the user in the automatic reproduction by the program, as illustrated in figs.",
+        "sentence2": "The change of the story development can be indicated to the user in the automatic reproduction by the programs.",
         "marker": "thereby",
         "idx": 9779
     },
@@ -58762,12 +58312,6 @@
         "sentence2": "It connects users to the brand, and mission activities familiarize consumers with samsung products, which jointly creates a unique game play method of social discovery shopping.",
         "marker": "rather",
         "idx": 9793
-    },
-    {
-        "sentence1": "The land should be returned to the state.",
-        "sentence2": "Harry reid, the u.s.",
-        "marker": "likewise",
-        "idx": 9794
     },
     {
         "sentence1": "The point is they usually have to be stupid and predictable and not take common sense opportunities to kill you for you to concievably beat them.",
@@ -58920,12 +58464,6 @@
         "idx": 9819
     },
     {
-        "sentence1": "After switching from selenium to poltergeist found that this method do not work.",
-        "sentence2": "Replaced by find.",
-        "marker": "therefore",
-        "idx": 9820
-    },
-    {
         "sentence1": "The ncaa fully adopts the role of the villain here.",
         "sentence2": "In constitution, article ii of the ncaa manual the association limits and controls the student-athlete where it matters the most-financial aid.",
         "marker": "particularly",
@@ -58972,12 +58510,6 @@
         "sentence2": "Chronic low dose exposure to depleted uranium may not produce a clear and defined set of symptoms.",
         "marker": "in contrast",
         "idx": 9828
-    },
-    {
-        "sentence1": "Still, i found my first full-time teaching position in new york city startlingly separate from the world of bank street.",
-        "sentence2": "I did not know.",
-        "marker": "in particular",
-        "idx": 9829
     },
     {
         "sentence1": "Salt river cites no basis for the claim that fws had a legal obligation to give the tribes a chance to comment before releasing a final agency determination.",

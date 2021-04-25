@@ -72,23 +72,38 @@ def cleanup(data):
         #  else:
             #  d["sentence1"] = fix_text(d["sentence1"])
             #  d["sentence2"] = fix_text(d["sentence2"])
-            sentence1 = fix_text(d["sentence1"])
-            sentence2 = fix_text(d["sentence2"])
+            #  try:
+            d["sentence1"] = fix_text(d["sentence1"])
+            d["sentence2"] = fix_text(d["sentence2"])
+            #  except:
+                #  print(d["idx"], "bad sample")
+            #  if len(d["sentence1"]) < 3 or len(d["sentence2"]) < 3:
+                #  print(d["idx"], d["sentence1"])
+            if d["sentence1"][0].isdigit():
+                print(d["idx"], d["sentence1"])
+            #  if d["sentence2"][0].isdigit():
+                #  print(d["idx"], d["sentence2"])
+#              for char in sentence1:
+                #  if char.isdigit():
+                    #  d["sentence1"] = d["sentence1"].replace(", ", ",")
+                    #  break
+            #  for char in sentence2:
+                #  if char.isdigit():
+#                      d["sentence2"] = d["sentence2"].replace(", ", ",")
 
-
-            if sentence1[-1] != '.':
-                if sentence1[-1] != '?':
-                    if sentence1[-1] != '!':
-                        print(d["idx"], "\t")
-                        #  d["sentence1"] += '.'
-            if sentence2[-1] != '.':
-                if sentence2[-1] != '?':
-                    if sentence2[-1] != '!':
-                        print(d["idx"], "\t")
+#              if sentence1[-1] != '.':
+                #  if sentence1[-1] != '?':
+                    #  if sentence1[-1] != '!':
+                        #  print(d["idx"], "\t")
+                        #  #  d["sentence1"] += '.'
+            #  if sentence2[-1] != '.':
+                #  if sentence2[-1] != '?':
+                    #  if sentence2[-1] != '!':
+                        #  print(d["idx"], "\t")
                         #  d["sentence2"] += '.'
 
-            d["sentence1"] = sentence1.replace("_", " ")
-            d["sentence2"] = sentence2.replace("_", " ")
+            #  d["sentence1"] = sentence1.replace("_", " ")
+            #  d["sentence2"] = sentence2.replace("_", " ")
 
 #              if not hasNumbers(sentence1):
                 #  text1 = std_text(sentence1)

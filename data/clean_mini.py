@@ -115,10 +115,10 @@ def cleanup(data):
                     #  if sentence1[-1] != '!':
                 print(d["idx"], d["sentence1"], "\t")
                         #  d["sentence1"] += '.'
-            #  if d["sentence2"][-1] != ".":
+            if d["sentence2"][-1] != ".":
                 #  if sentence2[-1] != '?':
                     #  if sentence2[-1] != '!':
-                #  print(d["idx"], "\t")
+                print(d["idx"], "\t")
                         #  d["sentence2"] += '.'
 
             #  d["sentence1"] = sentence1.replace("_", " ")
@@ -157,7 +157,7 @@ train_data, remove_examples = cleanup(train_data)
 
 #  with open("raw_train.json", "w") as f:
     #  json.dump(train_data, f, indent=4)
-with open("raw_train_ninja.json", "w") as f:
-    json.dump(train_data, f, indent=4)
+#  with open("raw_valid_ninja.json", "w") as f:
+    #  json.dump(train_data, f, indent=4)
 
 

@@ -10,7 +10,6 @@ from tqdm import tqdm
 import pandas as pd
 
 sys.path.append("..")
-from data.discovery_con import LABELS
 
 from transformers import AutoModelForCausalLM, AutoTokenizer, HfArgumentParser
 from generate import DatasetGenerate
@@ -28,6 +27,8 @@ class DataTrainingArguments:
     context_col: str
     to_predict_col: str
     marker_col: str
+    option_id: int
+    resume_gen: Optional[str] = field(default=None)
     train_pct_range: Optional[str] = field(default=None)
     valid_pct_range: Optional[str] = field(default=None)
 
@@ -61,6 +62,7 @@ else:
     )
     print(f"Using {start_train_pct}-{end_train_pct}% of training data", len(dataset))
 
+print("Option ID has been set to ", data_args.option_id)
 print("Loading the model")
 model = AutoModelForCausalLM.from_pretrained(model_args.model_name_or_path)
 
@@ -86,18 +88,21 @@ dataset_gen_func = DatasetGenerate(
     replace_one=None,
 )
 
-synthetic_dataset = []
-
+if not data_args.resume_gen:
+    synthetic_dataset = []
+else:
+    with open(resume_gen, "w") as f:
+        synthetic_dataset = json.load(f)
 
 print("Generation in progress")
 
-for i in tqdm(range(len(dataset))):
+for idx in tqdm(range(len(dataset))):
     example = {}
-    values = dataset[i]
+    values = dataset[idx]
     example["context"] = values[data_args.context_col]
     example["marker"] = values[data_args.marker_col]
-    example["idx"] = i
-    generated_options = dataset_gen_func.generate_synthetic_options(i, option_id=None)
+    example["idx"] = idx
+    generated_options = dataset_gen_func.generate_synthetic_options(idx, option_id=data_args.option_id)
     example.update(generated_options)
     for k, v in example.items():
         print(v)

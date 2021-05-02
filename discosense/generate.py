@@ -57,7 +57,6 @@ class DatasetGenerate:
 
         output = []
         if option_id is not None:
-            # last index is reserved for AF decoding method
             output.append(
                 self.model.generate(input_ids=input_ids, **self.decoding_options[-1])
             )
@@ -86,12 +85,11 @@ class DatasetGenerate:
 
             if "?" in text:
                 text = text[: text.index("?")]
-
             if "." in text:
                 text = text[: text.index(".")]
 
             # Remove (), [] and text within it and then apply text
-            text = re.sub("[\(\[].*?[\)\]]", "", text)
+            #  text = re.sub("[\(\[].*?[\)\]]", "", text)
             text = fix_text(text)
 
             if option_id is not None:

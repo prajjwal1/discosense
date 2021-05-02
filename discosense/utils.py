@@ -33,18 +33,43 @@ token_fix_set = [
     ("Jump up ^ ", ""),
 ]
 
+fix_re = re.compile(r'[a-zA-Z]+[\.,]?|(?:\d{1,3}(?:,\d{3})+|\d+)(?:\.\d+)?(?:%|st|nd|rd|th)?[\.,]?')
+#  fix_re = re.compile(r'[a-zA-Z]+[\.,]?|(?:\d{1,3}(?:,\d{3})+|\d+)(?:\.\d+)?(?:[\.,%]|st|nd|rd|th)?')
 
 def fix_text(text):
-    text = text.strip()
+    #  text = text.strip()
     for i in tokens_to_remove:
         if i != "``":
             text = text.replace(i, "")
         else:
             text = text.replace(i, " ")
+
     for k, v in token_fix_set:
         text = text.replace(k, v)
-    text = re.sub(r"(?<=[,])(?=[^\s])", r" ", text)
+
+    # Remove space before decimal and exclude all other cases
+    text = re.sub(r'(\d)\s*([.])\s*(\d)', '\\1\\2\\3', text)
+    #  text = re.sub(r'(\d)\s+([.]\d)', '\\1\\2', text)
+
+    # Add space after comma, but exclude digits
+    #  text = re.sub(r"(?<=[0-9])(?=[.^[a-z])", r" ", text)
+    text = ' '.join(re.findall(pattern=fix_re, string=text))
+
+
+    temp = text.split()
+
+    # Remove instance like 2,
+    #  if temp[0].isdigit() and text[1] == ',':
+        #  text = ' '.join(temp[1:])
+    # Remove examples like 6 d, ....
+    #  if temp[0].isdigit() and len(temp[1]) == 1:
+        #  text = ' '.join(temp[1:])
+
     text = text.capitalize()
+    text = text.strip()
+    #  if text:
+        #  if text[-2] == ' ' and text[-1] == '.':
+            #  text = text.replace(' .', '.')
     return text
 
 

@@ -28,7 +28,8 @@ class DataTrainingArguments:
     to_predict_col: str
     marker_col: str
     option_id: int
-    resume_gen: Optional[str] = field(default=None)
+    generate_new: Optional[bool] = field(default=False)
+    resume_gen_file: Optional[str] = field(default=None)
     train_pct_range: Optional[str] = field(default=None)
     valid_pct_range: Optional[str] = field(default=None)
 
@@ -88,10 +89,11 @@ dataset_gen_func = DatasetGenerate(
     replace_one=None,
 )
 
-if not data_args.resume_gen:
+if not data_args.resume_gen_file:
     synthetic_dataset = []
 else:
-    with open(resume_gen, "w") as f:
+    print("Loading existing data from ", data_args.resume_gen_file)
+    with open(data_args.resume_gen_file, "r") as f:
         synthetic_dataset = json.load(f)
 
 print("Generation in progress")
@@ -103,11 +105,19 @@ for idx in tqdm(range(len(dataset))):
     example["marker"] = values[data_args.marker_col]
     example["idx"] = idx
     generated_options = dataset_gen_func.generate_synthetic_options(idx, option_id=data_args.option_id)
-    example.update(generated_options)
-    for k, v in example.items():
-        print(v)
+    generated_options["ground_truth"] = values[data_args.to_predict_col]
+    if data_args.option_id is not None and not data_args.generate_new:
+        #  example[data_args.option_id] = generated_options
+        synthetic_dataset[idx].update(generated_options)
+        for k, v in synthetic_dataset[idx].items():
+            print(k, v)
+    else:
+        example.update(generated_options)
+        synthetic_dataset.append(example)
+        for k, v in example.items():
+            print(k, v)
     print()
-    synthetic_dataset.append(example)
+
 
 with open(data_args.output_file_path, "w") as fout:
     json.dump(synthetic_dataset, fout, indent=4)

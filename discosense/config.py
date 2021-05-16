@@ -21,9 +21,9 @@ decoding_options = {
     "do_sample": True,
     "top_p": 0.95,
     "temperature": 0.4,
-    "repetition_penalty": 1.1,
+    #  "repetition_penalty": 1.1,
     "no_repeat_ngram_size": 2,
-    "length_penalty": 0.7,
+    #  "length_penalty": 0.5,
 }
 
 #  decoding_af = {

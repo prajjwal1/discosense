@@ -96,6 +96,7 @@ class DatasetGenerate:
                 example = {}
                 if text and  text[-1] == ".":
                     text = text[:-1]
+                text += '.'
                 example["option_" + str(option_id)] = text.strip()
                 return example
 

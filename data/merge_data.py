@@ -11,12 +11,17 @@ def merge_files(*args, fname):
             data.extend(json.load(f))
     print("File merged")
 
-    #  for d in tqdm(data, desc='Fixing inputs'):
-        #  for k, v in d.items():
-            #  d[k] = v.capitalize()
-            #  if v[0] == '.':
-             #     d[k] = v.replace('.', '')
+    for idx, d in enumerate(data):
+        for k, v in d.items():
+            if k not in ['idx', 'marker', 'context']:
+                data[idx][k] = v.capitalize()
+                if v[-1] != '.':
+                    if v[-1] != '?':
+                        if v[-1] != '!':
+                            v += '.'
+                            data[idx][k] = v
 
+    print('Length of Dataset: ', len(data))
     if not os.path.isfile(fname):
         with open(fname, 'w') as f:
             json.dump(data, f, indent=4)

@@ -20,6 +20,7 @@ from tqdm import tqdm
 from generate import DatasetGenerate, AdversarialFiltering
 from utils import compute_metrics, convert_dataset_to_json
 from config import decoding_options
+
 #  from data.discovery_con import LABELS
 
 
@@ -45,7 +46,6 @@ class ModelArguments:
             )
         }
     )
-    freeze_encoder: bool = field(default=False)
     classification_config_name: Optional[str] = field(
         default=None,
         metadata={
@@ -81,22 +81,24 @@ class DataTrainingArguments:
     context_col: Optional[str]
     to_predict_col: Optional[str]
     marker_col: Optional[str]
+    overwrite_cache: bool = field(default=False)
     replace_one: Optional[bool] = field(default=False)
-    #  replace_dataset: Optional[str] = field(default="validation")
+
 
 @dataclass
 class CustomTrainingArguments(TrainingArguments):
     run_inference_only: Optional[bool] = field(default=False)
     no_af: Optional[bool] = field(default=False)
 
+
 def preprocess_function(examples, tokenizer, shuffle_labels):
-    prompt = examples["context"] + "</s>" + examples["marker"]
+    prompt = examples["context"] + " " + examples["marker"]
 
     choice_0, choice_1, choice_2, choice_3 = (
-        str(examples["ground_truth"]),
-        str(examples["option_0"]),
-        str(examples["option_1"]),
-        str(examples["option_2"])
+        examples["ground_truth"],
+        examples["option_0"],
+        examples["option_1"],
+        examples["option_2"],
     )
 
     choices = [choice_0, choice_1, choice_2, choice_3]
@@ -141,20 +143,26 @@ def train_classification(
 
     if not run_inference_only:
         generated_train_dataset = generated_train_dataset.map(
-            preprocess_function, fn_kwargs = {'tokenizer': classification_tokenizer, 'shuffle_labels': True}, remove_columns=generated_train_dataset.column_names
+            preprocess_function,
+            fn_kwargs={"tokenizer": classification_tokenizer, "shuffle_labels": True},
+            remove_columns=generated_train_dataset.column_names,
+            load_from_cache_file=not data_args.overwrite_cache,
         )
 
     # Different preprocess_function for valid because ground truth should not be removed during AF
     # By default, we will take argmin over preds[1:], this ensures that GT is preserved
     generated_validation_dataset = generated_validation_dataset.map(
-        preprocess_function, fn_kwargs = {'tokenizer': classification_tokenizer, 'shuffle_labels': False}, remove_columns=generated_validation_dataset.column_names
+        preprocess_function,
+        fn_kwargs={"tokenizer": classification_tokenizer, "shuffle_labels": False},
+        remove_columns=generated_validation_dataset.column_names,
+        load_from_cache_file=not data_args.overwrite_cache,
     )
 
     trainer = Trainer(
         model=classification_model,
         args=training_args,
         train_dataset=generated_train_dataset,
-        eval_dataset = generated_validation_dataset,
+        eval_dataset=generated_validation_dataset,
         compute_metrics=compute_metrics,
         tokenizer=classification_tokenizer,
         data_collator=default_data_collator,
@@ -167,21 +175,40 @@ def train_classification(
         trainer.log_metrics("train", metrics)
         trainer.save_metrics("train", metrics)
 
-        if not os.path.isdir(training_args.output_dir) :
+        if not os.path.isdir(training_args.output_dir):
             os.mkdir(training_args.output_dir)
         trainer.save_model(training_args.output_dir)
 
-    #  print("Running Inference")
     preds = trainer.predict(generated_validation_dataset)
-
-    #  trainer.log_metrics("eval", metrics)
-    #  trainer.save_metrics("eval", metrics)
     print(preds.metrics)
 
     return preds
 
 
+def tests_check(original_dataset, generated_dataset):
+    assert len(original_dataset) == len(generated_dataset)
+
+    random_nums = []
+    for i in range(5):
+        random_nums.append(random.randint(0, len(original_dataset)))
+    for i in random_nums:
+        assert (
+            original_dataset[i]['sentence1']
+            == generated_dataset[i]['context']
+        )
+        assert (
+            original_dataset[i]['sentence2']
+            == generated_dataset[i]['ground_truth']
+        )
+        assert (
+            original_dataset[i][data_args.marker_col]
+            == original_dataset[i][data_args.marker_col]
+        )
+
+
 def run_adversarial_filtering(original_dataset, generated_dataset, preds, actions_col):
+    tests_check(original_dataset, generated_dataset)
+
     autoregressive_model = AutoModelForCausalLM.from_pretrained(
         model_args.autoregressive_model_name_or_path
     )
@@ -194,7 +221,7 @@ def run_adversarial_filtering(original_dataset, generated_dataset, preds, action
         autoregressive_tokenizer,
         decoding_options,
         actions_col,
-        replace_one=data_args.replace_one
+        replace_one=data_args.replace_one,
     )
     af = AdversarialFiltering(
         generate_dataset_func, autoregressive_model, generated_dataset, preds
@@ -208,7 +235,13 @@ parser = HfArgumentParser(
 )
 model_args, data_args, training_args = parser.parse_args_into_dataclasses()
 
-generated_train_dataset = Dataset.from_pandas(pd.read_json(data_args.train_data_path))
+if not training_args.run_inference_only:
+    generated_train_dataset = Dataset.from_pandas(
+        pd.read_json(data_args.train_data_path)
+    )
+else:
+    generated_train_dataset = None
+
 generated_validation_dataset = Dataset.from_pandas(
     pd.read_json(data_args.validation_data_path)
 )
@@ -227,13 +260,17 @@ preds = train_classification(
 #  if data_args.replace_dataset == "validation":
 original_dataset = Dataset.from_pandas(pd.read_json(data_args.raw_data_path))
 #  else:
-    #  original_dataset = load_dataset("discovery", "discovery", split="train[:7%]")
+#  original_dataset = load_dataset("discovery", "discovery", split="train[:7%]")
 
 
 if not training_args.no_af:
     print("Adversarial Filtering In Progress")
 
-    actions_col = [data_args.context_col, data_args.to_predict_col, data_args.marker_col]
+    actions_col = [
+        data_args.context_col,
+        data_args.to_predict_col,
+        data_args.marker_col,
+    ]
     generated_samples = run_adversarial_filtering(
         original_dataset, generated_validation_dataset, preds, actions_col
     )

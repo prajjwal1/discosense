@@ -20,10 +20,10 @@ token_max_length = 75
 decoding_options = {
     "do_sample": True,
     "top_p": 0.95,
-    "temperature": 0.4,
+    "temperature": 0.7,
     #  "repetition_penalty": 1.1,
     "no_repeat_ngram_size": 2,
-    #  "length_penalty": 0.5,
+    "length_penalty": 0.6,
 }
 
 #  decoding_af = {

@@ -199,11 +199,11 @@ class AdversarialFiltering:
 
                 for k, v in generated_output.items():
                     assert k in self.generated_dataset[idx].keys()
-                    print(idx, self.generated_dataset[idx]['context'])
-                    print(self.generated_dataset[idx][k])
-                    print(v)
+                    #  print(idx, self.generated_dataset[idx]['context'])
+                    #  print(self.generated_dataset[idx][k])
+                    #  print(v)
                     self.generated_dataset[idx][k] = v
-                    print()
+                    #  print()
             else:
                 example = {}
                 values = solved_dataset[i]

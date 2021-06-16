@@ -189,7 +189,7 @@ def tests_check(original_dataset, generated_dataset):
     assert len(original_dataset) == len(generated_dataset)
 
     random_nums = []
-    for i in range(5):
+    for i in range(100):
         random_nums.append(random.randint(0, len(original_dataset)))
     for i in random_nums:
         assert (

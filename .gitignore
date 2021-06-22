@@ -30,6 +30,7 @@ share/python-wheels/
 MANIFEST
 *.out
 *.nfs*
+# *.json
 training/*.sh
 *.sh
 ~/experiments/*

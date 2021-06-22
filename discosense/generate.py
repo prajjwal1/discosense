@@ -22,7 +22,6 @@ class DatasetGenerate:
         self.init_common_attrs()
 
     def init_common_attrs(self):
-        self.fixed_sequences = 0
         self.remove_digits = str.maketrans("", "", digits)
         self.filter_tokens_list = tokens_to_remove
 
@@ -89,12 +88,11 @@ class DatasetGenerate:
                 text = text[: text.index(".")]
 
             # Remove (), [] and text within it and then apply text
-            #  text = re.sub("[\(\[].*?[\)\]]", "", text)
             text = fix_text(text)
 
             if option_id is not None:
                 example = {}
-                if text and  text[-1] == ".":
+                if text and text[-1] == ".":
                     text = text[:-1]
                 text += '.'
                 example["option_" + str(option_id)] = text.strip()
@@ -216,9 +214,4 @@ class AdversarialFiltering:
                 example.update(generated_output)
                 self.generated_dataset[idx] = example
 
-        print(
-            "Found ",
-            self.generate_dataset_func.fixed_sequences,
-            " empty greedy output(s)",
-        )
         return self.generated_dataset

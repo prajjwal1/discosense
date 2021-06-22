@@ -1,3 +1,7 @@
+"""
+This script is to be used if some options are missing from one Json file and the other Json file has some options which the first one doesnt have
+"""
+
 import fire
 import json
 from tqdm import tqdm

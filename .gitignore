@@ -31,8 +31,6 @@ MANIFEST
 *.out
 *.nfs*
 # *.json
-training/*.sh
-*.sh
 ~/experiments/*
 # PyInstaller
 #  Usually these files are written by a python script from a template

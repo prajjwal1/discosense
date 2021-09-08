@@ -1,25 +1,22 @@
-import os
 import json
+import os
 import random
-from typing import Optional
 from dataclasses import dataclass, field
+from typing import Optional
 
 import pandas as pd
-from datasets import load_dataset, Dataset
-from transformers import AutoModelForMultipleChoice, AutoModelForCausalLM
-from transformers import (
-    AutoConfig,
-    AutoTokenizer,
-    HfArgumentParser,
-    Trainer,
-    default_data_collator,
-    TrainingArguments,
-)
+import numpy as np
+import torch
+from datasets import Dataset, load_dataset
 from tqdm import tqdm
+from transformers import (AutoConfig, AutoModelForCausalLM,
+                          AutoModelForMultipleChoice, AutoTokenizer,
+                          HfArgumentParser, Trainer, TrainingArguments,
+                          default_data_collator)
 
-from generate import DatasetGenerate, AdversarialFiltering
-from utils import compute_metrics, convert_dataset_to_json
 from config import decoding_options
+from generate import AdversarialFiltering, DatasetGenerate
+from utils import compute_metrics, convert_dataset_to_json
 
 #  from data.discovery_con import LABELS
 
@@ -89,22 +86,23 @@ class DataTrainingArguments:
 class CustomTrainingArguments(TrainingArguments):
     run_inference_only: Optional[bool] = field(default=False)
     no_af: Optional[bool] = field(default=False)
+    random_seed: Optional[bool] = field(default=False)
 
 
 def preprocess_function(examples, tokenizer, shuffle_labels):
     prompt = examples["context"] + " " + examples["marker"]
 
     choice_0, choice_1, choice_2, choice_3 = (
-        examples["ground_truth"],
         examples["option_0"],
         examples["option_1"],
         examples["option_2"],
+        examples["option_3"],
     )
 
     choices = [choice_0, choice_1, choice_2, choice_3]
 
-    if shuffle_labels:
-        random.shuffle(choices)
+    #  if shuffle_labels:
+        #  random.shuffle(choices)
 
     encoding = tokenizer(
         [prompt, prompt, prompt, prompt],
@@ -115,10 +113,11 @@ def preprocess_function(examples, tokenizer, shuffle_labels):
         truncation=True,
     )
 
-    if shuffle_labels:
-        encoding["label"] = choices.index(choice_0)
-    else:
-        encoding["label"] = 0
+#      if shuffle_labels:
+        #  encoding["label"] = choices.index(choice_0)
+    #  else:
+#          encoding["label"] = 0
+    encoding["label"] = examples["label"]
 
     return encoding
 
@@ -235,13 +234,23 @@ parser = HfArgumentParser(
 )
 model_args, data_args, training_args = parser.parse_args_into_dataclasses()
 
+if training_args.random_seed:
+    random_seed_int = random.randint(0, 1000)
+    print("Setting the seed ", random_seed_int)
+    training_args.seed = random_seed_int
+    torch.manual_seed(random_seed_int)
+    random.seed(random_seed_int)
+    np.random.seed(random_seed_int)
+
 if not training_args.run_inference_only:
+    print('Getting train data from ', data_args.train_data_path)
     generated_train_dataset = Dataset.from_pandas(
         pd.read_json(data_args.train_data_path)
     )
 else:
     generated_train_dataset = None
 
+print('Getting validation data from ', data_args.validation_data_path)
 generated_validation_dataset = Dataset.from_pandas(
     pd.read_json(data_args.validation_data_path)
 )
@@ -253,17 +262,8 @@ preds = train_classification(
     run_inference_only=training_args.run_inference_only,
 )
 
-# If you need to run AF on Training set
-# Not working since we also need to know label indices of Ground truth.
-# GTs are shuffled in training set, so np.argmin can give index of GT which AF can remove
-
-#  if data_args.replace_dataset == "validation":
-original_dataset = Dataset.from_pandas(pd.read_json(data_args.raw_data_path))
-#  else:
-#  original_dataset = load_dataset("discovery", "discovery", split="train[:7%]")
-
-
 if not training_args.no_af:
+    original_dataset = Dataset.from_pandas(pd.read_json(data_args.raw_data_path))
     print("Adversarial Filtering In Progress")
 
     actions_col = [

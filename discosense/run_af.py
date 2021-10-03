@@ -12,7 +12,7 @@ from tqdm import tqdm
 from transformers import (AutoConfig, AutoModelForCausalLM,
                           AutoModelForMultipleChoice, AutoTokenizer,
                           HfArgumentParser, Trainer, TrainingArguments,
-                          default_data_collator)
+                          default_data_collator, set_seed)
 
 from config import decoding_options
 from generate import AdversarialFiltering, DatasetGenerate
@@ -87,7 +87,6 @@ class CustomTrainingArguments(TrainingArguments):
     run_inference_only: Optional[bool] = field(default=False)
     no_af: Optional[bool] = field(default=False)
     random_seed: Optional[bool] = field(default=False)
-
 
 def preprocess_function(examples, tokenizer, shuffle_labels):
     prompt = examples["context"] + " " + examples["marker"]
@@ -237,10 +236,7 @@ model_args, data_args, training_args = parser.parse_args_into_dataclasses()
 if training_args.random_seed:
     random_seed_int = random.randint(0, 1000)
     print("Setting the seed ", random_seed_int)
-    training_args.seed = random_seed_int
-    torch.manual_seed(random_seed_int)
-    random.seed(random_seed_int)
-    np.random.seed(random_seed_int)
+    set_seed(random_seed_int)
 
 if not training_args.run_inference_only:
     print('Getting train data from ', data_args.train_data_path)

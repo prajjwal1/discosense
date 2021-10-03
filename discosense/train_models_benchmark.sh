@@ -1,4 +1,6 @@
-export CLASSIFICATION_MODEL='google/electra-large-discriminator'
+export CLASSIFICATION_MODEL='roberta-base'
+export OUTPUT_DIR='/shared/mlrdir1/disk1/pxb190028/'$CLASSIFICATION_MODEL
+
 export TRAIN_DATA='../data/discosense_train.json'
 export VALIDATION_DATA='../data/discosense_validation.json'
 #####  Only required for AF
@@ -13,7 +15,55 @@ export MARKER_COL='marker'
 export EPOCHS=8
 export WARMUP_STEPS=4000
 
+# 8, warmup: 8000 albert-xxlarge-v2
+# 16, warmup: 4000  electra-large
 
 # replace_one, run_inference_only --no_af
-export OUTPUT_DIR='/shared/mlrdir1/disk1/pxb190028/electra-large-discriminator'
-python3 run_af.py --replace_one --no_af --classification_model_name_or_path $CLASSIFICATION_MODEL --autoregressive_model_name_or_path $AUTOREGRESSIVE_MODEL --raw_data_path $RAW_DATA  --train_data_path $TRAIN_DATA --validation_data_path $VALIDATION_DATA --output_dir $OUTPUT_DIR --per_device_train_batch_size $BS  --per_device_eval_batch_size $((BS*8)) --num_train_epochs $EPOCHS --file_output_path $FILE_OUTPUT_PATH --context_col $CONTEXT_COL  --to_predict_col $TO_PREDICT_COL --marker_col $MARKER_COL --fp16 --save_total_limit 1 --save_strategy epoch --evaluation_strategy epoch --warmup_steps $WARMUP_STEPS --random_seed
+# echo "ROBERTA BASE"
+
+# for run in 1 2 3 4 5; do
+    # echo "############################### Iteration $((run))  ####################################"
+    # python3 run_af.py --replace_one --no_af --classification_model_name_or_path $CLASSIFICATION_MODEL --autoregressive_model_name_or_path $AUTOREGRESSIVE_MODEL --raw_data_path $RAW_DATA  --train_data_path $TRAIN_DATA --validation_data_path $VALIDATION_DATA --output_dir $OUTPUT_DIR --per_device_train_batch_size $BS  --per_device_eval_batch_size $((BS*8)) --num_train_epochs $EPOCHS --file_output_path $FILE_OUTPUT_PATH --context_col $CONTEXT_COL  --to_predict_col $TO_PREDICT_COL --marker_col $MARKER_COL --fp16 --save_total_limit 1 --save_strategy epoch --evaluation_strategy epoch --warmup_steps $WARMUP_STEPS --random_seed
+# done
+
+# echo "ROBERTA LARGE"
+# export CLASSIFICATION_MODEL='roberta-large'
+# export OUTPUT_DIR='/shared/mlrdir1/disk1/pxb190028/'$CLASSIFICATION_MODEL
+# for run in 1 2 3 4 5; do
+    # echo "############################### Iteration $((run))  ####################################"
+    # python3 run_af.py --replace_one --no_af --classification_model_name_or_path $CLASSIFICATION_MODEL --autoregressive_model_name_or_path $AUTOREGRESSIVE_MODEL --raw_data_path $RAW_DATA  --train_data_path $TRAIN_DATA --validation_data_path $VALIDATION_DATA --output_dir $OUTPUT_DIR --per_device_train_batch_size $BS  --per_device_eval_batch_size $((BS*8)) --num_train_epochs $EPOCHS --file_output_path $FILE_OUTPUT_PATH --context_col $CONTEXT_COL  --to_predict_col $TO_PREDICT_COL --marker_col $MARKER_COL --fp16 --save_total_limit 1 --save_strategy epoch --evaluation_strategy epoch --warmup_steps $WARMUP_STEPS --random_seed
+# done
+
+# echo "ALBERT XXLARGE"
+# export CLASSIFICATION_MODEL='albert-xxlarge-v2'
+# export OUTPUT_DIR='/shared/mlrdir1/disk1/pxb190028/'$CLASSIFICATION_MODEL
+# for run in 1 2 3 4 5; do
+    # echo "############################### Iteration $((run))  ####################################"
+    # python3 run_af.py --replace_one --no_af --classification_model_name_or_path $CLASSIFICATION_MODEL --autoregressive_model_name_or_path $AUTOREGRESSIVE_MODEL --raw_data_path $RAW_DATA  --train_data_path $TRAIN_DATA --validation_data_path $VALIDATION_DATA --output_dir $OUTPUT_DIR --per_device_train_batch_size $BS  --per_device_eval_batch_size $((BS*8)) --num_train_epochs $EPOCHS --file_output_path $FILE_OUTPUT_PATH --context_col $CONTEXT_COL  --to_predict_col $TO_PREDICT_COL --marker_col $MARKER_COL --fp16 --save_total_limit 1 --save_strategy epoch --evaluation_strategy epoch --warmup_steps $WARMUP_STEPS --random_seed
+# done
+
+echo "BERT LARGE"
+export CLASSIFICATION_MODEL='bert-large-uncased'
+export OUTPUT_DIR='/shared/mlrdir1/disk1/pxb190028/'$CLASSIFICATION_MODEL
+for run in 1 2 3 4 5; do
+    echo "############################### Iteration $((run))  ####################################"
+    python3 run_af.py --replace_one --no_af --classification_model_name_or_path $CLASSIFICATION_MODEL --autoregressive_model_name_or_path $AUTOREGRESSIVE_MODEL --raw_data_path $RAW_DATA  --train_data_path $TRAIN_DATA --validation_data_path $VALIDATION_DATA --output_dir $OUTPUT_DIR --per_device_train_batch_size $BS  --per_device_eval_batch_size $((BS*8)) --num_train_epochs $EPOCHS --file_output_path $FILE_OUTPUT_PATH --context_col $CONTEXT_COL  --to_predict_col $TO_PREDICT_COL --marker_col $MARKER_COL --fp16 --save_total_limit 1 --save_strategy epoch --evaluation_strategy epoch --warmup_steps $WARMUP_STEPS --random_seed
+done
+
+# echo "ELECTRA"
+# export CLASSIFICATION_MODEL='google/electra-large-discriminator'
+# export OUTPUT_DIR='/shared/mlrdir1/disk1/pxb190028/'$CLASSIFICATION_MODEL
+# for run in 1 2 3 4 5; do
+    # echo "############################### Iteration $((run))  ####################################"
+    # python3 run_af.py --replace_one --no_af --classification_model_name_or_path $CLASSIFICATION_MODEL --autoregressive_model_name_or_path $AUTOREGRESSIVE_MODEL --raw_data_path $RAW_DATA  --train_data_path $TRAIN_DATA --validation_data_path $VALIDATION_DATA --output_dir $OUTPUT_DIR --per_device_train_batch_size $BS  --per_device_eval_batch_size $((BS*8)) --num_train_epochs $EPOCHS --file_output_path $FILE_OUTPUT_PATH --context_col $CONTEXT_COL  --to_predict_col $TO_PREDICT_COL --marker_col $MARKER_COL --fp16 --save_total_limit 1 --save_strategy epoch --evaluation_strategy epoch --warmup_steps $WARMUP_STEPS --random_seed
+# done
+
+
+# echo "longformer"
+# export CLASSIFICATION_MODEL='allenai/longformer-large-4096'
+# export OUTPUT_DIR='/shared/mlrdir1/disk1/pxb190028/'$CLASSIFICATION_MODEL
+# for run in 1 2 3 4 5; do
+    # echo "############################### Iteration $((run))  ####################################"
+    # python3 run_af.py --replace_one --no_af --classification_model_name_or_path $CLASSIFICATION_MODEL --autoregressive_model_name_or_path $AUTOREGRESSIVE_MODEL --raw_data_path $RAW_DATA  --train_data_path $TRAIN_DATA --validation_data_path $VALIDATION_DATA --output_dir $OUTPUT_DIR --per_device_train_batch_size $BS  --per_device_eval_batch_size $((BS*8)) --num_train_epochs $EPOCHS --file_output_path $FILE_OUTPUT_PATH --context_col $CONTEXT_COL  --to_predict_col $TO_PREDICT_COL --marker_col $MARKER_COL --fp16 --save_total_limit 1 --save_strategy epoch --evaluation_strategy epoch --warmup_steps $WARMUP_STEPS --random_seed
+# done
+

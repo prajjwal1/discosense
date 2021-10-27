@@ -234,13 +234,11 @@ def main():
             use_auth_token=True if model_args.use_auth_token else None,
         )
     else:
-        logger.info("Training new model from scratch")
+        logger.info("Training a new model from scratch")
         model = AutoModelForCausalLM.from_config(config)
 
     model.resize_token_embeddings(len(tokenizer))
 
-    # Preprocessing the datasets.
-    # First we tokenize all the texts.
     column_names = train_ds.column_names
 
     def convert_labels_indices_to_labels(indices):

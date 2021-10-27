@@ -5,10 +5,7 @@ from dataclasses import dataclass, field
 from typing import Optional
 
 import pandas as pd
-import numpy as np
-import torch
-from datasets import Dataset, load_dataset
-from tqdm import tqdm
+from datasets import Dataset
 from transformers import (AutoConfig, AutoModelForCausalLM,
                           AutoModelForMultipleChoice, AutoTokenizer,
                           HfArgumentParser, Trainer, TrainingArguments,
@@ -16,9 +13,7 @@ from transformers import (AutoConfig, AutoModelForCausalLM,
 
 from config import decoding_options
 from generate import AdversarialFiltering, DatasetGenerate
-from utils import compute_metrics, convert_dataset_to_json
-
-#  from data.discovery_con import LABELS
+from utils import compute_metrics
 
 
 @dataclass
@@ -75,9 +70,10 @@ class DataTrainingArguments:
     validation_data_path: str = field(metadata={"help": "Path for validation set"})
     file_output_path: str = field(metadata={"help": "File Path of generated dataset"})
     raw_data_path: str = field(metadata={"help": "Path of raw data"})
-    context_col: Optional[str]
-    to_predict_col: Optional[str]
-    marker_col: Optional[str]
+    padding_length: int = field(metadata={"help": "Specify the padding size of input sequence"})
+    context_col: Optional[str] = field(default=None)
+    to_predict_col: Optional[str] = field(default=None)
+    marker_col: Optional[str] = field(default=None)
     overwrite_cache: bool = field(default=False)
     replace_one: Optional[bool] = field(default=False)
 
@@ -89,7 +85,7 @@ class CustomTrainingArguments(TrainingArguments):
     random_seed: Optional[bool] = field(default=False)
 
 def preprocess_function(examples, tokenizer, shuffle_labels):
-    prompt = examples["context"] + " " + examples["marker"]
+    prompt = '' # examples["context"] # + " " + examples["marker"]
 
     choice_0, choice_1, choice_2, choice_3 = (
         examples["option_0"],
@@ -107,7 +103,7 @@ def preprocess_function(examples, tokenizer, shuffle_labels):
         [prompt, prompt, prompt, prompt],
         choices,
         return_tensors="pt",
-        max_length=96,
+        max_length=data_args.padding_length,
         padding="max_length",
         truncation=True,
     )
@@ -119,7 +115,6 @@ def preprocess_function(examples, tokenizer, shuffle_labels):
     encoding["label"] = examples["label"]
 
     return encoding
-
 
 def train_classification(
     generated_train_dataset,

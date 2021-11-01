@@ -1,10 +1,11 @@
+import sys
 from dataclasses import dataclass, field
 from typing import Optional
 
 import pandas as pd
 from datasets import Dataset
+import torch
 from transformers import (
-    T5ForConditionalGeneration,
     AutoTokenizer,
     HfArgumentParser,
     Trainer,
@@ -12,6 +13,9 @@ from transformers import (
     default_data_collator,
     set_seed,
 )
+from sklearn import metrics
+from tqdm.auto import tqdm
+from modeling_t5 import T5ForConditionalGeneration
 
 
 @dataclass
@@ -51,21 +55,23 @@ class DataTrainingArguments:
     )
     overwrite_cache: bool = field(default=False)
 
+
 def preprocess_function(examples, tokenizer):
     choice_0, choice_1, choice_2, choice_3 = (
-        "0: " + examples["option_0"],
-        "1: " + examples["option_1"],
-        "2: " + examples["option_2"],
-        "3: " + examples["option_3"],
+        "1: " + examples["option_0"],
+        "2: " + examples["option_1"],
+        "3: " + examples["option_2"],
+        "4: " + examples["option_3"],
     )
 
     choices = [choice_0, choice_1, choice_2, choice_3]
     choices = " ".join(choices)
-    input_ = "context: %s options: %s </s>" % (
-        examples["context"] + " " + examples["marker"],
+    input_ = "context: %soptions: %s </s>" % (
+        #  examples["context"][:-1] + " " + examples["marker"] + ".",
+        examples["context"] + " ",
         choices,
     )
-    target = examples["label"]
+    target = "%s </s>" % str(examples["label"]+1)
 
     encoding = tokenizer(
         [input_],
@@ -74,15 +80,21 @@ def preprocess_function(examples, tokenizer):
         padding="max_length",
         truncation=True,
     )
-    encoding['input_ids'] = encoding['input_ids'].squeeze()
-    encoding['attention_mask'] = encoding['attention_mask'].squeeze()
-    encoding["label"] = target
+    tokenized_target = tokenizer(
+        [target], max_length=3, padding="max_length", return_tensors="pt", truncation=True
+    )["input_ids"].squeeze()
+
+    encoding["input_ids"] = encoding["input_ids"].squeeze()
+    encoding["attention_mask"] = encoding["attention_mask"].squeeze()
+    encoding["label"] = tokenized_target
+
     return encoding
 
 
 def get_model(model_args):
     model = T5ForConditionalGeneration.from_pretrained(model_args.model_name_or_path)
     tokenizer = AutoTokenizer.from_pretrained(model_args.model_name_or_path)
+    model.resize_token_embeddings(len(tokenizer))
     return model, tokenizer
 
 
@@ -122,3 +134,30 @@ trainer = Trainer(
     data_collator=default_data_collator,
 )
 trainer.train()
+
+model = trainer.model
+
+outputs, targets = [], []
+
+for sample in tqdm(validation_dataset):
+    input_ids = torch.Tensor(sample["input_ids"]).unsqueeze(0).cuda()
+    attention_mask = torch.Tensor(sample["attention_mask"]).unsqueeze(0).cuda()
+    outs = model.generate(
+        input_ids=input_ids, attention_mask=attention_mask, max_length=2
+    )
+
+    dec = [tokenizer.decode(ids) for ids in outs]
+    target = [tokenizer.decode(ids) for ids in sample["label"]]
+
+    outputs.extend(dec)
+    targets.append(target[0])
+
+preds = []
+for val in outputs:
+    preds.append(val.replace("<pad>", "").strip())
+
+for i, out in enumerate(preds):
+    if out not in "1234":
+        print(i, "detected invalid prediction", out)
+
+print(metrics.accuracy_score(targets, preds))

@@ -3,12 +3,12 @@ export TRAIN_DATA='../data/discosense_train.json'
 export VALIDATION_DATA='../data/discosense_validation.json'
 
 export BS=32
-export EPOCHS=3
+export EPOCHS=12
 # export WARMUP_STEPS=4000
-export PADDING_LENGTH=128
-export LR=1e-4
+export PADDING_LENGTH=196
+export LR=3e-3
 
-export MODEL_NAME_OR_PATH='google/t5-v1_1-large'
+export MODEL_NAME_OR_PATH='t5-small'
 python3 train_t5.py --model_name_or_path $MODEL_NAME_OR_PATH  \
                 --train_data_path $TRAIN_DATA --validation_data_path $VALIDATION_DATA \
                 --output_dir $OUTPUT_DIR --per_device_train_batch_size $BS \

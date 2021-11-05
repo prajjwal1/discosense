@@ -10,6 +10,7 @@ from transformers import (AutoConfig, AutoModelForCausalLM,
                           AutoModelForMultipleChoice, AutoTokenizer,
                           HfArgumentParser, Trainer, TrainingArguments,
                           default_data_collator, set_seed)
+from transformers import GPT2DoubleHeadsModel
 
 from config import decoding_options
 from generate import AdversarialFiltering, DatasetGenerate
@@ -85,7 +86,7 @@ class CustomTrainingArguments(TrainingArguments):
     random_seed: Optional[bool] = field(default=False)
 
 def preprocess_function(examples, tokenizer, shuffle_labels):
-    prompt = '' # examples["context"] # + " " + examples["marker"]
+    prompt = examples["context"]  + " " + examples["marker"]
 
     choice_0, choice_1, choice_2, choice_3 = (
         examples["option_0"],
@@ -131,6 +132,9 @@ def train_classification(
     classification_tokenizer = AutoTokenizer.from_pretrained(
         model_args.classification_model_name_or_path
     )
+
+#      if classification_tokenizer.pad_token is None:
+#          classification_tokenizer.pad_token = classification_tokenizer.eos_token
 
     print("Performing tokenization of dataset")
 

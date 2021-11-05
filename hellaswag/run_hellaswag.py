@@ -20,6 +20,7 @@ Fine-tuning the library models for multiple choice.
 
 import logging
 import os
+import pickle
 import sys
 from dataclasses import dataclass, field
 from typing import Optional, Union
@@ -141,6 +142,11 @@ class DataTrainingArguments:
         if self.validation_file is not None:
             extension = self.validation_file.split(".")[-1]
             assert extension in ["csv", "json"], "`validation_file` should be a csv or a json file."
+
+
+@dataclass
+class TrainingArguments(TrainingArguments):
+    do_predict: Optional[bool] = field(default=False)
 
 def main():
     # See all possible arguments in src/transformers/training_args.py
@@ -312,6 +318,19 @@ def main():
             load_from_cache_file=not data_args.overwrite_cache,
         )
 
+    if training_args.do_predict:
+        if "test" not in datasets:
+            raise ValueError("--do_eval requires a validation dataset")
+        test_dataset = datasets["test"]
+        if data_args.max_eval_samples is not None:
+            test_dataset = eval_dataset.select(range(data_args.max_eval_samples))
+        test_dataset = eval_dataset.map(
+            preprocess_function,
+            load_from_cache_file=not data_args.overwrite_cache,
+        )
+
+
+
 
     # Metric
     def compute_metrics(eval_predictions):
@@ -360,6 +379,15 @@ def main():
 
         trainer.log_metrics("eval", metrics)
         trainer.save_metrics("eval", metrics)
+
+    if training_args.do_predict:
+        values = trainer.predict(test_dataset)
+        preds = []
+        for vals in values.predictions:
+            preds.append(np.argmax(vals))
+        print(preds)
+        with open('predictions.txt', 'wb') as f:
+            pickle.dump(preds, f)
 
     if training_args.push_to_hub:
         trainer.push_to_hub(

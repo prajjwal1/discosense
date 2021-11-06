@@ -22,12 +22,14 @@ import logging
 import os
 import pickle
 import sys
+import pandas as pd
+import json
 from dataclasses import dataclass, field
 from typing import Optional, Union
 
 import numpy as np
 import torch
-from datasets import load_dataset
+from datasets import load_dataset, Dataset
 
 import transformers
 from transformers import (
@@ -49,6 +51,7 @@ from transformers.trainer_utils import get_last_checkpoint
 #  check_min_version("4.7.0.dev0")
 
 logger = logging.getLogger(__name__)
+TEST_DATA_PATH = 'hellaswag-test/hellaswag.jsonl'
 
 
 @dataclass
@@ -146,6 +149,7 @@ class DataTrainingArguments:
 
 @dataclass
 class TrainingArguments(TrainingArguments):
+    do_eval: Optional[bool] = field(default=False)
     do_predict: Optional[bool] = field(default=False)
 
 def main():
@@ -292,7 +296,8 @@ def main():
             return_tensors="pt"
         )
 
-        tokenized_examples["label"] = int(examples["label"])
+        if "label" in examples:
+            tokenized_examples["label"] = int(examples["label"])
 
         return tokenized_examples
 
@@ -319,17 +324,23 @@ def main():
         )
 
     if training_args.do_predict:
-        if "test" not in datasets:
-            raise ValueError("--do_eval requires a validation dataset")
-        test_dataset = datasets["test"]
+        with open(TEST_DATA_PATH) as f:
+            data_pd = [json.loads(line) for line in f]
+        for val in data_pd:
+            val['endings'] = val['ending_options']
+            del val['ending_options']
+
+        data_pd = pd.DataFrame(data_pd)
+        data_pd = data_pd.drop('id', 1)
+        test_dataset = Dataset.from_pandas(data_pd)
+
+        #  test_dataset = datasets["test"]
         if data_args.max_eval_samples is not None:
-            test_dataset = eval_dataset.select(range(data_args.max_eval_samples))
-        test_dataset = eval_dataset.map(
+            test_dataset = test_dataset.select(range(data_args.max_eval_samples))
+        test_dataset = test_dataset.map(
             preprocess_function,
             load_from_cache_file=not data_args.overwrite_cache,
         )
-
-
 
 
     # Metric
@@ -385,7 +396,6 @@ def main():
         preds = []
         for vals in values.predictions:
             preds.append(np.argmax(vals))
-        print(preds)
         with open('predictions.txt', 'wb') as f:
             pickle.dump(preds, f)
 

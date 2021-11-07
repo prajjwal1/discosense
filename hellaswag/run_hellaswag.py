@@ -396,8 +396,10 @@ def main():
         preds = []
         for vals in values.predictions:
             preds.append(np.argmax(vals))
-        with open('predictions.txt', 'wb') as f:
-            pickle.dump(preds, f)
+
+        with open('predictions.txt', 'w') as f:
+            for item in preds:
+                f.write("%s\n" % item)
 
     if training_args.push_to_hub:
         trainer.push_to_hub(

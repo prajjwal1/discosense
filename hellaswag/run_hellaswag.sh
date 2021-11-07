@@ -1,5 +1,5 @@
-export MODEL_PATH='/shared/mlrdir3/disk1/pxb190028/models/seq_ft/electra-large-discriminator'
-export OUTPUT_PATH='/shared/mlrdir3/disk1/pxb190028/models/seq_ft/electra-large-discriminator'
+export MODEL_PATH='/shared/mlrdir3/disk1/pxb190028/models/hellaswag/electra-large-discriminator'
+export OUTPUT_PATH='/shared/mlrdir3/disk1/pxb190028/models/hellaswag/electra-large-discriminator'
 export BS=64
 export EPOCH=6
 export MAX_SEQ_LENGTH=96

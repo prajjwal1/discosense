@@ -150,7 +150,7 @@ correct_ids, correct_predicted_label, incorrect_ids, incorrect_predicted_label =
 
 non_vector_sent = []
 for label in incorrect_ids:
-    non_vector_sent.append(dataset[label])
+    non_vector_sent.append(non_vector_dataset[label])
 
 with open("mis_preds.pkl", "wb") as f:
     pickle.dump(non_vector_sent, f)

@@ -87,7 +87,7 @@ class CustomTrainingArguments(TrainingArguments):
 
 
 def preprocess_function(examples, tokenizer, shuffle_labels):
-    prompt = examples["context"]  # + " " + examples["marker"]
+    prompt = '' # examples["context"]  # + " " + examples["marker"]
 
     choice_0, choice_1, choice_2, choice_3 = (
         examples["option_0"],

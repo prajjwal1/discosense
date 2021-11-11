@@ -1,4 +1,5 @@
 import sys
+import pickle
 from dataclasses import dataclass, field
 from typing import Optional
 
@@ -147,18 +148,21 @@ trainer = Trainer(
 
 correct_ids, correct_predicted_label, incorrect_ids, incorrect_predicted_label = perform_inference(trainer)
 
+with open("mis_preds.pkl", "wb") as f:
+    pickle.dump(incorrect_predicted_label, f)
+
 count = 0
 
-print('#### Correctly classified examples ####')
+#  print('#### Correctly classified examples ####')
 
-for idx, correct_id in enumerate(correct_ids):
-    print(non_vector_dataset[correct_id])
-    print('Predicted Label: ', correct_predicted_label[idx])
-    print()
-    count += 1
-    if count == 50:
-        count = 0
-        break
+#  for idx, correct_id in enumerate(correct_ids):
+    #  print(non_vector_dataset[correct_id])
+    #  print('Predicted Label: ', correct_predicted_label[idx])
+    #  print()
+    #  count += 1
+    #  if count == 500:
+        #  count = 0
+        #  break
 
 print('#### Incorrectly classified examples ####')
 
@@ -167,5 +171,8 @@ for idx, incorrect_id in enumerate(incorrect_ids):
     print('Predicted Label: ', incorrect_predicted_label[idx])
     print()
     count += 1
-    if count == 150:
+    if count == 500:
         break
+
+
+

@@ -2,6 +2,7 @@ import sys
 import pickle
 from dataclasses import dataclass, field
 from typing import Optional
+from collections import defaultdict
 
 import pandas as pd
 import numpy as np
@@ -137,6 +138,11 @@ model_args, data_args, training_args = parser.parse_args_into_dataclasses()
 model, tokenizer = get_model(model_args)
 dataset, non_vector_dataset = get_dataset(data_args.data_path, preprocess_function, tokenizer)
 
+#  hashmap = defaultdict(int)
+#  for data in non_vector_dataset:
+    #  hashmap[data['marker']] += 1
+#  print(hashmap)
+
 trainer = Trainer(
         model=model,
         args=training_args,
@@ -149,6 +155,7 @@ trainer = Trainer(
 correct_ids, correct_predicted_label, incorrect_ids, incorrect_predicted_label = perform_inference(trainer)
 
 non_vector_sent = []
+
 for label in incorrect_ids:
     non_vector_sent.append(non_vector_dataset[label])
 

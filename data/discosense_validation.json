@@ -10196,7 +10196,7 @@
         "option_0": "It is desirable to use an aluminum layer that is light in weight and high in its function of shielding water.",
         "option_1": "Aluminum is used as the metal layer because it is inexpensive and is easy to fabricate.",
         "option_2": "Where the temperature is higher than that of the solder forming a first electrode on the substrate, the second electrode and thus the substrate are exposed to water, which can leak out of them.",
-        "option_3": "The aluminum layer, as shown in figs.",
+        "option_3": "The aluminum layer is not effective.",
         "label": 0
     },
     {
@@ -11176,7 +11176,7 @@
         "option_0": "The number of required edge points at least in the edge of respective regions can be reduced.",
         "option_1": "Since edge angle information is held even after reduction of the image, it is possible to speed up a search with a data amount reduced while holding search accuracy.",
         "option_2": "Encapsulation efficiency and performance can be enhanced.",
-        "option_3": "According to an alternative configuration, the searched points are preferably grouped such as shown in the sectional plan.",
+        "option_3": "According to an alternative configuration, the searched points are preferably grouped.",
         "label": 1
     },
     {
@@ -25555,7 +25555,7 @@
         "marker": "thereafter",
         "option_0": "An impervious layer of grits occurs at lower spatial gradients from which clay is eroded.",
         "option_1": "Carbon dioxide, or carbon dioxide mixed with other gases, is injected and fingers its way spontaneously into the high permeability zones to contact the previously injected thickened aqueous slug.",
-        "option_2": "The slug forms a network as shown in figure 2 2.",
+        "option_2": "The slug forms a network.",
         "option_3": "Spore and larvae growth proceed in the zone of lower permeability, where more porosity is present, so that the mass flux continues to increase as the pore size increases.",
         "label": 1
     },
@@ -26055,7 +26055,7 @@
         "marker": "consequently",
         "option_0": "There occurs an accumulation of scattering gas within the region of an optical system.",
         "option_1": "The radiation cross section is restricted.",
-        "option_2": "The flow of a flow containing substantially no particles is possible in the particle screening apparatus provided in this a as shown in.",
+        "option_2": "The flow of a flow containing substantially no particles is possible in the particle screening apparatus.",
         "option_3": "The effective usage of a sample fluid becomes so low that the fully effective use cannot be made of the sample fluid.",
         "label": 3
     },

@@ -1,3 +1,0 @@
-conn:and conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_and with_prev1_POS_full:,_CC prev2:occur prev2_POS:VBP with_prev2_full:occur_and with_prev2_POS_full:VBP_CC NA
-conn:as conn_POS:IN prev1:, prev1_POS:, with_prev1_full:,_as with_prev1_POS_full:,_IN prev2:promotions prev2_POS:NNS with_prev2_full:promotions_as with_prev2_POS_full:NNS_IN NA
-conn:in_sum conn_POS:IN_NN sent_pos:0 NA

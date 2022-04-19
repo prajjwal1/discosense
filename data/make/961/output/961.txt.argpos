@@ -1,3 +1,0 @@
-conn:and conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_and with_prev1_POS_full:,_CC prev2:science prev2_POS:NN with_prev2_full:science_and with_prev2_POS_full:NN_CC NA
-conn:and conn_POS:CC prev1:it prev1_POS:PRP with_prev1_full:it_and with_prev1_POS_full:PRP_CC prev2:understand prev2_POS:VB with_prev2_full:understand_and with_prev2_POS_full:VB_CC NA
-conn:in_fact conn_POS:IN_NN prev1:and prev1_POS:CC with_prev1_full:and_in_fact with_prev1_POS_full:CC_IN_NN prev2:it prev2_POS:PRP with_prev2_full:it_in_fact with_prev2_POS_full:PRP_IN_NN NA

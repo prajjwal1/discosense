@@ -1,3 +1,0 @@
-conn:however conn_POS:RB prev1:, prev1_POS:, with_prev1_full:,_however with_prev1_POS_full:,_RB prev2:here prev2_POS:RB with_prev2_full:here_however with_prev2_POS_full:RB_RB NA
-conn:because conn_POS:IN prev1:different prev1_POS:JJ with_prev1_full:different_because with_prev1_POS_full:JJ_IN prev2:quite prev2_POS:RB with_prev2_full:quite_because with_prev2_POS_full:RB_IN NA
-conn:but conn_POS:CC prev1:ingredient prev1_POS:NN with_prev1_full:ingredient_but with_prev1_POS_full:NN_CC prev2:main prev2_POS:JJ with_prev2_full:main_but with_prev2_POS_full:JJ_CC NA

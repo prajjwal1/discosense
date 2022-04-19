@@ -1,1 +1,0 @@
-conn:if conn_POS:IN prev1:ask prev1_POS:VB with_prev1_full:ask_if with_prev1_POS_full:VB_IN prev2:not prev2_POS:RB with_prev2_full:not_if with_prev2_POS_full:RB_IN NA

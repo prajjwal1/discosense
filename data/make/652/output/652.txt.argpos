@@ -1,2 +1,0 @@
-conn:if conn_POS:IN prev1:determining prev1_POS:VBG with_prev1_full:determining_if with_prev1_POS_full:VBG_IN prev2:of prev2_POS:IN with_prev2_full:of_if with_prev2_POS_full:IN_IN NA
-conn:therefore conn_POS:RB sent_pos:0 NA

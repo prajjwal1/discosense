@@ -1,2 +1,0 @@
-conn:then conn_POS:RB sent_pos:2 prev1:will prev1_POS:MD with_prev1_full:will_then with_prev1_POS_full:MD_RB prev2:he prev2_POS:PRP with_prev2_full:he_then with_prev2_POS_full:PRP_RB NA
-conn:as conn_POS:IN prev1:residence prev1_POS:NN with_prev1_full:residence_as with_prev1_POS_full:NN_IN prev2:governors prev2_POS:NNS with_prev2_full:governors_as with_prev2_POS_full:NNS_IN NA

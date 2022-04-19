@@ -1,2 +1,0 @@
-conn:therefore conn_POS:RB prev1:is prev1_POS:VBZ with_prev1_full:is_therefore with_prev1_POS_full:VBZ_RB prev2:and prev2_POS:CC with_prev2_full:and_therefore with_prev2_POS_full:CC_RB NA
-conn:however conn_POS:RB sent_pos:0 NA

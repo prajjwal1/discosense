@@ -1,3 +1,0 @@
-conn:before conn_POS:IN prev1:comment prev1_POS:VB with_prev1_full:comment_before with_prev1_POS_full:VB_IN prev2:to prev2_POS:TO with_prev2_full:to_before with_prev2_POS_full:TO_IN NA
-conn:in_sum conn_POS:IN_NN sent_pos:0 NA
-conn:and conn_POS:CC prev1:fws prev1_POS:VB with_prev1_full:fws_and with_prev1_POS_full:VB_CC prev2:to prev2_POS:TO with_prev2_full:to_and with_prev2_POS_full:TO_CC NA

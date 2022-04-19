@@ -1,2 +1,0 @@
-conn:in_other_words conn_POS:IN_JJ_NNS sent_pos:0 NA
-conn:if conn_POS:IN prev1:, prev1_POS:, with_prev1_full:,_if with_prev1_POS_full:,_IN prev2:least prev2_POS:JJS with_prev2_full:least_if with_prev2_POS_full:JJS_IN NA

@@ -1,2 +1,0 @@
-conn:also conn_POS:RB sent_pos:2 prev1:was prev1_POS:VBD with_prev1_full:was_also with_prev1_POS_full:VBD_RB prev2:this prev2_POS:DT with_prev2_full:this_also with_prev2_POS_full:DT_RB NA
-conn:when conn_POS:WRB prev1:observed prev1_POS:VBN with_prev1_full:observed_when with_prev1_POS_full:VBN_WRB prev2:also prev2_POS:RB with_prev2_full:also_when with_prev2_POS_full:RB_WRB NA

@@ -1,2 +1,0 @@
-conn:for_example conn_POS:IN_NN sent_pos:0 NA
-conn:and conn_POS:CC prev1:biotin prev1_POS:NN with_prev1_full:biotin_and with_prev1_POS_full:NN_CC prev2:with prev2_POS:IN with_prev2_full:with_and with_prev2_POS_full:IN_CC NA

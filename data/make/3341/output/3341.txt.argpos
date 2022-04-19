@@ -1,2 +1,0 @@
-conn:on_the_other_hand conn_POS:IN_DT_JJ_NN prev1:, prev1_POS:, with_prev1_full:,_on_the_other_hand with_prev1_POS_full:,_IN_DT_JJ_NN prev2:participants prev2_POS:NNS with_prev2_full:participants_on_the_other_hand with_prev2_POS_full:NNS_IN_DT_JJ_NN NA
-conn:because conn_POS:IN prev1:higher prev1_POS:JJR with_prev1_full:higher_because with_prev1_POS_full:JJR_IN prev2:much prev2_POS:RB with_prev2_full:much_because with_prev2_POS_full:RB_IN NA

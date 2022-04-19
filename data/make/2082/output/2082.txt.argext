@@ -1,7 +1,0 @@
-conn:before conn_lc:before conn_cat:Subordinator conn_to_node:IN->SBAR->S conn_node_lsib_size=0 conn_node_rsib_size=1 conn_to_node_relpos:0 1:2
-conn:before conn_lc:before conn_cat:Subordinator conn_to_node:IN->SBAR conn_node_lsib_size=0 conn_node_rsib_size=1 conn_to_node_relpos:0 1:5
-conn:before conn_lc:before conn_cat:Subordinator conn_to_node:IN->SBAR<-S conn_node_lsib_size=0 conn_node_rsib_size=1 conn_to_node_relpos:1 1:8
-conn:before conn_lc:before conn_cat:Subordinator conn_to_node:IN->SBAR<-S<-NP conn_node_lsib_size=0 conn_node_rsib_size=1 conn_to_node_relpos:1 1:9
-conn:before conn_lc:before conn_cat:Subordinator conn_to_node:IN->SBAR<-S<-VP conn_node_lsib_size=0 conn_node_rsib_size=1 conn_to_node_relpos:1 1:12
-conn:before conn_lc:before conn_cat:Subordinator conn_to_node:IN->SBAR->S<-VP conn_node_lsib_size=0 conn_node_rsib_size=1 conn_to_node_relpos:1 1:17
-conn:before conn_lc:before conn_cat:Subordinator conn_to_node:IN->SBAR->S<-VP<-NP conn_node_lsib_size=0 conn_node_rsib_size=1 conn_to_node_relpos:1 1:20

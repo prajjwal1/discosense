@@ -1,4 +1,0 @@
-conn:also conn_POS:RB prev1:can prev1_POS:MD with_prev1_full:can_also with_prev1_POS_full:MD_RB prev2:blazer prev2_POS:NN with_prev2_full:blazer_also with_prev2_POS_full:NN_RB NA
-conn:also conn_POS:RB prev1:can prev1_POS:MD with_prev1_full:can_also with_prev1_POS_full:MD_RB prev2:jacket prev2_POS:NN with_prev2_full:jacket_also with_prev2_POS_full:NN_RB NA
-conn:however conn_POS:RB sent_pos:0 NA
-conn:before conn_POS:IN sent_pos:1 prev1:however prev1_POS:RB with_prev1_full:however_before with_prev1_POS_full:RB_IN NA

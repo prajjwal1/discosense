@@ -1,2 +1,0 @@
-conn:because conn_POS:IN prev1:dangerous prev1_POS:JJ with_prev1_full:dangerous_because with_prev1_POS_full:JJ_IN prev2:it prev2_POS:PRP with_prev2_full:it_because with_prev2_POS_full:PRP_IN NA
-conn:if..then conn_POS:IN_RB NA

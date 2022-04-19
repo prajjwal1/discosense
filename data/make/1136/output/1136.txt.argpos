@@ -1,2 +1,0 @@
-conn:then conn_POS:RB prev1:are prev1_POS:VBP with_prev1_full:are_then with_prev1_POS_full:VBP_RB prev2:savings prev2_POS:NNS with_prev2_full:savings_then with_prev2_POS_full:NNS_RB NA
-conn:also conn_POS:RB prev1:are prev1_POS:VBP with_prev1_full:are_also with_prev1_POS_full:VBP_RB prev2:representatives prev2_POS:NNS with_prev2_full:representatives_also with_prev2_POS_full:NNS_RB NA

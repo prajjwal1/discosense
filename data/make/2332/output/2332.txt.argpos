@@ -1,5 +1,0 @@
-conn:next conn_POS:RB sent_pos:0 NA
-conn:and conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_and with_prev1_POS_full:,_CC prev2:m prev2_POS:NN with_prev2_full:m_and with_prev2_POS_full:NN_CC NA
-conn:thereafter conn_POS:RB sent_pos:0 NA
-conn:and conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_and with_prev1_POS_full:,_CC prev2:2 prev2_POS:CD with_prev2_full:2_and with_prev2_POS_full:CD_CC NA
-conn:then conn_POS:RB prev1:and prev1_POS:CC with_prev1_full:and_then with_prev1_POS_full:CC_RB prev2:, prev2_POS:, with_prev2_full:,_then with_prev2_POS_full:,_RB NA

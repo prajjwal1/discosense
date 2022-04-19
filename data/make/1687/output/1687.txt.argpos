@@ -1,2 +1,0 @@
-conn:also conn_POS:RB prev1:can prev1_POS:MD with_prev1_full:can_also with_prev1_POS_full:MD_RB prev2:cluster prev2_POS:NN with_prev2_full:cluster_also with_prev2_POS_full:NN_RB NA
-conn:on_the_other_hand conn_POS:IN_DT_JJ_NN sent_pos:0 NA

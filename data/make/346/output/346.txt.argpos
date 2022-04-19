@@ -1,2 +1,0 @@
-conn:and conn_POS:CC prev1:contest prev1_POS:NN with_prev1_full:contest_and with_prev1_POS_full:NN_CC prev2:castle prev2_POS:NN with_prev2_full:castle_and with_prev2_POS_full:NN_CC NA
-conn:and conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_and with_prev1_POS_full:,_CC prev2:category prev2_POS:NN with_prev2_full:category_and with_prev2_POS_full:NN_CC NA

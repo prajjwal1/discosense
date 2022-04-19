@@ -1,2 +1,0 @@
-conn:and conn_POS:CC prev1:service prev1_POS:NN with_prev1_full:service_and with_prev1_POS_full:NN_CC prev2:stop prev2_POS:NN with_prev2_full:stop_and with_prev2_POS_full:NN_CC NA
-conn:because conn_POS:IN sent_pos:0 NA

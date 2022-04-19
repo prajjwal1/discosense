@@ -1,4 +1,0 @@
-conn:when conn_POS:WRB prev1:especially prev1_POS:RB with_prev1_full:especially_when with_prev1_POS_full:RB_WRB prev2:, prev2_POS:, with_prev2_full:,_when with_prev2_POS_full:,_WRB NA
-conn:as_a_result conn_POS:IN_DT_NN sent_pos:0 NA
-conn:and conn_POS:CC prev1:collectors prev1_POS:NNS with_prev1_full:collectors_and with_prev1_POS_full:NNS_CC prev2:american prev2_POS:NN with_prev2_full:american_and with_prev2_POS_full:NN_CC NA
-conn:consequently conn_POS:RB prev1:, prev1_POS:, with_prev1_full:,_consequently with_prev1_POS_full:,_RB prev2:and prev2_POS:CC with_prev2_full:and_consequently with_prev2_POS_full:CC_RB NA

@@ -1,3 +1,0 @@
-conn_lc:but conn:but conn_POS:CC xxx£
-conn_lc:when conn:when conn_POS:WRB with_prev_full:but_when xxx£
-conn_lc:by_contrast conn:by_contrast conn_POS:IN_NN xxx£

@@ -1,5 +1,0 @@
-conn_lc:if conn:if conn_POS:IN with_prev_full:dataset_if xxx£
-conn_lc:after conn:after conn_POS:IN with_prev_full:data_after xxx£
-conn_lc:or conn:or conn_POS:CC with_prev_full:it_or xxx£
-conn_lc:if conn:if conn_POS:IN with_prev_full:or_if xxx£
-conn_lc:in_contrast conn:in_contrast conn_POS:IN_NN xxx£

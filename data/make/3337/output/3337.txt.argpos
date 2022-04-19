@@ -1,3 +1,0 @@
-conn:as conn_POS:IN sent_pos:0 NA
-conn:consequently conn_POS:RB sent_pos:0 NA
-conn:as conn_POS:IN sent_pos:1 prev1:consequently prev1_POS:RB with_prev1_full:consequently_as with_prev1_POS_full:RB_IN NA

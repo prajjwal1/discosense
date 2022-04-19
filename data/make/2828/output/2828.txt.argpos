@@ -1,2 +1,0 @@
-conn:when conn_POS:WRB prev1:socialize prev1_POS:VB with_prev1_full:socialize_when with_prev1_POS_full:VB_WRB prev2:and prev2_POS:CC with_prev2_full:and_when with_prev2_POS_full:CC_WRB NA
-conn:otherwise conn_POS:RB sent_pos:0 NA

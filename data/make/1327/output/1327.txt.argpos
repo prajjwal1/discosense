@@ -1,2 +1,0 @@
-conn:and conn_POS:CC prev1:guaranteed prev1_POS:VBN with_prev1_full:guaranteed_and with_prev1_POS_full:VBN_CC prev2:not prev2_POS:RB with_prev2_full:not_and with_prev2_POS_full:RB_CC NA
-conn:if conn_POS:IN prev1:and prev1_POS:CC with_prev1_full:and_if with_prev1_POS_full:CC_IN prev2:guaranteed prev2_POS:VBN with_prev2_full:guaranteed_if with_prev2_POS_full:VBN_IN NA

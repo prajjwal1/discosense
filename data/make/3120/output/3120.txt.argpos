@@ -1,2 +1,0 @@
-conn:as conn_POS:IN prev1:just prev1_POS:RB with_prev1_full:just_as with_prev1_POS_full:RB_IN prev2:treated prev2_POS:VBN with_prev2_full:treated_as with_prev2_POS_full:VBN_IN NA
-conn:in_sum conn_POS:IN_NN sent_pos:0 NA

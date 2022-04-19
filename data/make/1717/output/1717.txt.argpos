@@ -1,2 +1,0 @@
-conn:and conn_POS:CC prev1:shortened prev1_POS:VBN with_prev1_full:shortened_and with_prev1_POS_full:VBN_CC prev2:is prev2_POS:VBZ with_prev2_full:is_and with_prev2_POS_full:VBZ_CC NA
-conn:but conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_but with_prev1_POS_full:,_CC prev2:muted prev2_POS:VBN with_prev2_full:muted_but with_prev2_POS_full:VBN_CC NA

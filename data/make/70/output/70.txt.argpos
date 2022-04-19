@@ -1,2 +1,0 @@
-conn:and conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_and with_prev1_POS_full:,_CC prev2:codebase prev2_POS:NN with_prev2_full:codebase_and with_prev2_POS_full:NN_CC NA
-conn:as_a_result conn_POS:IN_DT_NN sent_pos:0 NA

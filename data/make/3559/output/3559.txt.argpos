@@ -1,6 +1,0 @@
-conn:and conn_POS:CC prev1:first prev1_POS:RB with_prev1_full:first_and with_prev1_POS_full:RB_CC prev2:at prev2_POS:IN with_prev2_full:at_and with_prev2_POS_full:IN_CC NA
-conn:and conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_and with_prev1_POS_full:,_CC prev2:station prev2_POS:NN with_prev2_full:station_and with_prev2_POS_full:NN_CC NA
-conn:later conn_POS:RB prev1:was prev1_POS:VBD with_prev1_full:was_later with_prev1_POS_full:VBD_RB prev2:it prev2_POS:PRP with_prev2_full:it_later with_prev2_POS_full:PRP_RB NA
-conn:nonetheless conn_POS:RB sent_pos:0 NA
-conn:nonetheless conn_POS:RB sent_pos:1 prev1:nonetheless prev1_POS:RB with_prev1_full:nonetheless_nonetheless with_prev1_POS_full:RB_RB NA
-conn:and conn_POS:CC prev1:cramped prev1_POS:JJ with_prev1_full:cramped_and with_prev1_POS_full:JJ_CC prev2:extremely prev2_POS:RB with_prev2_full:extremely_and with_prev2_POS_full:RB_CC NA

@@ -1,2 +1,0 @@
-conn:when conn_POS:WRB prev1:export prev1_POS:VB with_prev1_full:export_when with_prev1_POS_full:VB_WRB prev2:to prev2_POS:TO with_prev2_full:to_when with_prev2_POS_full:TO_WRB NA
-conn:because conn_POS:IN sent_pos:0 NA

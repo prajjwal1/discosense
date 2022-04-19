@@ -1,2 +1,0 @@
-conn:also conn_POS:RB sent_pos:2 prev1:was prev1_POS:VBD with_prev1_full:was_also with_prev1_POS_full:VBD_RB prev2:i prev2_POS:FW with_prev2_full:i_also with_prev2_POS_full:FW_RB NA
-conn:on_the_other_hand conn_POS:IN_DT_JJ_NN sent_pos:0 NA

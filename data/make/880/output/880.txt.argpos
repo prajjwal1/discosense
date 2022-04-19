@@ -1,2 +1,0 @@
-conn:by_contrast conn_POS:IN_NN sent_pos:0 NA
-conn:and conn_POS:CC prev1:adas prev1_POS:NNS with_prev1_full:adas_and with_prev1_POS_full:NNS_CC prev2:the prev2_POS:DT with_prev2_full:the_and with_prev2_POS_full:DT_CC NA

@@ -1,2 +1,0 @@
-conn:also conn_POS:RB prev1:may prev1_POS:MD with_prev1_full:may_also with_prev1_POS_full:MD_RB prev2:176 prev2_POS:CD with_prev2_full:176_also with_prev2_POS_full:CD_RB NA
-conn:thus conn_POS:RB sent_pos:0 NA

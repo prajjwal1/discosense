@@ -1,2 +1,0 @@
-conn:so_that conn_POS:RB_IN prev1:allies prev1_POS:NNS with_prev1_full:allies_so_that with_prev1_POS_full:NNS_RB_IN prev2:needs prev2_POS:VBZ with_prev2_full:needs_so_that with_prev2_POS_full:VBZ_RB_IN NA
-conn:for_instance conn_POS:IN_NN sent_pos:0 NA

@@ -1,3 +1,0 @@
-conn:but conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_but with_prev1_POS_full:,_CC prev2:inversions prev2_POS:NNS with_prev2_full:inversions_but with_prev2_POS_full:NNS_CC NA
-conn:also conn_POS:RB prev1:it prev1_POS:PRP with_prev1_full:it_also with_prev1_POS_full:PRP_RB prev2:but prev2_POS:CC with_prev2_full:but_also with_prev2_POS_full:CC_RB NA
-conn:so conn_POS:IN prev1:, prev1_POS:, with_prev1_full:,_so with_prev1_POS_full:,_IN prev2:terrain prev2_POS:NN with_prev2_full:terrain_so with_prev2_POS_full:NN_IN NA

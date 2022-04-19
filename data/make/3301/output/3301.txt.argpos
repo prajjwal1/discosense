@@ -1,2 +1,0 @@
-conn:once conn_POS:IN sent_pos:0 NA
-conn:because conn_POS:IN prev1:premium prev1_POS:NN with_prev1_full:premium_because with_prev1_POS_full:NN_IN prev2:lower prev2_POS:JJR with_prev2_full:lower_because with_prev2_POS_full:JJR_IN NA

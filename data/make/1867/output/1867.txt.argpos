@@ -1,2 +1,0 @@
-conn:as_a_result conn_POS:IN_DT_NN sent_pos:0 NA
-conn:and conn_POS:CC prev1:issue prev1_POS:NN with_prev1_full:issue_and with_prev1_POS_full:NN_CC prev2:workload prev2_POS:NN with_prev2_full:workload_and with_prev2_POS_full:NN_CC NA

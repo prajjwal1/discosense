@@ -1,3 +1,0 @@
-conn:but conn_POS:CC sent_pos:0 NA
-conn:when conn_POS:WRB prev1:, prev1_POS:, with_prev1_full:,_when with_prev1_POS_full:,_WRB prev2:term prev2_POS:NN with_prev2_full:term_when with_prev2_POS_full:NN_WRB NA
-conn:and conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_and with_prev1_POS_full:,_CC prev2:things prev2_POS:NNS with_prev2_full:things_and with_prev2_POS_full:NNS_CC NA

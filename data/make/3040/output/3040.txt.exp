@@ -1,4 +1,0 @@
-conn_lc:if conn:if conn_POS:IN xxx£
-conn_lc:and conn:and conn_POS:CC with_prev_full:installed_and xxx£
-conn_lc:if conn:if conn_POS:IN with_prev_full:conversely_if xxx£
-conn_lc:and conn:and conn_POS:CC with_prev_full:uninstalled_and xxx£

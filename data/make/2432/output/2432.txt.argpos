@@ -1,4 +1,0 @@
-conn:and conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_and with_prev1_POS_full:,_CC prev2:learned prev2_POS:VBN with_prev2_full:learned_and with_prev2_POS_full:VBN_CC NA
-conn:when conn_POS:WRB prev1:and prev1_POS:CC with_prev1_full:and_when with_prev1_POS_full:CC_WRB prev2:, prev2_POS:, with_prev2_full:,_when with_prev2_POS_full:,_WRB NA
-conn:in_particular conn_POS:IN_JJ sent_pos:0 NA
-conn:so_that conn_POS:RB_IN prev1:models prev1_POS:NNS with_prev1_full:models_so_that with_prev1_POS_full:NNS_RB_IN prev2:early prev2_POS:JJ with_prev2_full:early_so_that with_prev2_POS_full:JJ_RB_IN NA

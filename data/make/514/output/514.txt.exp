@@ -1,2 +1,0 @@
-conn_lc:if conn:if conn_POS:IN with_prev_full:see_if xxx£
-conn_lc:indeed conn:indeed conn_POS:RB with_prev_full:is_indeed xxx£

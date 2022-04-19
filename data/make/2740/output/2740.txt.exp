@@ -1,3 +1,0 @@
-conn_lc:and conn:and conn_POS:CC with_prev_full:,_and xxx£
-conn_lc:nevertheless conn:nevertheless conn_POS:RB xxx£
-conn_lc:still conn:still conn_POS:RB with_prev_full:and_still xxx£

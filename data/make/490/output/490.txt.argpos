@@ -1,4 +1,0 @@
-conn:and conn_POS:CC sent_pos:0 NA
-conn:and conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_and with_prev1_POS_full:,_CC prev2:beatles prev2_POS:NNS with_prev2_full:beatles_and with_prev2_POS_full:NNS_CC NA
-conn:in_the_end conn_POS:IN_DT_NN prev1:and prev1_POS:CC with_prev1_full:and_in_the_end with_prev1_POS_full:CC_IN_DT_NN prev2:, prev2_POS:, with_prev2_full:,_in_the_end with_prev2_POS_full:,_IN_DT_NN NA
-conn:also conn_POS:RB prev1:songs prev1_POS:NNS with_prev1_full:songs_also with_prev1_POS_full:NNS_RB prev2:of prev2_POS:IN with_prev2_full:of_also with_prev2_POS_full:IN_RB NA

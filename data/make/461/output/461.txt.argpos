@@ -1,2 +1,0 @@
-conn:overall conn_POS:RB sent_pos:0 NA
-conn:as conn_POS:IN prev1:emerge prev1_POS:VBP with_prev1_full:emerge_as with_prev1_POS_full:VBP_IN prev2:learning prev2_POS:NN with_prev2_full:learning_as with_prev2_POS_full:NN_IN NA

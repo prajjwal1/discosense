@@ -1,3 +1,0 @@
-conn:but conn_POS:CC sent_pos:0 NA
-conn:conversely conn_POS:RB sent_pos:0 NA
-conn:because conn_POS:IN prev1:cautiously prev1_POS:RB with_prev1_full:cautiously_because with_prev1_POS_full:RB_IN prev2:very prev2_POS:RB with_prev2_full:very_because with_prev2_POS_full:RB_IN NA

@@ -1,2 +1,0 @@
-conn:and conn_POS:CC prev1:removed prev1_POS:VBN with_prev1_full:removed_and with_prev1_POS_full:VBN_CC prev2:were prev2_POS:VBD with_prev2_full:were_and with_prev2_POS_full:VBD_CC NA
-conn:although conn_POS:IN sent_pos:0 NA

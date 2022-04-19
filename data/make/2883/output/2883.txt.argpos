@@ -1,2 +1,0 @@
-conn:and conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_and with_prev1_POS_full:,_CC prev2:attacks prev2_POS:NNS with_prev2_full:attacks_and with_prev2_POS_full:NNS_CC NA
-conn:until conn_POS:IN prev1:trolling prev1_POS:VBG with_prev1_full:trolling_until with_prev1_POS_full:VBG_IN prev2:and prev2_POS:CC with_prev2_full:and_until with_prev2_POS_full:CC_IN NA

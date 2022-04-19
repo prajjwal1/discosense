@@ -1,2 +1,0 @@
-conn_lc:if conn:if conn_POS:IN with_prev_full:few_if xxx£
-conn_lc:rather conn:rather conn_POS:RB xxx£

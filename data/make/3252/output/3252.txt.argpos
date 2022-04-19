@@ -1,2 +1,0 @@
-conn:and conn_POS:CC prev1:region prev1_POS:NN with_prev1_full:region_and with_prev1_POS_full:NN_CC prev2:miramichi prev2_POS:JJ with_prev2_full:miramichi_and with_prev2_POS_full:JJ_CC NA
-conn:consequently conn_POS:RB sent_pos:0 NA

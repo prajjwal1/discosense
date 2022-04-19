@@ -1,2 +1,0 @@
-conn:thereafter conn_POS:RB prev1:plc. prev1_POS:VBN with_prev1_full:plc._thereafter with_prev1_POS_full:VBN_RB prev2:bank prev2_POS:NN with_prev2_full:bank_thereafter with_prev2_POS_full:NN_RB NA
-conn:before conn_POS:IN prev1:years prev1_POS:NNS with_prev1_full:years_before with_prev1_POS_full:NNS_IN prev2:two prev2_POS:CD with_prev2_full:two_before with_prev2_POS_full:CD_IN NA

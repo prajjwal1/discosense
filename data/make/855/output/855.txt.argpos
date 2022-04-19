@@ -1,4 +1,0 @@
-conn:and conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_and with_prev1_POS_full:,_CC prev2:uneven prev2_POS:JJ with_prev2_full:uneven_and with_prev2_POS_full:JJ_CC NA
-conn:but conn_POS:CC prev1:reflected prev1_POS:VBN with_prev1_full:reflected_but with_prev1_POS_full:VBN_CC prev2:been prev2_POS:VBN with_prev2_full:been_but with_prev2_POS_full:VBN_CC NA
-conn:in_the_end conn_POS:IN_DT_NN prev1:, prev1_POS:, with_prev1_full:,_in_the_end with_prev1_POS_full:,_IN_DT_NN prev2:where prev2_POS:WRB with_prev2_full:where_in_the_end with_prev2_POS_full:WRB_IN_DT_NN NA
-conn:nevertheless conn_POS:RB sent_pos:0 NA

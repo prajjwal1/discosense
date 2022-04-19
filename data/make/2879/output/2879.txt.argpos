@@ -1,3 +1,0 @@
-conn:also conn_POS:RB prev1:method prev1_POS:NN with_prev1_full:method_also with_prev1_POS_full:NN_RB prev2:writing prev2_POS:NN with_prev2_full:writing_also with_prev2_POS_full:NN_RB NA
-conn:thereby conn_POS:RB sent_pos:0 NA
-conn:when conn_POS:WRB sent_pos:1 prev1:thereby prev1_POS:RB with_prev1_full:thereby_when with_prev1_POS_full:RB_WRB NA

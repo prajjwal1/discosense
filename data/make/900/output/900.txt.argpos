@@ -1,2 +1,0 @@
-conn:instead conn_POS:RB sent_pos:0 NA
-conn:as_if conn_POS:RB_IN prev1:hoax prev1_POS:NN with_prev1_full:hoax_as_if with_prev1_POS_full:NN_RB_IN prev2:the prev2_POS:DT with_prev2_full:the_as_if with_prev2_POS_full:DT_RB_IN NA

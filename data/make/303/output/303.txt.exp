@@ -1,2 +1,0 @@
-conn_lc:when conn:when conn_POS:WRB with_prev_full:occurs_when xxx£
-conn_lc:and conn:and conn_POS:CC with_prev_full:,_and xxx£

@@ -1,3 +1,0 @@
-conn:and conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_and with_prev1_POS_full:,_CC prev2:awe prev2_POS:NN with_prev2_full:awe_and with_prev2_POS_full:NN_CC NA
-conn:or conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_or with_prev1_POS_full:,_CC prev2:us prev2_POS:PRP with_prev2_full:us_or with_prev2_POS_full:PRP_CC NA
-conn:while conn_POS:IN sent_pos:1 prev1:yet prev1_POS:RB with_prev1_full:yet_while with_prev1_POS_full:RB_IN NA

@@ -1,2 +1,0 @@
-conn:for_example conn_POS:IN_NN prev1:, prev1_POS:, with_prev1_full:,_for_example with_prev1_POS_full:,_IN_NN prev2:indicating prev2_POS:VBG with_prev2_full:indicating_for_example with_prev2_POS_full:VBG_IN_NN NA
-conn:for_example conn_POS:IN_NN sent_pos:0 NA

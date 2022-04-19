@@ -1,4 +1,0 @@
-conn:though conn_POS:RB prev1:, prev1_POS:, with_prev1_full:,_though with_prev1_POS_full:,_RB prev2:intention prev2_POS:NN with_prev2_full:intention_though with_prev2_POS_full:NN_RB NA
-conn:so conn_POS:RB prev1:, prev1_POS:, with_prev1_full:,_so with_prev1_POS_full:,_RB prev2:though prev2_POS:RB with_prev2_full:though_so with_prev2_POS_full:RB_RB NA
-conn:on_the_contrary conn_POS:IN_DT_NN sent_pos:0 NA
-conn:rather conn_POS:RB prev1:is prev1_POS:VBZ with_prev1_full:is_rather with_prev1_POS_full:VBZ_RB prev2:scheme prev2_POS:NN with_prev2_full:scheme_rather with_prev2_POS_full:NN_RB NA

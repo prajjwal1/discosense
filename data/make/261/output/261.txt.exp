@@ -1,4 +1,0 @@
-conn_lc:and conn:and conn_POS:CC with_prev_full:,_and xxx£
-conn_lc:when conn:when conn_POS:WRB with_prev_full:force_when xxx£
-conn_lc:when conn:when conn_POS:WRB with_prev_full:that_when xxx£
-conn_lc:if conn:if conn_POS:IN with_prev_full:similarly_if xxx£

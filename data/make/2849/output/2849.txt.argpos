@@ -1,2 +1,0 @@
-conn:while conn_POS:IN prev1:wait prev1_POS:VBP with_prev1_full:wait_while with_prev1_POS_full:VBP_IN prev2:nicolai prev2_POS:NNS with_prev2_full:nicolai_while with_prev2_POS_full:NNS_IN NA
-conn:and conn_POS:CC prev1:there prev1_POS:RB with_prev1_full:there_and with_prev1_POS_full:RB_CC prev2:was prev2_POS:VBD with_prev2_full:was_and with_prev2_POS_full:VBD_CC NA

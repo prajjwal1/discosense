@@ -1,2 +1,0 @@
-conn:as conn_POS:IN prev1:around prev1_POS:RP with_prev1_full:around_as with_prev1_POS_full:RP_IN prev2:wasnt prev2_POS:VBP with_prev2_full:wasnt_as with_prev2_POS_full:VBP_IN NA
-conn:likewise conn_POS:RB sent_pos:0 NA

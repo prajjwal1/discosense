@@ -1,3 +1,0 @@
-conn:for_example conn_POS:IN_NN sent_pos:0 NA
-conn:while conn_POS:IN prev1:transactions prev1_POS:NNS with_prev1_full:transactions_while with_prev1_POS_full:NNS_IN prev2:of prev2_POS:IN with_prev2_full:of_while with_prev2_POS_full:IN_IN NA
-conn:thus conn_POS:RB sent_pos:0 NA

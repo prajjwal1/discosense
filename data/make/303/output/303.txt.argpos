@@ -1,2 +1,0 @@
-conn:when conn_POS:WRB prev1:occurs prev1_POS:VBZ with_prev1_full:occurs_when with_prev1_POS_full:VBZ_WRB prev2:that prev2_POS:WDT with_prev2_full:that_when with_prev2_POS_full:WDT_WRB NA
-conn:and conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_and with_prev1_POS_full:,_CC prev2:suppressed prev2_POS:VBN with_prev2_full:suppressed_and with_prev2_POS_full:VBN_CC NA

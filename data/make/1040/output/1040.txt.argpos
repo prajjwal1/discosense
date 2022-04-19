@@ -1,2 +1,0 @@
-conn:when conn_POS:WRB prev1:happen prev1_POS:VB with_prev1_full:happen_when with_prev1_POS_full:VB_WRB prev2:this prev2_POS:DT with_prev2_full:this_when with_prev2_POS_full:DT_WRB NA
-conn:in_other_words conn_POS:IN_JJ_NNS sent_pos:0 NA

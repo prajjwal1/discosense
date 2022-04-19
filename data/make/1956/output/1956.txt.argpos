@@ -1,2 +1,0 @@
-conn:consequently conn_POS:RB sent_pos:0 NA
-conn:and conn_POS:CC prev1:angola prev1_POS:NN with_prev1_full:angola_and with_prev1_POS_full:NN_CC prev2:in prev2_POS:IN with_prev2_full:in_and with_prev2_POS_full:IN_CC NA

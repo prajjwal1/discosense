@@ -1,2 +1,0 @@
-conn:and conn_POS:CC prev1:scarce prev1_POS:JJ with_prev1_full:scarce_and with_prev1_POS_full:JJ_CC prev2:is prev2_POS:VBZ with_prev2_full:is_and with_prev2_POS_full:VBZ_CC NA
-conn:on_the_other_hand conn_POS:IN_DT_JJ_NN sent_pos:0 NA

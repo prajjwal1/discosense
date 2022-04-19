@@ -1,2 +1,0 @@
-conn:in_other_words conn_POS:IN_JJ_NNS sent_pos:0 NA
-conn:and conn_POS:CC prev1:depression prev1_POS:NN with_prev1_full:depression_and with_prev1_POS_full:NN_CC prev2:postpartum prev2_POS:NN with_prev2_full:postpartum_and with_prev2_POS_full:NN_CC NA

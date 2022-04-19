@@ -1,3 +1,0 @@
-conn:if conn_POS:IN prev1:even prev1_POS:RB with_prev1_full:even_if with_prev1_POS_full:RB_IN prev2:const prev2_POS:JJ with_prev2_full:const_if with_prev2_POS_full:JJ_IN NA
-conn:conversely conn_POS:RB sent_pos:0 NA
-conn:if conn_POS:IN prev1:even prev1_POS:RB with_prev1_full:even_if with_prev1_POS_full:RB_IN prev2:changed prev2_POS:VBN with_prev2_full:changed_if with_prev2_POS_full:VBN_IN NA

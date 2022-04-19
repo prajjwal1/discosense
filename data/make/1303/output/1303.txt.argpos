@@ -1,2 +1,0 @@
-conn:when conn_POS:WRB prev1:ended prev1_POS:VBN with_prev1_full:ended_when with_prev1_POS_full:VBN_WRB prev2:had prev2_POS:VBD with_prev2_full:had_when with_prev2_POS_full:VBD_WRB NA
-conn:on_the_contrary conn_POS:IN_DT_NN sent_pos:0 NA

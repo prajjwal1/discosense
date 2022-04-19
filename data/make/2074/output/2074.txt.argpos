@@ -1,2 +1,0 @@
-conn:also conn_POS:RB sent_pos:2 prev1:are prev1_POS:VBP with_prev1_full:are_also with_prev1_POS_full:VBP_RB prev2:there prev2_POS:EX with_prev2_full:there_also with_prev2_POS_full:EX_RB NA
-conn:consequently conn_POS:RB sent_pos:0 NA

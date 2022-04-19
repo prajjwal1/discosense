@@ -1,2 +1,0 @@
-conn:when conn_POS:WRB prev1:induced prev1_POS:VBN with_prev1_full:induced_when with_prev1_POS_full:VBN_WRB prev2:state prev2_POS:NN with_prev2_full:state_when with_prev2_POS_full:NN_WRB NA
-conn:thus conn_POS:RB sent_pos:0 NA

@@ -1,2 +1,0 @@
-conn:so conn_POS:IN prev1:firefox prev1_POS:NN with_prev1_full:firefox_so with_prev1_POS_full:NN_IN prev2:set prev2_POS:VB with_prev2_full:set_so with_prev2_POS_full:VB_IN NA
-conn:for_instance conn_POS:IN_NN sent_pos:0 NA

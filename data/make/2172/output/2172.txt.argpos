@@ -1,2 +1,0 @@
-conn:when conn_POS:WRB sent_pos:0 NA
-conn:when conn_POS:WRB sent_pos:1 prev1:likewise prev1_POS:RB with_prev1_full:likewise_when with_prev1_POS_full:RB_WRB NA

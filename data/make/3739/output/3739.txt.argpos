@@ -1,2 +1,0 @@
-conn:and conn_POS:CC prev1:bombardment prev1_POS:NN with_prev1_full:bombardment_and with_prev1_POS_full:NN_CC prev2:1945 prev2_POS:CD with_prev2_full:1945_and with_prev2_POS_full:CD_CC NA
-conn:thereafter conn_POS:RB sent_pos:0 NA

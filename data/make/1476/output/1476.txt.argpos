@@ -1,2 +1,0 @@
-conn:but conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_but with_prev1_POS_full:,_CC prev2:burden prev2_POS:NN with_prev2_full:burden_but with_prev2_POS_full:NN_CC NA
-conn:on_the_other_hand conn_POS:IN_DT_JJ_NN sent_pos:0 NA

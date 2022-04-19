@@ -1,2 +1,0 @@
-conn:before conn_POS:IN prev1:conclusion prev1_POS:NN with_prev1_full:conclusion_before with_prev1_POS_full:NN_IN prev2:same prev2_POS:JJ with_prev2_full:same_before with_prev2_POS_full:JJ_IN NA
-conn:however conn_POS:RB sent_pos:0 NA

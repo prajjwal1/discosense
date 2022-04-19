@@ -1,2 +1,0 @@
-conn:in_particular conn_POS:IN_JJ sent_pos:0 NA
-conn:and conn_POS:CC prev1:biotinylated prev1_POS:VBN with_prev1_full:biotinylated_and with_prev1_POS_full:VBN_CC prev2:is prev2_POS:VBZ with_prev2_full:is_and with_prev2_POS_full:VBZ_CC NA

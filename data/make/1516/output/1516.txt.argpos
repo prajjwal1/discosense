@@ -1,3 +1,0 @@
-conn:also conn_POS:RB sent_pos:2 prev1:was prev1_POS:VBD with_prev1_full:was_also with_prev1_POS_full:VBD_RB prev2:it prev2_POS:PRP with_prev2_full:it_also with_prev2_POS_full:PRP_RB NA
-conn:and conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_and with_prev1_POS_full:,_CC prev2:relationships prev2_POS:NNS with_prev2_full:relationships_and with_prev2_POS_full:NNS_CC NA
-conn:thus conn_POS:RB sent_pos:0 NA

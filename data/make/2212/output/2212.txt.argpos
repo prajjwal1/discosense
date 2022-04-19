@@ -1,3 +1,0 @@
-conn:and conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_and with_prev1_POS_full:,_CC prev2:desertification prev2_POS:NN with_prev2_full:desertification_and with_prev2_POS_full:NN_CC NA
-conn:conversely conn_POS:RB sent_pos:0 NA
-conn:when conn_POS:WRB sent_pos:1 prev1:conversely prev1_POS:RB with_prev1_full:conversely_when with_prev1_POS_full:RB_WRB NA

@@ -1,2 +1,0 @@
-conn:when conn_POS:WRB prev1:mice prev1_POS:NNS with_prev1_full:mice_when with_prev1_POS_full:NNS_WRB prev2:hppar prev2_POS:NN with_prev2_full:hppar_when with_prev2_POS_full:NN_WRB NA
-conn:also conn_POS:RB prev1:plasticizers prev1_POS:NNS with_prev1_full:plasticizers_also with_prev1_POS_full:NNS_RB prev2:all prev2_POS:DT with_prev2_full:all_also with_prev2_POS_full:DT_RB NA

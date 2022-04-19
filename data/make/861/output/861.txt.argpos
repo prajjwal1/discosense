@@ -1,4 +1,0 @@
-conn:if conn_POS:IN prev1:, prev1_POS:, with_prev1_full:,_if with_prev1_POS_full:,_IN prev2:said prev2_POS:VBD with_prev2_full:said_if with_prev2_POS_full:VBD_IN NA
-conn:but conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_but with_prev1_POS_full:,_CC prev2:architect prev2_POS:NN with_prev2_full:architect_but with_prev2_POS_full:NN_CC NA
-conn:in_other_words conn_POS:IN_JJ_NNS sent_pos:0 NA
-conn:but conn_POS:CC prev1:like prev1_POS:VBP with_prev1_full:like_but with_prev1_POS_full:VBP_CC prev2:you prev2_POS:PRP with_prev2_full:you_but with_prev2_POS_full:PRP_CC NA

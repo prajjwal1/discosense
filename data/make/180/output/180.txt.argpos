@@ -1,3 +1,0 @@
-conn:on_the_contrary conn_POS:IN_DT_NN sent_pos:0 NA
-conn:and conn_POS:CC prev1:there prev1_POS:RB with_prev1_full:there_and with_prev1_POS_full:RB_CC prev2:not prev2_POS:RB with_prev2_full:not_and with_prev2_POS_full:RB_CC NA
-conn:when conn_POS:WRB prev1:, prev1_POS:, with_prev1_full:,_when with_prev1_POS_full:,_WRB prev2:and prev2_POS:CC with_prev2_full:and_when with_prev2_POS_full:CC_WRB NA

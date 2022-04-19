@@ -1,2 +1,0 @@
-conn:nevertheless conn_POS:RB sent_pos:0 NA
-conn:as conn_POS:IN prev1:day prev1_POS:NN with_prev1_full:day_as with_prev1_POS_full:NN_IN prev2:championship prev2_POS:NN with_prev2_full:championship_as with_prev2_POS_full:NN_IN NA

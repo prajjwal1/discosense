@@ -1,5 +1,0 @@
-conn:but conn_POS:CC sent_pos:0 NA
-conn:because conn_POS:IN prev1:is prev1_POS:VBZ with_prev1_full:is_because with_prev1_POS_full:VBZ_IN prev2:that prev2_POS:DT with_prev2_full:that_because with_prev2_POS_full:DT_IN NA
-conn:however conn_POS:RB sent_pos:0 NA
-conn:and conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_and with_prev1_POS_full:,_CC prev2:offense prev2_POS:NN with_prev2_full:offense_and with_prev2_POS_full:NN_CC NA
-conn:because conn_POS:IN prev1:, prev1_POS:, with_prev1_full:,_because with_prev1_POS_full:,_IN prev2:aside prev2_POS:RB with_prev2_full:aside_because with_prev2_POS_full:RB_IN NA

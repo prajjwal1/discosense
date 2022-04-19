@@ -1,2 +1,0 @@
-conn:but conn_POS:CC sent_pos:0 NA
-conn:and conn_POS:CC prev1:happens prev1_POS:VBZ with_prev1_full:happens_and with_prev1_POS_full:VBZ_CC prev2:this prev2_POS:DT with_prev2_full:this_and with_prev2_POS_full:DT_CC NA

@@ -1,2 +1,0 @@
-conn:as conn_POS:IN prev1:species prev1_POS:NNS with_prev1_full:species_as with_prev1_POS_full:NNS_IN prev2:coral prev2_POS:NN with_prev2_full:coral_as with_prev2_POS_full:NN_IN NA
-conn:in_contrast conn_POS:IN_NN sent_pos:0 NA

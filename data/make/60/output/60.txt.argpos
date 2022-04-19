@@ -1,2 +1,0 @@
-conn:thus conn_POS:RB sent_pos:0 NA
-conn:because conn_POS:IN prev1:, prev1_POS:, with_prev1_full:,_because with_prev1_POS_full:,_IN prev2:unintelligent prev2_POS:JJ with_prev2_full:unintelligent_because with_prev2_POS_full:JJ_IN NA

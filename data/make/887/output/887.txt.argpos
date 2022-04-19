@@ -1,2 +1,0 @@
-conn:although conn_POS:IN sent_pos:0 NA
-conn:if conn_POS:IN sent_pos:1 prev1:although prev1_POS:IN with_prev1_full:although_if with_prev1_POS_full:IN_IN NA

@@ -1,2 +1,0 @@
-conn:before conn_POS:IN prev1:determined prev1_POS:VBN with_prev1_full:determined_before with_prev1_POS_full:VBN_IN prev2:end prev2_POS:NN with_prev2_full:end_before with_prev2_POS_full:NN_IN NA
-conn:though conn_POS:IN prev1:, prev1_POS:, with_prev1_full:,_though with_prev1_POS_full:,_IN prev2:ground prev2_POS:NN with_prev2_full:ground_though with_prev2_POS_full:NN_IN NA

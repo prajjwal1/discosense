@@ -1,1 +1,0 @@
-conn:and conn_POS:CC prev1:car prev1_POS:NN with_prev1_full:car_and with_prev1_POS_full:NN_CC prev2:his prev2_POS:PRP$ with_prev2_full:his_and with_prev2_POS_full:PRP$_CC NA

@@ -1,3 +1,0 @@
-conn:in_addition conn_POS:IN_NN sent_pos:0 NA
-conn:thereby conn_POS:RB prev1:, prev1_POS:, with_prev1_full:,_thereby with_prev1_POS_full:,_RB prev2:conductor prev2_POS:NN with_prev2_full:conductor_thereby with_prev2_POS_full:NN_RB NA
-conn:thereby conn_POS:RB prev1:, prev1_POS:, with_prev1_full:,_thereby with_prev1_POS_full:,_RB prev2:tissues prev2_POS:NNS with_prev2_full:tissues_thereby with_prev2_POS_full:NNS_RB NA

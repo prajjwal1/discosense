@@ -1,2 +1,0 @@
-conn:unless conn_POS:IN prev1:time prev1_POS:NN with_prev1_full:time_unless with_prev1_POS_full:NN_IN prev2:jail prev2_POS:NN with_prev2_full:jail_unless with_prev2_POS_full:NN_IN NA
-conn:as conn_POS:IN prev1:to prev1_POS:TO with_prev1_full:to_as with_prev1_POS_full:TO_IN prev2:referred prev2_POS:VBN with_prev2_full:referred_as with_prev2_POS_full:VBN_IN NA

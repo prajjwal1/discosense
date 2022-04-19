@@ -1,3 +1,0 @@
-conn:so conn_POS:IN prev1:, prev1_POS:, with_prev1_full:,_so with_prev1_POS_full:,_IN prev2:throughout prev2_POS:IN with_prev2_full:throughout_so with_prev2_POS_full:IN_IN NA
-conn:if conn_POS:IN prev1:so prev1_POS:IN with_prev1_full:so_if with_prev1_POS_full:IN_IN prev2:, prev2_POS:, with_prev2_full:,_if with_prev2_POS_full:,_IN NA
-conn:although conn_POS:IN sent_pos:0 NA

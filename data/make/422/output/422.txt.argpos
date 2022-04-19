@@ -1,3 +1,0 @@
-conn:though conn_POS:IN prev1:even prev1_POS:RB with_prev1_full:even_though with_prev1_POS_full:RB_IN prev2:, prev2_POS:, with_prev2_full:,_though with_prev2_POS_full:,_IN NA
-conn:thus conn_POS:RB sent_pos:0 NA
-conn:then conn_POS:RB prev1:back prev1_POS:RB with_prev1_full:back_then with_prev1_POS_full:RB_RB prev2:experience prev2_POS:NN with_prev2_full:experience_then with_prev2_POS_full:NN_RB NA

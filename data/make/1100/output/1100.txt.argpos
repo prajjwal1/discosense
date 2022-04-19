@@ -1,2 +1,0 @@
-conn:and conn_POS:CC prev1:cryptography prev1_POS:NN with_prev1_full:cryptography_and with_prev1_POS_full:NN_CC prev2:or prev2_POS:CC with_prev2_full:or_and with_prev2_POS_full:CC_CC NA
-conn:as_a_result conn_POS:IN_DT_NN prev1:, prev1_POS:, with_prev1_full:,_as_a_result with_prev1_POS_full:,_IN_DT_NN prev2:and prev2_POS:CC with_prev2_full:and_as_a_result with_prev2_POS_full:CC_IN_DT_NN NA

@@ -1,3 +1,0 @@
-conn:when conn_POS:WRB sent_pos:0 NA
-conn:then conn_POS:RB prev1:gunners prev1_POS:NNS with_prev1_full:gunners_then with_prev1_POS_full:NNS_RB prev2:surviving prev2_POS:VBG with_prev2_full:surviving_then with_prev2_POS_full:VBG_RB NA
-conn:and conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_and with_prev1_POS_full:,_CC prev2:colenso prev2_POS:NN with_prev2_full:colenso_and with_prev2_POS_full:NN_CC NA

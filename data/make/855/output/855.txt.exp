@@ -1,4 +1,0 @@
-conn_lc:and conn:and conn_POS:CC with_prev_full:,_and xxx£
-conn_lc:but conn:but conn_POS:CC with_prev_full:reflected_but xxx£
-conn_lc:in_the_end conn:in_the_end conn_POS:IN_DT_NN with_prev_full:,_in_the_end xxx£
-conn_lc:nevertheless conn:nevertheless conn_POS:RB xxx£

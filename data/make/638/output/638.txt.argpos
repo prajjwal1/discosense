@@ -1,1 +1,0 @@
-conn:when conn_POS:WRB prev1:observed prev1_POS:JJ with_prev1_full:observed_when with_prev1_POS_full:JJ_WRB prev2:only prev2_POS:RB with_prev2_full:only_when with_prev2_POS_full:RB_WRB NA

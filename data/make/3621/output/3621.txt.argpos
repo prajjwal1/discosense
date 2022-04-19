@@ -1,2 +1,0 @@
-conn:in_turn conn_POS:IN_NN prev1:, prev1_POS:, with_prev1_full:,_in_turn with_prev1_POS_full:,_IN_NN prev2:which prev2_POS:WDT with_prev2_full:which_in_turn with_prev2_POS_full:WDT_IN_NN NA
-conn:in_other_words conn_POS:IN_JJ_NNS sent_pos:0 NA

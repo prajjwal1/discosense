@@ -1,2 +1,0 @@
-conn:when conn_POS:WRB prev1:intervention prev1_POS:NN with_prev1_full:intervention_when with_prev1_POS_full:NN_WRB prev2:military prev2_POS:JJ with_prev2_full:military_when with_prev2_POS_full:JJ_WRB NA
-conn:in_other_words conn_POS:IN_JJ_NNS sent_pos:0 NA

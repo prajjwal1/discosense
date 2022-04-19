@@ -1,2 +1,0 @@
-conn:if conn_POS:IN sent_pos:0 NA
-conn:because conn_POS:IN prev1:be prev1_POS:VB with_prev1_full:be_because with_prev1_POS_full:VB_IN prev2:might prev2_POS:MD with_prev2_full:might_because with_prev2_POS_full:MD_IN NA

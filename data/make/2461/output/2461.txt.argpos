@@ -1,1 +1,0 @@
-conn:so_that conn_POS:RB_IN prev1:hand prev1_POS:NN with_prev1_full:hand_so_that with_prev1_POS_full:NN_RB_IN prev2:at prev2_POS:IN with_prev2_full:at_so_that with_prev2_POS_full:IN_RB_IN NA

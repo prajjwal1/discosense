@@ -1,4 +1,0 @@
-conn:when conn_POS:WRB sent_pos:0 NA
-conn:as conn_POS:IN prev1:transferred prev1_POS:VBN with_prev1_full:transferred_as with_prev1_POS_full:VBN_IN prev2:are prev2_POS:VBP with_prev2_full:are_as with_prev2_POS_full:VBP_IN NA
-conn:but conn_POS:CC sent_pos:0 NA
-conn:then conn_POS:RB sent_pos:1 prev1:but prev1_POS:CC with_prev1_full:but_then with_prev1_POS_full:CC_RB NA

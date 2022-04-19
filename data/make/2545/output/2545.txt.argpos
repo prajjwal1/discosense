@@ -1,2 +1,0 @@
-conn:thus conn_POS:RB sent_pos:0 NA
-conn:after conn_POS:IN prev1:order prev1_POS:NN with_prev1_full:order_after with_prev1_POS_full:NN_IN prev2:earlier prev2_POS:JJR with_prev2_full:earlier_after with_prev2_POS_full:JJR_IN NA

@@ -1,2 +1,0 @@
-conn_lc:if conn:if conn_POS:IN with_prev_full:sponsor_if xxx£
-conn_lc:otherwise conn:otherwise conn_POS:RB xxx£

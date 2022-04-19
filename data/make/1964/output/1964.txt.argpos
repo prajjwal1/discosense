@@ -1,4 +1,0 @@
-conn:but conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_but with_prev1_POS_full:,_CC prev2:auctioned prev2_POS:NNS with_prev2_full:auctioned_but with_prev2_POS_full:NNS_CC NA
-conn:also conn_POS:RB sent_pos:-3 prev1:is prev1_POS:VBZ with_prev1_full:is_also with_prev1_POS_full:VBZ_RB prev2:assets prev2_POS:NNS with_prev2_full:assets_also with_prev2_POS_full:NNS_RB NA
-conn:in_particular conn_POS:IN_JJ sent_pos:0 NA
-conn:also conn_POS:RB sent_pos:-3 prev1:are prev1_POS:VBP with_prev1_full:are_also with_prev1_POS_full:VBP_RB prev2:plants prev2_POS:NNS with_prev2_full:plants_also with_prev2_POS_full:NNS_RB NA

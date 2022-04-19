@@ -1,2 +1,0 @@
-conn:so conn_POS:IN prev1:, prev1_POS:, with_prev1_full:,_so with_prev1_POS_full:,_IN prev2:out prev2_POS:RP with_prev2_full:out_so with_prev2_POS_full:RP_IN NA
-conn:overall conn_POS:RB sent_pos:0 NA

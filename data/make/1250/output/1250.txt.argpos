@@ -1,3 +1,0 @@
-conn:also conn_POS:RB prev1:security prev1_POS:NN with_prev1_full:security_also with_prev1_POS_full:NN_RB prev2:cyber prev2_POS:NN with_prev2_full:cyber_also with_prev2_POS_full:NN_RB NA
-conn:thereafter conn_POS:RB sent_pos:0 NA
-conn:and conn_POS:CC prev1:stores prev1_POS:NNS with_prev1_full:stores_and with_prev1_POS_full:NNS_CC prev2:byte prev2_POS:NN with_prev2_full:byte_and with_prev2_POS_full:NN_CC NA

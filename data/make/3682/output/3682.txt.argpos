@@ -1,2 +1,0 @@
-conn:also conn_POS:RB sent_pos:1 prev1:he prev1_POS:PRP with_prev1_full:he_also with_prev1_POS_full:PRP_RB NA
-conn:by_contrast conn_POS:IN_NN sent_pos:0 NA

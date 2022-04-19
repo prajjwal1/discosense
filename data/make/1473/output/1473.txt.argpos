@@ -1,2 +1,0 @@
-conn:for_example conn_POS:IN_NN sent_pos:0 NA
-conn:and conn_POS:CC prev1:system prev1_POS:NN with_prev1_full:system_and with_prev1_POS_full:NN_CC prev2:finding prev2_POS:NN with_prev2_full:finding_and with_prev2_POS_full:NN_CC NA

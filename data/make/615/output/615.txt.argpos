@@ -1,3 +1,0 @@
-conn:but conn_POS:CC prev1:law prev1_POS:NN with_prev1_full:law_but with_prev1_POS_full:NN_CC prev2:in prev2_POS:IN with_prev2_full:in_but with_prev2_POS_full:IN_CC NA
-conn:instead conn_POS:RB sent_pos:0 NA
-conn:but conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_but with_prev1_POS_full:,_CC prev2:artwork prev2_POS:NN with_prev2_full:artwork_but with_prev2_POS_full:NN_CC NA

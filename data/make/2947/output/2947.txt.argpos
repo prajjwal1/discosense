@@ -1,3 +1,0 @@
-conn:and conn_POS:CC prev1:snacks prev1_POS:NNS with_prev1_full:snacks_and with_prev1_POS_full:NNS_CC prev2:dinner prev2_POS:NN with_prev2_full:dinner_and with_prev2_POS_full:NN_CC NA
-conn:though conn_POS:RB sent_pos:0 NA
-conn:but conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_but with_prev1_POS_full:,_CC prev2:degree prev2_POS:NN with_prev2_full:degree_but with_prev2_POS_full:NN_CC NA

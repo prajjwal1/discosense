@@ -1,2 +1,0 @@
-conn:and conn_POS:CC prev1:code prev1_POS:NN with_prev1_full:code_and with_prev1_POS_full:NN_CC prev2:error prev2_POS:NN with_prev2_full:error_and with_prev2_POS_full:NN_CC NA
-conn:nevertheless conn_POS:RB sent_pos:0 NA

@@ -1,5 +1,0 @@
-conn_lc:but conn:but conn_POS:CC xxx£
-conn_lc:because conn:because conn_POS:IN with_prev_full:is_because xxx£
-conn_lc:however conn:however conn_POS:RB xxx£
-conn_lc:and conn:and conn_POS:CC with_prev_full:,_and xxx£
-conn_lc:because conn:because conn_POS:IN with_prev_full:,_because xxx£

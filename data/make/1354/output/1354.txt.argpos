@@ -1,3 +1,0 @@
-conn:since conn_POS:IN prev1:, prev1_POS:, with_prev1_full:,_since with_prev1_POS_full:,_IN prev2:absurd prev2_POS:JJ with_prev2_full:absurd_since with_prev2_POS_full:JJ_IN NA
-conn:after conn_POS:IN prev1:since prev1_POS:IN with_prev1_full:since_after with_prev1_POS_full:IN_IN prev2:, prev2_POS:, with_prev2_full:,_after with_prev2_POS_full:,_IN NA
-conn:instead conn_POS:RB sent_pos:0 NA

@@ -1,4 +1,0 @@
-conn:but conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_but with_prev1_POS_full:,_CC prev2:warmed prev2_POS:VBN with_prev2_full:warmed_but with_prev2_POS_full:VBN_CC NA
-conn:before conn_POS:IN sent_pos:-3 prev1:temperature prev1_POS:NN with_prev1_full:temperature_before with_prev1_POS_full:NN_IN prev2:room prev2_POS:NN with_prev2_full:room_before with_prev2_POS_full:NN_IN NA
-conn:thereafter conn_POS:RB sent_pos:0 NA
-conn:however conn_POS:RB sent_pos:1 prev1:thereafter prev1_POS:RB with_prev1_full:thereafter_however with_prev1_POS_full:RB_RB NA

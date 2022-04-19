@@ -1,3 +1,0 @@
-conn:before conn_POS:IN prev1:, prev1_POS:, with_prev1_full:,_before with_prev1_POS_full:,_IN prev2:crudely prev2_POS:JJ with_prev2_full:crudely_before with_prev2_POS_full:JJ_IN NA
-conn:for_instance conn_POS:IN_NN sent_pos:0 NA
-conn:before conn_POS:IN prev1:food prev1_POS:NN with_prev1_full:food_before with_prev1_POS_full:NN_IN prev2:digested prev2_POS:VBD with_prev2_full:digested_before with_prev2_POS_full:VBD_IN NA

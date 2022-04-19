@@ -1,2 +1,0 @@
-conn:when conn_POS:WRB prev1:considered prev1_POS:VBN with_prev1_full:considered_when with_prev1_POS_full:VBN_WRB prev2:be prev2_POS:VB with_prev2_full:be_when with_prev2_POS_full:VB_WRB NA
-conn:in_other_words conn_POS:IN_JJ_NNS sent_pos:0 NA

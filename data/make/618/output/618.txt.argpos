@@ -1,2 +1,0 @@
-conn:when conn_POS:WRB sent_pos:1 prev1:particularly prev1_POS:RB with_prev1_full:particularly_when with_prev1_POS_full:RB_WRB NA
-conn:and conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_and with_prev1_POS_full:,_CC prev2:huge prev2_POS:JJ with_prev2_full:huge_and with_prev2_POS_full:JJ_CC NA

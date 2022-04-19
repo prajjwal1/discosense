@@ -1,3 +1,0 @@
-conn:and conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_and with_prev1_POS_full:,_CC prev2:happen prev2_POS:VBP with_prev2_full:happen_and with_prev2_POS_full:VBP_CC NA
-conn:but conn_POS:CC sent_pos:0 NA
-conn:so_that conn_POS:RB_IN prev1:out prev1_POS:IN with_prev1_full:out_so_that with_prev1_POS_full:IN_RB_IN prev2:themselves prev2_POS:PRP with_prev2_full:themselves_so_that with_prev2_POS_full:PRP_RB_IN NA

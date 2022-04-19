@@ -1,4 +1,0 @@
-conn_lc:however conn:however conn_POS:RB xxx£
-conn_lc:when conn:when conn_POS:WRB with_prev_full:particularly_when xxx£
-conn_lc:in_other_words conn:in_other_words conn_POS:IN_JJ_NNS xxx£
-conn_lc:while conn:while conn_POS:IN with_prev_full:words_while xxx£

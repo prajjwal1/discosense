@@ -1,3 +1,0 @@
-conn:and conn_POS:CC prev1:he prev1_POS:PRP with_prev1_full:he_and with_prev1_POS_full:PRP_CC prev2:said prev2_POS:VBD with_prev2_full:said_and with_prev2_POS_full:VBD_CC NA
-conn:so conn_POS:IN prev1:, prev1_POS:, with_prev1_full:,_so with_prev1_POS_full:,_IN prev2:licenses prev2_POS:NNS with_prev2_full:licenses_so with_prev2_POS_full:NNS_IN NA
-conn:instead conn_POS:RB prev1:but prev1_POS:CC with_prev1_full:but_instead with_prev1_POS_full:CC_RB prev2:teachers prev2_POS:NNS with_prev2_full:teachers_instead with_prev2_POS_full:NNS_RB NA

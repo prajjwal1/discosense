@@ -1,4 +1,0 @@
-conn_lc:but conn:but conn_POS:CC xxx£
-conn_lc:unless conn:unless conn_POS:IN with_prev_full:protection_unless xxx£
-conn_lc:ultimately conn:ultimately conn_POS:RB with_prev_full:would_ultimately xxx£
-conn_lc:when conn:when conn_POS:WRB with_prev_full:bill_when xxx£

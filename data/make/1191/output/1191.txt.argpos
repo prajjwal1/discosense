@@ -1,2 +1,0 @@
-conn:still conn_POS:RB prev1:must prev1_POS:MD with_prev1_full:must_still with_prev1_POS_full:MD_RB prev2:judgment prev2_POS:NN with_prev2_full:judgment_still with_prev2_POS_full:NN_RB NA
-conn:when conn_POS:WRB prev1:used prev1_POS:VBN with_prev1_full:used_when with_prev1_POS_full:VBN_WRB prev2:be prev2_POS:VB with_prev2_full:be_when with_prev2_POS_full:VB_WRB NA

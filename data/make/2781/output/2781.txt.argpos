@@ -1,1 +1,0 @@
-conn:and conn_POS:CC prev1:expected prev1_POS:VBN with_prev1_full:expected_and with_prev1_POS_full:VBN_CC prev2:than prev2_POS:IN with_prev2_full:than_and with_prev2_POS_full:IN_CC NA

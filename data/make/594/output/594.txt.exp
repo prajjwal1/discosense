@@ -1,2 +1,0 @@
-conn_lc:if conn:if conn_POS:IN with_prev_full:safe_if xxx£
-conn_lc:and conn:and conn_POS:CC with_prev_full:korea_and xxx£

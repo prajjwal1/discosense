@@ -1,4 +1,0 @@
-conn:overall conn_POS:RB sent_pos:0 NA
-conn:and conn_POS:CC prev1:looks prev1_POS:VBZ with_prev1_full:looks_and with_prev1_POS_full:VBZ_CC prev2:guns prev2_POS:NNS with_prev2_full:guns_and with_prev2_POS_full:NNS_CC NA
-conn:but conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_but with_prev1_POS_full:,_CC prev2:guns prev2_POS:NNS with_prev2_full:guns_but with_prev2_POS_full:NNS_CC NA
-conn:also conn_POS:RB prev1:but prev1_POS:CC with_prev1_full:but_also with_prev1_POS_full:CC_RB prev2:, prev2_POS:, with_prev2_full:,_also with_prev2_POS_full:,_RB NA

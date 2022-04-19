@@ -1,2 +1,0 @@
-conn:however conn_POS:RB sent_pos:0 NA
-conn:or conn_POS:CC prev1:years prev1_POS:NNS with_prev1_full:years_or with_prev1_POS_full:NNS_CC prev2:10,000 prev2_POS:CD with_prev2_full:10,000_or with_prev2_POS_full:CD_CC NA

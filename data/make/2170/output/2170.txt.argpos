@@ -1,2 +1,0 @@
-conn:when conn_POS:WRB prev1:sclerosis prev1_POS:NN with_prev1_full:sclerosis_when with_prev1_POS_full:NN_WRB prev2:lateral prev2_POS:JJ with_prev2_full:lateral_when with_prev2_POS_full:JJ_WRB NA
-conn:in_turn conn_POS:IN_NN prev1:which prev1_POS:WDT with_prev1_full:which_in_turn with_prev1_POS_full:WDT_IN_NN prev2:, prev2_POS:, with_prev2_full:,_in_turn with_prev2_POS_full:,_IN_NN NA

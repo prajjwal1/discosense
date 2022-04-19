@@ -1,4 +1,0 @@
-conn_lc:and conn:and conn_POS:CC with_prev_full:,_and xxx£
-conn_lc:when conn:when conn_POS:WRB with_prev_full:and_when xxx£
-conn_lc:in_particular conn:in_particular conn_POS:IN_JJ xxx£
-conn_lc:so_that conn:so_that conn_POS:RB_IN with_prev_full:models_so_that xxx£

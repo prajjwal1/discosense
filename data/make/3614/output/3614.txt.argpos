@@ -1,2 +1,0 @@
-conn:nonetheless conn_POS:RB sent_pos:0 NA
-conn:and conn_POS:CC prev1:from prev1_POS:IN with_prev1_full:from_and with_prev1_POS_full:IN_CC prev2:originates prev2_POS:VBZ with_prev2_full:originates_and with_prev2_POS_full:VBZ_CC NA

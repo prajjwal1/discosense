@@ -1,2 +1,0 @@
-conn:as conn_POS:IN prev1:, prev1_POS:, with_prev1_full:,_as with_prev1_POS_full:,_IN prev2:either prev2_POS:RB with_prev2_full:either_as with_prev2_POS_full:RB_IN NA
-conn:but conn_POS:CC sent_pos:0 NA

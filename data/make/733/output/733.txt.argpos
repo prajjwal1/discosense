@@ -1,3 +1,0 @@
-conn:thus conn_POS:RB sent_pos:0 NA
-conn:though conn_POS:IN prev1:even prev1_POS:RB with_prev1_full:even_though with_prev1_POS_full:RB_IN prev2:, prev2_POS:, with_prev2_full:,_though with_prev2_POS_full:,_IN NA
-conn:when conn_POS:WRB sent_pos:1 prev1:hence prev1_POS:RB with_prev1_full:hence_when with_prev1_POS_full:RB_WRB NA

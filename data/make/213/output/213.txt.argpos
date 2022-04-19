@@ -1,2 +1,0 @@
-conn:after conn_POS:IN prev1:variety prev1_POS:NN with_prev1_full:variety_after with_prev1_POS_full:NN_IN prev2:humanoid prev2_POS:JJ with_prev2_full:humanoid_after with_prev2_POS_full:JJ_IN NA
-conn:and conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_and with_prev1_POS_full:,_CC prev2:cybertron prev2_POS:NN with_prev2_full:cybertron_and with_prev2_POS_full:NN_CC NA

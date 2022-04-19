@@ -1,2 +1,0 @@
-conn:and conn_POS:CC prev1:fsa prev1_POS:NN with_prev1_full:fsa_and with_prev1_POS_full:NN_CC prev2:in prev2_POS:IN with_prev2_full:in_and with_prev2_POS_full:IN_CC NA
-conn:on_the_contrary conn_POS:IN_DT_NN sent_pos:0 NA

@@ -1,3 +1,0 @@
-conn:and conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_and with_prev1_POS_full:,_CC prev2:voters prev2_POS:NNS with_prev2_full:voters_and with_prev2_POS_full:NNS_CC NA
-conn:because conn_POS:IN prev1:unusual prev1_POS:JJ with_prev1_full:unusual_because with_prev1_POS_full:JJ_IN prev2:are prev2_POS:VBP with_prev2_full:are_because with_prev2_POS_full:VBP_IN NA
-conn:nonetheless conn_POS:RB sent_pos:0 NA

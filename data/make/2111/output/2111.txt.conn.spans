@@ -1,5 +1,0 @@
-2..12 0 ultimately 2111.txt 0
-39..46 0 because 2111.txt 0
-75..82 1 overall 2111.txt 0
-83..85;162..166 1 if_then 2111.txt 0
-184..187 1 for 2111.txt 0

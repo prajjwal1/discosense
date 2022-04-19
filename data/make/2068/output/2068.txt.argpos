@@ -1,2 +1,0 @@
-conn:likewise conn_POS:RB sent_pos:0 NA
-conn:when conn_POS:WRB prev1:interpreters prev1_POS:NNS with_prev1_full:interpreters_when with_prev1_POS_full:NNS_WRB prev2:use prev2_POS:VB with_prev2_full:use_when with_prev2_POS_full:VB_WRB NA

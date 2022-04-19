@@ -1,5 +1,0 @@
-conn_lc:likewise conn:likewise conn_POS:RB xxx£
-conn_lc:as conn:as conn_POS:IN with_prev_full:,_as xxx£
-conn_lc:and conn:and conn_POS:CC with_prev_full:,_and xxx£
-conn_lc:or conn:or conn_POS:CC with_prev_full:,_or xxx£
-conn_lc:therefore conn:therefore conn_POS:RB xxx£

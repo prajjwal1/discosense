@@ -1,3 +1,0 @@
-conn_lc:when conn:when conn_POS:WRB xxx£
-conn_lc:then conn:then conn_POS:RB with_prev_full:gunners_then xxx£
-conn_lc:and conn:and conn_POS:CC with_prev_full:,_and xxx£

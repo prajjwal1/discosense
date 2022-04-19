@@ -1,2 +1,0 @@
-conn:by_contrast conn_POS:IN_NN sent_pos:0 NA
-conn:because conn_POS:IN prev1:baldwin prev1_POS:NN with_prev1_full:baldwin_because with_prev1_POS_full:NN_IN prev2:attacking prev2_POS:VBG with_prev2_full:attacking_because with_prev2_POS_full:VBG_IN NA

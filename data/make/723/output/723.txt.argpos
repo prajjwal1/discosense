@@ -1,2 +1,0 @@
-conn:if conn_POS:IN prev1:antique prev1_POS:NN with_prev1_full:antique_if with_prev1_POS_full:NN_IN prev2:an prev2_POS:DT with_prev2_full:an_if with_prev2_POS_full:DT_IN NA
-conn:in_other_words conn_POS:IN_JJ_NNS sent_pos:0 NA

@@ -1,4 +1,0 @@
-conn:if conn_POS:IN prev1:flasher prev1_POS:NN with_prev1_full:flasher_if with_prev1_POS_full:NN_IN prev2:the prev2_POS:DT with_prev2_full:the_if with_prev2_POS_full:DT_IN NA
-conn:conversely conn_POS:RB sent_pos:0 NA
-conn:because conn_POS:IN prev1:, prev1_POS:, with_prev1_full:,_because with_prev1_POS_full:,_IN prev2:first prev2_POS:RB with_prev2_full:first_because with_prev2_POS_full:RB_IN NA
-conn:if conn_POS:IN prev1:working prev1_POS:VBG with_prev1_full:working_if with_prev1_POS_full:VBG_IN prev2:stop prev2_POS:VB with_prev2_full:stop_if with_prev2_POS_full:VB_IN NA

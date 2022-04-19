@@ -1,3 +1,0 @@
-conn:when conn_POS:WRB sent_pos:0 NA
-conn:then conn_POS:RB prev1:, prev1_POS:, with_prev1_full:,_then with_prev1_POS_full:,_RB prev2:question prev2_POS:NN with_prev2_full:question_then with_prev2_POS_full:NN_RB NA
-conn:in_other_words conn_POS:IN_JJ_NNS sent_pos:0 NA

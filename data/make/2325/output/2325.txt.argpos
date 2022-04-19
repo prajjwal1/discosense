@@ -1,3 +1,0 @@
-conn:if conn_POS:IN sent_pos:0 NA
-conn:if conn_POS:IN sent_pos:1 prev1:likewise prev1_POS:RB with_prev1_full:likewise_if with_prev1_POS_full:RB_IN NA
-conn:also conn_POS:RB prev1:would prev1_POS:MD with_prev1_full:would_also with_prev1_POS_full:MD_RB prev2:he prev2_POS:PRP with_prev2_full:he_also with_prev2_POS_full:PRP_RB NA

@@ -1,4 +1,0 @@
-conn_lc:thereafter conn:thereafter conn_POS:RB xxx£
-conn_lc:and conn:and conn_POS:CC with_prev_full:,_and xxx£
-conn_lc:then conn:then conn_POS:RB with_prev_full:is_then xxx£
-conn_lc:thereby conn:thereby conn_POS:RB xxx£

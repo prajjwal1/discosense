@@ -1,3 +1,0 @@
-conn:consequently conn_POS:RB sent_pos:0 NA
-conn:therefore conn_POS:RB prev1:expanded prev1_POS:VBN with_prev1_full:expanded_therefore with_prev1_POS_full:VBN_RB prev2:is prev2_POS:VBZ with_prev2_full:is_therefore with_prev2_POS_full:VBZ_RB NA
-conn:thereby conn_POS:RB sent_pos:0 NA

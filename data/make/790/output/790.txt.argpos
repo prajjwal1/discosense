@@ -1,2 +1,0 @@
-conn:for_example conn_POS:IN_NN sent_pos:0 NA
-conn:also conn_POS:RB prev1:may prev1_POS:MD with_prev1_full:may_also with_prev1_POS_full:MD_RB prev2:confidential prev2_POS:JJ with_prev2_full:confidential_also with_prev2_POS_full:JJ_RB NA

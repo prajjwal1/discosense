@@ -1,2 +1,0 @@
-conn:and conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_and with_prev1_POS_full:,_CC prev2:six prev2_POS:CD with_prev2_full:six_and with_prev2_POS_full:CD_CC NA
-conn:while conn_POS:IN prev1:team prev1_POS:NN with_prev1_full:team_while with_prev1_POS_full:NN_IN prev2:home prev2_POS:NN with_prev2_full:home_while with_prev2_POS_full:NN_IN NA

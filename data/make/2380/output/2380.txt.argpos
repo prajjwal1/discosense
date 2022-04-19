@@ -1,4 +1,0 @@
-conn:however conn_POS:RB sent_pos:0 NA
-conn:also conn_POS:RB prev1:research prev1_POS:NN with_prev1_full:research_also with_prev1_POS_full:NN_RB prev2:, prev2_POS:, with_prev2_full:,_also with_prev2_POS_full:,_RB NA
-conn:and conn_POS:CC prev1:entry prev1_POS:NN with_prev1_full:entry_and with_prev1_POS_full:NN_CC prev2:of prev2_POS:IN with_prev2_full:of_and with_prev2_POS_full:IN_CC NA
-conn:also conn_POS:RB prev1:systems prev1_POS:NNS with_prev1_full:systems_also with_prev1_POS_full:NNS_RB prev2:financial prev2_POS:JJ with_prev2_full:financial_also with_prev2_POS_full:JJ_RB NA

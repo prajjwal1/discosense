@@ -1,6 +1,0 @@
-conn:but conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_but with_prev1_POS_full:,_CC prev2:details prev2_POS:NNS with_prev2_full:details_but with_prev2_POS_full:NNS_CC NA
-conn:also conn_POS:RB prev1:is prev1_POS:VBZ with_prev1_full:is_also with_prev1_POS_full:VBZ_RB prev2:it prev2_POS:PRP with_prev2_full:it_also with_prev2_POS_full:PRP_RB NA
-conn:on_the_other_hand conn_POS:IN_DT_JJ_NN sent_pos:0 NA
-conn:if conn_POS:IN prev1:okay prev1_POS:VBZ with_prev1_full:okay_if with_prev1_POS_full:VBZ_IN prev2:its prev2_POS:PRP$ with_prev2_full:its_if with_prev2_POS_full:PRP$_IN NA
-conn:as conn_POS:IN prev1:, prev1_POS:, with_prev1_full:,_as with_prev1_POS_full:,_IN prev2:palette prev2_POS:NN with_prev2_full:palette_as with_prev2_POS_full:NN_IN NA
-conn:once conn_POS:IN prev1:rewet prev1_POS:VB with_prev1_full:rewet_once with_prev1_POS_full:VB_IN prev2:will prev2_POS:MD with_prev2_full:will_once with_prev2_POS_full:MD_IN NA

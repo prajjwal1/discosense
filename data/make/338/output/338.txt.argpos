@@ -1,3 +1,0 @@
-conn:after conn_POS:IN prev1:up prev1_POS:RP with_prev1_full:up_after with_prev1_POS_full:RP_IN prev2:roughed prev2_POS:VBG with_prev2_full:roughed_after with_prev2_POS_full:VBG_IN NA
-conn:however conn_POS:RB sent_pos:0 NA
-conn:when conn_POS:WRB sent_pos:1 prev1:however prev1_POS:RB with_prev1_full:however_when with_prev1_POS_full:RB_WRB NA

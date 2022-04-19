@@ -1,3 +1,0 @@
-conn:also conn_POS:RB prev1:can prev1_POS:MD with_prev1_full:can_also with_prev1_POS_full:MD_RB prev2:processing prev2_POS:NN with_prev2_full:processing_also with_prev2_POS_full:NN_RB NA
-conn:thereafter conn_POS:RB sent_pos:0 NA
-conn:and conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_and with_prev1_POS_full:,_CC prev2:removed prev2_POS:VBN with_prev2_full:removed_and with_prev2_POS_full:VBN_CC NA

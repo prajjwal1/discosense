@@ -1,3 +1,0 @@
-conn:and conn_POS:CC prev1:life prev1_POS:NN with_prev1_full:life_and with_prev1_POS_full:NN_CC prev2:family prev2_POS:NN with_prev2_full:family_and with_prev2_POS_full:NN_CC NA
-conn:for_instance conn_POS:IN_NN sent_pos:0 NA
-conn:when conn_POS:WRB prev1:around prev1_POS:RB with_prev1_full:around_when with_prev1_POS_full:RB_WRB prev2:things prev2_POS:NNS with_prev2_full:things_when with_prev2_POS_full:NNS_WRB NA

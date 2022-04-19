@@ -1,3 +1,0 @@
-conn:also conn_POS:RB sent_pos:2 prev1:is prev1_POS:VBZ with_prev1_full:is_also with_prev1_POS_full:VBZ_RB prev2:mccartney prev2_POS:NN with_prev2_full:mccartney_also with_prev2_POS_full:NN_RB NA
-conn:consequently conn_POS:RB sent_pos:0 NA
-conn:and conn_POS:CC prev1:leather prev1_POS:NN with_prev1_full:leather_and with_prev1_POS_full:NN_CC prev2:or prev2_POS:CC with_prev2_full:or_and with_prev2_POS_full:CC_CC NA

@@ -1,2 +1,0 @@
-conn:for_example conn_POS:IN_NN sent_pos:0 NA
-conn:whereas conn_POS:IN prev1:, prev1_POS:, with_prev1_full:,_whereas with_prev1_POS_full:,_IN prev2:silicon prev2_POS:NN with_prev2_full:silicon_whereas with_prev2_POS_full:NN_IN NA

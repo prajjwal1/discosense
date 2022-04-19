@@ -1,2 +1,0 @@
-conn:as conn_POS:IN prev1:speaks prev1_POS:VBZ with_prev1_full:speaks_as with_prev1_POS_full:VBZ_IN prev2:man prev2_POS:NN with_prev2_full:man_as with_prev2_POS_full:NN_IN NA
-conn:on_the_other_hand conn_POS:IN_DT_JJ_NN sent_pos:0 NA

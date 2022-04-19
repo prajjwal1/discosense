@@ -1,3 +1,0 @@
-conn:also conn_POS:RB prev1:we prev1_POS:PRP with_prev1_full:we_also with_prev1_POS_full:PRP_RB prev2:that prev2_POS:IN with_prev2_full:that_also with_prev2_POS_full:IN_RB NA
-conn:in_other_words conn_POS:IN_JJ_NNS sent_pos:0 NA
-conn:as conn_POS:IN prev1:even prev1_POS:RB with_prev1_full:even_as with_prev1_POS_full:RB_IN prev2:, prev2_POS:, with_prev2_full:,_as with_prev2_POS_full:,_IN NA

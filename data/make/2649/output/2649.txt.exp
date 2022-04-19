@@ -1,4 +1,0 @@
-conn_lc:after conn:after conn_POS:IN xxx£
-conn_lc:if conn:if conn_POS:IN with_prev_full:wondering_if xxx£
-conn_lc:however conn:however conn_POS:RB xxx£
-conn_lc:and conn:and conn_POS:CC with_prev_full:quality_and xxx£

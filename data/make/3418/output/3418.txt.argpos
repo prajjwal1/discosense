@@ -1,1 +1,0 @@
-conn:if conn_POS:IN prev1:stab prev1_POS:NN with_prev1_full:stab_if with_prev1_POS_full:NN_IN prev2:game prev2_POS:NN with_prev2_full:game_if with_prev2_POS_full:NN_IN NA

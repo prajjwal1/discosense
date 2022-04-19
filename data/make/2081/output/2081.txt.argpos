@@ -1,3 +1,0 @@
-conn:but conn_POS:CC prev1:sandwich prev1_POS:NN with_prev1_full:sandwich_but with_prev1_POS_full:NN_CC prev2:good prev2_POS:JJ with_prev2_full:good_but with_prev2_POS_full:JJ_CC NA
-conn:when conn_POS:WRB prev1:but prev1_POS:CC with_prev1_full:but_when with_prev1_POS_full:CC_WRB prev2:sandwich prev2_POS:NN with_prev2_full:sandwich_when with_prev2_POS_full:NN_WRB NA
-conn:nevertheless conn_POS:RB sent_pos:0 NA

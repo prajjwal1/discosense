@@ -1,2 +1,0 @@
-conn:also conn_POS:RB prev1:but prev1_POS:CC with_prev1_full:but_also with_prev1_POS_full:CC_RB prev2:roots prev2_POS:NNS with_prev2_full:roots_also with_prev2_POS_full:NNS_RB NA
-conn:nevertheless conn_POS:RB sent_pos:0 NA

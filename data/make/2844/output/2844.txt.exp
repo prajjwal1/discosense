@@ -1,2 +1,0 @@
-conn_lc:if conn:if conn_POS:IN with_prev_full:destroyed_if xxx£
-conn_lc:thereafter conn:thereafter conn_POS:RB xxx£

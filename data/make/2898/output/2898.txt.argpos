@@ -1,3 +1,0 @@
-conn:if conn_POS:IN prev1:, prev1_POS:, with_prev1_full:,_if with_prev1_POS_full:,_IN prev2:comply prev2_POS:VB with_prev2_full:comply_if with_prev2_POS_full:VB_IN NA
-conn:in_sum conn_POS:IN_NN sent_pos:0 NA
-conn:when conn_POS:WRB prev1:principles prev1_POS:NNS with_prev1_full:principles_when with_prev1_POS_full:NNS_WRB prev2:over prev2_POS:IN with_prev2_full:over_when with_prev2_POS_full:IN_WRB NA

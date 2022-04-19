@@ -1,3 +1,0 @@
-conn:but conn_POS:CC sent_pos:0 NA
-conn:also conn_POS:RB prev1:is prev1_POS:VBZ with_prev1_full:is_also with_prev1_POS_full:VBZ_RB prev2:there prev2_POS:EX with_prev2_full:there_also with_prev2_POS_full:EX_RB NA
-conn:therefore conn_POS:RB sent_pos:0 NA

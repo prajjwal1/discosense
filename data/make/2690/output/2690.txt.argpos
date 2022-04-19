@@ -1,1 +1,0 @@
-conn:and conn_POS:CC prev1:device prev1_POS:NN with_prev1_full:device_and with_prev1_POS_full:NN_CC prev2:catalytic prev2_POS:JJ with_prev2_full:catalytic_and with_prev2_POS_full:JJ_CC NA

@@ -1,4 +1,0 @@
-conn:because conn_POS:IN prev1:just prev1_POS:RB with_prev1_full:just_because with_prev1_POS_full:RB_IN prev2:not prev2_POS:RB with_prev2_full:not_because with_prev2_POS_full:RB_IN NA
-conn:but conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_but with_prev1_POS_full:,_CC prev2:profile prev2_POS:NN with_prev2_full:profile_but with_prev2_POS_full:NN_CC NA
-conn:because conn_POS:IN prev1:but prev1_POS:CC with_prev1_full:but_because with_prev1_POS_full:CC_IN prev2:, prev2_POS:, with_prev2_full:,_because with_prev2_POS_full:,_IN NA
-conn:by_contrast conn_POS:IN_NN sent_pos:0 NA

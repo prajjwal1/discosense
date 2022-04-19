@@ -1,4 +1,0 @@
-conn_lc:and conn:and conn_POS:CC xxx£
-conn_lc:so conn:so conn_POS:IN with_prev_full:,_so xxx£
-conn_lc:if_if_you_played_better_for_only_20_,_then conn:if_if_you_played_better_for_only_20_,_then conn_POS:IN_IN_PRP_VBD_RBR_IN_RB_CD_,_RB with_prev_full:so_if_if_you_played_better_for_only_20_,_then xxx£
-conn_lc:in_contrast conn:in_contrast conn_POS:IN_NN xxx£

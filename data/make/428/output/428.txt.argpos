@@ -1,3 +1,0 @@
-conn:and conn_POS:CC sent_pos:0 NA
-conn:if conn_POS:IN sent_pos:1 prev1:and prev1_POS:CC with_prev1_full:and_if with_prev1_POS_full:CC_IN NA
-conn:in_other_words conn_POS:RB_JJ_NNS sent_pos:0 NA

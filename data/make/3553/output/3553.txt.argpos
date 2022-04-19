@@ -1,3 +1,0 @@
-conn:and conn_POS:CC sent_pos:2 prev1:refused prev1_POS:VBD with_prev1_full:refused_and with_prev1_POS_full:VBD_CC prev2:zahir prev2_POS:NN with_prev2_full:zahir_and with_prev2_POS_full:NN_CC NA
-conn:nonetheless conn_POS:RB sent_pos:0 NA
-conn:ultimately conn_POS:RB prev1:and prev1_POS:CC with_prev1_full:and_ultimately with_prev1_POS_full:CC_RB prev2:ali prev2_POS:NN with_prev2_full:ali_ultimately with_prev2_POS_full:NN_RB NA

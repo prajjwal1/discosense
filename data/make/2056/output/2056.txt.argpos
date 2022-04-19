@@ -1,1 +1,0 @@
-conn:if conn_POS:IN sent_pos:2 prev1:, prev1_POS:, with_prev1_full:,_if with_prev1_POS_full:,_IN prev2:cmos prev2_POS:NNS with_prev2_full:cmos_if with_prev2_POS_full:NNS_IN NA

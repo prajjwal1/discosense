@@ -1,8 +1,0 @@
-conn_lc:although conn:although conn_POS:IN xxx£
-conn_lc:as_if conn:as_if conn_POS:RB_IN with_prev_full:appeared_as_if xxx£
-conn_lc:likewise conn:likewise conn_POS:RB xxx£
-conn_lc:although conn:although conn_POS:IN with_prev_full:,_although xxx£
-conn_lc:when conn:when conn_POS:WRB with_prev_full:old_when xxx£
-conn_lc:nevertheless conn:nevertheless conn_POS:RB with_prev_full:were_nevertheless xxx£
-conn_lc:as conn:as conn_POS:IN with_prev_full:old_as xxx£
-conn_lc:and conn:and conn_POS:CC with_prev_full:grown_and xxx£

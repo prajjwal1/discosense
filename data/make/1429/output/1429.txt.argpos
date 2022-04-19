@@ -1,5 +1,0 @@
-conn:however conn_POS:RB sent_pos:0 NA
-conn:since conn_POS:IN sent_pos:2 prev1:, prev1_POS:, with_prev1_full:,_since with_prev1_POS_full:,_IN prev2:however prev2_POS:RB with_prev2_full:however_since with_prev2_POS_full:RB_IN NA
-conn:but conn_POS:CC sent_pos:0 NA
-conn:then conn_POS:RB sent_pos:1 prev1:but prev1_POS:CC with_prev1_full:but_then with_prev1_POS_full:CC_RB NA
-conn:and conn_POS:CC prev1:in prev1_POS:RP with_prev1_full:in_and with_prev1_POS_full:RP_CC prev2:kicks prev2_POS:VBZ with_prev2_full:kicks_and with_prev2_POS_full:VBZ_CC NA

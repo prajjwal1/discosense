@@ -1,3 +1,0 @@
-conn:in_fact conn_POS:IN_NN prev1:, prev1_POS:, with_prev1_full:,_in_fact with_prev1_POS_full:,_IN_NN prev2:dissimilar prev2_POS:JJ with_prev2_full:dissimilar_in_fact with_prev2_POS_full:JJ_IN_NN NA
-conn:and conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_and with_prev1_POS_full:,_CC prev2:braun prev2_POS:NN with_prev2_full:braun_and with_prev2_POS_full:NN_CC NA
-conn:in_sum conn_POS:RB_VB sent_pos:0 NA

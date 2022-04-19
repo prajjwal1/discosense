@@ -1,2 +1,0 @@
-conn:also conn_POS:RB prev1:could prev1_POS:MD with_prev1_full:could_also with_prev1_POS_full:MD_RB prev2:127 prev2_POS:CD with_prev2_full:127_also with_prev2_POS_full:CD_RB NA
-conn:thereby conn_POS:RB prev1:190 prev1_POS:CD with_prev1_full:190_thereby with_prev1_POS_full:CD_RB prev2:pushbutton prev2_POS:NN with_prev2_full:pushbutton_thereby with_prev2_POS_full:NN_RB NA

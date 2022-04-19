@@ -1,2 +1,0 @@
-conn:but conn_POS:CC sent_pos:0 NA
-conn:before conn_POS:IN sent_pos:1 prev1:but prev1_POS:CC with_prev1_full:but_before with_prev1_POS_full:CC_IN NA

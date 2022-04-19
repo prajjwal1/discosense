@@ -1,1 +1,0 @@
-conn:if conn_POS:IN sent_pos:2 prev1:means prev1_POS:VBZ with_prev1_full:means_if with_prev1_POS_full:VBZ_IN prev2:which prev2_POS:WDT with_prev2_full:which_if with_prev2_POS_full:WDT_IN NA

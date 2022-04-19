@@ -1,2 +1,0 @@
-conn:since conn_POS:IN prev1:, prev1_POS:, with_prev1_full:,_since with_prev1_POS_full:,_IN prev2:everybody prev2_POS:NN with_prev2_full:everybody_since with_prev2_POS_full:NN_IN NA
-conn:if conn_POS:IN prev1:premiums prev1_POS:NNS with_prev1_full:premiums_if with_prev1_POS_full:NNS_IN prev2:higher prev2_POS:JJR with_prev2_full:higher_if with_prev2_POS_full:JJR_IN NA

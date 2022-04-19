@@ -1,3 +1,0 @@
-conn:because conn_POS:IN prev1:clues prev1_POS:NNS with_prev1_full:clues_because with_prev1_POS_full:NNS_IN prev2:provide prev2_POS:VBP with_prev2_full:provide_because with_prev2_POS_full:VBP_IN NA
-conn:for_example conn_POS:IN_NN sent_pos:0 NA
-conn:when conn_POS:WRB prev1:erupt prev1_POS:VB with_prev1_full:erupt_when with_prev1_POS_full:VB_WRB prev2:only prev2_POS:RB with_prev2_full:only_when with_prev2_POS_full:RB_WRB NA

@@ -1,4 +1,0 @@
-conn:and conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_and with_prev1_POS_full:,_CC prev2:therein prev2_POS:RB with_prev2_full:therein_and with_prev2_POS_full:RB_CC NA
-conn:while conn_POS:IN prev1:substrates prev1_POS:NNS with_prev1_full:substrates_while with_prev1_POS_full:NNS_IN prev2:two prev2_POS:CD with_prev2_full:two_while with_prev2_POS_full:CD_IN NA
-conn:thereafter conn_POS:RB sent_pos:0 NA
-conn:and conn_POS:CC prev1:substrates prev1_POS:NNS with_prev1_full:substrates_and with_prev1_POS_full:NNS_CC prev2:two prev2_POS:CD with_prev2_full:two_and with_prev2_POS_full:CD_CC NA

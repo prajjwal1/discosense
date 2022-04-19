@@ -1,2 +1,0 @@
-conn:when conn_POS:WRB prev1:even prev1_POS:RB with_prev1_full:even_when with_prev1_POS_full:RB_WRB prev2:race prev2_POS:NN with_prev2_full:race_when with_prev2_POS_full:NN_WRB NA
-conn:however conn_POS:RB sent_pos:1 prev1:interestingly prev1_POS:VBG with_prev1_full:interestingly_however with_prev1_POS_full:VBG_RB NA

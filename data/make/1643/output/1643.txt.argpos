@@ -1,3 +1,0 @@
-conn:however conn_POS:RB sent_pos:0 NA
-conn:and conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_and with_prev1_POS_full:,_CC prev2:edward prev2_POS:NN with_prev2_full:edward_and with_prev2_POS_full:NN_CC NA
-conn:meantime conn_POS:NN prev1:the prev1_POS:DT with_prev1_full:the_meantime with_prev1_POS_full:DT_NN prev2:in prev2_POS:IN with_prev2_full:in_meantime with_prev2_POS_full:IN_NN NA

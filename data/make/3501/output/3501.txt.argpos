@@ -1,3 +1,0 @@
-conn:if conn_POS:IN sent_pos:2 prev1:asked prev1_POS:VBD with_prev1_full:asked_if with_prev1_POS_full:VBD_IN prev2:pinedo prev2_POS:NN with_prev2_full:pinedo_if with_prev2_POS_full:NN_IN NA
-conn:and conn_POS:CC prev1:argentina prev1_POS:NN with_prev1_full:argentina_and with_prev1_POS_full:NN_CC prev2:between prev2_POS:IN with_prev2_full:between_and with_prev2_POS_full:IN_CC NA
-conn:nonetheless conn_POS:RB sent_pos:0 NA

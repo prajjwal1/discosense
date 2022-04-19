@@ -1,4 +1,0 @@
-conn:thus conn_POS:RB sent_pos:0 NA
-conn:for_instance conn_POS:IN_NN sent_pos:0 NA
-conn:when conn_POS:WRB sent_pos:2 prev1:instance prev1_POS:NN with_prev1_full:instance_when with_prev1_POS_full:NN_WRB prev2:for prev2_POS:IN with_prev2_full:for_when with_prev2_POS_full:IN_WRB NA
-conn:or conn_POS:CC prev1:time prev1_POS:NN with_prev1_full:time_or with_prev1_POS_full:NN_CC prev2:their prev2_POS:PRP$ with_prev2_full:their_or with_prev2_POS_full:PRP$_CC NA

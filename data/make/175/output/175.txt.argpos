@@ -1,2 +1,0 @@
-conn:nonetheless conn_POS:RB sent_pos:-2 prev1:soothing prev1_POS:NNS with_prev1_full:soothing_nonetheless with_prev1_POS_full:NNS_RB prev2:self prev2_POS:NN with_prev2_full:self_nonetheless with_prev2_POS_full:NN_RB NA
-conn:if conn_POS:IN sent_pos:2 prev1:short prev1_POS:RB with_prev1_full:short_if with_prev1_POS_full:RB_IN prev2:in prev2_POS:IN with_prev2_full:in_if with_prev2_POS_full:IN_IN NA

@@ -1,2 +1,0 @@
-conn:but conn_POS:CC sent_pos:0 NA
-conn:if conn_POS:IN prev1:ok prev1_POS:JJ with_prev1_full:ok_if with_prev1_POS_full:JJ_IN prev2:surely prev2_POS:RB with_prev2_full:surely_if with_prev2_POS_full:RB_IN NA

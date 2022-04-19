@@ -1,3 +1,0 @@
-conn:then conn_POS:RB sent_pos:2 prev1:, prev1_POS:, with_prev1_full:,_then with_prev1_POS_full:,_RB prev2:well prev2_POS:RB with_prev2_full:well_then with_prev2_POS_full:RB_RB NA
-conn:so conn_POS:IN prev1:you prev1_POS:PRP with_prev1_full:you_so with_prev1_POS_full:PRP_IN prev2:win prev2_POS:VB with_prev2_full:win_so with_prev2_POS_full:VB_IN NA
-conn:therefore conn_POS:RB sent_pos:0 NA

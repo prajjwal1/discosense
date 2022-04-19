@@ -1,3 +1,0 @@
-conn_lc:after conn:after conn_POS:IN with_prev_full:least_after xxx£
-conn_lc:and conn:and conn_POS:CC with_prev_full:reigns_and xxx£
-conn_lc:though conn:though conn_POS:RB xxx£

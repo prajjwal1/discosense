@@ -1,3 +1,0 @@
-conn:then conn_POS:RB prev1:are prev1_POS:VBP with_prev1_full:are_then with_prev1_POS_full:VBP_RB prev2:images prev2_POS:NNS with_prev2_full:images_then with_prev2_POS_full:NNS_RB NA
-conn:thereby conn_POS:RB prev1:, prev1_POS:, with_prev1_full:,_thereby with_prev1_POS_full:,_RB prev2:landmarks prev2_POS:NNS with_prev2_full:landmarks_thereby with_prev2_POS_full:NNS_RB NA
-conn:thereafter conn_POS:RB sent_pos:0 NA

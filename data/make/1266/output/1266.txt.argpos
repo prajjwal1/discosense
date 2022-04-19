@@ -1,2 +1,0 @@
-conn:still conn_POS:RB prev1:may prev1_POS:MD with_prev1_full:may_still with_prev1_POS_full:MD_RB prev2:description prev2_POS:NN with_prev2_full:description_still with_prev2_POS_full:NN_RB NA
-conn:by_contrast conn_POS:IN_NN sent_pos:0 NA

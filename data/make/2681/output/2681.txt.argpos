@@ -1,3 +1,0 @@
-conn:thereafter conn_POS:RB sent_pos:0 NA
-conn:and conn_POS:CC prev1:housings prev1_POS:NNS with_prev1_full:housings_and with_prev1_POS_full:NNS_CC prev2:inch prev2_POS:NN with_prev2_full:inch_and with_prev2_POS_full:NN_CC NA
-conn:thus conn_POS:RB sent_pos:-3 prev1:was prev1_POS:VBD with_prev1_full:was_thus with_prev1_POS_full:VBD_RB prev2:length prev2_POS:NN with_prev2_full:length_thus with_prev2_POS_full:NN_RB NA

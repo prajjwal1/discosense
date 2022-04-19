@@ -1,3 +1,0 @@
-conn:also conn_POS:RB prev1:they prev1_POS:PRP with_prev1_full:they_also with_prev1_POS_full:PRP_RB prev2:, prev2_POS:, with_prev2_full:,_also with_prev2_POS_full:,_RB NA
-conn:therefore conn_POS:RB sent_pos:0 NA
-conn:when conn_POS:WRB sent_pos:1 prev1:therefore prev1_POS:RB with_prev1_full:therefore_when with_prev1_POS_full:RB_WRB NA

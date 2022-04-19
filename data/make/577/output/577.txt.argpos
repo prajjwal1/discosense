@@ -1,2 +1,0 @@
-conn:but conn_POS:CC prev1:present prev1_POS:JJ with_prev1_full:present_but with_prev1_POS_full:JJ_CC prev2:at prev2_POS:IN with_prev2_full:at_but with_prev2_POS_full:IN_CC NA
-conn:conversely conn_POS:RB sent_pos:0 NA

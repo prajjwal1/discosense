@@ -1,2 +1,0 @@
-conn:insofar_as conn_POS:NNS_IN prev1:nature prev1_POS:NN with_prev1_full:nature_insofar_as with_prev1_POS_full:NN_NNS_IN prev2:to prev2_POS:TO with_prev2_full:to_insofar_as with_prev2_POS_full:TO_NNS_IN NA
-conn:for_instance conn_POS:IN_NN sent_pos:1 prev1:hence prev1_POS:RB with_prev1_full:hence_for_instance with_prev1_POS_full:RB_IN_NN NA

@@ -1,2 +1,0 @@
-conn:because conn_POS:IN prev1:, prev1_POS:, with_prev1_full:,_because with_prev1_POS_full:,_IN prev2:impact prev2_POS:NN with_prev2_full:impact_because with_prev2_POS_full:NN_IN NA
-conn:if conn_POS:IN sent_pos:1 prev1:hence prev1_POS:RB with_prev1_full:hence_if with_prev1_POS_full:RB_IN NA

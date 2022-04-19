@@ -1,2 +1,0 @@
-conn:though conn_POS:IN prev1:, prev1_POS:, with_prev1_full:,_though with_prev1_POS_full:,_IN prev2:advocacy prev2_POS:NN with_prev2_full:advocacy_though with_prev2_POS_full:NN_IN NA
-conn:also conn_POS:RB prev1:being prev1_POS:VBG with_prev1_full:being_also with_prev1_POS_full:VBG_RB prev2:is prev2_POS:VBZ with_prev2_full:is_also with_prev2_POS_full:VBZ_RB NA

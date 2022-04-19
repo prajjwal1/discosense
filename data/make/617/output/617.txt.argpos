@@ -1,3 +1,0 @@
-conn:when conn_POS:WRB prev1:day prev1_POS:NN with_prev1_full:day_when with_prev1_POS_full:NN_WRB prev2:a prev2_POS:DT with_prev2_full:a_when with_prev2_POS_full:DT_WRB NA
-conn:and conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_and with_prev1_POS_full:,_CC prev2:available prev2_POS:JJ with_prev2_full:available_and with_prev2_POS_full:JJ_CC NA
-conn:nevertheless conn_POS:RB sent_pos:0 NA

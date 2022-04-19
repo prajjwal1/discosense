@@ -1,2 +1,0 @@
-conn:if conn_POS:IN sent_pos:0 NA
-conn:in_short conn_POS:IN_JJ sent_pos:0 NA

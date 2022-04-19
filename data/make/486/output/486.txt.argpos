@@ -1,3 +1,0 @@
-conn:if conn_POS:IN prev1:even prev1_POS:RB with_prev1_full:even_if with_prev1_POS_full:RB_IN prev2:, prev2_POS:, with_prev2_full:,_if with_prev2_POS_full:,_IN NA
-conn:but conn_POS:CC sent_pos:0 NA
-conn:when conn_POS:WRB prev1:receive prev1_POS:VBP with_prev1_full:receive_when with_prev1_POS_full:VBP_WRB prev2:children prev2_POS:NNS with_prev2_full:children_when with_prev2_POS_full:NNS_WRB NA

@@ -1,2 +1,0 @@
-conn:while conn_POS:IN sent_pos:0 NA
-conn:also conn_POS:RB prev1:have prev1_POS:VBP with_prev1_full:have_also with_prev1_POS_full:VBP_RB prev2:partners prev2_POS:NNS with_prev2_full:partners_also with_prev2_POS_full:NNS_RB NA

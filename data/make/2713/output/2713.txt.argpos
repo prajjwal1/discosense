@@ -1,5 +1,0 @@
-conn:while conn_POS:IN sent_pos:0 NA
-conn:if conn_POS:IN prev1:only prev1_POS:RB with_prev1_full:only_if with_prev1_POS_full:RB_IN prev2:useful prev2_POS:JJ with_prev2_full:useful_if with_prev2_POS_full:JJ_IN NA
-conn:and conn_POS:CC prev1:iphone prev1_POS:NN with_prev1_full:iphone_and with_prev1_POS_full:NN_CC prev2:an prev2_POS:DT with_prev2_full:an_and with_prev2_POS_full:DT_CC NA
-conn:otherwise conn_POS:RB sent_pos:0 NA
-conn:yet conn_POS:RB prev1:dont prev1_POS:VBP with_prev1_full:dont_yet with_prev1_POS_full:VBP_RB prev2:you prev2_POS:PRP with_prev2_full:you_yet with_prev2_POS_full:PRP_RB NA

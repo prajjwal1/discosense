@@ -1,3 +1,0 @@
-conn:as conn_POS:IN prev1:, prev1_POS:, with_prev1_full:,_as with_prev1_POS_full:,_IN prev2:since prev2_POS:IN with_prev2_full:since_as with_prev2_POS_full:IN_IN NA
-conn:and conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_and with_prev1_POS_full:,_CC prev2:abolished prev2_POS:VBN with_prev2_full:abolished_and with_prev2_POS_full:VBN_CC NA
-conn:nonetheless conn_POS:RB sent_pos:0 NA

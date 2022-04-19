@@ -1,3 +1,0 @@
-conn:before conn_POS:IN prev1:color prev1_POS:NN with_prev1_full:color_before with_prev1_POS_full:NN_IN prev2:the prev2_POS:DT with_prev2_full:the_before with_prev2_POS_full:DT_IN NA
-conn:nonetheless conn_POS:RB sent_pos:0 NA
-conn:while conn_POS:IN prev1:, prev1_POS:, with_prev1_full:,_while with_prev1_POS_full:,_IN prev2:red prev2_POS:NN with_prev2_full:red_while with_prev2_POS_full:NN_IN NA

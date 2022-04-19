@@ -1,3 +1,0 @@
-conn:however conn_POS:RB sent_pos:0 NA
-conn:and conn_POS:CC prev1:away prev1_POS:RP with_prev1_full:away_and with_prev1_POS_full:RP_CC prev2:faded prev2_POS:VBD with_prev2_full:faded_and with_prev2_POS_full:VBD_CC NA
-conn:after conn_POS:IN prev1:squad prev1_POS:NN with_prev1_full:squad_after with_prev1_POS_full:NN_IN prev2:the prev2_POS:DT with_prev2_full:the_after with_prev2_POS_full:DT_IN NA

@@ -1,3 +1,0 @@
-conn:so conn_POS:IN sent_pos:0 NA
-conn:since conn_POS:IN prev1:modernised prev1_POS:VBN with_prev1_full:modernised_since with_prev1_POS_full:VBN_IN prev2:been prev2_POS:VBN with_prev2_full:been_since with_prev2_POS_full:VBN_IN NA
-conn:so_that conn_POS:CC_IN prev1:, prev1_POS:, with_prev1_full:,_so_that with_prev1_POS_full:,_CC_IN prev2:sparingly prev2_POS:RB with_prev2_full:sparingly_so_that with_prev2_POS_full:RB_CC_IN NA

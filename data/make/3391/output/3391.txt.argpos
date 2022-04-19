@@ -1,3 +1,0 @@
-conn:if conn_POS:IN prev1:subordinated prev1_POS:JJ with_prev1_full:subordinated_if with_prev1_POS_full:JJ_IN prev2:be prev2_POS:VB with_prev2_full:be_if with_prev2_POS_full:VB_IN NA
-conn:if conn_POS:IN sent_pos:1 prev1:similarly prev1_POS:RB with_prev1_full:similarly_if with_prev1_POS_full:RB_IN NA
-conn:also conn_POS:RB prev1:company prev1_POS:NN with_prev1_full:company_also with_prev1_POS_full:NN_RB prev2:parent prev2_POS:NN with_prev2_full:parent_also with_prev2_POS_full:NN_RB NA

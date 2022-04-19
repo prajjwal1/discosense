@@ -1,2 +1,0 @@
-conn:consequently conn_POS:RB sent_pos:0 NA
-conn:before conn_POS:IN prev1:time prev1_POS:NN with_prev1_full:time_before with_prev1_POS_full:NN_IN prev2:some prev2_POS:DT with_prev2_full:some_before with_prev2_POS_full:DT_IN NA

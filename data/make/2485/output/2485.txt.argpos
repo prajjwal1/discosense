@@ -1,2 +1,0 @@
-conn:and conn_POS:CC sent_pos:0 NA
-conn:also conn_POS:RB sent_pos:2 prev1:it prev1_POS:PRP with_prev1_full:it_also with_prev1_POS_full:PRP_RB prev2:and prev2_POS:CC with_prev2_full:and_also with_prev2_POS_full:CC_RB NA

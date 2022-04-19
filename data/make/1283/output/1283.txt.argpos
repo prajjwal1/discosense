@@ -1,2 +1,0 @@
-conn:for_example conn_POS:IN_NN sent_pos:0 NA
-conn:though conn_POS:IN prev1:even prev1_POS:RB with_prev1_full:even_though with_prev1_POS_full:RB_IN prev2:, prev2_POS:, with_prev2_full:,_though with_prev2_POS_full:,_IN NA

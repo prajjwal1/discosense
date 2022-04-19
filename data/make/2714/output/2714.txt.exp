@@ -1,3 +1,0 @@
-conn_lc:when conn:when conn_POS:WRB xxx£
-conn_lc:before conn:before conn_POS:IN with_prev_full:dry_before xxx£
-conn_lc:but conn:but conn_POS:CC xxx£

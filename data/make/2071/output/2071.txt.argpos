@@ -1,2 +1,0 @@
-conn:nonetheless conn_POS:RB sent_pos:0 NA
-conn:although conn_POS:IN sent_pos:1 prev1:nonetheless prev1_POS:RB with_prev1_full:nonetheless_although with_prev1_POS_full:RB_IN NA

@@ -1,2 +1,0 @@
-conn:as conn_POS:IN prev1:described prev1_POS:VBD with_prev1_full:described_as with_prev1_POS_full:VBD_IN prev2:normally prev2_POS:RB with_prev2_full:normally_as with_prev2_POS_full:RB_IN NA
-conn:by_contrast conn_POS:IN_NN sent_pos:0 NA

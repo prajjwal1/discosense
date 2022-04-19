@@ -1,3 +1,0 @@
-conn:and conn_POS:CC prev1:held prev1_POS:VBN with_prev1_full:held_and with_prev1_POS_full:VBN_CC prev2:was prev2_POS:VBD with_prev2_full:was_and with_prev2_POS_full:VBD_CC NA
-conn:thus conn_POS:RB sent_pos:0 NA
-conn:and conn_POS:CC prev1:elect prev1_POS:NNS with_prev1_full:elect_and with_prev1_POS_full:NNS_CC prev2:president prev2_POS:NN with_prev2_full:president_and with_prev2_POS_full:NN_CC NA

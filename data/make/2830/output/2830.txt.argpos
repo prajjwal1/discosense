@@ -1,3 +1,0 @@
-conn:however conn_POS:RB sent_pos:0 NA
-conn:also conn_POS:RB prev1:are prev1_POS:VBP with_prev1_full:are_also with_prev1_POS_full:VBP_RB prev2:impacts prev2_POS:NNS with_prev2_full:impacts_also with_prev2_POS_full:NNS_RB NA
-conn:likewise conn_POS:RB sent_pos:0 NA

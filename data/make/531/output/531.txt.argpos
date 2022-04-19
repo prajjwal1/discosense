@@ -1,2 +1,0 @@
-conn:though conn_POS:RB prev1:, prev1_POS:, with_prev1_full:,_though with_prev1_POS_full:,_RB prev2:phenomenon prev2_POS:NN with_prev2_full:phenomenon_though with_prev2_POS_full:NN_RB NA
-conn:in_sum conn_POS:IN_NN sent_pos:0 NA

@@ -1,2 +1,0 @@
-conn:otherwise conn_POS:RB sent_pos:0 NA
-conn:in_turn conn_POS:RB_VB prev1:and prev1_POS:CC with_prev1_full:and_in_turn with_prev1_POS_full:CC_RB_VB prev2:skewed prev2_POS:JJ with_prev2_full:skewed_in_turn with_prev2_POS_full:JJ_RB_VB NA

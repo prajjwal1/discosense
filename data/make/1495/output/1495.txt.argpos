@@ -1,1 +1,0 @@
-conn:before conn_POS:IN prev1:imprisonment prev1_POS:NN with_prev1_full:imprisonment_before with_prev1_POS_full:NN_IN prev2:possible prev2_POS:JJ with_prev2_full:possible_before with_prev2_POS_full:JJ_IN NA

@@ -1,0 +1,4 @@
+conn:while conn_POS:IN sent_pos:0 NA
+conn:for_instance conn_POS:IN_NN sent_pos:0 NA
+conn:but conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_but with_prev1_POS_full:,_CC prev2:surfaced prev2_POS:VBN with_prev2_full:surfaced_but with_prev2_POS_full:VBN_CC NA
+conn:because conn_POS:IN prev1:only prev1_POS:RB with_prev1_full:only_because with_prev1_POS_full:RB_IN prev2:but prev2_POS:CC with_prev2_full:but_because with_prev2_POS_full:CC_IN NA

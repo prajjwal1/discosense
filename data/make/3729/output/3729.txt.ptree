@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (NP (DT the) (NN right))
+    (VP
+      (VP (VBZ is)
+        (VP (VBN preserved)
+          (PP (IN in)
+            (NP
+              (NP (DT the) (VBN united) (NNS nations) (NN universal) (NN declaration))
+              (PP (IN of)
+                (NP (JJ human) (NNS rights)))))))
+      (CC and)
+      (VP (VBZ is)
+        (VP (VBN granted)
+          (NP (JJ formal) (NN recognition))
+          (PP (IN by)
+            (NP
+              (NP (DT the) (NNS laws))
+              (PP (IN of)
+                (NP (JJS most) (NNS nations))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nonetheless))
+    (ADVP (RB nonetheless))
+    (NP
+      (NP (DT the) (NN degree))
+      (SBAR
+        (WHPP (TO to)
+          (WHNP (WDT which)))
+        (S
+          (NP (DT the) (NN right))
+          (VP (VBZ is)
+            (VP (VBN upheld)
+              (PP (IN in)
+                (NP (NN practice))))))))
+    (VP (VBZ varies)
+      (ADVP (RB greatly))
+      (PP (IN from)
+        (NP
+          (NP (CD one) (NN nation))
+          (PP (TO to)
+            (NP (DT another))))))
+    (. .)))
+

@@ -1,0 +1,50 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (NN matrix))
+      (PP (IN like)
+        (NP (NN assembly))))
+    (VP (MD may)
+      (VP (VB be)
+        (VP (VBN provided)
+          (PP (IN in)
+            (NP (JJ many) (NNS forms))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP (NN instance)))
+    (NP
+      (NP (DT the) (JJ collective) (NN mass))
+      (PP (IN of)
+        (NP (DT the) (NN matrix))))
+    (VP (MD may)
+      (VP (VB be)
+        (VP (VBN provided)
+          (PP (IN by)
+            (NP
+              (NP (JJ large) (NNS quantities))
+              (PP (IN of)
+                (NP
+                  (NP (NNS microstructures))
+                  (PP (JJ such) (IN as)
+                    (NP
+                      (NP (NNS beads))
+                      (, ,)
+                      (NP (NNS platelets))
+                      (, ,)
+                      (NP (NNS chips))
+                      (, ,)
+                      (NP (NNS fibers))
+                      (, ,)
+                      (NP (NNS filaments))
+                      (, ,)
+                      (NP (JJ monolithic) (NNS polymers))
+                      (, ,)
+                      (NP (NN sol) (NN gel))
+                      (, ,)
+                      (CC or)
+                      (NP (DT the) (JJ like)))))))))))
+    (. .)))
+

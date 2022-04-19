@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (ADVP
+      (NP (CD 2) (NNS weeks))
+      (RBR earlier))
+    (NP (FW i))
+    (VP
+      (VP (VBD tested)
+        (NP (DT the) (JJ mackie) (NN 824s))
+        (PP (IN in)
+          (NP (DT the) (JJ same) (NN way))))
+      (CC and)
+      (VP
+        (ADVP (RB really))
+        (VBD found)
+        (NP (DT some) (JJ serious) (NNS weirdness))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (PP (RB because) (IN of)
+      (NP (DT this) (FW i)))
+    (VP (VBD had) (RB not)
+      (VP (VBN expected)
+        (S
+          (VP (TO to)
+            (VP (VB see)
+              (NP (DT the) (NN asp)))))))
+    (NP (CD 8))
+    (S
+      (VP (VB deliver)
+        (NP
+          (NP (DT this) (NN kind))
+          (PP (IN of)
+            (NP (JJ consistent) (NN performance))))))
+    (. .)))
+

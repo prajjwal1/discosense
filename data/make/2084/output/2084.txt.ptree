@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (NP (JJ such) (NNS preferences))
+    (VP (VB factor)
+      (PP (IN into)
+        (SBAR
+          (WHADVP (WRB where))
+          (S
+            (NP (NNS americans))
+            (VP (VBP decide)
+              (S
+                (VP (TO to)
+                  (VP (VB move)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (JJ short) (JJ like) (NNS minded)))
+    (NP (NNS people))
+    (VP (VBP like)
+      (S
+        (VP (TO to)
+          (VP (VB live)
+            (PRT (RP around))
+            (NP
+              (NP (JJ other))
+              (PP (IN like)
+                (NP (JJ minded) (NNS folks))))))))
+    (. .)))
+

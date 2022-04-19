@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (NP (NN applicant))
+    (VP (MD would)
+      (VP (VB be)
+        (VP (VBN contacted)
+          (PP (IN for)
+            (NP (DT a) (JJ preliminary) (NN chat)))
+          (SBAR (IN if)
+            (S
+              (NP (DT the) (NNS candidates) (NN profile))
+              (VP (VBZ matches)
+                (NP (DT any)
+                  (ADJP (JJ available)
+                    (CC or)
+                    (JJ vacant))
+                  (NN job) (NN position))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB subsequently))
+    (NP (DT all) (JJ qualified) (NNS candidates))
+    (VP (MD will)
+      (VP (VB be)
+        (VP (VBN scheduled)
+          (PP
+            (PP (IN for)
+              (NP
+                (NP (DT a) (NN series))
+                (PP (IN of)
+                  (NP (JJ formal) (NNS interviews)))))
+            (, ,) (RB prior)
+            (PP (TO to)
+              (NP
+                (NP (DT the) (NN bank))
+                (VP (VBG taking)
+                  (NP (DT a) (JJ final) (NN decision)))))))))
+    (. .)))
+

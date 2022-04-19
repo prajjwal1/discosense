@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (NP (DT any) (JJ scanning) (NNS artifacts))
+    (VP (MD can)
+      (VP (VB be)
+        (VP (VBN removed)
+          (PP
+            (PP (IN by)
+              (NP (JJ appropriate) (NNS algorithms)))
+            (CC or)
+            (PP (IN by)
+              (NP (DT a) (JJ human) (NN operator)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB likewise))
+    (NP (DT a) (JJ stomatological) (NN number))
+    (VP (MD can)
+      (VP (VB be)
+        (VP (VBN assigned)
+          (PP (TO to)
+            (NP
+              (NP (DT each) (NN tooth))
+              (PP (IN of)
+                (NP (DT the) (NN model) (CD 851)))))
+          (PP
+            (PP (IN by)
+              (NP (DT an) (NN algorithm)))
+            (CC or)
+            (PP (IN by)
+              (NP (DT an) (NN operator)))))))
+    (. .)))
+

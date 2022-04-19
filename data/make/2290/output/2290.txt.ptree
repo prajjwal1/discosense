@@ -1,0 +1,47 @@
+(ROOT
+  (S
+    (NP
+      (NP (NN ive))
+      (VP (VBN seen)
+        (SBAR
+          (S
+            (NP
+              (NP (NN ap) (NN thresh))
+              (, ,)
+              (NP (NN adc) (NN thresh))
+              (, ,))
+            (VP (VBP thresh)
+              (SBAR
+                (S
+                  (SBAR
+                    (WHNP (WP who))
+                    (S
+                      (NP (NN doesnt))
+                      (VP (VB pick)
+                        (PRT (RP up))
+                        (NP (JJS most) (NNS souls)))))
+                  (, ,)
+                  (X (NN etc.))
+                  (NP (JJ overall) (NNS people))
+                  (VP
+                    (VP (VBP arent)
+                      (S
+                        (VP (VBN used)
+                          (PP (TO to)
+                            (NP (PRP him))))))
+                    (CC and)
+                    (VP (VBP seem)
+                      (S
+                        (VP (TO to)
+                          (VP (VB think)
+                            (NP (PRP they))))))))))))))
+    (ADVP (RB really))
+    (VP (VBP need)
+      (S
+        (VP (TO to)
+          (VP (VB test)
+            (NP (DT every) (JJ damn) (NN lane))
+            (PP (IN with)
+              (NP (PRP him)))))))
+    (. .)))
+

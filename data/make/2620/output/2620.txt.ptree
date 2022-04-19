@@ -1,0 +1,48 @@
+(ROOT
+  (S
+    (NP (PRP we))
+    (VP (MD could)
+      (VP
+        (VP (VB retain)
+          (NP (VBG collecting) (NNS lists)))
+        (, ,)
+        (CC and)
+        (VP
+          (VP (VB live)
+            (PP (IN without)
+              (NP (DT the) (NN split) (NN behavior))))
+          (, ,)
+          (CC or)
+          (VP
+            (ADJP (RB even) (JJ sublist))
+            (, ,)
+            (SBAR (IN though)
+              (S
+                (NP (DT these))
+                (VP (MD would)
+                  (VP (VB be)
+                    (NP (JJ important) (NNS losses))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB conversely))
+      (NP (PRP they))
+      (VP (MD could)
+        (VP (VB be)
+          (VP
+            (ADVP (RB re))
+            (VBN added)))))
+    (, ,)
+    (CC but)
+    (S
+      (PP (IN at)
+        (NP (DT that) (NN point)))
+      (, ,)
+      (NP (PRP$ its) (NN simplicity))
+      (VP (VBZ has)
+        (ADVP (RB completely))
+        (VP (VBN disappeared))))
+    (. .)))
+

@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (PP (IN despite)
+      (NP (DT this)))
+    (, ,)
+    (NP (NN moore))
+    (VP (VBZ states)
+      (SBAR (IN that)
+        (S
+          (NP (NN microsoft))
+          (VP (VBZ feels)
+            (ADJP (RB really) (JJ good)
+              (PP (IN about)
+                (NP
+                  (NP (DT the) (NN state))
+                  (PP (IN of)
+                    (NP (DT the) (NN xbox))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (ADJP (JJ particular)))
+    (NP (PRP he))
+    (VP
+      (VP (VBZ emphasizes)
+        (NP (JJ microsofts) (NN holiday) (NN lineup)))
+      (, ,)
+      (CC and)
+      (VP (VBZ notes)
+        (SBAR (IN that)
+          (S
+            (NP (PRP it))
+            (VP (MD will)
+              (VP (VB be)
+                (VP (VBN featured)
+                  (ADVP (RB heavily)
+                    (PP (IN at)
+                      (NP
+                        (QP (CD e) (CD 3)))
+                      (NP (JJ next) (NN week)))))))))))
+    (. .)))
+

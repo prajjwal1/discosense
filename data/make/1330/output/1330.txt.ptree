@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (SBAR (IN if)
+      (S
+        (NP (PRP you))
+        (VP (VBP are)
+          (NP (DT a) (NN beginner)))))
+    (, ,)
+    (NP (NN id))
+    (VP (VBP recommend)
+      (NP (DT this) (NN toy))
+      (PP (TO to)
+        (NP (PRP you))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB otherwise))
+    (NP (PRP you))
+    (VP (MD may)
+      (VP (VB want)
+        (S
+          (VP (TO to)
+            (VP (VB look)
+              (ADVP (RB elsewhere)))))))
+    (. .)))
+

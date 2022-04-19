@@ -1,0 +1,1 @@
+second, setting initialization parameters and properly administering your cluster can also positively affect your systems overhead. on the other hand improper lock use can cause your system to spend so much time synchronizing shared resources that you cannot achieve any speedup or scaleup.

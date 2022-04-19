@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (ADVP (RB thus))
+    (, ,)
+    (NP
+      (NP (NN inhibition))
+      (PP (IN of)
+        (NP
+          (NP (DT the) (JJ parathyroid) (NN gland) (NN sodium) (NN potassium) (NN atpase) (NN activity))
+          (PP (IN in)
+            (NP (NN vivo))))))
+    (VP (VBD had)
+      (NP
+        (NP (DT no) (NN effect))
+        (PP (IN on)
+          (NP (DT the) (JJ secretory) (NN response))))
+      (PP (TO to)
+        (NP (JJ acute) (NN hypocalcemia))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (RB hence) (DT the) (JJ suggested) (NN importance))
+      (PP (IN of)
+        (NP
+          (NP (DT this) (NN atpase))
+          (PP (IN in)
+            (NP
+              (NP (DT the) (NN regulation))
+              (PP (IN of)
+                (NP (NN pth) (NN secretion))))))))
+    (VP (MD could) (RB not)
+      (VP (VB be)
+        (VP (VBN confirmed)
+          (PP (IN in)
+            (NP
+              (NP (DT this))
+              (PP (IN in)
+                (NP (NN vivo) (NN model))))))))
+    (. .)))
+

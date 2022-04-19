@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNS thats))
+      (SBAR
+        (S (RB not)
+          (VP (TO to)
+            (VP (VB say)
+              (NP (DT the) (NN disc)))))))
+    (VP (VBZ is)
+      (VP (VBN laid)
+        (UCP
+          (ADVP (RB back))
+          (CC and)
+          (VP (VBG meandering)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN by)
+      (NP (NN contrast)))
+    (NP (PRP$ its) (JJ decidedly) (NN self))
+    (VP (VBD assured)
+      (PP (IN in)
+        (NP (PRP$ its) (NN intent)))
+      (PP (TO to)
+        (NP
+          (NP (NN mesmerize)
+            (CC and)
+            (NN sedate))
+          (PP (IN between)
+            (NP (JJ monolithic) (NN rock) (NNS outs))))))
+    (. .)))
+

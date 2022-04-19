@@ -1,0 +1,48 @@
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB when))
+      (S
+        (NP (DT the) (NN prism))
+        (VP (VBZ is)
+          (VP (VBN used)
+            (PP (IN with)
+              (NP
+                (NP (DT a) (NN sensor))
+                (VP (VBG using)
+                  (NP (JJ infrared) (NN light)))))))))
+    (, ,)
+    (NP
+      (NP (DT the) (NN surface))
+      (PP (IN of)
+        (NP (DT the) (NN prism))))
+    (VP (MD can)
+      (VP (VB serve)
+        (ADVP (RB substantially))
+        (PP (IN as)
+          (NP
+            (NP (DT a) (NN plane) (NN face))
+            (PP (IN for)
+              (NP (DT the) (JJ infrared) (NN light)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thereby))
+    (NP (DT the) (NN prism))
+    (VP (MD can)
+      (ADVP (RB efficiently))
+      (VP (VB reflect)
+        (NP (DT the) (JJ infrared) (NN light))
+        (, ,)
+        (S
+          (VP (VBG allowing)
+            (NP (DT the) (NN liquid)
+              (S
+                (VP (TO to)
+                  (VP (VB be)
+                    (ADJP (RB optically) (JJ detected)
+                      (PP (IN with)
+                        (NP (JJ high) (NN reliability))))))))))))
+    (. .)))
+

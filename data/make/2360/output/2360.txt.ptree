@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (NP (DT the) (NN wi))
+    (VP (VBP fi)
+      (S
+        (NP (NNS models))
+        (VP (VB come)
+          (PRT (RP in))
+          (PP (IN at)
+            (NP (DT a) (JJ hefty) (CD 799) (NN price) (NN point)))))
+      (, ,)
+      (SBAR (IN while)
+        (S
+          (NP (DT the) (NN lte) (NNS models))
+          (VP (VBP are)
+            (NP (CD 929))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (RB interestingly) (DT the))
+      (PP (IN at)
+        (NP
+          (NP (NN t) (NN version))
+          (PP (IN of)
+            (NP (DT the) (CD 128) (NN gb) (NN ipad))))))
+    (VP (MD will)
+      (VP (VB ship)
+        (PP (IN in)
+          (NP (DT the) (JJ same)
+            (ADJP
+              (QP (CD 1) (CD 3)))
+            (NN business) (NN daywindow)))))
+    (. .)))
+

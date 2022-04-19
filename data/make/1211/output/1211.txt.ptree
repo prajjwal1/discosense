@@ -1,0 +1,59 @@
+(ROOT
+  (S (CC but)
+    (NP (DT that))
+    (VP (VBZ is)
+      (SBAR (IN because)
+        (S
+          (NP (PRP they))
+          (VP (VBP do) (RB not)
+            (VP (VB wish)
+              (S
+                (VP (TO to)
+                  (VP (VB hear)
+                    (SBAR
+                      (WHADVP (WRB how)
+                        (ADJP (JJ unchristian)
+                          (CC and)
+                          (RB ungodly) (JJ such)))
+                      (S
+                        (NP (DT a) (NN practice))
+                        (VP (VBZ is))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB however))
+    (NP (DT that))
+    (VP (MD may)
+      (VP (VB be)
+        (PRN (, ,)
+          (S
+            (S
+              (NP
+                (NP (DT this) (NN splendor))
+                (PP (IN of)
+                  (NP (PRP$ his))))
+              (VP (VBZ is)
+                (NP (DT an) (NN offense))))
+            (, ,)
+            (CC and)
+            (S
+              (NP (DT the) (NN pope))
+              (VP (VBZ is)
+                (VP (VBN bound)
+                  (PP (IN on)
+                    (NP (PRP$ his) (NNS souls) (NN salvation)))
+                  (S
+                    (VP (TO to)
+                      (VP (VB lay)
+                        (NP (PRP it))
+                        (ADVP (RB aside))
+                        (, ,)
+                        (SBAR (IN because)
+                          (S
+                            (NP (NN st.) (NN paul))
+                            (VP (VBZ says)))))))))))
+          (, ,))
+        (NP (JJ i) (NNS thess))))
+    (. .)))
+

@@ -1,0 +1,26 @@
+(ROOT
+  (S
+    (ADVP (RB besides))
+    (NP (PRP it))
+    (VP (MD will)
+      (VP (VB lead)
+        (PP (TO to)
+          (NP (NNS scars)
+            (CC and)
+            (NN inflammation)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB hence))
+    (VP (VB stop)
+      (S
+        (VP (VBG picking)
+          (PP (IN at)
+            (NP (PRP$ your) (NN face)
+              (S
+                (VP (TO to)
+                  (VP (VB avoid)
+                    (NP (VBG worsening) (NN skin) (NNS issues))))))))))
+    (. .)))
+

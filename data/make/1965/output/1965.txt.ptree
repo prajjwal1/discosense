@@ -1,0 +1,48 @@
+(ROOT
+  (S
+    (S
+      (NP (JJ new) (NNS users))
+      (VP (VBP are) (RB not)
+        (VP (VBN charged)
+          (PP (IN for)
+            (NP (DT the) (JJ first) (CD three) (NNS auctions))))))
+    (NP (PRP you))
+    (VP (VBP win)
+      (S
+        (VP (VBG using)
+          (NP (NN auction) (NN sniper)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thereafter))
+    (NP (PRP we))
+    (VP (VBP charge)
+      (NP
+        (NP
+          (QP (RB only) (CD 1))
+          (NN %))
+        (PP (IN of)
+          (NP (DT the) (JJ final) (NN auction) (NN price))))
+      (, ,)
+      (PP (IN with)
+        (NP
+          (NP (DT a) (JJ minimum) (NN fee))
+          (PP (IN of)
+            (NP
+              (NP (CD 0.25) (NN usd))
+              (CC and)
+              (NP
+                (NP (DT a) (JJ maximum) (NN fee))
+                (PP (IN of)
+                  (NP (CD 9.95) (NN usd))))))
+          (, ,)
+          (PP (IN for)
+            (NP
+              (NP (RB only) (DT the) (NNS auctions))
+              (SBAR (IN that)
+                (S
+                  (NP (PRP you))
+                  (VP (VBP win)))))))))
+    (. .)))
+

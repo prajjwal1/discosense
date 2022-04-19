@@ -1,0 +1,49 @@
+(ROOT
+  (S
+    (NP
+      (NP (NN australia))
+      (CC and)
+      (NP (JJ southern) (NN africa)))
+    (VP (VBP have)
+      (NP
+        (NP
+          (ADJP (RB especially) (JJ high))
+          (NNS levels))
+        (PP (IN of)
+          (NP (JJ obligate) (NN ant) (NN association)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN by)
+      (NP (NN contrast)))
+    (S
+      (NP
+        (NP (JJ obligate) (NN myrmecophily))
+        (PP (IN in)
+          (NP (DT the) (NN nearctic))))
+      (VP (VBZ is)
+        (NP
+          (QP (JJR less) (IN than) (CD 2))
+          (NN %))))
+    (CC and)
+    (S
+      (NP
+        (NP (NN ant) (NN association))
+        (PP (IN in)
+          (NP (NN general))))
+      (VP (VBZ is)
+        (ADJP (JJ rare))
+        (, ,)
+        (PP (IN with) (IN over)
+          (NP
+            (NP (CD 80) (NN %))
+            (PP (IN of)
+              (NP (DT the) (NN species)))))
+        (ADVP (RB apparently))
+        (S (RB not)
+          (VP (VBG associating)
+            (PP (IN with)
+              (NP (NNS ants)))))))
+    (. .)))
+

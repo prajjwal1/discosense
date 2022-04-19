@@ -1,0 +1,17 @@
+conn:also conn_lc:also conn_cat:Conj-adverb conn_to_node:RB->ADVP->NP->PP->VP->S conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:0 0:2
+conn:also conn_lc:also conn_cat:Conj-adverb conn_to_node:RB->ADVP->NP->PP->VP->S<-NP conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:-1 0:3
+conn:also conn_lc:also conn_cat:Conj-adverb conn_to_node:RB->ADVP->NP->PP->VP conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:0 0:8
+conn:also conn_lc:also conn_cat:Conj-adverb conn_to_node:RB->ADVP->NP->PP->VP<-NP conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:-1 0:11
+conn:also conn_lc:also conn_cat:Conj-adverb conn_to_node:RB->ADVP->NP->PP->VP<-NP<-NP conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:-1 0:12
+conn:also conn_lc:also conn_cat:Conj-adverb conn_to_node:RB->ADVP->NP->PP->VP<-NP<-PP conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:-1 0:17
+conn:also conn_lc:also conn_cat:Conj-adverb conn_to_node:RB->ADVP->NP->PP->VP<-NP<-PP<-NP conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:-1 0:20
+conn:also conn_lc:also conn_cat:Conj-adverb conn_to_node:RB->ADVP->NP->PP->VP<-PP conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:-1 0:25
+conn:also conn_lc:also conn_cat:Conj-adverb conn_to_node:RB->ADVP->NP->PP->VP<-PP<-NP conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:-1 0:28
+conn:also conn_lc:also conn_cat:Conj-adverb conn_to_node:RB->ADVP->NP->PP conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:0 0:39
+conn:also conn_lc:also conn_cat:Conj-adverb conn_to_node:RB->ADVP->NP conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:0 0:42
+conn:also conn_lc:also conn_cat:Conj-adverb conn_to_node:RB->ADVP->NP<-NP conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:-1 0:43
+conn:also conn_lc:also conn_cat:Conj-adverb conn_to_node:RB->ADVP conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:0 0:50
+conn:also conn_lc:also conn_cat:Conj-adverb conn_to_node:RB->ADVP->NP<-NP conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:1 0:53
+conn:also conn_lc:also conn_cat:Conj-adverb conn_to_node:RB->ADVP->NP<-NP<-NP conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:1 0:54
+conn:also conn_lc:also conn_cat:Conj-adverb conn_to_node:RB->ADVP->NP<-NP<-PP conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:1 0:63
+conn:also conn_lc:also conn_cat:Conj-adverb conn_to_node:RB->ADVP->NP<-NP<-PP<-NP conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:1 0:66

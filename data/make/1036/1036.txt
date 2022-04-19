@@ -1,0 +1,1 @@
+if an enterprise establishes a data governance council, a section of this council that specializes on mdm can play a role on the master data governance council. conversely if a data governance council is not established in the enterprise, master data governance can become a seed and starting point for an enterprise data governance council.

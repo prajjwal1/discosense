@@ -1,0 +1,1 @@
+in other words, the goal is to reproduce as accurately as possible the cross correlations in the data. specifically for the fitting hyperplane, the mean square error in the off diagonal components.

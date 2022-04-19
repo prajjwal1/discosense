@@ -1,0 +1,48 @@
+(ROOT
+  (S
+    (NP (PRP it))
+    (VP (VBZ is)
+      (ADVP (RB also))
+      (ADJP (JJ applicable)
+        (PP (TO to)
+          (NP
+            (NP (DT a) (NN vehicle) (NN meter))
+            (PP (JJ such) (IN as)
+              (NP
+                (NP (DT a) (NN speedometer)
+                  (CC or)
+                  (NN tachometer))
+                (PP (IN of)
+                  (NP (DT an) (NN automobile)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB particularly))
+    (NP (PRP it))
+    (VP (VBZ is)
+      (ADVP (RB preferably))
+      (VP (VBN applied)
+        (PP (TO to)
+          (NP
+            (NP (DT a) (NN vehicle) (NN meter))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (VBZ uses)
+                  (SBAR
+                    (S
+                      (NP (DT an))
+                      (VP (VBD led)
+                        (S
+                          (VP (TO to)
+                            (VP (VB light)
+                              (PRT (RP up))
+                              (NP
+                                (NP (DT a) (NN scale))
+                                (, ,)
+                                (NP (NN pointer))
+                                (CC or)
+                                (NP (DT the) (JJ like))))))))))))))))
+    (. .)))
+

@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (NP (DT the) (NNS researchers))
+    (VP (VBP are)
+      (VP
+        (ADVP (RB also))
+        (VP (VBG monitoring)
+          (NP (NN cpr) (NN performance)))
+        (, ,)
+        (VP (VBG adding)
+          (SBAR (IN that)
+            (S
+              (NP
+                (NP
+                  (ADVP (RB even)
+                    (PP (IN with)
+                      (NP (JJ rapid) (NN emt) (NN response))))
+                  (DT the) (JJ average) (NN time))
+                (VP (VBN required)
+                  (S
+                    (VP (TO to)
+                      (VP (VB perform)
+                        (NP (JJ effective) (NN cpr)))))))
+              (VP (VBZ is)
+                (NP (CD eight) (NNS minutes))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ conversely) (NN hospital) (NN cpr) (NN resuscitation) (NNS guidelines))
+    (VP (VBP suggest)
+      (S
+        (VP (VBG changing)
+          (PRT (RP out))
+          (NP (DT every) (CD two) (NNS minutes)))))
+    (. .)))
+

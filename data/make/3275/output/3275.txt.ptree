@@ -1,0 +1,48 @@
+(ROOT
+  (S
+    (S
+      (NP (JJ political) (NNS topics))
+      (VP (VBD were)
+        (VP (VBN avoided)
+          (PP (IN like)
+            (NP (DT the) (NN plague))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (NN faith))
+      (VP (VBD was)
+        (ADVP (RB easily))
+        (VP (VBN compartmentalized)
+          (PP (IN from)
+            (NP (JJ secular) (JJ intellectual) (NN thought))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ conversely) (NN faith))
+      (PP (IN in)
+        (NP (NNS politics))))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (NN topic))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (ADVP
+              (NP
+                (NP (NN d.) (NN c.) (NNS innes))
+                (CC and)
+                (NP (NN lisa) (NN sharon) (NN harper)))
+              (RB fervently))
+            (VP (VBP believe)
+              (SBAR
+                (S
+                  (NP (NNS christians))
+                  (VP (VBP are)
+                    (VP (VBN called)
+                      (S
+                        (VP (TO to)
+                          (VP (VB discuss)))))))))))))
+    (. .)))
+

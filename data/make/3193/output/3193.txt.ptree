@@ -1,0 +1,61 @@
+(ROOT
+  (S
+    (NP (JJ suitable) (NN leader) (NNS sequences))
+    (VP (VBP include)
+      (NP
+        (NP (DT those))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBP comprise)
+              (SBAR
+                (S
+                  (NP (NNS sequences))
+                  (VP (VBD selected)
+                    (S
+                      (VP (TO to)
+                        (VP (VB direct)
+                          (NP
+                            (NP (JJ optimum) (NN expression))
+                            (PP (IN of)
+                              (NP (DT the)
+                                (ADJP (JJ foreign)
+                                  (CC or)
+                                  (JJ endogenous))
+                                (NN dna) (NN sequence)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP (NN example)))
+    (NP (JJ such) (NN leader) (NNS sequences))
+    (VP (VBP include)
+      (NP
+        (NP (DT a) (VBN preferred) (NN consensus) (NN sequence))
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (MD can)
+              (VP
+                (VP (VB increase)
+                  (CC or)
+                  (VB maintain)
+                  (NP (NN mrna) (NN stability)))
+                (CC and)
+                (VP (VB prevent)
+                  (NP
+                    (NP (JJ inappropriate) (NN initiation))
+                    (PP (IN of)
+                      (NP (NN translation))))
+                  (PP (IN as) (IN for)
+                    (NP
+                      (NP (NN example))
+                      (VP (VBN described)
+                        (PP (IN by)
+                          (NP
+                            (NP (NNS joshi))
+                            (, ,)
+                            (NP (NN nucl))))))))))))))
+    (. .)))
+

@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN fact)))
+    (NP (DT a) (JJ slight) (NN bias))
+    (VP (MD could)
+      (VP (VB be)
+        (VP (VBN discerned)
+          (PP (IN in)
+            (NP (DT the) (JJ opposite) (NN direction))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nevertheless))
+    (NP (EX there))
+    (VP (VBZ is)
+      (ADVP (RB certainly))
+      (NP
+        (NP (DT a) (NN correlation))
+        (PP (IN between)
+          (NP
+            (NP (DT the) (JJ easy) (NN availability))
+            (PP (IN of)
+              (NP
+                (NP (NNS guns))
+                (PP (IN in)
+                  (NP (NN america)
+                    (CC and)
+                    (NN gun) (NN crime))))))))
+      (PP (IN as)
+        (NP
+          (NP (DT a) (NN matter))
+          (PP (IN of)
+            (NP (NN patent) (NN logic))))))
+    (. .)))
+

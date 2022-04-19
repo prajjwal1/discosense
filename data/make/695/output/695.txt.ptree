@@ -1,0 +1,54 @@
+(ROOT
+  (S
+    (S
+      (NP (NN eleanor) (NN roosevelt))
+      (VP (VBD said)
+        (NP (PRP it))
+        (ADVP (RBS best))))
+    (, ,)
+    (NP (DT no) (NN one))
+    (VP (MD can)
+      (VP (VB make)
+        (S
+          (NP (PRP you))
+          (VP (VB feel)
+            (ADJP (JJ inferior)
+              (PP (IN without)
+                (NP (PRP$ your) (NN permission))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP
+        (NP (JJ other) (NNS words))
+        (SBAR
+          (SBAR (IN although)
+            (S
+              (NP (DT the) (NNS feelings))
+              (VP (VBP are)
+                (ADJP (JJ normal))
+                (, ,)
+                (S
+                  (NP (PRP$ its))
+                  (SBAR
+                    (WHNP (WP what))
+                    (S
+                      (NP (PRP you))
+                      (VP (VBP do)
+                        (PP (IN with)
+                          (NP (PRP them))))))))))
+          (CC and)
+          (SBAR
+            (WHADVP (WRB how))
+            (S
+              (NP (PRP you))
+              (VP (VBP process)
+                (NP (PRP them))))))))
+    (NP (DT that))
+    (VP (VB reconnect)
+      (NP (PRP you))
+      (PP (TO to)
+        (NP (PRP$ your) (NN power))))
+    (. .)))
+

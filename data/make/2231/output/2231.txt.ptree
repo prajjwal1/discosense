@@ -1,0 +1,72 @@
+(ROOT
+  (S
+    (NP (NN subdivision))
+    (VP (VBZ applies)
+      (PP (TO to)
+        (NP
+          (NP (NN jury) (NNS instructions))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBP permit)
+                (CC or)
+                (VBP require)
+                (NP (DT the) (NN jury)
+                  (S
+                    (VP (TO to)
+                      (VP (VB presume)
+                        (CC or)
+                        (VB infer)
+                        (SBAR (IN that)
+                          (S
+                            (NP (VBN lost) (NN information))
+                            (VP (VBD was)
+                              (ADJP (JJ unfavorable)
+                                (PP (TO to)
+                                  (NP
+                                    (NP (DT the) (NN party))
+                                    (SBAR
+                                      (WHNP (WDT that))
+                                      (S
+                                        (VP (VBD lost)
+                                          (NP (PRP it)))))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thus))
+    (NP (PRP it))
+    (VP (VBZ covers)
+      (NP
+        (NP (DT any) (NN instruction))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBZ directs)
+              (CC or)
+              (VBZ permits)
+              (NP (DT the) (NN jury)
+                (S
+                  (VP (TO to)
+                    (VP (VB infer)
+                      (PP (IN from)
+                        (NP
+                          (NP (DT the) (NN loss))
+                          (PP (IN of)
+                            (NP (NN information)))))
+                      (SBAR (IN that)
+                        (S
+                          (NP (PRP it))
+                          (VP (VBD was)
+                            (PP (IN in)
+                              (NP (NN fact) (JJ unfavorable)))
+                            (PP (TO to)
+                              (NP
+                                (NP (DT the) (NN party))
+                                (SBAR
+                                  (WHNP (WDT that))
+                                  (S
+                                    (VP (VBD lost)
+                                      (NP (PRP it)))))))))))))))))))
+    (. .)))
+

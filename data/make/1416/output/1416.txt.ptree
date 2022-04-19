@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (NP (DT each) (NN shoulder))
+    (ADVP (RB also))
+    (VP (VBZ includes)
+      (NP (DT a) (NN button))
+      (PP (IN down)
+        (NP (NN epaulette))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB overall))
+    (NP (DT this))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a)
+          (ADJP (RB well) (VBN made))
+          (NNP lightweight) (JJ vintage) (JJ m) (CD 65) (NN field) (NN jacket))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBZ is)
+              (VP (VBN sold)
+                (PP (IN at)
+                  (NP (DT an) (JJ excellent) (NN price)))))))))
+    (. .)))
+

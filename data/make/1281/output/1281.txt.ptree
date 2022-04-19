@@ -1,0 +1,51 @@
+(ROOT
+  (S
+    (ADVP (RB so)
+      (PP (IN in)
+        (NP (JJ general) (NN practice))))
+    (, ,)
+    (INTJ (UH no))
+    (, ,)
+    (NP (FW i))
+    (VP (MD will) (RB not)
+      (VP (VB cut)
+        (PRT (RP off))
+        (NP (DT a) (NN branch)
+          (S
+            (VP (TO to)
+              (VP (VB get)
+                (PP (IN at)
+                  (NP
+                    (ADJP (RB currently) (JJ ripe))
+                    (NNS berries)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP
+      (ADVP (RB though))
+      (IN like)
+      (NP (NN rebekah)))
+    (, ,)
+    (NP (FW i))
+    (VP (MD may)
+      (ADVP (RB eventually))
+      (VP
+        (VP (VB lose)
+          (NP
+            (NP (DT all) (NN control))
+            (PP (IN of)
+              (NP (PRP myself)))))
+        (CC and)
+        (ADVP (RB momentarily))
+        (VP (VB cast)
+          (PRT (RP away))
+          (NP (PRP$ my) (JJR higher) (NNS ideals))
+          (S
+            (VP (TO to)
+              (VP (VB grab)
+                (NP (DT that)
+                  (ADJP (RBS most) (JJ elusive))
+                  (NN berry))))))))
+    (. .)))
+

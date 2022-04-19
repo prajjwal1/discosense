@@ -1,0 +1,50 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP it))
+      (ADVP (RB really))
+      (VP (VBZ seems)
+        (ADJP (JJ infrequent))
+        (SBAR (IN that)
+          (S
+            (NP (NNS things))
+            (VP (VBP like)
+              (NP (DT this) (NN pop))
+              (PRT (RP up)))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP they))
+      (VP (VBP do)
+        (VP (VB happen))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (JJ overall) (NN youll))
+      (VP (VBP have)
+        (NP (DT some)
+          (ADJP (RB extremely) (JJ enjoyable))
+          (VBG racing) (NN online))))
+    (, ,)
+    (CC but)
+    (S
+      (PP (IN like)
+        (NP (DT any) (NN game)))
+      (, ,)
+      (NP (PRP it))
+      (VP
+        (ADVP (RB really))
+        (VBZ depends)
+        (PP (IN on)
+          (NP (DT the) (NN group)))
+        (SBAR (IN that)
+          (S
+            (NP (PRP you))
+            (VP (VBP find)
+              (PP (TO to)
+                (NP (NN race)))
+              (PP (IN with)))))))
+    (. .)))
+

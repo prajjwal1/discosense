@@ -1,0 +1,47 @@
+(ROOT
+  (S
+    (ADVP (RB however))
+    (, ,)
+    (PP (IN at)
+      (ADJP (JJ present)))
+    (, ,)
+    (NP (JJ potable) (NN water))
+    (VP (VBZ is)
+      (VP (VBN sourced)
+        (PP (IN at)
+          (ADVP
+            (NP (CD 100) (NNS meters))
+            (IN above)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN on)
+      (NP (DT the) (NN contrary)))
+    (NP (DT this) (JJ finite) (NN resource))
+    (VP (VBZ has)
+      (VP (VBN been)
+        (VP
+          (ADVP (RB badly))
+          (VBN contaminated)
+          (PP (IN by)
+            (NP
+              (NP (NN infiltration))
+              (PP (IN of)
+                (NP (NN sewage)))))
+          (PP (IN in)
+            (NP
+              (NP (DT some) (JJ shallow) (NNS wells))
+              (PP (IN at)
+                (NP
+                  (NP (JJ barangays) (NN san) (NN jose) (NN patag))
+                  (, ,)
+                  (NP (NN catmon))
+                  (, ,)
+                  (NP (JJ pulong) (NN buhangin))
+                  (, ,)
+                  (NP (NN santa) (NN clara))
+                  (CC and)
+                  (NP (NN bagbaguin)))))))))
+    (. .)))
+

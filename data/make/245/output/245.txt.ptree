@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (NP (NN oil)
+      (CC and)
+      (NN gas) (NN output))
+    (ADVP (RB currently))
+    (VP (VBZ accounts)
+      (PP (IN for)
+        (NP
+          (NP (RB about) (CD two) (NN percent))
+          (PP (IN of)
+            (NP (DT the) (NN economy))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (PP (IN in)
+      (NP (NN contrast) (NNS services)))
+    (VP (VBP provide)
+      (NP
+        (NP (CD two) (NNS thirds))
+        (PP (IN of)
+          (NP (JJ gross) (JJ domestic) (NN product)))))
+    (SBAR (IN while)
+      (S
+        (NP (NN tourism))
+        (VP (VBZ accounts)
+          (PP (IN for)
+            (NP (CD five) (NN percent))))))
+    (. .)))
+

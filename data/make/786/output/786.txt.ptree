@@ -1,0 +1,65 @@
+(ROOT
+  (S
+    (PP (RB prior) (TO to)
+      (NP
+        (NP (PRP$ our) (NN arrival))
+        (PP (IN at)
+          (NP (PRP$ her) (NN childhood) (NN home)))))
+    (, ,)
+    (NP (PRP we))
+    (VP
+      (VP (VBD had)
+        (VP (VBN tried)
+          (NP (JJ several) (NNS times))
+          (S
+            (VP (TO to)
+              (VP (VB call)
+                (PP (IN in)
+                  (NP (NN advance))))))))
+      (, ,)
+      (CC but)
+      (VP (VBD ignored)
+        (NP (DT the) (NN fact))
+        (SBAR (IN that)
+          (S
+            (NP (EX there))
+            (VP (VBD was)
+              (NP (DT no) (NN answer)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nonetheless))
+    (NP (FW i))
+    (VP (VBP am)
+      (ADJP (JJ glad)
+        (SBAR
+          (S
+            (NP (PRP we))
+            (VP (VBD decided)
+              (S
+                (VP (TO to)
+                  (VP (VB make)
+                    (NP (DT the) (NN journey))
+                    (PP (TO to)
+                      (NP
+                        (NP
+                          (NP (DT the) (NN city))
+                          (PP (IN with)
+                            (NP (PRP$ its) (JJ picturesque) (NN carriage) (NNS rides))))
+                        (CC and)
+                        (NP
+                          (NP (VBG sloping) (NNS trees))
+                          (VP (VBN draped)
+                            (PP (IN with)
+                              (NP
+                                (NP (JJ spanish) (NNS moss))
+                                (SBAR
+                                  (WHNP (WDT that))
+                                  (S
+                                    (VP (VBP appear)
+                                      (ADVP (RB almost))
+                                      (PP (IN as)
+                                        (NP (NNS ornaments))))))))))))))))))))
+    (. .)))
+

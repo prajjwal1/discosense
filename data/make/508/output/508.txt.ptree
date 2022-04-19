@@ -1,0 +1,44 @@
+(ROOT
+  (S
+    (ADVP (RB thus))
+    (, ,)
+    (VP (VBG doing)
+      (NP (PRP them))
+      (ADVP (RB first)))
+    (VP (MD might)
+      (VP (VB make)
+        (S
+          (NP (PRP you))
+          (ADJP (RB too) (JJ fatigued))
+          (S
+            (VP (TO to)
+              (VP (VB finish)
+                (NP (PRP$ your) (NN workout))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN on)
+      (NP
+        (NP (DT the) (JJ other) (NN hand))
+        (SBAR (IN if)
+          (S
+            (NP (PRP you))
+            (VP (VBP wait)
+              (PP (IN until)
+                (NP
+                  (NP (DT the) (NN end))
+                  (PP (IN of)
+                    (NP (PRP$ your) (NNS workouts))))))))))
+    (, ,)
+    (NP (PRP you))
+    (VP (MD might)
+      (VP (VB be)
+        (ADJP (RB too) (JJ fatigued)
+          (S
+            (VP (TO to)
+              (VP (VB hit)
+                (NP (DT the) (NNS exercises))
+                (ADVP (RB properly))))))))
+    (. .)))
+

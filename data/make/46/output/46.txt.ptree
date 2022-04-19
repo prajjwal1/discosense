@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (NP (FW i))
+    (VP (VBD purchased)
+      (NP
+        (NP (CD one))
+        (PP (IN of)
+          (NP (DT these))))
+      (S
+        (VP (TO to)
+          (VP (VB replace)
+            (NP
+              (NP (PRP$ my) (JJ old) (NN jacket))
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (VP (VBD was)
+                    (VP (VBG showing)
+                      (NP
+                        (NP (NNS signs))
+                        (PP (IN of)
+                          (NP (NN wear)))))))))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (JJ overall))
+    (NP (PRP$ its)
+      (NP (DT a)
+        (ADJP (JJ nice))
+        (NN jacket)))
+    (. .)))
+

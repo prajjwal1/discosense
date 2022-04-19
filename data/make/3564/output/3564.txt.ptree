@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (ADVP (RB however))
+    (, ,)
+    (NP
+      (NP (DT the) (NN formation))
+      (PP (IN of)
+        (NP (DT a) (NN team)
+          (S
+            (VP (TO to)
+              (VP (VB complete)
+                (NP (JJ such) (NNS tasks))))))))
+    (VP (VBZ does) (RB not)
+      (VP (VB guarantee)
+        (NP (NN success))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB rather))
+    (NP
+      (NP (DT the) (JJ proper) (NN implementation))
+      (PP (IN of)
+        (NP (NNS teams))))
+    (VP (VBZ is)
+      (ADVP (RB positively))
+      (ADJP (VBN related)
+        (PP (TO to)
+          (NP
+            (NP (DT both) (NN member) (NN satisfaction))
+            (CC and)
+            (NP (VBN increased) (NN effectiveness))))))
+    (. .)))
+

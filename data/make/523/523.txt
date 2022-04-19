@@ -1,0 +1,1 @@
+in order to enumerate the column of a database table, it is possible to use a common error based technique. in short we can obtain the attributes name by analyzing error messages and repeating the query with different selectors.

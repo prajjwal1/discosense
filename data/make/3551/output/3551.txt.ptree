@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (NP (DT the) (CD 1988) (JJ catastrophic) (NN act))
+    (VP (VBD focused)
+      (PP (IN on)
+        (S
+          (VP (VBG providing)
+            (NP
+              (NP (NN protection))
+              (PP (IN against)
+                (NP (JJ catastrophic) (JJ medical) (NNS expenses))))
+            (PP (IN under)
+              (NP (NN medicare)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB specifically))
+    (NP (DT the) (NN act))
+    (VP (VBD expanded)
+      (NP (DT the) (JJ medicare) (NN program))
+      (S
+        (VP (TO to)
+          (VP (VB provide)
+            (NP (NN protection))
+            (PP
+              (PP (IN against)
+                (NP (JJ catastrophic) (JJ medical) (NNS expenses)))
+              (CC and)
+              (PP (IN for)
+                (NP
+                  (NP (DT the) (JJ first) (NN time))
+                  (, ,)
+                  (VP (VBN provided)
+                    (NP (NN coverage))
+                    (PP (IN under)
+                      (NP
+                        (NP (DT the) (JJ medicare) (NN program))
+                        (PP (IN for)
+                          (NP (NN prescription) (NNS drugs)))))))))))))
+    (. .)))
+

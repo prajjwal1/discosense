@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (NP (NNS detractors))
+    (VP (VBP complain)
+      (SBAR (IN that)
+        (S
+          (NP (DT the) (NNS games) (NN complexity))
+          (VP (VBZ lends)
+            (PP (TO to)
+              (NP
+                (NP (DT an)
+                  (ADJP (IN in))
+                  (NN game) (NN analysis) (NN time))
+                (SBAR
+                  (WHNP (WDT that))
+                  (S
+                    (VP (MD can)
+                      (ADVP (RB potentially))
+                      (VP (VB exceed)
+                        (NP
+                          (NP (NNS opponents) (NN span))
+                          (PP (IN of)
+                            (NP (NN interest))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN although)
+      (S
+        (NP (DT the) (JJ same))
+        (VP (MD can)
+          (VP (VB be)))))
+    (VP (VBD said)
+      (PP (IN for)
+        (NP
+          (NP (DT the) (NN game))
+          (PP (IN of)
+            (NP (NN chess))))))
+    (. .)))
+

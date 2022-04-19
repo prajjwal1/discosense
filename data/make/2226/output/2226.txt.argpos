@@ -1,0 +1,3 @@
+conn:as conn_POS:IN prev1:court prev1_POS:NN with_prev1_full:court_as with_prev1_POS_full:NN_IN prev2:district prev2_POS:NN with_prev2_full:district_as with_prev2_POS_full:NN_IN NA
+conn:in_fact conn_POS:IN_NN prev1:, prev1_POS:, with_prev1_full:,_in_fact with_prev1_POS_full:,_IN_NN prev2:were prev2_POS:VBD with_prev2_full:were_in_fact with_prev2_POS_full:VBD_IN_NN NA
+conn:therefore conn_POS:RB sent_pos:0 NA

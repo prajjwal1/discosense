@@ -1,0 +1,49 @@
+(ROOT
+  (S
+    (PP (VBG according)
+      (PP (TO to)
+        (NP
+          (NP (JJ vital) (NNS records))
+          (CC and)
+          (NP (PRP$ his) (NN headstone)))))
+    (, ,)
+    (NP (NN herman))
+    (VP (VBD was)
+      (VP (VBN born)
+        (NP (CD 22) (JJ february) (CD 1831))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN though)
+      (S
+        (NP
+          (NP (DT the) (NN place))
+          (PP (IN of)
+            (NP (NN birth))))
+        (VP (VBZ is)
+          (ADJP
+            (ADJP (RB somewhat) (JJR more))
+            (PP (IN of)
+              (NP
+                (NP (DT a) (NN mystery))
+                (PP (IN as)
+                  (NP (FW i)))))))))
+    (VP (VBP have)
+      (ADVP (RB only))
+      (VP (VBN been)
+        (ADJP (JJ able)
+          (S
+            (VP (TO to)
+              (VP (VB track)
+                (S
+                  (NP (PRP it))
+                  (VP (TO to)
+                    (VP (VB germany)
+                      (SBAR
+                        (WHNP (WDT which))
+                        (S
+                          (VP (MD could)
+                            (VP (VB mean))))))))))))))
+    (. .)))
+

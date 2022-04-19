@@ -1,0 +1,54 @@
+(ROOT
+  (S
+    (ADVP (RB however))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBD was)
+      (VP (VBN recognized)
+        (SBAR (IN that)
+          (S
+            (S
+              (VP (VBG planning)
+                (CC and)
+                (VBG implementing)
+                (NP (NN airport) (NN infrastructure) (NN development))))
+            (VP
+              (VP (VBZ has)
+                (NP (DT a) (JJ long) (NN lead) (NN time)))
+              (CC and)
+              (VP (VBZ has)
+                (VP (VBN become)
+                  (ADJP (RB increasingly) (JJ expensive))
+                  (PP (VBN given)
+                    (NP (DT the) (JJ additional) (JJ environmental) (NNS requirements))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB consequently))
+    (NP (EX there))
+    (VP (VBD was)
+      (NP
+        (NP (DT a) (NN call))
+        (PP (IN for)
+          (NP (NN icao) (NN guidance)))
+        (PP (IN on)
+          (NP (NN airport) (NN financing)))
+        (, ,)
+        (VP (VBN led)
+          (PP
+            (PP (IN by)
+              (NP (NN aci)))
+            (, ,)
+            (CC and)
+            (PP (IN for)
+              (NP
+                (NP (DT a)
+                  (ADJP (JJ cohesive)
+                    (CC and)
+                    (JJ consistent))
+                  (NN approach))
+                (PP (IN in)
+                  (NP (DT the) (JJ international) (JJ regulatory) (NN framework)))))))))
+    (. .)))
+

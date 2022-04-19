@@ -1,0 +1,71 @@
+(ROOT
+  (S
+    (PP (RB as) (IN for)
+      (NP (DT the) (NN roster)))
+    (, ,)
+    (NP (NN fletcher))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (DT this) (NN summer))
+          (VP (MD will)
+            (VP (VB be)
+              (ADJP (RB much) (JJ different))
+              (PP (IN from)
+                (NP (JJ last) (NN summer)))
+              (, ,)
+              (SBAR
+                (WHADVP (WRB when))
+                (S
+                  (NP (DT the) (JJ wild))
+                  (VP (VBD had)
+                    (S
+                      (NP
+                        (NP (JJ little) (NN cap) (NN space))
+                        (CC and)
+                        (NP
+                          (NP (DT a) (NN lot))
+                          (PP (IN of)
+                            (NP (NNS holes)))))
+                      (VP (TO to)
+                        (VP (VB fill))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB because)
+      (PP (IN of)
+        (SBAR (IN that)
+          (S
+            (NP (PRP they))
+            (VP (VBD let)
+              (SBAR
+                (S
+                  (NP
+                    (NP (VBN proven) (NNS players))
+                    (PP (IN like)
+                      (NP (JJ matt) (NN cullen))))
+                  (VP
+                    (VP (VBP go))
+                    (CC and)
+                    (VP (VBD relied)
+                      (PP (IN on)
+                        (NP (JJ young) (NNS players)))
+                      (S
+                        (VP (TO to)
+                          (VP (VB take)
+                            (NP (JJR larger) (NNS roles))))))))))))))
+    (, ,)
+    (NP (NN something) (NN fletcher))
+    (VP
+      (VP (VBD called))
+      (, ,)
+      (NP
+        (NP (DT a) (NN bit))
+        (PP (IN of)
+          (NP
+            (NP (DT a) (NN leap))
+            (PP (IN of)
+              (NP (NN faith)))))))
+    (. .)))
+

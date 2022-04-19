@@ -1,0 +1,36 @@
+(ROOT
+  (SQ (VBZ does)
+    (NP (DT the) (NN exhibition))
+    (ADVP (RB actually))
+    (VP (VB enable)
+      (S
+        (NP (NNS visitors))
+        (VP (TO to)
+          (VP (VB understand)
+            (NP
+              (NP (DT the) (NN nature))
+              (CC and)
+              (NP
+                (NP (VBG working) (NNS methods))
+                (PP (IN of)
+                  (NP (NNS archaeologists) (, ,) (NNS historians)
+                    (CC and)
+                    (NNS others)))
+                (VP (VBN involved)
+                  (PP (IN in)
+                    (NP
+                      (NP (NN research))
+                      (PP (IN on)
+                        (NP (DT the) (NNS scrolls))))))))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (PP (IN in)
+      (NP (NN sum)))
+    (VP (VBZ is))
+    (NP
+      (NP (DT the) (NN exhibition))
+      (ADJP (RB intellectually) (JJ honest)))
+    (. .)))
+

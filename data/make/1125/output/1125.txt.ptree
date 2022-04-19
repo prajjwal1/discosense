@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (NP
+      (NP
+        (QP (RB approximately) (CD 90))
+        (NN percent))
+      (PP (IN of)
+        (NP (DT the) (NNS vessels) (NN boarded))))
+    (VP (VBD had)
+      (NP
+        (NP (DT the) (JJ correct) (NNS publications))
+        (PP (IN for)
+          (NP (DT the) (NN area)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB likewise))
+    (NP (JJ coastguard) (NNS inspectors))
+    (VP (VBD found)
+      (SBAR
+        (S
+          (NP (DT the) (NNS vessels))
+          (VP (VBP watch)
+            (S
+              (VP (TO to)
+                (VP (VB be)
+                  (ADVP (RB adequately))
+                  (ADVP
+                    (NP
+                      (ADJP (JJ manned)
+                        (CC and)
+                        (JJ sufficient))
+                      (NNS personnel))
+                    (IN aboard))
+                  (S
+                    (VP (TO to)
+                      (VP
+                        (ADVP
+                          (ADVP (RB safely))
+                          (CC and)
+                          (ADVP (RB properly)))
+                        (VB operate)
+                        (NP (DT the) (NN vessel))))))))))))
+    (. .)))
+

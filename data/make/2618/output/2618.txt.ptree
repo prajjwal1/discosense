@@ -1,0 +1,45 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (S
+        (VP (VBG watching)
+          (NP (PRP$ my) (JJ video) (NN tape))
+          (PP (IN at)
+            (NP (NN dcw))))))
+    (, ,)
+    (NP (FW i))
+    (VP (VBD found)
+      (SBAR (IN that)
+        (S
+          (NP (PRP$ my) (NN face))
+          (VP (VBP wasnt)
+            (S
+              (VP
+                (ADVP (RB always))
+                (VBG communicating)
+                (SBAR
+                  (WHNP (WP what))
+                  (S
+                    (NP (PRP$ my) (NN heart))
+                    (VP (VBD intended))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ overall) (NNS i))
+    (VP (VBD found)
+      (SBAR (IN that)
+        (S
+          (NP (FW i))
+          (VP (VBD was)
+            (ADJP (RBR more) (JJ effective)
+              (PP (IN by)
+                (S
+                  (VP (VBG being)
+                    (UCP
+                      (ADJP (RBR more) (JJ expressive))
+                      (CC and)
+                      (PP (IN with)
+                        (NP (JJR bigger) (NNS gestures))))))))))))
+    (. .)))
+

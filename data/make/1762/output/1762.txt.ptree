@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (NP (NN robert) (NN heinlein))
+    (VP (VBD explained)
+      (SBAR
+        (WHADVP (WRB why))
+        (S
+          (NP (DT an) (JJ armed) (NN society))
+          (VP (VBZ is)
+            (NP
+              (NP (DT a) (JJ polite) (NN society))
+              (SBAR
+                (S
+                  (NP (PRP he))
+                  (VP (VBD wrote)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB overall))
+    (NP
+      (NP (DT some))
+      (PP (IN of)
+        (NP (DT the)
+          (ADJP (RBS most) (RB heavily) (JJ armed))
+          (NNS states))))
+    (VP (VBP have)
+      (NP
+        (NP
+          (ADJP (RB very) (JJ low))
+          (JJ violent) (NN crime) (NNS rates))
+        (CC and)
+        (NP (NN vice) (NNS versa))))
+    (. .)))
+

@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (INTJ (UH no))
+    (, ,)
+    (NP (PRP you))
+    (VP (VBP have)
+      (S
+        (VP (TO to)
+          (VP (VB build)
+            (NP (DT a) (NN house))
+            (PP (VBG according)
+              (PP (TO to)
+                (NP (DT that) (NN blueprint)
+                  (S
+                    (VP (TO to)
+                      (VP (VB have)
+                        (NP (NN something))
+                        (PP (TO to)
+                          (NP (NNP inhabit)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB similarly))
+    (NP (PRP you))
+    (VP (VBP have)
+      (S
+        (VP (TO to)
+          (VP (VB create)
+            (NP
+              (NP (DT an) (NN instance))
+              (PP (IN of)
+                (NP (DT the) (NN controller) (NN class))))
+            (SBAR (IN in) (NN order)
+              (S
+                (VP (TO to)
+                  (VP (VB use)
+                    (NP (PRP it))
+                    (PP (IN in)
+                      (NP (PRP$ your) (NN program)))))))))))
+    (. .)))
+

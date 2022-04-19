@@ -1,0 +1,53 @@
+(ROOT
+  (S
+    (S (CC and)
+      (NP (PRP he))
+      (VP (VBZ tries)))
+    (, ,)
+    (NP (PRP he))
+    (ADVP (RB really))
+    (VP (VBZ does) (, ,)
+      (S
+        (VP (TO to)
+          (VP (VB give)
+            (NP (NN ll))
+            (NP
+              (NP (DT the) (NN benefit))
+              (PP (IN of)
+                (NP (DT the) (NN doubt))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP
+        (NP (NN instance))
+        (PP (IN in)
+          (NP
+            (NP (DT this) (NN interview))
+            (PP (IN with)
+              (NP (DT the) (JJ daily) (NN beast)))))))
+    (, ,)
+    (NP
+      (NP (NN deen))
+      (, ,)
+      (NP (RB ever) (DT the) (NN gentleman))
+      (, ,))
+    (VP (VBZ attempts)
+      (S
+        (VP (TO to)
+          (VP (VB explain)
+            (SBAR
+              (WHADVP (WRB why))
+              (S
+                (NP (NNS people))
+                (VP (VBP get)
+                  (S
+                    (VP
+                      (ADVP (RB so))
+                      (VBG fucking)
+                      (VP (VBN frustrated)
+                        (PP (IN with)
+                          (NP (NNS linds)))))))))))))
+    (. .)))
+

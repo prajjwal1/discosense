@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (PP (IN as)
+      (NP (DT a) (NN result)))
+    (, ,)
+    (NP (NN bp))
+    (VP (VBD presented)
+      (NP (DT a) (JJ soft) (JJ public) (NNS relations) (NN target)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP interestingly) (NNP bp))
+    (VP (VBZ is)
+      (PP (IN in)
+        (NP (DT the) (JJ interesting) (NN position)))
+      (SBAR (IN that)
+        (S
+          (NP (EX there))
+          (VP (MD may)
+            (VP (VB be)
+              (NP
+                (NP (DT a) (JJ silver) (NN lining))
+                (PP (IN for)
+                  (NP
+                    (NP (DT the) (NN company))
+                    (PP (IN in)
+                      (NP (DT this) (NN tragedy)))))))))))
+    (. .)))
+

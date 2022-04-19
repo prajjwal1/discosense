@@ -1,0 +1,1 @@
+incorrectly predicted examples are selected more frequently than correctly predicted examples. thus boosting produces classifiers that are better in prediction that the current ensemble.

@@ -1,0 +1,70 @@
+(ROOT
+  (S
+    (NP (DT the) (NN court))
+    (VP (VBD determined)
+      (SBAR (IN that)
+        (S
+          (NP
+            (QP (CD 15) (TO to) (CD 20))
+            (NNS seconds))
+          (VP (VBD was) (RB not)
+            (NP
+              (NP (DT an)
+                (ADJP (JJ unreasonable))
+                (NN period))
+              (, ,)
+              (VP (VBN given)
+                (NP (DT the) (NN possibility))
+                (SBAR (IN that)
+                  (S
+                    (NP
+                      (NP (DT any) (NNS drugs))
+                      (PP (IN in)
+                        (NP (DT the) (NN apartment))))
+                    (VP (MD might)
+                      (VP (VB be)
+                        (VP (VBN destroyed)
+                          (SBAR (IN if)
+                            (S
+                              (NP (DT the) (NNS officers))
+                              (VP (VBD waited)
+                                (ADVP (RBR longer))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thereafter))
+    (NP (DT a) (NN jury))
+    (VP (VBD convicted)
+      (NP
+        (NP
+          (NP (NNS jones))
+          (PP (IN of)
+            (NP
+              (NP (NN possession))
+              (PP (IN of)
+                (NP
+                  (NP (NN crack) (NN cocaine))
+                  (PP (IN with)
+                    (NP (NN intent)))))))
+          (S
+            (VP (TO to)
+              (VP (VB distribute)))))
+        (, ,)
+        (NP
+          (NP (NN possession))
+          (PP (IN of)
+            (NP
+              (NP (DT a) (NN firearm))
+              (PP (IN by)
+                (NP (DT a) (VBN convicted) (NN felon))))))
+        (, ,)
+        (CC and)
+        (NP
+          (NP (NN possession))
+          (PP (IN of)
+            (NP (NN ammunition)))))
+      (PP (IN by)
+        (NP (DT a) (VBN convicted) (NN felon))))
+    (. .)))
+

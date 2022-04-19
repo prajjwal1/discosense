@@ -1,0 +1,71 @@
+(ROOT
+  (S
+    (S
+      (NP (JJ dynamic) (NNS contrasts))
+      (VP (VBP are)
+        (ADJP
+          (ADJP (JJ striking))
+          (CC and)
+          (ADJP (RB often) (JJ abrupt)))))
+    (, ,)
+    (NP
+      (NP (NNS sections))
+      (PP (IN of)
+        (NP
+          (NP (NN chamber))
+          (PP (IN like)
+            (NP (NN transparency))))))
+    (VP (VBP are)
+      (VP (VBN set)
+        (PP (IN against)
+          (NP
+            (NP (JJ powerful) (JJ orchestral) (NNS tutti))
+            (, ,)
+            (NP (JJ much) (NN chromaticism))
+            (, ,)
+            (NP (JJ wide) (JJ interval) (NNS leaps))
+            (CC and)
+            (NP (DT a) (NN joy))))
+        (PP (IN in)
+          (NP (NN counterpoint)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP
+        (NP
+          (NP (JJ short) (DT a))
+          (SBAR
+            (S
+              (VP (MD must)))))
+        (PP (IN for)
+          (NP
+            (NP (NN anyone))
+            (SBAR
+              (WHNP (WP who))
+              (S
+                (VP (VBZ enjoys)
+                  (NP (DT the) (VBG fermenting) (, ,) (VBN overheated) (JJ musical) (NN atmosphere)))))
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (VP (VBD produced)
+                  (NP
+                    (NP (NN berg))
+                    (, ,)
+                    (NP (DT the) (JJ early) (NN schoenberg))
+                    (, ,)
+                    (NP (NN schreker))
+                    (, ,)
+                    (NP (NN zemlinsky))
+                    (, ,)
+                    (NP (DT the) (JJ early) (NN hindemith))
+                    (CC and)
+                    (NP (NN krenekwell))))))))))
+    (, ,)
+    (NP (PRP you))
+    (VP (VBP get)
+      (NP (DT the) (NN idea)))
+    (. .)))
+

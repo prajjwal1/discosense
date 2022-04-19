@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (SBAR (IN though)
+      (S
+        (NP (PRP it))
+        (VP (VBZ is)
+          (ADVP (RB often))
+          (VP (VBN confused)
+            (PP (IN with)
+              (NP (NN waste)))))))
+    (, ,)
+    (NP (NN scrap))
+    (VP (VBZ has)
+      (NP
+        (NP (JJ significant) (JJ monetary) (NN value))
+        (PP (IN in)
+          (NP
+            (NP (NNS places))
+            (PP (IN like)
+              (NP (NN hollidaysburg)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB overall))
+    (NP (DT the) (NN scrap) (NN industry))
+    (VP (VBZ processes)
+      (NP
+        (NP (NNS tonnes))
+        (PP (IN of)
+          (NP (JJ recyclable) (NNS materials))))
+      (NP (DT every) (NN year)))
+    (. .)))
+

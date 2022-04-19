@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (NP
+      (NP (CD thirty) (NN percent))
+      (PP (IN of)
+        (NP (NN debate) (NNS watchers))))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP they))
+          (VP (VBD came)
+            (ADVP (RB away))
+            (PP (IN with)
+              (NP
+                (NP (DT a)
+                  (ADJP (RBR more) (JJ favorable))
+                  (NN image))
+                (PP (IN of)
+                  (NP (NN barack) (NN obama)))))
+            (, ,)
+            (SBAR (IN while)
+              (S
+                (NP (RB just) (CD 14) (NN percent))
+                (VP (VBD said)
+                  (SBAR
+                    (S
+                      (NP (PRP they))
+                      (VP (VBD had)
+                        (NP (DT a)
+                          (ADJP (RBR less) (JJ favorable))
+                          (NN image))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN on)
+      (NP (DT the) (JJ other) (NN hand)))
+    (NP (NN john) (NN mccain))
+    (VP (VBD did) (RB not)
+      (VP (VB fare)
+        (ADVP (RB as) (RB well))))
+    (. .)))
+

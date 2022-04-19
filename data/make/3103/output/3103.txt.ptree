@@ -1,0 +1,44 @@
+(ROOT
+  (S
+    (NP (NN sponsorship) (NN sponsorship))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (NN business) (NN deal))
+        (, ,)
+        (PP (JJ such) (IN as)
+          (SBAR
+            (WHADVP (WRB when))
+            (S
+              (NP (DT a) (NN company))
+              (VP
+                (VP (VBZ pays)
+                  (NP (NN money)))
+                (CC or)
+                (VP (VBZ gives)
+                  (NP (NNS goods)
+                    (CC or)
+                    (NNS services))
+                  (PRT (RP in))
+                  (NP
+                    (NP (NN exchange))
+                    (PP (IN for)
+                      (NP (NN advertising) (NN exposure)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (JJ other) (NNS words)))
+    (NP
+      (NP (DT the) (NN organization))
+      (VP (VBG receiving)
+        (S
+          (NP (DT the) (NN sponsorship))
+          (ADJP (JJ many)))))
+    (VP (MD must)
+      (VP (VB give)
+        (NP (NN something))
+        (PP (IN in)
+          (NP (NN return)))))
+    (. .)))
+

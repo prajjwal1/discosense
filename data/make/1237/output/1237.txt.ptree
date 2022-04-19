@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (INTJ (UH yes))
+    (, ,)
+    (NP (FW i))
+    (VP (VBD said)
+      (NP (PRP it))
+      (, ,)
+      (S
+        (NP
+          (NP (NN im) (NN feeling))
+          (PP (IN like)
+            (NP (NN im))))
+        (ADJP (JJ ready)
+          (PP (IN for)
+            (NP (NN spring)
+              (S
+                (VP (TO to)
+                  (VP (VB come)
+                    (ADVP (RB now))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (RB hence) (DT the) (RB blogs) (JJ new))
+    (VP (VBZ looks))
+    (. .)))
+

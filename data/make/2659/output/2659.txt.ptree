@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (S
+      (VP (VBG spending)
+        (NP (PRP$ our) (NN money)
+          (S
+            (VP (TO to)
+              (VP
+                (VP (VB look)
+                  (ADJP (JJ good)))
+                (CC and)
+                (VP (VB be)
+                  (ADJP (JJ healthy)))))))))
+    (VP (VBZ is) (RB not)
+      (ADJP (JJ questionable)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nonetheless))
+    (NP (EX there))
+    (VP (VBZ is)
+      (NP (DT a)
+        (ADJP (JJ new)
+          (CC and)
+          (JJ inexpensive))
+        (NN way)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (PP (IN in)
+                (NP
+                  (NP (PRP$ your) (JJ healthiest) (NN shape))
+                  (VP (VBG eating)
+                    (NP (JJ alkaline) (NNS foods))))))))))
+    (. .)))
+

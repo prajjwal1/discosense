@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (ADVP (RB nonetheless))
+    (, ,)
+    (NP (DT all) (NNS sightings))
+    (VP (VBP have)
+      (VP (VBN remained)
+        (NP (JJ inconclusive))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (VP (VBG interestingly)
+      (ADVP (RB just))
+      (PP (IN as)
+        (NP
+          (NP (JJ many) (NNS sightings))
+          (PP (IN of)
+            (NP
+              (ADJP (RB equally) (JJ good))
+              (NN quality))))))
+    (VP (VBP are)
+      (VP (VBN reported)
+        (PP (IN from)
+          (NP (JJ mainland) (NN australia)))))
+    (NP
+      (NP (RB perhaps) (DT a) (NN comment))
+      (PP (IN on)
+        (NP
+          (NP (DT the) (JJ poor) (NN evidence))
+          (SBAR (IN that)
+            (S
+              (NP (NNS sightings))
+              (ADVP (RB alone))
+              (VP (VBP represent)))))))
+    (. .)))
+

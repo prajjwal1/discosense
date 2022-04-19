@@ -1,0 +1,2 @@
+conn:as conn_POS:IN prev1:shakespeare prev1_POS:NN with_prev1_full:shakespeare_as with_prev1_POS_full:NN_IN prev2:from prev2_POS:IN with_prev2_full:from_as with_prev2_POS_full:IN_IN NA
+conn:but conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_but with_prev1_POS_full:,_CC prev2:plagiarism prev2_POS:NN with_prev2_full:plagiarism_but with_prev2_POS_full:NN_CC NA

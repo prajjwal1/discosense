@@ -1,0 +1,17 @@
+mark(born-5, if-1)
+nsubj(born-5, they-2)
+cop(born-5, are-3)
+amod(born-5, local-4)
+root(ROOT-0, born-5)
+amod(terms-9, long-7)
+nn(terms-9, jail-8)
+conj_or(born-5, terms-9)
+conj_or(born-5, death-11)
+prep_for(death-11, treason-13)
+
+advmod(deport-2, otherwise-1)
+root(ROOT-0, deport-2)
+det(family-5, the-3)
+amod(family-5, whole-4)
+dobj(deport-2, family-5)
+

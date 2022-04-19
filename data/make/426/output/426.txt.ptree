@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN option) (CD one)))
+    (, ,)
+    (NP (PRP you))
+    (VP (MD may)
+      (VP (VB get)
+        (PRT (RP away))
+        (PP (IN with)
+          (NP
+            (NP (DT the) (NN restore))
+            (PP (IN from)
+              (NP (DT a) (JJ permanent) (NN recovery)))))
+        (, ,)
+        (SBAR (IN since)
+          (S
+            (NP (PRP$ your) (NN stock) (NN boot) (NN image))
+            (VP (MD should)
+              (ADVP (RB still))
+              (VP (VB be)
+                (PP (IN in)
+                  (NP (NN place)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB otherwise))
+    (NP (NN youll))
+    (VP (VBP need)
+      (S
+        (VP (TO to)
+          (VP (VB make)
+            (S
+              (NP (NNS efforts))
+              (VP (TO to)
+                (VP (VB restore)
+                  (NP (DT the) (NN boot) (NN image))
+                  (ADVP (RB as) (RB well)))))))))
+    (. .)))
+

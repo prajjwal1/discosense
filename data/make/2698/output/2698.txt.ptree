@@ -1,0 +1,44 @@
+(ROOT
+  (S
+    (NP (NN im))
+    (VP (VBD left)
+      (S
+        (VP (VBG wondering)
+          (SBAR (IN if)
+            (S
+              (NP (DT these) (NNS responses))
+              (VP (VBP are)
+                (ADVP (RB yet))
+                (NP
+                  (NP (JJ further) (NN evidence))
+                  (PP (IN of)
+                    (NP
+                      (NP (DT a) (NNS disingenuousness))
+                      (PP (IN on)
+                        (NP
+                          (NP (DT the) (NN part))
+                          (PP (IN of)
+                            (NP (DT the) (NN republican) (NNS candidates))))))))))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (PP (IN in)
+      (NP (JJ short) (FW i)))
+    (VP (VBP think)
+      (NP
+        (NP (DT the) (NN blurring))
+        (PP (IN of)
+          (NP (JJ pro) (NN life)))))
+    (NP
+      (NP (FW vs.) (FW pro) (NN choice))
+      (SBAR
+        (S
+          (NP (NNS positions))
+          (VP (VBZ is)
+            (VP (VBG being)
+              (VP (VBN done)
+                (ADVP (RB intentionally))
+                (PP (IN by)
+                  (NP (NN gov.)))))))))))
+

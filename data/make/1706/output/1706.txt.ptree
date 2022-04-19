@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (NP (JJ recent) (NN work))
+    (VP (VBZ has)
+      (VP (VBN suggested)
+        (SBAR (IN that)
+          (S
+            (NP
+              (NP (DT a) (JJ large) (NN proportion))
+              (PP (IN of)
+                (NP (JJ daily) (NN ufp) (NN exposure))))
+            (VP (MD may)
+              (VP (VB occur)
+                (PP (IN during)
+                  (S
+                    (VP (VBG commuting))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB however))
+    (NP
+      (NP (DT the) (NNS determinants) (, ,) (NN variability)
+        (CC and)
+        (NN transport) (NN mode) (NN dependence))
+      (PP (IN of)
+        (NP (JJ such) (NN exposure))))
+    (VP (VBP are) (RB not)
+      (VP
+        (ADVP (RB well))
+        (VBN understood)))
+    (. .)))
+

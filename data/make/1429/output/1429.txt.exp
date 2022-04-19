@@ -1,0 +1,5 @@
+conn_lc:however conn:however conn_POS:RB xxx£
+conn_lc:since conn:since conn_POS:IN with_prev_full:,_since xxx£
+conn_lc:but conn:but conn_POS:CC xxx£
+conn_lc:then conn:then conn_POS:RB with_prev_full:but_then xxx£
+conn_lc:and conn:and conn_POS:CC with_prev_full:in_and xxx£

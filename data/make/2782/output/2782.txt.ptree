@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (NP (DT this) (NN threshold))
+    (VP (VBZ is)
+      (ADVP (RB elaborately))
+      (VP (VBN designed)
+        (SBAR (RB so) (IN that)
+          (S
+            (NP (DT a) (NN node))
+            (VP (MD can)
+              (ADVP (RB just))
+              (VP (VB be)
+                (VP (VBN elected)
+                  (ADVP (RB once))
+                  (PP (IN in)
+                    (NP (DT a) (JJ certain) (NN time) (NN interval))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (RB hence) (DT all) (NNS nodes))
+    (ADVP (RB nearly))
+    (VP (VBP take)
+      (SBAR
+        (S
+          (VP (VBZ turns)
+            (S
+              (VP (TO to)
+                (VP (VB serve)
+                  (PP (IN as)
+                    (NP
+                      (NP (NN ch))
+                      (, ,)
+                      (SBAR
+                        (WHNP (WDT which))
+                        (S
+                          (VP (VBZ achieves)
+                            (NP
+                              (NP (DT a) (JJ uniform) (NN distribution))
+                              (PP (IN of)
+                                (NP
+                                  (NP (NN energy) (NN consumption))
+                                  (PP (IN among)
+                                    (NP (DT all) (NNS sensors))))))))))))))))))
+    (. .)))
+

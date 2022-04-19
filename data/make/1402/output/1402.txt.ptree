@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (JJ such) (NNS wells))
+        (, ,)
+        (PP (IN of)
+          (NP (NN course)))
+        (, ,))
+      (VP (VBP require)
+        (NP (JJR more) (NNS rigs))))
+    (, ,)
+    (NP
+      (NP (NN labour) (, ,) (NN infrastructure)
+        (CC and)
+        (JJ other) (NNS inputs))
+      (PP (IN per)
+        (NP
+          (NP (NN barrel))
+          (PP (IN of)
+            (NP (NN oil))))))
+    (VP (VBD produced))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP
+        (NP (JJ other) (NNS words))
+        (PP (IN in)
+          (NP
+            (NP (DT the) (NN face))
+            (PP (IN of)
+              (NP (VBG rising) (NN medium) (NN term) (NN demand)))))))
+    (, ,)
+    (NP (NN crude))
+    (VP (VBZ is)
+      (VP (VBG becoming)
+        (ADJP (RBR more) (JJ difficult)
+          (CC and)
+          (JJ costly))
+        (S
+          (VP (TO to)
+            (VP (VB extract))))))
+    (. .)))
+

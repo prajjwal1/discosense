@@ -1,0 +1,52 @@
+(ROOT
+  (S
+    (NP (NN nokia))
+    (VP (VBD shipped)
+      (NP
+        (QP (CD 19.6) (CD million))
+        (NNS smartphones))
+      (PP (IN in)
+        (NP (DT the) (JJ fourth) (NN quarter)))
+      (, ,)
+      (ADVP
+        (ADVP (RB down)
+          (PP (IN by)
+            (NP
+              (NP (CD 31) (NN %))
+              (PP (IN from)
+                (NP
+                  (NP (DT the) (JJ same) (NN quarter))
+                  (PP (IN in)
+                    (NP (CD 2010))))))))
+        (, ,)
+        (CC but)
+        (ADVP (RB up)
+          (NP (CD 17) (NN %))
+          (PP (IN from)
+            (NP (DT the) (JJ previous) (NN quarter))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ overall) (NN nokia))
+    (VP (VBD shipped)
+      (NP
+        (QP (CD 77.3) (CD million))
+        (NNS smartphones))
+      (PP (IN in)
+        (NP (CD 2011)))
+      (, ,)
+      (PP (VBG including)
+        (NP
+          (NP
+            (QP (CD 1.2) (CD million))
+            (NNS windows))
+          (NP
+            (NP (NN phone) (NNS devices))
+            (PP (IN in)
+              (NP
+                (NP (DT the) (JJ last) (NN quarter))
+                (PP (IN of)
+                  (NP (DT the) (NN year)))))))))
+    (. .)))
+

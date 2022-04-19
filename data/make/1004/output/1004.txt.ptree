@@ -1,0 +1,55 @@
+(ROOT
+  (S
+    (ADVP (RB thereby))
+    (, ,)
+    (NP (DT a) (NN search) (NN operation) (NN period))
+    (VP (MD can)
+      (VP (VB be)
+        (VP (VBN set)
+          (ADVP (RB properly))
+          (PP (IN in)
+            (NP
+              (NP (DT the) (NN state))
+              (PP (IN of)
+                (NP
+                  (NP (DT an) (JJ efficient) (NN transmission))
+                  (VP (VBG being)
+                    (VP (VBN accomplished)
+                      (PP (IN with)
+                        (NP (NN multicarrier) (NNS signals))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thereby))
+    (S
+      (NP
+        (NP (DT the) (NN communication) (NN capacity))
+        (PP (IN for)
+          (NP (DT each) (NN terminal))))
+      (VP (MD can)
+        (VP (VB be)
+          (VP (VBN set)
+            (ADVP (RB properly))
+            (PP (VBG depending)
+              (PP (IN on)
+                (NP
+                  (NP (DT the) (NN location))
+                  (PP (IN of)
+                    (NP (DT the) (NN terminal))))))))))
+    (CC and)
+    (S
+      (ADVP (RB therefore))
+      (, ,)
+      (NP (DT a) (JJ desirable) (NN communication))
+      (VP (MD can)
+        (VP (VB be)
+          (VP (VBN accomplished)
+            (SBAR
+              (WHADVP (WRB wherever))
+              (S
+                (NP (PRP it))
+                (VP (VBZ is)
+                  (VP (VBN performed)))))))))
+    (. .)))
+

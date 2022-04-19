@@ -1,0 +1,61 @@
+(ROOT
+  (S
+    (NP
+      (NP (CD two))
+      (, ,)
+      (NP (DT the) (NN valve)))
+    (VP (VBZ begins)
+      (S
+        (VP (TO to)
+          (VP (VB move)
+            (PRT (RP around))
+            (PP (IN on)
+              (NP (DT the) (NN seat))))))
+      (, ,)
+      (S
+        (VP
+          (VP (VBG compromising)
+            (NP (PRP$ its) (NN ability)
+              (S
+                (VP (TO to)
+                  (VP (VB seal))))))
+          (CC and)
+          (VP (VBG directing)
+            (NP (JJ fiery) (JJ hot) (NN combustion) (NNS gasses))
+            (PP (IN at)
+              (NP
+                (NP (DT the) (NN stem)
+                  (CC and)
+                  (NN bottom) (NN side))
+                (PP (IN of)
+                  (NP (DT the) (NN valve) (NN guide)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB likewise))
+    (NP
+      (NP (DT a) (NN valve))
+      (VP (VBG making)
+        (NP (JJ poor) (NN contact))
+        (PP (IN with)
+          (NP (DT the) (NN seat)))))
+    (VP (MD will)
+      (VP (VB have)
+        (S
+          (NP (PRP$ its) (NN heat) (NN transfer) (NN path))
+          (VP
+            (VP (VBN compromised) (, ,)
+              (S
+                (VP (VBG raising)
+                  (NP
+                    (NP (DT the) (NN temperature))
+                    (PP (IN of)
+                      (NP
+                        (NP (DT the) (NN valve))
+                        (CC and)
+                        (NP (VBG accelerating) (NN guide))))))))
+            (CC and)
+            (VP (NN valve) (NN wear))))))
+    (. .)))
+

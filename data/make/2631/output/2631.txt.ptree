@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (ADVP (RB subsequently))
+    (, ,)
+    (S
+      (NP (DT the) (NN resolution))
+      (VP (VBD was)
+        (ADJP (JJ cancelled))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (NN p))
+      (VP (VBD was) (RB not)
+        (VP (VBN appointed)
+          (NP (DT no) (JJ other) (NN intimation)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB subsequently))
+      (NP (DT the) (NN resolution))
+      (VP (VBD was)
+        (ADJP (JJ cancelled))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (NN p))
+      (VP (VBD was) (RB not)
+        (VP (VBN appointed)
+          (PP (TO to)
+            (NP (DT the) (NN post))))))
+    (. .)))
+

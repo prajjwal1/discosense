@@ -1,0 +1,55 @@
+(ROOT
+  (S
+    (ADVP (RB however))
+    (, ,)
+    (NP
+      (NP (DT a) (JJ literal) (NN interpretation))
+      (PP (IN of)
+        (NP (JJ tamper) (NN proof))))
+    (VP (VBD was)
+      (VP (VBN considered)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (ADJP (RB too) (JJ stringent))
+              (, ,)
+              (SBAR (IN since)
+                (S
+                  (NP (EX there))
+                  (VP (MD would)
+                    (ADVP (RB always))
+                    (VP (VB be)
+                      (NP (DT some)
+                        (ADJP (JJ conceivable) (, ,) (IN albeit) (JJ unreasonable) (, ,))
+                        (NN method)
+                        (S
+                          (VP (TO to)
+                            (VP (VB overcome)
+                              (NP (JJ tamper) (NN proof) (NNS features)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (ADVP (RB nonetheless))
+      (WHADVP (WRB where))
+      (S
+        (NP (JJ tamper) (NN resistance))
+        (VP (VBZ is)
+          (NP
+            (NP (DT the) (JJ sole) (NN method))
+            (PP (IN of)
+              (S
+                (VP (VBG providing)
+                  (NP (NN security)))))))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ is)
+      (VP (VBN intended)
+        (SBAR (IN that)
+          (S
+            (NP (DT the) (NNS features))
+            (VP (VB be)
+              (ADJP (RB very) (JJ robust)))))))
+    (. .)))
+

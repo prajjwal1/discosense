@@ -1,0 +1,20 @@
+(ROOT
+  (S
+    (NP (NN lindsay))
+    (VP (VBZ tries)
+      (S
+        (VP (TO to)
+          (VP (VB suprise)
+            (ADVP (RB danny))
+            (PP (IN with)
+              (NP (NN dinner)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB however))
+    (NP (PRP she))
+    (VP (VBZ cant)
+      (NP (NN cook)))
+    (. .)))
+

@@ -1,0 +1,49 @@
+(ROOT
+  (S
+    (NP (PRP we))
+    (VP (VBP need)
+      (S
+        (VP (TO to)
+          (VP (VB be)
+            (ADJP (JJ mindful)
+              (PP (IN of)
+                (NP
+                  (NP (DT the) (NN history))
+                  (PP (IN of)
+                    (NP
+                      (NP (DT the) (NN genre))
+                      (SBAR
+                        (S
+                          (NP (PRP we))
+                          (VP (VBP write)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP (NN example) (NN im)))
+    (S
+      (VP (VBG watching)
+        (NP
+          (NP (NN fear))
+          (PP (IN of)
+            (NP (DT the) (NN walking) (NN dead))))
+        (PP (IN because)
+          (NP (FW i)))))
+    (VP
+      (VP (VBP love)
+        (NP (NNS zombies)))
+      (CC and)
+      (VP (MD will)
+        (VP (VB watch)
+          (NP (NN anything))
+          (PP (IN with)
+            (NP (RB even) (DT the) (JJ slight) (NN possibility)))
+          (SBAR (IN that)
+            (S
+              (NP (DT a) (NN zombie))
+              (VP (MD might)
+                (VP (VB show)
+                  (PRT (RP up)))))))))
+    (. .)))
+

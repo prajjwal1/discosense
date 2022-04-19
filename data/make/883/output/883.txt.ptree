@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (NP (NNS blackbucks))
+    (VP (VBP have)
+      (NP (DT a) (NN tendency)
+        (S
+          (VP (TO to)
+            (VP (VB raid)
+              (NP
+                (NP (NNS crops))
+                (, ,)
+                (NP (JJ paticularly) (NN sorghum))
+                (CC and)
+                (NP (NN millet))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN as)
+      (NP (DT a) (NN result)))
+    (NP (NNS farmers))
+    (VP (VBP lose)
+      (NP (NNS crops)
+        (CC and)
+        (NN money)))
+    (. .)))
+

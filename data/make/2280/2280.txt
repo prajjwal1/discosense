@@ -1,0 +1,1 @@
+im working on a mail merge doc and need several rows of data to merge as well as the corresponding columns. for example each customer has 8 rows of data but excel thinks each row is a different customer.

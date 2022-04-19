@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (NP
+      (NP (RB yes))
+      (, ,)
+      (VP (VBN based)
+        (PP (IN on)
+          (NP (DT the) (NN sam) (NNS tables) (NNS guidelines))))
+      (, ,))
+    (ADVP (RB well))
+    (VP (VBP base)
+      (NP (PRP$ our) (NN selling) (NN decision))
+      (PP (IN on)
+        (NP (DT the) (NN target) (NN price))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN though)
+      (FRAG
+        (ADVP (RB historically))))
+    (, ,)
+    (NP (FW i))
+    (VP (MD would)
+      (VP (VB wait)
+        (SBAR (IN until)
+          (S
+            (NP (NN trc))
+            (VP (VBZ sends)
+              (PRT (RP out))
+              (NP (DT a) (JJ sell) (NNS alerts)))))))
+    (. .)))
+

@@ -1,0 +1,1 @@
+conn:when conn_POS:WRB prev1:soul prev1_POS:NN with_prev1_full:soul_when with_prev1_POS_full:NN_WRB prev2:your prev2_POS:PRP$ with_prev2_full:your_when with_prev2_POS_full:PRP$_WRB NA

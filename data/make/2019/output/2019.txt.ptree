@@ -1,0 +1,38 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (DT the) (JJ wild)))
+    (, ,)
+    (NP
+      (NP (NNS leaves))
+      (CC and)
+      (NP (JJ high) (NN fiber) (NNS fruits)
+        (CC and)
+        (NNS nuts)))
+    (VP (VBP form)
+      (NP
+        (NP (DT a) (JJ major) (NN part))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (NN diet))
+            (PP (IN of)
+              (NP (JJS most) (NNS colobines)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB therefore))
+      (NP (JJ natural) (NNS diets))
+      (VP (VBP are)
+        (ADJP (JJ high)
+          (PP (IN in)
+            (NP (NN fiber))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (NNS animals))
+      (VP (VBP spend)
+        (NP (JJ much) (NN time) (NN foraging))))
+    (. .)))
+

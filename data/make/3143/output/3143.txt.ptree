@@ -1,0 +1,50 @@
+(ROOT
+  (S
+    (ADVP (RB however))
+    (, ,)
+    (NP (DT the)
+      (ADJP (JJ chunkier)
+        (CC but)
+        (JJR cheaper))
+      (NN eee) (NN pc) (CD 1000) (NN h))
+    (VP (VBZ features)
+      (NP
+        (NP (DT a)
+          (ADJP (JJR longer))
+          (JJ lasting) (CD six) (NN cell) (NN battery))
+        (CC and)
+        (NP (DT a)
+          (ADJP (RB much) (JJR larger))
+          (ADJP
+            (NP (CD 160) (NNS gb))
+            (JJ hard))
+          (NN drive))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB similarly))
+      (NP (PRP$ our) (NN category) (NN favorite)))
+    (, ,)
+    (NP (DT the) (NN msi) (NN wind))
+    (ADVP (RB also))
+    (VP (VBZ sports)
+      (NP
+        (NP
+          (NP (DT a)
+            (ADJP (RB better)
+              (NP (CD six)))
+            (NN cell) (NN battery))
+          (CC and)
+          (NP (DT a)
+            (ADJP (JJR larger) (JJ hard))
+            (NN drive)))
+        (, ,)
+        (CC plus)
+        (NP
+          (NP (DT a) (JJR better) (NN keyboard))
+          (PP (IN than)
+            (NP (DT either) (NN eee) (NN pc))))))
+    (. .)))
+

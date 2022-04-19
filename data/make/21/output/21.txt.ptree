@@ -1,0 +1,61 @@
+(ROOT
+  (S
+    (S
+      (NP (DT the) (JJ jackass) (NNS movies))
+      (VP (VBP have)
+        (VP
+          (ADVP (RB typically))
+          (VBN played)
+          (UCP
+            (ADJP (JJ young))
+            (CC and)
+            (ADVP (RB proudly))
+            (ADJP (JJ dumb))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (DT this) (NN one))
+      (VP (VBD attracted)
+        (NP
+          (NP (DT an) (NN audience))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBD was)
+                (NP
+                  (NP (CD 63) (NN percent))
+                  (PP (IN over)
+                    (NP
+                      (NP (DT the) (NN age))
+                      (PP (IN of)
+                        (NP
+                          (NP (CD 25))
+                          (CC and)
+                          (NP (CD 44) (NN percent) (NN female)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN by)
+      (NP
+        (NP (NN contrast) (NNS jackass))
+        (NP (CD 3))))
+    (NP (SYM d))
+    (VP (VBD drew)
+      (NP
+        (NP (DT a) (JJ first) (NN weekend) (NN crowd))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBD was)
+              (NP
+                (NP
+                  (NP (CD 67) (NN percent))
+                  (PP (IN under)
+                    (NP (CD 25))))
+                (CC and)
+                (NP
+                  (QP (RB just) (CD 39))
+                  (NN percent) (NNS women))))))))
+    (. .)))
+

@@ -1,0 +1,40 @@
+(ROOT
+  (SINV
+    (S
+      (S
+        (NP (DT the) (NN election))
+        (VP (VBD was)
+          (VP (VBN held))))
+      (CC and)
+      (S
+        (NP (DT the) (NNS results))
+        (VP (VBD were)
+          (NP (NN kent) (NN holsinger) (CD 216)))))
+    (, ,)
+    (VP (VBD richard)
+      (S
+        (ADJP (JJ olmstead))))
+    (NP (CD 169) (JJ david) (NN spooner) (CD 384))
+    (, ,)
+    (S
+      (VP (VB write)
+        (PP (IN in)
+          (NP (CD 1)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB thus))
+      (NP (NN kent) (NN holsinger))
+      (VP (MD will)
+        (VP (VB become)
+          (NP (NN president) (NNS elect)))))
+    (CC and)
+    (S
+      (NP (JJ david) (NN spooner))
+      (VP (MD will)
+        (VP (VB become)
+          (NP (NN program) (NN director)))))
+    (. .)))
+

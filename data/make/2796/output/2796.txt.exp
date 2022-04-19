@@ -1,0 +1,2 @@
+conn_lc:if conn:if conn_POS:IN with_prev_full:think_if xxx£
+conn_lc:for_example conn:for_example conn_POS:IN_NN xxx£

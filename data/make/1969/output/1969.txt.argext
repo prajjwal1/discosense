@@ -1,0 +1,13 @@
+conn:while conn_lc:while conn_cat:Subordinator conn_to_node:IN->SBAR->VP->S conn_node_lsib_size=0 conn_node_rsib_size=1 conn_to_node_relpos:0 0:2
+conn:while conn_lc:while conn_cat:Subordinator conn_to_node:IN->SBAR->VP->S<-PP conn_node_lsib_size=0 conn_node_rsib_size=1 conn_to_node_relpos:-1 0:3
+conn:while conn_lc:while conn_cat:Subordinator conn_to_node:IN->SBAR->VP->S<-PP<-NP conn_node_lsib_size=0 conn_node_rsib_size=1 conn_to_node_relpos:-1 0:6
+conn:while conn_lc:while conn_cat:Subordinator conn_to_node:IN->SBAR->VP->S<-PP conn_node_lsib_size=0 conn_node_rsib_size=1 conn_to_node_relpos:-1 0:11
+conn:while conn_lc:while conn_cat:Subordinator conn_to_node:IN->SBAR->VP->S<-PP<-NP conn_node_lsib_size=0 conn_node_rsib_size=1 conn_to_node_relpos:-1 0:14
+conn:while conn_lc:while conn_cat:Subordinator conn_to_node:IN->SBAR->VP->S<-NP conn_node_lsib_size=0 conn_node_rsib_size=1 conn_to_node_relpos:-1 0:21
+conn:while conn_lc:while conn_cat:Subordinator conn_to_node:IN->SBAR->VP conn_node_lsib_size=0 conn_node_rsib_size=1 conn_to_node_relpos:0 0:28
+conn:while conn_lc:while conn_cat:Subordinator conn_to_node:IN->SBAR->VP<-NP conn_node_lsib_size=0 conn_node_rsib_size=1 conn_to_node_relpos:-1 0:31
+conn:while conn_lc:while conn_cat:Subordinator conn_to_node:IN->SBAR conn_node_lsib_size=0 conn_node_rsib_size=1 conn_to_node_relpos:0 0:38
+conn:while conn_lc:while conn_cat:Subordinator conn_to_node:IN->SBAR<-S conn_node_lsib_size=0 conn_node_rsib_size=1 conn_to_node_relpos:1 0:41
+conn:while conn_lc:while conn_cat:Subordinator conn_to_node:IN->SBAR<-S<-NP conn_node_lsib_size=0 conn_node_rsib_size=1 conn_to_node_relpos:1 0:42
+conn:while conn_lc:while conn_cat:Subordinator conn_to_node:IN->SBAR<-S<-VP conn_node_lsib_size=0 conn_node_rsib_size=1 conn_to_node_relpos:1 0:49
+conn:while conn_lc:while conn_cat:Subordinator conn_to_node:IN->SBAR<-S<-VP<-NP conn_node_lsib_size=0 conn_node_rsib_size=1 conn_to_node_relpos:1 0:52

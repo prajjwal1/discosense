@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (ADVP (RB thus))
+    (PRN (, ,)
+      (SINV
+        (VP (VBD stated)
+          (NP (JJR earlier) (NN order))
+          (PP (IN after)
+            (S
+              (VP (VBG describing)
+                (NP (NNS doles))))))
+        (NP (CD four) (JJ general) (NNS restrictions))))
+    (NP (DT the) (NNS plaintiffs))
+    (RB not)
+    (VP (VBP appear)
+      (NP (NN dispute))
+      (SBAR (IN that)
+        (S
+          (NP (DT the) (NN act))
+          (VP (VBZ meets)
+            (NP (DT these) (NNS restrictions))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB rather))
+    (NP (PRP$ their) (NN claim))
+    (VP (VBD based)
+      (ADVP (RB principally)))
+    (. .)))
+

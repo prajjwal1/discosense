@@ -1,0 +1,3 @@
+Explicit|||41..43||so||0|so|||Contingency.Cause|||||||||||0..39|0|i try to do 6 days of workouts per week||||||||44..79|0|by default, one has to be a weekend|||||||||||||
+Explicit|||149..151||so||1|so|||Contingency.Cause|||||||||||81..148|1|though if i know i have a busy week ahead, ill do both weekend days||||||||152..176|1|i can take a weekday off|||||||||||||
+Explicit|||88..90||if||1|if|||Contingency.Condition|||||||||||81..87;128..176|1|though do both weekend days so i can take a weekday off||||||||91..127|1|i know i have a busy week ahead, ill|||||||||||||

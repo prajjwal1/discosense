@@ -1,0 +1,18 @@
+det(sophomore-3, a-2)
+prep_as(endured-6, sophomore-3)
+nsubj(endured-6, he-5)
+root(ROOT-0, endured-6)
+det(injury-8, an-7)
+dobj(endured-6, injury-8)
+vmod(injury-8, plagued-9)
+dobj(plagued-9, season-10)
+
+advmod(expected-5, nonetheless-1)
+amod(things-3, big-2)
+nsubjpass(expected-5, things-3)
+auxpass(expected-5, were-4)
+root(ROOT-0, expected-5)
+prep_of(expected-5, him-7)
+det(junior-10, a-9)
+prep_as(expected-5, junior-10)
+

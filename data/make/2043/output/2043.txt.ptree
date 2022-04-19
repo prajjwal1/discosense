@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (JJ first))
+      (PP (IN of)
+        (NP
+          (NP (DT the) (CD two) (NNS carloads))
+          (PP (IN of)
+            (NP (NN liquor))))))
+    (ADVP (RB actually))
+    (VP (VBD arrived)
+      (PP (IN on)
+        (NP (NN december) (CD 17))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP
+      (ADVP (RB similarly))
+      (IN on)
+      (NP
+        (NP (DT the)
+          (ADJP (JJ 3rd)
+            (CC or)
+            (JJ 4th)))
+        (PP (IN of)
+          (NP (NN december)))))
+    (, ,)
+    (NP (NN blumenthal))
+    (VP (VBD told)
+      (NP (NN tavernkeeper) (NN fingerhut))
+      (SBAR (IN that)
+        (S
+          (NP (DT the) (NN whiskey))
+          (VP (MD would)
+            (VP (VB arrive)
+              (PP (IN in)
+                (NP
+                  (NP (DT the) (JJ latter) (NN part))
+                  (PP (IN of)
+                    (NP (DT the) (NN month))))))))))
+    (. .)))
+

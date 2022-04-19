@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (PP (IN from)
+      (NP (DT this) (NN funding)))
+    (, ,)
+    (NP (NNS retirees))
+    (VP (VBP get)
+      (NP (DT the) (JJ promised) (NN coverage)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nonetheless))
+    (NP
+      (NP (JJ many))
+      (PP (IN of)
+        (NP (JJ todays) (JJ congressional) (NNS republicans))))
+    (VP (VBP have)
+      (VP (VBN demonstrated)
+        (NP (DT a) (JJ philosophical) (NN opposition))
+        (PP (TO to)
+          (NP
+            (NP (NN government) (NN safety) (NNS nets))
+            (, ,)
+            (PP (JJ such) (IN as)
+              (NP (NN medicare)))))))
+    (. .)))
+

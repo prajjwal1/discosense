@@ -1,0 +1,1 @@
+in the spirit of the google glass developer community, smith made the installation code for the analytics and adsense app freely available on github. although at this point, it will likely take a fellow developer to make proper use of the available code resources.

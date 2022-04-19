@@ -1,0 +1,2 @@
+conn:though conn_POS:IN sent_pos:0 NA
+conn:though conn_POS:RB prev1:roadking prev1_POS:NN with_prev1_full:roadking_though with_prev1_POS_full:NN_RB prev2:the prev2_POS:DT with_prev2_full:the_though with_prev2_POS_full:DT_RB NA

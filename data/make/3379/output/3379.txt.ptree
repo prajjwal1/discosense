@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (PP (IN for)
+      (NP (NN example)))
+    (, ,)
+    (NP (DT the) (NN round) (NN trip) (NN signal) (NN delay))
+    (VP (MD may)
+      (VP (VB be)
+        (VP (VBN normalized) (, ,)
+          (S
+            (VP (VBG yielding)
+              (NP
+                (NP (DT an) (NN estimate))
+                (PP (IN of)
+                  (NP (NN distance))))
+              (PP (IN by)
+                (NP
+                  (NP (DT a) (NN time))
+                  (PP (IN of)
+                    (NP (NN arrival) (NN technique))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB likewise))
+    (NP
+      (NP (DT any) (NN doppler) (NN shift))
+      (PP (IN in)
+        (NP (DT the) (NN signal))))
+    (VP (MD may)
+      (VP (VB be)
+        (VP (VBN determined)
+          (CC and)
+          (VBN compensated) (, ,)
+          (S
+            (VP (VBG allowing)
+              (NP
+                (NP (DT an) (NN indication))
+                (PP (IN of)
+                  (NP (JJ relative) (NN speed)))))))))
+    (. .)))
+

@@ -1,0 +1,1 @@
+conn:before conn_POS:IN prev1:documents prev1_POS:NNS with_prev1_full:documents_before with_prev1_POS_full:NNS_IN prev2:foreclosure prev2_POS:NN with_prev2_full:foreclosure_before with_prev2_POS_full:NN_IN NA

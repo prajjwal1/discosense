@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (SBAR (IN as)
+      (S
+        (NP (DT the) (NN music))
+        (VP (VBD blared)
+          (PP (IN in)
+            (NP (PRP$ their) (NN weight) (NN room)))
+          (NP (NN yesterday)))))
+    (NP (NN morning))
+    (, ,)
+    (NP (DT the) (NNS cardinals))
+    (VP
+      (VP (VBD showed)
+        (SBAR (IN that)
+          (S
+            (NP (PRP they))
+            (VP (MD could)
+              (VP (VB block)
+                (PRT (RP out))
+                (NP (DT every) (NN distraction)))))))
+      (CC and)
+      (VP (MD can)
+        (VP (VB be)
+          (NP (DT a) (JJ focused) (NN team))
+          (ADVP (RB too)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (JJ conversely) (NN reillys) (NN defense) (NN isnt))
+      (CONJP (RB just) (RB well))
+      (VP (VBD conceived)))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ is)
+      (ADJP (JJ physical)))
+    (. .)))
+

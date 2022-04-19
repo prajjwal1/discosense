@@ -1,0 +1,65 @@
+(ROOT
+  (S
+    (NP (PRP it))
+    (VP (VBD seemed)
+      (SBAR (IN that)
+        (S
+          (S
+            (VP (VBG being)
+              (NP
+                (NP (DT a) (JJ foreign) (NN woman))
+                (PP
+                  (ADVP (RB alone))
+                  (IN in)
+                  (NP
+                    (NP (NN jamaica))
+                    (, ,)
+                    (CC and)
+                    (NP
+                      (NP (DT the) (NN caribbean))
+                      (ADVP (RBR more) (RB broadly)))
+                    (, ,))))))
+          (VP (VBD was)
+            (ADVP (RB somehow))
+            (ADJP (JJ dangerous)
+              (CC and)
+              (JJ problematic))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB subsequently))
+    (NP
+      (NP (DT these) (NN well))
+      (VP (VBG meaning)
+        (NP
+          (NP (NN american) (NNS tourists))
+          (, ,)
+          (NP (NN business) (NNS travelers))
+          (, ,)
+          (NP (JJ african) (JJ diasporic) (NNS researchers))
+          (, ,)
+          (CC and)
+          (NP
+            (NP (NN jamaican) (NNS residents))
+            (VP
+              (VP (VBN called))
+              (, ,)
+              (VP (VBN emailed))
+              (, ,)
+              (CC and)
+              (VP (VBN whispered)
+                (NP (NNS strategies))
+                (S
+                  (VP (TO to)
+                    (VP (VB help)
+                      (S
+                        (NP (PRP me))
+                        (VP (VB deal)
+                          (PP (IN with)
+                            (NP (DT the) (FW obstacles) (FW i))))))))))))))
+    (VP (MD would)
+      (ADVP (RB undoubtedly))
+      (VP (VB face)))
+    (. .)))
+

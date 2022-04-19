@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP$ her) (JJ youtube) (NNS accounts))
+      (VP (VBD were)
+        (VP (VBN removed))))
+    (CC and)
+    (S
+      (NP (PRP$ her) (JJ official) (NNS ministries) (NN site))
+      (VP (VBD was)
+        (VP (VBN taken)
+          (PRT (RP down)))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (SBAR (IN although)
+      (S
+        (NP (PRP she))
+        (VP (VBD had)
+          (VP (VBN started)
+            (NP (DT a) (JJ new) (NN site))
+            (S
+              (VP (TO to)
+                (VP (VB host)
+                  (NP (PDT both) (PRP$ her) (NNS beliefs)
+                    (CC and)
+                    (NNS vlogs)))))))))
+    (. .)))
+

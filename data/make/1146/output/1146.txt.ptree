@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (S
+      (NP (DT this) (NN condition))
+      (VP (VBZ is)
+        (VP (VBN associated)
+          (PP (IN with)
+            (NP (JJ chronic) (NNS venous)))
+          (ADVP (RB insufficiency)))))
+    (, ,)
+    (NP (NNS stasis))
+    (VP
+      (VP (VBZ dermatitis))
+      (, ,)
+      (CC and)
+      (VP (VBD increased)
+        (NP
+          (NP (NN risk))
+          (PP (IN of)
+            (NP (JJ cutaneous) (NNS ulcerations))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB because) (IN of)
+      (NP (DT this) (NN concern)))
+    (, ,)
+    (NP (FW i))
+    (VP (VBP believe)
+      (SBAR (IN that)
+        (S
+          (NP (JJ superficial) (NN liposuction)
+            (CC and)
+            (JJ internal) (JJ ultrasonic) (NN assisted) (NNS liposuction))
+          (VP (VBP are)
+            (VP (VBN contraindicated)
+              (PP (IN in)
+                (NP (DT the) (NN leg)
+                  (CC and)
+                  (NN ankle))))))))
+    (. .)))
+

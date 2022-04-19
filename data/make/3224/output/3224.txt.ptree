@@ -1,0 +1,51 @@
+(ROOT
+  (S
+    (NP (DT the) (VBN added) (NNS scenes))
+    (VP (MD will)
+      (VP (VB add)
+        (NP (JJR more) (NN background) (NN information))
+        (PP (TO to)
+          (NP
+            (NP (DT the) (NN storyline))
+            (, ,)
+            (NP
+              (NP (JJR better) (NNS explanations))
+              (PP (IN for)
+                (NP (DT the) (NN plot))))
+            (, ,)
+            (NP
+              (NP (JJR more) (NN depth))
+              (PP (TO to)
+                (NP (DT the) (NNS characters))))
+            (, ,)
+            (CC and)
+            (NP
+              (NP (JJ important) (NNS sequences))
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (VP (VBP stay)
+                    (ADJP (JJ true)
+                      (PP (TO to)
+                        (NP (DT the) (JJ original) (NN book))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (ADJP (JJ short)))
+    (NP (DT the) (VBN extended) (NN edition))
+    (VP (VBZ is)
+      (VP (VBG going)
+        (S
+          (VP (TO to)
+            (VP (VB make)
+              (NP
+                (NP (DT the) (NN movie))
+                (ADJP
+                  (ADJP (JJR longer))
+                  (, ,)
+                  (CC but)
+                  (ADJP (RB much) (JJR better)))))))))
+    (. .)))
+

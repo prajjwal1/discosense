@@ -1,0 +1,2 @@
+conn:but conn_POS:CC prev1:death prev1_POS:NN with_prev1_full:death_but with_prev1_POS_full:NN_CC prev2:of prev2_POS:IN with_prev2_full:of_but with_prev2_POS_full:IN_CC NA
+conn:therefore conn_POS:RB sent_pos:0 NA

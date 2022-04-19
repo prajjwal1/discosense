@@ -1,0 +1,49 @@
+(ROOT
+  (S
+    (S
+      (NP (NNS police)
+        (CC and)
+        (NNS judges))
+      (VP (VBP enforce)
+        (NP
+          (NP (NNS laws))
+          (PP (IN against)
+            (NP (NN violence))))
+        (ADVP (RB however))))
+    (, ,)
+    (NP
+      (NP
+        (QP (JJR less) (IN than) (CD 10))
+        (NN percent))
+      (PP (IN of)
+        (NP (JJ abused) (NNS women))))
+    (VP (VBP are)
+      (VP (VBN estimated)
+        (S
+          (VP (TO to)
+            (VP (VB file)
+              (NP (NNS complaints)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB overall))
+    (NP (DT the) (NNS womens) (NN ministry))
+    (VP (VBZ estimates)
+      (SBAR (IN that)
+        (S
+          (NP (CD one)
+            (ADJP (JJ fifth)
+              (PP (IN of)
+                (NP (DT the) (NN countrys)
+                  (QP (CD 1.5) (CD million)))))
+            (NN adult) (NNS women))
+          (VP (VBZ has)
+            (VP (VBN suffered)
+              (PP (IN from)
+                (NP
+                  (NP (NN violence))
+                  (PP (IN in)
+                    (NP (DT a) (NN relationship))))))))))
+    (. .)))
+

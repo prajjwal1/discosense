@@ -1,0 +1,62 @@
+(ROOT
+  (S
+    (NP (DT this))
+    (VP (MD would)
+      (VP (VB include)
+        (NP
+          (NP (NNS patients))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBP tend)
+                (S
+                  (VP (TO to)
+                    (VP (VB heal)
+                      (PP (IN with)
+                        (NP
+                          (NP (NNS keloids))
+                          (CC or)
+                          (NP (JJ hypertrophic) (NNS scars)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (JJ interestingly) (NNS patients))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBP are)
+              (ADJP (JJR older))))))
+      (VP (VBP tend)
+        (S
+          (VP (TO to)
+            (VP (VB have)
+              (NP (NN finer) (NNS scars))
+              (PP (IN than)
+                (NP
+                  (NP (NNS people))
+                  (SBAR
+                    (WHNP (WP who))
+                    (S
+                      (VP (VBP are)
+                        (NP (JJR younger))))))))))))
+    (CC but)
+    (S
+      (NP (DT this) (NN tendency))
+      (VP (MD can)
+        (VP (VB be)
+          (VP (VBN overridden)
+            (PP (IN by)
+              (NP
+                (NP (NNS people))
+                (SBAR
+                  (WHNP (WP who))
+                  (S
+                    (VP (VBP have)
+                      (S
+                        (VP (VBG scarring)
+                          (NP (NNS problems)))))))))))))
+    (. .)))
+

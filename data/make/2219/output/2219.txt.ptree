@@ -1,0 +1,59 @@
+(ROOT
+  (S
+    (S
+      (VP (VBG knowing)
+        (SBAR (IN that)
+          (S
+            (NP (FW i))
+            (VP (VBD was)
+              (ADJP (JJ able)
+                (S
+                  (VP (TO to)
+                    (VP
+                      (VP (VB win)
+                        (NP (CD one)))
+                      (CC and)
+                      (VP (VB place)
+                        (NP
+                          (NP (JJ fourth))
+                          (PP (IN in)
+                            (NP (DT the) (JJ other))))))))))))))
+    (VP (VBZ gives)
+      (NP (PRP me))
+      (NP
+        (NP (JJ great) (NN pride))
+        (PP (IN as)
+          (NP (DT a) (NN hero) (NN machinist)))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN though)
+      (S
+        (NP (FW i))
+        (VP (VBP have)
+          (NP (DT a) (NN feeling))
+          (SBAR (IN that)
+            (S
+              (PP (IN with)
+                (NP
+                  (NP (NN ams))
+                  (PP
+                    (ADVP (RB now))
+                    (IN in)
+                    (NP (DT the) (NN consolation) (NN round)))))
+              (, ,)
+              (NP (PRP$ my) (NNS chances))
+              (VP (VBP are)
+                (VP (VBN shot)))))
+          (, ,)
+          (ADVP (RB well)))))
+    (NP (PRP it))
+    (VP (VBD was)
+      (NP (NN fun))
+      (SBAR (IN while)
+        (S
+          (NP (PRP it))
+          (VP (VBD lasted)))))
+    (. .)))
+

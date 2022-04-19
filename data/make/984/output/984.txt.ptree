@@ -1,0 +1,49 @@
+(ROOT
+  (S
+    (ADVP (RB meanwhile))
+    (, ,)
+    (NP
+      (NP (DT those))
+      (SBAR
+        (WHNP (WP who))
+        (S
+          (VP
+            (VP (VBD worked)
+              (PP (IN in)
+                (NP (DT the) (NN u.) (NN s.) (NN ghana))))
+            (, ,)
+            (CC and)
+            (VP (VBP japan)
+              (ADVP (RB apparently)))))))
+    (VP (VBD viewed)
+      (NP
+        (NP (VBN missed) (NNS days))
+        (PP (IN of)
+          (NP (NN work))))
+      (ADVP (RBR more))
+      (ADVP (RB negatively)))
+    (. .)))
+
+(ROOT
+  (SINV
+    (PP (IN in)
+      (NP (JJ other) (NNS words)))
+    (VP (VBZ cultural)
+      (NP (NNS differences)))
+    (NP (NN impact)
+      (SBAR
+        (WHADVP (WRB how))
+        (S
+          (NP (NNS people))
+          (VP (VBP perceive)
+            (NP
+              (NP (DT the) (NN practice))
+              (PP (IN of)
+                (S
+                  (VP (VBG calling)
+                    (PP (IN in)
+                      (ADJP (JJ sick)))
+                    (PP (IN from)
+                      (NP (NN work)))))))))))
+    (. .)))
+

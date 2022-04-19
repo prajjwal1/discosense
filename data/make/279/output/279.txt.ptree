@@ -1,0 +1,43 @@
+(ROOT
+  (S (CC and)
+    (NP (NNS customers))
+    (VP (VBP have)
+      (NP
+        (NP (PRP$ their) (JJ own))
+        (SBAR
+          (S
+            (VP
+              (VP (VBZ wants))
+              (CC and)
+              (VP (VBZ needs)))))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBP extend)
+              (PP (IN beyond)
+                (NP (NN performance))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP
+        (NP (NN instance) (JJ many) (NN look))
+        (PP (IN for)
+          (NP
+            (NP (NNS brands))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (VBP are)
+                  (ADJP (JJ organic)))))))))
+    (, ,)
+    (VP
+      (VP (VB cut)
+        (PRT (RP out))
+        (NP (NNS preservatives)))
+      (CC or)
+      (VP (VBP are)
+        (ADJP (RB cruelty) (JJ free))))
+    (. .)))
+

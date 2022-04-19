@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (NP (NN lon) (NN kilgore))
+    (VP (VBZ has)
+      (VP (VBN seen)
+        (S
+          (NP (NN milk))
+          (VP (VB support)
+            (NP (JJ substantial) (NNS gains))
+            (PP (IN in)
+              (NP
+                (NP (NNS hundreds))
+                (PP (IN of)
+                  (NP (NNS athletes)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB yet))
+    (NP (EX there))
+    (VP (VBP are)
+      (NP
+        (NP (DT a) (NN lot))
+        (PP (IN of)
+          (NP (NNS concerns))))
+      (PP (IN about)
+        (NP
+          (NP (DT the) (NN safety))
+          (PP (IN of)
+            (NP (NN drinking) (NN milk)))))
+      (, ,)
+      (ADVP (RB especially))
+      (PP (IN for)
+        (NP (NNS adults))))
+    (. .)))
+

@@ -1,0 +1,61 @@
+(ROOT
+  (S
+    (NP
+      (NP (JJ many))
+      (PP (IN of)
+        (NP (DT these) (NNS persons))))
+    (VP
+      (VP (VBP have)
+        (NP (DT no) (NN appreciation)))
+      (CC and)
+      (ADVP (RB consequently))
+      (VP
+        (ADVP (RB no)
+          (PP (IN in)
+            (NP
+              (NP (NN terest))
+              (PP (IN in)
+                (NP (DT the) (JJ refined) (NNS studies))))))
+        (VBD carried)
+        (PRT (RP on))
+        (PP (IN in)
+          (NP
+            (ADJP (JJ chemical) (, ,) (JJ physical) (, ,)
+              (CC and)
+              (JJ bac) (JJ teriological))
+            (NNS laboratories)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nevertheless))
+    (NP
+      (NP (DT the) (NN material) (NNS gains))
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (NP (NN arc))
+          (ADVP (RB publicly))
+          (VP (VBD praised))))
+      (, ,))
+    (VP
+      (VP (MD would) (RB not)
+        (VP (VB have)
+          (VP (VBN been)
+            (VP (VBN attained)))))
+      (CC but)
+      (VP
+        (PP (IN for)
+          (NP (DT the) (JJ refined) (NNS experiments)))
+        (VBD carried)
+        (PRT (RP on))
+        (PP (IN by)
+          (NP
+            (NP (DT the) (JJ unassuming) (NNS workers))
+            (PP (IN in)
+              (NP
+                (NP (DT the) (NNS laboratories))
+                (VP (VBN named))))))))
+    (. .)))
+

@@ -1,0 +1,1 @@
+a paragraph or page of text that is more dense or bolder will have an overall blacker effect when viewed as a whole. likewise a finer font or less dense text will have more white space, making the overall effect less dark.

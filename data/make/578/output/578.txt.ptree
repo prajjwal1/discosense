@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (S
+      (NP (NN doesnt))
+      (VP (VBP mean)
+        (SBAR
+          (S
+            (NP (DT the) (NN vulnerability))
+            (VP
+              (VP (VBZ is)
+                (VP (VBN fixed)))
+              (, ,)
+              (CC but)
+              (VP (VBZ makes)
+                (S
+                  (NP (PRP it))
+                  (ADJP (JJR harder)
+                    (S
+                      (VP (TO to)
+                        (VP (VB exploit))))))))))))
+    (, ,)
+    (NP (NN grossman))
+    (VP (VBD said))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP
+        (NP (NN sum))
+        (VP (VBG defending)
+          (PP (IN against)
+            (NP (NN sql))))))
+    (NP (NN injection) (NNS attacks))
+    (VP (VBZ requires)
+      (NP
+        (NP (DT a) (NN combination))
+        (PP (IN of)
+          (NP (JJ internal)
+            (CC and)
+            (JJ external) (NN security)))))
+    (. .)))
+

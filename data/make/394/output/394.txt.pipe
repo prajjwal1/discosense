@@ -1,0 +1,2 @@
+Explicit|||0..2||if||0|if|||Contingency.Condition|||||||||||30..132|0|split the first string in the argument list into individual format lines and add a terminating newline||||||||3..28|0|interleaving is specified|||||||||||||
+Explicit|||134..143||otherwise||1|otherwise|||Expansion.Alternative|||||||||||0..132|0|if interleaving is specified, split the first string in the argument list into individual format lines and add a terminating newline||||||||144..184|1|treat the entire string as a single line|||||||||||||

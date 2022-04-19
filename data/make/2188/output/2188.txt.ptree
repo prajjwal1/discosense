@@ -1,0 +1,60 @@
+(ROOT
+  (S
+    (PP (IN for)
+      (NP (NN example)))
+    (, ,)
+    (S
+      (NP (NNS lemons))
+      (VP (VBP are)
+        (ADJP (RB very) (JJ acidic))))
+    (, ,)
+    (ADVP (RB however))
+    (S
+      (NP
+        (NP (DT the) (NN end) (NNS products))
+        (SBAR
+          (S
+            (NP (PRP they))
+            (VP (VBP produce)
+              (PP (IN after)
+                (NP (NN digestion)
+                  (CC and)
+                  (NN assimilation)))))))
+      (VP (VBP are)
+        (ADJP (RB very) (JJ alkaline)
+          (SBAR (IN so)
+            (S
+              (NP (NNS lemons))
+              (VP (VBP are)
+                (ADVP (RB alkaline))
+                (VP (VBG forming)
+                  (PP (IN in)
+                    (NP (DT the) (NN body))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB likewise))
+      (NP (NN meat))
+      (VP (MD will)
+        (VP (VB test)
+          (NP (NN alkaline))
+          (PP (IN before)
+            (NP (NN digestion))))))
+    (CC but)
+    (S
+      (NP (PRP it))
+      (VP (VBZ leaves)
+        (NP (JJ acidic) (NN residue))
+        (PP (IN in)
+          (NP (DT the) (NN body)))
+        (SBAR (IN so)
+          (S
+            (NP (NN meat))
+            (VP (VBZ is)
+              (NP
+                (NP (NN acid))
+                (VP (VBG forming))))))))
+    (. .)))
+

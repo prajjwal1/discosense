@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (NP (NN insurance) (NNS companies))
+    (VP (MD will) (RB not)
+      (VP (VB cover)
+        (NP (NN hormone) (NN therapy))
+        (PP (IN for)
+          (NP (NN transgender) (NNS people)))
+        (SBAR (IN because)
+          (S (, ,)
+            (PP (VBG according)
+              (PP (TO to)
+                (NP (PRP them))))
+            (, ,)
+            (NP (PRP it))
+            (VP (VBZ is)
+              (NP
+                (NP (DT an) (JJ elective) (NN therapy))
+                (, ,) (RB not)
+                (NP (DT a) (JJ necessary) (NN therapy))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB because) (IN of)
+      (NP (DT this)))
+    (NP (JJ many) (NNS transgenders))
+    (VP (VBP are)
+      (VP (VBN forced)
+        (S
+          (VP (TO to)
+            (VP (VB get)
+              (NP (PRP$ their) (NNS hormones))
+              (PP (IN on)
+                (NP (DT the) (NN street))))))))
+    (. .)))
+

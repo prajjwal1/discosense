@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (NP (DT the) (NNS sixers) (NN couldnt))
+    (VP (VBP seem)
+      (S
+        (VP (TO to)
+          (VP (VB get)
+            (NP
+              (NP (NN anything))
+              (VP (VBG going)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB conversely))
+    (NP (PRP$ their) (JJ embattled) (NN frontcourt) (NN couldnt))
+    (VP (VBP contend)
+      (PP (IN with)
+        (NP
+          (NP (NNS evans))
+          (, ,)
+          (SBAR
+            (WHNP (WP who))
+            (S
+              (VP (VBD finished)
+                (PP (IN with)
+                  (NP
+                    (NP (CD 17) (NNS points))
+                    (CC and)
+                    (NP (CD 24) (NNS rebounds))))))))))
+    (. .)))
+

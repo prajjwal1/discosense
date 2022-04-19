@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP
+        (NP (NN view))
+        (PP (IN of)
+          (NP (DT these) (NNS circumstances)))))
+    (, ,)
+    (NP
+      (NP (NNS studies))
+      (PP (IN on)
+        (NP
+          (NP (NNS microearthquakes))
+          (VP (VBG employing)
+            (NP (NN surface) (NNS seismograms))))))
+    (VP (MD may)
+      (VP (VB bring)
+        (PP (IN on)
+          (NP (JJ misleading) (NNS results)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (RB particularly) (DT the) (NNS works))
+      (PP (IN on)
+        (NP
+          (NP (NN earthquake) (NN physics)
+            (CC and)
+            (NN nucleation) (NN process))
+          (PP (IN of)
+            (NP (NNS earthquakes))))))
+    (VP (VBZ requires)
+      (NP
+        (NP (JJ elaborate) (NN analysis))
+        (PP (IN of)
+          (NP (JJ tiny) (NNS events)))))
+    (. .)))
+

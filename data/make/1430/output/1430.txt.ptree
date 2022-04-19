@@ -1,0 +1,38 @@
+(ROOT
+  (S
+    (NP (PRP it))
+    (VP (VBZ seems)
+      (ADVP
+        (ADVP (RBR more))
+        (SBAR (IN like)
+          (S
+            (NP (DT the) (NN word) (NN life))
+            (VP (VBZ is)
+              (ADVP (RB simply))
+              (ADJP (JJ interchangeable)
+                (PP (IN with)
+                  (NP (NN game)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB interestingly))
+    (NP (PRP it))
+    (VP (VBZ seems)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (DT the) (NN afterlife))
+            (PP (IN in)
+              (NP (DT the) (NNS games))))
+          (VP (VBZ is)
+            (VP (VBN laid)
+              (PRT (RP along))
+              (PP
+                (ADVP
+                  (NP (DT the) (JJ same) (NNS lines))
+                  (RB as))
+                (IN in)
+                (NP (NN greek) (NN mythology))))))))
+    (. .)))
+

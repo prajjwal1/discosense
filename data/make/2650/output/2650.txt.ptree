@@ -1,0 +1,18 @@
+(ROOT
+  (S
+    (VP (VB tor)
+      (NP (CD 1) (NN p) (NNS dissociates))
+      (PP (IN from)
+        (NP (DT this) (JJ complex) (JJ following) (NN glucose) (NN replenishment))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thereafter))
+    (NP (DT the) (NN cargo) (NNS proteins))
+    (VP (VBP are)
+      (VP (VBN phosphorylated)
+        (PP (IN by)
+          (NP (NN pka)))))
+    (. .)))
+

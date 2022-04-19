@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (NP (DT this))
+    (VP (MD may)
+      (VP (VB result)
+        (PP (IN in)
+          (NP
+            (NP (NN loss))
+            (PP (IN of)
+              (NP (DT all) (NN rollback) (NNS points)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN though)
+      (S
+        (NP (DT this))
+        (VP (MD should) (RB not)
+          (VP (VB cause)
+            (NP
+              (NP (NN loss))
+              (PP (IN of)
+                (NP (NN configuration))))
+            (PP (IN as)
+              (NP (DT the) (NN system)))))))
+    (VP (VBZ applies)
+      (NP
+        (NP (DT the) (JJ alternate) (NN ascii) (NN file))
+        (VP (VBN maintained)
+          (PP (IN for)
+            (NP (JJ such) (NNS situations))))))
+    (. .)))
+

@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (NP (JJ next) (NN year))
+    (VP (MD will)
+      (VP (VB be)
+        (NP
+          (NP (DT the) (JJ first) (NN year))
+          (PP (IN for)
+            (NP
+              (NP (DT the) (JJ new) (NN tech) (NN academy))
+              (PP (IN with)
+                (NP
+                  (NP (NNS slots))
+                  (ADJP (JJ open)
+                    (PP (IN for)
+                      (NP
+                        (NP (CD 65) (NNS sophomores))
+                        (CC and)
+                        (NP (CD 70) (NNS freshmen))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thereafter))
+    (NP (CD 70)
+      (ADJP (JJ new)
+        (NP (CD 9) (NNS th)))
+      (NN grade) (NNS students))
+    (VP (MD will)
+      (VP (VB be)
+        (VP (VBN admitted) (, ,)
+          (PP (IN under)
+            (NP (DT the) (JJ current) (NNS plans))))))
+    (. .)))
+

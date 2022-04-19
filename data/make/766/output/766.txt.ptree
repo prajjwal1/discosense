@@ -1,0 +1,47 @@
+(ROOT
+  (S
+    (S
+      (ADJP (JJ abstract)
+        (SBAR (IN as)
+          (S
+            (NP (JJ olfactory) (NNS perceptions))
+            (VP (VBP vary)
+              (PP (IN from)
+                (NP (NN person)))
+              (PP (TO to)
+                (NP (NN person))))))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ is)
+      (ADJP (JJ difficult)
+        (S
+          (VP (TO to)
+            (VP (VB describe)
+              (ADVP (RB smells) (RB objectively)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN contrast)))
+    (NP (JJ electronic) (NNS noses))
+    (ADVP (RB also))
+    (VP (VB detect)
+      (SBAR
+        (SBAR
+          (S
+            (VP (VBZ smells)
+              (PP (IN with)
+                (NP (PRP$ their) (NNS sensors))))))
+        (, ,)
+        (CC but)
+        (SBAR (IN in)
+          (S
+            (NP (NN addition))
+            (VP (VBP describe)
+              (S
+                (NP (DT those))
+                (VP (VBG using)
+                  (NP (JJ electronic) (NNS signals)))))))))
+    (. .)))
+

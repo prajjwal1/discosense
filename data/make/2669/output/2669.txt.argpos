@@ -1,0 +1,2 @@
+conn:and conn_POS:CC prev1:abandonment prev1_POS:NN with_prev1_full:abandonment_and with_prev1_POS_full:NN_CC prev2:around prev2_POS:IN with_prev2_full:around_and with_prev2_POS_full:IN_CC NA
+conn:for_example conn_POS:IN_NN sent_pos:0 NA

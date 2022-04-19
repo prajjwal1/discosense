@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (DT this) (NN event)))
+    (, ,)
+    (NP
+      (NP (NN ink))
+      (ADJP (JJ likely)
+        (S
+          (VP (TO to)
+            (VP (VB remain)
+              (PP (IN on)
+                (NP (DT the) (NN prism) (NN inclination) (NN face))))))))
+    (VP (VBZ is)
+      (ADVP (RB also))
+      (VP (VBN brought)
+        (PRT (RP along))
+        (ADVP (RB promptly))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thereby))
+    (NP (NN ink))
+    (VP (VBZ is)
+      (VP (VBN prevented)
+        (PP (IN from)
+          (S
+            (VP (VBG remaining)
+              (PP (IN on)
+                (NP
+                  (NP (DT the) (NN prism) (NN surface))
+                  (PP (IN in)
+                    (NP
+                      (NP (NN form))
+                      (PP (IN of)
+                        (NP (NNS drops))))))))))))
+    (. .)))
+

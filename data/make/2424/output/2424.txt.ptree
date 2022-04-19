@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (SBAR (IN although)
+      (S
+        (S
+          (VP (VBG eating)
+            (PRT (RP out))
+            (NP (CD 2) (JJ sloppy) (NNS seconds))))
+        (VP (VBP doesnt)
+          (VP (VB leave)
+            (PRT (RP out))
+            (NP
+              (NP (DT the) (JJ homophobic) (NN use))
+              (PP (IN of)
+                (NP (NN fag))))))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBP doesnt)
+      (VP (VB attach)
+        (NP (JJ negative) (NNS associations))
+        (, ,)
+        (ADVP (RB either))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN on)
+      (NP (DT the) (NN contrary)))
+    (NP (DT the) (NN film))
+    (VP (VBZ celebrates)
+      (NP
+        (NP (DT the) (NN word)
+          (CC and)
+          (NN everything))
+        (ADJP (JJ good)
+          (PP (IN about)
+            (S
+              (VP (VBG being)
+                (ADJP (JJ gay))))))))
+    (. .)))
+

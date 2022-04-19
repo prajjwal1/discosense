@@ -1,0 +1,45 @@
+(ROOT
+  (S (CC but)
+    (NP (NNS states))
+    (VP (VBP have)
+      (VP (VBN survived)
+        (NP
+          (NP (NNS disasters))
+          (ADJP (RB far) (JJR worse)))
+        (PP (IN than)
+          (NP
+            (NP (DT any)
+              (CC or)
+              (DT all))
+            (PP (IN of)
+              (NP (DT these)))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (PP (IN in)
+      (NP
+        (NP (NN sum) (NN none))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (NNS theories)
+              (CC or)
+              (NNS factors))
+            (VP (VBN mentioned)
+              (PP (IN above)))))))
+    (VP (VBZ explains))
+    (SBAR
+      (WHADVP (WRB why))
+      (S
+        (VP (VBZ theres)
+          (NP (DT no) (JJ simple) (NN answer))
+          (PP (TO to)
+            (NP (DT the) (JJ simple) (NN question)))
+          (, ,)
+          (SBAR
+            (WHADVP (WRB why))
+            (S
+              (VP (VBD did)
+                (NP (JJ rome) (NN fall))))))))
+    (. .)))
+

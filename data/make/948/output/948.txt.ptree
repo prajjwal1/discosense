@@ -1,0 +1,55 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT this) (NN line))
+      (PP (IN of)
+        (NP (NN research))))
+    (VP (VBZ has)
+      (VP (VBN done)
+        (ADVP (RB little))
+        (S
+          (VP (TO to)
+            (VP (VB help)
+              (S
+                (NP (PRP us))
+                (VP (VB make)
+                  (NP (JJR more) (JJ precise) (NNS predictions))
+                  (SBAR (IN that)
+                    (S
+                      (NP (NN rosenberg))
+                      (VP (VBD seemed)
+                        (S
+                          (VP (TO to)
+                            (VP (VB require))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN though)
+      (S
+        (NP (FW i))
+        (VP (VBP guess)
+          (SBAR (IN if)
+            (S
+              (NP (DT a) (NN science))
+              (VP (VBZ is)
+                (NP
+                  (NP (DT a) (NN discipline))
+                  (SBAR
+                    (WHADVP (WRB where))
+                    (S
+                      (NP (NNS practitioners))
+                      (VP (VBP do)
+                        (NP
+                          (NP (NNS things))
+                          (SBAR
+                            (WHNP (WDT that))
+                            (S
+                              (VP (VBP seem)
+                                (ADVP (RB sciencey))))))))))))))))
+    (, ,)
+    (NP (RB then) (JJ experimental) (NNS economics))
+    (VP (VBZ has)
+      (VP (VBN helped)))
+    (. .)))
+

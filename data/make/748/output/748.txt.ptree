@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (VP (MD might)
+      (VP (VB be)
+        (NP
+          (NP (JJ good) (NN fodder))
+          (PP (IN for)
+            (S
+              (VP (VBG teaching)
+                (NP (NNS undergraduates))
+                (PP (IN about)
+                  (NP
+                    (NP (DT the) (NN relationship))
+                    (PP (IN between)
+                      (NP (NN technology)
+                        (CC and)
+                        (NNS politics)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (RB particularly) (DT the) (NN device))
+    (VP (VBN known)
+      (PP (IN as)
+        (NP (DT the) (NN knee) (NN defender))))
+    (. .)))
+

@@ -1,0 +1,70 @@
+(ROOT
+  (S
+    (SBAR (IN for)
+      (S
+        (NP
+          (NP (DT a) (JJ short) (NN period))
+          (PP (IN of)
+            (NP
+              (NP (NN time))
+              (PP (IN after)
+                (NP (NN healthchoice))))))
+        (VP (VBD began)
+          (S
+            (VP (VBG doing)
+              (NP (NN business)))))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBD accepted)
+      (NP (NNS applications))
+      (PP (IN from)
+        (NP
+          (NP (DT any) (NN provider))
+          (SBAR
+            (WHNP (WP who))
+            (S
+              (VP (VBD wanted)
+                (S
+                  (VP (TO to)
+                    (VP (VB apply))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB thereafter))
+      (NP (NN healthchoice))
+      (VP (VBD decided)
+        (S
+          (VP (TO to)
+            (VP (VB limit)
+              (NP
+                (NP (DT the) (NN size))
+                (PP (IN of)
+                  (NP (PRP$ its) (NN panel)))))))))
+    (, ,)
+    (CC and)
+    (IN so)
+    (S
+      (NP (PRP it))
+      (VP (VBD adopted)
+        (NP
+          (NP (DT a) (NN need))
+          (VP (VBN based)
+            (NP (NN system))
+            (PP (IN for)
+              (S
+                (VP (VBG determining)
+                  (SBAR
+                    (WHADJP (WRB how) (JJ many))
+                    (S
+                      (NP
+                        (NP (NNS providers))
+                        (PP (IN of)
+                          (NP (JJ various) (NNS specialties))))
+                      (VP (TO to)
+                        (VP (VB include)
+                          (PP (IN on)
+                            (NP (PRP$ its) (NN panel))))))))))))))
+    (. .)))
+

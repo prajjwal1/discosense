@@ -1,0 +1,4 @@
+conn_lc:thus conn:thus conn_POS:RB xxx£
+conn_lc:and conn:and conn_POS:CC with_prev_full:individual_and xxx£
+conn_lc:whereas conn:whereas conn_POS:IN with_prev_full:leader_whereas xxx£
+conn_lc:in_contrast conn:in_contrast conn_POS:IN_NN xxx£

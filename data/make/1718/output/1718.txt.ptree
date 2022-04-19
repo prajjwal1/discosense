@@ -1,0 +1,47 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (NN volume))
+      (CC and)
+      (NP
+        (NP (DT the) (NN interest))
+        (PP (IN in)
+          (NP
+            (NP (NN texture))
+            (PP (IN in)
+              (NP (DT the) (JJ quilted) (NN sleeve)))))))
+    (VP (VBP seem)
+      (S
+        (VP (TO to)
+          (VP (VB identify)
+            (NP (JJ titians) (JJ own) (NN style))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN on)
+      (NP (DT the) (JJ other) (NN hand)))
+    (NP (DT the) (NN concert))
+    (VP (VBZ has)
+      (VP (VBN been)
+        (NP
+          (NP (CD one))
+          (PP (IN of)
+            (NP (DT the) (JJS most) (CD debated) (NNS portraits))))
+        (, ,)
+        (SBAR (IN because)
+          (S
+            (PP (IN since)
+              (NP (DT the) (JJ 17th) (NN century)))
+            (NP (PRP it))
+            (VP (VBD was)
+              (VP (VBN thought)
+                (S
+                  (VP (TO to)
+                    (VP (VB be)
+                      (ADJP
+                        (ADJP (RBS most) (JJ typical))
+                        (PP (IN of)
+                          (NP (NN giorgione)))))))))))))
+    (. .)))
+

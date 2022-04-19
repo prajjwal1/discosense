@@ -1,0 +1,1 @@
+is there any way to set firefox so it will not remember history from a certain website. for instance i dont want history from youtube to be saved.

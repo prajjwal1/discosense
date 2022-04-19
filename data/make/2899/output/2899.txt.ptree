@@ -1,0 +1,64 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (JJ familial) (NN factor))
+      (VP (VBN associated)
+        (PP (IN with)
+          (NP (NN vegetable) (NN intake)))))
+    (VP (VBD was)
+      (NP
+        (NP (DT the) (VBN perceived) (NN behaviour))
+        (PP (IN of)
+          (NP (DT the) (NN mother))))
+      (, ,)
+      (SBAR (IN while)
+        (S
+          (NP (NN fruit) (NN intake))
+          (VP (VBD was)
+            (ADJP (JJR higher))
+            (PP (IN among)
+              (NP
+                (NP (NNS children))
+                (SBAR
+                  (WHNP (WP who))
+                  (S
+                    (VP (VBD declared)
+                      (NP (JJR higher) (NN fruit) (NN availability))
+                      (PP (IN at)
+                        (NP (NN home))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB hence))
+    (NP (PRP it))
+    (VP (VBZ is)
+      (ADJP (JJ necessary)
+        (S
+          (VP (TO to)
+            (VP (VB develop)
+              (PP (IN in)
+                (NP
+                  (NP (NN romania) (NN nutrition) (NNS interventions))
+                  (VP (VBG addressing)
+                    (NP
+                      (NP (DT the) (NNS determinants))
+                      (PP (IN of)
+                        (NP (NN fruit)
+                          (CC and)
+                          (NN vegetable) (NN intake)))
+                      (ADJP (RB as) (VBN identified)))
+                    (PP (IN by)
+                      (NP
+                        (NP (DT this) (NN study))
+                        (SBAR
+                          (S
+                            (NP (DT these) (NNS interventions))
+                            (VP (MD should)
+                              (VP (VB target)
+                                (NP (CC both)
+                                  (NNS children)
+                                  (CC and)
+                                  (NNS parents))))))))))))))))
+    (. .)))
+

@@ -1,0 +1,48 @@
+(ROOT
+  (S
+    (NP (PRP it))
+    (VP (VBZ is)
+      (ADJP (JJ possible))
+      (SBAR (IN that)
+        (S
+          (NP (DT an) (JJ underlying) (JJ genetic) (NN abnormality))
+          (VP (MD may)
+            (VP (VB be)
+              (ADJP (JJ responsible)
+                (PP (IN for)
+                  (NP
+                    (NP (DT an) (VBN increased) (NN risk))
+                    (PP (IN for)
+                      (NP
+                        (NP (NNS children))
+                        (PP (IN with)
+                          (NP (JJ short) (NN stature)))))
+                    (S
+                      (VP (TO to)
+                        (VP (VB have)
+                          (VP (VBN decreased)
+                            (NP
+                              (NP (NN intelligence))
+                              (CC and)
+                              (NP (JJ academic) (NN achievement)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (ADJP (RB similarly) (JJ nongenetic))
+        (NNS causes))
+      (, ,)
+      (PP (JJ such) (IN as)
+        (NP (JJ chronic) (NN disease)))
+      (, ,))
+    (VP (MD may)
+      (VP (VB lead)
+        (PP (TO to)
+          (NP
+            (NP (DT the) (JJ same) (NN combination))
+            (PP (IN of)
+              (NP (NNS problems)))))))
+    (. .)))
+

@@ -1,0 +1,58 @@
+(ROOT
+  (S
+    (SBAR (IN although)
+      (S
+        (NP (NN repair)
+          (CC and)
+          (NN renewal) (NNS mechanisms))
+        (VP (VBP are)
+          (ADJP
+            (ADJP (JJ present))
+            (CC and)
+            (ADJP (RB unceasingly) (JJ active))))))
+    (, ,)
+    (NP (NN cell) (NN damage))
+    (VP (VBZ occurs)
+      (CC and)
+      (VBZ takes)
+      (NP
+        (NP (PRP$ its) (NN toll))
+        (, ,)
+        (VP (VBG leading)
+          (S
+            (VP (TO to)
+              (VP (VB decline)
+                (PP (IN in)
+                  (NP
+                    (NP (NN brain) (NN function))
+                    (PP (RB because) (IN of)
+                      (NP (NN material) (NN loss)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB therefore))
+    (NP
+      (NP (JJ healthy) (VBG aging) (NNS translates))
+      (PP (IN into)
+        (S
+          (VP (VBG preserving)
+            (NP (NN cell) (NN biology)))))
+      (, ,))
+    (VP (VBP e.)
+      (NP (NN g.))
+      (PP (IN by)
+        (S
+          (VP (VBG avoiding)
+            (NP
+              (NP (NN disease)
+                (CC and)
+                (NN lifestyle) (NNS behaviors))
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (VP (MD can)
+                    (VP (VB damage)
+                      (NP (NNS cells)))))))))))
+    (. .)))
+

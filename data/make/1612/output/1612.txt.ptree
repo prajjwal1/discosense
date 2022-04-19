@@ -1,0 +1,55 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (JJ other) (NNS shapes))
+        (PP (IN of)
+          (NP (JJ cavity) (CD 127))))
+      (VP (MD could)
+        (ADVP (RB also))
+        (VP (VB be)
+          (VP (VBN employed)))))
+    (, ,)
+    (NP (NN e.))
+    (VP (VBP g.)
+      (NP (DT a) (JJ cylindrical) (NN cavity))
+      (PP (IN with)
+        (NP
+          (NP (JJ respective) (JJ radial) (NNS recesses))
+          (SBAR
+            (WHPP (IN in)
+              (WHNP (WDT which)))
+            (S
+              (NP (NNP legs) (NNP 154))
+              (VP (VBP are)
+                (ADJP (JJ disposed))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN as)
+      (NP (DT a) (NN result)))
+    (NP
+      (NP (DT the) (JJ sudden) (NN flexing)
+        (CC and)
+        (NN unflexing))
+      (PP (IN of)
+        (NP (JJ flexible) (NNP dome) (CD 150))))
+    (VP (MD may)
+      (VP (VB be)
+        (VP (VBN felt)
+          (PP (IN via)
+            (NP (NN pushbutton) (CD 190)))
+          (S
+            (ADVP (RB thereby))
+            (VP (TO to)
+              (VP (VB provide)
+                (NP
+                  (NP (JJ tactile) (NN feedback))
+                  (PP (IN of)
+                    (NP
+                      (NP (DT the) (NN operation))
+                      (PP (IN of)
+                        (NP (NN switch) (NN element) (CD 102))))))))))))
+    (. .)))
+

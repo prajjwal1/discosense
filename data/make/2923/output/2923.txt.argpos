@@ -1,0 +1,2 @@
+conn:also conn_POS:RB prev1:are prev1_POS:VBP with_prev1_full:are_also with_prev1_POS_full:VBP_RB prev2:treatments prev2_POS:NNS with_prev2_full:treatments_also with_prev2_POS_full:NNS_RB NA
+conn:as_a_result conn_POS:IN_DT_NN sent_pos:0 NA

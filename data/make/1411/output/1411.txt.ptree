@@ -1,0 +1,53 @@
+(ROOT
+  (S
+    (ADVP (RB now))
+    (, ,)
+    (S
+      (VP (TO to)
+        (VP (VB believe))))
+    (VP (VBZ is)
+      (ADVP (RB immediately))
+      (NP
+        (NP (DT an) (NN act))
+        (PP (IN of)
+          (NP (DT the) (NN intellect))))
+      (, ,)
+      (PP (IN because)
+        (NP
+          (NP (DT the) (NN object))
+          (PP (IN of)
+            (NP
+              (NP (DT that) (NN act))
+              (ADJP (JJ isthe) (JJ true))
+              (, ,)
+              (SBAR
+                (WHNP (WDT which))
+                (S
+                  (VP (VBZ pertains)
+                    (ADVP (RB properly))
+                    (PP (TO to)
+                      (NP (DT the) (NN intellect)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB consequently))
+    (NP
+      (NP (NN faith))
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (VP (VBZ is)
+            (NP
+              (NP (DT the) (JJ proper) (NN principle))
+              (PP (IN of)
+                (NP (DT that) (NN act)))))))
+      (, ,))
+    (VP (MD must)
+      (ADVP (RB needs))
+      (VP (VB reside)
+        (PP (IN in)
+          (NP (DT the) (NN intellect)))))
+    (. .)))
+

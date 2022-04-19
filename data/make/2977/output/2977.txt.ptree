@@ -1,0 +1,50 @@
+(ROOT
+  (S
+    (ADVP (RB specifically))
+    (, ,)
+    (NP (NN discrimination))
+    (VP (VBZ becomes)
+      (ADJP (JJR easier)
+        (PP (IN among)
+          (NP (JJ different) (NN production) (NNS lots)))
+        (PP (IN by)
+          (S
+            (VP (VBG assigning)
+              (NP (JJ different) (NNS colors))
+              (PP (TO to)
+                (NP
+                  (NP (DT the) (JJ adhesive) (NNS films))
+                  (PP (IN among)
+                    (NP (DT the) (NN production) (NNS lots))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP
+      (ADVP (RB particularly) (RB as))
+      (PP (TO to)
+        (NP (DT the) (NNS types))))
+    (, ,)
+    (NP (DT the) (NN effect))
+    (VP (VBZ is)
+      (ADJP (JJ prominent)
+        (PP (IN among)
+          (NP
+            (NP (JJ solar) (NN cell) (NNS modules))
+            (PP (IN of)
+              (NP (JJ different) (NNS types))))))
+      (S
+        (VP
+          (VP (VBG having)
+            (NP (DT the) (JJ same) (JJ outside) (NNS dimensions)))
+          (CC and)
+          (ADVP (RB thus))
+          (VP (VBG being)
+            (ADJP (JJ hard)
+              (S
+                (VP (TO to)
+                  (VP (VB discriminate)
+                    (PP (IN by)
+                      (NP (NN appearance)))))))))))
+    (. .)))
+

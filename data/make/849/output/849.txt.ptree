@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (NP
+      (NP (JJ other) (NN tax) (NNS changes))
+      (PP (IN in)
+        (NP (DT the) (NN budget))))
+    (VP (VBD included)
+      (NP
+        (NP
+          (NP (DT the) (NN abolition))
+          (PP (IN of)
+            (NP (NN development) (NN land) (NN tax))))
+        (, ,)
+        (NP
+          (NP (DT the) (NN extension)
+            (CC and)
+            (NN reform))
+          (PP (IN of)
+            (NP (JJ capital) (NNS gains) (NN tax) (NN indexation) (NNS provisions))))
+        (CC and)
+        (NP
+          (NP (DT an) (NN overhaul))
+          (PP (IN of)
+            (NP (DT the) (JJ ancient) (NN stamp) (NNS duties))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN sum)))
+    (NP (DT this) (NN bill))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (JJ legislative) (NN arm))
+        (PP (IN of)
+          (NP
+            (NP (DT a) (JJ responsible) (NN budget))
+            (CC and)
+            (NP (DT a) (JJ successful) (JJ economic) (NN policy))))))
+    (. .)))
+

@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (SBAR (IN since)
+      (S
+        (NP (DT this) (JJ anatomical) (NN part))
+        (VP (VBZ is)
+          (ADJP (RB too) (JJ small)
+            (PP (IN in)
+              (NP (JJ many) (NNS cases)))))))
+    (, ,)
+    (NP (DT this) (NN piercing))
+    (VP (VBZ is) (RB not)
+      (ADJP (RB very) (JJ common)))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN contrast)))
+    (NP (DT the) (JJ clitoral) (NN hood) (NN piercing))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the)
+          (ADJP (RBS most) (JJ common))
+          (JJ genital) (NN piercing))
+        (PP (IN for)
+          (NP (JJ female) (JJ bodied) (NNS individuals)))))
+    (. .)))
+

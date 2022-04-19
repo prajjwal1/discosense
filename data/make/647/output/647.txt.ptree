@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (NP (JJ medicares) (JJ financial) (NNS problems))
+    (VP (VBP go)
+      (ADVP (RB far)
+        (PP (IN beyond)
+          (NP
+            (NP (DT the) (JJ periodic) (NNS threats))
+            (PP (IN of)
+              (NP (NN trust) (NN fund))))
+          (ADVP (RB insolvency))))
+      (PP (IN in)
+        (NP
+          (NP (RB just) (CD one) (NN part))
+          (PP (IN of)
+            (NP (DT the) (NN program))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nonetheless))
+    (NP
+      (NP (DT the) (NN balance))
+      (PP (IN of)
+        (NP (DT the) (JJ hi) (NN trust) (NN fund))))
+    (VP (VBZ is)
+      (NP (DT a) (JJ tellingmarkerof) (JJ medicares) (JJ financial) (NN health)))
+    (. .)))
+

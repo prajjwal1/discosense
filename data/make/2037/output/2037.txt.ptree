@@ -1,0 +1,32 @@
+(ROOT
+  (S (CC but)
+    (NP (DT this))
+    (VP (VBZ is) (RB not)
+      (SBAR (IN because)
+        (S
+          (NP (NNS profits))
+          (VP (VBP are)
+            (PP (IN in)
+              (NP
+                (NP (PRP themselves))
+                (ADJP (JJ good))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB rather))
+    (NP (NN profit) (NN maximization))
+    (VP (VBZ is)
+      (ADJP (JJ good))
+      (SBAR (IN because)
+        (S
+          (NP (PRP it))
+          (VP (VBZ leads)
+            (ADVP (RB directly))
+            (PP (TO to)
+              (NP
+                (NP (JJ maximum) (NNS benefits))
+                (PP (IN for)
+                  (NP (NNS consumers)))))))))
+    (. .)))
+

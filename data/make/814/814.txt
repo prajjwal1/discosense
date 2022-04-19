@@ -1,0 +1,1 @@
+approximately 70% of the 454 unique sequences had a blat or a blastn hit to 21,064 mtgi sequences. similarly 3,960 sequences that had matches in the comprehensive tigr protein database could be condensed into 3,144 clusters based on their top protein matches.

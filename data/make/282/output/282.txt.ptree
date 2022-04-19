@@ -1,0 +1,19 @@
+(ROOT
+  (S
+    (NP (DT this) (NN interpretation))
+    (VP (VBZ does) (RB not)
+      (VP (VB exclude)
+        (NP (JJ mans) (NN love))
+        (PP (TO to)
+          (NP (NN god)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN on)
+      (NP (DT the) (NN contrary)))
+    (NP (PRP it))
+    (VP (VBZ includes)
+      (NP (PRP it)))
+    (. .)))
+

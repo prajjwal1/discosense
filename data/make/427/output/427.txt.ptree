@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (ADVP (RB well))
+    (, ,)
+    (NP (NNP lets))
+    (VP (VBP consider)
+      (NP
+        (NP (DT the) (JJ wonderful) (NNS cultures))
+        (PP (IN of)
+          (NP (NN ice) (NN age) (JJ western) (NN europe)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB yet))
+    (NP (EX there))
+    (VP (VBZ is)
+      (NP
+        (NP (DT no) (NN way))
+        (SBAR
+          (S
+            (NP
+              (NP (DT any))
+              (PP (IN of)
+                (NP (PRP them))))
+            (VP (MD could)
+              (VP (VB have)
+                (VP (VBN imagined)
+                  (NP
+                    (NP (DT the) (NN life))
+                    (PP (IN of)
+                      (NP
+                        (NP (DT a) (JJ manhattan) (NN investment) (NN banker))
+                        (CC or)
+                        (NP (JJ corporate) (NN lawyer))))))))))))
+    (. .)))
+

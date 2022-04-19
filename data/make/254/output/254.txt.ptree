@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (NP (NNS firefighters))
+    (VP (VBP run)
+      (PP (IN into)
+        (NP (NN burning) (NNS buildings)))
+      (SBAR (IN because)
+        (S
+          (NP (PRP they))
+          (VP (VBP associate)
+            (NP (NN pleasure))
+            (PP (IN with)
+              (S
+                (VP
+                  (VP (VBG helping)
+                    (NP (NNS people)))
+                  (CC and)
+                  (VP (VBG saving)
+                    (NP (NNS lives))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB likewise))
+    (NP (NNS marathoners))
+    (VP (VBD put)
+      (NP (PRP themselves))
+      (PP (IN through)
+        (NP
+          (NP (CD 26.2) (NNS miles))
+          (PP (IN of)
+            (NP (NN misery)))))
+      (SBAR (IN because)
+        (S
+          (NP (PRP they))
+          (VP (VBP associate)
+            (NP (NN pleasure))
+            (PP (IN with)
+              (S
+                (VP (VBG completing)
+                  (NP (DT the) (NN course)))))))))
+    (. .)))
+

@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (NP (DT the) (JJ mackinac) (NN center))
+    (VP (VBZ seeks)
+      (S
+        (VP (TO to)
+          (VP (VB destroy)
+            (NP (PRP$ our) (NN team))
+            (PP (IN by)
+              (S
+                (VP (VBG pitting)
+                  (NP
+                    (NP (CD one) (NN group))
+                    (PP (IN against)
+                      (NP (DT another) (NN group)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP
+        (NP (NN example))
+        (PP (IN by)
+          (NP (NN publishing)))))
+    (NP (DT this)
+      (ADJP (RB so) (JJ calledpolicy))
+      (NN reportthey))
+    (VP (VBD had)
+      (VP (VBN hoped)
+        (S
+          (VP (TO to)
+            (VP (VB have)
+              (S
+                (NP (NN ea) (NNS members))
+                (VP (VB turn)
+                  (PP (IN on)
+                    (NP (PRP$ their) (NN esp) (NNS colleagues))))))))))
+    (. .)))
+

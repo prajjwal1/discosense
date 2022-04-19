@@ -1,0 +1,45 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT a) (JJ full) (NN range))
+      (PP (IN of)
+        (NP (NNS tasks)))
+      (, ,)
+      (PP (IN from)
+        (S
+          (VP (VBG accessing)
+            (NP (NN text) (NN corpora))
+            (PP (TO to)
+              (NP (VBG processing) (JJ lexical) (NNS data))))))
+      (, ,))
+    (VP (VBZ is)
+      (ADVP (RB now))
+      (VP (VBG being)
+        (VP (VBN entrusted)
+          (PP (TO to)
+            (NP (NN terminology))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (RB as) (DT a) (NN result))
+    (ADVP (RB terminology))
+    (VP (VBZ has)
+      (S
+        (VP (TO to)
+          (VP (VB enrich)
+            (CC and)
+            (VB strengthen)
+            (NP (PRP$ its) (NNS links))
+            (PP (IN with)
+              (NP (VBN related) (NNS disciplines)))
+            (, ,)
+            (PP (VBG including)
+              (NP
+                (NP (NNS linguistics))
+                (, ,)
+                (NP (NN knowledge) (NN engineering))
+                (CC and)
+                (NP (NN information) (NNS sciences))))))))
+    (. .)))
+

@@ -1,0 +1,2 @@
+conn:nor conn_POS:NN prev1:exposition prev1_POS:NN with_prev1_full:exposition_nor with_prev1_POS_full:NN_NN prev2:the prev2_POS:DT with_prev2_full:the_nor with_prev2_POS_full:DT_NN NA
+conn:and conn_POS:CC prev1:dress prev1_POS:VB with_prev1_full:dress_and with_prev1_POS_full:VB_CC prev2:to prev2_POS:TO with_prev2_full:to_and with_prev2_POS_full:TO_CC NA

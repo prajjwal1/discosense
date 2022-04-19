@@ -1,0 +1,38 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (DT the) (NN meantime)))
+    (, ,)
+    (ADVP (RB though))
+    (, ,)
+    (NP (NN paleowater))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (JJ only) (NN option))
+        (PP (IN in)
+          (NP (JJ many) (NN water) (NN strapped) (NNS nations)))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (PP (IN for)
+      (NP (NN instance) (NN libya)))
+    (VP (VBZ is)
+      (ADJP (JJ habitable)
+        (PP (RB because) (IN of)
+          (ADJP (JJ aquifers)))))
+    (NP
+      (NP (DT some))
+      (PP (IN of)
+        (NP
+          (NP (PRP them))
+          (ADJP
+            (NP (CD 75,000) (NNS years))
+            (JJ old))))
+      (VP (VBN discovered)
+        (PP (IN under)
+          (NP (DT the) (JJ saharas) (NNS sands)))
+        (PP (IN during)
+          (NP (CD 1950s) (NN oil) (NNS explorations)))))
+    (. .)))
+

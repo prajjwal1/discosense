@@ -1,0 +1,66 @@
+(ROOT
+  (S (CC but)
+    (SBAR
+      (WHADVP (WRB when))
+      (S
+        (NP (DT the) (NN physician))
+        (VP (VBD tried)
+          (S
+            (VP (TO to)
+              (VP (VB introduce)
+                (NP (PRP himself))
+                (ADVP (RB again))))))))
+    (, ,)
+    (NP (DT the) (NN patient))
+    (VP (VBD refused)
+      (S
+        (VP (TO to)
+          (VP (VB shake)
+            (NP (PRP$ his) (NN hand))
+            (PP (IN despite)
+              (S (RB not)
+                (VP (VBG being)
+                  (ADJP (JJ able)
+                    (S
+                      (VP (TO to)
+                        (VP (VB recall)
+                          (S
+                            (VP (VBG having)
+                              (VP (VBN been)
+                                (VP (VBN stuck)
+                                  (PP (IN by)
+                                    (NP (DT the) (NN pin))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN by)
+      (NP (NN contrast)))
+    (NP
+      (NP (DT a) (JJ different) (NN patient))
+      (PP (IN with)
+        (NP
+          (NP (NN damage))
+          (PP (TO to)
+            (NP (DT the) (NN amygdala)))))
+      (, ,)
+      (VP (VBN known)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (ADJP (JJ important)
+                (PP (IN for)
+                  (NP (JJ emotional) (NN memory))))))))
+      (, ,))
+    (VP
+      (VP (MD could)
+        (VP (VB remember)
+          (NP (DT the) (NNS facts))
+          (PP (IN about)
+            (NP (DT the) (NN stimulus)))))
+      (CC but)
+      (VP (VBP couldnt)
+        (VP (VB acquire)
+          (NP (DT the) (JJ appropriate) (NN conditioning)))))
+    (. .)))
+

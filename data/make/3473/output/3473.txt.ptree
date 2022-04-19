@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (NP (DT the) (NN official))
+    (VP
+      (VP (VBP english)
+        (NP
+          (NP (NNS titles))
+          (PP (IN of)
+            (NP (DT the) (JJ first) (CD three)))))
+      (CC and)
+      (VP (VBP are)
+        (ADVP (RB essentially))
+        (NP (JJ literal) (NNS translations))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB otherwise))
+    (NP (NNS translations))
+    (VP (VBP are)
+      (VP (VBN provided)
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (ADJP (JJ available))))))
+    (. .)))
+

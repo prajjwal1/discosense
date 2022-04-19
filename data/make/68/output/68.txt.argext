@@ -1,0 +1,47 @@
+conn:then conn_lc:then conn_cat:Coordinator conn_to_node:RB->ADVP->VP->VP->S conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:0 0:2
+conn:then conn_lc:then conn_cat:Coordinator conn_to_node:RB->ADVP->VP->VP->S<-NP conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:-1 0:3
+conn:then conn_lc:then conn_cat:Coordinator conn_to_node:RB->ADVP->VP->VP->S<-NP<-ADJP conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:-1 0:6
+conn:then conn_lc:then conn_cat:Coordinator conn_to_node:RB->ADVP->VP->VP->S<-NP<-ADJP<-S conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:-1 0:11
+conn:then conn_lc:then conn_cat:Coordinator conn_to_node:RB->ADVP->VP->VP->S<-NP<-ADJP<-S<-VP conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:-1 0:12
+conn:then conn_lc:then conn_cat:Coordinator conn_to_node:RB->ADVP->VP->VP->S<-NP<-ADJP<-S<-VP<-VP conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:-1 0:15
+conn:then conn_lc:then conn_cat:Coordinator conn_to_node:RB->ADVP->VP->VP conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:0 0:20
+conn:then conn_lc:then conn_cat:Coordinator conn_to_node:RB->ADVP->VP->VP<-VP conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:-1 0:21
+conn:then conn_lc:then conn_cat:Coordinator conn_to_node:RB->ADVP->VP->VP<-VP<-PP conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:-1 0:24
+conn:then conn_lc:then conn_cat:Coordinator conn_to_node:RB->ADVP->VP->VP<-VP<-PP<-NP conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:-1 0:27
+conn:then conn_lc:then conn_cat:Coordinator conn_to_node:RB->ADVP->VP->VP<-VP<-PP<-NP<-NP conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:-1 0:28
+conn:then conn_lc:then conn_cat:Coordinator conn_to_node:RB->ADVP->VP->VP<-VP<-PP<-NP<-PP conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:-1 0:31
+conn:then conn_lc:then conn_cat:Coordinator conn_to_node:RB->ADVP->VP->VP<-VP<-PP<-NP<-PP<-NP conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:-1 0:34
+conn:then conn_lc:then conn_cat:Coordinator conn_to_node:RB->ADVP->VP conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:0 0:41
+conn:then conn_lc:then conn_cat:Coordinator conn_to_node:RB->ADVP conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:0 0:42
+conn:then conn_lc:then conn_cat:Coordinator conn_to_node:RB->ADVP->VP<-PP conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:1 0:47
+conn:then conn_lc:then conn_cat:Coordinator conn_to_node:RB->ADVP->VP<-PP<-NP conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:1 0:50
+conn:then conn_lc:then conn_cat:Coordinator conn_to_node:RB->ADVP->VP<-PP<-NP<-NP conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:1 0:51
+conn:then conn_lc:then conn_cat:Coordinator conn_to_node:RB->ADVP->VP<-PP<-NP<-PP conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:1 0:56
+conn:then conn_lc:then conn_cat:Coordinator conn_to_node:RB->ADVP->VP<-PP<-NP<-PP<-NP conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:1 0:59
+conn:yet conn_lc:yet conn_cat:Coordinator conn_to_node:CC->VP->NP->PP->NP->VP->S->PP->VP->VP->S conn_node_lsib_size=3 conn_node_rsib_size=1 conn_to_node:CC->VP->NP->PP->NP->VP->S->PP->VP->VP->S^conn_node_lsib_size:>1 conn_to_node_relpos:0 1:2
+conn:yet conn_lc:yet conn_cat:Coordinator conn_to_node:CC->VP->NP->PP->NP->VP->S->PP->VP->VP->S<-PP conn_node_lsib_size=3 conn_node_rsib_size=1 conn_to_node:CC->VP->NP->PP->NP->VP->S->PP->VP->VP->S<-PP^conn_node_lsib_size:>1 conn_to_node_relpos:-1 1:3
+conn:yet conn_lc:yet conn_cat:Coordinator conn_to_node:CC->VP->NP->PP->NP->VP->S->PP->VP->VP->S<-PP<-NP conn_node_lsib_size=3 conn_node_rsib_size=1 conn_to_node:CC->VP->NP->PP->NP->VP->S->PP->VP->VP->S<-PP<-NP^conn_node_lsib_size:>1 conn_to_node_relpos:-1 1:8
+conn:yet conn_lc:yet conn_cat:Coordinator conn_to_node:CC->VP->NP->PP->NP->VP->S->PP->VP->VP->S<-NP conn_node_lsib_size=3 conn_node_rsib_size=1 conn_to_node:CC->VP->NP->PP->NP->VP->S->PP->VP->VP->S<-NP^conn_node_lsib_size:>1 conn_to_node_relpos:-1 1:17
+conn:yet conn_lc:yet conn_cat:Coordinator conn_to_node:CC->VP->NP->PP->NP->VP->S->PP->VP->VP conn_node_lsib_size=3 conn_node_rsib_size=1 conn_to_node:CC->VP->NP->PP->NP->VP->S->PP->VP->VP^conn_node_lsib_size:>1 conn_to_node_relpos:0 1:20
+conn:yet conn_lc:yet conn_cat:Coordinator conn_to_node:CC->VP->NP->PP->NP->VP->S->PP->VP conn_node_lsib_size=3 conn_node_rsib_size=1 conn_to_node:CC->VP->NP->PP->NP->VP->S->PP->VP^conn_node_lsib_size:>1 conn_to_node_relpos:0 1:23
+conn:yet conn_lc:yet conn_cat:Coordinator conn_to_node:CC->VP->NP->PP->NP->VP->S->PP->VP<-ADJP conn_node_lsib_size=3 conn_node_rsib_size=1 conn_to_node:CC->VP->NP->PP->NP->VP->S->PP->VP<-ADJP^conn_node_lsib_size:>1 conn_to_node_relpos:-1 1:26
+conn:yet conn_lc:yet conn_cat:Coordinator conn_to_node:CC->VP->NP->PP->NP->VP->S->PP->VP<-ADJP<-PP conn_node_lsib_size=3 conn_node_rsib_size=1 conn_to_node:CC->VP->NP->PP->NP->VP->S->PP->VP<-ADJP<-PP^conn_node_lsib_size:>1 conn_to_node_relpos:-1 1:29
+conn:yet conn_lc:yet conn_cat:Coordinator conn_to_node:CC->VP->NP->PP->NP->VP->S->PP->VP<-ADJP<-PP<-NP conn_node_lsib_size=3 conn_node_rsib_size=1 conn_to_node:CC->VP->NP->PP->NP->VP->S->PP->VP<-ADJP<-PP<-NP^conn_node_lsib_size:>1 conn_to_node_relpos:-1 1:32
+conn:yet conn_lc:yet conn_cat:Coordinator conn_to_node:CC->VP->NP->PP->NP->VP->S->PP conn_node_lsib_size=3 conn_node_rsib_size=1 conn_to_node:CC->VP->NP->PP->NP->VP->S->PP^conn_node_lsib_size:>1 conn_to_node_relpos:0 1:37
+conn:yet conn_lc:yet conn_cat:Coordinator conn_to_node:CC->VP->NP->PP->NP->VP->S conn_node_lsib_size=3 conn_node_rsib_size=1 conn_to_node:CC->VP->NP->PP->NP->VP->S^conn_node_lsib_size:>1 conn_to_node_relpos:0 1:40
+conn:yet conn_lc:yet conn_cat:Coordinator conn_to_node:CC->VP->NP->PP->NP->VP conn_node_lsib_size=3 conn_node_rsib_size=1 conn_to_node:CC->VP->NP->PP->NP->VP^conn_node_lsib_size:>1 conn_to_node_relpos:0 1:41
+conn:yet conn_lc:yet conn_cat:Coordinator conn_to_node:CC->VP->NP->PP->NP conn_node_lsib_size=3 conn_node_rsib_size=1 conn_to_node:CC->VP->NP->PP->NP^conn_node_lsib_size:>1 conn_to_node_relpos:0 1:44
+conn:yet conn_lc:yet conn_cat:Coordinator conn_to_node:CC->VP->NP->PP->NP<-NP conn_node_lsib_size=3 conn_node_rsib_size=1 conn_to_node:CC->VP->NP->PP->NP<-NP^conn_node_lsib_size:>1 conn_to_node_relpos:-1 1:45
+conn:yet conn_lc:yet conn_cat:Coordinator conn_to_node:CC->VP->NP->PP conn_node_lsib_size=3 conn_node_rsib_size=1 conn_to_node:CC->VP->NP->PP^conn_node_lsib_size:>1 conn_to_node_relpos:0 1:48
+conn:yet conn_lc:yet conn_cat:Coordinator conn_to_node:CC->VP->NP conn_node_lsib_size=3 conn_node_rsib_size=1 conn_to_node:CC->VP->NP^conn_node_lsib_size:>1 conn_to_node_relpos:0 1:51
+conn:yet conn_lc:yet conn_cat:Coordinator conn_to_node:CC->VP->NP<-NP conn_node_lsib_size=3 conn_node_rsib_size=1 conn_to_node:CC->VP->NP<-NP^conn_node_lsib_size:>1 conn_to_node_relpos:-1 1:52
+conn:yet conn_lc:yet conn_cat:Coordinator conn_to_node:CC->VP conn_node_lsib_size=3 conn_node_rsib_size=1 conn_to_node:CC->VP^conn_node_lsib_size:>1 conn_to_node_relpos:0 1:55
+conn:yet conn_lc:yet conn_cat:Coordinator conn_to_node:CC->VP<-NP conn_node_lsib_size=3 conn_node_rsib_size=1 conn_to_node:CC->VP<-NP^conn_node_lsib_size:>1 conn_to_node_relpos:-1 1:58
+conn:yet conn_lc:yet conn_cat:Coordinator conn_to_node:CC->VP<-SBAR conn_node_lsib_size=3 conn_node_rsib_size=1 conn_to_node:CC->VP<-SBAR^conn_node_lsib_size:>1 conn_to_node_relpos:1 1:69
+conn:yet conn_lc:yet conn_cat:Coordinator conn_to_node:CC->VP<-SBAR<-S conn_node_lsib_size=3 conn_node_rsib_size=1 conn_to_node:CC->VP<-SBAR<-S^conn_node_lsib_size:>1 conn_to_node_relpos:1 1:72
+conn:yet conn_lc:yet conn_cat:Coordinator conn_to_node:CC->VP<-SBAR<-S<-NP conn_node_lsib_size=3 conn_node_rsib_size=1 conn_to_node:CC->VP<-SBAR<-S<-NP^conn_node_lsib_size:>1 conn_to_node_relpos:1 1:73
+conn:yet conn_lc:yet conn_cat:Coordinator conn_to_node:CC->VP<-SBAR<-S<-NP<-NP conn_node_lsib_size=3 conn_node_rsib_size=1 conn_to_node:CC->VP<-SBAR<-S<-NP<-NP^conn_node_lsib_size:>1 conn_to_node_relpos:1 1:74
+conn:yet conn_lc:yet conn_cat:Coordinator conn_to_node:CC->VP<-SBAR<-S<-NP<-PP conn_node_lsib_size=3 conn_node_rsib_size=1 conn_to_node:CC->VP<-SBAR<-S<-NP<-PP^conn_node_lsib_size:>1 conn_to_node_relpos:1 1:77
+conn:yet conn_lc:yet conn_cat:Coordinator conn_to_node:CC->VP<-SBAR<-S<-NP<-PP<-NP conn_node_lsib_size=3 conn_node_rsib_size=1 conn_to_node:CC->VP<-SBAR<-S<-NP<-PP<-NP^conn_node_lsib_size:>1 conn_to_node_relpos:1 1:80
+conn:yet conn_lc:yet conn_cat:Coordinator conn_to_node:CC->VP<-SBAR<-S<-VP conn_node_lsib_size=3 conn_node_rsib_size=1 conn_to_node:CC->VP<-SBAR<-S<-VP^conn_node_lsib_size:>1 conn_to_node_relpos:1 1:83
+conn:yet conn_lc:yet conn_cat:Coordinator conn_to_node:CC->VP<-SBAR<-S<-VP<-VP conn_node_lsib_size=3 conn_node_rsib_size=1 conn_to_node:CC->VP<-SBAR<-S<-VP<-VP^conn_node_lsib_size:>1 conn_to_node_relpos:1 1:86

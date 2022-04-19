@@ -1,0 +1,1 @@
+raw files at 1600 are a bit of an issue theres more detail there than in the jpg, and also more noise. but the real issue is that, with default develop settings, colors are washed out at when viewed in lightroom on a calibrated nec multisync pa 271 w lcd display.

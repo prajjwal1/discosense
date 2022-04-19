@@ -1,0 +1,1 @@
+for as m increases the number of false positives increases, in particular going from 2 to 3 missing taxa produces a dramatic increase. conversely the number of false negatives decreases, presumably due to the fact that as the number of missing taxa gets large more splits meet the requirement of the filter.

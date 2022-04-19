@@ -1,0 +1,61 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (JJ last) (NN band))
+      (PP (IN of)
+        (NP (JJ eternal) (NNS warriors)))
+      (, ,)
+      (VP (VBN led)
+        (PP (IN by)
+          (NP
+            (NP (NN duncan) (NN macleod))
+            (, ,)
+            (NP (DT the) (NN highlander)))))
+      (, ,))
+    (VP (VBP have)
+      (VP (VBN set)
+        (PRT (RP out))
+        (PP (IN on)
+          (NP (DT a) (JJ treacherous) (NN quest)))
+        (S
+          (VP (TO to)
+            (VP (VB find)
+              (NP
+                (NP (DT the) (NN origin))
+                (PP (IN of)
+                  (NP (PRP$ their) (NN immortality)))))))))
+    (. .)))
+
+(ROOT
+  (S (CC but)
+    (S
+      (VP (TO to)
+        (VP (VB learn)
+          (NP (DT the) (NN truth)))))
+    (, ,)
+    (NP (PRP they))
+    (VP (MD must)
+      (ADVP (RB first))
+      (VP (VB defeat)
+        (NP
+          (NP (DT the) (NN guardian))
+          (PP (IN of)
+            (NP
+              (NP (DT the) (NN source))
+              (, ,)
+              (NP
+                (NP (DT a) (JJ powerful) (NN killer))
+                (SBAR
+                  (WHNP (WP who))
+                  (S
+                    (VP (MD will)
+                      (VP (VB destroy)
+                        (NP
+                          (NP (DT all))
+                          (SBAR
+                            (WHNP (WP who))
+                            (S
+                              (VP (VBP seek)
+                                (NP (PRP$ its) (NNS secrets))))))))))))))))
+    (. .)))
+

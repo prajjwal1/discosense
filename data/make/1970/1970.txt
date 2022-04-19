@@ -1,0 +1,1 @@
+if the size of the current frame is not smaller than the target size, processing of the current p frame by primary open loop rate control 202 is complete. thus if the size of the current p frame is equal to the target size, 114 is not adjusted by primary open loop rate control 202.

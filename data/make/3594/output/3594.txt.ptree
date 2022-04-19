@@ -1,0 +1,44 @@
+(ROOT
+  (S
+    (NP
+      (NP (JJ anti) (NN immigration) (NNS laws))
+      (PP (IN at)
+        (NP (DT that) (NN time))))
+    (VP (VBD made)
+      (S
+        (NP (PRP it))
+        (ADJP (RB extremely) (JJ difficult)
+          (PP (IN for)
+            (NP
+              (NP (NNS people))
+              (PP (IN of)
+                (NP (JJ japanese) (NN descent))))))
+        (S
+          (VP (TO to)
+            (VP (VB purchase)
+              (NP
+                (NP (NN land))
+                (PP (IN in)
+                  (NP (DT the) (VBN united) (NNS states)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB nonetheless))
+      (NP (NN land))
+      (VP (VBD was)
+        (VP (VBN purchased))))
+    (CC and)
+    (S
+      (NP
+        (NP (NN construction))
+        (PP (IN of)
+          (NP (DT a) (NN temple))))
+      (VP (VBD was)
+        (ADVP (RB eventually))
+        (VP (VBN completed)
+          (PP (IN after)
+            (NP (CD three) (NNS years))))))
+    (. .)))
+

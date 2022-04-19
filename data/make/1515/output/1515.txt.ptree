@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (DT the) (JJ early) (CD 1990) (NNS s)))
+    (, ,)
+    (NP
+      (NP (DT the) (JJ absolute) (NN increase))
+      (PP (IN in)
+        (NP (NN population))))
+    (VP (VBD was)
+      (NP
+        (NP
+          (QP (CD 93) (CD million)))
+        (PP (IN per)
+          (NP
+            (NP (NN year))
+            (, ,)
+            (NP
+              (NP (DT the) (JJ differ) (NN ence))
+              (PP (IN between)
+                (NP
+                  (NP
+                    (QP (CD 144) (CD million))
+                    (NNS births))
+                  (CC and)
+                  (NP
+                    (QP (CD 51) (CD million))
+                    (NNS deaths)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB similarly))
+    (NP (DT the) (NNS worlds) (NN growth) (NN rate))
+    (VP (VBD equaled)
+      (NP
+        (NP (DT the) (NN birth) (NN rate))
+        (PP (CC minus)
+          (NP (DT the) (NN death) (NN rate)))))
+    (. .)))
+

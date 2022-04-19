@@ -1,0 +1,2 @@
+conn:in_particular conn_POS:IN_JJ sent_pos:0 NA
+conn:after conn_POS:IN prev1:schoolyard prev1_POS:NN with_prev1_full:schoolyard_after with_prev1_POS_full:NN_IN prev2:a prev2_POS:DT with_prev2_full:a_after with_prev2_POS_full:DT_IN NA

@@ -1,0 +1,26 @@
+(ROOT
+  (S
+    (NP (NN oxtail))
+    (VP (VBZ is)
+      (ADVP (RB plainly))
+      (NP
+        (NP (DT the) (NN type))
+        (PP (IN of)
+          (NP (NN meat)))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBZ calls)
+              (PP (IN for)
+                (NP (JJ long) (, ,) (JJ slow) (NN cooking))))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (IN in) (JJ other) (NNS words))
+    (NP
+      (NP (DT a) (NN stew))
+      (CC or)
+      (NP (DT a) (NN braise)))
+    (. .)))
+

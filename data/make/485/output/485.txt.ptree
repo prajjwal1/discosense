@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (NP (NN project) (NN impact))
+    (VP (VBP wont)
+      (VP (VB be)
+        (NP
+          (NP (DT the) (JJ last) (NN problem) (NN duke))
+          (SBAR
+            (S
+              (VP (VBZ has)
+                (S
+                  (VP (TO to)
+                    (VP (VB solve))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP (NN instance)))
+    (NP (DT the) (NN company))
+    (VP (VBZ has)
+      (VP (VBN made)
+        (NP
+          (NP (JJ huge) (NNS gains))
+          (PP (IN in)
+            (NP (JJ public) (NN perception))))
+        (PP (IN on)
+          (NP
+            (NP
+              (NP (JJ social) (NNS issues))
+              (PP (IN over)
+                (NP (DT the) (JJ past) (JJ few) (NNS years))))
+            (, ,) (RB notably) (IN through)
+            (NP
+              (NP (PRP$ its) (NN embrace))
+              (PP (IN of)
+                (NP (JJ green) (NN business) (NNS practices))))))))
+    (. .)))
+

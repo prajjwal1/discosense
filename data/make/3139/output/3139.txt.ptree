@@ -1,0 +1,50 @@
+(ROOT
+  (S
+    (S
+      (LST (LS r))
+      (NP (NN help) (NN discussion) (NNS boards))
+      (VP (VBP are)
+        (ADJP (JJ useful) (, ,)
+          (CC but)
+          (JJ difficult))
+        (PP (TO to)
+          (NP (NN search)))))
+    (, ,)
+    (CC and)
+    (S
+      (NP
+        (NP (JJ many))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (NNS applications))
+            (PP (IN from)
+              (NP (NN r) (NN help))))))
+      (VP (VBP are)
+        (PP (IN for)
+          (NP
+            (NP (NNS statistics))
+            (VP (VBN related)
+              (PP (TO to)
+                (NP (DT another) (NN field))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB because) (IN of)
+      (NP (DT this) (NN mismatch)))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ requires)
+      (NP (DT some) (NN translation)
+        (S
+          (VP (TO to)
+            (VP (VB understand)
+              (SBAR
+                (WHNP (WP what))
+                (S
+                  (NP (DT the) (NN suggestion))
+                  (VP (VBZ means)
+                    (PP (IN in)
+                      (NP (JJ econometrics) (NN language)))))))))))
+    (. .)))
+

@@ -1,0 +1,36 @@
+(ROOT
+  (S (CC but)
+    (NP (PRP it))
+    (VP (VBP wasnt)
+      (NP
+        (NP (DT the) (NN composition))
+        (PP (IN of)
+          (NP
+            (NP (NNS microbes))
+            (PP (IN in)
+              (NP
+                (NP (DT the) (NN gut))
+                (SBAR
+                  (WHNP (WDT that))
+                  (S
+                    (VP (VBD caused)
+                      (NP (DT the) (NNS problems)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB instead))
+      (NP (NN wei))
+      (VP (VBZ says)))
+    (, ,)
+    (NP (DT the) (NNS mice))
+    (VP (VBD got)
+      (ADJP (JJ sick))
+      (PP (RB because) (IN of)
+        (NP
+          (NP (DT a) (NN defect))
+          (PP (IN in)
+            (NP (JJ fatty) (JJ acid) (NN synthase))))))
+    (. .)))
+

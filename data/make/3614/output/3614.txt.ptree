@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (NP
+      (NP (NN dragon))
+      (PP (IN like)
+        (NP (NNS creatures))))
+    (VP (VBP appear)
+      (PP (IN in)
+        (NP
+          (NP (RB virtually) (DT all) (NNS cultures))
+          (PP (IN around)
+            (NP (DT the) (NN globe))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB nonetheless))
+      (NP (NNS scholars))
+      (VP (VBP dispute)
+        (SBAR
+          (WHADVP (WRB where))
+          (S
+            (NP
+              (NP (DT the) (NN idea))
+              (PP (IN of)
+                (NP (DT a) (NN dragon))))
+            (VP (VBZ originates)
+              (PP (IN from)))))))
+    (CC and)
+    (S
+      (NP
+        (NP (DT a) (JJ wide) (NN variety))
+        (PP (IN of)
+          (NP (NNS theories))))
+      (VP (VBP have)
+        (VP (VBN been)
+          (VP (VBN proposed)))))
+    (. .)))
+

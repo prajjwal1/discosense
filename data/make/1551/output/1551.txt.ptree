@@ -1,0 +1,37 @@
+(ROOT
+  (S (CC or)
+    (, ,)
+    (NP (PRP they))
+    (VP (VB dont)
+      (VP (VB know)
+        (SBAR
+          (WHNP (WP what))
+          (S
+            (NP (NNS decisions))
+            (VP (MD will)
+              (VP (VB impact)
+                (NP (DT these) (NNS metrics))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB similarly))
+    (NP (NN decision) (NNS makers))
+    (VP
+      (VP (MD may)
+        (VP (VB be)
+          (VP (VBN inundated)
+            (PP (IN with)
+              (NP (NNS data))))))
+      (CC and)
+      (VP (MD might)
+        (VP (VB miss)
+          (NP
+            (NP (JJ critical) (NN information))
+            (VP (VBN hidden)
+              (PP (IN by)
+                (NP
+                  (ADJP (RB too) (RB much) (JJ unnecessary))
+                  (NN information))))))))
+    (. .)))
+

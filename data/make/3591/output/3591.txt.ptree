@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (PP (IN after)
+      (S
+        (VP (VBG accepting)
+          (NP (DT a) (NN position))
+          (PP (IN as)
+            (NP
+              (NP (DT the) (NN community) (NN rabbi))
+              (PP (IN of)
+                (NP (NN cleveland))))))))
+    (, ,)
+    (NP (NN ohio) (, ,) (JJ rabbi) (NN levenberg))
+    (VP (VBD moved)
+      (NP (PRP$ his) (NN yeshiva)
+        (S
+          (VP (TO to)
+            (VP (VB cleveland))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (SBAR (IN although)
+      (S
+        (NP (PRP it))
+        (ADVP (RB never))
+        (VP (VBD reached)
+          (NP (DT the) (JJ same) (NN position))
+          (PP (IN in)
+            (NP (NN prestige)))
+          (PP (IN at)
+            (NP (PRP$ its) (JJR newer) (NN location))))))
+    (. .)))
+

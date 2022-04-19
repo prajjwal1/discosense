@@ -1,0 +1,56 @@
+(ROOT
+  (S
+    (VP (VB pair)
+      (NP
+        (NP (DT that))
+        (PP (IN with)
+          (NP (DT the) (NN fact))))
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (CD six))
+            (PP (IN of)
+              (NP
+                (NP (DT the) (JJ top) (CD 10) (NNS teams))
+                (PP (IN in)
+                  (NP (DT the) (NN league))))))
+          (VP (VBP play)
+            (PP (IN in)
+              (NP
+                (NP (DT the) (JJ east))
+                (CC and)
+                (NP (PRP$ its))))
+            (NP
+              (NP (DT no) (NN question))
+              (SBAR
+                (WHNP (WDT which))
+                (S
+                  (NP (NN conference))
+                  (VP (VBZ is)
+                    (ADJP
+                      (ADJP (JJR stronger))
+                      (PP (IN at)
+                        (NP (DT the) (NN moment))))))))))))
+    (. .)))
+
+(ROOT
+  (S (CC but)
+    (PP (IN with)
+      (NP
+        (NP (CD seven) (NN quality) (NNS teams))
+        (VP (VBG vying)
+          (PP (IN for)
+            (NP (CD five))))))
+    (NP (NN postseason))
+    (VP (VBZ berths)
+      (PP (IN out)
+        (SBARQ
+          (PP (IN of)
+            (NP (DT the) (JJ east)))
+          (, ,)
+          (WHADVP (WRB how))
+          (SQ (MD will)
+            (NP (PRP it))
+            (VP (RB all) (VB unfold))))))
+    (. .)))
+

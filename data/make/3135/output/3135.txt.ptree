@@ -1,0 +1,52 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP$ its)
+        (ADJP (RB far)
+          (PP (IN from)
+            (NP (DT an) (NN ideal))))
+        (NN solution))
+      (, ,)
+      (CC but)
+      (NP (PRP it))
+      (VP (VBD was)
+        (NP
+          (QP (RB only) (CD one)))))
+    (NP (DT that) (FW i))
+    (VP (MD could)
+      (VP (VB figure)
+        (PRT (RP out))
+        (SBAR (IN that)
+          (S
+            (VP (VBZ is)
+              (ADJP (JJ manageable)))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (PP (RB because) (IN of)
+      (NP
+        (NP (DT this) (NN lack))
+        (PP (IN of)
+          (NP (JJ good) (NN sftp) (NN support)))))
+    (VP (VBZ is))
+    (SBAR
+      (WHNP (WP what))
+      (S
+        (VP (VBZ has)
+          (VP (VBN stopped)
+            (NP (PRP me))
+            (PP (IN from)
+              (S
+                (VP (VBG purchasing)
+                  (NP (JJ sublime) (NN text))
+                  (SBAR (IN because)
+                    (S
+                      (NP (FW i))
+                      (VP (VBP love)
+                        (NP
+                          (NP (DT every) (JJ other) (NN aspect))
+                          (PP (IN of)
+                            (NP (PRP it))))))))))))))
+    (. .)))
+

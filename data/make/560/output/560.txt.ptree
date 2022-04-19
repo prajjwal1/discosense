@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (NP (FW i))
+    (VP (VBP disagree)
+      (SBAR (IN that)
+        (S
+          (NP (NN paul))
+          (VP (VBZ is)
+            (NP
+              (NP (NN upton) (NN park))
+              (SBAR
+                (S
+                  (NP (PRP he))
+                  (VP (VBZ is)
+                    (PP (IN at)
+                      (NP (DT the)
+                        (ADJP (RB very) (JJS least))
+                        (NN dagenham)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN although)
+      (FRAG
+        (PP (IN except)
+          (PP (IN for)
+            (NP (DT the) (NN occupation))))))
+    (, ,)
+    (NP (NN id))
+    (VP (VBP say)
+      (SBAR
+        (S
+          (NP (PRP he))
+          (VP (VBZ is)
+            (ADJP (RB pretty) (RB much) (JJ upminster))))))
+    (. .)))
+

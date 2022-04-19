@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (VP (VBP divide)
+      (NP (PRP it))
+      (PP (VBG according)
+        (PP (TO to)
+          (NP (DT the) (NNS requirements)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP (NN example)))
+    (NP (PRP you))
+    (VP (VBP need)
+      (NP
+        (NP (DT a) (NN study) (NN table))
+        (, ,)
+        (NP (DT a) (NN rack)))
+      (PP (IN beside)
+        (NP (DT the) (NN table)
+          (S
+            (VP (TO to)
+              (VP (VB keep)
+                (NP
+                  (NP (NNS books))
+                  (CC and)
+                  (NP
+                    (NP (JJ other) (NNS items))
+                    (, ,)
+                    (NP (FW etc.))))))))))
+    (. .)))
+

@@ -1,0 +1,1 @@
+it therefore lacks a few features, notably a way of submitting the changed style sheet to the server and applying it to the entire site. nonetheless the script as such works, and provides an excellent example of editing style sheets, as well as preparing your html forms to closely cooperate with a script.

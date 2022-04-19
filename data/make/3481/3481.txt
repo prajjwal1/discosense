@@ -1,0 +1,1 @@
+the concept of a hilbert schmidt operator may be extended to any locally compact hausdorff spaces. specifically let x be a locally compact hausdorff space equipped with a positive borel measure.

@@ -1,0 +1,50 @@
+(ROOT
+  (S
+    (NP (PRP she))
+    (VP (VBZ writes)
+      (PP (IN about)
+        (SBAR
+          (WHADVP (WRB how))
+          (S
+            (NP (NNS things))
+            (ADVP (RB maybe))
+            (VP (VBP are)
+              (ADVP (RBS best))
+              (VP (VBN left)
+                (ADVP (RB alone))
+                (, ,)
+                (SBAR
+                  (WHNP (WDT which))
+                  (S
+                    (VP (VBZ appears)
+                      (S
+                        (VP (TO to)
+                          (VP (VB be)
+                            (NP
+                              (NP
+                                (NP (DT the) (NN anthem))
+                                (PP (IN of)
+                                  (NP (JJ adoptive) (NNS parents))))
+                              (CC and)
+                              (NP
+                                (NP (PRP$ their) (JJ fellow) (NNS travelers))
+                                (, ,)
+                                (NP
+                                  (NP (NN adoption))
+                                  (PP (IN for)
+                                    (NP (NN profit) (NNS agencies))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADVP (RB otherwise))
+    (SBAR
+      (WHADVP (WRB why))
+      (S
+        (NP (PRP$ her) (NN poem))
+        (VP (VBZ is)
+          (VP (VBG being)
+            (VP (VBN adopted)
+              (ADVP (RB rapidly)))))))
+    (. .)))
+

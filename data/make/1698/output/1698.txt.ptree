@@ -1,0 +1,63 @@
+(ROOT
+  (S
+    (PP (IN for)
+      (NP (NN example)))
+    (, ,)
+    (S
+      (NP (PRP we))
+      (VP (VB explore)
+        (NP
+          (NP (DT the) (NN cooperation)
+            (CC and)
+            (NN competition))
+          (PP (IN between)
+            (NP (NNS humans)
+              (CC and)
+              (NNS machines))))
+        (SBAR (IN as)
+          (S
+            (NP (DT a) (NNS people))
+            (VP (VBD centered)
+              (NP (NN tension)))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (NNS organizations)
+        (CC and)
+        (NNS ecosystems))
+      (VP (VBP are)
+        (ADVP (RB also))
+        (VP (VBN affected))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB similarly))
+    (NP (PRP we))
+    (VP (VBP consider)
+      (NP
+        (NP (RB only) (DT a) (NN subset))
+        (PP (IN of)
+          (NP (JJ meaningful) (NNS contradictions))))
+      (PP (IN while)
+        (S
+          (VP (VBG overlooking)
+            (NP
+              (NP (JJ many) (NNS others))
+              (, ,)
+              (PP (JJ such) (IN as)
+                (NP
+                  (NP
+                    (NP (DT the) (VBG growing) (NN divide))
+                    (PP (IN between)
+                      (NP (JJ prosperous) (NNS americans))))
+                  (CC and)
+                  (NP
+                    (NP (DT the)
+                      (ADJP
+                        (QP (CD 49.7) (CD million)))
+                      (NN living))
+                    (PP (IN in)
+                      (NP (NN poverty)))))))))))
+    (. .)))
+

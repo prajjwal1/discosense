@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (NP (NN tube))
+    (VP (VBZ has)
+      (NP
+        (NP (DT a)
+          (NAC
+            (NP (JJR thinner) (NN wall))
+            (ADVP (RB then)))
+          (NN pipe))
+        (CC and)
+        (NP
+          (NP (NNS thats))
+          (SBAR
+            (WHADVP (WRB why))
+            (S
+              (NP (PRP it))
+              (VP (VBZ dents)
+                (ADJP (JJR easier))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB because) (IN of)
+      (NP (DT this) (JJR thicker) (NN wall)))
+    (NP (NN pipe))
+    (VP (VBZ is)
+      (ADVP (RBR heavier))
+      (RB then)
+      (ADJP (JJ tube)))
+    (. .)))
+

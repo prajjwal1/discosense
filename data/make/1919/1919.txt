@@ -1,0 +1,1 @@
+smart grid, equipped with modern communication infrastructures, is subject to possible cyber attacks. particularly false report attacks which replace the sensor reports with fraud ones may cause the instability of the whole power grid or even result in a large area blackout.

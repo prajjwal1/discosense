@@ -1,0 +1,52 @@
+(ROOT
+  (S
+    (PP (IN on)
+      (NP (DT the) (CD one) (NN hand)))
+    (, ,)
+    (S
+      (NP (DT the) (JJ violent) (NN incident))
+      (VP (VBZ is)
+        (NP (DT a) (JJ local) (NN issue))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (EX there))
+      (VP (VBZ is)
+        (ADVP (RB now))
+        (NP (DT an) (JJ ongoing) (JJ legal) (NN process))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (ADVP (RB yet))
+    (VP (VBD juxtaposed)
+      (PP (IN against)
+        (NP (DT a) (NN gop) (NN debate)))
+      (PP (IN over)
+        (NP (NN etch))))
+    (NP
+      (NP (DT a) (NNS sketches))
+      (, ,)
+      (NP
+        (NP (PRP$ his) (NNS remarks))
+        (VP (VBN underscored)
+          (SBAR
+            (WHADVP (WRB why))
+            (S
+              (NP (NNS republicans))
+              (VP (VBP have)
+                (VP (VBN fretted)
+                  (PP (IN about)
+                    (NP
+                      (NP (DT a) (NN primary))
+                      (SBAR
+                        (WHNP (WDT that))
+                        (S
+                          (VP (VBZ has)
+                            (VP (VBN had)
+                              (NP
+                                (NP (DT a) (VBG shrinking) (NN effect))
+                                (PP (IN on)
+                                  (NP (DT the) (NNS candidates)))))))))))))))))
+    (. .)))
+

@@ -1,0 +1,49 @@
+(ROOT
+  (S
+    (S
+      (VP (TO to)
+        (VP (VB remain)
+          (VP (VBN poised)
+            (PP (IN for)
+              (NP (JJ quick) (NN action)))))))
+    (, ,)
+    (NP
+      (NP (JJS most))
+      (PP (IN of)
+        (NP (DT the) (NN fly))))
+    (VP (VBZ fishers)
+      (SBAR
+        (S
+          (NP (FW i))
+          (VP (VBP know)
+            (VP (VB use)
+              (S
+                (VP (VBG stripping)
+                  (NP (NNS baskets))
+                  (PP (IN while)
+                    (NP (NN wading))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (JJ particular) (NN kathy)
+        (CC and)
+        (NN i) (NN favor)))
+    (NP (DT an) (JJ innovative) (NN stripping) (NN basket))
+    (VP (VBD called)
+      (SBAR
+        (S
+          (NP
+            (NP (DT the) (NN stripn) (NN aid))
+            (, ,)
+            (VP (VBN made)
+              (PP (IN by)
+                (NP
+                  (NP (NN lake) (NN fork) (NNS industries))
+                  (PP (IN of)
+                    (NP (NN waco))))))
+            (, ,))
+          (VP (VBZ texas)))))
+    (. .)))
+

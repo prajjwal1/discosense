@@ -1,0 +1,14 @@
+conn:if conn_lc:if conn_cat:Subordinator conn_to_node:IN->SBAR->S->VP->VP->S conn_node_lsib_size=0 conn_node_rsib_size=1 conn_to_node_relpos:0 0:2
+conn:if conn_lc:if conn_cat:Subordinator conn_to_node:IN->SBAR->S->VP->VP->S<-NP conn_node_lsib_size=0 conn_node_rsib_size=1 conn_to_node_relpos:-1 0:3
+conn:if conn_lc:if conn_cat:Subordinator conn_to_node:IN->SBAR->S->VP->VP conn_node_lsib_size=0 conn_node_rsib_size=1 conn_to_node_relpos:0 0:6
+conn:if conn_lc:if conn_cat:Subordinator conn_to_node:IN->SBAR->S->VP conn_node_lsib_size=0 conn_node_rsib_size=1 conn_to_node_relpos:0 0:9
+conn:if conn_lc:if conn_cat:Subordinator conn_to_node:IN->SBAR->S conn_node_lsib_size=0 conn_node_rsib_size=1 conn_to_node_relpos:0 0:12
+conn:if conn_lc:if conn_cat:Subordinator conn_to_node:IN->SBAR<-ROOT<-S<-VP<-VP<-S<-NP conn_node_lsib_size=0 conn_node_rsib_size=1 conn_to_node_relpos:-1 0:13
+conn:if conn_lc:if conn_cat:Subordinator conn_to_node:IN->SBAR->S<-ADJP conn_node_lsib_size=0 conn_node_rsib_size=1 conn_to_node_relpos:-1 0:16
+conn:if conn_lc:if conn_cat:Subordinator conn_to_node:IN->SBAR conn_node_lsib_size=0 conn_node_rsib_size=1 conn_to_node_relpos:0 0:21
+conn:if conn_lc:if conn_cat:Subordinator conn_to_node:IN->SBAR<-S conn_node_lsib_size=0 conn_node_rsib_size=1 conn_to_node_relpos:1 0:24
+conn:if conn_lc:if conn_cat:Subordinator conn_to_node:IN->SBAR<-S<-NP conn_node_lsib_size=0 conn_node_rsib_size=1 conn_to_node_relpos:1 0:25
+conn:if conn_lc:if conn_cat:Subordinator conn_to_node:IN->SBAR<-S<-VP conn_node_lsib_size=0 conn_node_rsib_size=1 conn_to_node_relpos:1 0:28
+conn:if conn_lc:if conn_cat:Subordinator conn_to_node:IN->SBAR<-S<-VP<-ADJP conn_node_lsib_size=0 conn_node_rsib_size=1 conn_to_node_relpos:1 0:31
+conn:if conn_lc:if conn_cat:Subordinator conn_to_node:IN->SBAR<-S<-VP<-ADJP<-PP conn_node_lsib_size=0 conn_node_rsib_size=1 conn_to_node_relpos:1 0:36
+conn:if conn_lc:if conn_cat:Subordinator conn_to_node:IN->SBAR<-S<-VP<-ADJP<-PP<-NP conn_node_lsib_size=0 conn_node_rsib_size=1 conn_to_node_relpos:1 0:39

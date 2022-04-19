@@ -1,0 +1,31 @@
+(ROOT
+  (S (RB not)
+    (NP (NN everyone))
+    (VP (VBZ owns)
+      (NP
+        (NP (DT a) (NN credit) (NN card))
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (MD should)
+              (VP (VB be)
+                (ADJP (RB very) (JJ obvious)
+                  (PP (TO to)
+                    (NP (PRP you))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB similarly))
+    (NP
+      (NP (RB not) (NN everyone))
+      (SBAR
+        (WHNP (WP who))
+        (S
+          (VP (VBZ has)
+            (NP (PRP it))))))
+    (VP (VBZ uses)
+      (NP (PRP it))
+      (ADVP (RB as) (RB well)))
+    (. .)))
+

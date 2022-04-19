@@ -1,0 +1,53 @@
+(ROOT
+  (S
+    (NP
+      (NP (JJ seismic) (NN interpretation) (NNS models))
+      (SBAR
+        (WHNP (WDT that))
+        (S
+          (VP (VB incorporate)
+            (NP (JJ snells) (NN law))))))
+    (VP (VBP are)
+      (ADJP (RB very) (JJ complex)
+        (S
+          (VP (VBG requiring)
+            (NP (NNS supercomputers))
+            (S
+              (VP (TO to)
+                (VP
+                  (VP (VB process)
+                    (NP
+                      (NP (JJ enormous) (NNS amounts))
+                      (PP (IN of)
+                        (NP (NNS data)))))
+                  (CC and)
+                  (VP
+                    (ADVP (RB sometimes))
+                    (VB yield)
+                    (NP (JJ bogus) (NNS results))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nonetheless))
+    (NP (DT the) (NN oil)
+      (CC and)
+      (NN gas) (NNS industries))
+    (VP
+      (ADVP (RB routinely))
+      (VBP base)
+      (NP
+        (NP (NNS decisions))
+        (PP (VBG involving)
+          (NP
+            (NP (NNS billions))
+            (PP (IN of)
+              (NP
+                (NP (NNS dollars))
+                (PP (IN on)
+                  (NP
+                    (NP (DT the) (NNS results))
+                    (PP (IN of)
+                      (NP (DT these) (NNS models)))))))))))
+    (. .)))
+

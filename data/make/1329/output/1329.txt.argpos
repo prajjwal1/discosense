@@ -1,0 +1,3 @@
+conn:if conn_POS:IN sent_pos:2 prev1:, prev1_POS:, with_prev1_full:,_if with_prev1_POS_full:,_IN prev2:certainly prev2_POS:RB with_prev2_full:certainly_if with_prev2_POS_full:RB_IN NA
+conn:conversely conn_POS:RB sent_pos:0 NA
+conn:also conn_POS:RB prev1:will prev1_POS:MD with_prev1_full:will_also with_prev1_POS_full:MD_RB prev2:model prev2_POS:NN with_prev2_full:model_also with_prev2_POS_full:NN_RB NA

@@ -1,0 +1,2 @@
+conn:also conn_POS:RB prev1:not prev1_POS:RB with_prev1_full:not_also with_prev1_POS_full:RB_RB prev2:they prev2_POS:PRP with_prev2_full:they_also with_prev2_POS_full:PRP_RB NA
+conn:otherwise conn_POS:RB sent_pos:0 NA

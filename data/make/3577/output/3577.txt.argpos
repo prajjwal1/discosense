@@ -1,0 +1,1 @@
+conn:while conn_POS:IN prev1:steady prev1_POS:JJ with_prev1_full:steady_while with_prev1_POS_full:JJ_IN prev2:fairly prev2_POS:RB with_prev2_full:fairly_while with_prev2_POS_full:RB_IN NA

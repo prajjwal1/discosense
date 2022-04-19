@@ -1,0 +1,65 @@
+(ROOT
+  (S
+    (ADVP (RB greatly))
+    (ADJP (JJ simplified))
+    (, ,)
+    (NP
+      (NP (JJ pfge) (NNS differentiates) (NNS strains))
+      (PP (IN of)
+        (NP
+          (NP (NNS bacteria))
+          (VP (VBN based)
+            (PP (IN on)
+              (NP
+                (NP (JJ different) (NN dna) (NN fragment) (NNS patterns))
+                (SBAR
+                  (WHNP (WDT that))
+                  (S
+                    (VP (VBP result)
+                      (SBAR
+                        (WHADVP (WRB when))
+                        (S
+                          (NP
+                            (NP (DT the) (NNS chromosomes))
+                            (PP (IN of)
+                              (NP (DT the) (NNS bacteria))))
+                          (VP (VBP are)
+                            (VP (VBN digested)
+                              (PP (IN with)
+                                (NP
+                                  (NP (JJ specific) (NNS enzymes))
+                                  (, ,)
+                                  (NP (NN knabel)))))))))))))))))
+    (VP (VBD explained))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB however))
+    (NP
+      (NP (DT the) (NN approach))
+      (VP (VBG being)
+        (VP (VBN developed)
+          (PP (IN at)
+            (NP (NN penn) (NN state))))))
+    (VP (VBZ looks)
+      (PP (IN at)
+        (NP
+          (NP (DT the) (JJ actual) (NN dna) (NNS sequences))
+          (PP (IN of)
+            (NP
+              (NP (JJ specific) (NNS genes))
+              (, ,)
+              (SBAR
+                (WHNP (WDT which))
+                (S
+                  (VP (VBZ allows)
+                    (S
+                      (NP (NNS scientists))
+                      (VP (TO to)
+                        (VP
+                          (ADVP (RB accurately))
+                          (VB differentiate)
+                          (NP (DT the) (JJ different) (NN outbreak) (NNS strains)))))))))))))
+    (. .)))
+

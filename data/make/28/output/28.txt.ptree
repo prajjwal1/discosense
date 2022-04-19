@@ -1,0 +1,56 @@
+(ROOT
+  (S
+    (NP (DT the) (NN tax) (NN refund) (NN process))
+    (ADVP (RB also))
+    (VP (VBD took)
+      (SBAR
+        (S
+          (NP
+            (NP (CD two) (NNS months))
+            (, ,)
+            (NP
+              (NP (DT a) (NN process))
+              (SBAR (IN that)
+                (S
+                  (NP
+                    (NP
+                      (NP (DT both) (NN federation))
+                      (PP (IN of)
+                        (NP (JJ swaziland) (NNS employers))))
+                    (CC and)
+                    (NP
+                      (NP (NN chamber))
+                      (PP (IN of)
+                        (NP
+                          (NP (NN commerce) (JJ chief) (JJ executive) (NN zodwa) (NN mabuza))
+                          (CC and)
+                          (NP (NN ndlangamandla))))))
+                  (VP (VBD said))))))
+          (VP (VBD was)
+            (ADJP (RB too) (JJ long))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN as)
+      (S
+        (NP (DT a) (NN result) (NN ndlangamandla))
+        (VP (VBD said))))
+    (, ,)
+    (NP (DT some) (NNS ngos))
+    (VP (VBD were)
+      (VP (VBG closing)
+        (PRT (RP down))
+        (SBAR (IN while)
+          (S
+            (NP (NNS others))
+            (VP (VBD faced)
+              (NP (JJ serious) (NNS difficulties))
+              (PP (IN in)
+                (S
+                  (VP (VBG delivering)
+                    (NP (NNS services))
+                    (PP (TO to)
+                      (NP (JJ poor) (NNS people)))))))))))
+    (. .)))
+

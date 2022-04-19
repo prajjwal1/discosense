@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (NP (NN edward)
+      (CC and)
+      (NN bella))
+    (VP (VBD were)
+      (ADVP (RB best)
+        (NP (NNS friends))
+        (PP (IN until)
+          (NP
+            (NP (DT a) (JJ perfect) (NN storm))
+            (PP (IN of)
+              (NP (NNS circumstances) (, ,) (NNS insecurities) (, ,)
+                (CC and)
+                (NNS misunderstandings))))))
+      (VP (VBN separated)
+        (NP (PRP them))))
+    (. .)))
+
+(ROOT
+  (S (CC but)
+    (NP (DT some) (NNS things))
+    (VP (VBP are)
+      (ADVP (RB just))
+      (VP (VBN meant)
+        (S
+          (VP (TO to)
+            (VP (VB be))))
+        (, ,)
+        (SBAR (RB even) (IN if)
+          (S
+            (NP (PRP they))
+            (VP (VBP take)
+              (NP (DT a) (JJ slight) (NN detour)))))))
+    (. .)))
+

@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (NP (JJ normal) (NNS transactions))
+    (VP (VBP commit)
+      (PP (IN by)
+        (S
+          (VP (VBG declaring)
+            (NP
+              (NP (DT a) (NN color))
+              (PP (IN for)
+                (NP (DT the) (JJ committed) (NNS updates))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB subsequently))
+    (NP (DT these) (NNS markings))
+    (VP (VBP are)
+      (VP (VBN used)
+        (PP (IN for)
+          (NP
+            (NP (NN generation))
+            (PP (IN of)
+              (NP
+                (NP (DT a) (JJ consistent) (NN copy))
+                (PP (IN of)
+                  (NP (DT the) (JJ entire) (NN database)))))))))
+    (. .)))
+

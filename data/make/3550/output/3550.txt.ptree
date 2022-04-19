@@ -1,0 +1,44 @@
+(ROOT
+  (S
+    (S
+      (NP (DT the) (CD 1986) (NN superfund) (NN act))
+      (VP (VBD imposed)
+        (NP (NNS taxes))
+        (PP (IN on)
+          (NP
+            (NP (VBG polluting) (NNS industries))
+            (PP (JJ such) (IN as)
+              (NP (NN chemical)
+                (CC and)
+                (NN petroleum) (NNS companies)))
+            (S
+              (VP (TO to)
+                (VP (VB finance)
+                  (NP
+                    (NP (DT the) (NN cleanup))
+                    (PP (IN of)
+                      (NP (JJ toxic) (NN waste) (NNS sires)))))))))))
+    (CC and)
+    (S
+      (VP (VBG leaking)
+        (NP (JJ underground) (NN storage) (NNS facilities))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB specifically))
+    (NP (DT the) (NN act))
+    (VP (VBD imposed)
+      (NP (NNS taxes))
+      (PP (IN on)
+        (NP
+          (NP (NNS chemicals))
+          (, ,)
+          (NP
+            (NP (JJ domestic) (JJ crude) (NN oil))
+            (, ,)
+            (NP (VBN imported) (NN petroleum))
+            (CC and)
+            (NP (JJ other) (VBG polluting) (NNS fuels))))))
+    (. .)))
+

@@ -1,0 +1,45 @@
+(ROOT
+  (S
+    (S
+      (NP (NN ashe))
+      (VP (VBZ looks)
+        (ADJP (JJ great))
+        (, ,)
+        (S
+          (VP (VBG shooting)
+            (NP (DT an) (NN arrow))))))
+    (, ,)
+    (CC but)
+    (S
+      (PP (IN without)
+        (NP (NN context)))
+      (NP (PRP it))
+      (VP (VBZ ends)
+        (PRT (RP up))
+        (S
+          (VP (VBG being)
+            (NP (RB just) (DT a) (NN pose))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nevertheless))
+    (NP
+      (NP (DT the) (JJ delicate) (NN delineation))
+      (PP (IN of)
+        (NP
+          (NP (PRP$ her) (NN dress))
+          (, ,)
+          (NP (DT the)
+            (ADJP (RB well) (VBN placed))
+            (NNS reflections))
+          (CC and)
+          (NP
+            (NP (DT the) (VBG flying))
+            (PP (IN of)
+              (NP (PRP$ her) (NNS locks)))))))
+    (VP (VBP make)
+      (PP (IN for)
+        (NP (DT an) (JJ outstanding) (NN portrayal))))
+    (. .)))
+

@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (NN strength))
+      (PP (IN of)
+        (NP (DT the) (NN blockchain))))
+    (VP (VBZ lies)
+      (PP (IN in)
+        (NP (DT the) (NN fact)))
+      (SBAR (IN that)
+        (S
+          (NP (DT no) (JJ single) (NN entity))
+          (VP (VBZ controls)
+            (NP (PRP it))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB instead))
+    (PRN
+      (S
+        (NP
+          (NP (NNS computers))
+          (PP (IN around)
+            (NP (DT the) (NN world))))
+        (ADVP (RB repeatedly))
+        (VP (VB verify)
+          (NP (PRP$ its) (NN integrity))
+          (, ,)
+          (S
+            (VP (VBG making)
+              (S
+                (NP (PRP it))
+                (NP (DT a) (NN trustworthy)))))))
+      (, ,))
+    (NP (NNS multi))
+    (VP (VBP gigabyte)
+      (NP (NN ledger))
+      (PP (VBN based)
+        (PP (IN on)
+          (NP (JJ public) (JJ key) (NN cryptography)))))
+    (. .)))
+

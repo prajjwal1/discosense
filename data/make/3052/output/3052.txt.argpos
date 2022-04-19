@@ -1,0 +1,4 @@
+conn:however conn_POS:RB sent_pos:0 NA
+conn:if conn_POS:IN sent_pos:2 prev1:, prev1_POS:, with_prev1_full:,_if with_prev1_POS_full:,_IN prev2:however prev2_POS:RB with_prev2_full:however_if with_prev2_POS_full:RB_IN NA
+conn:when conn_POS:WRB prev1:, prev1_POS:, with_prev1_full:,_when with_prev1_POS_full:,_WRB prev2:recall prev2_POS:VBP with_prev2_full:recall_when with_prev2_POS_full:VBP_WRB NA
+conn:also conn_POS:RB prev1:will prev1_POS:MD with_prev1_full:will_also with_prev1_POS_full:MD_RB prev2:return prev2_POS:NN with_prev2_full:return_also with_prev2_POS_full:NN_RB NA

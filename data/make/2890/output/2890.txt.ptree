@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (NP
+      (NP (JJ major) (NNS kudos))
+      (PP (TO to)
+        (NP
+          (NP (PRP you))
+          (PP (IN for)
+            (S
+              (VP (VBG including)))))))
+    (VP (VBD portishead)
+      (PP (IN in)
+        (NP (DT the) (NN list))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB however))
+    (NP (PRP you))
+    (VP (VBD left)
+      (PRT (RP out))
+      (NP
+        (NP (DT the) (CD one) (NN song))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBZ packs)
+              (SBAR
+                (S
+                  (NP (DT the) (NN sensual))
+                  (VP (VBP punch)
+                    (NP
+                      (NP (DT the) (NN size))
+                      (PP (IN of)
+                        (NP (JJ texasglory) (NN box))))))))))))
+    (. .)))
+

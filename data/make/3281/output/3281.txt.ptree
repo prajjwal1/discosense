@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (NP (NN mccartney))
+    (VP (VBZ is)
+      (ADVP (RB also))
+      (VP (VBN known)
+        (PP (IN as)
+          (NP
+            (NP (DT a) (NN vegetarian)
+              (CC and)
+              (NN supporter))
+            (PP (IN of)
+              (NP (NN animal) (NNS rights) (NNS groups)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB consequently))
+      (NP (PRP she))
+      (VP (VBZ does) (RB not)
+        (VP (VB design)
+          (PP (IN for)
+            (NP (NN fur)
+              (CC or)
+              (NN leather))))))
+    (CC and)
+    (S
+      (ADVP (RB even))
+      (NP (PRP$ her) (NNS shoes))
+      (VP (VBP are)
+        (VP (VBN made)
+          (PP (IN from)
+            (NP
+              (NP (DT a) (NN leather))
+              (PP (IN like)
+                (NP
+                  (NP (NN material))
+                  (VP (VBN derived)
+                    (PP (IN from)
+                      (NP (NNS plants)))))))))))
+    (. .)))
+

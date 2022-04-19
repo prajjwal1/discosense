@@ -1,0 +1,47 @@
+(ROOT
+  (S
+    (S
+      (NP (NN abortion) (NNS rights))
+      (VP (VBZ advocates)))
+    (CC and)
+    (S
+      (NP (NN hospital) (NNS administrators))
+      (VP (VBP say)
+        (SBAR
+          (S
+            (NP (DT the) (NN law))
+            (VP (VBZ is)
+              (ADVP (RB just))
+              (NP (DT a) (NN formality))
+              (SBAR (IN that)
+                (S
+                  (NP (NNS hospitals))
+                  (VP (MD would)
+                    (ADVP (RB never))
+                    (VP (VB deny)
+                      (NP (DT an) (NN abortion) (NN patient))
+                      (PP (IN in)
+                        (NP (DT an) (NN emergency))))))))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP nevertheless))
+    (NP (PRP$ its)
+      (NP
+        (NP (DT the) (NN law))
+        (, ,)
+        (CC and)
+        (NP
+          (NP (PRP$ its)
+            (ADJP (JJ leading)
+              (PP (TO to)
+                (NP
+                  (NP (NNS closures))
+                  (PP (IN of)
+                    (NP (NN abortion))))))
+            (NNS clinics))
+          (PP (IN around)
+            (NP (DT the) (NN state))))))
+    (. .)))
+

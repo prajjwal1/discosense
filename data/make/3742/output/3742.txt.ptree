@@ -1,0 +1,54 @@
+(ROOT
+  (S
+    (ADVP (RB nevertheless))
+    (, ,)
+    (NP (NNS indices) (NNS purgatorii))
+    (VP (VBD continued)
+      (S
+        (VP (TO to)
+          (VP (VB instruct)
+            (NP (JJ catholic) (NNS readers))
+            (S
+              (VP (TO to)
+                (VP
+                  (VP (VB remove)
+                    (NP (NNS dedications))
+                    (PP (TO to)
+                      (NP
+                        (NP (JJ protestant) (NNS princes))
+                        (PP (IN in)
+                          (NP (JJ junius) (NNS works))))))
+                  (CC and)
+                  (VP (VB cross)
+                    (PRT (RP out))
+                    (NP
+                      (NP (NNS passages))
+                      (SBAR
+                        (WHNP (WDT which))
+                        (S
+                          (VP (MD could)
+                            (VP (VB be)
+                              (VP (VBN interpreted)
+                                (PP (IN as)
+                                  (NP
+                                    (NP (JJ critical))
+                                    (PP (IN of)
+                                      (NP (NN catholicism)))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB yet))
+    (NP (EX there))
+    (VP (VBZ is)
+      (NP (DT no) (NN sign))
+      (SBAR (IN that)
+        (S
+          (NP (NNS junius))
+          (ADVP (RB ever))
+          (VP (VBD converted)
+            (S
+              (VP (TO to)
+                (VP (VB protestantism))))))))
+    (. .)))
+

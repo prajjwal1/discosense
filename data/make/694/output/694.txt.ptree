@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (NP (FW i))
+    (VP
+      (VP (VBP learn)
+        (NP (DT the)
+          (ADJP
+            (ADVP (RB frequently))
+            (JJ sung))
+          (NNS pieces))
+        (PP (IN by)
+          (NP (NN ear))))
+      (CC and)
+      (ADVP (RB then))
+      (VP (VBP use)
+        (NP (DT the) (VBN written) (NN music))
+        (PP (IN as)
+          (NP (DT a) (NN reminder)))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADVP (RB otherwise))
+    (NP
+      (NP (FW i))
+      (SBAR
+        (S
+          (VP (VBP try)
+            (S
+              (VP (TO to)
+                (VP (VB follow)
+                  (NP
+                    (NP (DT those))
+                    (SBAR
+                      (WHNP (WP who))
+                      (S
+                        (VP (VBD read)
+                          (NP (NN music))
+                          (ADVP (RBR better))
+                          (PP (IN than)
+                            (NP (NN i.))))))))))))))))
+

@@ -1,0 +1,69 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (DT this) (NN book)))
+    (, ,)
+    (NP (JJ lukemans) (JJ main) (NN premise))
+    (VP (VBZ is)
+      (SBAR (IN that)
+        (S
+          (S
+            (NP
+              (NP (NNS writers))
+              (SBAR
+                (WHNP (WP$ whose) (NNS plots))
+                (S
+                  (VP (VBP are)
+                    (ADJP (RB too) (JJ thin))))))
+            (VP (MD will)
+              (VP (VB find)
+                (NP
+                  (NP (DT a) (NN solution))
+                  (PP (IN in)
+                    (NP (JJR deeper) (NN characterization)))))))
+          (CC and)
+          (PRN (, ,)
+            (SBAR (RB so))
+            (, ,))
+          (S
+            (NP (DT this) (NN book))
+            (VP (VBZ is)
+              (ADVP (RB mostly))
+              (PP (IN about)
+                (NP (NN characterization))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (ADVP (RB nevertheless))
+      (NP (NN anyone))
+      (SBAR
+        (WHNP (WP who))
+        (S
+          (VP
+            (VP (VBZ struggles)
+              (S
+                (VP (TO to)
+                  (VP (VB create)
+                    (NP (NN plot))
+                    (PP (IN from)
+                      (NP (JJ initial) (NNS ideas)))))))
+            (, ,)
+            (CC or)
+            (VP (VBZ struggles)
+              (S
+                (VP (TO to)
+                  (VP (VB find)
+                    (NP (NNS ideas))
+                    (ADVP (IN at) (DT all))))))))))
+    (, ,)
+    (VP (MD will)
+      (VP (VB find)
+        (NP (PRP it))))
+    (NP
+      (NP (DT a) (NN wealth))
+      (PP (IN of)
+        (NP (NN inspiration))))
+    (. .)))
+

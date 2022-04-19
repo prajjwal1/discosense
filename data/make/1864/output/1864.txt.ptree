@@ -1,0 +1,72 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP$ its)
+        (NX
+          (NP (DT a) (NN cop))
+          (PP (RB out) (IN for)
+            (NP (NNS spinelli)))))
+      (VP (TO to)
+        (VP (VB have)
+          (VP (VBN framed)
+            (NP (DT this) (NN story))
+            (PP (IN as)
+              (NP
+                (NP (DT a) (NN legend))
+                (SBAR
+                  (S
+                    (NP (PRP it))
+                    (VP (VBZ frees)
+                      (NP (PRP him))
+                      (PP (IN from)
+                        (S
+                          (VP (VBG having)
+                            (S
+                              (VP (TO to)
+                                (VP (VB make)
+                                  (S
+                                    (NP (PRP it))
+                                    (ADJP (JJ real))))))))))))))))))
+    (, ,)
+    (CC or)
+    (FRAG (RB even) (JJ possible))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB nevertheless))
+      (NP (DT the) (NN book))
+      (VP (MD will)
+        (VP (VB stimulate)
+          (S
+            (VP (VBG thinking)
+              (PP (IN about)
+                (NP (NN racism))))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (MD might)
+        (VP (VB help)
+          (VP (VB educate)
+            (NP
+              (NP (DT those) (NNS readers))
+              (SBAR
+                (WHNP (WP who))
+                (S (, ,)
+                  (PP (IN like)
+                    (NP
+                      (ADJP (RB so) (JJ many))
+                      (NNS students)))
+                  (, ,)
+                  (VP (VBP have)
+                    (NP
+                      (NP (DT no) (JJ first) (NN hand) (NN knowledge))
+                      (PP (IN of)
+                        (NP
+                          (NP (NNS people))
+                          (PP (IN of)
+                            (NP (JJ other) (NNS races))))))))))))))
+    (. .)))
+

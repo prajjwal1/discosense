@@ -1,0 +1,1 @@
+the strength of the blockchain lies in the fact that no single entity controls it. instead computers around the world repeatedly verify its integrity, making it a trustworthy, multi gigabyte ledger based on public key cryptography.

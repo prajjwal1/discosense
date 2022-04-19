@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT a) (JJ large) (NN difference))
+      (PP (IN in)
+        (NP
+          (NP (NNS results))
+          (PP (IN between)
+            (NP (DT the) (CD two) (NNS experiments))))))
+    (VP (MD would)
+      (VP (VB demonstrate)
+        (NP
+          (NP (DT the) (NN importance))
+          (PP (IN of)
+            (S
+              (ADVP (RB explicitly))
+              (VP (VBG considering)
+                (NP (JJ microbial) (NN composition))
+                (SBAR
+                  (WHADVP (WRB when))
+                  (S
+                    (VP (VBG making)
+                      (NP (JJ global) (NN change) (NNS predictions)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN sum) (NN microbial) (NN composition)))
+    (, ,)
+    (PP (IN like)
+      (NP
+        (NP (DT that))
+        (PP (IN of)
+          (NP (JJR larger) (NNS organisms)))))
+    (, ,)
+    (VP (MD can)
+      (VP (VB affect)
+        (NP (NN ecosystem) (NN functioning))))
+    (. .)))
+

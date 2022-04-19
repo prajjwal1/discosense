@@ -1,0 +1,32 @@
+(ROOT
+  (S (CC but)
+    (NP (DT the) (NN author))
+    (ADVP (RB pretty) (RB much))
+    (VP (VBD ignored)
+      (NP (PRP it)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nonetheless))
+    (NP (DT the) (NN book))
+    (VP (VBZ is)
+      (ADVP (RB definitely))
+      (ADJP (JJ worthwhile)
+        (PP (IN for)
+          (NP
+            (NP
+              (NP (NN anyone))
+              (PP (IN with)
+                (NP (NN stress))))
+            (CC or)
+            (NP
+              (NP
+                (NP (NN anxiety) (, ,) (NN uncertainty)
+                  (CC or)
+                  (NN insecurity))
+                (PP (IN in)
+                  (NP (PRP$ his))))
+              (NP (PRP$ her) (NN life)))))))
+    (. .)))
+

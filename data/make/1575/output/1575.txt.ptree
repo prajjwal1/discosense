@@ -1,0 +1,56 @@
+(ROOT
+  (S
+    (ADVP (RB conversely))
+    (, ,)
+    (SBAR
+      (WHADVP (WRB where))
+      (S
+        (NP (EX there))
+        (VP (VBP are)
+          (NP (JJ existential) (NNS disputes)))))
+    (, ,)
+    (NP (PRP they))
+    (VP (VBP indicate)
+      (NP
+        (NP (DT a) (NN fragmentation))
+        (PP (IN of)
+          (NP (DT the) (JJ legal) (NN system)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP
+        (NP (NN sum))
+        (PP (IN as)
+          (NP
+            (ADJP (JJ much)
+              (PP (IN as)
+                (NP (FW i))))
+            (NN love) (NNS treaties)))))
+    (, ,)
+    (NP (FW i))
+    (VP (VBP believe)
+      (SBAR (IN that)
+        (S
+          (NP (EX there))
+          (VP (VBZ is)
+            (NP
+              (NP (JJ significant) (NN value))
+              (PP (IN in)
+                (S
+                  (VP (VBG thinking)
+                    (PP (IN about)
+                      (NP (NN interpretation)))
+                    (PP (IN as)
+                      (NP
+                        (NP
+                          (QP (JJR more) (IN than) (DT a))
+                          (NN process))
+                        (PP (IN of)
+                          (S
+                            (VP (VBG giving)
+                              (NP (NN treaty) (NNS provisions))
+                              (NP (NN meaning)))))))))))))))
+    (. .)))
+

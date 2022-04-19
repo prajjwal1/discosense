@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (PP (IN for)
+      (NP (NN example)))
+    (, ,)
+    (PP (IN in)
+      (NP
+        (NP (DT the) (JJ later) (NNS years))
+        (PP (IN of)
+          (NP (NN world) (NN war) (NN ii)))))
+    (NP (DT the) (JJ italian) (NNS blackshirts))
+    (VP (VBD developed)
+      (PP (IN into)
+        (NP (DT the) (JJ black) (NNS brigades))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB likewise))
+    (NP
+      (NP (DT the) (NN combat) (NN wing))
+      (PP (IN of)
+        (NP
+          (NP (DT the) (NN schutzstaffel))
+          (, ,)
+          (NP (DT the) (NN waffen) (NN ss))
+          (, ,))))
+    (VP (VBD fought)
+      (PP (IN in)
+        (NP
+          (NP (JJ many) (JJ major) (NNS battles))
+          (PP (IN of)
+            (NP (NN world) (NN war) (NN ii))))))
+    (. .)))
+

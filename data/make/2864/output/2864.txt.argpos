@@ -1,0 +1,2 @@
+conn:as_a_result conn_POS:IN_DT_NN sent_pos:0 NA
+conn:and conn_POS:CC prev1:heard prev1_POS:VBN with_prev1_full:heard_and with_prev1_POS_full:VBN_CC prev2:rarely prev2_POS:RB with_prev2_full:rarely_and with_prev2_POS_full:RB_CC NA

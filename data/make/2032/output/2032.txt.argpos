@@ -1,0 +1,2 @@
+conn:in_turn conn_POS:IN_NN sent_pos:1 prev1:this prev1_POS:DT with_prev1_full:this_in_turn with_prev1_POS_full:DT_IN_NN NA
+conn:if conn_POS:IN prev1:preserved prev1_POS:VBN with_prev1_full:preserved_if with_prev1_POS_full:VBN_IN prev2:be prev2_POS:VB with_prev2_full:be_if with_prev2_POS_full:VB_IN NA

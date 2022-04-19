@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (ADVP (RB here))
+    (VP (VBZ is)
+      (SBAR
+        (WHNP (WP what))
+        (S
+          (NP (PRP she))
+          (VP (VBD found)
+            (SBAR
+              (S
+                (NP (NN remarriage))
+                (ADVP (RB neither))
+                (VP
+                  (VP (VBZ reduces))
+                  (CC nor)
+                  (VP (VBZ improves)))))))))
+    (NP
+      (NP (DT a) (JJ childs) (NNS chances))
+      (PP (IN of)
+        (S
+          (VP
+            (VP (VBG graduating)
+              (PP (IN from)
+                (NP (JJ high) (NN school))))
+            (CC or)
+            (VP (VBG avoiding)
+              (NP (DT a) (JJ teenage) (NN birth)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (JJ other) (NNS words)))
+    (NP (NN remarriage))
+    (VP (VBZ does) (RB not)
+      (VP (VB mitigate)
+        (NP
+          (NP (DT the) (JJ devastating) (JJ social) (NNS effects))
+          (PP (IN of)
+            (NP (NN divorce))))))
+    (. .)))
+

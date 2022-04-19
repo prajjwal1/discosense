@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (NP
+      (NP (PRP$ our) (JJ present) (NN understanding))
+      (PP (IN of)
+        (NP
+          (NP (DT the) (NN generation))
+          (PP (IN of)
+            (NP (JJ bulk) (JJ relativistic) (NNS motions))))))
+    (VP (VBZ is)
+      (ADJP (RB even) (JJ cruder)))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP
+        (NP (NN sum))
+        (VP (VBN measured)
+          (PP (IN against)
+            (NP
+              (NP (DT the) (NNS specifications))
+              (PP (IN for)
+                (NP (DT a) (JJ central) (NN engine))))))))
+    (, ,)
+    (NP (JJ massive) (JJ black) (NNS holes))
+    (VP
+      (VP (VBP do)
+        (ADVP (RBR better))
+        (PP (IN than)
+          (NP (DT any) (JJ other) (NN model))))
+      (CC yet)
+      (VP (VBD proposed)))
+    (. .)))
+

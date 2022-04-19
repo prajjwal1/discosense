@@ -1,0 +1,71 @@
+(ROOT
+  (S
+    (PP (IN as)
+      (NP (DT a) (NN teenager)))
+    (, ,)
+    (NP (PRP she))
+    (VP (VBD moved)
+      (PP (IN with)
+        (NP (PRP$ her) (NN family)))
+      (PP (TO to)
+        (NP (NN brooklyn)))
+      (, ,)
+      (SBAR
+        (WHADVP (WRB where))
+        (S
+          (NP (PRP she))
+          (VP
+            (VP (VBN immersed)
+              (NP (PRP herself))
+              (PP (IN in)
+                (NP (CD 1970s) (NN disco))))
+            (CC and)
+            (VP (VBN funk)
+              (PP (IN with)
+                (NP (DT an) (NN eye)))
+              (PP (IN toward)
+                (S
+                  (VP (VBG cutting)
+                    (NP
+                      (NP (DT a) (NN record))
+                      (PP (IN of)
+                        (NP (PRP$ her) (JJ own))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (S
+        (ADVP (RB instead))
+        (NP (NNS studios))
+        (VP (VBD came)
+          (S
+            (VP (VBG calling)))))
+      (CC and)
+      (S
+        (SBAR (IN with)
+          (S
+            (NP (PRP them))
+            (ADVP (RB steady))
+            (VP (VBP work)
+              (PP (IN by)
+                (NP (PRP$ her) (NNS twenties))))))
+        (, ,)
+        (NP (NNS jones))
+        (VP (VBD was)
+          (VP (VBG turning)
+            (PP (IN in)
+              (NP
+                (NP (JJ backup) (NNS vocals))
+                (PP (IN for)
+                  (NP (NN gospel) (, ,) (NN soul) (, ,) (NN disco) (, ,)
+                    (CC and)
+                    (NN blues) (NNS artists)))))))))
+    (, ,)
+    (NP
+      (NP (JJS most))
+      (PP (IN of)
+        (NP (PRP it))))
+    (VP (VBD uncredited))
+    (. .)))
+

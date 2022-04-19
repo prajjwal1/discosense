@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (PP (IN during)
+      (NP (DT those) (JJ past) (NNS events)))
+    (, ,)
+    (NP (FW i))
+    (VP (MD would)
+      (VP (VB experience)
+        (NP
+          (NP (JJ regular) (JJ sharp) (NN shooting) (NN pain))
+          (PP (IN for)
+            (NP
+              (QP (IN up) (TO to) (CD two))
+              (NNS weeks))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (PP
+        (ADVP (RB however))
+        (IN after)
+        (S
+          (VP (VBG taking)
+            (NP (CD one) (NN phenibut) (NN tablet))
+            (PP (IN for)
+              (NP (JJ unrelated) (NN anxiety) (NN disorder))))))
+      (NP (DT the) (NN pain))
+      (ADVP (RB almost) (RB entirely))
+      (VP (VBD disappeared)))
+    (CC and)
+    (S
+      (NP (NN hasnt))
+      (VP (VBD returned)))
+    (. .)))
+

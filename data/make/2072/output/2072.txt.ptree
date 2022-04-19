@@ -1,0 +1,45 @@
+(ROOT
+  (S
+    (ADVP (RB regardless))
+    (, ,)
+    (NP (NN ovechkin))
+    (VP (VBZ has)
+      (ADVP (RB apparently))
+      (VP (VBN lost)
+        (NP (JJ enough) (NN weight))
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (VP (VBN explosive)
+                (ADVP (RB once) (RB again))
+                (, ,)
+                (PP (VBG according)
+                  (PP (TO to)
+                    (NP (NN mcphee))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN though)
+      (S
+        (ADVP (RB just))
+        (VP (TO to)
+          (VP (VB be)
+            (ADJP (JJ safe))))))
+    (, ,)
+    (S
+      (VP (VB lay)
+        (PRT (RP off))
+        (NP
+          (NP (DT the) (NN candy) (NNS bars)
+            (CC and)
+            (NNS cakes))
+          (PP (IN with)
+            (NP
+              (NP (PRP$ your) (NN face))
+              (PP (IN on)
+                (NP (PRP them))))))))
+    (, ,)
+    (VP (VBP ovi))
+    (. .)))
+

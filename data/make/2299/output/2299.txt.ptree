@@ -1,0 +1,35 @@
+(ROOT
+  (S (CC and)
+    (NP
+      (NP (DT the) (NN cd))
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (VP (VBD won)
+            (NP (DT a) (NN grammy))
+            (NP (DT this) (NN year)))))
+      (, ,))
+    (ADVP (RB also))
+    (VP (VBZ includes)
+      (NP (DT an) (JJ amex) (JJ blue) (NN card) (NN application)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB similarly))
+    (NP (NN pmk))
+    (VP (VBD joined)
+      (PP (IN in)
+        (NP (DT an) (JJ aggressive) (NN motorola) (NN campaign)))
+      (S
+        (VP (TO to)
+          (VP (VB help)
+            (S
+              (NP (PRP it))
+              (VP (VB become)
+                (NP (DT a) (JJ high) (NN profile) (NN brand))
+                (PP (IN in)
+                  (NP (DT the) (NN entertainment) (NN industry)))))))))
+    (. .)))
+

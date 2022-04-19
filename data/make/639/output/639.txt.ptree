@@ -1,0 +1,51 @@
+(ROOT
+  (S
+    (S
+      (VP (VBG forcing)
+        (NP (DT the) (JJ wild) (NN card) (NNS teams))
+        (PP (IN into)
+          (NP (DT a) (CD one) (NN game)))))
+    (, ,)
+    (NP (JJ high) (NNS stakes) (NN playoff))
+    (VP (VBZ gives)
+      (NP (DT a) (JJ definite) (NN advantage))
+      (PP (TO to)
+        (S
+          (VP (VBG being)
+            (NP
+              (NP (DT a) (NN division) (NN winner))
+              (PP (IN over)
+                (NP (DT a) (JJ wild) (NN card))))))))
+    (. .)))
+
+(ROOT
+  (S (RB yet)
+    (S
+      (VP (VBG expanding)
+        (PP (TO to)
+          (NP (CD two) (JJ wild) (NNS cards)))))
+    (VP
+      (ADVP (RB also))
+      (VBZ accomplishes)
+      (SBAR
+        (WHNP (WP what))
+        (S
+          (NP (DT the) (NNS owners))
+          (VP (VBD wanted))))
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (VP (VBZ is)
+            (S
+              (VP (TO to)
+                (VP (VB have)
+                  (S
+                    (NP
+                      (NP (JJR more) (NNS teams))
+                      (ADVP (IN at) (JJS least)))
+                    (ADJP (RB theoretically) (JJ alive)))
+                  (PP (IN in)
+                    (NP (NN september))))))))))
+    (. .)))
+

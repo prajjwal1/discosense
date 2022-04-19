@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (NP (DT some) (NNS historians))
+    (VP (VBP believe)
+      (SBAR (IN that)
+        (S
+          (NP (DT this))
+          (VP (VBD marked)
+            (NP
+              (NP (DT the) (NN boundary))
+              (PP (IN of)
+                (NP (NN sher) (NNS shahs) (NN empire))))
+            (, ,)
+            (SBAR (IN though)
+              (S
+                (NP (NNS others))
+                (VP (VBP doubt)
+                  (SBAR (IN that)
+                    (S
+                      (NP (PRP$ his) (NN empire))
+                      (VP (VBD extended)
+                        (PP (IN till)
+                          (NP (NN shergarh)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nevertheless))
+    (NP (PRP it))
+    (VP (MD must)
+      (VP (VB have)
+        (VP (VBN marked)
+          (NP (DT some) (NN boundary)))))
+    (. .)))
+

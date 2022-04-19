@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (S
+      (ADJP (RBS most) (JJ likely)))
+    (, ,)
+    (NP (DT the) (JJ next) (NN step))
+    (VP (MD would)
+      (VP (VB be)
+        (S
+          (VP (TO to)
+            (VP (VB offer)
+              (NP (JJ photo) (NN manipulation) (NNS abilities)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nonetheless))
+    (NP (NN dropbox))
+    (VP (VBD made)
+      (ADVP (RB yet))
+      (NP
+        (NP (DT another)
+          (ADJP (JJ brave))
+          (NN step))
+        (PP (IN in)
+          (NP
+            (NP (DT the) (NN war))
+            (PP (IN against)
+              (NP (NNS wires)))))))
+    (. .)))
+

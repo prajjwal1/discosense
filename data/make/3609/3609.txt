@@ -1,0 +1,1 @@
+digital electronics or digital circuits are electronics that operate on digital signals. in contrast analog circuits manipulate analog signals whose performance is more subject to manufacturing tolerance, signal attenuation and noise.

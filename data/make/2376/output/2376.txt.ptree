@@ -1,0 +1,50 @@
+(ROOT
+  (S
+    (S
+      (NP (NN air) (NN india))
+      (VP (VBD had)
+        (VP (VBN placed)
+          (NP
+            (NP (DT an) (NN order))
+            (PP (IN for)
+              (NP
+                (NP (CD 27) (JJ such) (NN aircraft))
+                (ADVP
+                  (NP (CD six) (NNS years))
+                  (RB ago))))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (DT the) (JJ first) (NN batch))
+      (VP (VBD was)
+        (VP (VBN supposed)
+          (S
+            (VP (TO to)
+              (VP (VB have)
+                (VP (VBN been)
+                  (VP (VBN delivered)
+                    (PP (IN in)
+                      (NP (NN september) (CD 2008)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB however))
+    (NP (DT the) (NN delivery))
+    (VP (VBD was)
+      (VP (VBN delayed)
+        (ADJP (JJ due)
+          (PP (TO to)
+            (NP (NN design)
+              (CC and)
+              (NN production) (NNS issues))))
+        (PP (IN at)
+          (NP
+            (NP (NN boeing))
+            (, ,)
+            (NP
+              (NP (DT the) (NN maker))
+              (PP (IN of)
+                (NP (DT the) (NN aircraft))))))))
+    (. .)))
+

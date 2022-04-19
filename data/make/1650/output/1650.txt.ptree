@@ -1,0 +1,47 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (NN sakura) (NNS thats))
+      (VP (VBN supposed)
+        (S
+          (VP (TO to)
+            (VP (VB come)
+              (PRT (RP out))
+              (PP (IN of)
+                (NP (DT the) (NN flashback))))))))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (NN girl))
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP (VBZ is)
+              (ADJP (JJ strong)
+                (CC and)
+                (VBN determined)))))
+        (, ,)
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP (VBZ has)
+              (NP
+                (NP (DT a) (NN goal))
+                (PP (IN in)
+                  (NP
+                    (NP (PRP$ her) (NN life))
+                    (ADVP (IN at) (JJS least))))))))))
+    (. .)))
+
+(ROOT
+  (S (CC but)
+    (NP
+      (NP (DT the) (NN sakura))
+      (PP (IN in)
+        (NP (DT the) (JJ main) (NN storyline))))
+    (VP (VBZ is)
+      (ADVP (RB completely))
+      (RB not)
+      (PP (IN like)
+        (NP (DT that))))
+    (. .)))
+

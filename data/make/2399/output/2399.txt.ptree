@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (NP (PRP they))
+    (ADVP (RB neither))
+    (VP
+      (VP (VBP consider)
+        (S
+          (NP (PRP themselves))
+          (NP
+            (NP (NN part))
+            (PP (IN of)
+              (NP (DT an) (NN african) (NN diaspora))))))
+      (CC nor)
+      (VP (VBP deny)
+        (NP (PRP$ their) (NN heritage))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB rather))
+    (NP (PRP they))
+    (VP
+      (VP (VBP acknowledge)
+        (NP (PRP$ their) (NN hybridity)))
+      (CC and)
+      (VP (VBP choose)
+        (S
+          (VP (TO to)
+            (VP (VB identify)
+              (ADVP (RBS most) (RB deeply))
+              (PP (IN with)
+                (NP (PRP$ their) (NN community))))))))
+    (. .)))
+

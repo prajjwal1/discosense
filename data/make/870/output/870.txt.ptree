@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (NP (PRP it))
+    (VP (MD would)
+      (VP (VB be)
+        (NP
+          (NP (DT the) (JJ fourth) (JJS largest) (NN soybean) (NN acreage))
+          (PP (IN in)
+            (NP (JJ kansas) (NN history))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN by)
+      (NP (NN contrast)))
+    (NP
+      (NP (NN sorghum) (NN planting))
+      (PP (IN in)
+        (NP (NNS kansas))))
+    (VP (VBZ is)
+      (VP (VBN expected)
+        (S
+          (VP (TO to)
+            (VP (VB climb)
+              (NP
+                (NP (CD 16) (NN percent))
+                (PP (IN from)
+                  (NP (JJ last) (NN year))))
+              (, ,)
+              (PP (IN at)
+                (NP (CD 2))))))))
+    (. .)))
+

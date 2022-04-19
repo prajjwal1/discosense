@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP
+        (NP (DT the) (NN case))
+        (PP (IN of)
+          (NP (NN afspc) (, ,) (NN afsoc) (, ,) (NN pacaf) (, ,)
+            (CC and)
+            (NN usafe) (NNS units)))))
+    (, ,)
+    (NP (NNS forces))
+    (VP (VBP are)
+      (ADVP (RB normally))
+      (VP (VBN employed)
+        (PP (IN in)
+          (NP (NN place)))
+        (PP (IN under)
+          (NP (PRP$ their) (VBG existing) (NN ccdr)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB likewise))
+    (NP
+      (NP (NN amc) (NNS forces))
+      (VP (VBG operating)
+        (PP (IN in)
+          (NP (NN support) (NNS roles)))))
+    (VP (VBP retain)
+      (NP
+        (NP (PRP$ their)
+          (ADJP (JJ componency)
+            (PP (TO to)
+              (NP (PRP us))))
+          (NN transcom))
+        (SBAR (IN unless)
+          (FRAG
+            (ADJP (JJ chopped)
+              (PP (TO to)
+                (NP (DT a) (JJ regional) (NN ccdr))))))))
+    (. .)))
+

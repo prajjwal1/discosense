@@ -1,0 +1,4 @@
+conn_lc:because conn:because conn_POS:IN with_prev_full:just_because xxx£
+conn_lc:but conn:but conn_POS:CC with_prev_full:,_but xxx£
+conn_lc:because conn:because conn_POS:IN with_prev_full:but_because xxx£
+conn_lc:by_contrast conn:by_contrast conn_POS:IN_NN xxx£

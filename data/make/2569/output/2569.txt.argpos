@@ -1,0 +1,2 @@
+conn:instead conn_POS:RB prev1:can prev1_POS:MD with_prev1_full:can_instead with_prev1_POS_full:MD_RB prev2:, prev2_POS:, with_prev2_full:,_instead with_prev2_POS_full:,_RB NA
+conn:thereby conn_POS:RB sent_pos:0 NA

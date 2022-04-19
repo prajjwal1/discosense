@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (JJ narcoleptic) (NN singing))
+      (VP (VBN provided)
+        (PP (IN by)
+          (NP
+            (NP (NN aki))
+            (, ,)
+            (NP (DT a) (JJ japanese) (NN singer))
+            (, ,)))))
+    (VP (VBZ creates)
+      (NP (JJ interesting) (JJ sonic) (NN texture)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ overall) (NN paterson))
+    (VP (VBZ does)
+      (SBAR
+        (WHNP (WP what))
+        (S
+          (PP (IN on)
+            (NP (PRP$ its) (NN face)))
+          (VP (VBZ seems)
+            (S
+              (VP (TO to)
+                (VP (VB be)
+                  (NP
+                    (NP (DT an) (NN oxymoron) (NN hes))
+                    (VP (VBN created)
+                      (NP
+                        (NP (DT a) (JJ lush) (, ,) (JJ organic) (NN album))
+                        (PP (IN of)
+                          (NP (JJ electronic) (NN music)))))))))))))
+    (. .)))
+

@@ -1,0 +1,52 @@
+(ROOT
+  (S
+    (ADVP (RB furthermore))
+    (, ,)
+    (NP (PRP it))
+    (VP
+      (ADVP (RB also))
+      (VBZ gives)
+      (NP (DT some) (NNS details))
+      (NP
+        (NP (RB about) (NN data) (NN acquisition) (, ,) (NN instrumentation)
+          (CC and)
+          (NN processing) (NN technique))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBZ focuses)
+              (PP (IN on)
+                (NP
+                  (NP (NN observation) (NN principle))
+                  (CC and)
+                  (NP
+                    (NP (JJ new) (NNS technologies))
+                    (VP (VBN used)
+                      (PP (IN in)
+                        (NP (JJ modern) (JJ geodetic) (NN astronomy))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB hence))
+    (PP (IN in)
+      (NP
+        (NP (DT the) (NN scope))
+        (PP (IN of)
+          (NP (DT this) (NN project) (NN astro)))))
+    (NP (JJ geodetic) (NNS observations))
+    (VP (VBP are)
+      (VP (VBN performed)
+        (PP (IN with)
+          (NP
+            (NP (DT a) (JJ new)
+              (ADJP (RB ccd) (VBN equipped))
+              (NN telescope))
+            (VP (VBN designed)
+              (PP (IN as)
+                (NP
+                  (NP (NN zenith) (NN camera))
+                  (PP (IN in)
+                    (NP (NN istanbul))))))))))
+    (. .)))
+

@@ -1,0 +1,48 @@
+(ROOT
+  (S
+    (NP (PRP you))
+    (VP (VBP know)
+      (SBAR
+        (WHADVP (WRB how))
+        (S
+          (SBAR
+            (WHADVP (WRB when))
+            (S
+              (VP (VBP youre)
+                (ADJP (JJ sick)))))
+          (NP (PRP it))
+          (VP (VBZ feels)
+            (ADJP (JJ good)
+              (S
+                (VP (TO to)
+                  (VP (VB eat)
+                    (NP
+                      (NP
+                        (NP (NN mac) (NN n) (NN cheese))
+                        (, ,)
+                        (CC or)
+                        (NP (NN pot) (NNS pies))
+                        (, ,))
+                      (CC or)
+                      (NP (NN alfalfa)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB likewise))
+    (NP (PRP we))
+    (VP (MD can)
+      (VP (VB turn)
+        (PP (TO to)
+          (NP (DT the) (NN fact)))
+        (SBAR (IN that)
+          (S
+            (NP (NN technology) (NNS pundits))
+            (VP (MD will)
+              (ADVP (RB always))
+              (VP (VB say)
+                (NP (JJ stupid) (NNS things))
+                (PP (IN about)
+                  (NP (NN apple)))))))))
+    (. .)))
+

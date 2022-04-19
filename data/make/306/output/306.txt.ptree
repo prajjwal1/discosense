@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (NP (DT this) (NN article))
+    (VP (MD will)
+      (VP (VB help)
+        (S
+          (NP (PRP you))
+          (VP (TO to)
+            (VP (VB test)
+              (NP
+                (NP (DT a) (JJ bad) (NN headlight) (NN switch))
+                (PP (IN in)
+                  (NP (NN step))))
+              (PP (IN by)
+                (NP (NN step) (NN manner))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB specifically))
+    (VP (VB youll)
+      (VP (VB be)
+        (ADJP (JJ able)
+          (S
+            (VP (TO to)
+              (VP (VB troubleshoot)
+                (NP (DT a)
+                  (NP (DT no) (NNS headlights))
+                  (CC or)
+                  (NP (DT a)
+                    (NP (DT no) (NN park) (NNS lights))
+                    (NN problem)))
+                (PP (TO to)
+                  (NP (DT the) (NN head) (NN light) (NN switch)))))))))
+    (. .)))
+

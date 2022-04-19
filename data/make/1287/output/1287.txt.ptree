@@ -1,0 +1,47 @@
+(ROOT
+  (S
+    (PP (IN on)
+      (NP (CD one) (NN hand)))
+    (, ,)
+    (NP (DT these) (NNS lands))
+    (VP (MD might)
+      (VP (VB be)
+        (NP (DT the) (JJ last)
+          (S
+            (VP (TO to)
+              (VP (VB be)
+                (VP (VBN restored)
+                  (PP (RB because) (IN of)
+                    (NP
+                      (NP (DT the) (NN expense))
+                      (CC and)
+                      (NP (NN difficulty)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN on)
+      (NP (DT the) (JJ other) (NN hand)))
+    (NP (PRP$ their)
+      (ADJP (JJ polluted)
+        (CC or)
+        (JJ damaged))
+      (NN nature))
+    (VP (VBZ means)
+      (SBAR (IN that)
+        (S
+          (PP (IN in)
+            (NP
+              (NP (JJ many) (NNS cases))
+              (PP (RB especially) (IN in)
+                (NP (JJ developed) (NNS countries)))))
+          (NP (NN legislation))
+          (VP (MD may)
+            (VP (VB compel)
+              (S
+                (NP (NNS owners))
+                (VP (TO to)
+                  (VP (VB restore)
+                    (NP (DT the) (NN land))))))))))
+    (. .)))
+

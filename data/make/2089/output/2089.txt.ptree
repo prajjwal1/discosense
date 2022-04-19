@@ -1,0 +1,48 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (VBG creeping) (NNS hazards))
+      (PP (IN of)
+        (NP (NNS floods)
+          (CC and)
+          (NNS droughts))))
+    (ADVP (RB often))
+    (VP (VBP result)
+      (PP (IN from)
+        (NP
+          (NP
+            (ADJP (JJ cumulative)
+              (CC or)
+              (JJ sequential))
+            (JJ multi) (NN hazard) (NNS events))
+          (VP (VBN accompanied)
+            (PP (IN by)
+              (NP (DT an) (JJ inherent) (NN vulnerability)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP (NN example)))
+    (NP (NN flooding))
+    (VP (MD can)
+      (VP (VB result)
+        (PP (IN from)
+          (NP
+            (ADJP (RBR less) (JJ extreme))
+            (NNS rainfall)))
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (VP
+              (VP (VBN preceded)
+                (PP (IN by)
+                  (NP
+                    (NP (JJ several) (NNS days))
+                    (PP (IN of)
+                      (NP (NNS rainfall))))))
+              (CC and)
+              (VP (VBN saturated)
+                (NP (NN ground) (NNS conditions))))))))
+    (. .)))
+

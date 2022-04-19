@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (NP (DT both) (JJ 20th) (NNS editions))
+    (VP (VBD were)
+      (ADVP (RB then))
+      (VP (VBN published)
+        (PP (IN in)
+          (NP (DT the) (JJ same) (NN year)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thereafter))
+    (NP (PRP it))
+    (VP (VBD was)
+      (NP
+        (NP
+          (NP (DT the) (JJ british) (NN numbering))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBD pushed)
+                (ADVP (RB ahead))
+                (, ,)
+                (PP (IN with)
+                  (NP (DT the) (JJ 21st) (NN british) (NN edition)))
+                (PP (IN in)
+                  (NP (CD 1920)))))))
+        (, ,)
+        (CC and)
+        (NP
+          (NP (DT the) (JJ 21st) (NN american) (NN edition))
+          (PP (IN in)
+            (NP (CD 1924))))))
+    (. .)))
+

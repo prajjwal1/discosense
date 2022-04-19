@@ -1,0 +1,1 @@
+to start with, i find it almost impossible to use only the plugin and not accurev itself. therefore i recommend using both.

@@ -1,0 +1,53 @@
+(ROOT
+  (S
+    (NP
+      (NP (PDT all) (PRP$ her) (NN life))
+      (, ,)
+      (NP (NN london)))
+    (VP (VBD had)
+      (NP
+        (NP (NN everything))
+        (SBAR
+          (S
+            (NP (PRP she))
+            (VP (VBD wanted)
+              (PP (IN without)
+                (NP
+                  (QP (RB so) (JJ much) (IN as) (CD lifting)))
+                (ADVP
+                  (NP (CD one) (NN finger))
+                  (RB due)))
+              (PP (TO to)
+                (SBAR
+                  (WHADJP (WRB how) (JJ rich))
+                  (S
+                    (NP (PRP$ her) (NN father))
+                    (VP (VBD was))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP
+      (ADVP (RB yet))
+      (IN with)
+      (NP
+        (NP (PDT all) (DT the) (NNS toys))
+        (, ,)
+        (NP (NNS games))
+        (, ,)
+        (NP (NN clothing))
+        (, ,)
+        (CC and)
+        (NP
+          (NP (NNS servants))
+          (PP (IN at)
+            (NP (PRP$ her) (NN beck)
+              (CC and)
+              (NN call))))))
+    (, ,)
+    (NP (PRP she))
+    (VP (VBD was)
+      (ADVP (RB never))
+      (ADJP (RB truly) (JJ happy)))
+    (. .)))
+

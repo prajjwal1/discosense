@@ -1,0 +1,55 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (NN metal) (NN layer))
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (VP (VBZ serves)
+            (S
+              (VP (TO to)
+                (VP (VB shield)
+                  (NP (NN water))))))))
+      (, ,))
+    (VP (MD can)
+      (VP (VB be)
+        (VP (VBN made)
+          (PP (IN of))
+          (, ,)
+          (PP (IN for)
+            (NP (NN example) (, ,) (NN aluminum) (, ,) (JJ stainless) (NN steel) (, ,) (NN iron) (, ,) (NN copper)
+              (CC or)
+              (NN nickel))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB particularly))
+    (NP (PRP it))
+    (VP (VBZ is)
+      (ADJP (JJ desirable)
+        (S
+          (VP (TO to)
+            (VP (VB use)
+              (NP
+                (NP (DT an) (NN aluminum) (NN layer))
+                (SBAR
+                  (WHNP (WDT that))
+                  (S
+                    (VP (VBZ is)
+                      (ADJP
+                        (ADJP (JJ light)
+                          (PP (IN in)
+                            (NP (NN weight))))
+                        (CC and)
+                        (ADJP (JJ high)
+                          (PP (IN in)
+                            (NP
+                              (NP (PRP$ its) (NN function))
+                              (PP (IN of)
+                                (S
+                                  (VP (VBG shielding)
+                                    (NP (NN water))))))))))))))))))
+    (. .)))
+

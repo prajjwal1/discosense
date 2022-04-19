@@ -1,0 +1,4 @@
+conn:also conn_POS:RB sent_pos:0 NA
+conn:however conn_POS:RB sent_pos:0 NA
+conn:so conn_POS:IN prev1:business prev1_POS:NN with_prev1_full:business_so with_prev1_POS_full:NN_IN prev2:family prev2_POS:NN with_prev2_full:family_so with_prev2_POS_full:NN_IN NA
+conn:since conn_POS:IN prev1:level prev1_POS:NN with_prev1_full:level_since with_prev1_POS_full:NN_IN prev2:experience prev2_POS:NN with_prev2_full:experience_since with_prev2_POS_full:NN_IN NA

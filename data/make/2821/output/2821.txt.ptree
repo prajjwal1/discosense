@@ -1,0 +1,47 @@
+(ROOT
+  (S
+    (ADVP (RB certainly))
+    (, ,)
+    (NP
+      (NP (DT an) (JJ individual) (NN owner))
+      (PP (IN of)
+        (NP (DT a) (JJ single) (NN aircraft))))
+    (VP (MD will)
+      (VP (VB have)
+        (NP (JJ different) (NNS needs))
+        (SBAR (IN that)
+          (S
+            (NP (DT a) (NN multiple))
+            (VP (VBD hubbed)
+              (NP
+                (NP (JJ major) (NN aircraft) (NN operator))
+                (PP (IN of)
+                  (NP
+                    (NP (DT a) (JJ large) (NN fleet))
+                    (PP (IN of)
+                      (NP (NN aircraft)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nonetheless))
+    (NP
+      (NP (DT each))
+      (PP (IN of)
+        (NP (DT the) (JJ above))))
+    (VP (VBD described)
+      (SBAR
+        (S
+          (NP
+            (NP (NNS components))
+            (PP (IN of)
+              (NP (NN system) (CD 10))))
+          (VP (VBZ has)
+            (VP (VBN applicability)
+              (PP (TO to)
+                (NP
+                  (NP (DT each) (NN tier))
+                  (PP (IN of)
+                    (NP (NN aircraft) (NNS operators))))))))))
+    (. .)))
+

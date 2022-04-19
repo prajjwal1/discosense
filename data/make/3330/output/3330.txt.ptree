@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (NP (NNS womens) (NNS breasts))
+    (VP (VBP are)
+      (VP (VBN sexualized)
+        (PP (IN for)
+          (NP (JJ male) (NN satisfaction)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thus))
+    (NP (DT some) (NNS women))
+    (VP (VBP participate)
+      (PP (IN in)
+        (NP (NN bse)))
+      (S
+        (VP (TO to)
+          (VP (VB escape)
+            (SBAR
+              (S
+                (NP (DT the) (JJ male) (NNS doctors))
+                (VP (VBP gaze))))))))
+    (. .)))
+

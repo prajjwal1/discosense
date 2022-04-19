@@ -1,0 +1,3 @@
+conn_lc:therefore conn:therefore conn_POS:RB xxx£
+conn_lc:since conn:since conn_POS:IN with_prev_full:therefore_since xxx£
+conn_lc:as conn:as conn_POS:IN with_prev_full:force_as xxx£

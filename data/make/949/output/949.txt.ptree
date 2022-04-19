@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (PP (IN during)
+      (NP
+        (NP (DT the) (NN course))
+        (PP (IN of)
+          (NP (DT the) (NN day)))))
+    (, ,)
+    (NP
+      (NP (DT the) (NN amount))
+      (PP (IN of)
+        (NP
+          (NP (VBG leading) (NN reactive) (NN current))
+          (PP (IN in)
+            (NP (DT the) (NN line))))))
+    (VP (VBZ is)
+      (ADVP (RB typically))
+      (VP (VBN decreased)
+        (PP (IN by)
+          (NP
+            (NP (DT the) (NN removal))
+            (PP (IN of)
+              (NP (JJ inductive) (NNS loads)))))
+        (PP (IN from)
+          (NP (DT the) (NN line)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB consequently))
+    (NP (DT the) (JJ leading) (NN reactive) (NN current))
+    (VP (VBD added)
+      (PP (TO to)
+        (NP (DT the) (NN line)))
+      (PP (IN by)
+        (NP (DT the) (JJ capacitor) (NN bank) (NNS drives)))
+      (NP
+        (NP (DT the) (NN line) (NN current))
+        (PP (IN in)
+          (NP (DT the) (VBG leading) (NN direction)))))
+    (. .)))
+

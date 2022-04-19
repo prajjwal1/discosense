@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (PP (IN on)
+      (NP
+        (NP (NNS kerrys))
+        (NP (JJ first) (NN day))
+        (PP (IN on)
+          (NP (DT the) (NN job)))))
+    (, ,)
+    (NP (DT the) (NN state) (NN department))
+    (VP (VBD tweeted)
+      (SBAR (IN that)
+        (S
+          (NP (DT any) (NNS messages))
+          (ADVP (RB directly)
+            (PP (IN from)
+              (NP (DT the) (JJ big) (NN boss))))
+          (VP (MD would)
+            (VP (VB be)
+              (VP (VBN labeled)
+                (PP (IN with)
+                  (NP (PRP$ his) (NNS initials) (NN jk)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN by)
+      (NP (NN contrast)))
+    (NP (JJ hillary) (NN clinton))
+    (ADVP (RB barely))
+    (VP (VBD dipped)
+      (NP (DT a) (NN toe))
+      (PP (IN into)
+        (NP (DT the) (JJ social) (NNS media) (NN pool))))
+    (. .)))
+

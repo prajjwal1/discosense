@@ -1,0 +1,1 @@
+conn:if conn_POS:IN prev1:idrs prev1_POS:NNS with_prev1_full:idrs_if with_prev1_POS_full:NNS_IN prev2:mexicos prev2_POS:NN with_prev2_full:mexicos_if with_prev2_POS_full:NN_IN NA

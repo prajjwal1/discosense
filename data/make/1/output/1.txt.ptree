@@ -1,0 +1,48 @@
+(ROOT
+  (S
+    (NP (DT the) (NNS employees) (NN age))
+    (VP (VBD represented)
+      (NP
+        (NP (DT a)
+          (ADJP (JJ bona) (JJ fide))
+          (JJ occupational) (NN qualification))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBZ is) (, ,)
+              (SBAR
+                (S
+                  (NP (DT an) (JJR older) (NN worker))
+                  (VP (MD could) (RB not)
+                    (VP (VB perform)
+                      (NP (DT the) (NN job))
+                      (PP (IN by)
+                        (NP
+                          (NP (NN virtue))
+                          (PP (IN of)
+                            (NP (PRP$ his) (NN age))))))))))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (PP (IN for)
+      (NP (NN example) (NN age)))
+    (VP (VBZ qualifies))
+    (NP
+      (NP (RB as) (DT a) (NN bfoq))
+      (PP (IN for)
+        (NP (NNS pilots)))
+      (, ,)
+      (SBAR
+        (WHNP (WP who))
+        (S
+          (NP (NN cant))
+          (VP (VBP receive)
+            (NP (NN faa) (NN certification))
+            (SBAR (IN if)
+              (S
+                (VP (VBP theyre)
+                  (PP (IN over)
+                    (NP (NN age) (CD 65))))))))))
+    (. .)))
+

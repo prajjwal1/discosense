@@ -1,0 +1,1 @@
+in the ssl handshake, the server and the client share secret information that can be applied as a key for encrypted communication. thereafter encrypted data can be transmitted received there between by using the shared secret information.

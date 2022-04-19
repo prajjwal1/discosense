@@ -1,0 +1,3 @@
+conn_lc:and conn:and conn_POS:CC with_prev_full:obvious_and xxx£
+conn_lc:but conn:but conn_POS:CC with_prev_full:,_but xxx£
+conn_lc:if_if_you_want_to_go_beyond_the_usual_canal_narrative_,_and_spend_some_time_thinking_,_then conn:if_if_you_want_to_go_beyond_the_usual_canal_narrative_,_and_spend_some_time_thinking_,_then conn_POS:IN_IN_PRP_VBP_TO_VB_IN_DT_JJ_NN_NN_,_CC_VB_DT_NN_NN_,_RB with_prev_full:sum_if_if_you_want_to_go_beyond_the_usual_canal_narrative_,_and_spend_some_time_thinking_,_then xxx£

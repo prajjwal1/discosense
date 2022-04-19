@@ -1,0 +1,52 @@
+(ROOT
+  (S
+    (NP (JJ industrial) (NN farming))
+    (VP (VBZ is)
+      (ADVP (RB always))
+      (VP (VBG looking)
+        (PP (IN for)
+          (NP (NNS ways)))
+        (S
+          (VP
+            (VP (TO to)
+              (VP (VB maximize)
+                (NP (NN land) (NN use))))
+            (CC and)
+            (VP (TO to)
+              (VP (VB grow)
+                (NP
+                  (NP
+                    (ADJP (RB as) (JJ robust))
+                    (DT a) (NN product))
+                  (ADJP (RB as) (JJ possible)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB consequently))
+    (NP
+      (NP (DT those) (NN plant) (NNS varieties))
+      (SBAR
+        (WHNP (WDT that))
+        (S
+          (VP (VBP are)
+            (UCP
+              (ADJP (RBR less) (JJ robust))
+              (CC or)
+              (PP (IN for)
+                (SBAR
+                  (WHNP (WDT whatever))
+                  (S
+                    (NP (NN reason))
+                    (VP (VBP require)
+                      (NP
+                        (ADJP (RB too) (JJ many))
+                        (NNS resources))
+                      (S
+                        (VP (TO to)
+                          (VP (VB produce)))))))))))))
+    (VP (VBP are)
+      (VP (VBG being)
+        (VP (VBN lost))))
+    (. .)))
+

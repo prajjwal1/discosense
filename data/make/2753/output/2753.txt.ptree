@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (ADVP (RB therefore))
+    (PP (IN at) (RBS least))
+    (NP (PRP it))
+    (VP (VBD was)
+      (ADJP (JJ lawful)
+        (S
+          (VP (TO to)
+            (VP (VB take)
+              (PRT (RP back))
+              (NP (DT a) (JJ divorced) (NN wife))))))
+      (SBAR (IN before)
+        (S
+          (NP (PRP she))
+          (VP (VBD married)
+            (ADVP (RB again))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN on)
+      (NP (DT the) (NN contrary)))
+    (NP (PRP it))
+    (VP (VBZ is)
+      (VP (VBN said)
+        (SBAR
+          (S
+            (NP (JJ thatthe) (JJ former) (NN husband))
+            (VP (MD can) (RB not)
+              (VP (VB take)
+                (NP (PRP her))
+                (ADVP (RB again))
+                (, ,)
+                (NP (FW etc.))))))))
+    (. .)))
+

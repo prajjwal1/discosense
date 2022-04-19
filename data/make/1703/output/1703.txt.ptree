@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (S
+      (VP (VBG continuing)
+        (NP (DT the) (NN discussion))
+        (PP (IN from)
+          (NP (NN side) (DT a)))))
+    (, ,)
+    (NP (NN drucker))
+    (VP (VBZ continues)
+      (S
+        (VP (TO to)
+          (VP (VB address)
+            (NP (NNS mergers)
+              (CC and)
+              (NNS acquisitions))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (JJ particular) (NN drucker) (NNS discusses)))
+    (NP (DT that) (NN medium))
+    (VP (VBD sized)
+      (ADVP (RB rather))
+      (PP (IN than)))
+    (. .)))
+

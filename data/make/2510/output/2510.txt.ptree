@@ -1,0 +1,25 @@
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHNP (JJS most))
+      (ADJP (JJ amazing)))
+    (SQ (VBD was)
+      (NP (DT the) (NN information) (FW i))
+      (VP (VBN found)
+        (PP (IN about)
+          (NP (PRP$ my) (JJ husbands) (NN ancestor) (NN salathiel) (NN nickerson)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (RB particularly) (DT the) (JJ private) (NN claim))
+      (PP (IN for)
+        (NP
+          (NP (DT a) (JJ revolutionary) (NN war) (NN bounty))
+          (PP (IN on)
+            (NP (DT a) (NN schooner))))))
+    (VP (VBD named)
+      (NP (CD nine) (NNS sisters)))
+    (. .)))
+

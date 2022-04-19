@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (PP (RB because) (IN of)
+      (NP
+        (NP (DT the) (VBG differing))
+        (PP (VBG starting)
+          (NP
+            (NP (NNS dates)
+              (CC and)
+              (NNS lengths))
+            (PP (IN of)
+              (NP (JJ individual) (NNS examinations)))))))
+    (, ,)
+    (NP (JJS most) (NNS examinations))
+    (VP (MD will)
+      (VP (VB be)
+        (VP (VBN completed)
+          (PP (IN by)
+            (S
+              (VP (VBG participating)
+                (NP (VBG banking) (JJ supervisory) (NNS agencies))
+                (PP (IN at)
+                  (NP (JJ different) (NNS times)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB consequently))
+    (NP
+      (NP (DT an) (JJ important) (NN part))
+      (PP (IN of)
+        (NP (DT this) (NN program))))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (NN sharing))
+        (PP (IN of)
+          (NP
+            (NP (JJ critical) (NN examination) (NNS findings))
+            (PP (IN throughout)
+              (NP (DT the) (NN process)))))))
+    (. .)))
+

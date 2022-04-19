@@ -1,0 +1,56 @@
+(ROOT
+  (S
+    (ADVP (RB then))
+    (, ,)
+    (NP (DT these) (NN tape) (NNS portions))
+    (VP (VBP t)
+      (SBAR
+        (S
+          (NP
+            (NP (CD 1))
+            (CC and)
+            (NP
+              (NP (NN t) (CD 2))
+              (VP (VBN obtained)
+                (PP (IN by)
+                  (S
+                    (VP (VBG dividing)
+                      (NP (DT the) (NN tape))))))))
+          (VP (VBP are)
+            (VP (VBN placed)
+              (NP (NN side))
+              (PP (IN by)
+                (NP
+                  (NP (NN side))
+                  (PP (IN in)
+                    (NP (DT the) (JJ vertical) (NN direction)))))
+              (SBAR (IN as)
+                (S
+                  (VP (VBN viewed)
+                    (PP (IN in)
+                      (NP (DT this) (NN figure)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thereby))
+    (NP
+      (NP (DT a) (JJ large) (NN label))
+      (, ,)
+      (SBAR
+        (WHNP (WP$ whose) (NNS width))
+        (S
+          (VP (VBZ is)
+            (ADJP
+              (ADJP (JJR wider))
+              (PP (IN than)
+                (NP
+                  (NP (DT that))
+                  (PP (IN of)
+                    (NP (DT the) (NN tape)))))))))
+      (, ,))
+    (VP (MD can)
+      (VP (VB be)
+        (VP (VBN formed))))
+    (. .)))
+

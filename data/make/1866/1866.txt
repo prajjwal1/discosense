@@ -1,0 +1,1 @@
+application processor 504 provides the processing power for other functions within camera phone 500. for example calculators, calendars, alarms, camera functions, and directories are provided through application processor 504.

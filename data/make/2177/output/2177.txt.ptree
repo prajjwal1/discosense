@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP one))
+      (VP (MD could)
+        (VP
+          (VP (VB be)
+            (ADJP (JJ cynical)))
+          (CC and)
+          (VP (VB say)
+            (SBAR (IN that)
+              (S
+                (NP (DT this))
+                (VP (VBZ is)
+                  (ADJP (JJ justspin)))))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (JJ i) (NN dont))
+      (VP (VBP think)
+        (S
+          (NP (PRP$ its))
+          (ADJP (RB generally) (JJ conscious)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB rather))
+    (NP (FW i))
+    (VP (VBP think)
+      (NP (PRP$ its) (CD unconscious) (NN envy)
+        (CC and)
+        (NN spoiling)))
+    (. .)))
+

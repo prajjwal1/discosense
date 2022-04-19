@@ -1,0 +1,1 @@
+although this loss can be reduced and controlled, it is inherent to a device. consequently the choice of topology for a given fe capacitor will affect the best possible qc attainable from the fe capacitor.

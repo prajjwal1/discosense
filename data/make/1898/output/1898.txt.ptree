@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (NP (PDT all) (DT these) (NNS years))
+    (ADVP (RB later))
+    (PRN (, ,)
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (PRP you))
+          (VP (VB strip)
+            (PRT (RP away))
+            (NP (DT the) (JJ off) (NN screen) (NN behavior)
+              (CC and)
+              (JJ early) (NN death)))))
+      (, ,))
+    (NP (NNS whats))
+    (ADVP (RB left))
+    (VP (VBP are)
+      (NP
+        (NP (DT some) (JJ terrific) (NNS films))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBD displayed)
+              (NP (PRP$ his) (NN ease)
+                (CC and)
+                (NN confidence))
+              (PP (IN as)
+                (NP (DT an) (NN actor))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (JJ short) (NN hes)))
+    (NP (DT a) (JJ magnetic) (NNS 1930s))
+    (VP (VBZ icon))
+    (. .)))
+

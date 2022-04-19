@@ -1,0 +1,2 @@
+conn:thereafter conn_POS:RB sent_pos:0 NA
+conn:when conn_POS:WRB prev1:hours prev1_POS:NNS with_prev1_full:hours_when with_prev1_POS_full:NNS_WRB prev2:working prev2_POS:VBG with_prev2_full:working_when with_prev2_POS_full:VBG_WRB NA

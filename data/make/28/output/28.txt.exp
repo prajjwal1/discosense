@@ -1,0 +1,3 @@
+conn_lc:also conn:also conn_POS:RB with_prev_full:process_also xxx£
+conn_lc:as_a_result conn:as_a_result conn_POS:IN_DT_NN xxx£
+conn_lc:while conn:while conn_POS:IN with_prev_full:down_while xxx£

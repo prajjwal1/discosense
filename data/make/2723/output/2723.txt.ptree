@@ -1,0 +1,51 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (DT the) (NN gulf)))
+    (, ,)
+    (NP (NN shell) (NN oil))
+    (VP (VBZ companys)
+      (SBAR
+        (S
+          (NP
+            (QP (CD 1.2) (CD billion))
+            (NN auger) (NN field))
+          (VP (VBZ is)
+            (VP (VBG being)
+              (VP (VBN perforated)
+                (PP (IN at)
+                  (NP
+                    (NP (DT a) (NN depth))
+                    (PP (IN of)
+                      (NP (CD 2,860) (NNS feet)))))
+                (PP (IN by)
+                  (NP (NNS operators)))
+                (PP
+                  (NP (CD 200) (NNS miles))
+                  (IN from)
+                  (NP (DT the) (NN louisiana) (NN shoreline)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN by)
+      (NP (NN contrast)))
+    (NP
+      (NP (JJS most) (NN oil) (NN drilling))
+      (PP (IN in)
+        (NP
+          (NP (DT the) (NN gulf))
+          (PP (IN of)
+            (NP
+              (NP (NN mexico))
+              (CC and)
+              (NP (DT the) (NN north) (NN sea)))))))
+    (VP (VBZ takes)
+      (NP
+        (NP (NN place))
+        (PP (IN between)
+          (NP
+            (QP (CD 400) (TO to) (CD 600))
+            (NNS feet)))))
+    (. .)))
+

@@ -1,0 +1,56 @@
+(ROOT
+  (S
+    (NP (DT these) (NNS results))
+    (VP (VBP indicate)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (DT the) (NN sub) (NN population))
+            (VP (VBG reaching)
+              (ADJP
+                (NP (CD 50) (NNS years))
+                (JJ old)
+                (PP (IN in)
+                  (NP (JJ good) (NN health))))))
+          (VP (VBZ has)
+            (NP (DT a) (JJR higher) (NN propensity)
+              (S
+                (VP
+                  (VP (TO to)
+                    (VP (VB take)
+                      (NP (NN part))
+                      (PP (IN in)
+                        (NP (JJ social) (NNS activities)))))
+                  (CC and)
+                  (VP (TO to)
+                    (VP (VB benefit)
+                      (PP (IN from)
+                        (NP (PRP it))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB conversely))
+    (NP
+      (NP (DT the) (JJ other) (NN part))
+      (PP (IN of)
+        (NP (DT the) (NN population))))
+    (PP (IN in)
+      (NP (JJ poor) (NN health)))
+    (PP (IN at)
+      (NP (CD 50)))
+    (, ,)
+    (VP (MD may)
+      (VP (VB see)
+        (NP (PRP$ their) (NN health))
+        (PP
+          (ADVP
+            (NP (CD worsening))
+            (RBR faster))
+          (IN because) (IN of)
+          (NP
+            (NP (DT the) (VBG missing) (JJ beneficial) (NN effect))
+            (PP (IN of)
+              (NP (JJ social) (NN capital)))))))
+    (. .)))
+

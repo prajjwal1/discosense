@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (NP (EX there))
+    (VP (VBZ is)
+      (NP
+        (NP (DT no) (NN question))
+        (VP (, ,)
+          (ADVP (RB however))
+          (, ,)
+          (SBAR (IN that)
+            (S
+              (NP (NN offseason) (NNS programs))
+              (VP (VBP have)
+                (VP (VBN given)
+                  (NP (DT the) (NN nfl))
+                  (NP (DT a) (JJR better) (NN product)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (ADVP (RB subsequently))
+      (IN if)
+      (S
+        (NP (EX there))
+        (VP (VBZ is)
+          (NP
+            (NP (DT no) (NN offseason))
+            (PP (IN in)
+              (NP (CD 2011)))))))
+    (, ,)
+    (NP (PRP it))
+    (VP (MD will)
+      (ADVP (RB adversely))
+      (VP (VB affect)
+        (SBAR
+          (WHNP (WP what))
+          (S
+            (VP (VBZ happens)
+              (PP (IN on)
+                (NP
+                  (NP (NNS sundays))
+                  (PP (IN in)
+                    (NP (DT the) (NN fall))))))))))
+    (. .)))
+

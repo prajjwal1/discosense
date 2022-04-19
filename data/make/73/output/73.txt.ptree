@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (ADVP (RB however))
+    (, ,)
+    (SBAR (IN if)
+      (S
+        (NP (PRP you))
+        (VP
+          (VP (VB communicate)
+            (PP (IN with)
+              (NP (DT the) (NN irs))))
+          (CC and)
+          (VP (VB work)
+            (PRT (RP out))
+            (NP (DT a) (NN payment) (NN plan))))))
+    (NP (DT this))
+    (VP (VBZ is)
+      (ADJP (RB very) (JJ unlikely))
+      (S
+        (VP (TO to)
+          (VP (VB happen)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (JJ other) (NNS words)))
+    (NP (PRP you))
+    (VP (MD may)
+      (VP (VB be)
+        (ADJP (JJR better) (RP off)
+          (S
+            (VP (VBG charging)
+              (NP (PRP$ your) (NN tax) (NN bill))
+              (PP (IN than)
+                (S
+                  (VP (VBG working)
+                    (PRT (RP out))
+                    (NP (DT a) (NN payment) (NN plan))
+                    (PP (IN with)
+                      (NP (DT the) (NN irs)))))))))))
+    (. .)))
+

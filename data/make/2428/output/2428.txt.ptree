@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (PP (VBG according)
+      (PP (TO to)
+        (NP (DT the) (NNS bureaus) (NN website))))
+    (, ,)
+    (S
+      (NP (DT these) (NNS horses)
+        (CC and)
+        (NNS burros))
+      (VP (VBP have)
+        (NP (RB virtually) (DT no) (JJ natural) (NNS predators))))
+    (CC and)
+    (S
+      (NP (PRP$ their) (NN herd) (NNS sizes))
+      (VP (MD can)
+        (VP (VB double)
+          (PP (IN about)
+            (NP (DT every) (CD four) (NNS years))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (PP (IN as)
+        (NP (DT a) (NN result)))
+      (NP (DT the) (NN agency))
+      (VP (MD must)
+        (VP (VB remove)
+          (NP
+            (NP (NNS thousands))
+            (PP (IN of)
+              (NP (NNS animals))))
+          (PP (IN from)
+            (NP
+              (NP (DT the) (NN range))
+              (NP (DT each) (NN year))))
+          (S
+            (VP (TO to)
+              (VP (VB control)
+                (NP (NN herd) (NNS sizes))))))))
+    (, ,)
+    (NP (DT the) (NN bureau))
+    (VP (VBZ says))
+    (. .)))
+

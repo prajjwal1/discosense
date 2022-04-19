@@ -1,0 +1,2 @@
+conn:while conn_POS:IN prev1:larger prev1_POS:JJR with_prev1_full:larger_while with_prev1_POS_full:JJR_IN prev2:grown prev2_POS:VBN with_prev2_full:grown_while with_prev2_POS_full:VBN_IN NA
+conn:therefore conn_POS:RB sent_pos:0 NA

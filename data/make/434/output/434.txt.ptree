@@ -1,0 +1,58 @@
+(ROOT
+  (S
+    (PP (IN for)
+      (NP
+        (NP (JJS most))
+        (PP (IN of)
+          (NP (DT the) (NN way) (NN sunday)))))
+    (, ,)
+    (ADVP (RB however))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBD appeared)
+      (SBAR (RB as) (IN if)
+        (S
+          (NP (NN theyd))
+          (VP (VBP have)
+            (NP
+              (NP
+                (NP (CD four) (JJR more) (NNS days))
+                (PP (IN of)
+                  (NP (NN postseason))))
+              (, ,)
+              (CC and)
+              (NP
+                (NP (DT another) (NN shot))
+                (PP (IN at)
+                  (NP (DT the) (NN title)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB instead))
+    (NP (NN waubonsie))
+    (VP (VBD turned)
+      (NP (DT a)
+        (ADJP
+          (QP (CD 3) (CD 1)))
+        (NN deficit))
+      (PP (RB around) (IN in)
+        (NP
+          (NP
+            (QP (RB just) (CD 2))
+            (NNS minutes))
+          (CC and)
+          (NP
+            (NP (CD 41) (NNS seconds))
+            (PP (IN of)
+              (NP (DT the) (JJ third) (NN period))))))
+      (, ,)
+      (S
+        (VP (VBG shellshocking)
+          (NP (JJ rockfords) (NN defense))
+          (PP (IN with)
+            (NP (DT the) (JJ first) (CD two) (NNS goals)))
+          (PP (IN in)
+            (NP (CD 41) (NNS seconds))))))
+    (. .)))
+

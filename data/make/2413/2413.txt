@@ -1,0 +1,1 @@
+this is the same technology that the windows team uses almost exclusively for its performance work, and is the basis for their very useful xperf tool. because of this perfmonitor and xperf can interoperate on the same wealth of performance data that the operating system can collect for you.

@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP it))
+      (VP (MD can)
+        (VP (VB take)
+          (NP (DT some) (NN time)
+            (S
+              (VP (TO to)
+                (VP (VB find)
+                  (NP
+                    (NP (DT a) (JJ specific) (NN style)
+                      (CC or)
+                      (NN school))
+                    (PP (IN of)
+                      (NP (NN yoga)))))))))))
+    (NP (PRP you))
+    (VP (VBP enjoy))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP
+        (ADVP (RB similarly))
+        (VBG finding)
+        (NP
+          (NP (DT the) (JJ right) (NN teacher))
+          (PP (IN for)
+            (NP (PRP you))))))
+    (CC and)
+    (S
+      (NP (PRP$ your) (NNS goals))
+      (VP (MD can)
+        (VP (VB take)
+          (NP (DT some) (NN trial)
+            (CC and)
+            (NN error)))))
+    (. .)))
+

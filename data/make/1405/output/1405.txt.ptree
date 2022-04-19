@@ -1,0 +1,21 @@
+(ROOT
+  (S
+    (NP (FW i))
+    (VP (VBD thought)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBD was)
+            (ADJP (JJ delicious))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ overall) (NNS i))
+    (VP (VBD was)
+      (ADVP (RB really))
+      (VP (VBN impressed)
+        (PP (IN by)
+          (NP (NN yuba)))))
+    (. .)))
+

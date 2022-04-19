@@ -1,0 +1,3 @@
+conn_lc:when conn:when conn_POS:WRB with_prev_full:,_when xxx£
+conn_lc:in_particular conn:in_particular conn_POS:IN_JJ xxx£
+conn_lc:when conn:when conn_POS:WRB with_prev_full:occur_when xxx£

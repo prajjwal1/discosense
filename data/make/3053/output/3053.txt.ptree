@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (NP (NNS teeth))
+    (VP (VBP provide)
+      (NP (NNS clues))
+      (SBAR (IN because)
+        (S
+          (NP
+            (UCP (JJ dental)
+              (CC and)
+              (NP (NN body)))
+            (NN development))
+          (VP (VBP are)
+            (ADJP (RB closely) (VBN linked))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN for)
+      (S
+        (NP (NN example) (NNS teeth))
+        (VP (MD must)
+          (VP (VB erupt)
+            (PP (IN before)
+              (NP (NN weaning)
+                (CC and)
+                (NNS molars)))))))
+    (VP (MD can)
+      (ADVP (RB only))
+      (VP (VB erupt)
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP (DT the) (NN jaw))
+            (VP (VBZ becomes)
+              (ADJP (JJ large) (RB enough)
+                (S
+                  (VP (TO to)
+                    (VP (VB accommodate)
+                      (NP (PRP them)))))))))))
+    (. .)))
+

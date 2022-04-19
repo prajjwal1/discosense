@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (DT the) (NNS experts) (NN opinion)))
+    (NP (PRP$ their) (NN use))
+    (VP (VBZ is)
+      (ADVP (RB therefore))
+      (ADJP (JJ possible)
+        (PP
+          (PP (IN in)
+            (NP
+              (NP (DT the) (NN presence))
+              (PP (IN of)
+                (NP
+                  (NP (JJ low) (NN frequency))
+                  (PP (IN of)
+                    (NP (NNS attacks)))))))
+          (, ,)
+          (PP (IN after)
+            (NP
+              (NP (DT a) (JJ careful) (NN evaluation))
+              (PP (IN of)
+                (NP (NN cardio)
+                  (CC and)
+                  (JJ cere) (NN brovascular) (NNS risks)))))))
+      (PP (IN in)
+        (NP (DT the) (JJ single) (NN patient))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ conversely) (NN ergot) (NNS derivatives))
+    (VP (VBP are)
+      (VP (VBN contraindicated)
+        (S
+          (ADJP (JJ due)
+            (PP (TO to)
+              (NP (PRP$ their) (JJ widespread) (NN vasoconstrictive) (NN action)))))))
+    (. .)))
+

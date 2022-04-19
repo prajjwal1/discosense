@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (S
+      (NP (DT the) (NN thought))
+      (VP (VBZ is)
+        (SBAR (IN as)
+          (S
+            (NP (PRP you))
+            (VP (VBP advance)
+              (PP (IN towards)
+                (NP (JJR higher) (NNS levels))))))))
+    (, ,)
+    (NP (DT the) (NNS balls))
+    (VP (MD will)
+      (VP (VB come)
+        (PP (IN at)
+          (NP (PRP you)))
+        (ADVP
+          (ADVP (RBR faster))
+          (CC and)
+          (ADVP (RBR faster)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB because) (IN of)
+      (NP (DT that)))
+    (NP (DT the) (JJR higher) (NN loopier) (NN swing))
+    (VP (VBZ is)
+      (ADJP (RBR more) (JJ difficult)
+        (PP (TO to)
+          (NP (NN time)))))
+    (. .)))
+

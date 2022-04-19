@@ -1,0 +1,51 @@
+(ROOT
+  (S
+    (NP (DT a)
+      (ADJP (RB potentially) (JJ worldchanging))
+      (NN technology))
+    (VP (VBZ has)
+      (VP (VBN been)
+        (VP (VBN developed)
+          (PP (IN by)
+            (NP
+              (NP (NNS researchers))
+              (PP (IN at)
+                (NP
+                  (NP (DT the) (NN university))
+                  (PP (IN of)
+                    (NP (NN nottingham)))))))
+          (NP
+            (NP (DT a) (NN means))
+            (PP (IN of)
+              (S
+                (VP (VBG enabling)
+                  (NP
+                    (NP (DT any) (NN type))
+                    (PP (IN of)
+                      (NP (NN crop))))))))
+          (S
+            (VP (TO to)
+              (VP (VB take)
+                (NP (NN nitrogen))
+                (PP (IN from)
+                  (NP (DT the) (NN air)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (JJ other) (NNS words)))
+    (NP (DT an) (JJ effective))
+    (VP (VBZ means)
+      (PP (IN of)
+        (S
+          (VP (VBG phasing)
+            (PRT (RP out))
+            (NP
+              (ADJP
+                (ADJP (JJ expensive))
+                (CC and)
+                (ADJP (RB environmentally) (JJ damaging)))
+              (NN nitrogen) (NNS fertilizers))))))
+    (. .)))
+

@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (NP (PRP he))
+    (VP (VBZ suggests)
+      (SBAR (IN that)
+        (S
+          (NP (NNS readers))
+          (ADVP (RB simply))
+          (VP (VBP carve)
+            (PRT (RP out))
+            (NP
+              (NP (CD 18) (NNS minutes))
+              (NP (DT each) (NN day)))
+            (S
+              (VP (TO to)
+                (VP (VB stay)
+                  (VP (VBN focused)
+                    (PP (IN on)
+                      (NP (PRP$ their) (NNS priorities)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB specifically))
+    (NP (DT the) (CD 18) (NNS minutes))
+    (VP (VBP are)
+      (VP (VBN made)
+        (PRT (RP up))
+        (PP (IN of)
+          (NP (CD three) (NNS steps)))))
+    (. .)))
+

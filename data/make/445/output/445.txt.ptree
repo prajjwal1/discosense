@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (NP (NN information) (NN security))
+    (VP (VBZ is)
+      (ADJP (JJ critical)
+        (PP (IN in)
+          (NP (DT these) (NNS scenarios))))
+      (, ,)
+      (SBAR (IN as)
+        (S
+          (NP (JJ human) (NNS lives))
+          (VP (VBP are)
+            (PP (IN at)
+              (NP (NN stake)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB particularly))
+      (S
+        (VP (VBG spreading)
+          (NP (JJ false) (NNS data))))
+      (VP (MD should)
+        (VP (VB be)
+          (VP (VBN prosecuted)))))
+    (, ,) (IN so)
+    (S
+      (NP
+        (NP (NN sender) (NN identification))
+        (CC and)
+        (NP (NN authentication)))
+      (VP (VBZ is)
+        (VP (VBN needed))))
+    (. .)))
+

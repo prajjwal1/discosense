@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (NP (NN eft))
+    (VP (VBZ differs)
+      (PRT (RP in))
+      (SBAR (IN that)
+        (S
+          (NP (PRP it))
+          (VP (VBZ employs)
+            (S
+              (NP (RB only) (CD one))
+              (ADJP (JJ comprehensive))
+              (S
+                (VP (VBG tapping)
+                  (NP
+                    (NP (NN routine))
+                    (SBAR
+                      (WHNP (WDT which))
+                      (S
+                        (VP (VBZ is)
+                          (VP (VBN used)
+                            (PP (IN for)
+                              (NP (DT all) (JJ emotional)
+                                (CC and)
+                                (JJ physical) (NNS problems)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB because) (IN of)
+      (NP (DT this)))
+    (NP (PRP it))
+    (VP (VBZ is)
+      (ADJP (JJ easy) (RB enough)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (VP (VBN mastered)
+                (PP (IN by)
+                  (NP (JJS most) (NNS people)))))))))
+    (. .)))
+

@@ -1,0 +1,41 @@
+(ROOT
+  (S (CC but)
+    (NP (PRP we))
+    (VP (VBP have)
+      (NP
+        (NP (JJ little) (JJ genetic) (NN knowledge))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (CD 16) (JJ whitetail) (NNS subspecies))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (VBP live)
+                  (PP
+                    (PP (IN in)
+                      (NP (DT the) (JJ dry) (NN southwest)))
+                    (CC and)
+                    (PP (IN into)
+                      (NP (JJ central) (NN america)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thus))
+    (NP
+      (NP (JJ physical) (NN variation))
+      (PP (IN in)
+        (NP
+          (NP (NNS characteristics))
+          (PP (JJ such) (IN as)
+            (NP (NN hair) (NN color))))))
+    (VP (VBZ determines)
+      (NP (DT the) (NNS subspecies))
+      (PP (IN for)
+        (NP
+          (NP (NNS deer))
+          (VP (VBG living)
+            (PP (IN in)
+              (NP (CD one) (NN region)))))))
+    (. .)))
+

@@ -1,0 +1,38 @@
+(ROOT
+  (S
+    (SBAR (IN if)
+      (S
+        (NP
+          (NP (JJ past) (NN experience))
+          (PP (IN with)
+            (NP (JJ authoritarian) (NNS regimes))))
+        (VP (VBZ is)
+          (NP (DT any) (NN guide)))))
+    (, ,)
+    (NP
+      (NP (JJ new) (JJR harsher) (NNS sanctions))
+      (PP (IN on)
+        (NP (NN iran))))
+    (VP (MD will) (RB not)
+      (VP (VB succeed)
+        (PP (IN in)
+          (S
+            (VP (VBG curbing)
+              (SBAR (IN that)
+                (S
+                  (VP (VBZ countrys)
+                    (NP (JJ nuclear) (NNS ambitions))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN on)
+      (NP (DT the) (NN contrary)))
+    (NP (PRP they))
+    (VP (MD will)
+      (VP (VB strengthen)
+        (NP (DT the) (NNS hardliners))
+        (PP (IN in)
+          (NP (NN tehran)))))
+    (. .)))
+

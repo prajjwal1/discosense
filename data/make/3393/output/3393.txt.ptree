@@ -1,0 +1,56 @@
+(ROOT
+  (S
+    (NP (NN nietzsche))
+    (VP (VBD sought)
+      (S
+        (VP (TO to)
+          (VP (VB demonstrate)
+            (SBAR
+              (SBAR (IN that)
+                (S
+                  (NP (NN nothing))
+                  (VP (VBZ is)
+                    (ADJP (RB inherently) (JJ good)
+                      (CC or)
+                      (JJ evil)))))
+              (, ,)
+              (CONJP (CC but)
+                (RB rather))
+              (SBAR (IN that)
+                (S
+                  (NP (DT all) (NNS values))
+                  (VP (VBP are)
+                    (ADJP
+                      (ADJP (JJ culturally))
+                      (CC and)
+                      (ADJP (RB historically) (JJ contingent)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB likewise))
+    (NP (PRP he))
+    (VP (VBD argued)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (DT all) (NNS claims))
+            (PP (TO to)
+              (NP (NN truth))))
+          (VP (VBP are)
+            (ADVP (NN nothing))
+            (ADJP
+              (ADJP (RBR more) (JJ thanhuman))
+              (, ,)
+              (ADJP (RB all) (RB too) (JJ humandesires)
+                (PP (IN for)
+                  (NP
+                    (NP (DT a) (JJ particular) (NN version))
+                    (PP (IN of)
+                      (NP (DT the) (JJ good) (NN life))))))
+              (, ,)
+              (ADJP (RB not) (JJ mirrors))
+              (PP (IN of)
+                (NP (DT a) (JJ supra) (JJ historical) (NN reality))))))))
+    (. .)))
+

@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (S
+      (NP (NNS saali))
+      (VP (VBD was)
+        (NP (PRP$ my) (JJ last) (NN album))))
+    (CC and)
+    (S
+      (NP (DT the) (NN title) (NN song))
+      (ADVP (RB just))
+      (VP (VBD came)
+        (PP (IN about) (IN without)
+          (NP
+            (NP (DT any) (JJ specific) (NN pattern))
+            (PP (IN of)
+              (NP (NN thought)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN on)
+      (NP (DT the) (NN contrary)))
+    (NP
+      (NP (DT the) (NNS songs))
+      (PP (IN in)
+        (NP (DT the) (JJS latest) (NN album))))
+    (VP (VBP have)
+      (NP (DT a) (JJ definite) (NN thought) (NN process)))
+    (. .)))
+

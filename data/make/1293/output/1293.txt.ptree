@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (ADVP (RB forty))
+    (NP
+      (NP (CD seven) (NN percent))
+      (VP (VBN answered)))
+    (ADVP (RB strongly))
+    (VP (VBP agree)
+      (PP (TO to)
+        (NP (DT that) (NN statement))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB likewise))
+    (NP
+      (NP (DT an)
+        (ADJP (RB even)
+          (NP (CD 50)))
+        (NN percent))
+      (PP (IN of)
+        (NP (DT those) (NN answering))))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP they))
+          (VP
+            (VP (VBP agree))
+            (CC or)
+            (ADVP (RB strongly))
+            (VP (VBP agree)
+              (SBAR (IN that)
+                (S
+                  (NP (DT the) (JJ new) (NN translation))
+                  (ADVP (RB urgently))
+                  (VP (VBZ needs)
+                    (S
+                      (VP (TO to)
+                        (VP (VB be)
+                          (VP (VBN revised)))))))))))))
+    (. .)))
+

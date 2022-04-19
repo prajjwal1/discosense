@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (NP (DT the) (NN repeat) (NN flag))
+    (VP (VBZ is)
+      (VP (VBN set)
+        (PP (IN in)
+          (NP (NN step) (CD 1700)))
+        (S
+          (VP (VBG indicating)
+            (SBAR (IN that)
+              (S
+                (NP (DT this) (NN method))
+                (VP (VBZ is)
+                  (PP (IN in)
+                    (NP (NN use))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thereafter))
+    (NP (DT the) (NN process))
+    (VP (VBZ moves)
+      (PP (TO to)
+        (NP (DT the) (JJ routine) (CD 1800)))
+      (, ,)
+      (SBAR
+        (WHADVP (WRB wherein))
+        (S
+          (NP
+            (NP (DT the) (NN logo) (NNS data))
+            (VP (VBN compacted)
+              (PP (IN by)
+                (NP (DT the) (NN repeat) (NN method)))))
+          (VP (VBZ is)
+            (VP (VBN transferred)
+              (PP (TO to)
+                (NP (DT the) (NN logo) (NN disc) (NN 94))))))))
+    (. .)))
+

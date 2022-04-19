@@ -1,0 +1,44 @@
+(ROOT
+  (S
+    (NP (DT this))
+    (VP (VBZ forces)
+      (S
+        (NP (DT the) (NN endpoint) (NNS times))
+        (VP (TO to)
+          (VP (VB be)
+            (VP (VBN varied)
+              (ADVP (RB as) (RB well)))))))
+    (. .)))
+
+(ROOT
+  (PP (IN by)
+    (NP
+      (NP
+        (NP (NN contrast) (NNS hamiltons))
+        (SBAR
+          (S
+            (NP (NN principle))
+            (VP
+              (VP (VBZ does) (RB not)
+                (VP (VB require)
+                  (NP
+                    (NP (DT the) (NN conservation))
+                    (PP (IN of)
+                      (NP (NN energy))))))
+              (, ,)
+              (CC but)
+              (VP (VBZ does)
+                (S
+                  (VP (VB require)
+                    (SBAR (IN that)
+                      (S
+                        (NP (DT the) (NN endpoint) (NNS times) (NN t)
+                          (CC and)
+                          (NN t))
+                        (VP (VB be)
+                          (VP (VBN specified))))))))))))
+      (CONJP (RB as) (RB well) (IN as))
+      (NP (DT the) (JJ endpoint) (NNS states) (NN q)
+        (CC and)
+        (NN q.)))))
+

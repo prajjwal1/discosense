@@ -1,0 +1,2 @@
+conn:in_contrast conn_POS:IN_NN sent_pos:0 NA
+conn:also conn_POS:RB prev1:is prev1_POS:VBZ with_prev1_full:is_also with_prev1_POS_full:VBZ_RB prev2:guilt prev2_POS:NN with_prev2_full:guilt_also with_prev2_POS_full:NN_RB NA

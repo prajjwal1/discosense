@@ -1,0 +1,3 @@
+conn:when conn_POS:WRB prev1:, prev1_POS:, with_prev1_full:,_when with_prev1_POS_full:,_WRB prev2:threatening prev2_POS:VBG with_prev2_full:threatening_when with_prev2_POS_full:VBG_WRB NA
+conn:in_particular conn_POS:IN_JJ sent_pos:0 NA
+conn:when conn_POS:WRB prev1:occur prev1_POS:VB with_prev1_full:occur_when with_prev1_POS_full:VB_WRB prev2:may prev2_POS:MD with_prev2_full:may_when with_prev2_POS_full:MD_WRB NA

@@ -1,0 +1,55 @@
+(ROOT
+  (S
+    (SBAR (IN if)
+      (S
+        (NP (DT the) (NN pilot) (NNS costs))
+        (VP (VBP are)
+          (VP (VBN paid)
+            (PP (IN by)
+              (NP (DT the) (NN committee)))))))
+    (, ,)
+    (ADVP (RB then))
+    (NP (PRP they))
+    (VP (MD would)
+      (VP (VB be)
+        (VP (VBN reported)
+          (PP (IN as)
+            (NP (NNS expenditures))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP
+        (NP (NN sum))
+        (SBAR (IN if)
+          (S
+            (NP (DT a) (JJ political) (NN committee))
+            (VP (VBZ wishes)
+              (S
+                (VP (TO to)
+                  (VP (VB accept)
+                    (NP
+                      (NP (DT the) (VBN donated) (NN use))
+                      (PP (IN of)
+                        (NP
+                          (NP (DT an) (NN aircraft))
+                          (CC or)
+                          (NP (PRP$ its) (NN crew)))))))))))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ is)
+      (ADJP (JJ essential))
+      (SBAR (IN that)
+        (S
+          (NP (DT the) (NN committee))
+          (VP (VBP report)
+            (SBAR (IN that)
+              (S
+                (VP (VBP use)
+                  (NP
+                    (NP (RB as) (DT an))
+                    (PP (IN in)
+                      (NP (NN kind) (NN contribution)))))))))))
+    (. .)))
+

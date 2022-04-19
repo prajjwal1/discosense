@@ -1,0 +1,47 @@
+(ROOT
+  (S
+    (NP (DT this))
+    (VP (VBZ serves)
+      (S
+        (VP (TO to)
+          (VP (VB reduce)
+            (NP
+              (NP (DT the) (NN amount))
+              (PP (IN of)
+                (NP (NN background) (NN noise)
+                  (CC or)
+                  (NN fluorescence))))
+            (PP (IN from)
+              (NP
+                (NP (JJ other) (JJ focal) (NNS planes))
+                (SBAR
+                  (WHNP (WDT that))
+                  (S
+                    (VP (VBP add)
+                      (NP (NN background) (NN noise))
+                      (PP (TO to)
+                        (NP (DT the) (NNS data))))))))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (PP (IN in)
+      (NP (NN contrast) (NN multiphoton) (NN microscopy)))
+    (VP (VBZ generates)
+      (NP (JJ fluorescence) (NN excitation))
+      (ADVP (RB only))
+      (PP (IN at)
+        (NP (DT the) (JJ focal) (NN plane)))
+      (, ,)
+      (S
+        (VP (VBG eliminating)
+          (NP (PDT both) (DT the) (NN background)))))
+    (NP
+      (NP (NN signal))
+      (CC and)
+      (NP
+        (NP (DT the) (NN necessity))
+        (PP (IN of)
+          (NP (DT a) (JJ confocal) (NN pinhole)))))
+    (. .)))
+

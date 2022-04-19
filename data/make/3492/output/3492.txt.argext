@@ -1,0 +1,13 @@
+conn:in_turn conn_lc:in_turn conn_cat:Conj-adverb conn_to_node:VB->VP->VP->VP->S conn_node_lsib_size=0 conn_node_rsib_size=1 conn_to_node_relpos:0 1:2
+conn:in_turn conn_lc:in_turn conn_cat:Conj-adverb conn_to_node:VB->VP->VP->VP->S<-ADVP conn_node_lsib_size=0 conn_node_rsib_size=1 conn_to_node_relpos:-1 1:3
+conn:in_turn conn_lc:in_turn conn_cat:Conj-adverb conn_to_node:VB->VP->VP->VP->S<-NP conn_node_lsib_size=0 conn_node_rsib_size=1 conn_to_node_relpos:-1 1:6
+conn:in_turn conn_lc:in_turn conn_cat:Conj-adverb conn_to_node:VB->VP->VP->VP conn_node_lsib_size=0 conn_node_rsib_size=1 conn_to_node_relpos:0 1:11
+conn:in_turn conn_lc:in_turn conn_cat:Conj-adverb conn_to_node:VB->VP->VP conn_node_lsib_size=0 conn_node_rsib_size=1 conn_to_node_relpos:0 1:14
+conn:in_turn conn_lc:in_turn conn_cat:Conj-adverb conn_to_node:VB->VP->VP<-VP conn_node_lsib_size=0 conn_node_rsib_size=1 conn_to_node_relpos:-1 1:15
+conn:in_turn conn_lc:in_turn conn_cat:Conj-adverb conn_to_node:VB->VP->VP<-VP<-ADJP conn_node_lsib_size=0 conn_node_rsib_size=1 conn_to_node_relpos:-1 1:18
+conn:in_turn conn_lc:in_turn conn_cat:Conj-adverb conn_to_node:VB->VP->VP<-ADVP conn_node_lsib_size=0 conn_node_rsib_size=1 conn_to_node_relpos:-1 1:23
+conn:in_turn conn_lc:in_turn conn_cat:Conj-adverb conn_to_node:VB->VP conn_node_lsib_size=0 conn_node_rsib_size=1 conn_to_node_relpos:0 1:26
+conn:in_turn conn_lc:in_turn conn_cat:Conj-adverb conn_to_node:VB->VP<-S conn_node_lsib_size=0 conn_node_rsib_size=1 conn_to_node_relpos:1 1:29
+conn:in_turn conn_lc:in_turn conn_cat:Conj-adverb conn_to_node:VB->VP<-S<-NP conn_node_lsib_size=0 conn_node_rsib_size=1 conn_to_node_relpos:1 1:30
+conn:in_turn conn_lc:in_turn conn_cat:Conj-adverb conn_to_node:VB->VP<-S<-VP conn_node_lsib_size=0 conn_node_rsib_size=1 conn_to_node_relpos:1 1:37
+conn:in_turn conn_lc:in_turn conn_cat:Conj-adverb conn_to_node:VB->VP<-S<-VP<-ADJP conn_node_lsib_size=0 conn_node_rsib_size=1 conn_to_node_relpos:1 1:40

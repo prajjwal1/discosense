@@ -1,0 +1,14 @@
+conn:although conn_lc:although conn_cat:Subordinator conn_to_node:IN->SBAR->S conn_node_lsib_size=0 conn_node_rsib_size=1 conn_to_node_relpos:0 0:2
+conn:although conn_lc:although conn_cat:Subordinator conn_to_node:IN->SBAR conn_node_lsib_size=0 conn_node_rsib_size=1 conn_to_node_relpos:0 0:3
+conn:although conn_lc:although conn_cat:Subordinator conn_to_node:IN->SBAR<-S conn_node_lsib_size=0 conn_node_rsib_size=1 conn_to_node_relpos:1 0:6
+conn:although conn_lc:although conn_cat:Subordinator conn_to_node:IN->SBAR<-S<-NP conn_node_lsib_size=0 conn_node_rsib_size=1 conn_to_node_relpos:1 0:7
+conn:although conn_lc:although conn_cat:Subordinator conn_to_node:IN->SBAR<-S<-VP conn_node_lsib_size=0 conn_node_rsib_size=1 conn_to_node_relpos:1 0:16
+conn:although conn_lc:although conn_cat:Subordinator conn_to_node:IN->SBAR<-S<-VP<-NP conn_node_lsib_size=0 conn_node_rsib_size=1 conn_to_node_relpos:1 0:19
+conn:although conn_lc:although conn_cat:Subordinator conn_to_node:IN->SBAR->S<-NP conn_node_lsib_size=0 conn_node_rsib_size=1 conn_to_node_relpos:1 0:26
+conn:although conn_lc:although conn_cat:Subordinator conn_to_node:IN->SBAR->S<-NP conn_node_lsib_size=0 conn_node_rsib_size=1 conn_to_node_relpos:1 0:33
+conn:although conn_lc:although conn_cat:Subordinator conn_to_node:IN->SBAR->S<-VP conn_node_lsib_size=0 conn_node_rsib_size=1 conn_to_node_relpos:1 0:42
+conn:although conn_lc:although conn_cat:Subordinator conn_to_node:IN->SBAR->S<-VP<-PP conn_node_lsib_size=0 conn_node_rsib_size=1 conn_to_node_relpos:1 0:45
+conn:although conn_lc:although conn_cat:Subordinator conn_to_node:IN->SBAR->S<-VP<-PP<-NP conn_node_lsib_size=0 conn_node_rsib_size=1 conn_to_node_relpos:1 0:48
+conn:although conn_lc:although conn_cat:Subordinator conn_to_node:IN->SBAR->S<-VP<-PP<-NP<-NP conn_node_lsib_size=0 conn_node_rsib_size=1 conn_to_node_relpos:1 0:49
+conn:although conn_lc:although conn_cat:Subordinator conn_to_node:IN->SBAR->S<-VP<-PP<-NP<-PP conn_node_lsib_size=0 conn_node_rsib_size=1 conn_to_node_relpos:1 0:54
+conn:although conn_lc:although conn_cat:Subordinator conn_to_node:IN->SBAR->S<-VP<-PP<-NP<-PP<-NP conn_node_lsib_size=0 conn_node_rsib_size=1 conn_to_node_relpos:1 0:57

@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (S
+      (VP (VBG piling)
+        (PRT (RP up))
+        (NP
+          (NP
+            (NP (NNS zeros))
+            (PP (IN in)
+              (NP (PRP$ your) (NN bank) (NN account))))
+          (, ,)
+          (CC or)
+          (NP
+            (NP (NNS cars))
+            (PP (IN in)
+              (NP (PRP$ your) (NN driveway)))))))
+    (, ,)
+    (NP
+      (NP (NN wont))
+      (PP (IN in)
+        (CC and)
+        (IN of)
+        (NP (PRP itself))))
+    (VP (VBP make)
+      (S
+        (NP (PRP you))
+        (ADJP (JJ successful))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (ADJP (RB rather) (JJ true))
+      (NN success))
+    (VP (VBZ is)
+      (VP (VBN based)
+        (PP (IN on)
+          (NP
+            (NP (DT a) (JJ constant) (NN flow))
+            (PP (IN of)
+              (S
+                (VP (VBG giving)
+                  (CC and)
+                  (VBG recieving))))))))
+    (. .)))
+

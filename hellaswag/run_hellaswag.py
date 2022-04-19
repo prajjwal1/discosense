@@ -278,6 +278,7 @@ def main():
         first_sentences = examples[context_name]
         question_header = examples[question_header_name].capitalize()
         first_sentences = [first_sentences + ' ' + question_header]*4
+        #  first_sentences = [' ']*4
 
         second_sentences = []
         #  print(examples)

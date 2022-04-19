@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (NP (NN sword) (NNS suckers))
+    (ADVP (RB already))
+    (VP
+      (VP (VBP have)
+        (VP (VBN developed)
+          (NP (PRP$ their) (JJ own) (NN corm))))
+      (, ,)
+      (CC and)
+      (VP (VBP are)
+        (ADVP (RBR better))
+        (VP (VBN suited)
+          (PP (IN for)
+            (NP (NN growth)))
+          (PP
+            (ADVP (RB away))
+            (IN from)
+            (NP (DT the) (NN mother) (NN corm))))))
+    (. .)))
+
+(ROOT
+  (S (CC but)
+    (PP (IN on)
+      (NP (DT that) (NN note)))
+    (, ,)
+    (NP (DT all) (NNS bananas))
+    (VP (MD will)
+      (VP (VB grow)
+        (ADVP (RBR faster))
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (ADVP (RB still))
+            (VP (VBN attached)
+              (PP (TO to)
+                (NP (DT the) (NN mother) (NN corm))))))))
+    (. .)))
+

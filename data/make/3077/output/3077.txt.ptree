@@ -1,0 +1,48 @@
+(ROOT
+  (S
+    (NP (DT the) (JJ skilled) (NN artisan))
+    (VP (MD will)
+      (VP (VB be)
+        (ADJP (JJ aware)
+          (PP (IN of)
+            (NP (JJ various) (NNS techniques))))
+        (PP (IN for)
+          (S
+            (VP (VBG achieving)
+              (NP (DT this)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (PP (IN for)
+        (NP (NN example)))
+      (NP (DT the) (JJ polypeptide) (NN variant))
+      (VP (MD can)
+        (VP (VB be)
+          (VP (VBN conjugated)
+            (PP (IN with)
+              (NP (NN biotin)))))))
+    (CC and)
+    (S
+      (NP
+        (NP (DT any))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (CD three) (JJ broad) (NNS categories))
+            (PP (IN of)
+              (NP
+                (NP (NNS labels))
+                (VP (VBN mentioned)
+                  (PP (IN above))))))))
+      (VP (MD can)
+        (VP (VB be)
+          (VP (VBN conjugated)
+            (UCP
+              (PP (IN with)
+                (NP (NN avidin)))
+              (, ,)
+              (CC or)
+              (ADVP (RB vice) (RB versa)))))))
+    (. .)))
+

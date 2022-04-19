@@ -1,0 +1,48 @@
+(ROOT
+  (S
+    (NP (RB even) (DT the)
+      (ADJP (RBS most) (JJ optimistic))
+      (NN gallup) (NNS pole))
+    (VP (VBZ shows)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP
+              (QP (RB barely) (CD 1) (CD 3)))
+            (PP (IN of)
+              (NP (DT the) (NN u.) (NN s.) (NN population))))
+          (VP (VBZ claims)
+            (S
+              (VP (TO to)
+                (VP (VB beborn)
+                  (ADVP (RB again)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP interestingly))
+    (VP (VBZ thats)
+      (PRT (RP up))
+      (ADVP (RB considerably))
+      (PP (IN since)
+        (NP
+          (NP (DT the) (NN time))
+          (PP (IN of)
+            (NP (DT the) (NNS nations) (NN founding)))))
+      (, ,)
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP
+            (NP
+              (QP (RB barely) (CD ten))
+              (NN percent))
+            (PRN (, ,)
+              (SBAR (IN if)
+                (FRAG
+                  (WHNP (WDT that))))
+              (, ,)))
+          (VP (VBD claimed)
+            (NP (JJ intense) (JJ religious) (NN affiliation))))))
+    (. .)))
+

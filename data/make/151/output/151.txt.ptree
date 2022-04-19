@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (NP (FW i))
+    (VP (VBP suspect) (RB well)
+      (VP (VB get)
+        (NP
+          (NP
+            (NP (NN something) (JJ short))
+            (PP (IN of)
+              (NP (DT a) (NN revolution))))
+          (, ,)
+          (CC and)
+          (NP
+            (NP (NN something))
+            (PP (IN like)
+              (NP
+                (NP (DT a) (NN burst))
+                (PP (IN on)
+                  (NP (JJ new) (NN momentum)
+                    (CC and)
+                    (NN steam)))))))
+        (PP (IN around)
+          (NP (DT the) (NN kde) (NN ecosystem)))))
+    (. .)))
+
+(ROOT
+  (S (CC but)
+    (NP (WDT what))
+    (VP (VBP do)
+      (SBAR
+        (S
+          (NP (FW i))
+          (VP (VBP know)))))
+    (. .)))
+

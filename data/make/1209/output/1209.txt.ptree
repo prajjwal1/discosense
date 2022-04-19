@@ -1,0 +1,50 @@
+(ROOT
+  (S
+    (NP
+      (NP (JJ many))
+      (PP (IN of)
+        (NP (DT the) (NNS dogs))))
+    (VP
+      (VP (VBP are) (RB not)
+        (VP
+          (ADVP (RB properly))
+          (JJ trained)))
+      (CC nor)
+      (VP (VBP have)
+        (NP
+          (NP (PRP they))
+          (VP (VBN been)
+            (VP (VBN vaccinated))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN as)
+      (NP (DT a) (NN result)))
+    (NP (PRP it))
+    (VP (VBZ is)
+      (ADJP (RB quite) (JJ dangerous))
+      (PP
+        (PP (IN for)
+          (NP (NNS people)))
+        (, ,)
+        (CC and)
+        (PP (IN in)
+          (NP (JJ particular) (NNS children))))
+      (, ,)
+      (S
+        (VP (TO to)
+          (VP (VB be)
+            (ADJP (IN out)
+              (PP (IN in)
+                (NP
+                  (NP (DT the) (JJ late) (NN evening))
+                  (PP (IN for)
+                    (NP
+                      (NP (NN fear))
+                      (PP (IN of)
+                        (NP (DT an) (NN attack))))))))
+            (PP (IN by)
+              (NP (DT a) (NN dog)))))))
+    (. .)))
+

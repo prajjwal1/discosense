@@ -1,0 +1,49 @@
+(ROOT
+  (S
+    (NP (PRP$ our) (NNS results))
+    (VP
+      (VP (VBP are)
+        (ADJP (JJ robust)
+          (PP (TO to)
+            (NP
+              (NP (DT a) (NN variety))
+              (PP (IN of)
+                (NP (NN sensitivity) (NNS checks)))))))
+      (CC and)
+      (VP (VBP have)
+        (NP (JJ important) (NN policy) (NNS implications))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (PP (IN in)
+      (NP (JJ particular) (NN peltzman)))
+    (VP (VBD had)
+      (VP (VBN observed)
+        (PP (IN in)
+          (NP (PRP$ his) (JJ classic)))))
+    (NP
+      (NP (CD 1973) (NN paper))
+      (SBAR
+        (WHNP (WDT that))
+        (S
+          (PP (IN in)
+            (NP (NN kind) (NNS subsidies)))
+          (VP (MD can)
+            (VP (VB induce)
+              (S
+                (NP (NNS individuals))
+                (VP (TO to)
+                  (VP (VB invest)
+                    (PP (IN in)
+                      (NP
+                        (NP (JJR less) (NN quality))
+                        (VP (VBN adjusted)
+                          (NP (JJ human) (NN capital)))))
+                    (SBAR (IN than)
+                      (S
+                        (NP (PRP they))
+                        (VP (NN might)
+                          (ADVP (RB otherwise)))))))))))))
+    (. .)))
+

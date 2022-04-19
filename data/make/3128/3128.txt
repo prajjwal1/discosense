@@ -1,0 +1,1 @@
+normal transactions commit by declaring a color for the committed updates. subsequently these markings are used for generation of a consistent copy of the entire database.

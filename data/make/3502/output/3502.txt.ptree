@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (S
+      (VP (VBG capitalising)
+        (PP (IN on)
+          (NP
+            (NP (DT the) (NN success))
+            (PP (IN of)
+              (NP (DT the) (NN sword)
+                (CC and)
+                (NN sandal) (NN genre)))))
+        (NP
+          (NP (JJ several) (JJ italian) (JJ b) (NNS movies))
+          (PP (VBN based)
+            (PP (IN on)
+              (NP (JJ classical) (NN myth)))))))
+    (VP (VBD were)
+      (VP (VBN made) (, ,)
+        (PP (VBG including)
+          (NP (DT the) (JJ maciste) (NN series)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB otherwise))
+    (NP (DT the) (NNS 1960s))
+    (VP (VBD were)
+      (ADJP (RB almost) (RB entirely) (JJ devoid))
+      (PP (IN of)
+        (NP (NN fantasy) (NNS films))))
+    (. .)))
+

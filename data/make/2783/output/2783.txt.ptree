@@ -1,0 +1,51 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNS women))
+      (PP (IN with)
+        (NP (JJ private) (NN insurance))))
+    (VP (VBD were)
+      (ADJP
+        (NP
+          (QP (JJR more) (IN than) (RB twice)))
+        (RB as) (JJ likely))
+      (S
+        (VP (TO to)
+          (VP (VB have)
+            (NP (JJ contralateral) (NN mastectomy))
+            (PP (IN as)
+              (NP
+                (NP (JJ uninsured) (NNS women))
+                (CC and)
+                (NP (JJ medicare) (NNS beneficiaries))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB likewise))
+      (NP
+        (NP (NNS women))
+        (PP (IN in)
+          (NP (DT the) (JJS highest) (NN income))))
+      (VP (VBP zip)
+        (SBAR
+          (S
+            (NP (NNS codes))
+            (VP (VBD were)
+              (ADVP (RB twice) (RB as))
+              (ADJP (JJ likely)
+                (S
+                  (VP (TO to)
+                    (VP (VB have)
+                      (VP (VBN cpm)
+                        (PP (IN as)
+                          (NP
+                            (NP (NNS women))
+                            (PP (IN in)
+                              (NP (JJR lower) (NN income) (NNS areas)))))))))))))))
+    (, ,)
+    (NP (DT the) (NNS researchers))
+    (VP (VBD reported))
+    (. .)))
+

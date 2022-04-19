@@ -1,0 +1,50 @@
+(ROOT
+  (S
+    (ADVP (RB as) (RB soon)
+      (SBAR (IN as)
+        (S
+          (NP (PRP you))
+          (VP (VBP have)
+            (NP
+              (NP (DT some) (NN sort))
+              (PP (IN of)
+                (NP
+                  (NP (NN production) (NN workload))
+                  (VP (VBG running)
+                    (PP (IN in)
+                      (NP (NN vms)))))))))))
+    (NP (PRP you))
+    (VP (MD will)
+      (VP (VB start)
+        (S
+          (VP (VBG thinking)
+            (PP (IN about)
+              (SBAR
+                (WHADVP (WRB how))
+                (S
+                  (VP (TO to)
+                    (VP (VB protect)
+                      (NP (PRP them))
+                      (PP (IN from)
+                        (NP (NN data) (NN loss))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nevertheless))
+    (NP (EX there))
+    (VP (VBP are)
+      (NP
+        (NP (JJ several) (NNS solutions))
+        (ADJP (JJ available)
+          (S
+            (VP (TO to)
+              (VP (VB back)
+                (PRT (RP up))
+                (NP
+                  (NP (NN vms))
+                  (VP (VBG running)
+                    (PP (IN on)
+                      (NP (JJ free) (NNS esxi)))))))))))
+    (. .)))
+

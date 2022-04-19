@@ -1,0 +1,18 @@
+discourse(could-4, yes-1)
+nsubj(could-4, they-3)
+root(ROOT-0, could-4)
+det(reason-8, some-7)
+prep_for(are-10, reason-8)
+nsubj(are-10, they-9)
+conj_but(could-4, are-10)
+neg(are-10, not-11)
+
+prep_because_of(bound-6, that-3)
+nsubjpass(bound-6, you-4)
+auxpass(bound-6, are-5)
+root(ROOT-0, bound-6)
+det(adapters-9, the-8)
+prep_to(bound-6, adapters-9)
+vmod(adapters-9, shipped-10)
+prep_with(shipped-10, monolog-12)
+

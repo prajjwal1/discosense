@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (NP (JJ i) (NN dont))
+    (VP (VBP know)
+      (SBAR
+        (WHADVP (WRB how))
+        (S
+          (VP (TO to)
+            (VP (VB star)
+              (NP (PDT all) (DT this))
+              (, ,)
+              (SBAR (IN because)
+                (S
+                  (NP (DT this))
+                  (VP (VBZ is)
+                    (NP (DT the) (JJ first) (NN club))
+                    (ADVP (RB i))
+                    (ADJP
+                      (ADJP (JJ open))
+                      (CC and)
+                      (RB im)
+                      (ADJP (RB not) (RB very) (VBN related)
+                        (PP (IN with)
+                          (NP (PDT all) (DT the) (JJ deviant) (NN stuff)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB however))
+    (NP (FW i))
+    (VP (VBD thought)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBD was)
+            (ADJP (JJ terrible))
+            (SBAR (IN that)
+              (S
+                (NP (NN ron) (NN pansy) (NN dont))
+                (VP (VBP have)
+                  (NP (DT an) (JJ own) (NN club)))))))))
+    (. .)))
+

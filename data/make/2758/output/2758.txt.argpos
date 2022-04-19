@@ -1,0 +1,3 @@
+conn:however conn_POS:RB sent_pos:2 prev1:is prev1_POS:VBZ with_prev1_full:is_however with_prev1_POS_full:VBZ_RB prev2:it prev2_POS:PRP with_prev2_full:it_however with_prev2_POS_full:PRP_RB NA
+conn:and conn_POS:CC prev1:infections prev1_POS:NNS with_prev1_full:infections_and with_prev1_POS_full:NNS_CC prev2:bloodstream prev2_POS:NN with_prev2_full:bloodstream_and with_prev2_POS_full:NN_CC NA
+conn:conversely conn_POS:RB sent_pos:0 NA

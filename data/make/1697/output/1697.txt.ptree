@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN fact)))
+    (, ,)
+    (NP (PRP they))
+    (VP (VBP are)
+      (VP (VBG drinking)
+        (PP (IN for)
+          (NP
+            (NP (DT the) (NN purpose))
+            (PP (IN of)
+              (S
+                (VP (VBG looking)
+                  (PP (IN at)
+                    (NP (NN mom))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB therefore))
+    (NP (DT a) (NN mother) (NN doesnt))
+    (VP (VBP think)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBZ is)
+            (NP
+              (NP (DT a) (NN waste))
+              (PP (IN of)
+                (NP (NN time)))
+              (S
+                (VP (TO to)
+                  (VP
+                    (ADVP (RB breast))
+                    (VB feed)
+                    (NP (PRP$ her) (NNS babies))))))))))
+    (. .)))
+

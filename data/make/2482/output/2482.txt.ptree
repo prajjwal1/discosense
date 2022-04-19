@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (NP (DT a) (NN creddier))
+    (VP (VBD was)
+      (NP
+        (NP (DT a) (NN person))
+        (VP (VBG seeing)
+          (NP
+            (NP
+              (ADJP (RB carly) (JJ shay)
+                (CC and)
+                (JJ fredward))
+              (NN benson))
+            (VP (VBN involved)
+              (PP (IN as)
+                (NP
+                  (QP (JJR more) (IN than) (RB just))
+                  (NNS friends))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB likewise))
+    (NP (DT a) (NN seddier))
+    (VP (VBD was)
+      (NP
+        (NP (CD one))
+        (VP (VBG saying)
+          (NP (DT the) (JJ same) (NN thing))
+          (PP (IN about)
+            (NP
+              (NP (NN samantha) (NN puckett))
+              (CC and)
+              (NP (JJ fredward) (NN benson)))))))
+    (. .)))
+

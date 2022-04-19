@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (S
+      (NP (DT the) (NNS porkies))
+      (ADVP (RB only))
+      (VP (VBP appear)
+        (PP (IN on)
+          (NP
+            (NP (DT the) (JJ last) (NN level))
+            (PP (IN of)
+              (NP (DT the) (JJ deep) (NN dungeon)))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (NNS wildbows))
+      (VP (MD must)
+        (VP (VB be)
+          (VP (VBN bred)
+            (PP (IN in)
+              (NP (DT the) (NN party)))
+            (, ,)
+            (SBAR (IN since)
+              (S
+                (NP (PRP they))
+                (VP (VBP are)
+                  (ADVP (RB never))
+                  (VP (VBN encountered)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB because) (IN of)
+      (NP (DT that)))
+    (NP (FW i))
+    (ADVP (RB strongly))
+    (VP (VBP recommend)
+      (S
+        (VP (VBG getting)
+          (NP (DT that) (NN uribo))
+          (PP (IN in)
+            (NP (NN chpater) (CD 2))))))
+    (. .)))
+

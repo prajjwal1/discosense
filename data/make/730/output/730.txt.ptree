@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT this) (NN text))
+      (VP (VBN based)
+        (NP (NN format))))
+    (VP (VBZ has)
+      (NP
+        (NP (JJ many) (NNS advantages))
+        (, ,)
+        (PP (VBG including)
+          (PRN (, ,)
+            (CONJP (CC but)
+              (RB not))
+            (ADJP (JJ limited)
+              (PP (TO to)
+                (NP (NN readability))))
+            (, ,))
+          (NP
+            (NP (JJ good) (NN compression)
+              (CC and)
+              (NN ease))
+            (PP (IN of)
+              (NP (NN reconstruction)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP
+      (ADVP (RB however))
+      (IN as)
+      (NP (NNS developers)))
+    (, ,)
+    (NP (NN openxml))
+    (VP (VBZ has)
+      (NP
+        (NP (JJ significant) (NNS benefits))
+        (PP (IN for)
+          (NP (PRP us)))))
+    (. .)))
+

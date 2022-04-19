@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (NP (CC neither)
+      (NP (NN piper))
+      (CC nor)
+      (NP (NNS aquinas)))
+    (VP (VBP use)
+      (NP (DT the) (NN term) (NN relationship))
+      (ADVP (RB consistently))
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (NP (FW i))
+          (VP (VBP see)
+            (PP (IN as)
+              (NP (DT the) (JJ central) (NN point)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nevertheless))
+    (NP (FW i))
+    (VP (VBP hope)
+      (SBAR
+        (S
+          (NP (DT some) (JJ short) (NNS quotes))
+          (VP (MD will)
+            (VP (VB show)
+              (NP
+                (NP (DT the) (NN similarity))
+                (PP (IN between)
+                  (NP (JJ aquinas) (NN view)
+                    (CC and)
+                    (NNS pipers)))))))))
+    (. .)))
+

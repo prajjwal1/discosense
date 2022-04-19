@@ -1,0 +1,1 @@
+when the band width changes, the fermi level readjusts to keep this area constant. interestingly this means that, in this model, the nesting properties remain exactly the same throughout the series.

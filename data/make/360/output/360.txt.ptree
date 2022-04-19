@@ -1,0 +1,54 @@
+(ROOT
+  (S
+    (ADVP (RB however))
+    (, ,)
+    (VP (VBG confronting)
+      (NP (NN oliver))
+      (ADVP (RB only)))
+    (VP (VBZ makes)
+      (S
+        (NP (PRP him))
+        (ADJP (JJ angrier)))
+      (, ,)
+      (ADJP (JJ angry)
+        (PP (TO to)
+          (NP
+            (NP (DT the) (NN point))
+            (SBAR (IN that)
+              (S
+                (NP (PRP he))
+                (VP (VBZ threatens)
+                  (NP (JJ orlandos) (NN life))
+                  (ADVP (RB twice))
+                  (, ,)
+                  (S
+                    (VP (VBG driving)
+                      (NP (PRP him))
+                      (PP (IN into)
+                        (NP (DT the) (NNS woods))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP
+      (ADVP (RB hence))
+      (IN in)
+      (NP (DT both) (NNS situations)))
+    (, ,)
+    (NP
+      (NP (DT the) (NN desire))
+      (PP (IN for)
+        (NP (NN fortune))))
+    (VP (VBZ drives)
+      (NP (DT the) (NN plot))
+      (PRT (RP forward))
+      (PP (IN by)
+        (S
+          (VP (VBG sending)
+            (NP (DT both) (JJ duke) (JJ senior)
+              (CC and)
+              (JJ orlando))
+            (PP (IN into)
+              (NP (DT the) (NNS woods)))))))
+    (. .)))
+

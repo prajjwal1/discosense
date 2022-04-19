@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (S
+      (VP (VB meet)
+        (NP (NN octavia) (NN beyah))))
+    (, ,)
+    (NP
+      (NP (NN gsk) (NN opportunity) (NN scholar))
+      (NP (DT no) (NN child)))
+    (VP (MD should)
+      (VP (VB cry)
+        (S
+          (NP (PRP herself))
+          (VP (TO to)
+            (VP (VB sleep)
+              (NP
+                (NP (NN feeling))
+                (ADJP (JJ terrified)
+                  (CC and)
+                  (JJ hungry))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP
+      (ADVP (RB yet))
+      (IN for)
+      (NP (NN octavia) (NN beyah)))
+    (, ,)
+    (NP (DT this))
+    (VP (VBD was)
+      (NP (PRP$ her) (JJ normal) (NN life)))
+    (. .)))
+

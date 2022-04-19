@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (NP (DT this) (NNS species))
+    (VP
+      (VP (VBZ is)
+        (PP (IN of)
+          (NP (DT a) (JJ mild) (NN disposition))))
+      (CC and)
+      (VP (VBZ has)
+        (NP
+          (NP (CD one))
+          (PP (IN of)
+            (NP (DT the)
+              (ADJP (JJS least) (JJ potent))
+              (NN rattlesnake) (NNS venoms))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nonetheless))
+    (NP
+      (NP (DT a) (NN bite))
+      (PP (IN from)
+        (NP (DT this) (NN species))))
+    (VP
+      (VP (VBZ is)
+        (ADVP (RB still))
+        (NP (DT a) (JJ medical) (NN emergency)))
+      (CC and)
+      (VP (MD can)
+        (VP (VB be)
+          (ADJP (JJ fatal)
+            (PP (IN without)
+              (NP (JJ prompt) (NN antivenom) (NN treatment)))))))
+    (. .)))
+

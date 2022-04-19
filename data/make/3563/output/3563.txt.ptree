@@ -1,0 +1,48 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT a) (NN number))
+      (PP (IN of)
+        (NP (NNS historians))))
+    (VP (VBP have)
+      (VP (VBN considered)
+        (S
+          (NP
+            (NP (DT this) (NN map))
+            (CC and)
+            (NP (DT these) (NNS letters)))
+          (VP (TO to)
+            (VP (VB be)
+              (NP
+                (NP (NNS fakes))
+                (PP (IN since)
+                  (NP (DT the) (JJ 16th) (NN century)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nonetheless))
+    (NP
+      (NP (DT a) (NN map))
+      (VP (VBN created)
+        (PP (IN by)
+          (NP
+            (NP (JJ french) (NN cartographer) (NNS nicolas))
+            (VP (VBN sanson)
+              (PP (IN around)
+                (NP (CD 1660))))))))
+    (VP (VBZ testifies)
+      (PP
+        (PP (TO to)
+          (NP
+            (NP (DT the) (NN existence))
+            (PP (IN of)
+              (NP (NN estotiland)))))
+        (CC and)
+        (PP (TO to)
+          (NP
+            (NP (PRP$ its) (NN location) (NN north))
+            (PP (IN of)
+              (NP (JJ new) (NN france)))))))
+    (. .)))
+

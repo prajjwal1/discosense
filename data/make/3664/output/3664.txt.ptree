@@ -1,0 +1,53 @@
+(ROOT
+  (S
+    (S
+      (NP (DT this))
+      (VP (VBZ has)
+        (VP (VBN changed)
+          (ADVP (IN since))
+          (, ,)
+          (SBAR (IN as)
+            (S
+              (NP
+                (NP (DT the) (NNS media) (NN censorship))
+                (PP (IN by)
+                  (NP (DT the) (NNS authorities))))
+              (VP (VBP have)
+                (VP (VBN been)
+                  (VP
+                    (ADVP (RB largely))
+                    (VBN abolished)))))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (NN self) (NN censorship))
+      (VP (VBZ has)
+        (ADVP (RB significantly))
+        (VP (VBN decreased))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nonetheless))
+    (NP
+      (NP (DT the) (JJ current) (JJ regulatory) (NN framework))
+      (CC and)
+      (NP
+        (ADJP (JJ social)
+          (CC and)
+          (JJ political))
+        (NN culture)))
+    (VP (VBP mean)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (DT the) (NN future))
+            (PP (IN of)
+              (NP (NN press)
+                (CC and)
+                (NN media) (NN freedom))))
+          (VP (VBZ is)
+            (ADVP (RB still))
+            (ADJP (JJ unclear))))))
+    (. .)))
+

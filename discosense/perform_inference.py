@@ -182,7 +182,7 @@ for idx, incorrect_id in enumerate(incorrect_ids):
     print('Predicted Label: ', incorrect_predicted_label[idx])
     print()
     count += 1
-    if count == 500:
+    if count == 1000:
         break
 
 

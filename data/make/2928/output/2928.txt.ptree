@@ -1,0 +1,54 @@
+(ROOT
+  (S
+    (NP (DT the) (NNS galadorians))
+    (VP
+      (VP (VBD were)
+        (VP
+          (ADVP (RB extremely))
+          (VBN accomplished)
+          (PP (IN in)
+            (NP (NN science)
+              (CC and)
+              (NN culture)))))
+      (CC and)
+      (VP (VBD were)
+        (VP (VBG attempting)
+          (S
+            (VP (TO to)
+              (VP (VB spread)
+                (NP (JJ benevolent) (NN enlightenment))
+                (PP (IN throughout)
+                  (NP (PRP$ their) (NN galaxy)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP
+        (NP (JJ particular) (NN galadorian) (NN science))
+        (SBAR
+          (S
+            (VP (VBD had)
+              (VP (VBN allowed)
+                (S
+                  (NP (PRP them))
+                  (VP (TO to)
+                    (VP (VB access)
+                      (NP
+                        (NP (NN energy) (NNS sources))
+                        (PP (JJ such) (IN as)
+                          (NP (DT the) (NN living) (NN light)))))))))))))
+    (, ,)
+    (NP (DT an) (NN energy))
+    (VP (VBP force)
+      (ADJP (JJ similar))
+      (PP (TO to)
+        (PRN (, ,)
+          (PP (CC but)
+            (NP
+              (NP (DT the) (JJ opposite) (NN polarity))
+              (PP (IN of))))
+          (, ,))
+        (NP (DT the) (NN darkforce))))
+    (. .)))
+

@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (NP (DT the) (NN luminosity))
+    (VP (VBZ has)
+      (VP (VBN increased)
+        (PP (IN in)
+          (NP (DT a) (RB nearly) (JJ linear) (NN fashion)))
+        (PP (TO to)
+          (NP (DT the) (NN present)))
+        (, ,)
+        (S
+          (VP (VBG rising)
+            (PP (IN by)
+              (NP (CD 1) (NN %)))
+            (NP
+              (QP (DT every) (CD 110) (CD million))
+              (NNS years))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB likewise))
+    (PP (IN in)
+      (NP
+        (QP (CD three) (CD billion))
+        (NNS years)))
+    (NP (DT the) (NN sun))
+    (VP (VBZ is)
+      (VP (VBN expected)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (ADJP
+                (NP (CD 33) (NN %))
+                (RBR more) (JJ luminous)))))))
+    (. .)))
+

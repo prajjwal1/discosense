@@ -1,0 +1,44 @@
+(ROOT
+  (SINV
+    (ADVP (RB hickory))
+    (VP (VBN clarified)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (DT the) (NN breach))
+            (PP (IN of)
+              (NP (VBN implied) (NN warranty) (NNS claims))))
+          (VP (VBD were) (RB not)
+            (VP (VBN predicated)
+              (PP (RB upon)))))))
+    (VP (VBD said))
+    (NP
+      (NP (NN warranty))
+      (PP (IN of)
+        (NP (NN habitability))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (ADJP (RB rather) (JJ hickorys))
+        (NNS claims))
+      (PP (IN of)
+        (NP
+          (NP (NN breach))
+          (PP (IN of)
+            (NP (JJ implied) (NN warranty))))))
+    (VP (VBP arise)
+      (PRT (RP out))
+      (PP (IN of)
+        (NP
+          (NP (VBN implied) (NNS warranties))
+          (PP (IN of)
+            (NP (NN merchantability)
+              (CC and)
+              (NN fitness)))
+          (PP (IN for)
+            (NP (DT a) (JJ particular) (NN purpose))))))
+    (. .)))
+

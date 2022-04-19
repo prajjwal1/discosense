@@ -1,0 +1,2 @@
+conn:nevertheless conn_POS:RB sent_pos:0 NA
+conn:because conn_POS:IN prev1:still prev1_POS:RB with_prev1_full:still_because with_prev1_POS_full:RB_IN prev2:sit prev2_POS:VB with_prev2_full:sit_because with_prev2_POS_full:VB_IN NA

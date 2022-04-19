@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (NP (NN sam))
+    (ADVP (RB explicitly))
+    (VP (VBZ laughs)
+      (PP (IN at)
+        (NP
+          (NP (DT the) (NN ring))
+          (SBAR
+            (WHADVP (WRB when))
+            (S
+              (NP (PRP it))
+              (VP (VBZ tries)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (PP (IN in)
+        (NP (NN contrast)))
+      (NP (NN boromir))
+      (VP (VBZ is)
+        (NP
+          (NP (DT a) (NN mass))
+          (PP (IN of)
+            (NP (JJ unfulfilled) (NN ambition))))))
+    (CC and)
+    (S
+      (NP (DT the) (NN ring))
+      (VP (VBZ gets)
+        (PP (TO to)
+          (NP (PRP him)))
+        (PP (IN without)
+          (S
+            (NP (PRP him))
+            (ADVP (RB ever))
+            (VP
+              (VP (VBG owning)
+                (NP (PRP it)))
+              (CC or)
+              (VP
+                (ADVP (RB even))
+                (VBG handling)
+                (NP (PRP it))))))))
+    (. .)))
+

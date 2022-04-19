@@ -1,0 +1,48 @@
+(ROOT
+  (S
+    (NP (PRP she))
+    (ADVP (RB really))
+    (VP (VBZ thinks)
+      (SBAR
+        (S
+          (NP (PRP she))
+          (VP (VBZ is)
+            (ADJP (JJ indestructible))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN as)
+      (NP (DT a) (NN result)))
+    (NP (FW i))
+    (VP (VBP do)
+      (S
+        (VP
+          (VP (VB have)
+            (S
+              (VP (TO to)
+                (VP (VB supervise)
+                  (S
+                    (NP (PRP her))
+                    (ADJP
+                      (NP (DT a) (RB lot))
+                      (JJR more)))))))
+          (, ,)
+          (VP (VB manage)
+            (NP (PRP$ her) (NN excitement) (NN level)))
+          (, ,)
+          (CC and)
+          (VP (VB protect)
+            (NP (PRP her))
+            (PP (IN from)
+              (S
+                (VP
+                  (VP (VBG doing)
+                    (ADVP (RB too) (RB much)))
+                  (CC and)
+                  (VP
+                    (ADVP (RB accidentally))
+                    (VBG spraining)
+                    (NP (PRP$ her) (NNS legs))))))))))
+    (. .)))
+

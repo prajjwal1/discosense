@@ -1,0 +1,1 @@
+if youre one of those propeller heads who writes much better php, feel free to rewrite it, and merge it into the github branch repository chamber fork commitment thingamajigger. otherwise feel free to do what i do and just use it.

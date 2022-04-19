@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (S
+      (VP (VB put)
+        (ADVP (RB differently))))
+    (, ,)
+    (VP (VBZ is)
+      (ADVP (RB there))
+      (NP
+        (NP (DT some) (JJ technical) (NN reason) (NN gnome))
+        (SBAR
+          (S
+            (VP
+              (VP
+                (ADVP (RB no) (RB longer))
+                (VBZ works)
+                (PP (IN for)
+                  (NP (PRP them))))
+              (CC and)
+              (VP
+                (ADVP (RB xfce))
+                (VBZ provides)
+                (NP (DT a) (JJR better) (NN experience))))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (PP (IN on)
+      (NP (DT the) (JJ other) (NN hand)))
+    (VP (VBP have))
+    (NP (PRP they))
+    (VP (VBN been)
+      (VP (VBG using)
+        (NP (NN gnome))
+        (PP (IN until)
+          (NP (RB now)))
+        (SBAR (RB only) (IN because)
+          (S
+            (NP (PRP they))
+            (VP (VBP have)
+              (ADVP (RB always))
+              (VP (VBN used)
+                (S
+                  (ADJP (JJ gnome)))))))))
+    (. .)))
+

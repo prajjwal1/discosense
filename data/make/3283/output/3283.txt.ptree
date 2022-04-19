@@ -1,0 +1,63 @@
+(ROOT
+  (S
+    (SBAR (IN in) (NN order)
+      (S
+        (VP (TO to)
+          (VP (VB balance)
+            (NP (PRP$ our) (NN budget))))))
+    (, ,)
+    (NP (DT the) (NN choice) (NN doesnt))
+    (VP (VBP have)
+      (S
+        (VP (TO to)
+          (VP (VB be)
+            (NP
+              (NP (DT either) (JJR higher) (NNS taxes))
+              (CC or)
+              (NP
+                (NP (JJ dramatic) (NN benefit) (NNS cuts))
+                (PP (IN for)
+                  (NP
+                    (NP (DT those))
+                    (PP (IN in)
+                      (NP (NN need)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB instead))
+      (NP (PRP we))
+      (VP (MD should)
+        (VP (VB grow)
+          (NP (PRP$ our) (NN economy))
+          (SBAR (RB so) (IN that)
+            (S
+              (NP (PRP we))
+              (VP (MD can)
+                (VP (VB create)
+                  (NP
+                    (NP (JJ new) (NNS taxpayers))
+                    (, ,) (RB not)
+                    (NP (JJ new) (NNS taxes))))))))))
+    (, ,)
+    (CC and)
+    (IN so)
+    (S
+      (NP (PRP$ our) (NN government))
+      (VP (MD can)
+        (VP (VB afford)
+          (S
+            (VP (TO to)
+              (VP (VB help)
+                (NP
+                  (NP (DT those))
+                  (SBAR
+                    (WHNP (WP who))
+                    (S
+                      (ADVP (RB truly))
+                      (VP (MD can) (RB not)
+                        (VP (VB help)
+                          (NP (PRP themselves)))))))))))))
+    (. .)))
+

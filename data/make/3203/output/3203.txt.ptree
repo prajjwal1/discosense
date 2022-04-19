@@ -1,0 +1,52 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (NN implementation))
+      (PP (IN of)
+        (NP (DT an) (NN rti) (NN framework))))
+    (VP (MD will)
+      (ADVP (RB directly))
+      (VP (VB support)
+        (NP
+          (NP (JJ other) (JJ major) (JJ nysed) (NNS initiatives))
+          (VP (VBN related)
+            (PP (TO to)
+              (NP
+                (NP (DT the) (JJ common) (NN core))
+                (VP (VBG learning)
+                  (NP (NNS standards)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB specifically))
+    (NP (PRP it))
+    (VP (VBZ is)
+      (PP (IN within)
+        (NP
+          (NP (DT a) (JJ systemic) (NN rti) (NN framework))
+          (PP (IN of)
+            (NP (NN instruction) (, ,) (NN assessment)
+              (CC and)
+              (NNS interventions)))))
+      (SBAR (IN that)
+        (S
+          (S
+            (VP (VBG teaching)
+              (CC and)
+              (VBG learning)))
+          (VP (MD will)
+            (VP (VB offer)
+              (NP
+                (NP (DT the) (NN means))
+                (PP (IN of)
+                  (S
+                    (VP (VBG achieving)
+                      (NP (DT the) (JJ common) (NN core))
+                      (S
+                        (VP (VBG learning)
+                          (NP (NNS standards))
+                          (PP (IN through)
+                            (NP (NN quality) (NN instruction))))))))))))))
+    (. .)))
+

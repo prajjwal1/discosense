@@ -1,0 +1,59 @@
+(ROOT
+  (S
+    (S
+      (VP (VBG taking)
+        (NP (NN santa) (NN barbara))
+        (PP (IN as)
+          (NP (DT an) (NN example)))))
+    (, ,)
+    (NP
+      (NP
+        (PP (IN by)
+          (NP (CD 1800)))
+        (QP (RB nearly) (PDT half)))
+      (PP (IN of)
+        (NP (DT the) (CD 850) (NNS residents))))
+    (VP (VBD were)
+      (VP (VBN reported)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (VP (VBG living)
+                (PP (IN on)
+                  (NP
+                    (NP (NNS ranchos))
+                    (PP (IN outside)
+                      (NP
+                        (NP (DT the) (NN city))
+                        (, ,)
+                        (NP
+                          (NP (DT a) (NN situation))
+                          (VP (VBN duplicated)
+                            (PP (IN throughout)
+                              (NP (DT the) (NN province)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thus))
+    (NP (NN california))
+    (VP (VBD was)
+      (ADJP (RB far) (RBR more) (JJ rural))
+      (PP (IN than)
+        (NP
+          (NP (JJ metropolitan) (NNS areas))
+          (PP (JJ such) (IN as)
+            (NP
+              (NP (NN mexico))
+              (SBAR
+                (WHNP (WDT which))
+                (S
+                  (VP (VBD were)
+                    (VP (VBN dominated)
+                      (PP (IN by)
+                        (NP
+                          (NP (DT a) (NN network))
+                          (PP (IN of)
+                            (NP (NNS towns))))))))))))))
+    (. .)))
+

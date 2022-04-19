@@ -1,0 +1,38 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (JJ middle) (NN cut) (NNS holes))
+      (PP (IN in)
+        (NP (NN area)))
+      (NP (CD 23))
+      (DT a))
+    (VP (VBP are)
+      (ADJP (RB sequentially) (JJ blasted)
+        (S
+          (VP (TO to)
+            (VP (VB extend)
+              (NP (DT a) (JJ second) (JJ free) (NN surface)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB subsequently))
+    (NP
+      (NP (DT the) (JJ outer) (NN cut) (NNS holes))
+      (PP (IN in)
+        (NP (NN area)))
+      (NP (CD 24))
+      (DT a))
+    (VP (VBP are)
+      (ADJP (JJ blasted))
+      (, ,)
+      (SBAR (RB so) (IN that)
+        (S
+          (NP
+            (NP (DT a) (JJ second) (JJ free) (NN surface))
+            (PP (IN of)
+              (NP (DT a) (JJ cubical) (NN shape))))
+          (VP (VBZ is)
+            (VP (VBN formed))))))
+    (. .)))
+

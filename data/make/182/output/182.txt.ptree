@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (NP
+      (NP (VBG existing) (NN navigation)
+        (CC and)
+        (VBG timing) (NNS signals))
+      (VP (VBN provided)
+        (PP (IN by)
+          (NP (JJ various) (JJ existing) (NN satellite) (NN navigation) (NNS systems)))))
+    (ADVP (RB often))
+    (VP (VBP do) (RB not)
+      (VP (VB provide)
+        (NP (JJ satisfactory) (NN system) (NN performance))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (ADJP (JJ particular)))
+    (NP
+      (NP (DT the) (NN signal) (NN power))
+      (, ,)
+      (NP (NN bandwidth))
+      (, ,)
+      (CC and)
+      (NP
+        (NP (JJ geometrical) (NN leverage))
+        (PP (IN of)
+          (NP (JJ such) (NN navigation)
+            (CC and)
+            (NN timing) (NNS signals)))))
+    (VP (VBP are)
+      (ADJP (RB generally) (JJ insufficient)
+        (S
+          (VP (TO to)
+            (VP (VB meet)
+              (NP
+                (NP (DT the) (NNS needs))
+                (PP (IN of)
+                  (NP (JJ many) (JJ demanding) (NN usage) (NNS scenarios)))))))))
+    (. .)))
+

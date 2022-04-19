@@ -1,0 +1,3 @@
+conn:so conn_POS:IN prev1:card prev1_POS:NN with_prev1_full:card_so with_prev1_POS_full:NN_IN prev2:sd prev2_POS:NN with_prev2_full:sd_so with_prev2_POS_full:NN_IN NA
+conn:if conn_POS:IN prev1:so prev1_POS:IN with_prev1_full:so_if with_prev1_POS_full:IN_IN prev2:card prev2_POS:NN with_prev2_full:card_if with_prev2_POS_full:NN_IN NA
+conn:in_short conn_POS:IN_JJ sent_pos:0 NA

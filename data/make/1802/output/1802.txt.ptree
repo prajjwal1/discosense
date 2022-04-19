@@ -1,0 +1,52 @@
+(ROOT
+  (S
+    (ADVP (RB accordingly))
+    (, ,)
+    (NP
+      (NP (DT any))
+      (PP (IN of)
+        (NP
+          (NP (DT the) (JJ inventive) (JJ automatic) (NN door) (NN opener))
+          (NP (JJ 15s) (NN metal) (NNS parts)))))
+    (VP (MD may)
+      (VP (VB be)
+        (ADJP
+          (ADJP (JJ polished) (RB mechanically))
+          (CC or)
+          (RB chemically)
+          (ADJP (RB so) (RB as)
+            (S
+              (VP (TO to)
+                (VP (VB have)
+                  (NP (DT a) (JJ smooth) (NN surface) (NN finish)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (RB particularly) (DT the) (NN pod) (NN door) (NN receiver) (NN key) (NNS 183)
+      (CC and)
+      (NN alignment) (NNS pins))
+    (ADVP (RB 187))
+    (VP (MD may)
+      (VP (VB be)
+        (ADJP (JJ polished))
+        (, ,)
+        (SBAR (IN as)
+          (S
+            (VP (MD may)
+              (VP
+                (VP (VB be)
+                  (NP
+                    (NP (DT the) (JJ docking) (NN platform) (NN alignment))
+                    (SBAR
+                      (S
+                        (VP (VBZ pins)
+                          (NP (CD 109)))))))
+                (CC and)
+                (VP (VB clamp)
+                  (NP
+                    (NP (CD 111))
+                    (, ,)
+                    (NP (FW etc.))))))))))
+    (. .)))
+

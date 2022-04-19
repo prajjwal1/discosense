@@ -1,0 +1,44 @@
+(ROOT
+  (S
+    (SBAR (IN if)
+      (S
+        (NP (DT an) (NN ovule))
+        (VP (VBZ is)
+          (ADVP (RB successfully))
+          (VP (VBN fertilized)))))
+    (, ,)
+    (NP (DT the) (NN corn) (NN silk))
+    (VP (MD will)
+      (VP (VB detach)
+        (PP (IN from)
+          (NP (PRP it)))
+        (ADVP
+          (NP
+            (QP (CD two)
+              (CC or)
+              (CD three))
+            (NNS days))
+          (RB later))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB otherwise))
+      (NP (DT the) (NN silk))
+      (VP (MD will)
+        (VP (VB remain)
+          (VP (VBN attached)
+            (ADVP (RB indefinitely))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (NN fertilization))
+      (VP (VBZ remains)
+        (ADJP (JJ possible)
+          (PP (IN for)
+            (NP (CD 10) (NNS days))))
+        (PP (IN after)
+          (NP (NN silk) (NN emergence)))))
+    (. .)))
+

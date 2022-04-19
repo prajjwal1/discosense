@@ -1,0 +1,56 @@
+(ROOT
+  (S
+    (ADVP (RB ironically))
+    (, ,)
+    (NP
+      (NP (DT some) (JJ institutional) (NNS policies)
+        (CC and)
+        (NNS laws))
+      (VP (VBN designed)
+        (S
+          (VP (TO to)
+            (VP (VB protect)
+              (NP (NNS people))
+              (PP (IN with)
+                (NP (NN hiv)))
+              (PP (IN from)
+                (NP (NN stigma))))))))
+    (VP (MD can)
+      (VP (VB help)
+        (VP (VB perpetuate)
+          (NP (PRP it)))))
+    (. .)))
+
+(ROOT
+  (S (IN for)
+    (NP
+      (NP (NN example) (NN privacy) (NNS laws))
+      (SBAR
+        (WHNP (WDT that))
+        (S
+          (VP (VBP aim)
+            (S
+              (VP (TO to)
+                (VP (VB protect)
+                  (NP (JJ hiv) (JJ positive) (NNS people))
+                  (PP (IN from)
+                    (NP (NN stigma)))
+                  (PP (IN by)
+                    (S
+                      (VP (VBG keeping)
+                        (S
+                          (NP (NN health) (NN information))
+                          (ADJP (JJ confidential)))))))))))))
+    (VP (MD may)
+      (ADVP (RB also))
+      (VP (VB contribute)
+        (PP (TO to)
+          (NP
+            (NP (DT the) (NN characterization))
+            (PP (IN of)
+              (NP
+                (NP (NNS aids))
+                (PP (IN as)
+                  (NP (DT a) (JJ dirty) (JJ little) (NN secret)))))))))
+    (. .)))
+

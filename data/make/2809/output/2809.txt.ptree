@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (NN hub))
+      (VP (VBN located)
+        (ADJP
+          (ADJP (JJS closest))
+          (PP (TO to)
+            (NP
+              (NP (DT the) (NN point))
+              (PP (IN of)
+                (NP
+                  (NP (NN origin))
+                  (PP (IN of)
+                    (NP (DT a) (NN shipment))))))))))
+    (VP (MD will)
+      (VP (VB be)
+        (VP (VBN referred)
+          (PP (TO to)
+            (NP (RB as) (DT the) (NN origin)
+              (QP (CD hub) (CD 32)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB similarly))
+    (NP
+      (NP (DT the) (JJ local) (NN hub))
+      (VP (VBN located)
+        (ADVP (JJS closest))
+        (PP (TO to)
+          (NP (DT a) (NNS parcels) (NN destination)))))
+    (VP (MD will)
+      (VP (VB be)
+        (VP (VBN referred)
+          (PP (TO to)
+            (NP (RB as) (DT the) (NN destination)
+              (QP (CD hub) (CD 38)))))))
+    (. .)))
+

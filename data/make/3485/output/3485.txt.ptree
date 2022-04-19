@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (NP
+      (NP (NN identity) (NN foreclosure))
+      (NP (DT this)))
+    (VP (VBZ occurs)
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (NNS teenagers))
+          (VP (VBP accept)
+            (NP
+              (NP (JJ traditional) (NNS values))
+              (CC and)
+              (NP (JJ cultural) (NNS norms)))
+            (, ,)
+            (PP (RB rather) (IN than)
+              (S
+                (VP (VBG determining)
+                  (NP (PRP$ their) (JJ own) (NNS values)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (JJ other) (NNS words)))
+    (NP (DT the) (NN person))
+    (VP (VBZ conforms)
+      (PP (TO to)
+        (NP (DT an) (NN identity)))
+      (PP (IN without)
+        (NP
+          (NP (NN exploration))
+          (PP (IN as) (TO to)
+            (SBAR
+              (WHNP (WP what))
+              (S
+                (ADVP (RB really))
+                (VP (VBZ suits)
+                  (NP (PRP them))
+                  (ADVP (RBS best)))))))))
+    (. .)))
+

@@ -1,0 +1,45 @@
+(ROOT
+  (S
+    (NP (PRP we))
+    (VP (VBP reject)
+      (NP
+        (NP (JJ hard) (NN paternalism))
+        (ADJP (RB here) (DT both)))
+      (SBAR
+        (SBAR (IN because)
+          (S
+            (NP (PRP we))
+            (VP (VBP find)
+              (S
+                (NP (PRP it))
+                (ADJP (JJ unpersuasive))))))
+        (CC and)
+        (SBAR (IN because)
+          (S
+            (NP (PRP we))
+            (VP (VBP think)
+              (SBAR (IN that)
+                (S
+                  (NP (JJS most) (NNS americans))
+                  (VP (VBP do) (RB not)
+                    (VP (VB accept)
+                      (NP (PRP it)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB hence))
+    (NP (PRP we))
+    (VP (VBP suppose)
+      (SBAR (IN that) (, ,)
+        (S
+          (FRAG
+            (ADVP (RB presumptively))
+            (ADVP (IN at) (JJS least)))
+          (, ,)
+          (NP (NNS consumers))
+          (VP (MD should)
+            (VP (VB choose)
+              (NP (DT the) (NN accident) (NN level)))))))
+    (. .)))
+

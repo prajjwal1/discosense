@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (NP (PRP$ her) (NN site))
+    (VP (VBZ has)
+      (NP
+        (NP (DT a) (NN lot))
+        (PP (IN of)
+          (NP (JJ great) (NN info))))
+      (PP (IN about)
+        (NP (JJ various) (JJ archaic) (NN textile) (NNS techniques)))
+      (, ,)
+      (PP (VBG including)
+        (NP
+          (NP (VBG braiding))
+          (, ,)
+          (CC and)
+          (ADVP (RB also))
+          (NP
+            (NP (RB now) (DT an) (JJ online) (NN store))
+            (PP (IN for)
+              (NP (NNS supplies)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB because) (IN of)
+      (NP
+        (NP (DT that) (NN ive))
+        (VP (VBN been)
+          (VP (VBG making)
+            (NP (JJR more))))))
+    (NP
+      (NP (CD 12)
+        (CC and)
+        (CD 16) (NN loop) (NNS versions))
+      (PP (IN than)
+        (NP (CD 10)
+          (CC and)
+          (CD 14))))
+    (VP (VBZ loop)
+      (NP (NNS versions)))
+    (. .)))
+

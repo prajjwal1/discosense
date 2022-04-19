@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (SBAR (IN as)
+      (S
+        (NP (DT the) (NN weather))
+        (VP (VBZ gets)
+          (NP (JJR warmer)))))
+    (, ,)
+    (NP (JJ many) (NNS sharks))
+    (VP (VB migrate)
+      (PP (TO to)
+        (NP (JJ new) (JJ england) (NNS waters))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (ADVP (RB consequently))
+      (IN as)
+      (S
+        (NP (DT the) (NN ocean))
+        (VP (VBZ doubles)
+          (PP (IN as)
+            (NP
+              (NP (PRP$ our) (NN playground))
+              (CC and)
+              (NP (PRP$ their) (NN home)))))))
+    (, ,)
+    (NP (PRP we))
+    (PP (IN at)
+      (NP
+        (NP (DT the) (NN division))
+        (PP (IN of)
+          (NP (JJ marine) (NNS fisheries)))))
+    (VP (VBP have)
+      (VP (VBN provided)
+        (NP
+          (NP (NN information))
+          (CC and)
+          (NP (DT a) (JJ fewcontinue) (NN reading) (NN shark) (NN safety) (NNS tips)))))
+    (. .)))
+

@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (NP (DT these) (NN system) (NN shopping) (NNS carts))
+    (VP (VBP are)
+      (VP
+        (NP (DT each))
+        (VBN provided)
+        (PP (IN with)
+          (NP
+            (NP (DT a) (JJ third) (JJ infrared) (NN transceiver))
+            (VP (VBG having)
+              (NP (DT a) (NN buffer) (NN memory))
+              (S
+                (VP (TO to)
+                  (VP (VB receive)
+                    (CC and)
+                    (VB store)
+                    (NP
+                      (NP (JJ bitwise) (DT the) (JJ specific) (NN information))
+                      (VP (VBN transmitted)
+                        (PP (IN by)
+                          (NP (DT the) (JJ first) (JJ infrared) (NN transceiver)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thereafter))
+    (NP (DT the) (JJ stored) (NN information))
+    (VP (VBZ is)
+      (VP (VBN made)
+        (ADJP (JJ visible)
+          (PP (TO to)
+            (NP
+              (NP (DT the) (NN customer))
+              (PP (IN by)
+                (NP (NN playback))))))
+        (PP (IN on)
+          (NP
+            (NP (DT a) (NN display))
+            (PP (IN on)
+              (NP
+                (NP (DT each) (JJ third) (JJ infrared) (NN transceiver))
+                (PP (IN in)
+                  (NP (DT the) (NN department)))))))))
+    (. .)))
+

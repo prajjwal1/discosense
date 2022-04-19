@@ -1,0 +1,47 @@
+(ROOT
+  (S
+    (NP (DT the) (NN inventory))
+    (VP (MD can)
+      (VP (VB be)
+        (ADJP (JJ segmented))
+        (, ,)
+        (SBAR (IN as)
+          (S
+            (S
+              (VP (VBN opposed)
+                (PP (TO to)
+                  (NP (DT the) (NN advertiser)))
+                (S
+                  (VP (VBG having)
+                    (S
+                      (VP (TO to)
+                        (VP (VB accept)
+                          (NP (DT a) (CD one) (NN size)))))))))
+            (VP (VBZ fits)
+              (NP
+                (NP (DT all) (NN approach))
+                (PP (IN of)
+                  (NP (DT a) (NN generalist) (NN site)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB similarly))
+    (NP (PRP you))
+    (VP (MD may)
+      (VP (VB be)
+        (ADJP (JJ able)
+          (S
+            (VP (TO to)
+              (VP (VB demand)
+                (NP (JJR higher) (NN affiliate) (NNS payouts))))))
+        (, ,)
+        (SBAR (IN because)
+          (S
+            (NP (PRP you))
+            (VP (MD can)
+              (ADVP (RB precisely))
+              (VP (VB target)
+                (NP (NNS offers))))))))
+    (. .)))
+

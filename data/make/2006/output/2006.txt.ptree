@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the)
+        (ADJP
+          (ADJP (JJR smaller))
+          (CC and)
+          (ADJP (RBR more) (JJ obscure)))
+        (NNS animals))
+      (CC and)
+      (NP (NNS birds)))
+    (VP (VBP fascinate)
+      (NP (PRP her)))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (RB particularly) (IN as)
+      (S
+        (NP (PRP$ her) (NN nickname))
+        (VP (VBZ suggests))))
+    (, ,)
+    (NP (DT those) (NN endearing))
+    (VP (VBZ prosimians)
+      (NP (DT the) (NN lemurs)))
+    (. .)))
+

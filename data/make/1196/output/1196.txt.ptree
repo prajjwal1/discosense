@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (NP (EX there))
+    (VP (VBP are)
+      (NP
+        (NP (JJ many) (NNS members))
+        (PP (IN of)
+          (NP (DT the) (NN aster) (NN family)))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBP produce)
+              (NP
+                (NP (DT a) (NN rosette))
+                (PP (IN of)
+                  (NP (NNS leaves))))
+              (PP (IN with)
+                (NP
+                  (NP (NNS stalks))
+                  (PP (IN of)
+                    (NP
+                      (NP (NNS flowerheads))
+                      (SBAR
+                        (WHNP (WDT that))
+                        (S
+                          (VP (VBP consist)
+                            (ADVP (RB entirely))
+                            (PP (IN of)
+                              (NP (JJ yellow) (NN ray) (NNS florets)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN as)
+      (NP (DT a) (NN result)))
+    (NP (NNS people))
+    (ADVP (RB sometimes))
+    (VP (VB confuse)
+      (NP (JJ other) (NNS species))
+      (PP (IN in)
+        (NP
+          (NP (DT this) (NN group))
+          (PP (IN with)
+            (NP (NN dandelion))))))
+    (. .)))
+

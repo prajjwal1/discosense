@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (SBAR (IN while)
+      (FRAG
+        (ADJP (JJ resting))))
+    (, ,)
+    (NP (PRP they))
+    (VP (VBP have)
+      (NP (DT a) (JJ soft) (, ,) (JJ gentle) (NN twitter)))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN although)
+      (S
+        (NP (DT these) (NNS birds))
+        (VP (MD can)
+          (VP (VB be)
+            (ADJP (RB quite) (JJ noisy)
+              (PP (IN as)
+                (NP (NN mating) (NN season))))))))
+    (VP (VBZ draws)
+      (ADJP (JJ nearer)))
+    (. .)))
+

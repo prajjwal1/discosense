@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (NP
+      (NP (PRP$ its) (JJ hard))
+      (SBAR
+        (S
+          (VP (TO to)
+            (VP (VB disagree)
+              (PP (IN with)
+                (NP (DT the) (NN concept))))))))
+    (, ,)
+    (VP (VB isnt)
+      (NP (PRP it)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (ADVP (RB nevertheless))
+        (DT a)
+        (ADJP (RB relatively) (JJ small))
+        (NN number))
+      (PP (IN of)
+        (NP (NNS employers))))
+    (ADVP (RB actually))
+    (VP (VBP have)
+      (NP (CD one)))
+    (. .)))
+

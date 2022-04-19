@@ -1,0 +1,1 @@
+in option one, you may get away with the restore from a permanent recovery, since your stock boot image should still be in place. otherwise youll need to make efforts to restore the boot image as well.

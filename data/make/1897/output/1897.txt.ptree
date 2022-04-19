@@ -1,0 +1,55 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (NN plesner) (NN committee))
+      (PP (IN for)
+        (NP
+          (NP (NN equalization))
+          (PP (IN of)
+            (NP
+              (NP (DT the) (NN burden))
+              (PP (IN of)
+                (NP (JJ national) (NN service)))))))
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (VP (VBZ is)
+            (S
+              (VP (TO to)
+                (VP (VB publish)
+                  (NP (PRP$ its) (NNS recommendations))
+                  (NP (NN today))))))))
+      (, ,))
+    (VP (VBD succumbed)
+      (UCP
+        (ADJP (RB neither)
+          (PP (TO to)
+            (NP (NN populism))))
+        (CC nor)
+        (ADVP (RB militancy))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN on)
+      (NP (DT the) (NN contrary)))
+    (NP (PRP it))
+    (VP (VBZ has)
+      (ADVP (RB wisely))
+      (VP (VBN constructed)
+        (NP
+          (NP (DT a)
+            (ADJP (VBN calibrated)
+              (CC and)
+              (JJ compassionate))
+            (NN path))
+          (PP (IN towards)
+            (NP
+              (NP (JJR greater) (NN haredi) (NN participation))
+              (PP (IN in)
+                (NP (DT the) (JJ israeli) (NN workforce)
+                  (CC and)
+                  (NN military))))))))
+    (. .)))
+

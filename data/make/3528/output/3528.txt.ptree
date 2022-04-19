@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (NP
+      (NP (NN coordination))
+      (PP (IN on)
+        (NP
+          (NP (JJ such) (NNS issues))
+          (PP (IN as)
+            (NP (NNS customs)
+              (CC and)
+              (NN currency))))))
+    (VP (VBD continued)
+      (PP (IN among)
+        (NP (DT the) (CD four) (NNS territories)))
+      (PP
+        (PP (IN through)
+          (NP (JJ written) (NNS agreements)))
+        (CC or)
+        (PP (IN on)
+          (NP (DT an)
+            (ADJP (FW ad) (FW hoc))
+            (NN basis)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nonetheless))
+    (NP (DT some) (NNS chadians))
+    (VP (VBD supported)
+      (NP
+        (NP
+          (NP (DT the) (NN creation))
+          (PP (IN of)
+            (NP (DT an)
+              (ADJP (RB even) (JJR stronger))
+              (JJ french) (NN federation))))
+        (, ,)
+        (CONJP (RB rather) (IN than))
+        (NP (NN independence))))
+    (. .)))
+

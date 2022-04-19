@@ -1,0 +1,64 @@
+(ROOT
+  (S
+    (SBAR (IN though)
+      (S
+        (NP (PRP they))
+        (VP (VBD had)
+          (VP (VBN worked)
+            (PP (IN since)
+              (NP (DT the) (JJ mid) (NNS 1980s)))
+            (S
+              (VP (TO to)
+                (VP (VB investigate)
+                  (NP (NN ozone) (NN depletion))
+                  (PP (IN in)
+                    (NP (DT the)
+                      (ADJP (JJ arctic)
+                        (CC and)
+                        (JJ antarctic)))))))
+            (, ,)
+            (PP (IN by)
+              (NP (DT the) (JJ early) (CD 2000) (NNS s)))))))
+    (, ,)
+    (NP (JJ andersons) (NN team))
+    (VP (VBD had)
+      (VP (VBN turned)
+        (NP (PRP$ their) (NN attention))
+        (PP (TO to)
+          (NP (NN climate) (NNS studies)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (ADJP (JJ particular)))
+    (NP (PRP they))
+    (VP (VBD were)
+      (VP (VBG working)
+        (S
+          (VP (TO to)
+            (VP (VB understand)
+              (SBAR
+                (WHADVP (WRB how))
+                (S
+                  (NP (DT the) (JJ convective) (NNS clouds))
+                  (VP (VBZ updrafts)
+                    (SBAR (IN that)
+                      (S
+                        (NP
+                          (NP (NN cause) (NNS storms))
+                          (SBAR
+                            (S
+                              (VP (TO to)
+                                (VP (VB build)
+                                  (ADJP (JJ high))
+                                  (PP (IN into)
+                                    (NP (DT the) (NN sky))))))))
+                        (VP (VBP contribute)
+                          (PP (TO to)
+                            (NP
+                              (NP (DT the) (NN creation))
+                              (PP (IN of)
+                                (NP (JJ cirrus) (NNS clouds))))))))))))))))
+    (. .)))
+

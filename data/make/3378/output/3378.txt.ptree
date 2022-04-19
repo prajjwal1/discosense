@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (JJ first) (NN one))
+      (, ,)
+      (VP (VBN sponsored)
+        (PP (IN by)
+          (NP (DT the) (NN wella) (NN corporation))))
+      (, ,))
+    (VP (MD will)
+      (VP (VB cover)
+        (NP (DT the) (NNS years))
+        (NP
+          (NP (CD 1877) (TO to) (CD 1900))
+          (, ,)
+          (SBAR
+            (WHADVP (WRB when))
+            (S
+              (NP (PRP we))
+              (VP (VBD were)
+                (VP (VBN called)
+                  (NP (NN american) (NN hairdresser)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thereafter) (RB well))
+    (VP (VB focus)
+      (PP (IN on)
+        (NP
+          (NP (CD one) (NN decade))
+          (PP (IN per)
+            (NP (NN issue))))))
+    (. .)))
+

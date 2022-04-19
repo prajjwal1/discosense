@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (NP (DT the) (NN player))
+    (VP (MD can)
+      (VP (VB use)
+        (S
+          (NP (NNS towns))
+          (VP (TO to)
+            (VP
+              (VP (VB replenish)
+                (NP (NN strength)))
+              (, ,)
+              (VP (VB buy)
+                (NP (NN equipment)))
+              (, ,)
+              (CC and)
+              (VP (VB discover)
+                (NP (NNS clues))
+                (PP (IN about)
+                  (NP (PRP$ their) (JJ next) (NN destination)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB conversely))
+    (NP (DT the) (NN player))
+    (VP (VBZ fights)
+      (NP (NNS monsters))
+      (PP
+        (PP (IN at)
+          (NP
+            (NP (JJ random) (NNS intervals))
+            (PP (IN on)
+              (NP (DT the) (NN world) (NN map)))))
+        (CC and)
+        (PP (IN in)
+          (NP (NNS dungeons)))))
+    (. .)))
+

@@ -1,0 +1,54 @@
+(ROOT
+  (S
+    (SBAR (IN if)
+      (S
+        (NP (FW i))
+        (VP (VBD were)
+          (S
+            (VP (TO to)
+              (VP (VB continue)
+                (NP (FW i))))))))
+    (NP (NN havent))
+    (VP (VBD decided)
+      (SBAR (IN if)
+        (S
+          (NP (FW i))
+          (VP (MD will)
+            (ADVP (RB i))
+            (VP (VB think)
+              (NP
+                (NP (JJ ill) (NN use) (NN sesame) (NN seed) (NN oil))
+                (VP (VBG going)
+                  (ADVP (RB forward)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (JJ overall) (NN id))
+      (VP
+        (VP (VBP say)
+          (SBAR (IN that)
+            (S
+              (NP (DT this))
+              (VP (VBD was)
+                (NP (DT a) (JJ unique) (NN process))))))
+        (, ,)
+        (CC but)
+        (VP (VBP im)
+          (ADJP (RB not) (JJ sure)))))
+    (NP (PRP it))
+    (VP (VBD was)
+      (ADJP (JJ effective) (RB enough)
+        (SBAR (IN for)
+          (S
+            (NP (PRP me))
+            (VP (TO to)
+              (VP (VB want)
+                (S
+                  (VP (TO to)
+                    (VP (VB continue)
+                      (PP (IN on)
+                        (NP (DT a) (JJ regular) (NN basis))))))))))))
+    (. .)))
+

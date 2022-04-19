@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (NP (PRP it))
+    (VP (VBD was)
+      (VP (VBN identified)
+        (PP (IN by)
+          (NP
+            (NP (DT a) (JJ nypd) (NN glock))
+            (VP (VBN certified)
+              (NP (JJ advanced) (NN armorer))
+              (PP (IN as)
+                (S
+                  (VP (VBG being)
+                    (NP
+                      (NP (NN part))
+                      (PP (IN of)
+                        (NP
+                          (NP (DT a) (JJ known) (NN range))
+                          (PP (IN of)
+                            (NP (JJ bad) (JJ serial) (NNS numbers))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nonetheless))
+    (NP (PRP it))
+    (VP (VBD took)
+      (SBAR
+        (S
+          (NP (NN multiple))
+          (VP (VBZ tries)
+            (S
+              (VP (TO to)
+                (VP (VB get)
+                  (NP
+                    (NP (DT the) (NN gun))
+                    (VP (VBN replaced)
+                      (PP (IN by)
+                        (NP (NN glock))))))))))))
+    (. .)))
+

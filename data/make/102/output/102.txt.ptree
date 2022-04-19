@@ -1,0 +1,48 @@
+(ROOT
+  (S
+    (NP (JJ severe) (NN leakage))
+    (ADVP (RB usually))
+    (VP (VBZ results)
+      (PP (IN from)
+        (NP
+          (NP
+            (ADJP
+              (ADVP (RB improperly))
+              (VBN installed))
+            (NNS connectors))
+          (CC or)
+          (NP
+            (NP (NNS faults))
+            (PP (IN in)
+              (NP (DT the) (NN cable) (NN shield)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP
+        (NP (NN example))
+        (PP (IN in)
+          (NP (DT the) (VBN united) (NNS states)))))
+    (, ,)
+    (NP
+      (NP (NN signal) (NN leakage))
+      (PP (IN from)
+        (NP (NN cable) (NN television) (NNS systems))))
+    (VP (VBZ is)
+      (VP (VBN regulated)
+        (PP (IN by)
+          (NP (DT the) (NN fcc)))
+        (, ,)
+        (SBAR (IN since)
+          (S
+            (NP (NN cable) (NNS signals))
+            (VP (VBP use)
+              (NP
+                (NP (DT the) (JJ same) (NNS frequencies))
+                (PP (IN as)
+                  (NP (NN aeronautical)
+                    (CC and)
+                    (NN radionavigation) (NNS bands)))))))))
+    (. .)))
+

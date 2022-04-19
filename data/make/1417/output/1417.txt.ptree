@@ -1,0 +1,50 @@
+(ROOT
+  (S
+    (S
+      (VP (VBG taking)
+        (NP (NNS sales) (NNS taxes))))
+    (VP (VBZ allows)
+      (S
+        (NP (PRP us))
+        (VP (TO to)
+          (VP (VB tax)
+            (NP
+              (NP (NN everyone))
+              (, ,) (RB not) (RB just)
+              (NP
+                (NP (DT the) (NNS people))
+                (ADJP (JJ able)
+                  (CC and)
+                  (JJ willing))))
+            (S
+              (VP (TO to)
+                (VP (VB do)
+                  (NP (PRP$ their) (NNS taxes)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (RB particularly) (JJ illegal) (NNS workers)
+        (CC or)
+        (JJ black) (NN market) (NN income))
+      (VP (VBP are)
+        (ADJP (JJ impossible)
+          (PP (TO to)
+            (NP
+              (NP (NN tax))
+              (VP (VBG using)
+                (NP (DT an) (NN income) (NN tax) (NN regime))))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (NN everyone))
+      (VP
+        (VP (VBZ buys)
+          (NP (NN gas)))
+        (CC and)
+        (VP (VBZ goes)
+          (PP (TO to)
+            (NP (DT the) (NN grocery) (NN store))))))
+    (. .)))
+

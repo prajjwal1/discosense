@@ -1,0 +1,49 @@
+(ROOT
+  (S
+    (NP
+      (NP (NN protection))
+      (PP (IN from)
+        (NP
+          (NP (DT the) (JJ harmful) (NNS effects))
+          (PP (IN of)
+            (NP
+              (NP
+                (NP (DT the) (NN sun))
+                (NP (DT the) (JJ suns) (NN ultraviolet)))
+              (, ,)
+              (CC or)
+              (NP (NN uv) (NNS rays))
+              (, ,))))))
+    (VP (VBP are)
+      (VP (VBN known)
+        (S
+          (VP (TO to)
+            (VP (VB cause)
+              (NP
+                (NP (NN skin) (NN cancer))
+                (, ,)
+                (NP
+                  (NP (DT the) (VBG leading) (NN type))
+                  (PP (IN of)
+                    (NP
+                      (NP (NN cancer))
+                      (PP (IN in)
+                        (NP (DT the) (VBN united) (NNS states))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB hence)
+      (NP (PRP$ its)
+        (ADJP (JJ important)
+          (S
+            (VP (TO to)
+              (VP (VB limit)
+                (NP (PRP$ your) (NN exposure))
+                (, ,)
+                (SBAR (RB even)
+                  (FRAG
+                    (WHADVP (WRB when))))))))
+        (NN driving)))
+    (. .)))
+

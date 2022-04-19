@@ -1,0 +1,2 @@
+conn:because conn_POS:IN prev1:unpopular prev1_POS:JJ with_prev1_full:unpopular_because with_prev1_POS_full:JJ_IN prev2:become prev2_POS:VBN with_prev2_full:become_because with_prev2_POS_full:VBN_IN NA
+conn:in_short conn_POS:IN_JJ sent_pos:0 NA

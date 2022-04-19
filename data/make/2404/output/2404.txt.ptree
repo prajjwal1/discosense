@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (NP (PRP$ its) (NNS winners))
+    (VP (VBP include)
+      (NP
+        (NP
+          (NP (NN bmc) (NNS racings))
+          (NP (NN world) (NN champion) (NN philippe) (NN gilbert)))
+        (CC and)
+        (NP
+          (NP (NN radioshack) (NNS leopards))
+          (NP (NN fabian) (NN cancellara))
+          (, ,)
+          (ADVP (RB twice)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP
+        (ADJP (JJ short))
+        (NP (PRP$ its)
+          (NP
+            (NP (DT a) (JJ new) (NN race))
+            (, ,)
+            (ADVP (RB but)
+              (NP (DT a) (NN race)))))))
+    (NP (DT that))
+    (VP (VBZ matters)
+      (ADVP (RB deeply)))
+    (. .)))
+

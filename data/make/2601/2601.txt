@@ -1,0 +1,1 @@
+the receiving station 12 receives these five signals at one of two timings and. therefore the number of signal receiving timings is two as is the maximum number of effective branches, where by it is possible to exert a path diversity effect.

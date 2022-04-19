@@ -1,0 +1,1 @@
+in effect, the intermediate layer is the dot product of the character vector with subcluster weighting vectors to produce a subcluster vector or character feature vector. thereafter the final summing layer is the dot product of the subcluster vector with a weighting vector to classify the subcluster vector, or feature vector, into a character class.

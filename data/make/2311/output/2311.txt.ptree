@@ -1,0 +1,48 @@
+(ROOT
+  (S
+    (NP (NN tristram))
+    (VP (VBD believed)
+      (S
+        (S
+          (NP (PRP it))
+          (VP (VBD was)
+            (NP
+              (NP (JJ certain) (NN death))
+              (PP (IN for)
+                (NP (PRP him)))
+              (S
+                (VP (TO to)
+                  (VP (VB return)
+                    (S
+                      (VP (TO to)
+                        (VP (VB ireland))))))))))
+        (CC and)
+        (SBARQ
+          (WHADVP (WRB how))
+          (SQ (MD could)
+            (NP (PRP he))
+            (VP (VB act)
+              (PP (IN as)
+                (NP
+                  (NP (NN ambassador))
+                  (PP (IN for)
+                    (NP
+                      (NP (PRP$ his) (NN uncle))
+                      (PP (IN in)
+                        (NP (PDT such) (DT a) (NN cause))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB yet))
+      (VP (VBN bound)
+        (PP (IN by)
+          (NP (PRP$ his) (NN oath)))))
+    (, ,)
+    (NP (PRP he))
+    (VP (VBD hesitated)
+      (PP (RB not) (IN for)
+        (NP (DT an) (NN instant))))
+    (. .)))
+

@@ -1,0 +1,37 @@
+(ROOT
+  (SINV
+    (PP (IN for)
+      (NP
+        (NP (DT a) (NN guy))
+        (SBAR
+          (WHNP (WP$ whose) (NN career))
+          (S
+            (VP (VBP mark))))))
+    (VP (VBZ is))
+    (NP
+      (NP (CD 44) (NN percent))
+      (, ,)
+      (SBAR
+        (WHNP (WDT that))
+        (S
+          (VP (MD will)
+            (VP (VB come)
+              (PP (IN as)
+                (NP (DT a) (NN shock)))
+              (PP (TO to)
+                (NP (JJ avery) (NN johnson))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN as)
+      (NP (DT a) (NN result)))
+    (NP (NN marshon) (NNS brooks))
+    (VP (MD could)
+      (VP (VB see)
+        (NP
+          (NP (DT some) (JJ valuable) (NNS minutes))
+          (PP (IN in)
+            (NP (DT this) (NN one))))))
+    (. .)))
+

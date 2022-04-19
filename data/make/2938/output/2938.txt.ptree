@@ -1,0 +1,44 @@
+(ROOT
+  (S
+    (SBAR (IN as)
+      (S
+        (NP (DT the) (NN beak))
+        (VP (VBZ scissors)
+          (ADJP (JJ open)
+            (CC and)
+            (VBN shut)))))
+    (, ,)
+    (NP (DT each) (NN movement))
+    (VP (VBZ propels)
+      (NP (DT the) (NN water) (NN droplet))
+      (PP
+        (ADVP
+          (NP (CD one) (NN step))
+          (RBR closer))
+        (TO to)
+        (NP (DT the) (NNS birds) (NN mouth))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (ADVP (RB specifically))
+      (WHADVP (WRB when))
+      (S
+        (NP (DT the) (NN beak))
+        (VP (VBZ closes))))
+    (, ,)
+    (NP
+      (NP (DT the) (NNS drops))
+      (VP (VBG leading)
+        (NP (NN edge) (NNS proceeds))
+        (PP (IN toward)
+          (NP (DT the) (NN mouth)))
+        (, ,)
+        (SBAR (IN while)
+          (S
+            (NP (DT the) (JJ trailing) (NN edge))
+            (VP (VBZ stays))))))
+    (VP (VBD put))
+    (. .)))
+

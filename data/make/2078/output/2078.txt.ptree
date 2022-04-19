@@ -1,0 +1,59 @@
+(ROOT
+  (S
+    (VP
+      (VP (VB be)
+        (ADJP (JJ aware))
+        (SBAR (IN that)
+          (S
+            (NP (NN minion) (NNS masters))
+            (VP (VBP are)
+              (VP (VBG disadvantaged)
+                (PP (IN on)
+                  (NP (DT the) (NN kurzick) (NN side))))))))
+      (, ,)
+      (NP
+        (ADJP (JJ due)
+          (PP (TO to)
+            (NP
+              (NP (DT the) (JJ large) (NN aoe) (NN damage))
+              (PP (IN of)
+                (NP (DT the) (NN siege))))))
+        (NNS turtles)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB instead))
+    (NP (NNS necromancers))
+    (VP (MD can)
+      (VP (VB exploit)
+        (NP
+          (NP
+            (NP (NNS wells))
+            (, ,)
+            (NP (JJ such)))
+          (CONJP (RB as) (RB well) (IN of))
+          (NP
+            (NP (NN blood))
+            (, ,)
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (VP (MD will)
+                  (VP (VB ensure)
+                    (NP
+                      (NP (DT any) (NN enemy))
+                      (SBAR
+                        (S
+                          (NP (NN minion) (NNS masters))
+                          (VP (MD will)
+                            (VP (VB have)
+                              (NP
+                                (NP (DT a) (JJ low) (NN supply))
+                                (PP (IN of)
+                                  (NP
+                                    (NP (NNS corpses))
+                                    (PP (IN for)
+                                      (NP (PRP$ their) (JJ own) (NNS bars)))))))))))))))))))
+    (. .)))
+

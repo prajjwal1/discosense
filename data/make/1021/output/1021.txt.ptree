@@ -1,0 +1,52 @@
+(ROOT
+  (S
+    (NP (PRP he))
+    (VP
+      (VP (VBD had)
+        (VP (VBN scored)
+          (ADJP (JJ second)
+            (PP (IN in)
+              (NP (NN marksmanship))))
+          (PP (IN with)
+            (NP (DT the) (NN bar)))))
+      (CC and)
+      (VP (VBD was)
+        (VP (VBN selected)
+          (PP (IN for)
+            (NP
+              (NP (DT the) (JJ elite) (NN unit))
+              (VP (VBN sent)
+                (S
+                  (VP (TO to)
+                    (VP (VB destroy)
+                      (NP (DT the) (NN artillery) (NN piece))
+                      (SBAR (IN because)
+                        (S
+                          (NP (PRP he))
+                          (VP (VBD spoke)
+                            (NP
+                              (NP (NN german))
+                              (, ,)
+                              (ADVP (RBR more))
+                              (RB precisely)
+                              (NP (NN pennsylvania) (NN dutch)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S (CC but)
+    (NP (PRP he))
+    (, ,)
+    (ADVP (IN at) (JJS least))
+    (, ,)
+    (VP (MD could)
+      (VP
+        (VP (VB understand))
+        (CC and)
+        (VP (VB make)
+          (S
+            (NP (PRP himself))
+            (VP (VBN understood)
+              (PP (IN in)
+                (NP (NN german))))))))
+    (. .)))
+

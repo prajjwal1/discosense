@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (PP (IN for)
+      (NP
+        (NP (NNS hybrids))
+        (PP (IN with)
+          (NP
+            (NP (CD two) (JJ equal) (NNS priorities))
+            (CC and)
+            (NP (DT no) (JJ transparent) (NN system))))
+        (S
+          (VP (TO to)
+            (VP (VB uphold)
+              (NP (PRP them)))))))
+    (, ,)
+    (NP
+      (NP (DT the) (NN risk))
+      (PP (IN of)
+        (NP (NN misalignment)
+          (CC and)
+          (NN failure))))
+    (VP (VBZ is)
+      (ADJP (RB extremely) (JJ high)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB consequently))
+    (NP (NN capital))
+    (VP (VBZ avoids)
+      (NP (DT these) (NNS investments)))
+    (. .)))
+

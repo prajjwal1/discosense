@@ -1,0 +1,57 @@
+(ROOT
+  (S
+    (SBAR (IN unless)
+      (S
+        (NP (NN google))
+        (VP (VBZ gets)
+          (NP (NN something))
+          (ADVP (RB seriously) (JJ wrong)
+            (PP (IN with)
+              (NP
+                (ADJP (JJ android)
+                  (NP (CD 4.4)))
+                (NN kitkat)))))))
+    (, ,)
+    (NP
+      (NP (DT the) (NN niggles)
+        (CC and)
+        (NN lag))
+      (PP (IN of)
+        (NP
+          (NP (DT the) (NN android))
+          (PP (IN of)
+            (ADJP (JJ old))))))
+    (VP (VBP appear)
+      (S
+        (VP (TO to)
+          (VP (VB have)
+            (VP (VBN been)
+              (VP (VBN banished)
+                (PP (IN for)
+                  (ADJP (JJ good)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP interestingly) (NNP antutu))
+    (VP (VBZ rates)
+      (NP (DT the) (NN note) (CD 3))
+      (PP
+        (ADVP
+          (NP (DT a) (JJ full) (CD 6,000) (NNS points))
+          (RBR lower))
+        (IN than)
+        (NP
+          (NP (DT the) (NN lg) (NN g))
+          (NP (CD 2))))
+      (, ,)
+      (PP (IN despite)
+        (NP
+          (NP (DT the) (NN fact))
+          (SBAR
+            (WHNP (WDT that))
+            (S (DT both)
+              (VP (VBP share)
+                (NP (DT the) (JJ same) (NN silicon))))))))
+    (. .)))
+

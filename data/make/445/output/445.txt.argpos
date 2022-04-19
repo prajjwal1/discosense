@@ -1,0 +1,2 @@
+conn:as conn_POS:IN prev1:, prev1_POS:, with_prev1_full:,_as with_prev1_POS_full:,_IN prev2:scenarios prev2_POS:NNS with_prev2_full:scenarios_as with_prev2_POS_full:NNS_IN NA
+conn:so conn_POS:IN prev1:, prev1_POS:, with_prev1_full:,_so with_prev1_POS_full:,_IN prev2:prosecuted prev2_POS:VBN with_prev2_full:prosecuted_so with_prev2_POS_full:VBN_IN NA

@@ -1,0 +1,59 @@
+(ROOT
+  (S
+    (S
+      (VP (VBG being)
+        (NP
+          (NP (DT the) (NN sheriff))
+          (PP (IN of)
+            (NP (NN fabletown))))))
+    (VP (VBZ requires)
+      (ADJP (JJ bigby)
+        (S
+          (VP (TO to)
+            (VP (VB keep)
+              (NP
+                (NP (DT the) (NN town))
+                (PP (IN in)
+                  (NP (NN line))))
+              (, ,)
+              (S
+                (ADVP (RB sometimes))
+                (VP (VBG requiring)
+                  (S
+                    (NP (PRP him))
+                    (VP (TO to)
+                      (VP (VB use)
+                        (NP (NN force))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB because)
+      (PP (IN of)
+        (SBAR (IN that)
+          (S
+            (NP (NN bigby))
+            (ADVP (RB often))
+            (VP (VBZ finds)
+              (S
+                (NP (PRP himself))
+                (VP (VBG fighting)
+                  (NP (JJ other) (NNS fables)))))))))
+    (NP (DT these))
+    (VP (VBP include)
+      (NP
+        (NP (DT the) (NN woodsman))
+        (, ,)
+        (NP (NN grendel))
+        (, ,)
+        (NP (NN beast))
+        (, ,)
+        (NP (DT the) (NNS tweedles))
+        (, ,)
+        (NP (NN georgie))
+        (, ,)
+        (NP (JJ bloody) (NN mary))
+        (CC and)
+        (NP (DT the) (NN jersey) (NN devil))))
+    (. .)))
+

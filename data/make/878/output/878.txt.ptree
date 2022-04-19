@@ -1,0 +1,60 @@
+(ROOT
+  (S
+    (NP (PRP we))
+    (VP (VBP see)
+      (NP (NN nothing))
+      (PP (IN in)
+        (NP (DT the) (JJ record) (JJ supporting) (NNS mcminns) (NN suggestion)))
+      (SBAR (IN that)
+        (S
+          (NP (DT the) (NN jury))
+          (VP (VBD believed)
+            (SBAR
+              (S
+                (NP (PRP it))
+                (VP (VBD was)
+                  (VP (VBN bound)
+                    (S
+                      (VP (TO to)
+                        (VP (VB accept)
+                          (NP (NN sergeant) (NNS pinsons) (NN characterization))
+                          (SBAR (IN that)
+                            (S
+                              (NP (DT the) (NN truck))
+                              (VP (VBD was)
+                                (NP (DT a) (JJ deadly) (NN weapon))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP
+      (ADVP (RB likewise))
+      (IN notwithstanding)
+      (NP
+        (NP (JJ mcminns) (NN suggestion))
+        (PP (TO to)
+          (NP (DT the) (NN contrary)))))
+    (, ,)
+    (NP (NN sergeant) (NN pinson))
+    (VP (VBD said)
+      (NP (NN nothing))
+      (PP
+        (PP (IN about)
+          (SBAR (IN whether)
+            (S
+              (NP (NN mcminn))
+              (VP (VBD acted)
+                (ADVP (RB knowingly))))))
+        (CC or)
+        (PP (IN with)
+          (NP
+            (NP (NN intent))
+            (SBAR
+              (WHADVP (WRB when))
+              (S
+                (NP (PRP he))
+                (VP (VBD drove)
+                  (PP (IN toward)
+                    (NP (NN officer) (NN berry))))))))))
+    (. .)))
+

@@ -1,0 +1,62 @@
+(ROOT
+  (S
+    (PP (IN as)
+      (NP (JJ used) (NN herein)))
+    (, ,)
+    (NP (DT the) (NN term) (NN mixture))
+    (VP
+      (VP (VBZ is)
+        (ADJP (JJ synonymous)
+          (PP (IN with)
+            (NP (NN combination)))))
+      (CC and)
+      (VP (VBZ is)
+        (VP (VBN considered)
+          (NP
+            (NP (DT a) (NN composition))
+            (PP (IN of)
+              (NP
+                (NP (NN matter))
+                (VP (VBG having)
+                  (NP
+                    (NP
+                      (QP (CD two)
+                        (CC or)
+                        (JJR more))
+                      (NNS components))
+                    (PP (IN in)
+                      (NP (VBG varying) (NNS proportions)))))
+                (, ,)
+                (ADVP (RB regardless)
+                  (PP (IN of)
+                    (NP (PRP$ their) (JJ physical) (NN state))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (ADJP (JJ particular)))
+    (NP (PRP it))
+    (VP (VBZ encompasses)
+      (NP
+        (NP (JJ physical) (NNS mixtures))
+        (CONJP (RB as) (RB well) (IN as))
+        (NP
+          (NP (NNS intergrowths))
+          (PP (IN of)
+            (NP
+              (NP
+                (QP (IN at) (JJS least) (CD two))
+                (JJ different) (JJ molecular) (NN sieve) (NNS frameworks))
+              (PP (JJ such) (IN as)
+                (PP (IN for)
+                  (NP (NN example))))
+              (NP
+                (NP (DT those))
+                (VP (VBN described)
+                  (PP (IN in)
+                    (ADVP
+                      (NP (CD pct) (NN publication))
+                      (RB no))))))))))
+    (. .)))
+

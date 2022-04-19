@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (NP (DT the) (JJ west) (NN seattle) (NN location))
+    (VP (VBZ is)
+      (ADJP
+        (ADJP (JJR more))
+        (PP (IN of)
+          (ADVP
+            (NP (DT a) (NN toss))
+            (RB up)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB because) (IN of)
+      (NP
+        (NP (DT this))
+        (CC and)
+        (NP
+          (NP (DT the) (NN fact))
+          (SBAR (IN that)
+            (S
+              (NP (PRP they))
+              (VP (VBP keep)
+                (NP
+                  (NP (DT a) (NN lot))
+                  (PP (IN of)
+                    (NP
+                      (NP (NN staff))
+                      (PP (IN on)
+                        (NP (NN hand))))))))))))
+    (, ,)
+    (NP (DT the) (NN waits))
+    (VP (VBP are)
+      (ADVP (RB generally))
+      (RB not)
+      (ADJP (RB so) (JJ bad)))
+    (. .)))
+

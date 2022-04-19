@@ -1,0 +1,56 @@
+(ROOT
+  (S
+    (NP (PRP it))
+    (ADVP (RB therefore))
+    (VP (VBZ lacks)
+      (NP
+        (NP (DT a) (JJ few) (NNS features))
+        (, ,)
+        (NP
+          (NP (RB notably) (DT a) (NN way))
+          (PP (IN of)
+            (S
+              (VP
+                (VP (VBG submitting)
+                  (NP (DT the) (VBN changed) (NN style) (NN sheet))
+                  (PP (TO to)
+                    (NP (DT the) (NN server))))
+                (CC and)
+                (VP (VBG applying)
+                  (NP (PRP it))
+                  (PP (TO to)
+                    (NP (DT the) (JJ entire) (NN site))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nonetheless))
+    (NP
+      (NP (DT the) (NN script))
+      (PP (IN as)
+        (NP (JJ such))))
+    (VP
+      (VP (VBZ works))
+      (, ,)
+      (CC and)
+      (VP (VBZ provides)
+        (NP
+          (NP (DT an) (JJ excellent) (NN example))
+          (PP (IN of)
+            (S
+              (VP
+                (VP (VBG editing)
+                  (NP (NN style) (NNS sheets)))
+                (, ,)
+                (CONJP (RB as) (RB well) (IN as))
+                (VP (VBG preparing)
+                  (NP (PRP$ your) (JJ html) (NNS forms))
+                  (S
+                    (VP (TO to)
+                      (VP
+                        (ADVP (RB closely))
+                        (VB cooperate)
+                        (PP (IN with)
+                          (NP (DT a) (NN script)))))))))))))
+    (. .)))
+

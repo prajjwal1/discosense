@@ -1,0 +1,44 @@
+(ROOT
+  (S
+    (NP (DT the) (JJ first)
+      (CC and)
+      (JJ second) (NNS pmos))
+    (VP (VBD transistors)
+      (SBAR
+        (S
+          (NP
+            (NP (NN pm) (CD 1))
+            (CC and)
+            (NP (NN pm) (CD 2)))
+          (VP (VBP are)
+            (ADVP (RB basically))
+            (NP (RB later)
+              (ADVP (RB then))
+              (NP
+                (NP (DT the) (JJ first)
+                  (CC and)
+                  (JJ second) (NNS nmos) (NNS transistors))
+                (NP (NN nm) (CD 1)))
+              (CC and)
+              (NP
+                (NP (NN nm) (CD 2))
+                (PP (IN in)
+                  (NP (NN operation) (NN rate)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thereby))
+    (NP
+      (NP (NN output) (NNS rates))
+      (PP (IN of)
+        (NP (DT the) (NN differential) (NN output))))
+    (VP (VBZ signals)
+      (NP
+        (NP (NN vo)
+          (CC and)
+          (NN vo))
+        (VP (VBN become)
+          (ADVP (RBR faster)))))
+    (. .)))
+

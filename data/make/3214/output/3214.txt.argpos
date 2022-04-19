@@ -1,0 +1,3 @@
+conn:overall conn_POS:RB sent_pos:0 NA
+conn:and conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_and with_prev1_POS_full:,_CC prev2:rhythm prev2_POS:NN with_prev2_full:rhythm_and with_prev2_POS_full:NN_CC NA
+conn:in_other_words conn_POS:IN_JJ_NNS sent_pos:0 NA

@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (NP (NN mclaughlin))
+    (VP (VBD testified)
+      (SBAR
+        (S
+          (NP (DT the) (NNS documents))
+          (VP
+            (VP (VBP reflect)
+              (NP (NN moisture) (NN damage))
+              (PP (IN at)
+                (NP (DT the) (NN home))))
+            (CC and)
+            (VP (MD should)
+              (VP (VB haveraised)
+                (NP (JJ red) (NNS flags))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN sum)))
+    (NP
+      (NP (DT the) (NN home) (NN inspection) (NN report))
+      (CC and)
+      (NP (NN cl) (CD 100)))
+    (VP
+      (ADVP (RB clearly))
+      (VBP illustrate)
+      (SBAR
+        (S
+          (NP (NN mclaughlin))
+          (VP (VBD had)
+            (NP
+              (NP (NN information))
+              (VP (VBG indicating)
+                (SBAR
+                  (S
+                    (NP (EX there))
+                    (VP (VBD was)
+                      (NP
+                        (NP (NN moisture) (NN damage))
+                        (PP (TO to)
+                          (NP (DT the) (NN subject) (NN property)))))))))))))
+    (. .)))
+

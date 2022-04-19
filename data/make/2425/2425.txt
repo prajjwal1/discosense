@@ -1,0 +1,1 @@
+for example, the output power of the transmitter 20 is adjusted to be 90% of the output power prescribed by ieee. thereby the power consumption of the transmitter 20 is saved without affecting the signal transmission between the transceiver device 10 and the far end device 70.

@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (NP (DT the) (NN result))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a)
+          (ADJP (JJ topped)
+            (CC or)
+            (JJ thinned))
+          (NN shot))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (MD can)
+              (VP (VB be)
+                (VP
+                  (ADVP (RBR further))
+                  (VBN accentuated)
+                  (SBAR (IN if)
+                    (S
+                      (NP (PRP you))
+                      (VP (VBP suffer)
+                        (PP (IN from)
+                          (NP (DT a) (NN chicken) (NN wing) (NN action)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB therefore))
+    (NP (DT this))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (JJ real) (NN case))
+        (PP (IN of)
+          (S
+            (VP (VBG keeping)
+              (NP (PRP$ your) (NN eye))
+              (PP (IN on)
+                (NP (DT the) (NN ball))))))))
+    (. .)))
+

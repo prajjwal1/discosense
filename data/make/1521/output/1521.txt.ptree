@@ -1,0 +1,63 @@
+(ROOT
+  (S
+    (NP
+      (NP (CD one))
+      (PP (IN of)
+        (NP
+          (NP (DT the) (JJS greatest) (NNS frustrations))
+          (VP (VBN associated)
+            (PP (IN with)
+              (NP (JJ cold) (NNS cases)))))))
+    (VP (VBZ is)
+      (SBAR
+        (WHNP (WDT that))
+        (, ,)
+        (S
+          (ADVP (NNS thanks)
+            (PP (TO to)
+              (NP (NNS statutes)))
+            (PP (IN of)
+              (NP
+                (NP (NN limitation))
+                (, ,)
+                (NP
+                  (NP (DT the) (JJ mere) (NN passage))
+                  (PP (IN of)
+                    (NP (NN time)))))))
+          (VP (MD can)
+            (VP (VB place)
+              (NP (JJ guilty) (NNS individuals))
+              (ADVP (RB safely))
+              (PP (IN beyond)
+                (NP
+                  (NP (DT the) (NN reach))
+                  (PP (IN of)
+                    (NP (NN law))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB specifically))
+    (NP
+      (NP (DT a) (NN statute))
+      (PP (IN of)
+        (NP (NNS limitations))))
+    (VP (VBZ reflects)
+      (NP (DT a) (JJ legislative) (NN judgment))
+      (SBAR (IN that)
+        (S
+          (PRN (, ,)
+            (PP (IN after)
+              (NP (DT a) (JJ certain) (NN time)))
+            (, ,))
+          (NP
+            (NP (DT no) (NN quantum))
+            (PP (IN of)
+              (NP (NN evidence))))
+          (VP (VBZ is)
+            (ADJP (JJ sufficient)
+              (S
+                (VP (TO to)
+                  (VP (VB convict)))))))))
+    (. .)))
+

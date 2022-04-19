@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (NP (PRP it))
+    (VP (VBZ is)
+      (ADJP (JJ evident))
+      (, ,)
+      (SBAR (IN that)
+        (S
+          (NP (DT the) (JJ front) (NN end) (NN team))
+          (VP (VBD took)
+            (ADVP
+              (NP (CD 3) (NNS days))
+              (RB effectively))
+            (PP (IN by)
+              (S
+                (VP (VBG using)
+                  (NP
+                    (NP (DT the) (JJ recommended) (NN approach))
+                    (PP (RB instead) (IN of)
+                      (NP (CD 3) (NNS weeks))))
+                  (ADVP (RB as) (RBR earlier)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thereby))
+    (NP (DT the) (NN approach))
+    (VP (VBZ is)
+      (VP (VBG achieving)
+        (NP
+          (NP (DT a)
+            (ADJP (CD 7) (NN x))
+            (NN gain))
+          (PP (IN in)
+            (NP (NN delivery) (NN time))))))
+    (. .)))
+

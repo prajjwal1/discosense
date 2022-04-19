@@ -1,0 +1,48 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNS methods))
+      (SBAR
+        (WHNP (WDT that))
+        (S
+          (VP (VBP render)
+            (S
+              (NP (DT the) (NN enemy))
+              (UCP
+                (ADVP (RB temporarily))
+                (ADJP (JJ sleepy))
+                (, ,)
+                (ADJP (VBN confused))
+                (, ,)
+                (X
+                  (PP (IN in)
+                    (NP (NN pain))))
+                (, ,)
+                (CC or)
+                (VP (VBN terrified))))))))
+    (VP (MD would) (RB all)
+      (VP (VB have)
+        (NP (PRP$ their) (NNS effects))
+        (PP (IN by)
+          (S
+            (ADVP (RB selectively))
+            (VP (VBG influencing)
+              (NP (NN brain) (NN function)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN sum)))
+    (NP (DT the) (JJ early) (JJ 21st) (NN century))
+    (VP (VBZ has)
+      (VP (VBN seen)
+        (NP
+          (NP (DT a) (NN proliferation))
+          (PP (IN of)
+            (NP
+              (NP (JJ new) (NNS applications))
+              (PP (IN of)
+                (NP (NN neuroscience))))))))
+    (. .)))
+

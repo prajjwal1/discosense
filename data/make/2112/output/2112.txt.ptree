@@ -1,0 +1,48 @@
+(ROOT
+  (S
+    (NP (PRP we))
+    (ADVP (DT all))
+    (VP (VBD decided)
+      (S
+        (VP (TO to)
+          (VP (VB ignore)
+            (NP (DT these) (NNS rumours))
+            (SBAR (IN as)
+              (S
+                (NP (PRP they))
+                (VP (VBD got)
+                  (ADJP
+                    (ADJP (JJR more))
+                    (CC and)
+                    (ADJP (RBR more) (JJ ridiculous))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (SBAR (IN though)
+        (S
+          (NP (FW i))
+          (VP (VBP dont)
+            (ADVP (RB really)))))
+      (VP (VBP know)
+        (SBAR
+          (WHADVP (WRB how))
+          (S
+            (NP (DT that) (NN rumour))
+            (VP (VBD was)
+              (VP (VBN brought)
+                (PRT (RP up))
+                (PP (RB out) (IN of)
+                  (NP
+                    (NP (DT the) (NNS ones))
+                    (PP (IN from)
+                      (NP (JJ flitwicks) (NN lesson)))))))))))
+    (CC but)
+    (S
+      (NP (PRP we))
+      (VP (VBD ignored)
+        (NP (PRP it))
+        (ADVP (PDT all) (DT the) (JJ same))))
+    (. .)))
+

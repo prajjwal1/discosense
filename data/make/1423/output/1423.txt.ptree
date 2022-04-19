@@ -1,0 +1,38 @@
+(ROOT
+  (S
+    (ADVP (RB unfortunately))
+    (, ,)
+    (NP (NN patton))
+    (VP (VBZ seems)
+      (ADJP (RB incompletely) (JJ familiar)
+        (PP (IN with)
+          (NP
+            (NP (DT the) (JJ theological) (NN usage))
+            (PP (IN of)
+              (NP (DT the)
+                (ADJP (NN term) (JJ hyper))
+                (NN calvinism)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thus))
+    (NP (PRP he))
+    (VP (VBZ has)
+      (ADVP (RB sadly))
+      (VP (VBN mislabeled)
+        (NP
+          (ADJP (JJ evangelical)
+            (CC and)
+            (JJ confessional))
+          (NNS calvinists))
+        (SBAR (IN like)
+          (S
+            (NP (NN tw))
+            (VP (VBZ is)
+              (VP (VBG seas)
+                (NP (JJ hyper) (NNS calvinists))
+                (PP (IN without)
+                  (NP (DT an) (JJ adequate) (NN justification)))))))))
+    (. .)))
+

@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (S
+      (NP (EX there))
+      (VP (VBZ is)
+        (NP (RB only) (CD one) (NN problem))))
+    (, ,)
+    (CC and)
+    (S
+      (ADVP (RB unfortunately))
+      (, ,)
+      (NP (PRP it))
+      (VP (VBZ is)
+        (NP (DT a) (JJ fatal) (NN flaw))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB because) (IN of)
+      (NP (DT this) (NN flaw)))
+    (, ,)
+    (NP (FW i))
+    (VP (MD can) (RB not)
+      (VP (VB recommend)
+        (NP (DT this) (NN camcorder))))
+    (. .)))
+

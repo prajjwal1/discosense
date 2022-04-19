@@ -1,0 +1,38 @@
+(ROOT
+  (S
+    (NP (PRP you))
+    (VP (MD should)
+      (VP (VB have)
+        (VP (VBN told)
+          (S
+            (NP (PRP him))
+            (VP (TO to)
+              (VP (VB make)
+                (ADJP (JJ sure)
+                  (SBAR
+                    (S
+                      (NP (DT the) (NNS tires))
+                      (VP (VBP are)
+                        (VP (VBN removed)
+                          (PP (IN before)
+                            (S
+                              (VP (VBG heating)
+                                (PRT (RP up))
+                                (NP (DT the) (NNS wheels))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB otherwise))
+    (NP (PRP it))
+    (VP (MD could)
+      (VP (VB cause)
+        (NP (DT the) (NN tire) (NN pressure))
+        (S
+          (VP (TO to)
+            (VP (VB increase)
+              (CC and)
+              (VB create)
+              (NP (DT an) (NN explosion)))))))
+    (. .)))
+

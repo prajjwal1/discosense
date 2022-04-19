@@ -1,0 +1,44 @@
+(ROOT
+  (S
+    (NP (DT an) (VBG improving) (NN housing) (NN market))
+    (VP (VBZ is)
+      (VP (VBG leaving)
+        (NP (NNS consumers))
+        (S
+          (VP
+            (VP (VBG feeling)
+              (NP
+                (NP (DT the) (NN wealth) (NN effect))
+                (, ,)
+                (CC and)
+                (NP
+                  (NP (NN hiking) (NN spending))
+                  (PP (IN on)
+                    (NP (NN home) (NNS improvements))))
+                (, ,)))
+            (CC and)
+            (VP (VBG prompting)
+              (NP (NNS leaps)
+                (CC and)
+                (NNS bounds))
+              (PP (IN in)
+                (NP (NN housing) (NNS starts))))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (PP (RB because) (IN of)
+      (NP (DT that) (NN hd)))
+    (VP (VBZ has)
+      (VP (VBN seen)
+        (NP (PRP$ its) (NN share) (NN price) (NN rally))
+        (PP (IN by)
+          (NP
+            (QP (JJR more) (IN than) (CD 52))
+            (NN %)))))
+    (NP
+      (NP (NN year))
+      (PP (TO to)
+        (NP (NN date))))
+    (. .)))
+

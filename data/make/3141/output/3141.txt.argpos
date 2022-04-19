@@ -1,0 +1,3 @@
+conn:until conn_POS:IN prev1:, prev1_POS:, with_prev1_full:,_until with_prev1_POS_full:,_IN prev2:seat prev2_POS:NN with_prev2_full:seat_until with_prev2_POS_full:NN_IN NA
+conn:thereafter conn_POS:RB sent_pos:0 NA
+conn:because conn_POS:IN prev1:, prev1_POS:, with_prev1_full:,_because with_prev1_POS_full:,_IN prev2:frame prev2_POS:NN with_prev2_full:frame_because with_prev2_POS_full:NN_IN NA

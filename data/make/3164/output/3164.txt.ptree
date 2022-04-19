@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (ADVP (RB hence))
+    (, ,)
+    (NP (DT the) (JJ conditional) (NN branch) (NNS instructions))
+    (VP (VB implement)
+      (NP (NN functionality))
+      (ADVP (RB that) (RB efficiently))
+      (VP (VB perform)
+        (NP
+          (NP (NNS operations))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (MD may)
+                (VP (VB be)
+                  (VP (VBN used)
+                    (PP (IN in)
+                      (NP
+                        (NP (DT a) (NN variety))
+                        (PP (IN of)
+                          (NP
+                            (NP (NNS applications))
+                            (PP (VBG including)
+                              (NP
+                                (NP (NN computer))
+                                (VP (VBN generated)
+                                  (NP (NNS graphics) (NN design)))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (ADJP (JJ particular)))
+    (NP (DT a) (VBG clipping) (NN operation))
+    (VP (MD may)
+      (VP (VB be)
+        (VP (VBN accelerated)
+          (PP (IN with)
+            (NP (DT the) (VBG foregoing) (NN branch) (NNS instructions))))))
+    (. .)))
+

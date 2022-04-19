@@ -1,0 +1,62 @@
+(ROOT
+  (S
+    (ADVP (RB moreover))
+    (, ,)
+    (NP (PRP they))
+    (VP (VBD were)
+      (VP (VBN filled) (, ,)
+        (PP (IN by)
+          (NP
+            (NP (DT the) (NN promise))
+            (CC and)
+            (NP (DT the) (NNS prophecies))))
+        (, ,)
+        (PP (IN with)
+          (NP
+            (NP (JJ extended) (NN meaning))
+            (PP (IN in)
+              (NP
+                (NP (DT the) (NN light))
+                (PP (IN of)
+                  (SBAR
+                    (WHNP (WP what))
+                    (S
+                      (NP (NN god))
+                      (VP (MD would)
+                        (VP (VB do)
+                          (PP (IN in)
+                            (NP (DT the) (NN future)))
+                          (PP (IN for)
+                            (CC and)
+                            (IN through)
+                            (NP (NN israel))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB hence))
+    (S
+      (VP (TO to)
+        (VP (VB talk)
+          (PP (IN of)
+            (SBAR
+              (WHNP (WP what))
+              (S
+                (NP (PRP we))
+                (VP (VBP have)
+                  (PP (IN in)
+                    (NP (NN christ)))
+                  (S
+                    (VP (VBG being)
+                      (ADJP (JJR better)))))))))))
+    (, ,)
+    (VP (VBZ is) (RB not)
+      (NP (RB just) (NN replacement) (NN theology))
+      (, ,)
+      (SBAR
+        (ADVP (RB disparagingly))
+        (RB so)
+        (FRAG
+          (VP (VBN called)))))
+    (. .)))
+

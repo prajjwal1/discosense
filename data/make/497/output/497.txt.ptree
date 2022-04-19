@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (PP (IN unlike)
+      (NP (JJ traditional) (NN bar) (NN stem) (NNS interfaces)))
+    (NP (PRP we))
+    (VP (VBP have)
+      (VP (VBN chosen)
+        (S (RB not)
+          (VP (TO to)
+            (VP (VB turn)
+              (NP
+                (NP (DT the) (JJ aerodynamic) (NN profile))
+                (PP (IN of)
+                  (NP (DT the) (NN bar))))
+              (PP (IN into)
+                (NP (DT a) (NN round) (NN shape)))
+              (S
+                (VP (TO to)
+                  (VP (VB integrate)
+                    (PP (IN into)
+                      (NP (DT the) (NN stem)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB instead))
+    (NP (DT the) (NN stem))
+    (VP (VBZ is)
+      (PP (IN of)
+        (NP
+          (NP (DT the) (JJ same) (NN profile) (NN shape))
+          (PP (IN as)
+            (NP (DT the) (NN bar))))))
+    (. .)))
+

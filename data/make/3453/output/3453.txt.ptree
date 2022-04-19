@@ -1,0 +1,24 @@
+(ROOT
+  (S
+    (NP
+      (NP (NN mahavira))
+      (, ,)
+      (VP (VBN left)
+        (NP (PRP$ his) (NN throne))
+        (PP (TO to))))
+    (VP (VBD became)
+      (NP (NN jain)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB similarly))
+    (NP (NN sidhartha))
+    (VP (VBD abandoned)
+      (SBAR
+        (S
+          (NP (DT the) (NN royalty))
+          (VP (VBD became)
+            (NP (NN buddha))))))
+    (. .)))
+

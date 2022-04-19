@@ -1,0 +1,1 @@
+its true that in an ideal world there should be one api serving a variety of clients. but in practice, it often makes sense to tune apis to better serve a particular platform.

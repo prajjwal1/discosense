@@ -1,0 +1,3 @@
+conn:for_example conn_POS:IN_NN sent_pos:0 NA
+conn:while conn_POS:IN prev1:, prev1_POS:, with_prev1_full:,_while with_prev1_POS_full:,_IN prev2:rules prev2_POS:NNS with_prev2_full:rules_while with_prev2_POS_full:NNS_IN NA
+conn:and conn_POS:CC prev1:owners prev1_POS:NNS with_prev1_full:owners_and with_prev1_POS_full:NNS_CC prev2:business prev2_POS:NN with_prev2_full:business_and with_prev2_POS_full:NN_CC NA

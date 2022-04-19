@@ -1,0 +1,52 @@
+(ROOT
+  (S
+    (PP (VBG according)
+      (PP (TO to)
+        (NP (NNS mercedes))))
+    (, ,)
+    (NP
+      (NP (JJ thats) (JJ enough) (NN power))
+      (SBAR
+        (S
+          (VP (TO to)
+            (VP (VB push)
+              (NP (DT the) (JJ e) (NN cell))
+              (PP (TO to)
+                (NP
+                  (QP (CD 100) (CD km)))))))))
+    (VP (VBP h)
+      (PP (IN in)
+        (NP
+          (NP (DT a) (JJ very) (NN supercar))
+          (PP (IN like)
+            (NP (JJ 4.0) (NNS seconds))))
+        (, ,)
+        (ADVP
+          (NP (DT a) (JJ mere) (CD 0.2) (NNS seconds))
+          (RBR slower)))
+      (PP (IN than)
+        (NP (PRP$ its) (JJ conventionally) (JJ powered) (NN progenitor))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB similarly))
+    (NP
+      (NP (DT the) (NN run))
+      (PP (TO to)
+        (NP (CD 200) (NN km))))
+    (VP (VBP h)
+      (SBAR
+        (S
+          (NP
+            (NP (RB perhaps) (DT the) (JJ true) (NN test))
+            (PP (IN of)
+              (NP (DT a) (NN supercar))))
+          (VP (VBZ comes)
+            (PRT (RP up))
+            (PP (IN in)
+              (NP
+                (QP (RB just) (CD 10.8))
+                (NNS seconds)))))))
+    (. .)))
+

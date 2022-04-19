@@ -1,0 +1,15 @@
+det(sort-2, this-1)
+nsubj(serviceable-8, sort-2)
+prep_of(sort-2, filter-4)
+cop(serviceable-8, is-5)
+advmod(than-7, more-6)
+advmod(serviceable-8, than-7)
+root(ROOT-0, serviceable-8)
+
+advmod(for-2, particularly-1)
+root(ROOT-0, for-2)
+pobj(for-2, homeowners-3)
+prep_without(homeowners-3, asthma-5)
+prep_without(homeowners-3, allergies-7)
+conj_or(asthma-5, allergies-7)
+

@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (NN kind))
+      (PP (IN of)
+        (NP
+          (NP (NN sound))
+          (VP (VBN wed)
+            (S
+              (VP (VB end)
+                (PRT (RP up))
+                (S
+                  (VP (VBG getting)
+                    (ADVP (RB always))))))))))
+    (VP (VBD sounded)
+      (NP
+        (NP (NN kinda) (JJ glossy))
+        (CC and)
+        (NP (RB too) (JJ shiny))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB subsequently))
+    (NP (NN killion) (NNS studios))
+    (VP (VBD emerged)
+      (PRT (RP out))
+      (PP (IN of)
+        (NP (NN necessity))))
+    (. .)))
+

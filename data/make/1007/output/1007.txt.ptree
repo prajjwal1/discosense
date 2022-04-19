@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (S
+      (NP (JJ loud) (NN music))
+      (VP (VBZ is)
+        (VP (VBG blaring)
+          (PP (IN in)
+            (NP
+              (NP (DT each))
+              (PP (IN of)
+                (NP (DT the) (NNS areas))))))))
+    (CC and)
+    (S
+      (NP (EX there))
+      (VP (VBP are)
+        (VP (VBG moving)
+          (NP
+            (NP (NNS images))
+            (VP (VBN projected)
+              (PP (IN onto)
+                (NP (DT the) (NNS walkways))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB overall))
+    (NP (DT the) (NN event))
+    (VP (VBD seemed)
+      (S
+        (VP (TO to)
+          (VP (VB be)
+            (ADJP (RB very) (JJ popular))
+            (PP (IN with)
+              (NP
+                (NP (DT the) (NNS kids))
+                (CC and)
+                (NP (RB even) (DT the) (NNS teens))))))))
+    (. .)))
+

@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (NN head))
+      (PP (IN of)
+        (NP
+          (NP (DT an) (NNS annapolis))
+          (VP (VBN based)
+            (NP (NN advertising) (NN firm))
+            (SBAR (IN that)
+              (S
+                (NP
+                  (NP (NNS works))
+                  (PP (IN with)
+                    (NP (JJ top) (NN consumer) (NNS brands))))
+                (VP (VBZ is)
+                  (VP (VBG betting)
+                    (NP
+                      (NP (DT the) (JJ next) (NN breakthrough))
+                      (PP (IN in)
+                        (NP (NNS electronics))))))))))))
+    (VP (VBP wont)
+      (VP (VB be)
+        (PP (IN in)
+          (NP (JJ smart) (NNS phones)
+            (CC or)
+            (NNS televisions)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB instead))
+    (NP
+      (NP (JJ compass) (NN marketing) (NN ceo))
+      (ADJP (JJ john) (JJ white)))
+    (VP (VBZ believes)
+      (SBAR
+        (S
+          (NP (DT the) (JJ next) (NN frontier))
+          (VP (VBZ is)
+            (NP (DT the))))))
+    (. .)))
+

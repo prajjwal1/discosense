@@ -1,0 +1,3 @@
+conn:and conn_POS:CC prev1:teach prev1_POS:VBP with_prev1_full:teach_and with_prev1_POS_full:VBP_CC prev2:longer prev2_POS:RB with_prev2_full:longer_and with_prev2_POS_full:RB_CC NA
+conn:nevertheless conn_POS:RB sent_pos:0 NA
+conn:and conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_and with_prev1_POS_full:,_CC prev2:researchers prev2_POS:NNS with_prev2_full:researchers_and with_prev2_POS_full:NNS_CC NA

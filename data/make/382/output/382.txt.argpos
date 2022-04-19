@@ -1,0 +1,2 @@
+conn:for_instance conn_POS:IN_NN sent_pos:0 NA
+conn:similarly conn_POS:RB sent_pos:0 NA

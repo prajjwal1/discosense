@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (ADVP (RB overall))
+    (, ,)
+    (NP (JJ i) (NN dont))
+    (VP (VBP want)
+      (S
+        (VP (TO to)
+          (VP (VB diminish)
+            (NP (JJ cultural) (NNS concerns))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN on)
+      (NP (DT the) (NN contrary)))
+    (NP (FW i))
+    (VP (VBP think)
+      (SBAR
+        (S
+          (NP (NN culture) (NNS studies))
+          (VP (VBP are)
+            (VP (VBN strengthened)
+              (PP (IN by)
+                (S
+                  (VP (VBG clarifying)
+                    (NP
+                      (NP (DT the) (NNS boundaries))
+                      (PP (IN of)
+                        (SBAR
+                          (WHNP (WP what))
+                          (S
+                            (VP
+                              (VP (VBZ is))
+                              (CC and)
+                              (VP (VBP isnt)
+                                (ADJP (JJ cultural))))))))))))))))
+    (. .)))
+

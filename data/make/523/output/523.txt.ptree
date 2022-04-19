@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (SBAR (IN in) (NN order)
+      (S
+        (VP (TO to)
+          (VP (VB enumerate)
+            (NP
+              (NP (DT the) (NN column))
+              (PP (IN of)
+                (NP (DT a) (NN database) (NN table))))))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ is)
+      (ADJP (JJ possible)
+        (S
+          (VP (TO to)
+            (VP (VB use)
+              (NP
+                (NP (DT a) (JJ common) (NN error))
+                (VP (VBN based)
+                  (NP (NN technique)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (ADJP (JJ short)))
+    (NP (PRP we))
+    (VP (MD can)
+      (VP (VB obtain)
+        (NP (DT the) (NNS attributes) (NN name))
+        (PP (IN by)
+          (S
+            (VP
+              (VP (VBG analyzing)
+                (NP (NN error) (NNS messages)))
+              (CC and)
+              (VP (VBG repeating)
+                (NP (DT the) (NN query))
+                (PP (IN with)
+                  (NP (JJ different) (NNS selectors)))))))))
+    (. .)))
+

@@ -1,0 +1,5 @@
+16..19 0 and 2868.txt 0
+83..86 0 but 2868.txt 0
+101..108;118..121 0 neither_nor 2868.txt 0
+161..178 1 on_the_other_hand 2868.txt 0
+217..219 1 or 2868.txt 0

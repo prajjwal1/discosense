@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (ADVP (RB however))
+    (, ,)
+    (NP
+      (NP (DT the) (NN use))
+      (PP (IN of)
+        (NP
+          (NP (NN mercury))
+          (PP (IN in)
+            (NP (DT these) (NNS lamps))))))
+    (VP (VBZ poses)
+      (NP
+        (NP (NN disposal))
+        (CC and)
+        (NP (JJ environmental) (NNS problems))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN on)
+      (NP (DT the) (NN contrary)))
+    (S
+      (NP
+        (NP (NN excimer) (NNS lamps))
+        (PP (VBN based)
+          (PP (IN on)
+            (NP (JJ rare) (NNS gases)))))
+      (VP (VBP are)
+        (ADJP (RB absolutely) (RB non) (JJ hazardous))))
+    (CC and)
+    (S
+      (NP
+        (NP (DT the) (NN excimer) (NNS lamps))
+        (VP (VBG containing)
+          (NP (NN halogen))))
+      (VP (VBP are)
+        (ADJP
+          (ADJP (RBR more) (RB environmentally) (JJ benign))
+          (PP (IN than)
+            (NP (NN mercury) (NNS ones))))))
+    (. .)))
+

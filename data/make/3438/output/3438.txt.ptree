@@ -1,0 +1,63 @@
+(ROOT
+  (S
+    (NP (DT this) (NN city))
+    (VP (VBZ is)
+      (ADVP (RB also))
+      (PP (IN in)
+        (NP (DT a) (JJ unique) (NN situation)))
+      (SBAR
+        (WHADVP (WRB where))
+        (S
+          (NP (PRP$ our) (NNS universities))
+          (VP (VBP are)
+            (ADVP (RB so))
+            (NP
+              (NP
+                (ADJP (RB much) (JJR larger))
+                (DT a) (NN proportion))
+              (PP (IN of)
+                (NP (DT the) (NN economy))))
+            (SBAR (IN than)
+              (S
+                (VP (VBP are)
+                  (NP
+                    (NP (DT the) (NNS firms))
+                    (SBAR
+                      (WHNP (WDT that))
+                      (S
+                        (VP (VBP grow)
+                          (PP (IN from)
+                            (NP (DT the) (NN city))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB hence))
+    (NP (PRP we))
+    (VP (VBP are)
+      (ADJP (RB uniquely) (JJ weighted))
+      (PP (IN toward)
+        (NP
+          (NP (DT a) (NN population))
+          (PP (IN of)
+            (NP (JJ smart) (JJ young) (NNS people)))))
+      (, ,)
+      (PP (IN with)
+        (NP
+          (NP (DT a) (NN dearth))
+          (PP (IN of)
+            (NP (JJ established) (NNS businesses)))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBP are)
+                (ADJP (JJ interesting) (RB enough)
+                  (S
+                    (VP (TO to)
+                      (VP (VB be)
+                        (NP
+                          (NP (JJ compelling) (NNS destinations))
+                          (PP (IN for)
+                            (NP (DT these) (NNS kids))))))))))))))
+    (. .)))
+

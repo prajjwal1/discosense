@@ -1,0 +1,18 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT both))
+      (PP (IN of)
+        (NP (DT these))))
+    (VP (VBP are)
+      (ADJP (RB very) (JJ visible)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ conversely) (JJ corporate) (NN entrepreneurship))
+    (ADVP (RB commonly))
+    (VP (VBZ involves)
+      (NP (DT neither)))
+    (. .)))
+

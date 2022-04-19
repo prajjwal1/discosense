@@ -1,0 +1,67 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (NN debate))
+      (PP (VBG regarding)
+        (NP (DT this))))
+    (ADVP (RB often))
+    (VP (VBD asked)
+      (SBAR
+        (S
+          (NP (NN question))
+          (VP (VBZ persists) (, ,)
+            (PP (IN in)
+              (NP (NN part)))
+            (, ,)
+            (PP (IN because)
+              (NP (JJ few)))
+            (SBAR (IN if)
+              (S
+                (NP (DT any) (JJ successful) (NNS teachers))
+                (VP (VBP are)
+                  (ADVP (RB ever))
+                  (VP (VBN described)
+                    (S
+                      (VP (VBG using)
+                        (NP
+                          (NP (NNS adjectives))
+                          (VP (VBN related)
+                            (PP (TO to)
+                              (NP (PRP$ their) (NN teaching) (NNS skills)
+                                (CC or)
+                                (NNS abilities)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (RB rather)
+      (S
+        (NP (PRP they))
+        (VP (VBP are)
+          (VP (VBN described)
+            (PP (IN as)
+              (S
+                (VP (VBG having)
+                  (NP
+                    (NP (DT a) (NN sense))
+                    (PP (IN of)
+                      (NP (NN humor)))))))))))
+    (, ,)
+    (PP (IN as)
+      (S
+        (VP (VBG being)
+          (ADJP (JJ warm)))))
+    (, ,)
+    (NP
+      (NP (NN caring))
+      (, ,)
+      (ADJP (JJ affectionate) (, ,) (JJ compassionate) (, ,) (JJ loving) (, ,)
+        (CC and)
+        (JJ confident) (JJ traits)))
+    (VP (VBN viewed)
+      (PP (IN by)
+        (NP (JJS most) (NNS people)))
+      (PP (IN as)
+        (NP (JJ natural))))
+    (. .)))
+

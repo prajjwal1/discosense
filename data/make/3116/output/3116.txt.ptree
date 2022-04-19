@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (NP (PRP$ your) (JJ first) (NN question))
+    (VP (VBZ does) (RB not)
+      (VP (VB specify)
+        (NP
+          (NP (NN drama)
+            (CC or)
+            (NN musical))
+          (CC or)
+          (NP (JJ supporting)
+            (CC or)
+            (JJ lead) (NN performance)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB therefore))
+    (NP (DT the) (NN answer))
+    (VP
+      (VP (VBZ involves)
+        (NP (CD six) (NNS men)))
+      (, ,)
+      (NP
+        (NP (DT each))
+        (UCP
+          (S
+            (VP (VBG performing)
+              (NP (DT the) (JJ same) (NN role))
+              (ADVP (RB onstage))))
+          (CC and)
+          (PP (IN in)
+            (NP (DT a) (NN film))))))
+    (. .)))
+

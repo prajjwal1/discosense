@@ -1,0 +1,2 @@
+conn:as conn_POS:IN prev1:exactly prev1_POS:RB with_prev1_full:exactly_as with_prev1_POS_full:RB_IN prev2:entered prev2_POS:VBD with_prev2_full:entered_as with_prev2_POS_full:VBD_IN NA
+conn:otherwise conn_POS:RB sent_pos:0 NA

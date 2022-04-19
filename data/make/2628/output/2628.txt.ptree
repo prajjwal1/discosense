@@ -1,0 +1,59 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP he))
+      (VP (VBN connected)
+        (PP (IN with)
+          (NP (NNS students)))
+        (PP (IN by)
+          (S
+            (VP (VBG telling)
+              (NP (PRP them))
+              (PP (IN about)
+                (NP (PRP$ his) (NN family) (NN life))))))))
+    (CC and)
+    (S
+      (NP (PRP$ his))
+      (VP (VBZ struggles)
+        (S
+          (VP (VBG growing)
+            (PRT (RP up))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP (NN instance)))
+    (NP (PRP he))
+    (VP
+      (VP (VBD said)
+        (NP (PRP$ his) (NN motherused))
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (NP (DT a) (JJ drunk))))))
+      (, ,)
+      (CC but)
+      (VP (VBD turned)
+        (NP (NNS things))
+        (ADVP (RB around))
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP (PRP he))
+            (VP (VBD was)
+              (ADJP
+                (NP (CD 12) (NNS years))
+                (JJ old)
+                (PP (IN by)
+                  (S
+                    (VP
+                      (VP (VBG going)
+                        (PP (TO to)
+                          (NP (NN church))))
+                      (CC and)
+                      (VP (VBG getting)
+                        (S
+                          (VP (VBN saved)))))))))))))
+    (. .)))
+

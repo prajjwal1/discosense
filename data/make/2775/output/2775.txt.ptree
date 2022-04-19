@@ -1,0 +1,49 @@
+(ROOT
+  (S
+    (ADVP (RB however))
+    (, ,)
+    (NP (DT the) (NN court))
+    (VP (VBZ has)
+      (VP (VBN decided)
+        (SBAR (IN that)
+          (S
+            (NP (NN privacy) (NNS interests))
+            (VP (MD can)
+              (VP (VB be)
+                (VP (VBN outweighed)
+                  (PP (IN by)
+                    (NP
+                      (NP (DT the) (JJ social) (NN need))
+                      (PP (IN for)
+                        (NP (JJ public) (NN safety))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thus))
+    (NP (DT the) (NN police))
+    (, ,)
+    (PP (IN without)
+      (NP (DT a) (NN warrant)))
+    (, ,)
+    (VP (VBP are)
+      (VP (VBN permitted)
+        (S
+          (VP (TO to)
+            (VP
+              (VP (VB stop))
+              (CC and)
+              (VP (VB frisk)
+                (S
+                  (NP (NN edition) (JJ current) (NN page))
+                  (ADJP (JJ suspicious))
+                  (S
+                    (VP (VBG looking)
+                      (NP (NNS persons))
+                      (PP (IN on)
+                        (NP
+                          (NP (DT the) (NNS streets))
+                          (PP (IN for)
+                            (NP (NNS weapons))))))))))))))
+    (. .)))
+

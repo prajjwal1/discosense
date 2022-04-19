@@ -1,0 +1,55 @@
+(ROOT
+  (S
+    (S
+      (ADVP (RB however))
+      (, ,)
+      (NP (DT the) (JJ present) (NN invention))
+      (VP (VBZ is) (RB not)
+        (NP (JJ limited) (NN thereto))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (DT a) (NN silicon) (NN nitride) (NN film))
+      (VP (MD may)
+        (VP (VB be)
+          (VP (VBN formed)
+            (PP (IN on)
+              (NP
+                (NP (DT the) (JJ uppermost) (NN layer))
+                (PP (IN as)
+                  (NP (DT a) (NN passivation) (NN film)))))
+            (PP (IN as)
+              (PP (IN in)
+                (NP (DT the) (JJ second) (NN embodiment))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB thereby))
+      (NP
+        (NP (DT the) (NN infiltration))
+        (PP (IN of)
+          (NP
+            (NP (NN moisture))
+            (PP (IN into)
+              (NP (DT the) (NN chip))))))
+      (VP (MD can)
+        (VP (VB be)
+          (VP
+            (ADVP (RB securely))
+            (VBN prevented)))))
+    (, ,)
+    (CC and)
+    (S
+      (ADVP (RB furthermore))
+      (, ,)
+      (NP
+        (NP (DT the) (NN reliability))
+        (PP (IN of)
+          (NP (DT the) (NN semiconductor) (NN device) (NN 600))))
+      (VP (MD can)
+        (VP (VB be)
+          (VP (VBN secured)))))
+    (. .)))
+

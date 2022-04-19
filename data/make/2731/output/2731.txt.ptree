@@ -1,0 +1,63 @@
+(ROOT
+  (S
+    (S
+      (ADVP (RB now))
+      (NP (NN cassandra))
+      (VP (VBZ is)
+        (NP
+          (NP (DT a) (JJ voodoo) (NNS priestess))
+          (PP
+            (PP (IN in)
+              (NP (JJ new) (NNS orleans)))
+            (CC and)
+            (PP (IN from)
+              (NP (DT an) (NN experience) (NN increscent) (NN moon)))))))
+    (, ,)
+    (NP (DT the) (NN word))
+    (VP (VBZ is)
+      (VP (VBG getting)
+        (PRT (RP around))
+        (SBAR (IN that)
+          (S
+            (NP (NNS shes))
+            (VP (VBD got)
+              (NP
+                (NP (NN power))
+                (, ,)
+                (NP
+                  (NP (NNS lots))
+                  (PP (IN of)
+                    (NP (NN voodoo) (NN power))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB because) (IN of)
+      (NP
+        (NP (DT this) (NNS shes))
+        (VP (VBN been)
+          (VP (VBN sent)
+            (PP (TO to)
+              (NP (NNS haiti)))
+            (PP (IN by)
+              (NP
+                (NP (DT the) (JJ secret) (NN agency))
+                (VP (VBN formed)
+                  (S
+                    (VP (TO to)
+                      (VP (VB hunt)
+                        (PRT (RP down))
+                        (NP
+                          (NP (NNS monsters))
+                          (ADVP (VB let) (JJ loose))))))
+                  (PP (IN by)
+                    (NP (NNS hitlers))))))))))
+    (NP
+      (NP (NNS minions))
+      (PP (IN in)
+        (NP (DT the) (NN death))))
+    (VP (VBZ throws)
+      (PP (IN of)
+        (NP (DT the) (JJ third) (NN reich))))
+    (. .)))
+

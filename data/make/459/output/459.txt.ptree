@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (SBAR (IN as)
+      (S
+        (NP (PRP we))
+        (VP (VBD reported)
+          (PP (IN in)
+            (NP (JJ june) (CD 2006))))))
+    (, ,)
+    (NP (DT the) (NNS departments))
+    (VP
+      (VP (VBD established)
+        (NP (NN project) (NN accountability)))
+      (CC and)
+      (VP (VBD implemented)
+        (NP (DT a) (JJ joint) (NN project) (NN management) (NN structure))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB specifically))
+    (NP (DT the) (NN health) (NN executive) (NN council))
+    (VP (VBD was)
+      (VP (VBN established)
+        (PP (IN as)
+          (NP
+            (NP (DT the) (JJ lead) (NN entity))
+            (PP (IN for)
+              (NP (DT the) (NN project)))))))
+    (. .)))
+

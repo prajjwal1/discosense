@@ -1,0 +1,56 @@
+(ROOT
+  (S
+    (S
+      (NP (NNS rocks))
+      (VP (VBZ reduces)
+        (NP
+          (NP (DT the) (NN finish))
+          (SBAR
+            (S
+              (S
+                (NP (DT the) (NN time))
+                (VP (VBZ is)
+                  (VP (VBN shortened))))
+              (CC and)
+              (S
+                (NP (DT the) (NNS flavors))
+                (VP (VBP are)
+                  (VP (VBN muted)))))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (NN fortunately))
+      (ADVP (RB so))
+      (VP (VBZ is)
+        (NP
+          (NP (DT the) (JJ heavy) (NN alcohol))
+          (SBAR
+            (S
+              (VP (VBP burn)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB overall))
+    (NP (DT this))
+    (VP (VBZ is)
+      (SBAR
+        (WHNP (WP what))
+        (S
+          (NP (FW i))
+          (VP (VBP remember)
+            (PP (IN from)
+              (NP
+                (NP (DT the) (JJ first) (NN time))
+                (SBAR
+                  (S
+                    (NP (FW i))
+                    (VP (VBD tried)
+                      (SBAR
+                        (S
+                          (VP (VBZ is)
+                            (ADVP
+                              (NP (CD three) (NNS years))
+                              (RB ago))))))))))))))
+    (. .)))
+

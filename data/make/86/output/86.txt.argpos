@@ -1,0 +1,2 @@
+conn:when conn_POS:WRB prev1:order prev1_POS:NN with_prev1_full:order_when with_prev1_POS_full:NN_WRB prev2:certain prev2_POS:JJ with_prev2_full:certain_when with_prev2_POS_full:JJ_WRB NA
+conn:also conn_POS:RB prev1:can prev1_POS:MD with_prev1_full:can_also with_prev1_POS_full:MD_RB prev2:invention prev2_POS:NN with_prev2_full:invention_also with_prev2_POS_full:NN_RB NA

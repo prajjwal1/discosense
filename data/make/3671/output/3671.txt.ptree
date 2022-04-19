@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (S
+      (NP (NN ogah))
+      (VP (VBD began)
+        (NP (PRP$ his) (NN career))
+        (PP (IN as)
+          (NP (DT a) (NN banker)))
+        (PP (IN with)
+          (NP
+            (NP (DT a) (NN year))
+            (PP (IN of)
+              (NP (JJ national) (NN youth) (NN service)))))
+        (NP (NN year))
+        (PP (IN at)
+          (NP
+            (NP (NN nal) (NN bank))
+            (VP (VBN plc.)
+              (ADVP (RB thereafter)))))))
+    (NP (PRP he))
+    (VP (VBD took)
+      (PRT (RP up))
+      (NP
+        (NP (JJ full) (NN employment))
+        (PP (IN at)
+          (NP (DT all) (NNS states) (NN trust) (NN bank))))
+      (SBAR
+        (WHADVP (WRB where))
+        (S
+          (NP (PRP he))
+          (VP (VBD worked)
+            (PP (IN for)
+              (NP (IN around) (CD two) (NNS years)))
+            (PP (IN before)
+              (S
+                (VP (VBG joining)
+                  (NP (NN zenith) (NN bank))
+                  (PP (IN in)
+                    (NP (CD 1997))))))))))
+    (. .)))
+

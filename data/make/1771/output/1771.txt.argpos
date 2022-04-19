@@ -1,0 +1,2 @@
+conn:in_short conn_POS:IN_JJ sent_pos:0 NA
+conn:but conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_but with_prev1_POS_full:,_CC prev2:says prev2_POS:VBZ with_prev2_full:says_but with_prev2_POS_full:VBZ_CC NA

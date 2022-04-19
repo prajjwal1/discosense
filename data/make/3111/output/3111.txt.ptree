@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (NP (PRP they))
+    (VP (VBP believe)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (PDT all) (DT the) (NN bloodsucker) (NNS stories))
+            (PP (IN in)
+              (NP (DT the) (JJ modern) (NN age) (NNS movies))))
+          (VP (VBD were)
+            (VP (VBN concocted)
+              (PP (IN from)
+                (NP
+                  (NP (DT the) (JJ original) (NNS ingredients))
+                  (VP (VBG dating)
+                    (ADVP (RB back))
+                    (PP (TO to)
+                      (NP (DT the) (JJ middle) (NNS ages)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (JJ other) (NNS words)))
+    (NP (DT the) (NNS vampires))
+    (VP (VBP have)
+      (VP
+        (VP (VBN existed))
+        (CC and)
+        (ADVP (RB still))
+        (VP (VB exist)
+          (PP (IN in)
+            (NP (PRP$ our) (NN time))))))
+    (. .)))
+

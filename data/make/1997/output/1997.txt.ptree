@@ -1,0 +1,46 @@
+(ROOT
+  (SINV
+    (PP (IN in)
+      (NP (DT these) (JJ human) (JJ clinical) (NNS trials) (NN transmax)))
+    (VP (VBD was)
+      (VP (VBN shown)
+        (S
+          (VP (TO to)
+            (VP (VB have)
+              (NP
+                (NP (JJ important) (JJ beneficial) (NN action))
+                (PP (IN with)
+                  (NP (NN respect))))
+              (PP (TO to)
+                (NP
+                  (NP (DT both) (NN prevention))
+                  (PP (IN of)
+                    (NP (JJ metabolic) (NN syndrome))))))))
+        (PP (IN from)
+          (S
+            (VP (VBG evolving)
+              (PP (IN into)
+                (NP (NN type))))))))
+    (NP (CD 2) (NN diabetes))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB specifically))
+    (NP (NN transmax))
+    (VP
+      (VP (VBD lowered)
+        (NP
+          (NP (NN blood) (NN glucose)
+            (CC and)
+            (NN blood) (NN pressure))
+          (, ,)
+          (NP (VBN improved) (NN insulin) (NN sensitivity))
+          (, ,)))
+      (CC and)
+      (VP (VBD caused)
+        (NP (DT a) (NN weight) (NN loss))
+        (PP (IN in)
+          (NP (JJ obese) (NNS patients)))))
+    (. .)))
+

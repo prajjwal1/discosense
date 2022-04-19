@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (NP (NN school) (NNS districts))
+    (VP (VBD spent)
+      (NP
+        (NP (CD 14,865))
+        (PP (IN per)
+          (NP (NN student))))
+      (PP (IN in)
+        (NP (CD 2010) (CD 11))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (PP (IN by)
+        (NP (NN contrast) (NN tax)))
+      (NP (NN credit) (NNS scholarships))
+      (VP (MD could)
+        (VP (VB serve)
+          (NP (NNS students))
+          (PP (IN for)
+            (NP
+              (NP (RB anywhere))
+              (PP (IN between)
+                (NP (CD 1,100)
+                  (CC and)
+                  (CD 8,500))))))))
+    (, ,)
+    (NP
+      (NP (DT the) (JJ maximum) (NN opportunity) (NN scholarship))
+      (PP (IN for)
+        (NP (NN non) (NN special))))
+    (VP (VBZ needs)
+      (NP (NNS students))
+      (PP (IN under)
+        (NP (NN hb) (CD 2468))))
+    (. .)))
+

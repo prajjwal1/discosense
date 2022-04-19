@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (ADVP (RB therefore))
+    (NP (PRP it))
+    (VP (VBZ seems)
+      (SBAR (IN that)
+        (S
+          (SBAR
+            (WHNP (WP whoever))
+            (S
+              (VP (VBZ despairs))))
+          (, ,)
+          (VP (VBZ is)
+            (NP (DT an) (NN unbeliever))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN on)
+      (NP
+        (NP (DT the) (NN contrary))
+        (SBAR (IN if)
+          (S
+            (NP (PRP we))
+            (VP (VB remove)
+              (NP
+                (NP (DT that))
+                (SBAR
+                  (WHNP (WDT which))
+                  (S
+                    (VP (VBZ follows))))))))))
+    (, ,)
+    (NP
+      (NP (DT that))
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (VP (VBZ precedes)))))
+    (VP (VBZ remains))
+    (. .)))
+

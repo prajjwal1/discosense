@@ -1,0 +1,50 @@
+(ROOT
+  (S
+    (NP (DT this))
+    (VP (VBZ is)
+      (ADVP (RB esentialy))
+      (NP (PRP$ his) (NNS thoughts))
+      (PP (IN on)
+        (NP
+          (NP (DT the) (NN matter))
+          (PP (TO to)
+            (SBAR (IN as)
+              (S
+                (NP (PRP he))
+                (VP (VBZ says)
+                  (SBAR
+                    (S
+                      (NP (FW i))
+                      (VP (VBP am)
+                        (NP
+                          (NP (DT the) (JJR better) (NN choice))
+                          (PP (IN for)
+                            (NP (PRP her))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB however))
+    (NP (PRP she))
+    (VP (VBZ is)
+      (ADJP (RB very) (JJ upset)
+        (SBAR
+          (S
+            (NP (PRP it))
+            (VP
+              (VP (VBD did) (RB not)
+                (VP (VB work)))
+              (CC and)
+              (VP (VBD said)
+                (SBAR
+                  (S
+                    (NP (PRP she))
+                    (VP (VBD did) (RB not)
+                      (VP (VB want)
+                        (S
+                          (VP (TO to)
+                            (VP (VB see)
+                              (NP (PRP me))
+                              (ADVP (RB anymore)))))))))))))))
+    (. .)))
+

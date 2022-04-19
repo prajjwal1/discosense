@@ -1,0 +1,3 @@
+conn_lc:and conn:and conn_POS:CC with_prev_full:,_and xxx£
+conn_lc:conversely conn:conversely conn_POS:RB xxx£
+conn_lc:when conn:when conn_POS:WRB with_prev_full:conversely_when xxx£

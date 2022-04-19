@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (NP (NN staff))
+    (VP (VBD were)
+      (ADJP (RB very) (JJ helpful)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB particularly))
+    (NP (DT a) (NN lady))
+    (VP (VBD named)
+      (NP
+        (NP (NN sylvia))
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP (VBZ sits)
+              (PP (IN at)
+                (NP (DT the) (JJ front) (NN desk))))))))
+    (. .)))
+

@@ -1,0 +1,38 @@
+(ROOT
+  (S (CC and)
+    (NP (PRP it))
+    (ADVP (RB sure))
+    (VP (VBP wasnt)
+      (NP (PRP$ my) (NN faith))
+      (PP (IN in)
+        (NP (PRP$ her) (NN ability)
+          (S
+            (VP (TO to)
+              (VP (VB get)
+                (NP (PDT all) (DT that) (NN cheese))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB rather)
+      (NP (PRP$ her) (JJ commanding)))
+    (, ,)
+    (NP
+      (ADJP (RB sometimes) (JJ aggressive))
+      (NNS vocals))
+    (VP (VBP make)
+      (SBAR
+        (S
+          (NP (PRP you))
+          (VP (VBP believe)
+            (SBAR
+              (S
+                (NP (PRP she))
+                (VP (VBZ believes)
+                  (SBAR
+                    (WHNP (WP what))
+                    (S
+                      (VP (VBZ shes)
+                        (NP (NN singing))))))))))))
+    (. .)))
+

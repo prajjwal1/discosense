@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (NP (FW i))
+    (VP (VBD kept)
+      (S
+        (VP (VBG glancing)
+          (PP (IN through)
+            (NP (PRP$ my) (NN hair)))
+          (PP (IN across)
+            (NP (DT the) (NN table)))
+          (PP (IN at)
+            (NP
+              (NP (PRP$ my) (NN husband))
+              (, ,)
+              (SBAR
+                (WHNP (WP who))
+                (S
+                  (VP (VBD seemed)
+                    (S
+                      (VP (TO to)
+                        (VP (VB be)
+                          (ADJP (RB perfectly) (JJ comfortable)
+                            (PP (IN with)
+                              (NP (PRP$ our) (JJ silent) (NN meal)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN on)
+      (NP (DT the) (NN contrary)))
+    (NP (NNP i) (NNP cant))
+    (VP (VBP sit)
+      (ADVP (RB still)))
+    (. .)))
+

@@ -1,0 +1,44 @@
+(ROOT
+  (S
+    (ADVP (RB generally))
+    (NP (DT those))
+    (VP (VBP are)
+      (NP
+        (NP (JJ half) (JJ assed) (NNS comments))
+        (, ,)
+        (CC but)
+        (RB quite)
+        (NP (DT a) (JJ few) (NNS people))
+        (SBAR
+          (S
+            (VP (VBP think)
+              (SBAR (IN if)
+                (S
+                  (NP (PRP they))
+                  (VP (VBP are)
+                    (ADJP (JJ first))))))))
+        (, ,)
+        (ADJP (JJ theyre) (JJS best))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB likewise))
+    (NP (NNS others))
+    (VP (VBD got)
+      (NP (PRP$ their) (NNS rewards))
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (PRP they))
+          (VP (VBN framed)
+            (NP
+              (NP (NNS things))
+              (NP (PRP$ their) (JJ own) (NN way)))
+            (, ,)
+            (PP (IN from)
+              (ADVP (RB slightly)
+                (PP (TO to)
+                  (ADJP (RB hugely) (JJ different)))))))))
+    (. .)))
+

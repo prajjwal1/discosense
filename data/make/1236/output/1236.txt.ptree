@@ -1,0 +1,44 @@
+(ROOT
+  (S
+    (PP (IN for)
+      (NP (NN instance)))
+    (, ,)
+    (NP (PRP we))
+    (VP (VBD chose)
+      (NP
+        (NP (RB only) (DT a) (JJ limited) (NN number))
+        (PP (IN of)
+          (NP (NNS texts))))
+      (S
+        (VP (TO to)
+          (VP (VB investigate)
+            (SBAR (IN whether)
+              (S
+                (NP
+                  (NP (JJ possible) (NNS patterns))
+                  (PP (IN of)
+                    (NP (JJ male) (NN teacher) (NN representation))))
+                (VP (VBD existed)
+                  (PP (IN within)
+                    (NP (JJ eced) (NNS texts))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB consequently))
+    (NP (PRP we))
+    (VP (VBP do) (RB not)
+      (VP (VB claim)
+        (SBAR (IN that)
+          (S
+            (NP (DT these) (CD 10) (NNS texts))
+            (VP (VBP provide)
+              (NP
+                (NP (DT a) (JJ definitive) (NN view))
+                (PP (IN of)
+                  (NP
+                    (NP (DT all) (NNS representations))
+                    (PP (IN of)
+                      (NP (JJ eced) (NN teaching)))))))))))
+    (. .)))
+

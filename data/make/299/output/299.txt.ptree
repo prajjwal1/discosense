@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (JJ other) (NNS instances)))
+    (, ,)
+    (NP
+      (NP
+        (ADJP (RB well) (VBN known))
+        (NN control) (NNS structures))
+      (CC and)
+      (NP (NN encoder) (NN decoder) (NNS circuits)))
+    (VP (VBP have) (RB not)
+      (VP (VBN been)
+        (VP (VBN shown)
+          (PP (IN in)
+            (NP
+              (NP (NN detail))
+              (PP (IN in)
+                (NP (NN order)))))
+          (S (RB not)
+            (VP (TO to)
+              (VP (VB obscure)
+                (NP (DT the) (JJ present) (NN invention))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (ADJP (RB particularly) (JJ many))
+      (NNS functions))
+    (VP (VBP are)
+      (VP (VBN described)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (VP (VBN carried)
+                (PRT (RP out))
+                (PP (IN by)
+                  (NP (JJ various) (NNS components)))
+                (PP (IN within)
+                  (NP (DT a) (JJ compressed) (JJ video) (NN distribution) (NN system)))))))))
+    (. .)))
+

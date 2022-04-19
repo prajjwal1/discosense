@@ -1,0 +1,1 @@
+so far, based on some google searches, ive concluded the problem does not seem specific to xml parser expat. otherwise there doesnt seem to be a definitive solution posted anywhere.

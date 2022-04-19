@@ -1,0 +1,45 @@
+(ROOT
+  (S
+    (NP (PRP it))
+    (VP (VBD was)
+      (NP
+        (NP (DT a) (NN fluke))
+        (SBAR
+          (S
+            (NP (PRP he))
+            (VP (VBD made)
+              (NP (PRP it))
+              (PP (TO to)
+                (NP
+                  (NP (DT the) (JJ ai) (NN finale))
+                  (PP (IN in)
+                    (NP (NN season) (CD 1)))))
+              (PP (RB due)
+                (ADVP (RB mostly))
+                (PP (TO to)
+                  (NP
+                    (NP (JJ teen) (NNS girls))
+                    (SBAR
+                      (WHNP (WP who))
+                      (S
+                        (VP (VBD liked)
+                          (NP (PRP$ his) (NNS looks)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN contrast)))
+    (NP (NN clay)
+      (CC and)
+      (NN ruben))
+    (VP (VBD were)
+      (UCP
+        (ADJP (JJ grateful) (, ,) (JJ humble))
+        (, ,)
+        (CC and)
+        (VP (MD could)
+          (ADVP (RB actually))
+          (VP (VB sing)))))
+    (. .)))
+

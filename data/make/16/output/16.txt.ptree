@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (JJ major) (NN advantage))
+      (PP (IN with)
+        (NP (DT this) (NN control))))
+    (VP (VBZ is)
+      (SBAR (IN that)
+        (S
+          (NP (NN menu) (NN item))
+          (ADVP (RB functionality))
+          (VP (VBZ is)
+            (VP (VBN applied)
+              (PP (TO to)
+                (NP
+                  (NP (DT each) (NN tab) (NN page))
+                  (PP (RB instead) (IN of)
+                    (NP (NN tabcontrol))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (JJ other) (NNS words)))
+    (NP (PRP we))
+    (VP (MD can)
+      (VP (VB have)
+        (NP
+          (NP (JJ different) (NN menu) (NNS items))
+          (PP (IN for)
+            (NP (JJ different) (NN tab) (NNS pages))))))
+    (. .)))
+

@@ -1,0 +1,40 @@
+(ROOT
+  (S (CC but)
+    (S
+      (NP (PRP he))
+      (VP (VBD failed)))
+    (CC and)
+    (S
+      (NP (DT the) (NNS centaurs))
+      (VP (VBP know)
+        (NP (DT this))
+        (, ,)
+        (SBAR (RB even) (IN if)
+          (S
+            (NP (DT the) (NNS others))
+            (VP (VBP do) (RB not))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN because)
+      (S
+        (PP (IN of)
+          (NP (DT this)))
+        (NP (PRP they))
+        (VP (VBZ worship)
+          (NP
+            (NP (DT an) (NN ideal))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (MD can) (RB not)
+                  (VP (VB be)
+                    (VP (VBN destroyed))))))))))
+    (, ,)
+    (NP (DT that))
+    (VP (MD can) (RB not)
+      (VP (VB be)
+        (VP (VBN killed))))
+    (. .)))
+

@@ -1,0 +1,55 @@
+(ROOT
+  (S
+    (S
+      (NP (DT the) (NNS whorls))
+      (VP (VBP are)
+        (PP (IN in)
+          (NP (NN contact)))))
+    (CC but)
+    (S
+      (NP (EX there))
+      (VP (VBZ is)
+        (NP
+          (NP (DT no)
+            (ADJP (JJ impressed))
+            (NN zone))
+          (, ,)
+          (CC and)
+          (NP
+            (NP (DT no) (JJ sutural) (NNS lobes))
+            (PP (IN on)
+              (NP
+                (NP (DT the) (NN dorsum))
+                (, ,)
+                (ADVP (RB as)
+                  (PP (IN in)
+                    (NP (JJ true) (NN nautilian) (NNS shells))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN on)
+      (NP (DT the) (NN contrary)))
+    (NP (PRP they))
+    (VP (VBP are)
+      (NP
+        (NP
+          (NP
+            (ADJP (RB purely) (JJ gyroceran))
+            (NNS forms))
+          (, ,)
+          (PP (IN with)
+            (NP (JJ rounded) (NN dorsum))))
+        (CC and)
+        (NP
+          (NP (JJ sutural) (JJ sad) (NNS dles))
+          (PP (IN on)
+            (NP
+              (NP (DT this) (NN side))
+              (PP (IN in)
+                (NP
+                  (NP (NN place))
+                  (PP (IN of)
+                    (NP (NNS lobes))))))))))
+    (. .)))
+

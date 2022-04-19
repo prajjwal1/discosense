@@ -1,0 +1,38 @@
+(ROOT
+  (S
+    (S
+      (NP (DT an) (JJ empty) (NN tip) (NN jar))
+      (ADVP (RB just))
+      (VP (VBZ seems)
+        (ADJP (JJ voluntary))))
+    (, ,)
+    (NP
+      (NP (CD one))
+      (VP (VBN filled)
+        (PP (IN with)
+          (NP (NN cash)))))
+    (VP
+      (VP (VBZ draws)
+        (NP (DT the) (NN eye)))
+      (CC and)
+      (VP (VBZ seems)
+        (PP (IN like)
+          (NP (DT the) (NN thing)))
+        (S
+          (VP (TO to)
+            (VP (VB do))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB though))
+    (NP (PRP you))
+    (VP
+      (ADVP (RB usually))
+      (VBP do)
+      (NP
+        (NP (DT this))
+        (PP (IN with)
+          (NP (NN singles)))))
+    (. .)))
+

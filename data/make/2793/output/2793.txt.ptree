@@ -1,0 +1,44 @@
+(ROOT
+  (S
+    (PP (IN unlike)
+      (NP
+        (NP (JJ other) (NNS restaurants))
+        (PP (IN in)
+          (NP (JJ little) (NN india) (NN banjara) (NN eschew)))))
+    (NP (DT the) (JJ tiresome) (NN red))
+    (VP (VBZ christmas)
+      (NP
+        (NP (NNS lights))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBP twinkle)
+              (PP (IN at)
+                (NP
+                  (NP (NN passersby))
+                  (PP (IN along)
+                    (NP (DT the) (NN block))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (PP (IN in)
+        (NP (NN contrast)))
+      (NP (NN banjara))
+      (VP (VBZ is)
+        (VP (VBN festooned)
+          (PP (IN with)
+            (NP (JJ colorful) (NNS wallcloths))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (NN mirror) (NNS fragments))
+      (VP (VBN embedded)
+        (PP (IN in)
+          (NP
+            (NP (DT the) (NN ceiling))
+            (CC and)
+            (NP (NNS walls))))))
+    (. .)))
+

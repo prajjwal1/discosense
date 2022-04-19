@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (NP (DT the) (NN author))
+    (VP (VBD continued)
+      (S
+        (VP (TO to)
+          (VP (VB find)
+            (PRT (RP out))
+            (SBAR
+              (WHNP (WP who))
+              (S
+                (NP (PRP he))
+                (ADVP (RB really))
+                (VP (VBD was))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB likewise))
+    (NP (DT the) (NNS authors) (NN mother))
+    (VP (VBZ describes)
+      (NP
+        (NP (DT the) (NNS hardships))
+        (SBAR
+          (S
+            (NP (PRP she))
+            (VP (VBD had)
+              (S
+                (VP (TO to)
+                  (VP (VB go)
+                    (PRT (RP through))
+                    (PP (IN as)
+                      (NP (DT a) (JJ white) (NN jewish) (NN woman)))))))))))
+    (. .)))
+

@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (DT the) (NN ssl) (NN handshake)))
+    (, ,)
+    (NP
+      (NP (DT the) (NN server))
+      (CC and)
+      (NP (DT the) (NN client)))
+    (VP (VBP share)
+      (NP
+        (NP (JJ secret) (NN information))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (MD can)
+              (VP (VB be)
+                (VP (VBN applied)
+                  (PP (IN as)
+                    (NP
+                      (NP (DT a) (NN key))
+                      (PP (IN for)
+                        (NP (JJ encrypted) (NN communication))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thereafter))
+    (NP (JJ encrypted) (NNS data))
+    (VP (MD can)
+      (VP (VB be)
+        (VP (VBN transmitted)
+          (S
+            (VP (VBN received)
+              (ADVP (RB there))
+              (PP (IN between)
+                (PP (IN by)
+                  (S
+                    (VP (VBG using)
+                      (NP (DT the) (VBN shared) (JJ secret) (NN information)))))))))))
+    (. .)))
+

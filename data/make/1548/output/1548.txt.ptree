@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (ADVP
+      (NP (JJ john) (NN tatum))
+      (RB well))
+    (, ,)
+    (S
+      (NP (FW i))
+      (VP (VBD got)
+        (NP
+          (NP (CD two) (JJ gold) (NNS medals))
+          (CC and)
+          (NP (CD one) (NN silver) (NN medal)))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (FW i))
+      (VP (VBP call)
+        (PP (IN that)
+          (NP (DT a) (JJ successful) (NN outing)))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (SBAR (IN although)
+      (S
+        (NP (FW i))
+        (VP (VBD wanted)
+          (S
+            (VP (TO to)
+              (VP (VB win)
+                (S
+                  (NP (PRP them))
+                  (NP (DT all)))))))))
+    (. .)))
+

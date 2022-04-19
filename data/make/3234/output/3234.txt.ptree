@@ -1,0 +1,38 @@
+(ROOT
+  (S
+    (NP (NN second))
+    (, ,)
+    (NP (FW i))
+    (VP (VBP love)
+      (S
+        (NP
+          (NP (DT the) (JJ jogged) (NN facade)
+            (CC and)
+            (NN use))
+          (PP (IN of)
+            (NP (JJ various) (NNS colors))))
+        (VP (TO to)
+          (VP (VB add)
+            (NP (NN detail))
+            (PP (TO to)
+              (NP (DT the) (NN building)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB interestingly))
+    (NP
+      (NP (DT the) (NN masonry) (NN exterior))
+      (PP (IN of)
+        (NP (JJ wentworth) (NNS commons))))
+    (VP (VBZ is)
+      (UCP
+        (ADJP
+          (NP (DT both) (NN graffiti))
+          (JJ resistant))
+        (CC and)
+        (VP (VBN made)
+          (PP (IN with)
+            (NP (NN post) (NN consumer) (JJ recycled) (NN content))))))
+    (. .)))
+

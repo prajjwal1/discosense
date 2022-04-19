@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (S
+      (VP (VB thereve)
+        (VP (VBN been)
+          (NP
+            (NP (DT some) (NNS improvements))
+            (PP (IN in)
+              (NP (NN cvs)))))))
+    (, ,) (IN so)
+    (S
+      (NP (PRP you))
+      (VP (MD might)
+        (VP (VB want)
+          (S
+            (VP (TO to)
+              (VP (VB go)
+                (VP (VB check)
+                  (NP (DT that))
+                  (PRT (RP out)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB particularly))
+    (NP (PRP it))
+    (VP (VBP doesnt)
+      (NP (NN crash))
+      (ADVP (RB randomly))
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (NN kxine))
+          (VP (VBZ is)
+            (ADJP (JJ closed))))))
+    (. .)))
+

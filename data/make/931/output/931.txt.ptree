@@ -1,0 +1,53 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (DT the) (JJ main)))
+    (, ,)
+    (NP (DT these) (NNS writings))
+    (VP (VBP address)
+      (NP (PRP themselves))
+      (PP
+        (PP (TO to)
+          (NP (JJ lacans) (JJ conceptual) (NN edifice)))
+        (CC and)
+        (PP (TO to)
+          (SBAR
+            (WHNP (WP what))
+            (S
+              (NP (PRP$ his) (NNS conceptualizations))
+              (VP (VBP have)
+                (S
+                  (VP (TO to)
+                    (VP (VB offer)
+                      (PP (TO to)
+                        (NP
+                          (NP (DT an) (NN understanding))
+                          (PP (IN of)
+                            (NP
+                              (NP (NN culture))
+                              (, ,)
+                              (NP (NN art))
+                              (, ,)
+                              (CC and)
+                              (NP (NN philosophy)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP
+      (ADVP (RB thus))
+      (IN in)
+      (NP (NN north) (NN america)))
+    (, ,)
+    (NP
+      (NP (DT the) (NN impression))
+      (PP (IN among)
+        (NP (NNS clinicians))))
+    (VP (VBZ is)
+      (SBAR (IN that)
+        (S
+          (NP (NN lacan))
+          (VP (VBZ is)
+            (NP (DT all) (NN theory))))))
+    (. .)))
+

@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (SBAR (IN as)
+      (S
+        (NP (PRP we))
+        (ADVP (DT all))
+        (VP (VBP know))))
+    (, ,)
+    (NP (NN water))
+    (VP (VBZ conducts)
+      (NP (NN electricity)))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB because) (IN of)
+      (NP (DT this)))
+    (NP (DT a) (JJ deadly) (NN ground) (NN fault) (NN situation))
+    (VP (MD can)
+      (VP (VB be)
+        (VP (VBN created) (, ,)
+          (SBAR (IN if)
+            (S
+              (NP (NNS luminairs))
+              (VP (VBP are)
+                (VP (VBN allowed)
+                  (S
+                    (VP (TO to)
+                      (VP (VB get)
+                        (ADJP (RB excessively) (JJ damp)
+                          (CC or)
+                          (JJ wet))))))))))))
+    (. .)))
+

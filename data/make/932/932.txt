@@ -1,0 +1,1 @@
+this error code means that, in some cases applications, a check will be made for that specific error code and the same operation attempted again transparently to the user. nevertheless not all operations can be redone.

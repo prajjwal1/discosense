@@ -1,0 +1,66 @@
+(ROOT
+  (S
+    (NP (DT a)
+      (ADJP (NN cost) (NN effective))
+      (NN database) (NN solution))
+    (VP (VBD was)
+      (ADJP (JJ critical))
+      (SBAR (IN in) (NN order)
+        (S
+          (VP (TO to)
+            (VP (VB allow)
+              (S
+                (NP (NNS operators))
+                (VP (TO to)
+                  (VP (VB test)
+                    (NP (DT the) (NN ip))))))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NN access) (NNS offerings))
+    (PP (IN during)
+      (NP
+        (NP (DT a) (NN trial) (NN period))
+        (, ,)
+        (CC or)
+        (S
+          (VP (TO to)
+            (VP (VB start)
+              (PP (IN with)
+                (NP
+                  (ADJP (RB relatively) (JJ small))
+                  (NNS deployments))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB yet))
+    (NP (DT the) (NN database))
+    (VP (VBD had)
+      (S
+        (VP (TO to)
+          (VP (VB be)
+            (ADJP (RB highly) (JJ scalable))
+            (SBAR (IN in) (NN order)
+              (S
+                (VP (TO to)
+                  (VP (VB support)
+                    (NP
+                      (NP (DT the) (JJR larger) (NNS deployments))
+                      (PP (IN of)
+                        (NP
+                          (ADJP (JJ tier)
+                            (NP (CD 1)))
+                          (JJ mobile) (NNS operators)))))))))))
+      (SBAR (IN as)
+        (S
+          (NP (PRP they))
+          (VP (VB take)
+            (NP
+              (NP (JJ early) (NN stage) (NNS pilots))
+              (PP (TO to)
+                (NP (JJ full) (JJ national) (NN roll))))
+            (PRT (RP out))))))
+    (. .)))
+

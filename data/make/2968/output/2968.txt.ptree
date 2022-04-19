@@ -1,0 +1,61 @@
+(ROOT
+  (S
+    (NP
+      (NP (NN summary))
+      (SBAR
+        (S
+          (NP
+            (NP (DT the) (NN phone))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (VBD came)
+                  (PRT (RP in))))))
+          (VP (VBD was)
+            (ADJP (JJ new))
+            (PP (IN in)
+              (NP (NN non) (NN carrier) (NN packaging)))
+            (, ,)
+            (SBAR (IN although)
+              (FRAG
+                (WHADVP (WRB when))))))))
+    (VP (VBD started)
+      (PRT (RP up))
+      (X
+        (NP (PRP$ its)
+          (NP
+            (ADVP (RB obviously))
+            (DT a)
+            (ADJP
+              (ADVP (IN at))
+              (JJ t))
+            (JJ branded) (NN phone)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB because)
+      (PP (IN of)
+        (NP (DT this)
+          (NP (DT the) (NN tethering))
+          (CC and)
+          (NP (DT a) (NN couple)))))
+    (NP (JJ other) (NNS apps))
+    (VP (VBP are)
+      (VP (VBN locked)
+        (PRT (RP down))
+        (SBAR (IN unless)
+          (S
+            (NP (PRP you))
+            (VP (VBP have)
+              (NP (DT a)
+                (ADJP
+                  (QP (IN at) (CD t)))
+                (NN account)
+                (S
+                  (VP (TO to)
+                    (VP (VB unlock)
+                      (NP (DT the) (NNS features))
+                      (PP (IN with)))))))))))
+    (. .)))
+

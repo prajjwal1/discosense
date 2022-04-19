@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (NP (PRP they))
+    (VP
+      (VP (VBD taught)
+        (NP (JJ decoding) (NNS skills))
+        (ADVP (RB explicitly)))
+      (CC and)
+      (VP
+        (ADVP (RB also))
+        (VBD provided)
+        (NP (PRP$ their) (NNS students))
+        (PP (IN with)
+          (NP (JJ many) (NNS opportunities)))
+        (S
+          (VP (TO to)
+            (VP (VB engage)
+              (PP (IN in)
+                (NP (JJ authentic) (, ,) (JJ integrated) (NN reading)
+                  (CC and)
+                  (NN writing) (NNS activities))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN contrast)))
+    (NP
+      (NP (DT the) (JJ other) (NNS teachers))
+      (PP (IN in)
+        (NP (DT the) (NN study))))
+    (VP (CC either)
+      (VP (VBD focused)
+        (PP (IN on)
+          (NP
+            (NP (NNS skills))
+            (CC or)
+            (NP (JJ whole) (NN language) (NNS approaches)))))
+      (CC or)
+      (VP (VBD combined)
+        (NP
+          (NP (DT the) (CD two))
+          (PP (IN in)
+            (NP (JJ disjointed) (NNS ways))))))
+    (. .)))
+

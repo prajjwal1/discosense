@@ -1,0 +1,27 @@
+(ROOT
+  (NP
+    (NP (NN probe)
+      (CC and)
+      (NNS experiences))
+    (NP
+      (NP (JJ temporary) (NN amnesia))
+      (PP (IN from)
+        (NP (DT a) (NN power) (NN surge))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB consequently))
+    (NP (PRP he))
+    (VP (VBZ spreads)
+      (NP (NN radiation))
+      (S
+        (VP
+          (VP (VBG poisioning)
+            (PP (IN throughout)
+              (NP (DT the) (NNS natives))))
+          (CC but)
+          (VP (VBG cures)
+            (NP (DT the) (NN affliction))))))
+    (. .)))
+

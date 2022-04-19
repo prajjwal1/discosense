@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (NP (PRP they))
+    (VP (VBP are)
+      (VP (VBG being)
+        (VP
+          (VP (VBN abandoned)
+            (PP (IN in)
+              (NP (NN india))))
+          (CC and)
+          (VP (VBN reformed)
+            (PP (IN in)
+              (NP (NN china)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN contrast)))
+    (NP
+      (NP (DT the) (NNS economies))
+      (PP (IN of)
+        (NP
+          (NP (NN japan))
+          (CC and)
+          (NP (DT the) (CD four) (NN asian) (NNS tigers)))))
+    (VP (VBD were)
+      (NP
+        (NP (JJ economic) (NNS successes))
+        (, ,)
+        (CC and)
+        (ADVP
+          (NP
+            (ADJP
+              (NP (DT the) (RB only))
+              (JJ successful))
+            (NNS economies))
+          (IN outside))
+        (PP (IN of)
+          (NP (DT the) (JJ western) (NN world)))))
+    (. .)))
+

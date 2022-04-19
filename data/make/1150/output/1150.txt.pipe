@@ -1,0 +1,4 @@
+Explicit|||61..75||in other words||1|in other words|||Expansion.Restatement|||||||||||0..59|0|and when your agility increases, you can reach more of them||||||||76..138|1|theres lots and lots to do in this game, and most of it is fun|||||||||||||
+Explicit|||0..3||and||0|and|||Expansion.Conjunction|||||||||||1..2|-1|n||||||||4..59|0|when your agility increases, you can reach more of them|||||||||||||
+Explicit|||117..120||and||1|and|||Expansion.Conjunction|||||||||||61..115|1|in other words theres lots and lots to do in this game||||||||121..138|1|most of it is fun|||||||||||||
+Explicit|||4..8||when||0|when|||Temporal.Asynchronous|||||||||||0..3;33..59|0|and you can reach more of them||||||||9..31|0|your agility increases|||||||||||||

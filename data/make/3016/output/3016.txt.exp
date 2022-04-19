@@ -1,0 +1,3 @@
+conn_lc:therefore conn:therefore conn_POS:RB xxx£
+conn_lc:rather conn:rather conn_POS:RB xxx£
+conn_lc:when conn:when conn_POS:WRB with_prev_full:others_when xxx£

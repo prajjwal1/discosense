@@ -1,0 +1,50 @@
+(ROOT
+  (S
+    (NP (PRP one))
+    (VP (MD might)
+      (VP
+        (ADVP (RB incorrectly))
+        (VB infer)
+        (PP (IN from)
+          (NP (VBG viewing) (JJ historical) (NNS timelines)))
+        (SBAR (IN that)
+          (S
+            (NP
+              (NP (NNS transitions))
+              (PP (IN between)
+                (NP (NNS dynasties))))
+            (VP (VBP occur)
+              (ADVP
+                (ADVP (RB abruptly))
+                (CC and)
+                (ADVP (RB smoothly))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB rather))
+    (NP (NNS dynasties))
+    (VP (VBD were)
+      (ADVP (RB often))
+      (VP
+        (VP (VBN established)
+          (PP (IN before)
+            (NP
+              (NP (DT the) (JJ complete) (NN overthrow))
+              (PP (IN of)
+                (NP (DT an) (VBG existing) (NN reign))))))
+        (, ,)
+        (CC or)
+        (VP (VBN continued)
+          (PP (IN for)
+            (NP (DT a) (NN time)))
+          (SBAR (IN after)
+            (S
+              (NP (PRP they))
+              (VP (VBD had)
+                (VP (VBN been)
+                  (VP
+                    (ADVP (RB effectively))
+                    (VBN defeated)))))))))
+    (. .)))
+

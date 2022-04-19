@@ -1,0 +1,48 @@
+(ROOT
+  (S
+    (PP (IN on)
+      (NP (DT a) (NN road) (NN trip)))
+    (NP
+      (NP (DT some))
+      (PP (IN of)
+        (NP (DT these) (NNS signs))))
+    (VP (VBP include)
+      (NP (NN mile) (NNS markers)
+        (CC and)
+        (NNS signs))
+      (PP (IN with)
+        (NP
+          (NP (DT the) (NN distance))
+          (PP (TO to)
+            (NP (PRP$ your) (NN destination))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP
+      (ADVP (RB similarly))
+      (IN in)
+      (NP (DT an) (NN organization)))
+    (, ,)
+    (NP (EX there))
+    (VP (VBP are)
+      (NP
+        (NP (NNS signs))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (MD will)
+              (VP (VB indicate)
+                (PP (TO to)
+                  (NP (PRP you)))
+                (SBAR (IN whether)
+                  (S
+                    (NP (PRP you))
+                    (VP (VBP are)
+                      (PP (IN on)
+                        (NP
+                          (NP (DT the) (NN road))
+                          (PP (TO to)
+                            (NP (DT a) (NN promotion))))))))))))))
+    (. .)))
+

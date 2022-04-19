@@ -1,0 +1,36 @@
+(ROOT
+  (SINV
+    (S
+      (NP (JJ last) (NN night))
+      (NP (FW i))
+      (VP (VBD went)
+        (S
+          (VP (TO to)
+            (VP (VB see)
+              (NP (NN sarah)))))))
+    (VP (VBZ ruhls)
+      (NP (DT the) (JJ clean) (NN house))
+      (PP (IN at)
+        (NP
+          (NP (DT the) (JJ woooly) (FW mammoth) (FW theatre))
+          (PP (IN in)
+            (NP
+              (NP (JJ downtown) (NN d.) (NN c.))
+              (PP (IN in)
+                (NP (JJ short))))))))
+    (NP
+      (NP (PRP$ its)
+        (NP
+          (NP (DT a) (JJ funny) (, ,) (JJ suburbanized) (NN tale))
+          (PP (IN of)
+            (NP (NN romance)))))
+      (, ,)
+      (NP (NNS obsessions))
+      (, ,)
+      (CC and)
+      (NP
+        (NP (DT the) (NN quest))
+        (PP (IN for)
+          (NP (DT the) (JJ perfect) (NN joke)))))
+    (. .)))
+

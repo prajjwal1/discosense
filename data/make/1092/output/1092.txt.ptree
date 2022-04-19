@@ -1,0 +1,45 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (DT this) (NN sense)))
+    (, ,)
+    (NP (DT this) (NN resolution))
+    (VP
+      (VP (VBZ is)
+        (ADJP (JJ anticlimactic)))
+      (CC and)
+      (VP (VBZ takes)
+        (NP (NN impact))
+        (PRT (RP away))
+        (PP (IN from)
+          (NP (DT the) (NN ending)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN sum)))
+    (NP (DT this))
+    (VP
+      (VP (VBP isnt)
+        (NP
+          (NP (PRP$ your) (JJ usual) (NN run))
+          (PP (IN of)
+            (NP (DT the) (NN mill) (NN novel)))))
+      (CC and)
+      (PRN (, ,)
+        (S
+          (VP (VBN taken)
+            (PP (IN as)
+              (NP (DT a) (JJ true) (NN story)))))
+        (, ,))
+      (VP (VBZ is)
+        (NP
+          (NP (CD one))
+          (SBAR
+            (S
+              (NP (JJS most) (NNS readers))
+              (VP (MD will)
+                (VP (VB enjoy))))))))
+    (. .)))
+

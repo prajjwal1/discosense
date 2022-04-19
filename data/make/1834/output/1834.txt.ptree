@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB when))
+      (S
+        (S
+          (NP (DT a) (JJ companys) (NNS earnings))
+          (VP (VBP grow)))
+        (, ,)
+        (CC or)
+        (S
+          (NP (DT the) (NN melon))
+          (VP (VBZ gets)
+            (ADJP (JJR bigger))))))
+    (, ,)
+    (NP (PRP it))
+    (VP (MD might)
+      (VP (VB issue)
+        (NP
+          (NP (JJ extra) (NN stock)
+            (CC or)
+            (JJ special) (NNS dividends))
+          (PP (IN in)
+            (NP (NN addition))))
+        (PP (TO to)
+          (NP (JJ regular) (NNS dividends)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (JJ other) (NNS words)))
+    (NP (DT the) (NN company))
+    (VP
+      (VP (VBZ cuts)
+        (NP (DT the) (NN melon)))
+      (CC and)
+      (VP (VBZ shares)
+        (NP (PRP it))
+        (PP (IN with)
+          (NP (NNS investors)))))
+    (. .)))
+

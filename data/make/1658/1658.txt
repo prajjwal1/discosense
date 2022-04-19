@@ -1,0 +1,1 @@
+and i didnt mentioned the lack of associative containers or impossibility to load or save a data into a file. though papyrus is a specialized language, we shouldnt expect much.

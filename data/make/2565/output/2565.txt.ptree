@@ -1,0 +1,59 @@
+(ROOT
+  (S
+    (ADVP (RB again))
+    (, ,)
+    (S
+      (PP (IN in)
+        (NP (JJ full) (NN flow)))
+      (, ,)
+      (NP (PRP it))
+      (VP (VBD was)
+        (ADJP (JJ scary)
+          (S
+            (VP (TO to)
+              (VP (VB enter)
+                (PP (IN into)
+                  (NP (DT the) (NN falls)))))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP we))
+      (ADVP (RB somehow))
+      (VP (VBD managed)
+        (S
+          (VP (TO to)
+            (VP (VB squelch)
+              (PRT (RP out))
+              (NP (DT some) (NN courage)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN though)
+      (S
+        (NP (DT the) (NN courage))
+        (VP (VBP couldnt)
+          (ADVP (RB last))
+          (PP (IN for)
+            (ADVP (RB long))))))
+    (, ,)
+    (ADVP (RB once))
+    (NP (PRP we))
+    (VP (VBD felt)
+      (NP
+        (NP (NNS boulders))
+        (PP (IN of)
+          (NP
+            (NP (NN water))
+            (VP (VBG hitting)
+              (NP (PRP$ our) (NNS backs))
+              (PP (IN without)
+                (S
+                  (VP (VBG giving)
+                    (NP (PRP us))
+                    (NP (DT a) (NN moment)
+                      (S
+                        (VP (TO to)
+                          (VP (VB breathe)))))))))))))
+    (. .)))
+

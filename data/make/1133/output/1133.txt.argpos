@@ -1,0 +1,5 @@
+conn:but conn_POS:CC sent_pos:0 NA
+conn:therefore conn_POS:RB sent_pos:0 NA
+conn:if conn_POS:IN sent_pos:1 prev1:therefore prev1_POS:RB with_prev1_full:therefore_if with_prev1_POS_full:RB_IN NA
+conn:and conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_and with_prev1_POS_full:,_CC prev2:us prev2_POS:PRP with_prev2_full:us_and with_prev2_POS_full:PRP_CC NA
+conn:when conn_POS:WRB prev1:hands prev1_POS:NNS with_prev1_full:hands_when with_prev1_POS_full:NNS_WRB prev2:shake prev2_POS:VB with_prev2_full:shake_when with_prev2_POS_full:VB_WRB NA

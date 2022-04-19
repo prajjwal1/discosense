@@ -1,0 +1,52 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNS republicans))
+      (, ,)
+      (SBAR
+        (WHNP (WP who))
+        (S
+          (VP (VBP have)
+            (VP (VBN seized)
+              (PP (IN on)
+                (NP (JJ proposed) (JJ democratic) (NNS cuts)))
+              (S
+                (VP (TO to)
+                  (VP (VB medicare)
+                    (NP (NN advantage)))))))))
+      (, ,))
+    (VP (MD would) (RB not)
+      (VP (VB touch)
+        (NP
+          (NP (DT the) (NN government) (NN run) (NN health) (NN care) (NN plan))
+          (PP (IN for)
+            (NP (JJ senior) (NNS citizens))))
+        (PP (IN in)
+          (NP (PRP$ their) (NN house) (NN bill)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN by)
+      (NP (NN contrast)))
+    (NP (JJ democratic) (NNS bills))
+    (VP (MD would)
+      (VP
+        (VP (VB cut)
+          (NP (JJ medicare) (NN advantage)))
+        (CC and)
+        (VP (VB reduce)
+          (NP
+            (NP (DT the) (NN growth))
+            (PP (IN in)
+              (NP (JJ medicare) (NNS payments))))
+          (PP (IN by)
+            (NP
+              (NP (DT a) (NN total))
+              (PP (IN of)
+                (NP
+                  (QP (RB roughly) (CD 400) (CD billion))))))
+          (PP (IN over)
+            (NP (CD 10) (NNS years))))))
+    (. .)))
+

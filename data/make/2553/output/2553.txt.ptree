@@ -1,0 +1,47 @@
+(ROOT
+  (S
+    (NP (DT the) (CD five) (NNS days))
+    (VP (VBD consisted)
+      (PP (IN of)
+        (NP (JJ intense) (JJ medical) (NN training)))
+      (PP (IN for)
+        (NP
+          (NP (DT the) (NN aaf) (NNS personnel))
+          (, ,)
+          (SBAR
+            (WHNP (WP who))
+            (S
+              (VP (VBD learned)
+                (SBAR
+                  (WHADVP (WRB how))
+                  (S
+                    (VP (TO to)
+                      (VP (VB treat)
+                        (NP (DT a) (NN combat) (NN casualty))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB specifically))
+    (NP (PRP they))
+    (VP (VBD learned)
+      (SBAR
+        (WHADVP (WRB how))
+        (S
+          (VP (TO to)
+            (VP
+              (VP (VB control)
+                (NP (JJ traumatic) (NN bleeding)))
+              (, ,)
+              (VP (VB assess)
+                (CC and)
+                (VB maintain)
+                (NP (DT an) (NN airway)))
+              (, ,)
+              (VP (VB treat)
+                (NP (NN chest) (NNS wounds)))
+              (CC and)
+              (VP (VB stabilize)
+                (NP (JJ broken) (NNS bones))))))))
+    (. .)))
+

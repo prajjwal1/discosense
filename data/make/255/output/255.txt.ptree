@@ -1,0 +1,51 @@
+(ROOT
+  (S
+    (ADVP (RB unfortunately))
+    (, ,)
+    (NP (NNS problems))
+    (VP (VBP have)
+      (VP (VBN been)
+        (VP (VBN experienced)
+          (PP (IN in)
+            (NP (DT the) (NN past)))
+          (PP (IN in)
+            (S
+              (VP (VBG being)
+                (ADJP (JJ able)
+                  (S
+                    (VP (TO to)
+                      (VP (VB synchronize)
+                        (NP (DT a) (VBN printed) (NN design))
+                        (PP (IN with)
+                          (NP (DT a) (JJ woven) (NN design)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP
+        (NP (NN instance))
+        (PP (IN in)
+          (NP (JJ many) (NNS applications)))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ is)
+      (ADJP (JJ difficult)
+        (S
+          (VP (TO to)
+            (VP (VB print)
+              (NP (DT a) (NN design))
+              (ADVP (RB directly))
+              (PP (IN onto)
+                (NP (DT a) (JJ preformed) (JJ woven) (NN fabric)))))))
+      (, ,)
+      (SBAR (IN since)
+        (S
+          (NP (JJ many) (NNS fabrics))
+          (VP (VBP tend)
+            (S
+              (VP (TO to)
+                (VP (VB have)
+                  (NP (DT an) (JJ uneven) (NN topography)))))))))
+    (. .)))
+

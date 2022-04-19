@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (ADVP (RB mm))
+    (NP (DT the) (NN fan))
+    (VP (MD can)
+      (ADVP (RB now))
+      (VP (VB enjoy)
+        (NP (DT the) (NN espn) (NNS networks))
+        (PP (IN in)
+          (NP (DT a)
+            (ADJP (JJ unique)
+              (CC and)
+              (JJR more))
+            (JJ engaging) (NN way)))
+        (SBAR (IN than)
+          (S
+            (NP (PRP they))
+            (VP (VBP are)
+              (VP (VBN accustomed)
+                (S
+                  (VP (TO to)))
+                (PP (IN on)
+                  (NP (NN tv)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP (NN instance)))
+    (NP (PRP$ their) (NN ability)
+      (S
+        (VP (TO to)
+          (VP (VB navigate)
+            (PP (IN from)
+              (NP (NN game)))
+            (PP (TO to)
+              (NP (NN game) (, ,) (NN analysis)
+                (CC and)
+                (NNS replays)))))))
+    (VP (MD can)
+      (VP (VB be)
+        (VP (VBN done)
+          (PP (DT all) (IN on)
+            (NP (CD one) (NN screen))))))
+    (. .)))
+

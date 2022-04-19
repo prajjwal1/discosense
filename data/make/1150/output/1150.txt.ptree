@@ -1,0 +1,42 @@
+(ROOT
+  (S (CC and)
+    (SBAR
+      (WHADVP (WRB when))
+      (S
+        (NP (PRP$ your) (NN agility))
+        (VP (VBZ increases))))
+    (, ,)
+    (NP (PRP you))
+    (VP (MD can)
+      (VP (VB reach)
+        (NP
+          (NP (JJR more))
+          (PP (IN of)
+            (NP (PRP them))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (JJ other) (NNS words)))
+    (S
+      (NP
+        (NP (NNS theres))
+        (ADJP (NNS lots)
+          (CC and)
+          (NNS lots)))
+      (VP (TO to)
+        (VP (VB do)
+          (PP (IN in)
+            (NP (DT this) (NN game))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP
+        (NP (JJS most))
+        (PP (IN of)
+          (NP (PRP it))))
+      (VP (VBZ is)
+        (NP (NN fun))))
+    (. .)))
+

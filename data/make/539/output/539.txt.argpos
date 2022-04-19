@@ -1,0 +1,2 @@
+conn:so conn_POS:IN prev1:, prev1_POS:, with_prev1_full:,_so with_prev1_POS_full:,_IN prev2:six prev2_POS:CD with_prev2_full:six_so with_prev2_POS_full:CD_IN NA
+conn:on_the_other_hand conn_POS:IN_DT_JJ_NN sent_pos:0 NA

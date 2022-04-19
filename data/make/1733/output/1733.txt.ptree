@@ -1,0 +1,45 @@
+(ROOT
+  (S
+    (PP (IN by)
+      (NP (CD 2013)))
+    (, ,)
+    (NP (DT no) (NN state))
+    (VP (VBD had)
+      (NP
+        (NP (DT a) (JJ median) (NN wage))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBD was)
+              (NP
+                (NP
+                  (QP (JJR less) (IN than) (CD 90))
+                  (NN percent))
+                (PP (IN of)
+                  (NP (DT the) (JJ national) (NN median)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN as)
+      (NP (DT a) (NN result)))
+    (NP (DT a) (JJ federal) (NN minimum))
+    (VP (MD will)
+      (VP (VB have)
+        (NP
+          (NP (JJR less))
+          (PP (IN of)
+            (NP
+              (NP (DT an) (NN impact))
+              (PP (IN on)
+                (NP (JJ low) (NN wage) (NNS states))))))
+        (SBAR
+          (ADVP (RB now))
+          (IN than)
+          (S
+            (NP (PRP it))
+            (VP (VBD did)
+              (PP (IN in)
+                (NP (CD 1968))))))))
+    (. .)))
+

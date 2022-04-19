@@ -1,0 +1,51 @@
+(ROOT
+  (S
+    (ADVP (RB further))
+    (, ,)
+    (VP (VBG changing)
+      (NP
+        (NP (DT the) (NN length))
+        (PP (IN of)
+          (NP (DT the) (JJ corresponding) (NN point) (NN search) (NN line)))))
+    (VP (MD can)
+      (VP (VB give)
+        (NP
+          (NP (DT the) (NN advantage))
+          (PP (IN of)
+            (S
+              (VP (VBG facilitating)
+                (S
+                  (VP (TO to)
+                    (VP (VB change)
+                      (NP (DT the) (JJ corresponding) (NN edge) (NN point) (NN search) (NN region)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (ADVP (RB thereby))
+      (IN since)
+      (S
+        (NP (NN edge) (NN angle) (NN information))
+        (VP (VBZ is)
+          (VP (VBN held)
+            (ADVP (RB even))
+            (PP (IN after)
+              (NP
+                (NP (NN reduction))
+                (PP (IN of)
+                  (NP (DT the) (NN image)))))))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ is)
+      (ADJP (JJ possible)
+        (S
+          (VP (TO to)
+            (VP (VB speed)
+              (PRT (RP up))
+              (NP
+                (NP (DT a) (NN search))
+                (PP (IN with)
+                  (NP (DT a) (NN data) (NN amount) (VBN reduced) (NN while) (VBG holding) (NN search) (NN accuracy)))))))))
+    (. .)))
+

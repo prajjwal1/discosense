@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (NP
+      (NP (JJ stiff) (NNS joints))
+      (CC and)
+      (NP (JJ suboptimal) (NN digestion)))
+    (VP (VBP make)
+      (NP
+        (ADJP
+          (ADJP
+            (NP (DT the) (NN prey))
+            (JJR weaker))
+          (CC and)
+          (ADJP (RBR more) (JJ available)))
+        (NNS targets)))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP
+        (NP (NN contrast))
+        (PP (IN in)
+          (NP (DT the) (JJ dry) (NN season)))))
+    (, ,)
+    (NP (NNS hunters))
+    (VP (VBP run)
+      (PRT (RP down))
+      (NP
+        (ADJP (JJ kudu) (, ,) (JJ eland))
+        (, ,)
+        (CC and)
+        (JJ red) (NN hartebeest))
+      (PP (IN because)
+        (NP (DT these) (NN species) (NN tire)))
+      (ADVP
+        (ADVP (RBR more) (RB easily))
+        (PP (IN in)
+          (NP (DT the) (JJ loose) (NN sand)))))
+    (. .)))
+

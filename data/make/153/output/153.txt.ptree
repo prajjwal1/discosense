@@ -1,0 +1,52 @@
+(ROOT
+  (S
+    (ADVP (RB however))
+    (, ,)
+    (NP (NNS analyses)
+      (S
+        (VP (TO to)
+          (VP (VB determine)
+            (NP
+              (NP (NN involvement))
+              (PP (IN of)
+                (NP (JJ wild) (NNS birds))))))))
+    (VP (VBP have)
+      (VP (VBN been)
+        (VP (VBN hindered)
+          (PP (IN by)
+            (NP
+              (NP (DT the) (NN lack))
+              (PP (IN of)
+                (NP (JJ basic) (NN information)))))
+          (PP (IN on)
+            (NP
+              (NP (PRP$ their) (NNS movements))
+              (PP (IN in)
+                (NP (JJ central) (NN asia))))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (S
+      (ADVP (RB thus))
+      (NP (PRP we))
+      (VP (VBD initiated)
+        (NP (DT a) (NN programme))
+        (PP (TO to)
+          (NP
+            (NP (NN document) (NNS migrations))
+            (PP (IN of)
+              (NP (NN waterfowl)))))
+        (PP (IN in)
+          (NP (NN asian)))))
+    (VP (VBZ flyways)
+      (S
+        (VP (TO to)
+          (VP (VB inform)
+            (NP
+              (NP (NNS hypotheses))
+              (PP (IN of)
+                (NP (NN h))))))))
+    (NP (CD 5) (NN n) (CD 1) (NN transmission))
+    (. .)))
+

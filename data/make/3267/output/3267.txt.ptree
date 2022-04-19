@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (NNS students))
+      (SBAR
+        (WHNP (WP who))
+        (S
+          (VP (VBD defined)
+            (NP (PRP themselves))
+            (PP (IN as)
+              (NP
+                (NP (NNS israelis))
+                (CC and)
+                (NP (DT the) (NN secular) (NNS jews))))))))
+    (VP (VBP tend)
+      (S
+        (VP (TO to)
+          (VP (VB accept)
+            (NP (JJ multicultural) (NNS ideas))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB similarly))
+    (NP (DT the) (JJ right) (NN wing) (NNS students))
+    (ADVP (RB again))
+    (VP (VBP are)
+      (ADJP (RBR less) (JJ open)
+        (S
+          (VP (TO to)
+            (VP (VB multiculturalism))))))
+    (. .)))
+

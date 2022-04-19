@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNS websites))
+      (PP (IN with)
+        (NP (NN ssl) (NN encryption))))
+    (VP (VBP start)
+      (PP (IN with)
+        (NP
+          (NP (NNS https))
+          (CONJP (RB rather) (IN than))
+          (NP (NN http)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (JJ other) (NNS words)))
+    (NP (NN ssl))
+    (VP (VBZ is)
+      (ADJP (RB so) (JJ commonplace))
+      (SBAR (IN that)
+        (S
+          (NP (PRP it))
+          (VP (VBZ is)
+            (VP (VBN built)
+              (PP (IN into)
+                (NP (DT the) (NNS webs) (NN infrastructure)
+                  (CC and)
+                  (NN browser) (NN functionality))))))))
+    (. .)))
+

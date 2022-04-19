@@ -1,0 +1,9 @@
+root(ROOT-0, take-1)
+dobj(take-1, them-2)
+advmod(take-1, seriously-3)
+
+amod(words-3, other-2)
+prep_in(be-4, words-3)
+root(ROOT-0, be-4)
+nsubj(be-4, there-5)
+

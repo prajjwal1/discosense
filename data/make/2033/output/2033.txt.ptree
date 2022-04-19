@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (SBAR (IN since)
+      (S
+        (NP (DT the) (NN tank))
+        (VP (VBZ is)
+          (NP
+            (QP (RB only) (CD 4))
+            (NNS gallons)))))
+    (, ,)
+    (NP (FW i))
+    (ADVP (RB strongly))
+    (VP (VBP recommend)
+      (S
+        (NP (PRP you))
+        (VP
+          (VP (VB return)
+            (NP (DT the) (NN molly))
+            (PP (TO to)
+              (NP (DT the) (JJ pet) (NN store))))
+          (CC and)
+          (VP
+            (ADVP (RB just))
+            (VB keep)
+            (NP (DT a) (JJ single) (NN betta))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (SBAR (IN although)
+      (S
+        (NP (RB even) (CD 4) (NNS gallons))
+        (VP (VBZ is)
+          (ADJP
+            (NP (DT a) (RB bit))
+            (JJ small)
+            (PP (IN for)
+              (NP (DT the) (CD one) (NN fish)))))))
+    (. .)))
+

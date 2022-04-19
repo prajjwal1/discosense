@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (NP (DT the) (JJ basic) (NN gameplay))
+    (VP (VBZ is)
+      (ADVP (RB still))
+      (ADJP (RB pretty) (RB much) (JJ intact))
+      (, ,)
+      (PP (IN for)
+        (NP
+          (NP (NNS people))
+          (SBAR
+            (WHNP (WP who))
+            (S
+              (VP (VBD liked)
+                (NP (PRP it))
+                (PP (IN in)
+                  (NP (NN kz) (CD 2)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ overall) (NN kz))
+      (NP (CD 3)))
+    (VP (VBZ feels)
+      (PP (IN like)
+        (NP (DT an) (NN expansion)
+          (S
+            (VP (TO to)
+              (VP (VB kz)
+                (NP (CD 2))))))))
+    (. .)))
+

@@ -1,0 +1,2 @@
+conn:although conn_POS:IN sent_pos:0 NA
+conn:as conn_POS:IN prev1:out prev1_POS:RP with_prev1_full:out_as with_prev1_POS_full:RP_IN prev2:stand prev2_POS:VBP with_prev2_full:stand_as with_prev2_POS_full:VBP_IN NA

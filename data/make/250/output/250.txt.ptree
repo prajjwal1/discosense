@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (NP (JJS most) (NNS crickets))
+    (ADVP (RB quickly))
+    (VP
+      (VP (VBD disentangled)
+        (NP (PRP themselves))
+        (PP (IN from)
+          (NP (DT the) (NN web))))
+      (CC and)
+      (VP
+        (ADVP (RB then))
+        (VBD dropped)
+        (PP (TO to)
+          (NP
+            (NP (DT the) (NN bottom))
+            (PP (IN of)
+              (NP (DT the) (NN enclosure)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thereafter))
+    (NP
+      (NP (JJ many))
+      (PP (IN of)
+        (NP (DT the) (NNS recordings))))
+    (VP (VBD captured)
+      (SBAR
+        (S
+          (NP (NNS vibrations))
+          (VP (VBD produced)
+            (PP (IN by)
+              (NP
+                (NP (NNS crickets))
+                (VP (VBG coming)
+                  (PP (IN into)
+                    (NP (NN contact)))
+                  (PP (IN with)
+                    (NP (NN capture) (NNS threads))))))))))
+    (. .)))
+

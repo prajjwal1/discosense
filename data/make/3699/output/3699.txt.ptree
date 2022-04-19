@@ -1,0 +1,53 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (DT these) (NNS movements)))
+    (, ,)
+    (NP
+      (NP (DT the) (NNS potentialities)
+        (CC and)
+        (NNS dilemmas))
+      (PP (IN of)
+        (NP (JJ aesthetic) (NN practice))))
+    (VP (VBP take)
+      (NP
+        (NP (NN precedence))
+        (PP (IN over)
+          (NP (JJ traditional) (NNS concerns))))
+      (PP (IN with)
+        (NP (DT the) (VBN finished) (NN artwork))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB likewise))
+    (NP
+      (NP (VBG growing) (NN interest))
+      (PP (IN in)
+        (NP
+          (NP (NN documentary))
+          (PP (IN as)
+            (NP (DT a) (NN practice))))))
+    (VP (VBZ is)
+      (VP (VBG opening)
+        (NP
+          (NP (DT the) (NN definition))
+          (PP (IN of)
+            (NP (NN documentary))))
+        (PP (IN beyond)
+          (NP
+            (NP (NNS considerations))
+            (PP (IN of)
+              (NP (JJ finished) (NNS documents)))))
+        (, ,)
+        (S
+          (VP (TO to)
+            (VP (VB include)
+              (NP
+                (NP (DT the) (NN act))
+                (PP (IN of)
+                  (S
+                    (VP (VBG documenting)
+                      (NP (PRP itself)))))))))))
+    (. .)))
+

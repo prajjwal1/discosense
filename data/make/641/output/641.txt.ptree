@@ -1,0 +1,23 @@
+(ROOT
+  (S
+    (NP (DT the) (NN graph))
+    (ADVP (RB below))
+    (VP (VBZ represents)
+      (NP
+        (NP (DT the) (NNS results))
+        (PP (IN of)
+          (NP (DT this) (NN tracking)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN as)
+      (NP (DT a) (NN result)))
+    (NP (DT the) (NN chart))
+    (VP (VBZ includes)
+      (NP
+        (NP (RB just) (DT the) (JJ last) (CD two) (NNS seasons))
+        (PP (IN of)
+          (NP (NNS data)))))
+    (. .)))
+

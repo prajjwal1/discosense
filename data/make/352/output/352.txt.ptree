@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (PP (IN from)
+      (NP (PRP$ our) (NN government)))
+    (, ,)
+    (NP (EX there))
+    (VP (VBD was)
+      (NP (JJ congressional) (NN pressure)
+        (S
+          (VP (TO to)
+            (VP (VB expand)
+              (NP (NN homeownership))
+              (PP (IN by)
+                (NP (NN lending)))
+              (PP (TO to)
+                (NP
+                  (NP (NNS borrowers))
+                  (SBAR
+                    (WHNP (WP who))
+                    (S
+                      (VP (MD would) (RB not)
+                        (ADVP (RB otherwise))
+                        (VP (VB qualify)
+                          (PP (IN for)
+                            (NP (JJ traditional) (NNS mortgages))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (RB as)
+      (NP (DT a) (NN result) (NN fannie) (NN mae))
+      (CC and)
+      (NP (JJ freddie) (NN mac)))
+    (ADVP (RB dramatically))
+    (VP (VBD expanded)
+      (NP (PRP$ their) (NNS activities))
+      (S
+        (VP (TO to)
+          (VP (VB accommodate)
+            (NP (DT this) (NN objective))))))
+    (. .)))
+

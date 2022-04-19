@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP you))
+      (VP (MD can)
+        (VP (VB say)
+          (SBAR
+            (WHNP (WDT whatever))
+            (S
+              (NP (PRP you))
+              (VP (VBP want)))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (DT no) (NN one))
+      (VP (MD can)
+        (VP (VB stop)
+          (NP (PRP you)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB likewise))
+    (NP (EX there))
+    (VP (VBZ is)
+      (NP
+        (NP (DT no) (NN law))
+        (PP (IN against)
+          (S
+            (NP (PRP me))
+            (VP (VBG pulling)
+              (S
+                (VP (TO to)
+                  (VP (VB light)
+                    (NP
+                      (NP (DT the) (NNS contradictions)
+                        (CC and)
+                        (NNS faults))
+                      (SBAR
+                        (WHPP (IN in)
+                          (WHNP (WP what)))
+                        (S
+                          (NP (PRP you))
+                          (VP (VBP say)))))))))))))
+    (. .)))
+

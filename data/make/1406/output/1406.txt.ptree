@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (DT the) (CD 2013) (NN survey)))
+    (, ,)
+    (NP
+      (NP (CD 40) (NN %))
+      (PP (IN of)
+        (NP (NNS fsis))))
+    (VP (VBD were)
+      (PP (IN at)
+        (NP
+          (NP (DT the) (JJS lowest))
+          (VP (VBN rung)
+            (PP (VBN compared)
+              (PP (TO to)
+                (NP
+                  (NP (CD 43) (NN %))
+                  (PP (IN of)
+                    (NP
+                      (NP (NNS businesses))
+                      (PP (IN in)
+                        (NP (NN general))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (JJ other) (NNS words)))
+    (NP
+      (NP
+        (QP (RB nearly) (CD 10))
+        (NN %))
+      (PP (IN of)
+        (NP (NNS fsis))))
+    (VP (VBD moved)
+      (PP (IN beyond)
+        (NP (DT the) (JJ initial) (NN state) (NN level)))
+      (PP (IN over)
+        (NP (DT the) (JJ past) (NN year))))
+    (. .)))
+

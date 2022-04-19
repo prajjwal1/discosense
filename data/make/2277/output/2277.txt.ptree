@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (S
+      (ADJP (JJ similar)
+        (PP (TO to)
+          (NP (JJR earlier) (NNS findings)))))
+    (, ,)
+    (NP (PRP we))
+    (VP (VBP show)
+      (SBAR (IN that)
+        (S
+          (NP (EX there))
+          (VP (VBZ has)
+            (VP (VBN been)
+              (NP
+                (NP
+                  (NP (DT a) (JJ large) (NN increase))
+                  (PP (IN in)
+                    (NP (NN income) (NN inequality))))
+                (CC but)
+                (NP
+                  (NP (DT no) (JJ concurrent) (NN increase))
+                  (PP (IN in)
+                    (NP (NN consumption) (NN inequality)))))
+              (PP (IN in)
+                (NP (DT the) (NNS 1990s))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ conversely) (NN income) (NN mobility)
+      (CC and)
+      (NN consumption))
+    (ADVP (RB mobility))
+    (VP (VBP are)
+      (ADJP (JJ similar)
+        (PP (IN during)
+          (NP (DT this) (NN time) (NN period)))))
+    (. .)))
+

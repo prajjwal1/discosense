@@ -1,0 +1,21 @@
+(ROOT
+  (S
+    (NP (FW i))
+    (VP (VBP have)
+      (S
+        (VP (TO to)
+          (VP (VB agree)
+            (PP (IN with)
+              (NP (NNS doobious)))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (SBAR (IN although)
+      (FRAG
+        (PP (IN for)
+          (NP
+            (ADJP (RB very) (JJ different))
+            (NNS reasons)))
+        (. .)))))
+

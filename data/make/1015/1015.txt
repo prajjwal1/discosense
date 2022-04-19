@@ -1,0 +1,1 @@
+this view will display different information about the resources of the operating system. for example it can give a list of all processes running on the target.

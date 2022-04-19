@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (NP (NNS rules))
+    (VP (MD can)
+      (VP (VB have)
+        (NP
+          (QP (RB as) (JJ many))
+          (NNS exceptions))
+        (SBAR (IN as)
+          (S
+            (NP (NNS regulations))
+            (VP (VBD promulgated)
+              (PP (IN under)
+                (NP (PRP them))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN as)
+      (NP (DT a) (NN result) (NNS reunions)))
+    (NP (NN magazine) (NNS readers))
+    (VP (MD should)
+      (ADVP (RB always))
+      (VP (VB consult)
+        (NP (JJ competent) (JJ legal) (NN advice))
+        (PP (IN in)
+          (NP (DT the) (NN state)))
+        (SBAR
+          (WHADVP (WRB where))
+          (S
+            (NP (PRP they))
+            (VP (VBP wish)
+              (S
+                (VP (TO to)
+                  (VP (VB incorporate)
+                    (NP
+                      (NP (DT either) (NN type))
+                      (PP (IN of)
+                        (NP (NN organization))))))))))))
+    (. .)))
+

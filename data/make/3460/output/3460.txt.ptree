@@ -1,0 +1,48 @@
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB when))
+      (S
+        (NP (NN ammunition) (NNS stocks))
+        (VP (VBD began)
+          (S
+            (VP (TO to)
+              (VP (VB dwindle)))))))
+    (, ,)
+    (NP (DT the) (VBG surviving) (NNS gunners))
+    (ADVP (RB then))
+    (VP (VBD retreated)
+      (PP (TO to)
+        (NP (DT a) (NN donga))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (PP (VBG interestingly)
+        (PP (IN at)
+          (NP (NN modder) (NN river))))
+      (, ,)
+      (NP (DT the) (JJ royal) (NN artillery))
+      (ADVP (RB actually))
+      (VP (VBD deployed)
+        (NP (PRP$ their) (NNS guns))
+        (ADVP
+          (ADVP (RBR further))
+          (SBAR
+            (ADVP (RB forward))
+            (IN than)
+            (S
+              (VP (VBD was)
+                (NP
+                  (NP (DT the) (NN case))
+                  (PP (IN at)
+                    (NP (NN colenso))))))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBD worked)
+        (ADVP (RB very) (RB well))))
+    (. .)))
+

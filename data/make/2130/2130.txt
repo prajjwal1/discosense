@@ -1,0 +1,1 @@
+it would be as useful as newly minted mbas trying to apply black scholes to fixed income instruments. instead i will make explicit its assumptions and oversights.

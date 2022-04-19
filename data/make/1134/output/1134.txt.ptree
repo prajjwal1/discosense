@@ -1,0 +1,32 @@
+(ROOT
+  (S (CC but)
+    (NP (NN dont))
+    (VP (VBP expect)
+      (S
+        (NP (JJ central) (NNS bankers))
+        (VP (TO to)
+          (VP
+            (ADVP (RB openly))
+            (VB acknowledge)
+            (NP (DT this) (NN change))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB instead))
+    (NP (PRP they))
+    (VP (MD will)
+      (VP (VB talk)
+        (ADVP (RB loudly)
+          (PP (IN about)
+            (NP
+              (NP (DT the) (NNS threats))
+              (PP (IN of)
+                (NP (NN deflation))))))
+        (SBAR (IN while)
+          (S
+            (ADVP (RB quietly))
+            (VP (VBG expanding)
+              (NP (JJ gold) (NNS reserves)))))))
+    (. .)))
+

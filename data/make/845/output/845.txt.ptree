@@ -1,0 +1,55 @@
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB when))
+      (S
+        (NP
+          (NP (DT the) (NN king))
+          (PP (IN of)
+            (NP (DT the) (NNS lamanites))))
+        (VP (VBD handed)
+          (PP (IN over)
+            (NP
+              (NP (DT the) (NNS lands))
+              (PP (IN of)
+                (NP (NN lehi) (NN nephi)
+                  (CC and)
+                  (NN shilom))))))))
+    (, ,)
+    (NP (DT the) (NNS people))
+    (ADVP (RB immediately))
+    (VP (VBD began)
+      (S
+        (VP (TO to)
+          (VP (VB repair)
+            (NP
+              (NP (DT the) (NNS walls))
+              (PP (IN of)
+                (NP (DT the) (NNS cities))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB similarly))
+    (NP (NNS cyrus))
+    (VP (VBD allowed)
+      (NP
+        (NP (DT a) (NN group))
+        (PP (IN of)
+          (NP (NNS exiles))))
+      (S
+        (VP (TO to)
+          (VP (VB return)
+            (S
+              (VP (TO to)
+                (VP (VB jerusalem)
+                  (PP (IN with)
+                    (NP
+                      (NP (NN sheshbazzar))
+                      (, ,)
+                      (NP
+                        (NP (DT a) (NN prince))
+                        (PP (IN of)
+                          (NP (NN judah)))))))))))))
+    (. .)))
+

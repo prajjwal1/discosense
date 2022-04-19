@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (NP (DT the) (CD 2010) (NN college) (NN football) (NN season))
+    (VP (VBD saw)
+      (SBAR
+        (S
+          (NP (JJ many) (NNS schools))
+          (VP (VBP end)
+            (SBAR
+              (S
+                (NP (DT the) (NN year))
+                (VP (VBD ranked)
+                  (PP (IN in)
+                    (NP
+                      (NP (DT the) (NN ap) (NN poll))
+                      (SBAR
+                        (WHNP (WDT that))
+                        (S
+                          (ADVP (RB normally))
+                          (VP (VBP are)
+                            (VP (VBN unranked))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB subsequently))
+    (NP
+      (NP (JJ many) (NN powerhouse) (NNS schools))
+      (PP (JJ such) (IN as)
+        (NP
+          (NP (NNS texas))
+          (, ,)
+          (NP (NN florida) (, ,) (NN usc) (, ,)
+            (CC and)
+            (NN georgia)))))
+    (VP (VBD were)
+      (VP (VBN left)
+        (PRT (RP out))
+        (PP (IN of)
+          (NP (DT the) (JJ final) (NNS polls)))))
+    (. .)))
+

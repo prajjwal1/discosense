@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (NP (PRP she))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (DT the) (NN office))
+          (VP
+            (VP
+              (ADVP (RB now))
+              (VBZ averages)
+              (NP
+                (NP (CD 118) (NNS visitors))
+                (PP (IN per)
+                  (NP (NN day)))))
+            (CC and)
+            (VP (VBD collected)
+              (NP (CD 265,852))
+              (PP (IN in)
+                (NP (NN copy) (NNS fees)))
+              (PP (IN over)
+                (NP (DT the) (JJ past) (NN year))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB because) (IN of)
+      (NP (DT this) (NN activity)))
+    (, ,)
+    (NP (NN martinez))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP
+            (NP (CD one))
+            (PP (IN of)
+              (NP (CD two) (NN copy) (NNS machines))))
+          (VP (VBZ has)
+            (VP (VBN broken)
+              (PRT (RP down)))))))
+    (. .)))
+

@@ -1,0 +1,47 @@
+(ROOT
+  (S
+    (ADVP (RB eventually))
+    (, ,)
+    (S
+      (NP (JJ ill))
+      (ADVP (RB probably))
+      (VP (VB end)
+        (PRT (RP up))
+        (S
+          (VP (VBG getting)
+            (NP (DT a) (NN canon) (NN mp))
+            (X
+              (X
+                (X
+                  (X (SYM e))
+                  (NP
+                    (NP (CD 65) (NN mm))
+                    (NP (CD 1) (CD 5))))
+                (NP (SYM x)))
+              (NP (NN macro) (NN lens)))))))
+    (, ,)
+    (CC and)
+    (S
+      (ADVP (RB then))
+      (NP (PRP$ my) (NN doom))
+      (VP (MD will)
+        (VP (VB be)
+          (ADJP (JJ complete)))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN although)
+      (S
+        (VP (VBP im)
+          (S
+            (VP (VBG thinking)
+              (NP (DT that))
+              (ADVP (RB maybe)))))))
+    (NP (FW i))
+    (VP (MD should)
+      (ADVP (RB just))
+      (VP (VB rent)
+        (NP (CD one))))
+    (. .)))
+

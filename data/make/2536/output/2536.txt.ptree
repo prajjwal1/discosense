@@ -1,0 +1,47 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP
+        (NP (DT the) (NN case))
+        (PP (IN of)
+          (NP (DT a) (NN neck) (NN loop)))))
+    (, ,)
+    (NP
+      (NP (DT the) (JJ narrow) (NN band))
+      (PP (IN of)
+        (NP (NN material))))
+    (VP (VBZ has)
+      (NP
+        (NP (DT a) (JJ detachable) (NN adhesive))
+        (VP (VBN disposed)
+          (PP (IN at)
+            (NP (DT a) (JJ second) (NN end) (RB thereof))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB otherwise))
+    (NP
+      (NP (DT the) (JJ narrow) (NN band))
+      (PP (IN of)
+        (NP (NN material))))
+    (VP (MD may)
+      (VP (VB have)
+        (NP
+          (NP (JJ first)
+            (CC and)
+            (JJ second) (NNS ends))
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (VP (VBP are)
+                (VP (VBN arranged)
+                  (S
+                    (VP (TO to)
+                      (VP (VB be)
+                        (VP (VBN connected)
+                          (ADVP (RB together))
+                          (PP (IN by)
+                            (NP (DT a) (NN catch))))))))))))))
+    (. .)))
+

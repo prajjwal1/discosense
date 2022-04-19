@@ -1,0 +1,59 @@
+(ROOT
+  (S
+    (NP
+      (NP (RB much))
+      (PP (IN of)
+        (NP (DT this) (NN research))))
+    (VP (VBZ has)
+      (VP (VBN focused)
+        (PP (IN on)
+          (S
+            (VP (VBG testing)
+              (NP
+                (NP (NN knowledge))
+                (PP (IN of)
+                  (NP (JJ specific) (NNS details)))
+                (VP (VBN studied))
+                (, ,)
+                (VP (VBG ignoring)
+                  (NP
+                    (NP (DT any) (JJ additional) (, ,)
+                      (ADJP (JJR higher) (NN level))
+                      (NN knowledge))
+                    (SBAR (IN that)
+                      (S
+                        (NP (NNS patients))
+                        (VP (MD may)
+                          (VP (VB have)
+                            (VP (VBN acquired)
+                              (PP (IN during)
+                                (NP (DT the) (NN learning) (NN process))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB hence))
+    (NP (PRP it))
+    (VP (VBZ is)
+      (ADJP (JJ pertinent)
+        (S
+          (VP (TO to)
+            (VP (VB ask)
+              (SBAR (IN whether)
+                (S
+                  (NP
+                    (NP (NNS errorless))
+                    (VP (VBG learning)))
+                  (VP (VBZ is)
+                    (ADJP (RB equally) (JJ successful)
+                      (PP (IN in)
+                        (NP
+                          (NP (DT the) (NN acquisition))
+                          (PP (IN of)
+                            (NP
+                              (ADJP (JJ high)
+                                (CC and)
+                                (JJ low))
+                              (NN level) (NN knowledge))))))))))))))
+    (. .)))
+

@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (NP (JJ real) (NN erodible) (NNS devices))
+    (VP (VBP do) (RB not)
+      (VP (VB decompose)
+        (PP (IN by)
+          (NP (NN simple) (NN surface) (JJ limited) (NNS reactions)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB rather))
+    (NP (DT the) (NN surface)
+      (CC and)
+      (NN bulk))
+    (VP (VBP microstructure)
+      (VP
+        (VP (VB evolve)
+          (PP (IN during)
+            (NP
+              (NP (DT the) (NN course))
+              (PP (IN of)
+                (NP (NN erosion))))))
+        (CC and)
+        (VP (VB alter)
+          (NP
+            (NP (DT the) (NN rate))
+            (SBAR
+              (WHPP (IN at)
+                (WHNP (WDT which)))
+              (S
+                (NP (DT the) (NN drug))
+                (VP (VBZ is)
+                  (VP (VBN delivered)))))))))
+    (. .)))
+

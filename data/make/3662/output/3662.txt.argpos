@@ -1,0 +1,3 @@
+conn:as conn_POS:IN prev1:client prev1_POS:NN with_prev1_full:client_as with_prev1_POS_full:NN_IN prev2:the prev2_POS:DT with_prev2_full:the_as with_prev2_POS_full:DT_IN NA
+conn:or conn_POS:CC prev1:made prev1_POS:VBN with_prev1_full:made_or with_prev1_POS_full:VBN_CC prev2:are prev2_POS:VBP with_prev2_full:are_or with_prev2_POS_full:VBP_CC NA
+conn:conversely conn_POS:RB sent_pos:0 NA

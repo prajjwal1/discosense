@@ -1,0 +1,2 @@
+conn:while conn_POS:IN prev1:, prev1_POS:, with_prev1_full:,_while with_prev1_POS_full:,_IN prev2:1739 prev2_POS:CD with_prev2_full:1739_while with_prev2_POS_full:CD_IN NA
+conn:in_sum conn_POS:IN_NN sent_pos:0 NA

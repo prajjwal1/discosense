@@ -1,0 +1,49 @@
+(ROOT
+  (S
+    (SBAR (IN if)
+      (S
+        (NP (DT an) (NN enterprise))
+        (VP (VBZ establishes)
+          (NP (DT a) (NN data) (NN governance) (NN council)))))
+    (, ,)
+    (NP
+      (NP (DT a) (NN section))
+      (PP (IN of)
+        (NP
+          (NP (DT this) (NN council))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBZ specializes)
+                (PP (IN on)
+                  (NP (NN mdm)))))))))
+    (VP (MD can)
+      (VP (VB play)
+        (NP (DT a) (NN role))
+        (PP (IN on)
+          (NP (DT the) (NN master) (NN data) (NN governance) (NN council)))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (ADVP (RB conversely))
+      (IN if)
+      (S
+        (NP (DT a) (NNS data) (NN governance) (NN council))
+        (VP (VBZ is) (RB not)
+          (VP (VBN established)
+            (PP (IN in)
+              (NP (DT the) (NN enterprise)))))))
+    (, ,)
+    (NP (NN master) (NN data) (NN governance))
+    (VP (MD can)
+      (VP (VB become)
+        (NP
+          (NP (DT a) (NN seed)
+            (CC and)
+            (NN starting) (NN point))
+          (PP (IN for)
+            (NP (DT an) (NN enterprise) (NN data) (NN governance) (NN council))))))
+    (. .)))
+

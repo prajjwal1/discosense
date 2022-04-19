@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (VP (VB speak)
+      (SBAR (RB as) (IN if)
+        (S
+          (VP (VBP youre)
+            (S
+              (VP (VBG projecting)
+                (PP (IN into)
+                  (NP
+                    (NP (DT the) (JJ very) (NN back))
+                    (PP (IN of)
+                      (NP (DT the) (NN room)))))))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (ADVP (RB similarly))
+    (VP (VBP modulate)
+      (NP (PRP$ your) (NN voice))
+      (PP (IN in)
+        (NP (NN volume)
+          (CC and)
+          (NN tempo))))
+    (SBAR (IN as)
+      (S
+        (NP (PRP you))
+        (VP (NN might)
+          (SBAR
+            (WHADVP (WRB when))
+            (S
+              (VP (VBG telling)
+                (NP (DT a) (JJ funny) (NN story))
+                (PP (TO to)
+                  (NP (NNS friends)))))))))
+    (. .)))
+

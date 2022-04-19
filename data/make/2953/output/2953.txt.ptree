@@ -1,0 +1,58 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (JJ inappropriate) (NN diagnosis))
+      (PP (IN of)
+        (NP (NN child) (NN abuse))))
+    (VP (MD could)
+      (VP
+        (VP (VB occur))
+        (, ,)
+        (NP
+          (NP
+            (QP (CD 8) (CD 10)))
+          (VP
+            (ADVP (RB potentially))
+            (VBG resulting)
+            (PP (IN in)
+              (NP
+                (NP (DT the) (NN removal))
+                (PP (IN of)
+                  (NP
+                    (NP
+                      (NP (DT a) (NN child))
+                      (PP (IN from)
+                        (NP (DT a)
+                          (NX
+                            (NX (NN home))
+                            (CC and)))))
+                    (CC or)
+                    (NP
+                      (NP (DT the) (JJ potential) (NN prosecution))
+                      (PP (IN of)
+                        (NP (DT an) (JJ innocent) (NN person))))))))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (ADVP (RB conversely))
+    (VP (VBG attributing)
+      (NP (DT an) (JJ abusive) (NN injury))
+      (PP (TO to)
+        (NP
+          (NP (JJ medical) (NNS causes))
+          (CC or)
+          (NP (JJ accidental) (NN injury)))))
+    (VP (VBZ puts))
+    (NP
+      (NP (DT a) (NN child))
+      (PP (IN at)
+        (NP
+          (NP (NN risk))
+          (PP (IN for)
+            (NP
+              (NP (JJ future) (NN abuse))
+              (CC and)
+              (NP (JJ possible) (NN death)))))))
+    (. .)))
+

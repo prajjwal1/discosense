@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (NP (DT the) (NNS dogs) (NNS owners))
+    (VP (VBP are)
+      (VP (VBG following)
+        (NP (JJ anonymous) (NNS tips))
+        (SBAR (IN that)
+          (S
+            (NP (PRP$ their) (NN puppy))
+            (VP (VBZ is)
+              (PP (IN with)
+                (NP
+                  (NP (PDT such) (DT a) (NN family))
+                  (, ,)
+                  (NP (CD one))))
+              (SBAR (IN that)
+                (S
+                  (NP (NN doesnt))
+                  (VP (VBP want)
+                    (S
+                      (VP (TO to)
+                        (VP (VB give)
+                          (NP (DT the) (NN dog))
+                          (ADVP (RB back)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB however))
+    (NP (PRP they))
+    (VP (VBP havent)
+      (VP (VBN been)
+        (ADJP (JJ able)
+          (S
+            (VP (TO to)
+              (VP (VB confirm)
+                (NP (PRP it))))))))
+    (. .)))
+

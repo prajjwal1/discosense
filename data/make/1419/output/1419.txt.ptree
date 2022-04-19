@@ -1,0 +1,51 @@
+(ROOT
+  (S
+    (NP (DT a) (JJ recent) (NN study))
+    (VP (VBD found)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (JJ needy) (NNS children))
+            (SBAR
+              (WHNP (WP who))
+              (S
+                (VP (VBD received)
+                  (NP (NN food) (NN assistance))
+                  (PP (IN before)
+                    (NP (NN age) (CD five)))))))
+          (VP (VBD were)
+            (PP (IN in)
+              (NP
+                (NP (JJR better) (NN health))
+                (PP (IN as)
+                  (NP (NNS adults)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB specifically))
+    (NP (DT the) (NNS girls))
+    (VP (VBD studied)
+      (SBAR
+        (S
+          (VP
+            (VP (VBD were)
+              (ADJP (RBR more) (JJ likely)
+                (S
+                  (VP (TO to)
+                    (VP (VB complete)
+                      (NP (JJR more) (NN schooling)))))))
+            (, ,)
+            (VP (VBP earn)
+              (NP (JJR more) (NN money)))
+            (, ,)
+            (CC and)
+            (RB not)
+            (VP (VBP rely)
+              (PP (IN on)
+                (NP
+                  (NP (NN safety) (NN net) (NNS programs))
+                  (PP (IN as)
+                    (NP (NNS adults))))))))))
+    (. .)))
+

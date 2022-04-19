@@ -1,0 +1,55 @@
+(ROOT
+  (S
+    (ADVP (RB however))
+    (, ,)
+    (NP
+      (NP (DT this) (NN type))
+      (PP (IN of)
+        (NP (NN constipation))))
+    (VP (MD should)
+      (VP (VB be)
+        (VP (VBN differentiated)
+          (PP (IN by)
+            (NP
+              (NP (JJ colonic) (JJ slow) (NN transit) (NN constipation))
+              (SBAR
+                (WHNP (WDT which))
+                (S
+                  (PRN (, ,)
+                    (SBAR (IN if)
+                      (FRAG
+                        (ADJP (JJ coexists))))
+                    (, ,))
+                  (VP (MD should)
+                    (VP (VB be)
+                      (VP (VBN managed)
+                        (PP (TO to)
+                          (NP (DT a) (JJ second) (NN time)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thereby))
+    (NP (JJ constipated) (NNS patients))
+    (VP (MD can)
+      (VP (VB be)
+        (VP (VBN given)
+          (NP (JJ appropriate) (NN treatment))
+          (SBAR (IN for)
+            (S
+              (NP
+                (NP (PRP$ their) (NN problem))
+                (, ,)
+                (SBAR
+                  (WHNP (WDT which))
+                  (S
+                    (VP (MD may)
+                      (VP (VB be)
+                        (ADJP (JJ conservative))))))
+                (, ,))
+              (VP (VBP biofeedback)
+                (NP (NN training)
+                  (CC or)
+                  (NN surgery))))))))
+    (. .)))
+

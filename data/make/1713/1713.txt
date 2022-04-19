@@ -1,0 +1,1 @@
+in one implementation, each entry in the table 400 is preferably initialized with a default value, such as 1, when a row is created for a given file. thereafter if one or more attributes of the associated file are modified, the then current attribute value can be recorded before being modified.

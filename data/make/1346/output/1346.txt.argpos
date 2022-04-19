@@ -1,0 +1,3 @@
+conn:as conn_POS:IN sent_pos:0 NA
+conn:on_the_contrary conn_POS:IN_DT_NN sent_pos:0 NA
+conn:and conn_POS:CC prev1:food prev1_POS:NN with_prev1_full:food_and with_prev1_POS_full:NN_CC prev2:my prev2_POS:PRP$ with_prev2_full:my_and with_prev2_POS_full:PRP$_CC NA

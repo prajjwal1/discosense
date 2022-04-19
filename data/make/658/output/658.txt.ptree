@@ -1,0 +1,38 @@
+(ROOT
+  (S
+    (NP (NNS obituaries))
+    (VP (VBP act)
+      (PP (IN as)
+        (NP
+          (NP (JJ quiet) (NNS reminders))
+          (PP (IN of)
+            (NP
+              (NP (DT the) (JJ finite) (NN nature))
+              (PP (IN of)
+                (NP (PRP$ our) (NNS lives))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB yet)
+      (PP (IN for)
+        (NP
+          (NP (DT those))
+          (SBAR
+            (WHNP (WP who))
+            (S
+              (VP (VBP have)
+                (ADVP (RB recently))
+                (VP (VBN experienced)
+                  (NP
+                    (NP (DT the) (NN death))
+                    (PP (IN of)
+                      (NP (DT a) (NN family) (NN member)
+                        (CC or)
+                        (NN friend)))))))))))
+    (, ,)
+    (NP (DT an) (NN obituary))
+    (VP (VBZ means)
+      (ADJP (RB so) (RB much) (JJR more)))
+    (. .)))
+

@@ -1,0 +1,65 @@
+(ROOT
+  (S
+    (NP (PRP we))
+    (VP (VBP think)
+      (SBAR
+        (S
+          (NP (DT this))
+          (VP (VBZ sounds)
+            (PP (IN like)
+              (NP
+                (NP (DT a)
+                  (ADJP (RB pretty) (JJ good))
+                  (NN set))
+                (PP (IN of)
+                  (NP (NNS foods)))
+                (SBAR
+                  (S
+                    (NP (PRP you))
+                    (VP (VBP dont)
+                      (VP (VB have)
+                        (S
+                          (VP (TO to)
+                            (VP (VB eat)
+                              (NP (NN steak))
+                              (NP (DT every) (NN night)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN although)
+      (S
+        (SBAR (IN if)
+          (S
+            (NP (PRP you))
+            (VP (VBP do)
+              (SBAR
+                (S
+                  (VP (VBP want)
+                    (S
+                      (VP (TO to)
+                        (VP (VB eat)
+                          (NP (NN steak)))))))))))
+        (, ,)
+        (NP (DT a) (JJ good) (NN pasture))
+        (VP (VBD raised)
+          (SBAR
+            (S
+              (NP (NN steak))
+              (VP (VBZ is)
+                (NP (DT an)
+                  (ADJP (RB extremely) (JJ fast)
+                    (CC and)
+                    (JJ easy))
+                  (NN meal))))))))
+    (VP (VBP try)
+      (NP
+        (NP (DT this) (NN method))
+        (PP (IN of)
+          (S
+            (VP (VBG cooking)
+              (NP (PRP it))
+              (PP (IN in)
+                (NP (DT the) (NN oven))))))))
+    (. .)))
+

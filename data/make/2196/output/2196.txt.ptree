@@ -1,0 +1,48 @@
+(ROOT
+  (S
+    (NP (PRP it))
+    (VP (VBZ does) (RB not)
+      (VP (VB say)
+        (SBAR (IN that)
+          (S
+            (NP
+              (NP (DT a) (NN court))
+              (PP (IN of)
+                (NP (NNS appeals))))
+            (VP (MD may)
+              (VP (VB consider)
+                (NP
+                  (NP (NN anerror))
+                  (SBAR
+                    (WHNP (WDT that))
+                    (S
+                      (VP (VBD was)
+                        (NP
+                          (NP (JJ plain) (NN language))
+                          (SBAR
+                            (WHNP (WDT that))
+                            (S
+                              (VP (MD would)
+                                (VP (VB look)
+                                  (PP (TO to)
+                                    (NP (DT the) (NN past))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB rather))
+    (NP (PRP it))
+    (VP
+      (ADVP (RB simply))
+      (VBZ says)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (DT a) (NN court))
+            (PP (IN of)
+              (NP (NNS appeals))))
+          (VP (MD may)
+            (VP (VB consider)
+              (NP (JJ plain) (NN error)))))))
+    (. .)))
+

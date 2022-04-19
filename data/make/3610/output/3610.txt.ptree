@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (CD 1994)))
+    (, ,)
+    (NP (DT the) (NN russian) (NN federation))
+    (VP (VBD had)
+      (NP (CD 39,703) (NN diphtheria) (NNS cases)))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN by)
+      (NP
+        (NP (NN contrast))
+        (PP (IN in)
+          (NP (CD 1990)))))
+    (, ,)
+    (NP
+      (QP (RB only) (CD 1,211))
+      (NNS cases))
+    (VP (VBD were)
+      (VP (VBN reported)))
+    (. .)))
+

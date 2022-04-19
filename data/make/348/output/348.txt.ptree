@@ -1,0 +1,45 @@
+(ROOT
+  (S
+    (NP
+      (NP (JJ electronic) (NNS boards))
+      (VP (VBG jutting)
+        (PRT (RP out))
+        (PP (IN at)
+          (NP
+            (NP (CD 90) (NN degree) (NNS angles))
+            (CC and)
+            (NP
+              (NP (NNS architectures))
+              (PP (IN of)
+                (NP (JJ twisted) (NN wire))))))))
+    (VP (VBP are)
+      (ADVP (RB widely))
+      (VP (VBN used) (, ,)
+        (ADVP (RB as)
+          (PP (IN in)
+            (NP (NN cinema)
+              (CC and)
+              (NN design))))
+        (, ,)
+        (S
+          (VP (TO to)
+            (VP (VB represent)
+              (NP (JJ technical) (NNS substances)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN by)
+      (NP (NN contrast)))
+    (NP (DT the) (NN way) (NNS data))
+    (VP (VBZ is)
+      (VP (VBN presented)
+        (PP (IN on)
+          (NP
+            (NP (DT a) (JJ hard) (NN drive))
+            (SBAR
+              (S
+                (VP (VBZ is) (RB not)
+                  (NP (JJ human) (NN readable)))))))))
+    (. .)))
+

@@ -1,0 +1,47 @@
+(ROOT
+  (S
+    (NP
+      (NP (JJS most))
+      (PP (IN of)
+        (NP (DT the) (NN precipitation))))
+    (VP (VBZ comes)
+      (PP
+        (PP (IN from)
+          (NP
+            (NP (NNS thunderstorms))
+            (, ,)
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (VP (MD can)
+                  (VP (VB be)
+                    (ADJP (JJ severe))))))
+            (, ,)))
+        (CC and)
+        (PP (IN from)
+          (NP
+            (NP (JJ major) (NNS snowstorms))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (VBP occur)
+                  (PP (IN in)
+                    (NP
+                      (NP (DT the) (NN winter))
+                      (CC and)
+                      (NP (JJ early) (NN spring)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB otherwise))
+    (NP (NNS winters))
+    (VP (VBP tend)
+      (S
+        (VP (TO to)
+          (VP (VB be)
+            (ADJP (RB mostly) (JJ dry)
+              (CC and)
+              (JJ cold))))))
+    (. .)))
+

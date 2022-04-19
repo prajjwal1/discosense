@@ -1,0 +1,50 @@
+(ROOT
+  (S
+    (NP (PRP it))
+    (VP (VBZ attempts)
+      (S
+        (VP (TO to)
+          (VP (VB prove)
+            (SBAR (IN that) (, ,)
+              (S
+                (SBAR (IN if)
+                  (S
+                    (NP (DT the) (NN object) (NN language))
+                    (VP (VBZ contains)
+                      (NP (DT the) (JJ appropriate) (JJ numerical) (NNS expressions)))))
+                (, ,)
+                (NP (DT the) (JJ resulting) (NN grammar))
+                (VP (MD will)
+                  (VP (VB include)
+                    (NP
+                      (QP (IN at) (JJS least) (DT some))
+                      (NNS rules))
+                    (PP (IN with)
+                      (NP (DT a) (JJ natural) (JJ mathematical) (NN interpretation)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (ADJP (JJ particular)))
+    (NP (PRP it))
+    (VP (VBZ tries)
+      (S
+        (VP (TO to)
+          (VP (VB show)
+            (SBAR (IN that)
+              (S
+                (NP
+                  (NP (JJ wittgensteins) (JJ grammatical) (NN analysis))
+                  (PP (IN of)
+                    (NP
+                      (NP (DT the) (JJ ordinary) (NN use))
+                      (PP (IN of)
+                        (NP (JJ numerical) (NNS expressions))))))
+                (VP (VBZ yields)
+                  (NP
+                    (NP (JJ familiar) (NNS theorems))
+                    (PP (IN of)
+                      (NP (NN arithmetic)))))))))))
+    (. .)))
+

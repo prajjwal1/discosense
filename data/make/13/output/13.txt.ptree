@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (ADVP (RB thus))
+    (, ,)
+    (NP (DT a) (NN design) (NN win))
+    (VP (MD may)
+      (VP (VB result)
+        (PP (IN in)
+          (NP
+            (NP (DT an) (JJ extended) (NN period))
+            (PP (IN of)
+              (NP (NN revenue) (NN generation)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (ADVP (RB conversely))
+        (DT a) (NN design) (NN loss))
+      (PP (TO to)
+        (NP (PRP$ our) (NNS competitors))))
+    (, ,)
+    (VP (MD may)
+      (ADVP (RB adversely))
+      (VP (VB impact)
+        (NP (PRP$ our) (JJ financial) (NNS results))
+        (PP (IN for)
+          (NP
+            (NP (DT an) (JJ extended) (NN period))
+            (PP (IN of)
+              (NP (NN time)))))))
+    (. .)))
+

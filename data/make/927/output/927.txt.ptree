@@ -1,0 +1,56 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (ADJP (JJ particular)))
+    (, ,)
+    (NP (NN network) (NN equipment) (NNS 108))
+    (VP (VBZ provides)
+      (NP
+        (NP (NN video))
+        (PP (IN from)
+          (NP
+            (NP (JJ video) (NN communication))
+            (UCP
+              (NP (NN device) (CD 12))
+              (CC and)
+              (ADJP (RB pip) (JJ content)
+                (PP (IN from)
+                  (NP (NN pip) (NN server) (CD 106))))))))
+      (PP (TO to)
+        (NP
+          (NP
+            (NP (JJ video) (NN communication) (NN device))
+            (NP (CD 14)))
+          (, ,)
+          (ADVP (IN along)
+            (PP (IN with)
+              (NP (NN pip) (NN information)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB similarly))
+    (NP (NN network) (NN equipment) (NNS 108))
+    (VP (VBZ provides)
+      (NP
+        (NP (NN video))
+        (PP (IN from)
+          (NP
+            (NP (JJ video) (NN communication))
+            (UCP
+              (NP (NN device) (CD 14))
+              (CC and)
+              (ADJP (RB pip) (JJ content)
+                (PP (IN from)
+                  (NP (NN pip) (NN server) (CD 106))))))))
+      (PP (TO to)
+        (NP
+          (NP
+            (NP (JJ video) (NN communication) (NN device))
+            (NP (CD 12)))
+          (, ,)
+          (ADVP (IN along)
+            (PP (IN with)
+              (NP (NN pip) (NN information)))))))
+    (. .)))
+

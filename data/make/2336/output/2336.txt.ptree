@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (ADVP (RB however))
+    (, ,)
+    (SBAR (IN if)
+      (S
+        (NP (DT the) (JJ various) (NN source) (NN code) (NNS modules))
+        (VP (VBP are)
+          (VP
+            (VP (VBN instrumented))
+            (CC and)
+            (VP (VBN compiled)
+              (NP (JJ atdifferent) (NNS times)))))))
+    (, ,)
+    (ADVP (RB then))
+    (NP (DT a) (NN problem))
+    (VP (VBZ occurs))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (ADJP (JJ particular)))
+    (NP (DT the) (NN instrumenter))
+    (VP (MD may)
+      (VP (VB assign)
+        (NP (DT the) (JJ same) (NN tagging) (NN value))
+        (PP (IN at)
+          (NP (CD two) (JJ different) (VBG tagging) (NNS points)))))
+    (. .)))
+

@@ -1,0 +1,61 @@
+(ROOT
+  (S
+    (S
+      (VP (VBG using)
+        (NP (NN canadian) (NNS data))
+        (PP (IN on)
+          (NP
+            (NP (JJ large) (, ,) (JJ private) (NN sector) (NN contract) (NNS negotiations))
+            (PP (IN from)
+              (NP (JJ january) (CD 1967)))))
+        (S
+          (VP (TO to)
+            (VP (VB march)
+              (NP (CD 1993)))))))
+    (, ,)
+    (NP (PRP we))
+    (VP (VBP find)
+      (SBAR (IN that)
+        (S
+          (NP (NNS wages)
+            (CC and)
+            (NNS strikes))
+          (VP (VBP are)
+            (ADVP (RB substantially))
+            (VP (VBN influenced)
+              (PP (IN by)
+                (NP (NN labor) (NN policy))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (ADJP (JJ particular)))
+    (NP (PRP we))
+    (VP (VBP find)
+      (SBAR (IN that)
+        (S
+          (S
+            (VP (VBG prohibiting)
+              (NP
+                (NP (DT the) (NN use))
+                (PP (IN of)
+                  (NP (NN replacement) (NNS workers))))
+              (PP (IN during)
+                (NP (NNS strikes)))))
+          (VP (VBZ is)
+            (VP (VBN associated)
+              (NP
+                (UCP
+                  (PP (IN with)
+                    (NP
+                      (ADJP (RB significantly) (JJR higher))
+                      (NNS wages)))
+                  (, ,)
+                  (CC and)
+                  (ADJP (RBR more) (JJ frequent))
+                  (CC and)
+                  (ADVP (JJR longer)))
+                (NNS strikes)))))))
+    (. .)))
+

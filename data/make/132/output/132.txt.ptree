@@ -1,0 +1,54 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (JJ scientific) (NN framework))
+      (PP (IN for)
+        (NP
+          (NP (JJ nanocomposite) (JJ magnetic) (NNS materials))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBP make)
+                (S
+                  (NP (JJ high) (NN frequency) (NNS components))
+                  (ADJP (JJ possible)))))))))
+    (VP (MD will)
+      (VP (VB be)
+        (VP (VBN presented)
+          (PP (IN in)
+            (NP
+              (NP (NNS terms))
+              (PP (IN of)
+                (NP
+                  (NP (DT the) (NNS materials) (NN paradigm))
+                  (PP (IN of)
+                    (NP (JJ synthesis) (NN structure) (NNS properties) (NN performance))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (UCP
+        (PP (IN in)
+          (NP
+            (NP (JJ particular) (NN novel) (NN processing))
+            (CC and)
+            (NP
+              (NP (DT the) (NN control))
+              (PP (IN of)
+                (NP (NN phase) (NNS transformations))))))
+        (CC and)
+        (ADVP (RB ultimately)))
+      (NNS nanostructures))
+    (VP (VBZ has)
+      (VP (VBN relied)
+        (PP (IN on)
+          (NP (DT the) (NN ability)))
+        (S
+          (VP (TO to)
+            (VP (VB probe)
+              (NP (NNS structures))
+              (PP (IN on)
+                (NP (DT a) (NN nanoscale))))))))
+    (. .)))
+

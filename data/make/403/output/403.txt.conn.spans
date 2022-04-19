@@ -1,0 +1,4 @@
+0..2 0 if 403.txt 0
+77..86 1 otherwise 403.txt 0
+117..120 1 and 403.txt 0
+157..160 1 for 403.txt 0

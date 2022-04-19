@@ -1,0 +1,18 @@
+nsubj(thing-8, that-1)
+cop(thing-8, was-2)
+det(thing-8, an-3)
+advmod(fair-5, absolutely-4)
+amod(thing-8, fair-5)
+conj_and(fair-5, sensible-7)
+amod(thing-8, sensible-7)
+root(ROOT-0, thing-8)
+aux(say-10, to-9)
+vmod(thing-8, say-10)
+
+advmod(hed-2, otherwise-1)
+root(ROOT-0, hed-2)
+aux(misrepresenting-4, be-3)
+dep(hed-2, misrepresenting-4)
+nsubj(intent-6, apples-5)
+xcomp(misrepresenting-4, intent-6)
+

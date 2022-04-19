@@ -1,0 +1,1 @@
+emsra will calculate protection limits that are too conservative. in other words it will reserve too many seats for the higher fares, thereby rejecting too many low fare bookings.

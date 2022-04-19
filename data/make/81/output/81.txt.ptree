@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (NP (DT the) (JJ first))
+    (VP (VBZ is)
+      (SBAR (IN that)
+        (S
+          (NP (DT the) (JJ current) (NN account) (NN surplus))
+          (VP (MD should) (RB not)
+            (VP (VB be)
+              (VP (VBN seen)
+                (PP (IN as)
+                  (NP
+                    (NP (DT a) (NN mark))
+                    (PP (IN of)
+                      (NP (NN success)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB rather))
+    (NP (PRP it))
+    (VP (VBD was)
+      (NP
+        (NP (DT a) (NN precondition))
+        (PP (IN for)
+          (NP (PRP it)))))
+    (. .)))
+

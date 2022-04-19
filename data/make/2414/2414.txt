@@ -1,0 +1,1 @@
+following this rule, you could not enter person objects directly below an organization object class. similarly a structure rule might disallow you from placing an organizational unit object below a person object.

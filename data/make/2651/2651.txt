@@ -1,0 +1,1 @@
+this can cause significant slowdown in the performance of the individual query. in sum the oracle database administrator will always try changing the optimizer mode for queries as the very first step in oracle tuning.

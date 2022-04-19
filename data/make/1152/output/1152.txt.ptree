@@ -1,0 +1,21 @@
+(ROOT
+  (S
+    (NP (NN clough))
+    (VP (MD would)
+      (VP (VB return)
+        (S
+          (VP (TO to)
+            (VP (VB europe)
+              (CC and)
+              (VB win)
+              (NP (DT that) (JJ final)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB though))
+    (VP (VB unfortunately)
+      (PP (RB not) (IN with)
+        (NP (DT the) (NNS rams))))
+    (. .)))
+

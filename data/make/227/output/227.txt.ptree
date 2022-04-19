@@ -1,0 +1,55 @@
+(ROOT
+  (S
+    (NP (NNS computers) (NNS systems))
+    (VP (VBP have)
+      (VP (VBN been)
+        (VP (VBN developed)
+          (SBAR (IN that)
+            (S
+              (VP (MD can)
+                (ADVP (RB automatically))
+                (VP (VB flag)
+                  (CC and)
+                  (VB react)
+                  (PP (TO to)
+                    (NP (JJ suspicious) (NNS transactions)))
+                  (, ,)
+                  (S
+                    (VP
+                      (VP (VBG enabling)
+                        (NP (NNS authorities))
+                        (PP (TO to)
+                          (NP
+                            (NP (JJR better) (NN shield) (NNS people)
+                              (CC and)
+                              (NNS markets))
+                            (PP (IN from)
+                              (NP (NNS abuses))))))
+                      (, ,)
+                      (VP (VBG ranging)
+                        (PP (IN from)
+                          (NP (JJ petty) (NN fraud)))
+                        (PP (TO to)
+                          (NP (NN terrorism)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN sum)))
+    (NP (DT these) (JJ new) (NNS technologies))
+    (VP (VBP offer)
+      (S
+        (NP (JJ great) (NNS opportunities))
+        (VP (TO to)
+          (VP (VB improve)
+            (CC and)
+            (VB protect)
+            (NP
+              (NP (DT the) (NNS lives))
+              (PP (IN of)
+                (NP
+                  (NP (NNS people))
+                  (ADVP (RB everywhere)))))))))
+    (. .)))
+

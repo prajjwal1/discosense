@@ -1,0 +1,32 @@
+(ROOT
+  (S (IN so)
+    (NP (FW i))
+    (VP (VBP hope)
+      (SBAR
+        (S
+          (NP (DT this))
+          (VP (VBZ answers)
+            (NP (PRP$ your) (NNS questions))
+            (ADVP
+              (ADVP (RBR more) (RB fully))
+              (PP (IN about)
+                (NP (DT the) (JJ back) (NN sleeping))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN sum)))
+    (NP (FW i))
+    (VP (VBP sleep)
+      (PP (IN on)
+        (NP (PRP$ my) (NN back)))
+      (SBAR (IN because)
+        (S
+          (NP (FW i))
+          (VP (VBP feel)
+            (ADJP (RB completely) (JJ safe)
+              (CC and)
+              (JJ secure))))))
+    (. .)))
+

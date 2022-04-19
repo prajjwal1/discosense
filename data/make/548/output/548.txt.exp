@@ -1,0 +1,3 @@
+conn_lc:however conn:however conn_POS:RB xxx£
+conn_lc:since conn:since conn_POS:IN with_prev_full:however_since xxx£
+conn_lc:also conn:also conn_POS:RB with_prev_full:pune_also xxx£

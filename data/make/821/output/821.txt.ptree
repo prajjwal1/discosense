@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (NP (PRP$ my) (NN grandfather))
+    (ADVP (RB never))
+    (VP (VBD respected)
+      (NP
+        (NP (DT the) (NN power))
+        (SBAR
+          (S
+            (NP (JJ beautiful) (NNS women))
+            (VP (VBD held))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB because) (IN of)
+      (NP (DT this) (NN disrespect)))
+    (, ,)
+    (NP (PRP$ my) (NN family))
+    (VP (VBZ has)
+      (VP (VBN had)
+        (S
+          (VP (TO to)
+            (VP (VB bare)
+              (NP
+                (NP (DT the) (NN curse))
+                (PP (IN of)
+                  (NP (PRP$ his) (NN ignorance))))
+              (PP (IN through)
+                (NP (DT the) (NNS ages))))))))
+    (. .)))
+

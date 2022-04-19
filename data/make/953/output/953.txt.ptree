@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (VP (MD would)
+      (VP (VB love)
+        (S
+          (VP (TO to)
+            (VP
+              (VP (VB get)
+                (NP (PRP$ my) (NNS hands))
+                (PP (IN on)
+                  (NP (DT another) (NN one))))
+              (CC and)
+              (VP (VB put)
+                (S
+                  (NP (PRP them))
+                  (VP (VB side)
+                    (PP (IN by)
+                      (NP (NN side)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ overall) (NNS i))
+    (VP (MD would)
+      (VP (VB say)
+        (NP
+          (NP (DT the) (NN pt))
+          (SBAR
+            (S
+              (NP (CD 1911))
+              (VP (VBZ is)
+                (NP
+                  (NP (DT a)
+                    (ADJP (RB very) (JJ good))
+                    (NN buy))
+                  (PP (IN for)
+                    (NP (DT the) (NN money))))))))))
+    (. .)))
+

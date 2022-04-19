@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (NP (PRP he))
+    (VP
+      (VP (VBZ versifies)
+        (NP (PRP them)))
+      (CC and)
+      (VP (VBZ gives)
+        (NP (PRP them))
+        (NP
+          (NP (DT the) (NN color))
+          (PP (IN of)
+            (NP
+              (NP (JJ mystical) (NN wisdom))
+              (CC and)
+              (NP (DT the) (JJ mystical) (NN path)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (ADJP (JJ short)))
+    (NP (PRP he))
+    (VP
+      (VP (VBZ has)
+        (VP (VBN put)
+          (NP
+            (NP (NN salt))
+            (PP (IN in)
+              (NP (JJ sweet) (NN rice) (NN pudding))))))
+      (CC and)
+      (VP (VBD turned)
+        (NP (NN sufism))
+        (PP (IN into)
+          (NP (NN frivolity)))))
+    (. .)))
+

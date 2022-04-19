@@ -1,0 +1,4 @@
+conn:but conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_but with_prev1_POS_full:,_CC prev2:all prev2_POS:DT with_prev2_full:all_but with_prev2_POS_full:DT_CC NA
+conn:if conn_POS:IN prev1:wonder prev1_POS:VBP with_prev1_full:wonder_if with_prev1_POS_full:VBP_IN prev2:i prev2_POS:FW with_prev2_full:i_if with_prev2_POS_full:FW_IN NA
+conn:on_the_other_hand conn_POS:IN_DT_JJ_NN sent_pos:0 NA
+conn:but conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_but with_prev1_POS_full:,_CC prev2:worse prev2_POS:RBR with_prev2_full:worse_but with_prev2_POS_full:RBR_CC NA

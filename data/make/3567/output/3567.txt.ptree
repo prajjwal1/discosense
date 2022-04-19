@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (S
+      (SBAR (IN if)
+        (S
+          (NP
+            (NP (DT all))
+            (PP (IN of)
+              (NP (DT the) (JJ other) (NNS contestants))))
+          (VP (VBP have)
+            (VP (VBN chosen)
+              (ADVP (RB correctly))))))
+      (, ,)
+      (NP (PRP they))
+      (VP (VBD split)
+        (NP (DT the) (NN pot))
+        (ADVP (RB equally))))
+    (CC and)
+    (S
+      (NP (DT the) (NN pretender))
+      (VP (VBZ wins)
+        (NP (NN nothing))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB otherwise))
+    (NP (DT the) (NN pretender))
+    (VP (VBZ wins)
+      (NP (DT the) (JJ entire) (NN pot)))
+    (. .)))
+

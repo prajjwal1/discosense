@@ -1,0 +1,38 @@
+(ROOT
+  (S
+    (PP (IN by)
+      (S
+        (VP (VBG tailoring)
+          (NP
+            (NP (DT the) (VBN packaged) (NN tag))
+            (CC and)
+            (NP (NNS electronics)
+              (S
+                (VP (TO to)
+                  (VP (VB accommodate)
+                    (NP (JJ existing) (NN ordnance) (NN body) (NNS cavities))))))))))
+    (NP
+      (NP (DT the) (NN integrity))
+      (PP (IN of)
+        (NP (DT the) (NN bomb) (NN casing))))
+    (VP (VBZ is)
+      (VP (VBN maintained)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB likewise))
+    (NP (NN fin) (NNS assemblies))
+    (ADVP (RB also))
+    (VP
+      (VP (VBP remain)
+        (ADJP (JJ intact)))
+      (CC and)
+      (VP (VBP are)
+        (VP (VBN mounted)
+          (PP (IN in)
+            (NP (DT a) (JJ conventional) (NN manner)))
+          (PP (TO to)
+            (NP (DT the) (JJ tagged) (NN ordnance))))))
+    (. .)))
+

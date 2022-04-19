@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (JJ civilian) (NNS governments) (NN prosecution))
+      (PP (IN of)
+        (NP (JJ military) (NNS leaders))))
+    (VP (VBD caused)
+      (NP
+        (NP (JJ great) (NN tension))
+        (PP (IN between)
+          (NP
+            (NP (DT the) (NN government))
+            (CC and)
+            (NP (DT the) (VBN armed) (NNS forces))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN as)
+      (NP (DT a) (NN result)))
+    (NP (EX there))
+    (VP (VBP have)
+      (VP (VBN been)
+        (NP
+          (NP (CD three) (JJ military) (NNS mutinies))
+          (PP (IN since)
+            (NP
+              (NP (JJ civilian) (NN control))
+              (VP (VBN returned)
+                (PP (TO to)
+                  (NP
+                    (NP (NN argentina))
+                    (PP (IN in)
+                      (NP (CD 19)))))))))))
+    (. .)))
+

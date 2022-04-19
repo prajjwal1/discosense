@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (NP (JJ gravitational) (NNS waves))
+    (VP (VBP propagate)
+      (ADVP (RB freely))
+      (PP (TO to)
+        (NP (PRP us)))
+      (PP (IN from)
+        (NP
+          (NP (JJS earliest) (NNS times))
+          (, ,)
+          (VP (VBN unimpeded)
+            (PP (IN by)
+              (NP (DT any) (JJ intervening) (NN material)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN by)
+      (NP (NN contrast)))
+    (NP (NN light))
+    (VP (VBZ is)
+      (VP (VBN scattered)
+        (NP (JJ many) (NNS times))
+        (PP (IN by)
+          (NP (JJ free) (NNS electrons)))))
+    (. .)))
+

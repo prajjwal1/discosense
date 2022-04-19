@@ -1,0 +1,58 @@
+(ROOT
+  (S
+    (NP (DT the) (NN point))
+    (VP
+      (VP (VBZ is))
+      (, ,)
+      (NP (PRP$ its)
+        (ADJP (RB almost) (JJ impossible)
+          (S
+            (VP (TO to)
+              (VP
+                (ADVP (RB realistically))
+                (VB assess)
+                (NP
+                  (NP (DT a) (NN change))
+                  (PP (IN in)
+                    (NP (NN battery) (NN life))))
+                (SBAR (IN if)
+                  (S
+                    (NP (NN youve))
+                    (ADVP (RB also))
+                    (VP (VBD changed)
+                      (NP (PRP$ your) (NN usage)))))))))
+        (NN pattern)))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP
+        (NP (JJ other) (NNS words))
+        (SBAR (IN if)
+          (S
+            (NP (JJ youre) (NN battery))
+            (VP (VBZ feels)
+              (PP (IN like)
+                (NP (PRP$ its) (JJ only) (JJ lasting) (NN half)))
+              (ADVP (RB as) (RB long)))))))
+    (, ,)
+    (NP
+      (NP (DT the) (JJ first) (NN step))
+      (PP (TO to)
+        (S
+          (VP (VBG fixing)
+            (NP (PRP it))))))
+    (VP (VBZ is)
+      (VP (VBG figuring)
+        (PRT (RP out))
+        (SBAR (IN if)
+          (S
+            (VP (VBP youre)
+              (S
+                (VP (VBG using)
+                  (NP (PRP it))
+                  (ADVP (RB twice) (RB as) (RB much))
+                  (ADVP (RB first)))))))))
+    (. .)))
+

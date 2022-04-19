@@ -1,0 +1,2 @@
+conn:for_instance conn_POS:IN_NN prev1:, prev1_POS:, with_prev1_full:,_for_instance with_prev1_POS_full:,_IN_NN prev2:prequels prev2_POS:NNS with_prev2_full:prequels_for_instance with_prev2_POS_full:NNS_IN_NN NA
+conn:as_a_result conn_POS:IN_DT_NN sent_pos:0 NA

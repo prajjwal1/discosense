@@ -1,0 +1,1 @@
+conn:and conn_POS:CC prev1:rude prev1_POS:JJ with_prev1_full:rude_and with_prev1_POS_full:JJ_CC prev2:being prev2_POS:VBG with_prev2_full:being_and with_prev2_POS_full:VBG_CC NA

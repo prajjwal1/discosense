@@ -1,0 +1,56 @@
+(ROOT
+  (S
+    (NP (PRP he))
+    (ADVP (RB subsequently))
+    (VP (VBD discovered)
+      (PP (IN from)
+        (NP (PRP$ his) (NN pay) (NN check)))
+      (SBAR (IN that)
+        (S
+          (NP (PRP$ his) (NN supervisor))
+          (VP (VBD had)
+            (VP (VBN charged)
+              (NP (PRP him))
+              (PP (IN with)
+                (NP
+                  (NP (NN awol))
+                  (PP (IN for)
+                    (NP
+                      (NP (NN february) (CD 21))
+                      (CC and)
+                      (NP (NN march) (CD 4)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thereafter))
+    (NP
+      (NP (DT the) (NN grievant))
+      (, ,)
+      (PP (IN in)
+        (NP (NN addition)))
+      (, ,))
+    (VP (VBD was)
+      (VP (VBN suspended)
+        (PP (IN for)
+          (NP (CD 5) (NNS days)))
+        (PP (IN for)
+          (S
+            (VP (VBG failing)
+              (S
+                (VP (TO to)
+                  (VP
+                    (VP (VB follow)
+                      (NP (JJ proper) (NN leave) (NNS procedures))
+                      (, ,)
+                      (PP (VBN based)
+                        (PP (IN on)
+                          (NP
+                            (NP (DT the) (NNS absences))
+                            (PP (IN of)
+                              (NP (JJ february) (CD 21)))))))
+                    (CC and)
+                    (VP (VB march)
+                      (NP (CD 4)))))))))))
+    (. .)))
+

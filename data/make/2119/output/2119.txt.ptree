@@ -1,0 +1,55 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (JJ tiny) (NNS hints))
+      (PP (IN of)
+        (NP
+          (NP (NN personality))
+          (SBAR
+            (S
+              (NP (PRP we))
+              (VP (VBD saw)))))))
+    (VP (VBZ suggests)
+      (SBAR
+        (S
+          (NP (PRP she))
+          (VP (MD could)
+            (VP (VB have)
+              (ADVP (RB actually))
+              (VP (VBN had)
+                (NP
+                  (NP (DT a) (JJ little) (NN following))
+                  (VP (VBG going)
+                    (PP (IN into)
+                      (NP
+                        (NP (DT these) (JJ semi) (JJ final) (NNS shows) (NN ifidolwerent))
+                        (VP
+                          (ADVP (RB so))
+                          (VBN fixated)
+                          (PP (IN on)
+                            (NP
+                              (NP (NNS grandmothers))
+                              (PP (IN with)
+                                (NP (NNS alzheimers))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB instead))
+    (NP (NNS viewers))
+    (VP (VBD were)
+      (VP (VBN left)
+        (PP (IN with)
+          (NP
+            (NP (DT an) (JJ uneven) (NN rock))
+            (ADJP (NN soul) (JJ vocal))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (VBD was)
+                  (NP
+                    (NP (JJR more) (NN wedding))
+                    (PP (IN than)
+                      (NP (DT a) (NN bridezilla) (NN marathon)))))))))))
+    (. .)))
+

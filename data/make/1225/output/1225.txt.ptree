@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (S
+      (NP (EX there))
+      (VP (VBP are)
+        (NP
+          (NP (DT a) (NN couple))
+          (SBAR
+            (S
+              (VP
+                (VP (VBZ rattles))
+                (, ,)
+                (CC but)
+                (VP (VBZ thats)
+                  (SBAR (IN because)
+                    (S
+                      (NP (NN ive))
+                      (VP (VBD dumped)
+                        (NP (DT the) (NN exhaust))
+                        (PP (IN below)
+                          (NP (DT the) (NN bed)))))))))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBZ causes)
+        (NP (DT the) (JJ entire) (NN truck)
+          (S
+            (VP (TO to)
+              (VP (VB rattle)
+                (SBAR (IN while)
+                  (S
+                    (VP (VBG sitting)
+                      (PP (IN at)
+                        (ADJP (JJ idle))))))))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (JJ overall))
+    (NP (PRP$ its)
+      (NP (DT an)
+        (ADJP (JJ awesome))
+        (NN truck)))
+    (. .)))
+

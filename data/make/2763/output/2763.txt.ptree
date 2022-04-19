@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (NP (JJ nipped) (NNS waistlines)
+      (CC and)
+      (NN magnified) (NNS silhouettes))
+    (VP (VBP are)
+      (NP
+        (NP (JJ big) (NN fall) (NNS trends))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBN evolved)
+              (PP (IN from)
+                (NP
+                  (NP (DT the) (NN spring) (CD 2012) (NN collection))
+                  (VP (VBN presented)
+                    (PP (IN by)
+                      (NP
+                        (NP (JJ louis) (NN vuitton))
+                        (, ,)
+                        (SBAR
+                          (WHPP (IN of)
+                            (WHNP (WDT which)))
+                          (S
+                            (NP (NNS jacobs))
+                            (VP (VBZ is)
+                              (NP (DT the) (JJ creative) (NN director)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB conversely))
+    (NP (PRP you))
+    (VP (MD could)
+      (VP (VB go)
+        (PP (IN in)
+          (NP (DT the) (JJ complete) (JJ opposite) (NN direction)))))
+    (. .)))
+

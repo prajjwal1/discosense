@@ -1,0 +1,55 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP you))
+      (VP (VBD said)
+        (SBAR
+          (S
+            (NP (PRP you))
+            (VP (VBP think)
+              (SBAR
+                (S
+                  (NP (DT the) (NN scale))
+                  (VP (VBZ is)
+                    (ADJP (JJ rubbish))))))))))
+    (, ,) (IN so)
+    (S
+      (NP (DT this))
+      (VP
+        (VP (VBZ implies)
+          (SBAR (IN that)
+            (S
+              (NP (PRP you))
+              (VP (VBP have)
+                (VP (VBN spent)
+                  (NP
+                    (NP (DT some) (NN time))
+                    (VP (VBG thinking)
+                      (PP (IN about)
+                        (NP (PRP it))))))))))
+        (CC and)
+        (VP (VBP have)
+          (VP (VBN looked)
+            (PP (IN at)
+              (NP (PRP$ his) (NN research) (NN work)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB otherwise))
+    (NP (PRP you))
+    (VP (VBP know)
+      (SBAR
+        (S
+          (NP
+            (NP (NN nothing))
+            (PP (IN about)
+              (NP (DT the) (NN scale)
+                (CC and)
+                (NN shouldnt))))
+          (ADVP (RB really))
+          (VP (VB comment)
+            (PP (IN on)
+              (NP (PRP it)))))))
+    (. .)))
+

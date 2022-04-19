@@ -1,0 +1,1 @@
+conn:once conn_POS:IN sent_pos:2 prev1:sum prev1_POS:NN with_prev1_full:sum_once with_prev1_POS_full:NN_IN prev2:in prev2_POS:IN with_prev2_full:in_once with_prev2_POS_full:IN_IN NA

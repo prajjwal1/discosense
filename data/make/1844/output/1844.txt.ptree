@@ -1,0 +1,60 @@
+(ROOT
+  (S
+    (S
+      (PP (IN by)
+        (NP (DT the) (NN time)))
+      (NP (DT the) (NN fn) (NN fal))
+      (VP (VBD was)
+        (VP (VBN superseded)
+          (PP (IN by)
+            (NP (JJ modern) (NN assault) (NNS rifles))))))
+    (, ,)
+    (NP (PRP it))
+    (VP
+      (VP (VBD had)
+        (VP (VBN been)
+          (VP (VBN issued)
+            (PP (IN as)
+              (NP
+                (NP (DT a) (JJ standard) (NN arm))
+                (PP (IN in)
+                  (NP
+                    (QP (RB approximately) (CD 70))
+                    (NNS countries))))))))
+      (CC and)
+      (VP (VBD was)
+        (VP (VBN manufactured)
+          (PP (IN in)
+            (NP
+              (QP (IN at) (JJS least) (CD 10))
+              (NNS countries))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP interestingly) (NNP canada))
+    (VP (VBD was)
+      (NP
+        (NP (CD one))
+        (PP (IN of)
+          (NP (DT the) (JJ first) (NNS countries)))
+        (S
+          (VP (TO to)
+            (VP (VB adopt)
+              (NP
+                (NP (DT the) (NN fn) (NN fal) (NN rifle))
+                (PP (IN in)
+                  (NP (CD 1955))))
+              (PP (IN as)
+                (NP (DT the) (NN c) (CD 1)))
+              (SBAR (IN though)
+                (S
+                  (NP
+                    (QP (CD ex) (CD 1))
+                    (NNS rifles))
+                  (VP (VBD were)
+                    (VP (VBN ordered)
+                      (PP (IN in)
+                        (NP (CD 1954))))))))))))
+    (. .)))
+

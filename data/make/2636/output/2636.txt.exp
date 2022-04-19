@@ -1,0 +1,4 @@
+conn_lc:but conn:but conn_POS:CC with_prev_full:,_but xxx£
+conn_lc:if conn:if conn_POS:IN with_prev_full:wonder_if xxx£
+conn_lc:on_the_other_hand conn:on_the_other_hand conn_POS:IN_DT_JJ_NN xxx£
+conn_lc:but conn:but conn_POS:CC with_prev_full:,_but xxx£

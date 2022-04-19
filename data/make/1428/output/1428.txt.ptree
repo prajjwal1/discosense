@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (NP (NN franz))
+    (VP (VBD was)
+      (ADVP (RB just))
+      (NP
+        (NP (DT a) (JJ small) (NN child))
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP (PRP he))
+            (ADVP (RB first))
+            (VP (VBD started)
+              (S
+                (VP (VBG helping)
+                  (PP (IN in)
+                    (NP (DT the) (NN family) (NN business))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN as)
+      (NP (DT a) (NN result)))
+    (NP (PRP he))
+    (VP (VBZ is)
+      (ADJP (JJ able)
+        (S
+          (VP (TO to)
+            (VP (VB give)
+              (NP (PRP$ his) (NNS clients))
+              (NP
+                (NP (DT the) (NN benefit))
+                (PP (IN of)
+                  (NP
+                    (NP (NNS years))
+                    (PP (IN of)
+                      (NP (NN experience)
+                        (CC and)
+                        (NN knowledge)))))))))))
+    (. .)))
+

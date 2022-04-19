@@ -1,0 +1,4 @@
+conn:however conn_POS:RB sent_pos:0 NA
+conn:so conn_POS:IN prev1:, prev1_POS:, with_prev1_full:,_so with_prev1_POS_full:,_IN prev2:principles prev2_POS:NNS with_prev2_full:principles_so with_prev2_POS_full:NNS_IN NA
+conn:on_the_other_hand conn_POS:IN_DT_JJ_NN sent_pos:0 NA
+conn:also conn_POS:RB prev1:could prev1_POS:MD with_prev1_full:could_also with_prev1_POS_full:MD_RB prev2:it prev2_POS:PRP with_prev2_full:it_also with_prev2_POS_full:PRP_RB NA

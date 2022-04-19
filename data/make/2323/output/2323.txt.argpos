@@ -1,0 +1,2 @@
+conn:when conn_POS:WRB sent_pos:0 NA
+conn:in_sum conn_POS:IN_NN sent_pos:0 NA

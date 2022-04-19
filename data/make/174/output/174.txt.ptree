@@ -1,0 +1,50 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT the) (NN music))
+        (PP (IN by)
+          (NP (JJ bappi) (NNS lahiri))))
+      (VP (VBD was)
+        (ADJP (JJ good))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (NNP i) (NNP distinctly))
+      (VP (VBP remember)
+        (NP
+          (NP (DT the) (NNS songs))
+          (VP (VBG being)
+            (VP (VBN appreciated)
+              (ADVP (RBR more))
+              (PP (IN than)
+                (NP (DT the) (NN film))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (RB yet) (IN if)
+      (S
+        (NP (PRP you))
+        (VP (VBP are)
+          (NP
+            (NP (DT a) (NN fan))
+            (PP (IN of)
+              (NP
+                (NP (NN aamir)
+                  (CC or)
+                  (NN juhi))
+                (CC or)
+                (NP (DT both))))))))
+    (, ,)
+    (NP (PRP you))
+    (VP (MD will)
+      (VP (VB find)
+        (NP (RB plenty))
+        (S
+          (VP (TO to)
+            (VP (VB like)
+              (PP (IN in)
+                (NP (DT this) (NN film))))))))
+    (. .)))
+

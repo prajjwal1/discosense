@@ -1,0 +1,47 @@
+(ROOT
+  (S
+    (S
+      (NP (NN wallace))
+      (VP (VBZ hits)
+        (PP (IN on)
+          (NP
+            (NP (DT a) (JJ few) (NNS themes))
+            (PP (IN in)
+              (NP (DT the) (NN article)))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (NN hes))
+      (ADVP (RB mostly))
+      (VP (VBD focused)
+        (PP (IN on)
+          (NP
+            (NP (JJ biological) (NN preservation))
+            (PP (IN via)
+              (S
+                (VP (VBG putting)
+                  (NP
+                    (NP (CD one) (NN self) (RB first))
+                    (, ,)
+                    (NP (NN worship))
+                    (, ,)
+                    (CC and)
+                    (NP (NN awareness) (NN consciousness))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN sum)))
+    (ADVP (RB though))
+    (, ,)
+    (NP (FW i))
+    (VP (VBP think)
+      (SBAR
+        (S
+          (NP (NN wallace))
+          (VP (VBZ is)
+            (VP (VBG making)
+              (NP (DT a) (JJ simple) (NN point)))))))
+    (. .)))
+

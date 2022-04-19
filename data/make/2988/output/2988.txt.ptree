@@ -1,0 +1,47 @@
+(ROOT
+  (S
+    (NP (NNS audiences))
+    (VP (VBP round)
+      (SBAR
+        (S
+          (NP (DT the) (NN world))
+          (VP (VBP have)
+            (VP (VBN had)
+              (NP
+                (NP (PRP$ their) (NNS eyes))
+                (VP (VBN opened)
+                  (PP (TO to)
+                    (NP
+                      (NP (DT the) (JJ extraordinary) (NN charm)
+                        (CC and)
+                        (JJ musical) (NN quality))
+                      (PP (IN of)
+                        (NP
+                          (NP (DT the) (JJR older) (NNS forms))
+                          (PP (IN of)
+                            (NP (NN cuban) (NN music))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN by)
+      (NP (NN contrast)))
+    (NP
+      (NP (JJ topical) (NNS themes))
+      (SBAR
+        (WHNP (WDT that))
+        (S
+          (VP (VBD seemed)
+            (ADJP (RB so) (JJ relevant)
+              (PP (IN in)
+                (NP (DT the) (CD 1960s)
+                  (CC and)
+                  (CD 70s))))
+            (ADVP (RB now))))))
+    (VP (VBP seem)
+      (S
+        (VP (VB dry)
+          (CC and)
+          (VB pass))))
+    (. .)))
+

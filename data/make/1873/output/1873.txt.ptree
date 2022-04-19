@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (NN method))
+      (VP (VBN used)
+        (PP (IN in)
+          (NP (DT these) (NN experiment)))))
+    (ADVP (RB preferentially))
+    (VP (VBZ selects)
+      (PP (IN for)
+        (NP (CD two) (NN primer) (NNS products))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (PP (IN in)
+        (NP (JJ particular) (CD one)))
+      (NP (NN primer))
+      (VP (VBZ is)
+        (VP (VBN biotinylated))))
+    (CC and)
+    (S
+      (NP (DT the) (JJ other))
+      (VP (VBZ is) (RB not)))
+    (. .)))
+

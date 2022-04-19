@@ -1,0 +1,54 @@
+(ROOT
+  (S (CC but)
+    (NP (VBG mounting) (NN evidence))
+    (VP (VBZ suggests)
+      (SBAR (IN that)
+        (S
+          (SBAR (RB even) (IN if)
+            (S
+              (NP (DT these) (NN stem) (NNS cells))
+              (VP (VBP exist))))
+          (, ,)
+          (NP (PRP$ their) (NNS numbers))
+          (VP (VBP decline)
+            (PP (IN with)
+              (NP (NN age)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN as)
+      (NP (DT a) (NN result)))
+    (NP (DT some) (NNS scientists))
+    (VP (VBP suspect)
+      (SBAR
+        (S
+          (NP (EX there))
+          (VP (VBP are)
+            (NP
+              (NP (JJR fewer) (JJ new) (NN heart) (NNS cells))
+              (SBAR
+                (S
+                  (VP (TO to)
+                    (VP (VB replace)
+                      (NP
+                        (NP (JJR older) (NNS ones))
+                        (SBAR
+                          (WHNP (WDT which))
+                          (S
+                            (VP (VBP are)
+                              (VP (VBG dying)
+                                (PP (IN in)
+                                  (NP
+                                    (NP (JJR greater) (NNS numbers))
+                                    (ADJP (JJ due)
+                                      (PP (TO to)
+                                        (NP
+                                          (NP (NN age))
+                                          (, ,)
+                                          (NP (NN injury))
+                                          (, ,)
+                                          (CC and)
+                                          (NP (JJ other) (NNS problems)))))))))))))))))))))
+    (. .)))
+

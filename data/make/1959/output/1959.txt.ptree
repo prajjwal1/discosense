@@ -1,0 +1,49 @@
+(ROOT
+  (S
+    (ADVP (RB however))
+    (, ,)
+    (NP (DT this) (NN article))
+    (VP (MD will)
+      (VP (VB give)
+        (NP (PRP you))
+        (NP
+          (NP (DT a) (JJ general) (NN idea))
+          (PP (IN on)
+            (SBAR
+              (WHADVP (WRB how))
+              (S
+                (VP (TO to)
+                  (VP (VB prepare)
+                    (NP (PRP yourself))
+                    (PP (IN for)
+                      (NP (DT an) (NN mba) (NN interview)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN although)
+      (S
+        (NP (DT the) (NN interview) (NNS procedures))
+        (VP (VBP are)
+          (ADJP (JJ different)
+            (PP (IN for)
+              (NP (JJ different) (NNS institutions)))))))
+    (, ,)
+    (NP (EX there))
+    (VP (VBP are)
+      (NP
+        (NP (DT a) (JJ few) (NNS stages))
+        (SBAR
+          (S
+            (NP (PRP you))
+            (VP (VBP have)
+              (S
+                (VP (TO to)
+                  (VP (VB go)
+                    (PRT (RP through))
+                    (PP (IN while)
+                      (S
+                        (VP (VBG preparing)
+                          (NP (NN mba) (NN interview) (NNS questions)))))))))))))
+    (. .)))
+

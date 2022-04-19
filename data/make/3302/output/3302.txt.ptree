@@ -1,0 +1,56 @@
+(ROOT
+  (S
+    (PP
+      (PP (IN with)
+        (NP (DT the) (NN chip))
+        (ADVP (RB still)))
+      (PP (IN in)))
+    (, ,)
+    (NP (FW i))
+    (VP (VBP think)
+      (SBAR
+        (S
+          (NP (EX there))
+          (VP (VBZ is)
+            (NP
+              (NP (DT some) (NN interference))
+              (PP (IN from)
+                (NP (DT the) (NN uno))))
+            (SBAR (IN while)
+              (S
+                (NP (DT the) (NN mini))
+                (VP (VBZ is)
+                  (VP (VBG being)
+                    (VP (VBN programmed) (, ,)
+                      (SBAR (IN although)
+                        (S
+                          (NP (FW i))
+                          (VP (MD can)
+                            (VP (VB be)
+                              (ADJP (RB completely) (JJ wrong)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB nevertheless))
+      (NP (PRP it))
+      (VP (VBZ works)))
+    (, ,)
+    (CC and)
+    (S
+      (NP (FW i))
+      (ADVP (RB even))
+      (VP (VBD managed)
+        (S
+          (VP (TO to)
+            (VP (VB get)
+              (NP
+                (NP (DT the) (NN mini)
+                  (CC and)
+                  (NN uno))
+                (VP (VBG working)
+                  (PP (IN with)
+                    (NP (DT a) (JJ virtualwire) (NN link))))))))))
+    (. .)))
+

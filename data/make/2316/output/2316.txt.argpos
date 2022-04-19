@@ -1,0 +1,4 @@
+conn:since conn_POS:IN prev1:ever prev1_POS:RB with_prev1_full:ever_since with_prev1_POS_full:RB_IN prev2:her prev2_POS:PRP with_prev2_full:her_since with_prev2_POS_full:PRP_IN NA
+conn:when conn_POS:WRB prev1:kingpin prev1_POS:NN with_prev1_full:kingpin_when with_prev1_POS_full:NN_WRB prev2:eyed prev2_POS:VBD with_prev2_full:eyed_when with_prev2_POS_full:VBD_WRB NA
+conn:on_the_other_hand conn_POS:IN_DT_JJ_NN sent_pos:0 NA
+conn:if conn_POS:IN prev1:potential prev1_POS:NN with_prev1_full:potential_if with_prev1_POS_full:NN_IN prev2:payoff prev2_POS:NN with_prev2_full:payoff_if with_prev2_POS_full:NN_IN NA

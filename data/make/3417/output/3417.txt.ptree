@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNS people) (NN ive))
+      (VP (VBN spoken)
+        (PP (TO to)
+          (SBAR
+            (WHNP (WP who))
+            (S
+              (VP (VBP have)
+                (VP (VBN visited)
+                  (NP (JJ primi) (NN piatti) (NNS outlets))
+                  (PP (IN in)
+                    (NP (JJ south) (NN africa))))))))))
+    (VP (VBP say)
+      (SBAR
+        (S
+          (NP (PRP ours))
+          (VP (VBZ is)
+            (ADJP (JJR better))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB however))
+    (NP (PRP we))
+    (ADVP (RB also))
+    (VP (VBD had)
+      (NP
+        (NP (DT a)
+          (ADJP (RB surprisingly) (JJ good))
+          (NN experience))
+        (PP (IN in)
+          (NP (DT a) (JJ south) (NN african) (NN wimpy)))))
+    (. .)))
+

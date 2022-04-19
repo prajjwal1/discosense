@@ -1,0 +1,47 @@
+(ROOT
+  (S
+    (NP (FW i))
+    (ADVP (RB now))
+    (VP (VBP know)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (NN everything))
+            (SBAR
+              (S
+                (NP (DT the) (NN dca))
+                (VP (VBZ has)
+                  (VP (VBN posted))))))
+          (VP (VBZ is)
+            (ADJP (JJ misleading))
+            (, ,)
+            (SBAR (IN if)
+              (S (RB not)
+                (ADJP (RB downright) (JJ lies))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (PP (RB because) (IN of)
+        (NP (DT that)))
+      (NP (FW i))
+      (VP (MD will)
+        (ADVP (RB never))
+        (VP (VB own)
+          (NP
+            (NP (DT another) (NN dal))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (VBZ is) (RB not)
+                  (NP (DT an) (NN nua)))))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (FW i))
+      (ADVP (RB also))
+      (VP (VB wont)
+        (NP (JJ own) (DT another) (NN breed))))
+    (. .)))
+

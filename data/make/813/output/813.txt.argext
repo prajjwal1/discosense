@@ -1,0 +1,15 @@
+conn:if_then conn_lc:if_then conn_cat:Coordinator conn_to_node:RB->ADVP->S conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:0 0:2
+conn:if_then conn_lc:if_then conn_cat:Coordinator conn_to_node:RB->ADVP->S<-SBAR conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:-1 0:3
+conn:if_then conn_lc:if_then conn_cat:Coordinator conn_to_node:RB->ADVP->S<-SBAR<-S conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:-1 0:6
+conn:if_then conn_lc:if_then conn_cat:Coordinator conn_to_node:RB->ADVP->S<-SBAR<-S<-NP conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:-1 0:7
+conn:if_then conn_lc:if_then conn_cat:Coordinator conn_to_node:RB->ADVP->S<-SBAR<-S<-VP conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:-1 0:14
+conn:if_then conn_lc:if_then conn_cat:Coordinator conn_to_node:RB->ADVP->S<-SBAR<-S<-VP<-VP conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:-1 0:17
+conn:if_then conn_lc:if_then conn_cat:Coordinator conn_to_node:RB->ADVP->S<-SBAR<-S<-VP<-VP<-PP conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:-1 0:20
+conn:if_then conn_lc:if_then conn_cat:Coordinator conn_to_node:RB->ADVP->S<-SBAR<-S<-VP<-VP<-PP<-NP conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:-1 0:23
+conn:if_then conn_lc:if_then conn_cat:Coordinator conn_to_node:RB->ADVP conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:0 0:30
+conn:if_then conn_lc:if_then conn_cat:Coordinator conn_to_node:RB->ADVP->S<-NP conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:1 0:33
+conn:if_then conn_lc:if_then conn_cat:Coordinator conn_to_node:RB->ADVP->S<-VP conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:1 0:36
+conn:if_then conn_lc:if_then conn_cat:Coordinator conn_to_node:RB->ADVP->S<-VP<-VP conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:1 0:39
+conn:if_then conn_lc:if_then conn_cat:Coordinator conn_to_node:RB->ADVP->S<-VP<-VP<-VP conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:1 0:42
+conn:if_then conn_lc:if_then conn_cat:Coordinator conn_to_node:RB->ADVP->S<-VP<-VP<-VP<-PP conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:1 0:45
+conn:if_then conn_lc:if_then conn_cat:Coordinator conn_to_node:RB->ADVP->S<-VP<-VP<-VP<-PP<-NP conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:1 0:48

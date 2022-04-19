@@ -1,0 +1,53 @@
+(ROOT
+  (S
+    (NP (DT the) (JJ present) (NN invention))
+    (VP (VBZ allows)
+      (NP (NN access))
+      (PP
+        (PP (TO to)
+          (NP
+            (NP (DT the) (JJ interior) (NNS contents))
+            (PP (IN of)
+              (NP
+                (NP (DT a) (NN medicine) (NN holder))
+                (, ,)
+                (NP (DT a) (JJ capsule) (NN container))
+                (, ,)))))
+        (CONJP (CC but)
+          (RB only))
+        (PP (IN on)
+          (NP
+            (NP (DT a) (NN one))
+            (PP (IN at)
+              (NP (DT a) (NN time) (NN basis)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP
+      (ADVP (RB thus))
+      (IN for)
+      (NP (NN example)))
+    (, ,)
+    (SBAR (RB even) (IN if)
+      (S
+        (NP (DT a) (NN child))
+        (VP (VBD were)
+          (S
+            (VP (TO to)
+              (VP (VB accidentallyfigureout)
+                (NP
+                  (NP (DT the) (NN method))
+                  (PP (IN of)
+                    (S
+                      (VP (VBG dispensing)
+                        (NP (DT the) (NN capsule))
+                        (PP (IN from)
+                          (NP (DT the) (NN bottle)))))))))))))
+    (, ,)
+    (NP (RB only) (DT a) (JJ single) (NN pill))
+    (VP (MD would)
+      (VP (VB be)
+        (ADJP (JJ dispensed))))
+    (. .)))
+

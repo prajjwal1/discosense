@@ -1,0 +1,1 @@
+further, changing the length of the corresponding point search line can give the advantage of facilitating to change the corresponding edge point search region. thereby since edge angle information is held even after reduction of the image, it is possible to speed up a search with a data amount reduced while holding search accuracy.

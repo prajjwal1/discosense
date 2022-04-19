@@ -1,0 +1,50 @@
+(ROOT
+  (S
+    (PP (TO to)
+      (NP
+        (NP (DT the) (NN extent))
+        (SBAR (IN that)
+          (S
+            (NP (JJ such) (NN population) (NNS programmes))
+            (VP (VBP act)
+              (PP (IN on)
+                (NP (NNS individuals))))))))
+    (, ,)
+    (NP (PRP they))
+    (VP (VBP do)
+      (ADVP (RB so) (RB only))
+      (ADVP (RB indirectly)))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN by)
+      (NP (NN contrast) (NN health) (NN promotion)))
+    (NP (NNP al) (NN advice))
+    (VP (VBZ is)
+      (ADVP (RB now))
+      (VP
+        (ADVP (RB often))
+        (VBN directed)
+        (ADVP (RB specifically))
+        (PP (IN at)
+          (NP
+            (NP (DT the) (JJ indi) (JJ vidual) (NN citizen))
+            (PP (IN with)
+              (NP (DT the) (NN aim)))))
+        (, ,)
+        (PP (RB not) (RB just)
+          (PP (IN of)
+            (S
+              (VP (VBG providing)
+                (NP (PRP her))
+                (PP (IN with)
+                  (NP (NN information))))))
+          (, ,)
+          (CC but)
+          (PP (IN of)
+            (S
+              (VP (VBG altering)
+                (NP (PRP$ her) (NN behaviour))))))))
+    (. .)))
+

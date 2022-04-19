@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (NP (DT the) (NN senate))
+    (VP (VBD was)
+      (ADJP (RB fully) (JJ aware))
+      (PP (IN of)
+        (NP
+          (NP (JJ chief) (NN justice) (NNS roberts) (NN representation))
+          (PP (IN of)
+            (NP (DT the) (JJ vicious) (NN killer))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP
+        (ADVP (RB yet))
+        (VBG accepting)
+        (SBAR (IN that)
+          (S
+            (NP (JJ legal) (NN representation))
+            (VP (VBZ is)
+              (NP
+                (NP (DT a) (JJ fundamental) (JJ constitutional) (NN right))
+                (PP (IN of)
+                  (NP (DT every) (NN american)))))))))
+    (, ,)
+    (NP (DT the) (NN senate))
+    (ADVP (RB overwhelmingly))
+    (VP (VBD approved)
+      (NP (PRP$ his) (NN nomination)))
+    (. .)))
+

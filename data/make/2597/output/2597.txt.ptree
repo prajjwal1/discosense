@@ -1,0 +1,50 @@
+(ROOT
+  (S
+    (NP (FW i))
+    (VP
+      (VP (VBP have)
+        (VP (VBN obtained)
+          (PP (IN as)
+            (NP (JJ many) (NNS endorsements)))
+          (PP (IN from)
+            (NP
+              (NP (JJ past) (NNS colleagues))
+              (ADJP (RB as) (JJ possible))))))
+      (CC and)
+      (VP
+        (ADVP (RB generally))
+        (VBD raised)
+        (NP (PRP$ my) (NN visibility))
+        (PP (IN among)
+          (NP
+            (NP (DT all))
+            (PP (IN of)
+              (NP (PRP$ my) (NNS colleagues)))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (PP (IN in)
+      (NP (JJ short) (FW i)))
+    (VP (VBP have)
+      (VP (VBN used)))
+    (NP (DT the) (NN internet)
+      (S
+        (VP (TO to)
+          (VP (VB make)
+            (NP (JJ sure) (FW i) (FW stay))
+            (PP (IN in)
+              (NP (JJ everyones) (NN face)))
+            (SBAR (RB so) (IN that)
+              (S
+                (NP (PRP they))
+                (VP (MD will)
+                  (VP (VB think)
+                    (PP (IN of)
+                      (NP (PRP me)))
+                    (SBAR (IN if)
+                      (S
+                        (NP (NNS opportunities))
+                        (VP (VBP arise))))))))))))
+    (. .)))
+

@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (NP
+      (NP (PRP$ its)
+        (QP (RB about) (CD 1500))
+        (NNS pages))
+      (PP (IN of)))
+    (VP
+      (VP (VBD advanced))
+      (, ,)
+      (VP
+        (ADVP (RB sometimes))
+        (NP (JJ arcane) (NN info))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (ADJP (JJ short)))
+    (NP (DT this))
+    (VP (VBZ is) (RB not)
+      (NP
+        (NP (DT an) (JJ introductory) (NN grammar))
+        (, ,)
+        (CC or)
+        (ADVP (RB even))
+        (NP (DT an) (JJ intermediate) (NN one))))
+    (. .)))
+

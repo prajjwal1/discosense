@@ -1,0 +1,61 @@
+(ROOT
+  (S
+    (S
+      (VP
+        (ADVP (RB only)
+          (NP (CD three) (NNS years))
+          (PP (IN after)
+            (NP (DT the) (NN act))))
+        (VBG confirming)
+        (NP (DT the) (NN reservation))))
+    (, ,)
+    (NP (DT the) (JJ townsite) (NN cession))
+    (VP (VBD was)
+      (VP (VBN treated)
+        (SBAR (RB just) (IN as)
+          (S
+            (NP
+              (NP (DT the) (NN right))
+              (PP (IN of)
+                (NP
+                  (NP (NN way))
+                  (PP (IN for)
+                    (NP (DT the) (NN railroad))))))
+            (VP (VBD had)
+              (VP (VBN been)
+                (VP (VBN treated)
+                  (PP (IN before)
+                    (NP (NN statehood))))))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (PP (IN in)
+      (NP (NN sum) (NN congress)))
+    (VP (VBD undertook)
+      (S
+        (VP (TO to)
+          (VP (VB negotiate)
+            (PP (IN with)
+              (NP
+                (NP (DT the) (NN coeur) (NN dalene) (NN tribe))
+                (PP (IN for)
+                  (NP (NN reduction)))))
+            (PP (IN in)
+              (NP
+                (NP (DT the) (NN territory))
+                (PP (IN of)
+                  (NP (DT an) (JJ executive) (NN order) (NN reservation)))))))))
+    (SBAR (IN that)
+      (S
+        (NP (NN idaho))
+        (VP (VBZ concedes)
+          (SBAR
+            (S
+              (VP (VBD included)
+                (NP (DT the) (JJ submerged) (NNS lands))
+                (PP (IN at)
+                  (NP (NN issue)))
+                (ADVP (RB here))))))))
+    (. .)))
+

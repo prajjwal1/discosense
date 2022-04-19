@@ -1,0 +1,45 @@
+(ROOT
+  (S
+    (NP (DT an) (NN example))
+    (VP (MD might)
+      (VP (VB be)
+        (VP (VBN given)
+          (SBAR (IN as)
+            (S
+              (NP (CD 1.0) (NN millivolt))
+              (VP (VBP offset)
+                (NP (NN error))
+                (, ,)
+                (ADVP (RB regardless)
+                  (PP (IN of)
+                    (NP (DT the) (NN range)
+                      (CC or)
+                      (NN gain) (NNS settings))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN contrast)))
+    (NP (NN gain) (NNS errors))
+    (VP
+      (VP (VBP do)
+        (VP (VB depend)
+          (PP (IN on)
+            (NP
+              (NP (DT the) (NN magnitude))
+              (PP (IN of)
+                (NP (DT the) (NN input) (NN signal)))))))
+      (CC and)
+      (VP (VBP are)
+        (VP (VBN expressed)
+          (PP (IN as)
+            (NP
+              (NP (DT a) (NN percentage))
+              (PP (IN of)
+                (NP (DT the) (NN reading)))
+              (, ,)
+              (PP (JJ such) (IN as)
+                (NP (CD 0.1) (NN %))))))))
+    (. .)))
+

@@ -1,0 +1,2 @@
+conn:but conn_POS:CC prev1:anything prev1_POS:NN with_prev1_full:anything_but with_prev1_POS_full:NN_CC prev2:is prev2_POS:VBZ with_prev2_full:is_but with_prev2_POS_full:VBZ_CC NA
+conn:although conn_POS:IN sent_pos:0 NA

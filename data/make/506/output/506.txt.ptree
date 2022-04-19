@@ -1,0 +1,61 @@
+(ROOT
+  (S
+    (NP
+      (NP (NN knowledge))
+      (PP (IN of)
+        (NP
+          (NP (DT the) (NNS dynamics))
+          (PP (IN of)
+            (NP
+              (NP (NNS solutions))
+              (PP (TO to)
+                (NP (DT this) (JJ reduced) (NN system)))))))
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (NP (NN computer) (NN simulation))
+          (VP (MD can)
+            (VP (VB help)
+              (S
+                (VP (TO to)
+                  (VP (VB determine))))))))
+      (, ,))
+    (VP (MD would)
+      (VP (VB be)
+        (ADJP (JJ useful)
+          (PP (IN in)
+            (S
+              (VP (VBG predicting)
+                (NP
+                  (NP (DT the) (NN behavior))
+                  (PP (IN of)
+                    (NP (NNS solutions))))
+                (PP (TO to)
+                  (NP (DT the) (JJ unabridged) (JJ vlasov) (NN maxwell) (NN system)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (RB hence) (PRP we))
+    (VP
+      (VP (VB design))
+      (, ,)
+      (VP (VB construct))
+      (, ,)
+      (CC and)
+      (VP (VB implement)
+        (NP
+          (NP (DT a) (NN novel) (NN algorithm))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBZ couples)
+                (NP (JJ efficient) (JJ finite) (NN difference) (NNS methods))
+                (PP (IN with)
+                  (NP
+                    (NP (DT a) (NN particle))
+                    (PP (IN in)
+                      (NP (NN cell) (NN code)))))))))))
+    (. .)))
+

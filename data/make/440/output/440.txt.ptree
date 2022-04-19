@@ -1,0 +1,51 @@
+(ROOT
+  (S
+    (VP (VBP are)
+      (S
+        (NP (PRP they))
+        (ADJP (JJ external))
+        (S
+          (VP
+            (VP (VB mind)
+              (NP
+                (NP (JJ independent) (NNS properties))
+                (PP (IN of)
+                  (NP (NNS objects)))))
+            (CC or)
+            (VP (VBP are)
+              (NP (PRP they)
+                (NP
+                  (NP
+                    (NP (JJ phenomenal) (NNS properties))
+                    (ADJP (RB directly) (JJ present)))
+                  (PP (IN in)
+                    (NP (JJ perceptual) (NN experience))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP
+        (NP (NN sum))
+        (SBAR (IN though)
+          (S
+            (NP (RBS most) (JJ contemporary) (NNS reductionists))
+            (VP (VBP are)
+              (ADVP (RB also))
+              (ADJP (JJ physicalists)))))))
+    (, ,)
+    (NP (EX there))
+    (VP (VBP are)
+      (NP
+        (NP (JJ many) (JJ actual) (NN reductionist) (NNS positions))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBP are)
+              (ADJP (JJ independent)
+                (PP (IN of)
+                  (NP (NN materialism)
+                    (CC and)
+                    (NN physicalism)))))))))
+    (. .)))
+

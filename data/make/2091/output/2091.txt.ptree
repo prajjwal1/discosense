@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (NP (FW i))
+    (VP
+      (VP (VBD watched)
+        (NP
+          (NP (DT the) (JJ first) (NN episode))
+          (PP (IN of)
+            (NP (JJ walt) (NN disney))))
+        (PP (IN from)
+          (NP
+            (NP (NN american) (NN experience))
+            (PP (IN on)
+              (NP (NN pbs)))))
+        (NP (JJ last) (NN night)))
+      (CC and)
+      (VP (VBD did)
+        (NP
+          (NP (DT a) (NN bit))
+          (PP (IN of)
+            (NP (JJ live) (NN tweeting))))
+        (PP (IN throughout))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ overall) (NNS i))
+    (VP
+      (VP (VBD was)
+        (VP (VBN impressed)
+          (PP (IN with)
+            (NP (DT the) (NN documentary)))))
+      (CC and)
+      (ADVP (RB even))
+      (VP (VBD learned)
+        (SBAR
+          (S
+            (NP
+              (NP (DT a) (NN tidbit))
+              (CC or)
+              (NP (CD two) (NNS i)))
+            (VP (VBD had) (RB not)
+              (ADVP (RB previously))
+              (VP (VBN known)))))))
+    (. .)))
+

@@ -1,0 +1,51 @@
+(ROOT
+  (S
+    (PP (IN by)
+      (NP
+        (NP (DT the) (NN end))
+        (PP (IN of)
+          (NP (DT the) (CD 1950) (NNS s)))))
+    (, ,)
+    (NP (EX there))
+    (VP (VBD were)
+      (NP
+        (QP (RB only) (PDT half)))
+      (PP (IN as)
+        (NP (JJ many) (JJ local) (NNS races)))
+      (SBAR (IN as)
+        (S
+          (VP (VBD had)
+            (VP (VBN been)
+              (VP (VBN held)
+                (PP (IN during)
+                  (NP
+                    (NP (DT the) (NN peak))
+                    (PP (IN of)
+                      (NP
+                        (NP (JJ harness) (NNS racings) (NN popularity))
+                        (PP (IN in)
+                          (NP (JJR earlier) (NNS decades)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB likewise))
+    (NP
+      (NP (DT the) (NN number))
+      (PP (IN of)
+        (NP (NNS finnhorses))))
+    (VP (VBD plummeted) (, ,)
+      (SBAR (IN as)
+        (S
+          (NP (PRP it))
+          (VP (VBD seemed)
+            (SBAR
+              (S
+                (NP (NNS horses))
+                (VP (VBD had)
+                  (NP
+                    (NP (DT no) (NN role))
+                    (PP (IN in)
+                      (NP (JJ modern) (NN society)))))))))))
+    (. .)))
+

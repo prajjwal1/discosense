@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (PP (IN on)
+      (NP
+        (NP (NN monday))
+        (, ,)
+        (NP (NN november) (CD 2))))
+    (, ,)
+    (NP (DT the) (NN sierra) (NN club))
+    (VP (VBD issued)
+      (NP
+        (NP (DT a) (NN notice))
+        (PP (IN of)
+          (NP (NN intent))))
+      (S
+        (VP (TO to)
+          (VP (VB sue)
+            (NP (CD four) (NN oil) (NNS companies)))))
+      (, ,)
+      (S
+        (VP (VBG alleging)
+          (NP
+            (NP (JJ ongoing) (NNS violations))
+            (PP (IN of)
+              (NP (DT the) (NN resource) (NN conservation)
+                (CC and)
+                (NN recovery) (NN act)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB specifically))
+    (NP (DT the) (NN notice))
+    (VP (VBZ states)
+      (ADVP (DT that) (RBR more)))
+    (. .)))
+

@@ -1,0 +1,61 @@
+(ROOT
+  (S
+    (SBAR (IN as)
+      (S
+        (NP (PRP you))
+        (VP (MD can)
+          (VP (VB tell)))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ contains)
+      (NP
+        (NP (DT a) (NN lot))
+        (PP (IN of)
+          (NP (NN metadata)))
+        (, ,)
+        (PP (JJ such) (IN as)
+          (NP
+            (NP (NN layer) (NN information))
+            (, ,)
+            (NP (NNS comments))
+            (, ,)
+            (CC and)
+            (NP
+              (NP (NN xml) (NNS namespaces))
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (VP (VBP are)
+                    (ADVP (RB often))
+                    (ADJP (JJ unnecessary)
+                      (S
+                        (VP (TO to)
+                          (VP (VB render)
+                            (NP
+                              (NP (DT the) (NN asset))
+                              (PP (IN in)
+                                (NP (DT the) (NN browser))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN as)
+      (NP (DT a) (NN result)))
+    (NP (PRP it))
+    (VP (VBZ is)
+      (ADVP (RB always))
+      (NP (DT a) (JJ good) (NN idea)
+        (S
+          (VP (TO to)
+            (VP (VB minify)
+              (NP (PRP$ your) (NN svg) (NNS files))
+              (PP (IN by)
+                (S
+                  (VP (VBG running)
+                    (PP (IN through)
+                      (NP
+                        (NP (DT a) (NN tool))
+                        (PP (IN like)
+                          (NP (NN svgo)))))))))))))
+    (. .)))
+

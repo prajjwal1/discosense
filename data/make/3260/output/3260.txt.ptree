@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (NN rationale))
+      (PP (IN for)
+        (NP (DT this) (NN classification) (NN framework))))
+    (VP (VBZ involves)
+      (NP
+        (NP (NN consideration))
+        (PP (IN of)
+          (NP (DT the) (JJ profound) (NN impact))))
+      (SBAR (IN that)
+        (S
+          (NP (NN technology))
+          (VP (VBD focused)
+            (SBAR
+              (S
+                (NP (NN design) (NN diversity))
+                (VP (VBZ provides))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB consequently))
+    (NP (DT the) (NN diversity) (NN usage) (NN classification) (NN scheme))
+    (VP (VBZ involves)
+      (NP
+        (NP (CD three) (NNS families))
+        (PP (IN of)
+          (NP
+            (NP
+              (NP (NNS strategies))
+              (NP (JJ different) (NNS technologies)))
+            (, ,)
+            (NP
+              (NP (JJ different) (NNS approaches))
+              (PP (IN within)
+                (NP (DT the) (JJ same) (NN technology))))
+            (, ,)
+            (CC and)
+            (NP
+              (NP (JJ different) (NNS architectures))
+              (PP (IN within)
+                (NP (DT the) (JJ same) (NN technology))))))))
+    (. .)))
+

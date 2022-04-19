@@ -1,0 +1,58 @@
+(ROOT
+  (S
+    (PP
+      (PP (TO to)
+        (NP (PRP them)))
+      (, ,)
+      (PP (IN as)
+        (PP (TO to)
+          (NP
+            (ADJP (RBS most) (JJ reasonable))
+            (NNS observers)))))
+    (, ,)
+    (NP (DT the) (JJ white) (NN house))
+    (VP (VBZ shows)
+      (NP
+        (NP (DT the) (JJ chronic) (NN fatigue))
+        (PP (IN of)
+          (NP
+            (NP (DT a) (CD two) (NN term) (NN presidency))
+            (VP (VBG reaching)
+              (NP (PRP$ its) (JJ final) (NN year)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nonetheless))
+    (NP
+      (NP (NN paranoia))
+      (PP (IN about)
+        (NP
+          (NP (WP what) (NN bush))
+          (CC and)
+          (NP (NN co.)))))
+    (VP (VBP are)
+      (ADVP (RB up)
+        (PP (TO to)
+          (NP (NNS preys))))
+      (PP (IN on)
+        (NP
+          (NP (DT the) (NNS minds))
+          (PP (IN of)
+            (NP
+              (NP (JJ many) (NNS progressives))
+              (, ,)
+              (SBAR
+                (WHNP (WP who))
+                (S
+                  (VP (VBP have)
+                    (VP (VBN progressed) (, ,)
+                      (PP (IN in)
+                        (NP
+                          (NP (DT this) (NN case))
+                          (ADVP (IN at) (JJS least))))
+                      (, ,)
+                      (PP (IN beyond)
+                        (NP (NN reason))))))))))))
+    (. .)))
+

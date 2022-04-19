@@ -1,0 +1,53 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP it))
+      (VP (VBZ shows)
+        (NP
+          (NP (DT all) (CD seven) (NNS days))
+          (PP (IN of)
+            (NP (DT the) (NN week))))
+        (, ,)
+        (ADVP (RB obviously))))
+    (, ,)
+    (CC but)
+    (S
+      (SBAR
+        (WHNP (WP what))
+        (S
+          (NP (PRP$ its) (NN missing))
+          (VP (VBZ is)
+            (NP
+              (NP (DT an) (NN overview))
+              (PP (IN of)
+                (NP
+                  (NP (DT the) (JJ whole) (NN month))
+                  (, ,)
+                  (SBAR
+                    (WHNP (WDT which))
+                    (S
+                      (VP (TO to))))))))))
+      (NP (PRP me))
+      (VP (VBZ is)
+        (NP (DT a) (JJ necessary) (NN complement))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (PP (IN by)
+      (NP (NN contrast)))
+    (VP (VBZ heres))
+    (SBAR
+      (WHADVP (WRB how))
+      (S
+        (NP (NN ical))
+        (VP (VBD looked)
+          (CC and)
+          (VBD worked)
+          (PP (IN in)
+            (NP
+              (NP (JJ previous) (NNS versions))
+              (PP (IN of)
+                (NP (DT the) (VBG operating) (NN system))))))))
+    (. .)))
+

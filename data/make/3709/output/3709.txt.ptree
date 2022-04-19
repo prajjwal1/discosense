@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (NP (PRP he))
+    (VP (VBD saw)
+      (NP (CD one))
+      (PP (IN on)
+        (NP
+          (NP (CD one) (NNS initiatives))
+          (PP (IN as)
+            (NP (DT an) (JJ ineffective) (NN method)))))
+      (PP (IN for)
+        (S
+          (VP (VBG treating)
+            (NP (JJ mental) (NN illness))
+            (PRT (RP out))
+            (PP (IN of)
+              (NP (NN existence)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB rather))
+    (NP (PRP he))
+    (VP (VBD saw)
+      (NP
+        (NP (DT a)
+          (ADJP (RBR more) (JJ vital)
+            (CC and)
+            (JJ effective))
+          (NN way))
+        (PP (IN of)
+          (S
+            (VP (VBG approaching)
+              (NP (DT these) (NNS problems))
+              (PP (IN through)
+                (NP
+                  (NP (DT the) (NNS schools))
+                  (CC and)
+                  (NP (NN community)))))))))
+    (. .)))
+

@@ -1,0 +1,49 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (CD 2007) (NN u.) (NN n.) (NN report))
+      (, ,)
+      (VP (VBN published)
+        (PP (IN by)
+          (NP
+            (NP (DT the) (JJ intergovernmental) (NN panel))
+            (PP (IN on)
+              (NP (NN climate) (NN change))))))
+      (, ,))
+    (VP (VBD suggested)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (JJ similar) (NNS amounts))
+            (PP (IN of)
+              (NP (NN ice))))
+          (VP (VBD were)
+            (VP (VBG being)
+              (VP (VBN lost)
+                (PP (IN at)
+                  (NP (PDT both) (DT the) (JJ polar) (NNS regions)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN by)
+      (NP (NN contrast)))
+    (NP (DT the) (JJ new) (NN study))
+    (VP (VBZ concludes)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (CD two) (NNS thirds))
+            (PP (IN of)
+              (NP (DT the) (NN ice) (NN loss))))
+          (VP (VBD was)
+            (PP (IN in)
+              (NP
+                (NP (NN greenland))
+                (CC and)
+                (NP
+                  (NP (DT the) (NN remainder))
+                  (PP (IN in)
+                    (NP (NN antarctica))))))))))
+    (. .)))
+

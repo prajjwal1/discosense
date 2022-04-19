@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (NP (FW i))
+    (VP (VBP believe)
+      (SBAR
+        (S
+          (NP (DT this))
+          (VP
+            (VP (VBD was)
+              (ADJP (JJ key))
+              (PP (TO to)
+                (NP (PRP$ my) (NN career) (NN success))))
+            (, ,)
+            (CC and)
+            (VP (VBP im)
+              (ADJP
+                (ADVP (RB forever))
+                (JJ grateful)
+                (PP (TO to)
+                  (NP (PRP them)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (RB interestingly) (JJ many))
+      (PP (IN of)
+        (NP (PRP$ my) (NNS peers))))
+    (VP (VBP didnt)
+      (VP (VB pursue)
+        (NP (DT these) (JJ same) (NN mentoring) (NNS opportunities))))
+    (. .)))
+

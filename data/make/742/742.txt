@@ -1,0 +1,1 @@
+upon occurrence and detection of a user selected particular event, the system further allows a user to predetermine which one of multiple different workflow processes is implemented. thereby at user discretion, occurrence of an event may result in a default workflow process or another different workflow process being implemented.

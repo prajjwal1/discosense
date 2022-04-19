@@ -1,0 +1,1 @@
+impulsebased simulation is a departure from these approaches, in that there are no explicit constraints to be maintained at contact points. rather all contact interactions between bodies are affected through collisions rolling, sliding, resting, and colliding contact are all modeled in this way.

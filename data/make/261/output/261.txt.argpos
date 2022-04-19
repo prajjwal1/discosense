@@ -1,0 +1,4 @@
+conn:and conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_and with_prev1_POS_full:,_CC prev2:water prev2_POS:NN with_prev2_full:water_and with_prev2_POS_full:NN_CC NA
+conn:when conn_POS:WRB prev1:force prev1_POS:NN with_prev1_full:force_when with_prev1_POS_full:NN_WRB prev2:buoyant prev2_POS:JJ with_prev2_full:buoyant_when with_prev2_POS_full:JJ_WRB NA
+conn:when conn_POS:WRB prev1:that prev1_POS:IN with_prev1_full:that_when with_prev1_POS_full:IN_WRB prev2:than prev2_POS:IN with_prev2_full:than_when with_prev2_POS_full:IN_WRB NA
+conn:if conn_POS:IN sent_pos:1 prev1:similarly prev1_POS:RB with_prev1_full:similarly_if with_prev1_POS_full:RB_IN NA

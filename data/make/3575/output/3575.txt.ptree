@@ -1,0 +1,26 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (DT the) (JJ early) (JJ 20th) (NN century)))
+    (, ,)
+    (PP (RB prior) (TO to)
+      (NP
+        (NP (DT the) (JJ fascist) (NNS regimes) (NN restoration))
+        (PP (IN of)
+          (NP (JJ ancient) (NN place) (NNS names)))))
+    (, ,)
+    (NP (DT the) (NN tiber) (NN island))
+    (VP (VBD was)
+      (VP (VBN called)
+        (NP (DT the) (NNP isola) (FW di) (NNP s.) (NN bartolomeo))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB likewise))
+    (NP (JJ cestius) (NN bridge))
+    (VP (VBD was)
+      (VP (VBN called)
+        (NP (DT the) (JJ ponte) (NN s.) (NN bartolomeo))))
+    (. .)))
+

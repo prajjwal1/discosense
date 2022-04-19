@@ -1,0 +1,55 @@
+(ROOT
+  (S
+    (NP (DT these) (NNS risks))
+    (VP (MD may)
+      (VP (VB be)
+        (VP (VBN minimized)
+          (PP (IN by)
+            (S
+              (VP
+                (VP
+                  (ADVP (RB adequately))
+                  (VBG hydrating)
+                  (NP (DT the) (NN patient)))
+                (, ,)
+                (VP (VBG minimizing)
+                  (NP
+                    (NP (DT the) (NN amount))
+                    (PP (IN of)
+                      (NP (NN contrast) (NN material)))
+                    (SBAR
+                      (WHNP (WDT that))
+                      (S
+                        (VP (VBZ is)
+                          (VP (VBN infused)))))))
+                (, ,)
+                (CC and)
+                (VP (VBG maximizing)
+                  (NP
+                    (NP (DT the) (NN time) (NN interval))
+                    (PP (IN between)
+                      (NP (JJ consecutive) (NN contrast) (NNS studies)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nonetheless))
+    (NP (PRP it))
+    (VP (VBZ is)
+      (ADJP (JJ prudent)
+        (S
+          (VP (TO to)
+            (VP (VB avoid)
+              (NP
+                (NP (DT the) (NN use))
+                (PP (IN of)
+                  (NP (NN contrast) (NNS media))))
+              (SBAR
+                (WHADVP (WRB when))
+                (S
+                  (NP (DT an) (JJ alternative) (NN imaging) (NN modality))
+                  (VP (MD can)
+                    (VP (VB provide)
+                      (NP (NN equivalent) (NN information)))))))))))
+    (. .)))
+

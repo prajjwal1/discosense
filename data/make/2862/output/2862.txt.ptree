@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (VP (VBN known)
+      (ADVP (RB globally))
+      (PP (IN over)
+        (NP
+          (NP (DT the) (JJ last) (NN generation))
+          (PP (IN as)
+            (NP
+              (NP (DT the) (JJ pre) (JJ modern) (NN site))
+              (PP (IN of)
+                (NP (JJ tribal) (JJ urban) (NN guerrilla) (NN warfare))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nevertheless))
+    (NP (JJ professional) (NN anthropology))
+    (VP
+      (ADVP (RB still))
+      (VBZ approaches)
+      (NP
+        (NP (NNS anthropologists))
+        (PP (IN on)
+          (NP (DT that) (NN basis)))))
+    (. .)))
+

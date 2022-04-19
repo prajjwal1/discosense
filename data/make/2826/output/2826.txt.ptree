@@ -1,0 +1,49 @@
+(ROOT
+  (S
+    (NP (DT the) (NN climate) (NN change))
+    (VP (VBD hindered)
+      (NP
+        (NP (NNS curlers))
+        (, ,)
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP (VBD played)
+              (NP (NNS outdoors))
+              (PP (IN on)
+                (NP (JJ natural) (NN ice)))
+              (PP (IN until)
+                (NP (DT the) (JJ 20th) (NN century))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nonetheless))
+    (NP (DT the) (NNS scots))
+    (VP (VBD had)
+      (VP
+        (VP (, ,)
+          (PP (IN by)
+            (NP (DT the) (JJ mid) (CD 1800) (NNS s)))
+          (, ,) (VBD formalized)
+          (NP
+            (NP (VBG curling) (NNS rules))
+            (PP (IN of)
+              (NP (NN play)
+                (CC and)
+                (NN equipment)))))
+        (CC and)
+        (VP (VBD had)
+          (VP (VBN established)
+            (NP (PRP them))))
+        (NP
+          (NP
+            (NP (JJ other) (NN club))
+            (PP (IN of)
+              (NP
+                (NP (NNS curlers))
+                (ADVP (RB worldwide)))))
+          (, ,)
+          (NP (DT the) (JJ royal) (NN caledonian) (VBG curling) (NN club)))))
+    (. .)))
+

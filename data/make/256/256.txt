@@ -1,0 +1,1 @@
+we factored in both language family and geographic location to ensure they did not completely account for the observed language feature distribution. thus although most linguistic features are subject to strong areal effects, these effects cannot explainthe observed findings.

@@ -1,0 +1,53 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (NN rest))
+      (PP (IN of)
+        (NP (DT the) (NN world))))
+    (VP (VBD made)
+      (ADJP (JJ due))
+      (PP (IN with)
+        (NP
+          (NP (DT a) (NN chamber) (NN pot))
+          (CC and)
+          (NP
+            (NP (DT a) (NN commode))
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (VP (VBD was)
+                  (NP
+                    (NP (DT a) (NN type))
+                    (PP (IN of)
+                      (NP
+                        (NP (DT a) (NN nightstand))
+                        (PP (IN for)
+                          (SBAR
+                            (WHADVP (WRB when))
+                            (S
+                              (NP (NN nature))
+                              (VP (VBD called)
+                                (PP (IN in)
+                                  (NP
+                                    (NP (DT the) (NN middle))
+                                    (PP (IN of)
+                                      (NP (DT the) (NN night)))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB because) (IN of)
+      (NP (DT that) (RBS most) (JJ vintage) (NN bath) (NNS designs)))
+    (, ,)
+    (ADVP (RB even)
+      (PP (IN on)
+        (NP
+          (ADJP (RB much) (JJR older))
+          (NNS houses))))
+    (, ,)
+    (VP (MD will)
+      (VP (VB fit)
+        (PP (IN into)
+          (NP (DT the) (CD 1900) (NNS 1930s) (NN style)))))
+    (. .)))
+

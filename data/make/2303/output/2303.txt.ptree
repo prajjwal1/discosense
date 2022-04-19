@@ -1,0 +1,49 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP he))
+      (VP (VBZ tells)
+        (NP (DT a) (JJ cinematography) (NN story))
+        (PP (IN on)
+          (NP
+            (NP (NN top))
+            (PP (IN of)
+              (NP (DT the) (NNS writers)
+                (CC or)
+                (NNS directors) (NN story)))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP he))
+      (VP (VBZ designs)
+        (NP (DT the) (NN photography))
+        (PP (VBG according)
+          (PP (TO to)
+            (NP
+              (NP (DT the) (NNS beats)
+                (CC and)
+                (NNS measures))
+              (PP (IN of)
+                (NP (DT the) (NN narrative))))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (PP (RB because) (IN of)
+      (NP
+        (NP (DT that) (NN hes))
+        (VP (VBG going)
+          (S
+            (VP (TO to)
+              (VP (VB shoot)
+                (ADVP (RB differently))
+                (PP (IN on)
+                  (NP (JJ jerry) (NN maguire)))
+                (SBAR (IN than)
+                  (S
+                    (NP (PRP he))
+                    (VP (MD would)))))))
+          (PP (IN on)
+            (NP (DT the) (VBN lost) (NN world))))))
+    (. .)))
+

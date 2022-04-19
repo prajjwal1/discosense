@@ -1,0 +1,51 @@
+(ROOT
+  (S
+    (NP (PRP it))
+    (VP (MD could)
+      (VP (VB begin)
+        (S
+          (VP (TO to)
+            (VP (VB invest)
+              (ADVP (RB seriously))
+              (PP (IN in)
+                (NP
+                  (NP (JJ new) (NNS technologies))
+                  (, ,)
+                  (PP (JJ such) (IN as)
+                    (NP
+                      (NP (VBG fracking)
+                        (CC and)
+                        (NN lng))
+                      (, ,)
+                      (SBAR
+                        (WHNP (WDT that))
+                        (S
+                          (VP (VBP have)
+                            (VP (VBN boosted)
+                              (NP (PRP$ its) (JJ global) (NNS competitors)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (ADJP (JJ short)))
+    (NP (PRP it))
+    (VP (MD could)
+      (VP (VB begin)
+        (S
+          (VP (TO to)
+            (VP (VB respond)
+              (PP (TO to)
+                (NP
+                  (NP (DT the) (NN market))
+                  (, ,)
+                  (ADJP (RB as) (VBN opposed)))))))
+        (PP (TO to)
+          (S
+            (VP (VBG trying)
+              (S
+                (VP (TO to)
+                  (VP (VB force)
+                    (NP (PRP$ its) (NN hand))))))))))
+    (. .)))
+

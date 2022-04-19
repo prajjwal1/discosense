@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (ADVP (RB first))
+    (, ,)
+    (NP
+      (NP (DT the) (JJ wooden) (NNS blocks))
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (VP (VBP have)
+            (VP (VBN holes)
+              (PP (IN inside)
+                (ADJP (JJ essential)))
+              (PP (TO to)
+                (NP (NN construction)))))))
+      (, ,))
+    (VP (VBP are)
+      (ADJP
+        (NP (DT a) (RB little))
+        (JJ wonky)))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB because) (IN of)
+      (NP (DT this)))
+    (NP (PRP they))
+    (VP (VBP dont)
+      (ADVP (RB always))
+      (VP (VB stay)
+        (SBAR
+          (WHADVP (WRB where))
+          (S
+            (NP (NN theyre))
+            (VP (VBD supposed)
+              (PP (TO to))
+              (, ,)
+              (ADVP (RB especially))
+              (PP (IN for)
+                (NP (JJ cosmetic) (NNS pieces))))))))
+    (. .)))
+

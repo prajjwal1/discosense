@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (NP (DT a) (JJR narrower) (NN valley))
+    (VP (VBZ drains)
+      (NP (DT the) (JJ grounded) (NN ice))
+      (ADVP (RBR less) (RB efficiently))
+      (PP (IN as)
+        (NP (NN sea) (NN level) (NNS rises)))
+      (, ,)
+      (S
+        (VP (VBG reducing)
+          (NP (PRP$ its) (JJ destabilizing) (NN effect)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (ADJP (RB similarly)
+        (PP (IN for)
+          (NP
+            (NP (JJR larger))
+            (, ,)
+            (VP (VBN grounded)))))
+      (NN ice))
+    (VP (VBZ flows)
+      (ADVP (RBR more) (RB rapidly))
+      (PP (IN on)
+        (NP
+          (NP (DT the) (JJ monotonic) (NN slope))
+          (PP (IN outside)
+            (NP (DT the) (JJ central) (NN valley))))))
+    (. .)))
+

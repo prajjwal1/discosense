@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP we))
+      (VP (VBP are)
+        (VP (VBN told)
+          (S
+            (VP (TO to)
+              (VP (VB avoid)
+                (S
+                  (NP (DT all))
+                  (VP (VB appear)
+                    (NP
+                      (NP (NNS ances))
+                      (PP (IN of)
+                        (NP (NN evil))))))))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (NN substitution))
+      (VP (VBZ is) (RB not)
+        (ADJP (JJ indicative)
+          (PP (IN of)
+            (NP (NN avoidance))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB rather))
+    (NP (PRP it))
+    (VP (VBZ seems)
+      (S
+        (VP (TO to)
+          (VP (VB be)
+            (VP
+              (ADVP (RB rapidly))
+              (VBG approaching)
+              (NP (DT the) (NN evil)))))))
+    (. .)))
+

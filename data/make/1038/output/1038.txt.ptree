@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (NP (DT this) (NN class))
+    (VP
+      (VP (VBZ is)
+        (NP
+          (NP (DT a) (JJ core) (NN program) (NN requirement))
+          (PP (IN for)
+            (NP (JJ linguistics) (NNS majors)))))
+      (CC and)
+      (VP (VBZ is)
+        (ADVP (RB therefore))
+        (ADJP (RB quite) (JJ specialized))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB however))
+    (NP
+      (NP (DT the) (NN pattern) (NN identification))
+      (CC and)
+      (NP
+        (NP (NN argument) (NN building) (NNS skills))
+        (SBAR
+          (S
+            (NP (PRP we))
+            (VP (VB focus)
+              (PRT (RP on)))))))
+    (VP (VBP are)
+      (ADJP
+        (ADJP (RB broadly) (JJ general)
+          (CC and)
+          (JJ valuable))
+        (PP (IN beyond)
+          (NP
+            (NP (PRP$ their) (VBN specialized) (NN application))
+            (PP (IN in)
+              (NP (JJ linguistic) (NNS studies)))))))
+    (. .)))
+

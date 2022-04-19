@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (NP
+      (NP (NN chrome) (CD 31))
+      (PP (IN for)
+        (NP (NN android)))
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (VP (MD will)
+            (VP (VB be)
+              (VP (VBG arriving)
+                (ADVP (RB soon))
+                (PP (IN on)
+                  (NP (JJ google) (NN play))))))))
+      (, ,))
+    (VP (VBZ has)
+      (VP (VBN gained)
+        (NP (NN application) (NNS shortcuts))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (ADJP (JJ short)))
+    (NP (DT the) (NN feature))
+    (VP (VBZ lets)
+      (S
+        (NP (NNS users))
+        (VP (VB add)
+          (NP (NN website) (NNS shortcuts))
+          (PP (TO to)
+            (NP
+              (NP (PRP$ their) (JJ android) (NN home) (NN screen))
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (VP (VBP open)
+                    (PP (IN in)
+                      (NP
+                        (NP (DT a) (JJ normal) (NN chrome))
+                        (PP (IN for)
+                          (NP (JJ android) (NN window)))))))))))))
+    (. .)))
+

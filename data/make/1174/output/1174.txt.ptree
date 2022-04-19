@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (ADVP (RB well))
+    (NP (DT some) (NN research))
+    (VP (VBZ is)
+      (ADVP (RB now))
+      (VP (VBG showing)
+        (SBAR (IN that)
+          (S
+            (ADVP (RB very) (RB well))
+            (VP (MD could)
+              (VP (VB be)
+                (ADJP (JJ true))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB specifically))
+    (NP
+      (NP
+        (NP (DT the) (NN subject))
+        (PP (IN of)
+          (NP (JJ bright) (NNS colors))))
+      (CC and)
+      (NP
+        (NP (PRP$ their) (NN effect))
+        (PP (IN on)
+          (NP (PRP$ our) (NN mood)))))
+    (VP (VBZ is))
+    (. .)))
+

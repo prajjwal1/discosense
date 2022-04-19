@@ -1,0 +1,56 @@
+(ROOT
+  (S
+    (PP (IN at)
+      (NP (DT the) (VBN appointed) (NN time)))
+    (NP (NN christ))
+    (VP (MD will)
+      (VP (VB come)
+        (PP (IN in)
+          (NP (NN judgment)))
+        (S
+          (VP (TO to)
+            (VP (VB punish)
+              (NP
+                (NP (DT the) (NN inhabitants))
+                (PP (IN of)
+                  (NP
+                    (NP (DT this) (NN earth))
+                    (PP (IN for)
+                      (NP (PRP$ their) (NN iniquity)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nevertheless))
+    (NP (DT the) (NNS scriptures))
+    (VP (VBZ inform)
+      (NP (PRP us))
+      (PP (IN of)
+        (NP
+          (NP
+            (NP (DT the) (NNS signs))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (MD will)
+                  (ADVP (RB obviously))
+                  (VP (VB point)
+                    (PP (TO to)
+                      (NP (DT the) (NN end) (NNS times))))))))
+          (CC or)
+          (NP
+            (NP (DT the) (NN period))
+            (SBAR
+              (WHPP (IN during)
+                (WHNP (WDT which)))
+              (S
+                (NP
+                  (NP (DT the) (NNS affairs))
+                  (PP (IN of)
+                    (NP (DT the) (NN world))))
+                (VP (MD will)
+                  (VP (VB be)
+                    (VP (VBN wound)
+                      (PRT (RP up)))))))))))
+    (. .)))
+

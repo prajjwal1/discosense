@@ -1,0 +1,1 @@
+there is likely to be an expectation of stability in the language it provides. consequently it may be necessary to proceed with more caution and to be prepared to provide forwards and backwards compatibility for changes.

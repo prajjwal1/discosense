@@ -1,0 +1,38 @@
+(ROOT
+  (S
+    (ADVP (RB undoubtedly))
+    (, ,)
+    (NP (DT this) (NN road))
+    (VP (VBZ has)
+      (VP (VBN been)
+        (ADJP (JJ full))
+        (PP (IN of)
+          (NP (NNS challenges)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB consequently))
+    (NP
+      (NP (PRP$ our) (NN task))
+      (PP (IN as)
+        (NP
+          (NP (PRP$ your) (NNS representatives))
+          (PP (IN in)
+            (NP (NN government))))))
+    (VP (VBZ is)
+      (S
+        (VP (TO to)
+          (VP (VB work)
+            (PP (IN towards)
+              (NP
+                (NP (DT the) (NN actualization))
+                (PP (IN of)
+                  (NP
+                    (NP (DT a)
+                      (ADJP (RBR more) (JJ effective))
+                      (JJ federal) (NN system))
+                    (PP (IN of)
+                      (NP (NN governance)))))))))))
+    (. .)))
+

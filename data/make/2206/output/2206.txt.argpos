@@ -1,0 +1,2 @@
+conn:if conn_POS:IN sent_pos:0 NA
+conn:as conn_POS:IN prev1:expected prev1_POS:VBN with_prev1_full:expected_as with_prev1_POS_full:VBN_IN prev2:be prev2_POS:VB with_prev2_full:be_as with_prev2_POS_full:VB_IN NA

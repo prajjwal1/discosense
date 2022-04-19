@@ -1,0 +1,1 @@
+the qrs peaks are then individually classified into various types. subsequently a time average over the registration period is formed within each type.

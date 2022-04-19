@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (PP (IN at)
+      (NP (DT this) (NN point)))
+    (, ,)
+    (NP (JJ thompsons) (NN lawyer))
+    (VP (VBD had)
+      (NP
+        (NP (NN difficulty))
+        (VP (VBG reaching)
+          (NP (NN thompson))
+          (SBAR (IN because)
+            (S
+              (NP (NN thompson))
+              (VP (VBD had)
+                (VP (VBN moved)
+                  (S
+                    (VP (TO to)
+                      (VP (VB kentucky)
+                        (PP (IN without)
+                          (S
+                            (VP (VBG giving)
+                              (NP (PRP$ his) (NN attorney))
+                              (NP (PRP$ his) (JJ new) (NN address)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN as)
+      (S
+        (NP (DT a) (NN result))
+        (VP (VBZ thompsons)
+          (NP (NN response))
+          (PP (TO to)
+            (NP (NNS admissions))))))
+    (VP (VBD was)
+      (ADVP (RB untimely)))
+    (. .)))
+

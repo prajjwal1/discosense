@@ -1,0 +1,57 @@
+(ROOT
+  (S
+    (SBAR (IN as)
+      (S
+        (NP (PRP$ their) (NN press) (NN release))
+        (VP (VBZ points)
+          (PRT (RP out)))))
+    (, ,)
+    (NP (RBS most) (JJ japanese) (NN content) (NNS producers))
+    (VP (VBP are)
+      (NP
+        (NP (JJR smaller) (NNS firms))
+        (PP (IN with)
+          (NP (JJ few) (NNS resources)))
+        (S
+          (VP (TO to)
+            (VP
+              (VP (VB create)
+                (NP (JJ foreign) (NN language) (NN product)))
+              (CC and)
+              (VP
+                (ADVP (RB thereafter))
+                (VB export)
+                (NP (PRP it))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB therefore))
+    (NP (DT the) (JJ new) (NNS partners))
+    (VP (MD will)
+      (VP (VB help)
+        (NP (JJ local) (NNS firms))
+        (PP (IN with)
+          (NP
+            (NP (NN distribution)
+              (CC and)
+              (NNS sales))
+            (PP (IN of)
+              (NP (NN content)))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (MD can)
+                  (VP (VB be)
+                    (NP
+                      (NP (NN delivery))
+                      (PP (IN by)
+                        (NP (NN pc)
+                          (CC or)
+                          (NN smartphone)))
+                      (, ,)
+                      (VP (VBG acting)
+                        (PP (IN as)
+                          (NP (DT a) (NNS sales) (NN agent)))))))))))))
+    (. .)))
+

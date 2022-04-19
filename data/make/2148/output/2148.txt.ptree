@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (NN effect))
+      (PP (IN of)
+        (NP
+          (NP (DT the) (NN ret) (NN removal))
+          (PP (IN on)
+            (NP (NNS earnings))))))
+    (VP (VBZ is)
+      (ADJP
+        (ADJP (JJ uneven)
+          (PP (IN over)
+            (NP
+              (NP (DT the) (NNS earnings) (NN distribution))
+              (ADJP (JJ large)
+                (CC and)
+                (JJ significant))
+              (PP (IN in)
+                (NP (DT the) (JJR higher) (NNS percentiles))))))
+        (CC but)
+        (RB not)
+        (ADJP (RB statistically) (JJ significant)))
+      (PP (IN in)
+        (NP (DT the) (JJR lower) (NNS percentiles))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thus))
+    (NP (DT the) (NN removal))
+    (VP (VBZ appears)
+      (S
+        (VP (TO to)
+          (VP (VB increase)
+            (NP (NNS earnings))
+            (PP (IN for)
+              (NP
+                (NP (NNS individuals))
+                (PP (IN with)
+                  (NP (JJR higher) (NNS earnings)))))))))
+    (. .)))
+

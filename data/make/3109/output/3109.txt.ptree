@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (S
+      (VP (VBG mixing)
+        (PP (IN with)
+          (NP
+            (NP (JJR cheaper) (NN essentials) (NNS oils))
+            (PP (IN of)
+              (NP (DT the) (JJ same) (NN plant)))))))
+    (VP (CC but)
+      (VP (VBN extracted)
+        (PP (IN from)
+          (NP
+            (NP (DT a) (JJ different) (NN part))
+            (PP (IN of)
+              (NP (DT the) (NN plant)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP
+        (NP (NN example) (NN clove) (NN bud))
+        (PP (IN with)
+          (NP (JJ clove) (NNS leaves)))))
+    (NP (NNP cinnamon))
+    (VP (VBP bark)
+      (PP (IN with)
+        (NP
+          (NP (NNP cinnamon) (NN leaf) (NN angelica) (NN root))
+          (PP (IN with)
+            (NP (NN angelica) (NN leaf))))))
+    (. .)))
+

@@ -1,0 +1,38 @@
+(ROOT
+  (S
+    (NP
+      (NP (PDT all) (DT the) (NNS students))
+      (, ,)
+      (NP (NNS boys)
+        (CC and)
+        (NNS girls))
+      (, ,))
+    (VP (VBD knew)
+      (SBAR (IN that)
+        (S
+          (NP (NNS gandhiji))
+          (ADVP (RB always))
+          (VP (VBD taught)
+            (S (RB not)
+              (VP (TO to)
+                (VP (VB beat)
+                  (CC or)
+                  (VB hurt)
+                  (NP (NN anybody)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB because) (IN of)
+      (NP (DT this)))
+    (NP (NNS students))
+    (VP (VBD had)
+      (NP
+        (NP (DT no) (NN fear))
+        (PP (IN of)
+          (S
+            (VP (VBG beating)
+              (PP (IN in)
+                (NP (PRP$ his) (JJ national) (NN school))))))))
+    (. .)))
+

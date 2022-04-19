@@ -1,0 +1,60 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNS universities))
+      (SBAR
+        (S
+          (NP (JJ australia) (JJ chief) (JJ executive) (NN belinda) (NNS robinson))
+          (VP (VBD said)
+            (SBAR
+              (S
+                (NP (NNS universities))
+                (VP (VBD were)
+                  (PP (IN under)
+                    (NP (JJ significant) (JJ financial) (NN pressureand))))))))))
+    (VP (VBD had)
+      (S
+        (VP (TO to)
+          (VP (VB adapt)
+            (ADVP (RB quickly))
+            (PP (TO to)
+              (NP
+                (NP (NNS changes))
+                (PP (IN in)
+                  (NP
+                    (NP (NN student) (NN demand))
+                    (PP (IN for)
+                      (NP (NNS courses)))))))))))
+    (. .)))
+
+(ROOT
+  (S (CC but)
+    (NP (PRP she))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (NNS students))
+          (VP (MD could)
+            (ADVP (RB also))
+            (VP (VB benefit)
+              (PP (IN from)
+                (NP (NN contact)))
+              (PP (IN with)
+                (NP
+                  (NP (JJ casual) (NN staff))
+                  (SBAR
+                    (WHNP (WP who))
+                    (S
+                      (VP (VBD had)
+                        (NP
+                          (NP (JJ professional) (NN experience))
+                          (PP (IN in)
+                            (NP
+                              (NP (DT the) (NN field))
+                              (SBAR
+                                (S
+                                  (NP (PRP they))
+                                  (VP (VBD were)
+                                    (VP (VBG teaching))))))))))))))))))
+    (. .)))
+

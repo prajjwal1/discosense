@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNS joggers))
+      (PP (IN in)
+        (NP (JJ bright) (JJ orange) (JJ elastic) (NN underwear))))
+    (VP (VBP pause)
+      (S
+        (VP (TO to)
+          (VP (VB scrape)
+            (NP (NN elephant) (NN dung))
+            (PP (IN off)
+              (NP (PRP$ their) (NNS nikes)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN by)
+      (NP
+        (NP (NN contrast))
+        (PP (IN in)
+          (NP (PRP$ my) (JJ ideal) (NN future)))))
+    (, ,)
+    (NP (NN ranching))
+    (VP (MD would)
+      (VP (VB remain)
+        (NP
+          (NP (DT the) (NN backbone))
+          (PP (IN of)
+            (NP (DT the) (JJ arid) (NNS shortgrass) (NNS plains))))
+        (PP (IN for)
+          (NP (JJ simple) (JJ economic) (NNS reasons)))))
+    (. .)))
+

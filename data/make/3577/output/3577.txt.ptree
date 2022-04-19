@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (PP (IN from)
+      (NP (CD 2010) (TO to) (CD 2015)))
+    (, ,)
+    (NP (JJ metrorail) (NN ridership))
+    (ADVP (RB greatly))
+    (VP (VBD outpaced)
+      (NP (NN population) (NN growth))
+      (, ,)
+      (S
+        (VP (VBG increasing)
+          (PP (IN by)
+            (NP
+              (QP (RB about) (CD 25))
+              (NN %))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB specifically)
+      (PP (IN from)
+        (NP (CD 2014) (TO to) (CD 2015))))
+    (, ,)
+    (NP (NN metrorail)
+      (CC and)
+      (NN metromover) (NNS ridership))
+    (VP (VBD remained)
+      (ADJP (RB fairly) (JJ steady))
+      (SBAR (IN while)
+        (S
+          (NP (JJ metrobus) (NN ridership))
+          (VP (VBD continued)
+            (S
+              (VP (TO to)
+                (VP (VB decline)
+                  (PP (IN amid)
+                    (NP (JJ record) (JJ low) (NN oil)
+                      (CC and)
+                      (NN gasoline) (NNS prices)))
+                  (NP (DT that) (NN year)))))))))
+    (. .)))
+

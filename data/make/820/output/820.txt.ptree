@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (NP (NN mexico))
+    (VP (VBZ has)
+      (VP (VBN achieved)
+        (NP (JJ considerable) (NN progress))
+        (PP (IN in)
+          (S
+            (VP (VBG developing)
+              (NP (JJ environmental) (NN information)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP
+        (NP (NN instance))
+        (PP (IN in)
+          (NP (CD 1995)))))
+    (S
+      (NP
+        (NP (DT the) (JJ first) (NN compendium))
+        (PP (IN on)
+          (NP (NN environment) (NNS statistics))))
+      (VP (VBD was)
+        (VP (VBN published))))
+    (CC and)
+    (S
+      (ADVP (RB actually))
+      (NP (DT the) (JJ second) (NN compendium))
+      (VP (VBZ is)
+        (VP (VBG being)
+          (VP (VBN prepared)
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (VP (MD will)
+                  (VP (VB be)
+                    (VP (VBN printed)
+                      (PP (IN by)
+                        (NP
+                          (NP (NN middle))
+                          (PP (IN of)
+                            (NP (JJ present) (NN year))))))))))))))
+    (. .)))
+

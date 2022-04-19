@@ -1,0 +1,44 @@
+(ROOT
+  (S
+    (S
+      (NP (FW i))
+      (VP (VBP agree)
+        (SBAR (IN that)
+          (S
+            (NP (RB much))
+            (VP (VBZ is)
+              (VP (VBN left)
+                (PRT (RP out))))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (FW i))
+      (VP (VBP am) (RB not)
+        (ADJP (RB so) (JJ sure)
+          (SBAR
+            (S
+              (NP (NN methodology))
+              (VP (VBZ is)
+                (S
+                  (VP (TO to)
+                    (VP (VB blame))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB rather))
+    (NP (DT the) (NN omission))
+    (VP (VBZ is)
+      (VP (VBN caused)
+        (PP (IN by)
+          (NP
+            (NP (PRP$ our) (NN restriction))
+            (PP (IN of)
+              (NP (JJ economic) (NN methodology)))))
+        (PP (TO to)
+          (NP
+            (NP (JJ particular) (NNS assumptions))
+            (PP (IN about)
+              (NP (NN reality)))))))
+    (. .)))
+

@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (NP (PRP$ our) (JJ routing) (NN mechanism))
+    (VP (VBZ is)
+      (ADJP (RBR more) (JJ efficient)
+        (PP (IN in)
+          (NP
+            (NP (NN presence))
+            (PP (IN of)
+              (NP
+                (NP (JJ malicious) (NNS nodes))
+                (ADJP (JJ due)
+                  (PP (TO to)
+                    (NP (NN security) (NN mechanism))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (PP (IN on)
+        (NP (DT the) (JJ other) (NN hand)))
+      (NP (NN iaco)
+        (CC and)
+        (NN leach))
+      (VP (MD can) (RB not)
+        (VP (VB distinguish)
+          (NP (JJ malicious) (NN node))
+          (PP (IN in)
+            (NP (PRP$ their) (NN path))))))
+    (, ,)
+    (CC and)
+    (, ,)
+    (S
+      (NP (DT that))
+      (VP (VBZ is)
+        (SBAR
+          (WHADVP (WRB why))
+          (S
+            (NP
+              (NP (NN packet) (NN loss))
+              (CC or)
+              (NP (NN packet) (NN misdirection) (NN ratio)))
+            (VP (VBZ is)
+              (ADJP (RB very) (JJ high)))))))
+    (. .)))
+

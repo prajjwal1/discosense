@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (NP (PRP he))
+    (ADVP (RB also))
+    (VP (VBD advanced)
+      (NP
+        (NP (DT a) (JJ modernist) (NN constitution))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBN incorporated)
+              (NP
+                (NP (JJ equal) (NNS rights))
+                (CC and)
+                (NP (JJ individual) (NNS freedoms))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN though)
+      (NP (DT this) (JJ rapid) (NN modernization)))
+    (ADVP (RB though))
+    (, ,)
+    (VP (VBD created)
+      (NP
+        (NP (DT a) (NN backlash))
+        (, ,)
+        (CC and)
+        (NP
+          (NP (DT a) (JJ reactionary) (NN uprising))
+          (VP (VBN known)
+            (PP (IN as)
+              (NP
+                (NP (DT the) (JJ khost) (NN rebellion))
+                (SBAR
+                  (WHNP (WDT which))
+                  (S
+                    (VP (VBD was)
+                      (VP (VBN suppressed)
+                        (PP (IN in)
+                          (NP (CD 1924)))))))))))))
+    (. .)))
+

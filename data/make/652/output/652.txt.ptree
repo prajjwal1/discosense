@@ -1,0 +1,45 @@
+(ROOT
+  (S
+    (NP
+      (NP (CD one))
+      (PP (IN of)
+        (NP
+          (NP (DT the) (JJ major) (NNS aspects))
+          (PP (IN of)
+            (S
+              (VP (VBG determining)
+                (SBAR (IN if)
+                  (S
+                    (NP (DT a) (NN crime))
+                    (VP (VBD was)
+                      (UCP
+                        (ADJP (JJ committed))
+                        (CC and)
+                        (PP (IN by)
+                          (WHNP (WP whom)))))))))))))
+    (, ,)
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (NN interrogation) (NN process))
+        (PP (IN of)
+          (NP (DT the) (JJ sexual) (NN offender)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB therefore))
+    (NP (DT the) (NN law) (NN enforcement) (NN investigator))
+    (VP (MD must)
+      (VP
+        (VP (VB perform)
+          (NP (DT the) (JJ sexual) (NN assault) (NN investigation)))
+        (, ,)
+        (VP (VB identify))
+        (, ,)
+        (VP (VB apprehend))
+        (, ,)
+        (CC and)
+        (VP (VB interrogation)
+          (NP (DT the) (VBN alleged) (JJ sexual) (NN offender)))))
+    (. .)))
+

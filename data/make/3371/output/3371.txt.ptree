@@ -1,0 +1,23 @@
+(ROOT
+  (S
+    (NP (DT this) (NN year))
+    (, ,)
+    (ADVP (RB thankfully))
+    (, ,)
+    (NP (PRP we))
+    (VP (VBD were)
+      (ADVP (RB home))
+      (ADJP (JJ free)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB interestingly))
+    (NP (PRP$ our) (NN inspection))
+    (VP (VBD was)
+      (ADJP (JJ due)
+        (NP (RB roughly) (DT the) (JJ same) (NN time)))
+      (PP (IN as)
+        (NP (NN pesach))))
+    (. .)))
+

@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (PP (IN for)
+      (NP (NN example)))
+    (, ,)
+    (NP (DT these) (JJ financial) (NNS innovations))
+    (VP (VBP make)
+      (S
+        (NP (PRP it))
+        (ADJP (JJ possible)
+          (S
+            (VP (TO to)
+              (VP (VB carry)
+                (PRT (RP out))
+                (NP
+                  (NP (DT a) (VBN given) (NN level))
+                  (PP (IN of)
+                    (NP (NNS transactions))))
+                (PP (IN while)
+                  (S
+                    (VP (VBG carrying)
+                      (NP (JJR less) (NN cash)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thus))
+    (NP
+      (NP (DT the) (NN demand))
+      (PP (IN for)
+        (NP (NN money))))
+    (VP (VBZ has)
+      (VP (VBN fallen)
+        (PP (IN for)
+          (NP
+            (NP (VBN given) (NNS levels))
+            (PP (IN of)
+              (NP
+                (NP (JJ nominal) (NN income))
+                (CC and)
+                (NP (DT the) (NN interest) (NN rate))))))))
+    (. .)))
+

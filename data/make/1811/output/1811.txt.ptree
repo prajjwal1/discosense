@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (NP (DT the) (NN term) (JJ liberal) (NN redneck))
+    (VP (MD will)
+      (VP (VB strike)
+        (NP (NNS progressives))
+        (PP (IN as)
+          (NP (DT an) (JJ absurd) (NN contradiction)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB yet))
+    (NP (NNS conservatives))
+    (VP (MD will)
+      (VP (VB have)
+        (NP (DT an) (JJ immediate) (, ,) (JJ wearying) (NN familiarity))
+        (PP (IN with)
+          (NP
+            (NP (DT the)
+              (ADJP (JJ angry) (, ,) (JJ judgmental) (, ,) (JJ uninformed)
+                (CC and)
+                (JJ doctrinaire))
+              (NN viewpoint))
+            (PP (IN of)
+              (NP (DT this) (NN group)))))))
+    (. .)))
+

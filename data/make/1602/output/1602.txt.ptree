@@ -1,0 +1,53 @@
+(ROOT
+  (S (CC nor)
+    (, ,)
+    (SBAR (IN if)
+      (S
+        (NP (PRP we))
+        (VP (VBP talk)
+          (PP (IN about)
+            (NP
+              (NP (DT the) (NN genius))
+              (PP (IN of)
+                (NP (NN derek) (NN walcott))))))))
+    (, ,)
+    (VP (VBP do)
+      (SBAR
+        (S
+          (NP (PRP we))
+          (VP (VBP picture)
+            (SBAR
+              (S
+                (NP (PRP him))
+                (ADVP (RB literally))
+                (VP (VBD inspired)
+                  (PP (IN by)
+                    (NP (DT an) (JJ actual) (NN muse))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (RB yet) (IN if)
+      (S
+        (NP (DT the) (NNS commentators))
+        (VP (VBP are)
+          (S
+            (VP (TO to)
+              (VP (VB be)
+                (VP (VBN believed))))))))
+    (, ,)
+    (NP
+      (NP (JJR more) (NNS people))
+      (PP (IN in)
+        (NP (NN america) (NN today))))
+    (VP (VBP believe)
+      (ADVP (RB quite) (RB literally))
+      (PP (IN in)
+        (NP (NNS angels)))
+      (PP (IN than) (IN at)
+        (NP
+          (NP (DT any) (NN time))
+          (PP (IN in)
+            (NP (DT the) (NN past))))))
+    (. .)))
+

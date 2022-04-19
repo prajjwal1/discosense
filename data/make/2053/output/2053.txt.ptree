@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (NP (NN god) (NN man))
+    (, ,)
+    (S
+      (VP
+        (ADVP (RB god))
+        (VBG giving)
+        (PRT (RP up))
+        (NP (NNS powers))))
+    (, ,)
+    (X (NN etc.))
+    (NP (DT this))
+    (VP (VBP are)
+      (NP (PRP$ your) (JJ own) (NNS assertions)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB however))
+    (NP (PRP you))
+    (VP (MD will) (RB not)
+      (VP (VB find)
+        (NP (JJ such) (NNS things))
+        (PP (IN in)
+          (NP (DT the) (NN bible)))))
+    (. .)))
+

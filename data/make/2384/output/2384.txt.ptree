@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (PP (VBG following)
+      (NP (VBG crosslinking)))
+    (, ,)
+    (NP (JJ peripheral) (NN blood) (NNS basophils))
+    (ADVP (RB clearly))
+    (VP (VBD increased)
+      (NP (NN intracellular) (NN calcium)))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN on)
+      (NP (DT the) (JJ other) (NN hand)))
+    (NP (CC neither)
+      (NP (JJ normal) (JJ epidermal) (NN lc))
+      (CC nor)
+      (NP (JJ dermal) (NN dr) (NN hi) (NN cd) (NN ia) (NNS cells)))
+    (VP (VBD changed)
+      (NP (PRP$ their) (NN intracellular) (NN calcium) (NN level))
+      (PP (IN after)
+        (NP (NN fcri) (NN crosslinking))))
+    (. .)))
+

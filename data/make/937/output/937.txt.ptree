@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (NN price))
+      (SBAR
+        (S
+          (NP (DT a) (NN customer))
+          (VP (VBZ expects)
+            (S
+              (VP (TO to)
+                (VP (VB pay))))))))
+    (VP (MD will)
+      (VP (VB depend)
+        (PRT (RP on))
+        (SBAR (IN whether)
+          (CC or)
+          (RB not)
+          (S
+            (NP (DT the) (NN product))
+            (VP (VBZ is)
+              (NP (DT a) (JJ high) (NN quality)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB conversely))
+    (NP (DT the) (NN price))
+    (VP
+      (VP (MD can)
+        (VP (VB indicate)
+          (NP (DT the) (NN quality))
+          (PP (TO to)
+            (NP (DT the) (NN customer)))))
+      (CC and)
+      (VP (MD can)
+        (VP (VB encourage)
+          (CC or)
+          (VB discourage)
+          (NP (NNS sales)))))
+    (. .)))
+

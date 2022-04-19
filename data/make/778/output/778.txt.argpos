@@ -1,0 +1,2 @@
+conn:although conn_POS:IN sent_pos:0 NA
+conn:also conn_POS:RB prev1:were prev1_POS:VBD with_prev1_full:were_also with_prev1_POS_full:VBD_RB prev2:decreases prev2_POS:NNS with_prev2_full:decreases_also with_prev2_POS_full:NNS_RB NA

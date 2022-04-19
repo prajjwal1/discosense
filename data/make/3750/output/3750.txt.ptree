@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP
+        (NP (NN mission))
+        (X (SYM e))))
+    (NP (PRP she))
+    (VP
+      (VP (VBZ seems)
+        (S
+          (VP (TO to)
+            (VP (VB have)
+              (VP (VBN become)
+                (S
+                  (ADJP (RB really) (JJ ill))))))))
+      (CC or)
+      (VP (VBD went)
+        (PP (IN into)
+          (NP (DT a) (NN coma)))
+        (PP (IN after)
+          (NP (DT the) (NN summer) (NN school) (NN incident)))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (PP (RB because) (IN of)
+      (NP
+        (NP (DT this))
+        (PP (RB because) (IN of)
+          (NP (DT this) (NN adol)))))
+    (VP (VBZ is)
+      (ADVP (RB no) (RB longer)))
+    (NP (PRP$ his) (JJ cheerful) (NN self))
+    (. .)))
+

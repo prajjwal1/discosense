@@ -1,0 +1,51 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (NN trio))
+      (PP (IN of)
+        (NP
+          (NP (NN mario) (NN rodriguez))
+          (, ,)
+          (NP (JJ elizabeth) (NN salazar))
+          (, ,)
+          (CC and)
+          (NP (NN vik) (NN montemayor)))))
+    (VP (VBZ specializes)
+      (PP (IN in)
+        (NP
+          (NP (DT an) (NN ambient) (, ,) (NNS repetitious) (, ,) (NN synth))
+          (VP (VBN driven)
+            (NP
+              (NP (NN kind))
+              (PP (IN of)
+                (NP (JJ indie) (NN music)))
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (VP (VBZ is)
+                    (ADVP (RB really))
+                    (ADJP (RB quite) (JJ spellbinding))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (JJ particular) (NN salazar)
+        (CC and)
+        (NNS rodriguezs)))
+    (NP (NNS vocals))
+    (VP (VBD cut)
+      (PP (IN through)
+        (NP
+          (NP (DT the) (JJ binary) (NN wall))
+          (PP (IN of)
+            (NP (NN sound)))))
+      (PP (IN like)
+        (NP
+          (NP (DT a) (JJ modernist) (NN version))
+          (PP (IN of)
+            (NP (NNS flowers)
+              (CC and)
+              (NNS machines))))))
+    (. .)))
+

@@ -1,0 +1,2 @@
+conn:but conn_POS:CC sent_pos:0 NA
+conn:because conn_POS:IN prev1:responsible prev1_POS:JJ with_prev1_full:responsible_because with_prev1_POS_full:JJ_IN prev2:isnt prev2_POS:NN with_prev2_full:isnt_because with_prev2_POS_full:NN_IN NA

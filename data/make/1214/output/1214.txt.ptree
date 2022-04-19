@@ -1,0 +1,45 @@
+(ROOT
+  (S
+    (NP (NN broker) (NNS dealers))
+    (ADVP (RB often))
+    (VP (VBP check)
+      (S
+        (NP (DT the) (NN liquidity))
+        (ADJP (JJ available)
+          (PP (IN in)
+            (NP
+              (NP (DT these) (NNS pools))
+              (PP (IN as)
+                (NP (DT a) (JJ first) (NN choice)))
+              (ADVP (RB prior)
+                (PP (TO to)
+                  (S
+                    (VP (VBG routing)
+                      (NP (NNS orders))
+                      (PP (TO to)
+                        (NP (DT an) (NN exchange))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN sum)))
+    (NP (DT no) (NN exchange))
+    (VP (VBZ possesses)
+      (NP
+        (NP (DT a) (NN monopoly))
+        (, ,)
+        (ADJP (JJ regulatory)
+          (CC or)
+          (RB otherwise))
+        (, ,)
+        (PP (IN in)
+          (NP
+            (NP (DT the) (NN execution))
+            (PP (IN of)
+              (NP
+                (NP (NN order) (NN flow))
+                (PP (IN from)
+                  (NP (NN broker) (NNS dealers)))))))))
+    (. .)))
+

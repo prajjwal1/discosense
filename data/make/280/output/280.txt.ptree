@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (SBAR (IN while)
+      (S
+        (NP (NNP seeming))
+        (ADJP (JJ pleasant)
+          (CC and)
+          (JJ cooperative))))
+    (, ,)
+    (NP (DT these) (NNS executives))
+    (VP
+      (VP (VBP tend)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (VP (VBN preoccupied)
+                (PP (IN with)
+                  (NP (PRP$ their) (JJ own) (NNS agendas))))))))
+      (CC and)
+      (VP (MD might)
+        (VP (VB prefer)
+          (S
+            (VP (TO to)
+              (VP (VB address)
+                (NP (NNS issues))
+                (ADVP (RB covertly))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thus))
+    (NP (PRP they))
+    (VP (MD can)
+      (VP (VB be)
+        (VP (VBN perceived)
+          (S
+            (ADJP (RB as) (JJ procrastinators)
+              (CC or)
+              (JJ manipulative))))))
+    (. .)))
+

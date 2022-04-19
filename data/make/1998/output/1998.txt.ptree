@@ -1,0 +1,52 @@
+(ROOT
+  (S
+    (NP (JJ big) (NN bang))
+    (VP (VBZ theory)
+      (NP
+        (NP (DT a) (NN model))
+        (PP (IN for)
+          (NP
+            (NP (DT the) (NN evolution))
+            (PP (IN of)
+              (NP
+                (NP (DT the) (NN universe))
+                (SBAR
+                  (WHNP (WDT that))
+                  (S
+                    (VP (VBZ holds)
+                      (SBAR (IN that)
+                        (S
+                          (NP
+                            (NP (DT all) (NN matter)
+                              (CC and)
+                              (NN energy))
+                            (PP (IN in)
+                              (NP (DT the) (NN universe))))
+                          (VP (VBD were)
+                            (VP (VBN concentrated)
+                              (PP (IN in)
+                                (NP
+                                  (NP (CD one) (NN point))
+                                  (, ,)
+                                  (SBAR
+                                    (WHNP (WDT which))
+                                    (S
+                                      (ADVP (RB suddenly))
+                                      (VP (VBD exploded)))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB subsequently))
+    (NP (NN matter))
+    (VP (VBZ condensed)
+      (S
+        (VP (TO to)
+          (VP (VB form)
+            (NP (NNS atoms) (, ,) (NNS elements) (, ,)
+              (CC and)
+              (JJ eventually) (NNS galaxies)
+              (CC and)
+              (NNS stars))))))
+    (. .)))
+

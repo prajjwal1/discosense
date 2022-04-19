@@ -1,0 +1,53 @@
+(ROOT
+  (S (CC nor)
+    (VP (VBD was)
+      (NP (PRP it))
+      (PP (IN in)
+        (NP (PRP$ her) (NN instance)))
+      (SBAR
+        (ADVP (RB alone))
+        (IN that)
+        (S
+          (NP (DT this) (NN terror))
+          (VP (VBD was)
+            (ADJP (JJ productive)
+              (PP (IN of)
+                (ADJP (JJ good))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN on)
+      (NP (DT the) (NN contrary)))
+    (NP (PRP it))
+    (ADVP (RB so))
+    (VP (VBD wrought)
+      (PP (IN among)
+        (NP
+          (NP (DT the) (NNS ladies))
+          (PP (IN of)
+            (NP (NN ravenna)))))
+      (SBAR (IN that)
+        (S
+          (NP (PRP they))
+          (VP (RB all)
+            (VP (VBD became))
+            (, ,)
+            (CC and)
+            (VP
+              (VP (VBP have)
+                (ADVP (RB ever) (IN since))
+                (VP (VBN been)))
+              (, ,)
+              (VP
+                (ADJP (RB much) (RBR more) (JJ compliant))
+                (PP (IN with)
+                  (NP (JJ mens) (NNS desires))))
+              (SBAR (IN than)
+                (S
+                  (NP (PRP they))
+                  (VP (VBD had)
+                    (VP (VBN been)
+                      (ADVP (RB before)))))))))))
+    (. .)))
+

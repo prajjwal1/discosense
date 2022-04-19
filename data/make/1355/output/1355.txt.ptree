@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (NP (JJ i) (NN dont))
+    (VP (VBP see)
+      (NP
+        (NP (JJ much) (NN room))
+        (PP (IN for)
+          (NP (DT a) (NN sequel)))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN although)
+      (FRAG
+        (PP (IN in)
+          (NP
+            (NP (DT the) (NN age))
+            (PP (IN on)
+              (NP (NNS sequels)
+                (CC and)
+                (NNS remakes)))))))
+    (, ,)
+    (NP (FW i))
+    (VP (VBP suppose)
+      (S
+        (NP (PRP$ its))
+        (ADJP (RB entirely) (JJ possible))))
+    (. .)))
+

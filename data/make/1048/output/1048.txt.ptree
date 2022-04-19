@@ -1,0 +1,71 @@
+(ROOT
+  (S
+    (PP (IN as)
+      (NP (DT a) (NN rule)))
+    (, ,)
+    (NP (PRP you))
+    (VP (VBP choose)
+      (S
+        (VP (TO to)
+          (VP (VB return)
+            (NP (DT a) (NN dataset))
+            (SBAR
+              (SBAR (IN if)
+                (S
+                  (NP (PRP you))
+                  (VP (VBP want)
+                    (S
+                      (VP (TO to)
+                        (VP
+                          (NP (NN filter) (, ,) (NN sort) (, ,)
+                            (CC or)
+                            (NN page))
+                          (PP (IN through)
+                            (NP (NNS data))))))
+                    (PP (IN after)
+                      (S
+                        (VP (VBG retrieving)
+                          (NP (PRP it))))))))
+              (CC or)
+              (SBAR (IN if)
+                (S
+                  (NP (PRP you))
+                  (VP (VBP want)
+                    (S
+                      (VP (TO to)
+                        (VP (VB maintain)
+                          (NP (DT a) (NN cache)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN contrast)))
+    (NP (PRP you))
+    (VP (VBP use)
+      (NP
+        (NP (DT a) (NN datareader))
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP (PRP you))
+            (VP
+              (VP
+                (ADVP (RB simply))
+                (VBP want)
+                (S
+                  (VP (TO to)
+                    (VP (VB return)
+                      (NP (DT the) (NNS data))))))
+              (CC and)
+              (VP (VBP are)
+                (VP (VBG using)
+                  (NP (DT a) (NN control))
+                  (PP (IN on)
+                    (NP (DT the) (NN page)
+                      (S
+                        (VP (TO to)
+                          (VP (VB display)
+                            (NP (DT that) (NNS data))))))))))))))
+    (. .)))
+

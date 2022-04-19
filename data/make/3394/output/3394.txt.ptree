@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (ADVP (RB however))
+    (, ,)
+    (NP
+      (NP (JJ major) (NNS changes))
+      (PP (IN in)
+        (NP (DT the) (NN economy))))
+    (VP (VBP have)
+      (VP (VBN meant)
+        (SBAR (IN that)
+          (S
+            (NP (DT the) (NN food) (NN situation))
+            (VP (VBZ is) (RB not)
+              (ADJP (VBG improving)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN on)
+      (NP (DT the) (NN contrary)))
+    (NP
+      (NP (DT the) (NN number))
+      (PP (IN of)
+        (NP
+          (ADJP (RB extremely) (JJ poor))
+          (NNS families))))
+    (VP (VBZ has)
+      (VP (VBN been)
+        (VP
+          (ADVP (RB rapidly))
+          (VBG increasing)
+          (PP (IN as)
+            (NP
+              (NP (DT a) (NN result))
+              (PP (IN of)
+                (NP (JJ high) (NN inflation))))))))
+    (. .)))
+

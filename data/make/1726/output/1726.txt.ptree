@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (PP (IN as)
+      (NP (DT the) (NN population) (NNS ages)))
+    (, ,)
+    (NP (NN nursing) (NNS homes))
+    (VP (MD will)
+      (VP (VB become)
+        (ADJP
+          (ADJP (JJR more))
+          (CC and)
+          (ADJP (RBR more) (JJ important)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (RB hence) (DT the) (NN job) (NNS prospects))
+      (PP (IN of)
+        (NP
+          (NP (DT those))
+          (SBAR
+            (WHNP (WP who))
+            (S
+              (VP (VBP desire)
+                (S
+                  (VP (TO to)
+                    (VP (VB work)
+                      (PP (IN in)
+                        (NP (CD one))))))))))))
+    (VP (VBP are)
+      (ADJP (JJ bright)))
+    (. .)))
+

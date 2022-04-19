@@ -1,0 +1,3 @@
+conn:accordingly conn_POS:RB sent_pos:0 NA
+conn:so_that conn_POS:RB_IN prev1:, prev1_POS:, with_prev1_full:,_so_that with_prev1_POS_full:,_RB_IN prev2:20,000 prev2_POS:CD with_prev2_full:20,000_so_that with_prev2_POS_full:CD_RB_IN NA
+conn:thereafter conn_POS:RB sent_pos:0 NA

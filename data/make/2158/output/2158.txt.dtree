@@ -1,0 +1,18 @@
+num(years-2, four-1)
+root(ROOT-0, years-2)
+conj_and(years-2, running-4)
+
+advmod(of-2, because-1)
+root(ROOT-0, of-2)
+det(shes-4, that-3)
+pobj(of-2, shes-4)
+auxpass(reassigned-6, been-5)
+vmod(shes-4, reassigned-6)
+xcomp(reassigned-6, to-7)
+aux(teach-9, to-8)
+xcomp(to-7, teach-9)
+amod(science-11, accelerated-10)
+dobj(teach-9, science-11)
+amod(students-14, advanced-13)
+prep_to(teach-9, students-14)
+

@@ -1,0 +1,45 @@
+(ROOT
+  (S
+    (S
+      (PP (IN at)
+        (NP (DT the) (NN time)))
+      (NP (DT this) (NN document))
+      (VP (VBD was)
+        (VP (VBN created))))
+    (, ,)
+    (NP (DT no) (JJ working) (NN group))
+    (VP (VBD was)
+      (ADJP (JJ chartered)
+        (S
+          (VP (TO to)
+            (VP (VB advance)
+              (NP (DT the) (JJ pics) (NN rdf) (NN xml) (NN mapping)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB consequently))
+    (NP
+      (NP (DT this) (NN document))
+      (PP (IN in)
+        (NP (PRP$ its) (JJ current) (NN version))))
+    (VP
+      (VP (VBZ has)
+        (NP
+          (NP (DT no) (JJ formal) (NN standing))
+          (PP (IN in)
+            (NP (NN w) (CD 3) (NN c) (NN process)))))
+      (CC and)
+      (VP (VBZ is)
+        (VP (VBN provided)
+          (ADVP (RB here))
+          (PP (IN for)
+            (NP (NN reference)
+              (CC and)
+              (NN discussion)))
+          (PP (IN amongst)
+            (NP (NNS pics)
+              (CC and)
+              (NN rdf) (NNS implementors))))))
+    (. .)))
+

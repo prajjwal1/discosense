@@ -1,0 +1,73 @@
+(ROOT
+  (S
+    (NP (FW i))
+    (ADVP (RB especially))
+    (VP (VBP wish)
+      (S
+        (VP (TO to)
+          (VP (VB say)
+            (NP (DT this))
+            (PRN (, ,)
+              (SBAR (IN because)
+                (S (, ,)
+                  (PP (IN as)
+                    (NP (DT an) (JJ anti) (NN darwinian)))
+                  (, ,)
+                  (NP (FW i))
+                  (VP (MD must)
+                    (VP (VB add)))))
+              (, ,))
+            (SBAR (IN that)
+              (S
+                (NP (FW i))
+                (VP (VBP have) (RB not)
+                  (VP (VBN been)
+                    (PP (IN in)
+                      (NP (DT the)
+                        (ADJP (RBS least) (VBN convinced)
+                          (PRT (RP by)))
+                        (NN anything)))
+                    (SBAR (IN that)
+                      (S
+                        (NP (NN mr.) (NN warington))
+                        (VP (VBZ has)
+                          (VP (VBN advanced)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN on)
+      (NP
+        (NP (DT the) (NN contrary))
+        (PP (IN after)
+          (S
+            (VP (VBG hearing)
+              (NP (PRP$ his) (NNS arguments)))))))
+    (, ,)
+    (NP (FW i))
+    (VP (VBP feel)
+      (SBAR (IN if)
+        (S
+          (NP (JJ possible))
+          (ADVP (RB only))
+          (VP
+            (ADVP (DT the) (RBR more))
+            (VBD persuaded)
+            (SBAR (IN that)
+              (S
+                (NP
+                  (NP (DT the) (NN theory))
+                  (PP (IN of)
+                    (NP (NN mr.) (NN darwin))))
+                (VP (VBZ is)
+                  (ADJP
+                    (ADJP (JJ inharmonious))
+                    (, ,)
+                    (ADJP (JJ inadequate))
+                    (, ,)
+                    (ADJP (JJ inconsistent))
+                    (, ,)
+                    (CC and)
+                    (ADJP (RB utterly) (JJ incredible))))))))))
+    (. .)))
+

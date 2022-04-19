@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (S
+      (VP (VB theyre)
+        (ADJP (RB usually) (RB so) (JJ beautiful))))
+    (CC and)
+    (S
+      (NP (DT this))
+      (VP (VBZ is)
+        (NP (DT no) (NN exception))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (SBAR (IN although)
+      (S
+        (NP (NN sara))
+        (VP (VBZ is) (RB not)
+          (ADVP (RB really))
+          (NP (DT a) (NNS princess)))))
+    (. .)))
+

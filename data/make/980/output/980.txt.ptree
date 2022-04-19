@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT the) (NN female))
+        (PP (IN in)
+          (NP (DT the) (NN front))))
+      (VP (VBZ has) (RB not)
+        (VP (VBN been)
+          (VP (VBN identified)))))
+    (, ,)
+    (CC or)
+    (S
+      (NP (DT the) (NN student))
+      (ADVP (RB partially))
+      (VP (VBN hidden)
+        (PP (IN behind)
+          (NP (NN jack)))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (PP
+      (ADVP (RB otherwise))
+      (IN from)
+      (ADJP (NN left)
+        (PP (TO to)
+          (NP (JJ right) (NNS clockwise)))))
+    (VP (VBP are)
+      (VP (VBG visiting)
+        (NP (NN artist))))
+    (NP
+      (NP (NN john) (NNS sommers))
+      (, ,)
+      (NP
+        (NP (NN roger) (NN kolehouse))
+        (, ,)
+        (NP (NN jack) (JJ ozegovic)
+          (CC and)
+          (JJ jerl) (NN richmond))))
+    (. .)))
+

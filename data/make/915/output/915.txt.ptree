@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (NP (CD two))
+    (VP (VBD charged)
+      (SBAR (IN that)
+        (S
+          (NP (NN appellant))
+          (VP (VBD perjured)
+            (NP (PRP himself))
+            (PP (IN in)
+              (S
+                (VP (VBG denying)
+                  (NP
+                    (NP (JJ various) (NNS aspects))
+                    (PP (IN of)
+                      (NP
+                        (NP
+                          (NP (DT a) (NN conversation))
+                          (PP (IN between)
+                            (NP (PRP himself))))
+                        (CC and)
+                        (NP
+                          (NP (DT an) (JJ undercover) (JJ internal) (NN revenue) (NN service) (NN agent))
+                          (SBAR
+                            (WHNP (WP who))
+                            (S
+                              (VP (VBD was)
+                                (VP (VBG posing)
+                                  (PP (IN as)
+                                    (NP (DT a) (NN bettor))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB subsequently))
+    (NP (NN peden))
+    (VP (VBD placed)
+      (NP
+        (NP (DT a) (CD 280) (NN bet))
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (NP (PRP he))
+            (VP (VBD lost))))))
+    (. .)))
+

@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (NP (NNP incorrectly))
+    (VP (VBD predicted)
+      (SBAR
+        (S
+          (NP (NNS examples))
+          (VP (VBP are)
+            (ADJP (VBN selected)
+              (ADVP (RBR more) (RB frequently))
+              (SBAR (IN than)
+                (S
+                  (ADVP (RB correctly))
+                  (VP (VBD predicted)
+                    (NP (NNS examples))))))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (ADVP (RB thus))
+    (VP (VBG boosting))
+    (VP (VBZ produces))
+    (NP (NNS classifiers)
+      (SBAR
+        (WHNP (WDT that))
+        (S
+          (VP (VBP are)
+            (ADJP
+              (ADJP (JJR better))
+              (PP (IN in)
+                (NP
+                  (NP (NN prediction))
+                  (PP (IN that)
+                    (NP (DT the) (JJ current) (NN ensemble))))))))))
+    (. .)))
+

@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (NP (DT that) (JJ particular) (NN company) (, ,) (JJ dynamic) (NN internet) (NN technology))
+    (VP (VBZ is)
+      (ADVP (RB already))
+      (VP (VBN blocked)
+        (PP (IN in)
+          (NP
+            (NP (NN china))
+            (PP (RB because) (IN of)
+              (NP (PRP$ its) (NNS connections)))))
+        (PP (TO to)
+          (NP (NN falun) (NN gong)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP interestingly) (NNP dit))
+      (ADVP (RB also))
+      (VP (VBP createsfreegate)))
+    (, ,)
+    (NP (DT a) (NN service))
+    (VP (VBD used)
+      (S
+        (VP (TO to)
+          (VP (VB help)
+            (S
+              (NP (JJ chinese) (NNS users))
+              (VP (VB bypass)
+                (NP (JJ internet) (NN censorship))))))))
+    (. .)))
+

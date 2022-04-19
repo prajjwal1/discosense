@@ -1,0 +1,54 @@
+(ROOT
+  (S
+    (SBAR (RB even) (IN though)
+      (S
+        (NP (JJ i) (NN dont))
+        (VP (VBP eat)
+          (NP (NNS vegetables)))))
+    (NP (FW i))
+    (ADVP (RB never))
+    (VP (VBP get)
+      (NP
+        (NP (NNS colds))
+        (, ,)
+        (CC or)
+        (NP (DT the) (NN flu)))
+      (ADVP (RB usually)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB however))
+    (NP (PRP it))
+    (VP (VBZ makes)
+      (NP (PRP it))
+      (NP
+        (NP (DT a) (JJ real) (NN pain)
+          (S
+            (VP (TO to)
+              (VP
+                (VP (VB go)
+                  (PP (IN on)
+                    (NP
+                      (NP (DT any) (NN sort))
+                      (PP (IN of)
+                        (NP (NN diet)))))
+                  (, ,)
+                  (ADVP (RB also))
+                  (S
+                    (VP (VBG going)
+                      (PP (TO to)
+                        (NP
+                          (NP (DT a) (NNS friends) (NN house))
+                          (PP (IN for)
+                            (NP (NN dinner))))))))
+                (, ,)
+                (CC or)
+                (VP (IN out)
+                  (S
+                    (VP (TO to)
+                      (VP (VB eat)
+                        (NP (NN period))))))))))
+        (NP (DT a) (JJ real) (NN pain))))
+    (. .)))
+

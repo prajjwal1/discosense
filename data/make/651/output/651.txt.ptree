@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (ADVP (RB already))
+    (NP
+      (NP (DT a) (NN leader))
+      (PP (IN in)
+        (NP
+          (NP (JJ translational) (NN research))
+          (, ,)
+          (NP (NN ucsf)))))
+    (VP (VBZ has)
+      (NP (DT the) (JJ unprecedented) (NN opportunity)
+        (S
+          (VP (TO to)
+            (VP (VB become)
+              (NP (DT the) (NN world) (NN leader))
+              (PP (IN in)
+                (NP (JJ human) (NNS genetics))))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (RB hence) (DT the))
+    (NP
+      (NP (NN creation)
+        (CC and)
+        (JJ current) (NN expansion))
+      (PP (IN of)
+        (NP
+          (NP (DT the) (NN program))
+          (PP (IN in)
+            (NP (JJ human) (NNS genetics))))))
+    (. .)))
+

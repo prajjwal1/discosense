@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (NN fax))
+        (PP (IN in)
+          (NP (DT a) (NN document)))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ winds)
+      (PRT (RP up))
+      (PP (IN in)
+        (NP
+          (NP (PRP$ your) (NN box))
+          (VP (VBN saved)
+            (PP (IN as)
+              (NP (DT a) (NN pdf)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB interestingly)
+      (NP (PRP they))
+      (ADVP (RB also))
+      (VP (VB provide)
+        (NP (DT each) (NN drop))
+        (NP (PRP$ its) (JJ own) (JJ private) (NN conference) (NN call) (NN code))))
+    (. .)))
+

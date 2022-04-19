@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (ADVP (RB thus))
+    (, ,)
+    (NP (NN thz) (NN tds))
+    (VP (VBZ measures)
+      (NP (CC both)
+        (NP (DT the) (NN amplitude)
+          (CC and)
+          (NN phase) (NN information))
+        (PP (IN of)
+          (NP (DT the) (NN frequency) (NNS components)))
+        (SBAR
+          (S
+            (NP (PRP it))
+            (VP (VBZ contains))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN contrast)))
+    (S
+      (VP (VBG measuring)
+        (SBAR
+          (S
+            (NP
+              (NP (RB only) (DT the) (NN power))
+              (PP (IN at)
+                (NP (DT each) (NN frequency))))
+            (VP (VBZ is)
+              (ADVP (RB essentially))
+              (NP
+                (NP (DT a) (NN photon))
+                (VP (VBG counting)
+                  (NP
+                    (NP (NN technique) (NN information))
+                    (PP (VBG regarding)
+                      (NP
+                        (NP (DT the) (NN phase))
+                        (PP (IN of)
+                          (NP (DT the) (NN light)))))))))))))
+    (VP (VBZ is) (RB not)
+      (VP (VBN obtained)))
+    (. .)))
+

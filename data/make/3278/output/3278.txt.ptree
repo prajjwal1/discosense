@@ -1,0 +1,56 @@
+(ROOT
+  (S
+    (PP (IN despite)
+      (NP (DT these) (NNS risks)))
+    (, ,)
+    (NP (DT the) (NN bank))
+    (VP (VBZ has)
+      (VP (VBN continued)
+        (S
+          (VP (TO to)
+            (VP (VB approve)
+              (NP (JJ new) (NN hiv) (NNS aids) (NNS projects))
+              (PP (IN in)
+                (NP
+                  (NP (JJ small) (NNS countries))
+                  (SBAR
+                    (WHNP (WDT that))
+                    (S
+                      (VP (VBP receive)
+                        (NP
+                          (NP (DT a) (NN lot))
+                          (PP (IN of)
+                            (NP (JJ other) (JJ earmarked) (JJ foreign) (NN aid))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN sum)))
+    (NP (DT the) (JJ past) (NN decade))
+    (VP (VBZ has)
+      (VP (VBN seen)
+        (NP (DT an) (JJ enormous) (NN increase))
+        (PP (IN in)
+          (NP
+            (NP (DT the) (NN share)
+              (CC and)
+              (JJ absolute) (NN amount))
+            (PP (IN of)
+              (NP
+                (NP (NN world) (NN bank) (NN support))
+                (PP (IN for)
+                  (NP
+                    (NP (JJ communicable) (NN disease) (NN control))
+                    (, ,)
+                    (SBAR
+                      (WHNP (JJS most)
+                        (WHPP (IN of)
+                          (WHNP (WDT which))))
+                      (S
+                        (VP (VBZ has)
+                          (VP (VBN been)
+                            (PP (IN for)
+                              (NP (NN hiv) (NNS aids)))))))))))))))
+    (. .)))
+

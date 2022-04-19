@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (PP (IN on)
+      (NP (DT the) (CD one) (NN hand)))
+    (, ,)
+    (NP (PRP we))
+    (VP (VBP send)
+      (NP
+        (ADJP (RB even) (JJ minor))
+        (NNS offenders))
+      (PP (TO to)
+        (NP
+          (NP (NN jail))
+          (, ,)
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (VP (VBP are)
+                (NP
+                  (NP (NNS schools))
+                  (PP (IN for)
+                    (NP (NN crime))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN on)
+      (NP (DT the) (JJ other) (NN hand)))
+    (NP (PRP we))
+    (VP (VBP look)
+      (PP (TO to)
+        (NP
+          (NP (DT the) (NN release))
+          (PP (IN of)
+            (NP (RB almost) (DT all) (JJ criminal) (CD seven) (JJ confirmed) (NNS sociopaths)))))
+      (ADVP (RB somewhere) (IN down)
+        (NP (DT the) (NN line))))
+    (. .)))
+

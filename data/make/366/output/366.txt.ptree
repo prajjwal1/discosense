@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (JJS best) (NN thing) (NN wright))
+      (SBAR
+        (S
+          (VP (MD could)
+            (VP (VB have)
+              (VP (VBN done)
+                (PP (IN for)
+                  (NP (NN obama)))))))))
+    (VP (VBD was)
+      (S
+        (VP (TO to)
+          (VP (VB stay)
+            (ADJP (JJ silent))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB instead))
+    (NP (NN wright))
+    (VP (VBZ has)
+      (VP (VBN sabatoged)
+        (NP (JJ obamas) (NN campaign))))
+    (. .)))
+

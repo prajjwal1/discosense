@@ -1,0 +1,2 @@
+conn:though conn_POS:IN sent_pos:2 prev1:sum prev1_POS:NN with_prev1_full:sum_though with_prev1_POS_full:NN_IN prev2:in prev2_POS:IN with_prev2_full:in_though with_prev2_POS_full:IN_IN NA
+conn:also conn_POS:RB prev1:are prev1_POS:VBP with_prev1_full:are_also with_prev1_POS_full:VBP_RB prev2:reductionists prev2_POS:NNS with_prev2_full:reductionists_also with_prev2_POS_full:NNS_RB NA

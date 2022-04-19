@@ -1,0 +1,35 @@
+(ROOT
+  (SINV
+    (VP (VBG utilizing))
+    (VP (VBZ hopkins))
+    (NP
+      (NP (NN rod) (JJ optic) (NN system))
+      (, ,)
+      (NP
+        (NP (JJ austrian) (NN doctor) (NN walter) (NN messenklinger))
+        (VP (VBN visualized)
+          (CC and)
+          (VBN recorded)
+          (NP
+            (NP (DT the) (NN anatomy))
+            (PP (IN of)
+              (NP
+                (NP (DT the) (JJ paranasal) (NNS sinuses))
+                (CC and)
+                (NP (DT the) (JJ lateral) (JJ nasal) (NNS walls)))))
+          (PP (IN in)
+            (NP (NNS cadavers))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB specifically))
+    (NP (NN messerklinger))
+    (VP (VBD focused)
+      (PP (IN on)
+        (S
+          (VP (VBG mapping)
+            (PRT (RP out))
+            (NP (JJ mucociliary) (NNS routes))))))
+    (. .)))
+

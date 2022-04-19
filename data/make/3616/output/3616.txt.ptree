@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (S
+      (NP (JJ dry) (NNS thunderstorms))
+      (VP (VBP occur)
+        (ADVP (RB essentially))
+        (PP (IN in)
+          (NP (JJ dry) (NNS conditions)))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP$ their) (NN lightning))
+      (VP (VBZ is)
+        (NP
+          (NP (DT a) (JJ major) (NN cause))
+          (PP (IN of)
+            (NP (NNS wildfires))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB because)
+      (PP (IN of)
+        (NP
+          (NP
+            (NP (DT that))
+            (NP (DT the) (JJ national) (NN weather) (NN service)))
+          (, ,)
+          (CC and)
+          (NP
+            (NP (JJ other) (NNS agencies))
+            (PP (IN around)
+              (NP (DT the) (NN world)))))))
+    (, ,)
+    (NP (NN issue))
+    (VP (VBZ forecasts)
+      (PP (IN for)
+        (NP
+          (NP (PRP$ its) (NN likelihood))
+          (PP (IN over)
+            (NP (JJ large) (NNS areas))))))
+    (. .)))
+

@@ -1,0 +1,1 @@
+when you play a rule card, the rule on that card becomes part of the game. for example you might play a draw card, at which point the rule is now to draw three cards instead of one at the beginning of your turn.

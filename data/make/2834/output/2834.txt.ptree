@@ -1,0 +1,57 @@
+(ROOT
+  (S
+    (S
+      (NP (NN playboy))
+      (VP (VBZ is)
+        (NP (NN anything))))
+    (CC but)
+    (S
+      (NP
+        (NP (NN smut))
+        (CC and)
+        (NP (FW i)))
+      (VP (MD can)
+        (VP (VB appreciate)
+          (NP
+            (NP (DT a) (NN man))
+            (SBAR
+              (WHNP (WP who))
+              (S
+                (VP (MD can)
+                  (VP (VB appreciate)
+                    (NP
+                      (NP (DT the) (NN beauty))
+                      (PP (IN of)
+                        (NP (DT the) (JJ female) (NN form))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN although)
+      (S
+        (ADVP (RB ill))
+        (VP (VBP admit)
+          (SBAR (IN that)
+            (S
+              (ADVP (RB openly))
+              (VP
+                (VP (VBG reading))
+                (CC and)
+                (VP (VBG displaying)
+                  (ADVP (RB playboy))
+                  (PP (IN before)
+                    (NP
+                      (NP (DT the) (VBG surrounding) (NNS passengers))
+                      (CC and)
+                      (NP (NN flight) (NN staff)))))))))))
+    (VP (VBZ seems)
+      (NP
+        (NP (DT a) (JJ little) (NN bit) (NN creepy))
+        (PP (IN for)
+          (NP (DT an)
+            (ADJP
+              (NP (CD 81) (NNS yr))
+              (JJ old))
+            (NN man)))))
+    (. .)))
+

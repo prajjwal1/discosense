@@ -1,0 +1,2 @@
+conn:when conn_POS:WRB prev1:philosophers prev1_POS:NNS with_prev1_full:philosophers_when with_prev1_POS_full:NNS_WRB prev2:among prev2_POS:IN with_prev2_full:among_when with_prev2_POS_full:IN_WRB NA
+conn:when conn_POS:WRB prev1:declined prev1_POS:VBD with_prev1_full:declined_when with_prev1_POS_full:VBD_WRB prev2:it prev2_POS:PRP with_prev2_full:it_when with_prev2_POS_full:PRP_WRB NA

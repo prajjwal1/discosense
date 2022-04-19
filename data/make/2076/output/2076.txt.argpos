@@ -1,0 +1,2 @@
+conn:and conn_POS:CC prev1:demanded prev1_POS:VBN with_prev1_full:demanded_and with_prev1_POS_full:VBN_CC prev2:quantity prev2_POS:NN with_prev2_full:quantity_and with_prev2_POS_full:NN_CC NA
+conn:conversely conn_POS:RB sent_pos:0 NA

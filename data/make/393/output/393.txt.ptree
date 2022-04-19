@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (NP (PDT all) (DT these))
+    (VP (VBP are)
+      (NP
+        (NP (NNS examples))
+        (PP (IN of)
+          (NP (JJ appropriate) (NN involvement)))
+        (ADJP (JJ consistent)
+          (PP (IN with)
+            (NP (DT the) (NNS principles))))
+        (VP (VBN laid)
+          (PRT (RP down))
+          (PP (IN by)
+            (NP (DT the) (NN convention))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN sum)))
+    (NP (DT the) (JJ southern) (NN baptist) (NN convention))
+    (VP (VBZ has)
+      (VP (VBN exhibited)
+        (NP
+          (NP (DT a)
+            (ADJP (RB remarkably) (JJ consistent))
+            (NN pattern))
+          (PP (IN of)
+            (NP (NN cooperation))))
+        (PP (IN without)
+          (NP (NN compromise)))))
+    (. .)))
+

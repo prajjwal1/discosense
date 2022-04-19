@@ -1,0 +1,53 @@
+(ROOT
+  (S
+    (S
+      (NP (DT the) (NN problem))
+      (VP (VBD was)
+        (SBAR (IN that)
+          (S
+            (NP (DT this))
+            (VP (VBZ overlooks)
+              (NP (DT the) (NN fact))
+              (SBAR (IN that)
+                (S
+                  (S
+                    (VP (VBG marking)
+                      (NP (NNS practices))))
+                  (VP (VBP vary)))))))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBD said))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP
+        (NP
+          (ADJP (JJ particular)
+            (NP (PRP it)))
+          (NN wasquestionablewhether) (NNS students))
+        (PP (IN of)
+          (NP
+            (NP (JJ different) (NNS subjects))
+            (SBAR
+              (WHNP (WP who))
+              (S
+                (VP (VBP have)
+                  (VP (VBN obtained)
+                    (SBAR
+                      (S
+                        (NP (DT the) (JJ same) (NNS marks))
+                        (VP
+                          (VP (VBP are)
+                            (ADJP (RB equally) (JJ able)))
+                          (CC or)
+                          (VP (VBP have)
+                            (VP (VBN worked)
+                              (S
+                                (ADJP (RB equally) (JJ hard))))))))))))))))
+    (, ,)
+    (NP (DT the) (NN report))
+    (VP (VBD said))
+    (. .)))
+

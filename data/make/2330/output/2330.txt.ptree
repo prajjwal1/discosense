@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (PP (IN for)
+      (NP
+        (NP (NN someone) (NN earning))
+        (PP (IN over)
+          (NP (NN rs) (CD 10) (NN lakh)))))
+    (NP (DT a) (NN year))
+    (, ,)
+    (NP
+      (NP (DT the) (NN cost))
+      (PP (IN of)
+        (NP (DT the) (NN education) (NN loan))))
+    (VP (VBZ comes)
+      (PRT (RP down))
+      (PP (IN from)
+        (NP
+          (QP (CD 13) (NN %) (TO to) (CD 8.98) (NN %)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB similarly))
+    (NP
+      (NP (DT the) (JJ effective) (NN cost))
+      (PP (IN of)
+        (NP
+          (NP (DT a) (NN housing) (NN loan))
+          (PP (IN at)
+            (NP (CD 10.25) (NN %))))))
+    (VP
+      (ADVP (RB also))
+      (VBZ comes)
+      (PRT (RP down))
+      (PP (TO to)
+        (NP
+          (NP (CD 7.08) (NN %))
+          (PP (IN for)
+            (NP
+              (NP (DT the) (NNS borrowers))
+              (PP (IN in)
+                (NP (DT the)
+                  (ADJP (CD 30.9) (NN %))
+                  (NN tax) (NN bracket))))))))
+    (. .)))
+

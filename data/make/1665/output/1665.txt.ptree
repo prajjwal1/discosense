@@ -1,0 +1,57 @@
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (DT the) (VBN guaranteed) (NN money))
+        (VP (VBN generated)
+          (PP (IN in)
+            (NP (NN baseball)))
+          (PP (IN from)
+            (NP (NNS media) (NN revenue)))))
+      (, ,)
+      (VP (VBN combined)
+        (PP (IN with)
+          (NP (RB even) (JJ modest) (NN attendance))))
+      (, ,))
+    (VP (MD can)
+      (VP (VB make)
+        (S
+          (NP (DT a) (NN team))
+          (ADJP (JJ profitable))
+          (SBAR (IN if)
+            (S
+              (NP (PRP$ its) (NN payroll))
+              (VP (VBZ is)
+                (ADJP (JJ small) (RB enough))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN as)
+      (NP (DT a) (NN result)))
+    (NP (DT the) (NNS indians))
+    (VP (VBP continue)
+      (S
+        (VP (TO to)
+          (VP (VB shrink)
+            (NP
+              (NP (DT the) (NN payroll))
+              (VP (VBG knowing)
+                (SBAR (IN that)
+                  (S
+                    (NP (PRP they))
+                    (VP (MD can)
+                      (ADVP (RB still))
+                      (VP (VB eke)
+                        (PRT (RP out))
+                        (NP (NN success))
+                        (SBAR (IN as)
+                          (S
+                            (NP (PRP they))
+                            (VP (VB define)
+                              (NP (PRP it))
+                              (ADVP (RB irrespective)
+                                (PP (IN of)
+                                  (NP (DT the) (NN product)))))))))))))))))
+    (. .)))
+

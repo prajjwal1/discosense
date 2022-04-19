@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (NP (DT every) (NN kalpa))
+    (VP (VBZ creates)
+      (NP (CD 14) (JJ manus) (CD one))
+      (PP (IN after)
+        (NP
+          (NP (DT the) (JJ other))
+          (, ,)
+          (SBAR
+            (WHNP (WP who))
+            (S
+              (ADVP (RB in))
+              (VP
+                (VP (VB turn)
+                  (ADJP (JJ manifest)))
+                (CC and)
+                (VP (VB regulate)
+                  (NP (DT this) (NN world)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thus))
+    (NP (EX there))
+    (VP (VBP are)
+      (NP
+        (NP (CD fourteen) (NNS generations))
+        (PP (IN of)
+          (NP
+            (NP (NNP manu))
+            (PP (IN in)
+              (NP (DT each) (NN kalpa)))))))
+    (. .)))
+

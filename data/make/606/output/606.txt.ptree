@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (PP (IN with)
+      (S
+        (VP (NN regard)
+          (PP (TO to)
+            (NP (DT the) (JJ wellness) (NN area))))))
+    (, ,)
+    (NP
+      (NP (DT this))
+      (SBAR
+        (S
+          (S
+            (NP (PRP we))
+            (VP (VBP have)
+              (VP (VBN extended)
+                (PP (IN with)
+                  (NP (DT a) (JJ complete) (NN fitness) (NN room))))))
+          (CC and)
+          (S
+            (NP (EX there))
+            (VP (VBZ is)
+              (ADVP (RB also))
+              (NP (DT a) (NN beauty) (NN department)))))))
+    (VP (VBD added))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (ADJP
+        (ADJP (RB short) (RB too) (JJ many))
+        (PP (TO to)
+          (NP (NN mention)))))
+    (, ,)
+    (NP (PRP we))
+    (VP (MD would)
+      (VP (VB like)
+        (S
+          (VP (TO to)
+            (VP (VB welcome)
+              (NP (PRP you))
+              (PP (IN on)
+                (NP (PRP$ your) (JJ next) (NN visit))))))))
+    (. .)))
+

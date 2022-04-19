@@ -1,0 +1,1 @@
+the candidate can advance to the next screening question by touching the next item touch area. similarly the candidate can return to the previous question by touching the previous item touch area.

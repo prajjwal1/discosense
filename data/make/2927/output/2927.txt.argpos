@@ -1,0 +1,2 @@
+conn:nonetheless conn_POS:RB sent_pos:0 NA
+conn:ultimately conn_POS:RB prev1:would prev1_POS:MD with_prev1_full:would_ultimately with_prev1_POS_full:MD_RB prev2:decision prev2_POS:NN with_prev2_full:decision_ultimately with_prev2_POS_full:NN_RB NA

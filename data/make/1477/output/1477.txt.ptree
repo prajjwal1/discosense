@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (NN spirit))
+      (PP (IN of)
+        (NP (JJ jesus) (NN christ))))
+    (ADVP (RB actually))
+    (VP (VBZ comes)
+      (S
+        (VP (TO to)
+          (VP (VB dwell)
+            (PP (IN within)
+              (NP (DT the) (JJ new) (NN christian))))))
+      (, ,)
+      (S
+        (VP (VBG giving)
+          (NP
+            (NP (NNS newness))
+            (PP (IN of)
+              (NP (NN life) (PRP$ his) (NN life)))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (PP (IN in)
+      (NP (NN sum) (NN christ)))
+    (VP (VBZ makes)
+      (NP (DT a) (NN christian)))
+    (NP (DT a) (NN christian))
+    (. .)))
+

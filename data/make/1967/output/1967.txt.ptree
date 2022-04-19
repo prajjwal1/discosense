@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (NP (PRP he))
+    (VP (VBZ claims)
+      (SBAR
+        (S
+          (NP (DT this) (NN exclusion))
+          (VP (VBZ reduces)
+            (NP
+              (NP (DT the) (NN functionality))
+              (PP (IN of)
+                (NP (NNS hhmls) (NNS members) (NN public) (NN advertising) (NNS websites))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP
+        (NP (NN example))
+        (PP (IN without)
+          (NP
+            (NP (JJ electronic) (NN access))
+            (PP (TO to)
+              (NP (DT the) (NN address) (NN field)))))))
+    (, ,)
+    (NP (DT a) (NN member))
+    (VP (MD can)
+      (ADVP (RB not) (RB efficiently))
+      (VP (VB provide)
+        (NP (DT a) (NN mapping) (NN function))
+        (PP (IN on)
+          (NP (PRP$ its)
+            (ADJP (RB publically) (JJ accessible))
+            (VBG marketing) (NN website)))))
+    (. .)))
+

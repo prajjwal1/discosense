@@ -1,0 +1,47 @@
+(ROOT
+  (S
+    (NP (FW i))
+    (VP (VBP do) (RB not)
+      (VP (VB think)
+        (SBAR
+          (S
+            (NP (PRP it))
+            (VP (VBZ is)
+              (ADJP
+                (ADJP (JJ implausible)
+                  (S
+                    (VP (TO to)
+                      (VP (VB think)
+                        (SBAR (IN that)
+                          (S
+                            (NP
+                              (NP (FW i))
+                              (, ,)
+                              (CC and)
+                              (NP
+                                (NP (DT those))
+                                (PP (IN like)
+                                  (NP (PRP me))))
+                              (, ,))
+                            (VP (MD will)
+                              (VP (VB be)
+                                (VP
+                                  (ADVP (RB openly))
+                                  (VBN persecuted))))))))))
+                (CC and)
+                (ADJP (RB physically) (JJ threatened))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB in))
+    (NP (JJ short) (NN happiness))
+    (VP (VBZ is) (RB not)
+      (ADVP (RB just))
+      (PP (IN around)
+        (NP
+          (NP (DT the) (NN corner))
+          (PP (IN for)
+            (NP (PRP me))))))
+    (. .)))
+

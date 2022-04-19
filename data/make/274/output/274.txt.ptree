@@ -1,0 +1,45 @@
+(ROOT
+  (S
+    (NP (NN today))
+    (, ,)
+    (ADVP (RB however))
+    (, ,)
+    (NP (JJ crazy) (NN colour))
+    (VP (VBZ has)
+      (VP (VBN become)
+        (NP
+          (NP (NN part))
+          (PP (IN of)
+            (NP
+              (NP (DT the) (JJ essential) (NN vernacular))
+              (PP (IN of)
+                (NP (NN pop) (NN culture))))))
+        (, ,)
+        (PP (IN from)
+          (NP (NN rihanna)
+            (S
+              (VP (TO to)
+                (VP (VB katy)
+                  (NP (NN perry) (, ,) (NN lady) (NN gaga))
+                  (PP (TO to)
+                    (NP (JJ charlotte) (NN church))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (RB as) (DT a) (NN result))
+        (NP (DT the) (JJ current) (JJ radical) (NN trend))
+        (, ,)
+        (ADVP (IN at) (JJS least)))
+      (ADVP (RB as) (RB far)
+        (PP (IN as)
+          (NP (NN hair)))))
+    (VP (VBZ goes) (, ,)
+      (S
+        (VP (VBG isreturning)
+          (PP (TO to)
+            (NP (PRP$ your) (JJ natural) (NN shade))))))
+    (. .)))
+

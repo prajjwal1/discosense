@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (NP (NN applixware))
+    (VP (VBZ does) (RB not)
+      (VP (VB seem)
+        (S
+          (VP (TO to)
+            (VP (VB do)
+              (NP
+                (NP (DT a) (JJ complete) (NN job))
+                (PP (IN of)
+                  (S
+                    (VP (VBG importing)
+                      (NP
+                        (NP (NN rtf))
+                        (VP (VBN generated)
+                          (PP (IN by)
+                            (NP (JJ jade) (NN mss))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (ADJP (JJ particular)))
+    (NP (DT all) (NN text))
+    (VP (VBZ is)
+      (VP (VBN given)
+        (NP (NN theheader))
+        (NP
+          (NP (CD 1st) (NN yle) (NN attribute) (NN label))
+          (, ,)
+          (SBAR (IN although)
+            (S
+              (NP
+                (NP (DT the) (NN text))
+                (VP (VBG formatting)
+                  (NP (PRP itself))))
+              (VP (VBZ is)
+                (ADJP (JJ acceptable))))))))
+    (. .)))
+

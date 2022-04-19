@@ -1,0 +1,47 @@
+(ROOT
+  (S
+    (NP
+      (NP (RB little))
+      (PP (IN in)
+        (NP
+          (NP (DT the) (NN way))
+          (PP (IN of)
+            (NP
+              (NP (JJ meteorological) (NN information))
+              (PP (IN on)
+                (NP (DT the) (JJ approaching) (NN hurricane))))))))
+    (VP (VBD was)
+      (ADJP (JJ available)
+        (PP (TO to)
+          (NP
+            (NP (DT the) (NN weather) (NN bureau))
+            (PP (IN in)
+              (NP (NNS miami)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN as)
+      (NP (DT a) (NN result)))
+    (NP (NN hurricane) (NNS warnings))
+    (VP (VBD were) (RB not)
+      (VP (VBN issued)
+        (PP (IN until)
+          (NP (NN midnight)))
+        (PP (IN on)
+          (NP
+            (NP (NN september) (NNS 18th))
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (VP (VBD gave)
+                  (NP
+                    (NP (DT the) (JJ booming) (NN population))
+                    (PP (IN of)
+                      (NP (JJ south) (NN florida))))
+                  (NP
+                    (NP (JJ little) (NN notice))
+                    (PP (IN of)
+                      (NP (DT the) (JJ impending) (NN disaster)))))))))))
+    (. .)))
+

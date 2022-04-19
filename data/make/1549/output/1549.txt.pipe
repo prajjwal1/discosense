@@ -1,0 +1,4 @@
+Explicit|||0..3||and||0|and|||Expansion.Conjunction|||||||||||1..2|-1|n||||||||5..73|0|if all went well, this would surely be the foundation of my fortunes|||||||||||||
+Explicit|||5..7||if||0|if|||Contingency.Condition|||||||||||0..3;23..73|0|and this would surely be the foundation of my fortunes||||||||8..21|0|all went well|||||||||||||
+Explicit|||75..79||thus||1|thus|||Contingency.Cause|||||||||||0..73|0|and, if all went well, this would surely be the foundation of my fortunes||||||||80..190|1|swaying between my fears and my hopes, i spent the long, long evening until it was time to keep my appointment|||||||||||||
+Explicit|||150..155||until||1|until|||Temporal.Asynchronous|||||||||||75..149|1|thus swaying between my fears and my hopes, i spent the long, long evening||||||||156..190|1|it was time to keep my appointment|||||||||||||

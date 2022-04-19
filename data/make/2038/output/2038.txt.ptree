@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (SBAR (IN as)
+      (S
+        (NP (CC both)
+          (NP (PRP$ my) (NN daughter))
+          (CC and)
+          (NP (FW i)))
+        (VP (VBP are)
+          (ADJP (JJ allergic)
+            (S
+              (VP (TO to)
+                (VP (VB dustmite))))))))
+    (, ,)
+    (NP (PRP we))
+    (VP (VBD experienced)
+      (NP (NNS itchiness)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB otherwise))
+    (NP (DT the) (NN room))
+    (VP (VBZ is)
+      (ADJP (JJ perfect)))
+    (. .)))
+

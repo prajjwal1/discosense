@@ -1,0 +1,45 @@
+(ROOT
+  (S
+    (PP (IN with)
+      (NP (JJ recreational) (NNS players)))
+    (, ,)
+    (VP (VB be)
+      (VP (VBN prepared)
+        (S
+          (VP (TO to)
+            (VP (VB make)
+              (NP (NNS changes)
+                (CC and)
+                (NNS adjustments))
+              (PP (IN in)
+                (NP (NNS strings)
+                  (CC and)
+                  (NNS tensions)))
+              (SBAR (IN as)
+                (S
+                  (NP (PRP$ their) (NNS games))
+                  (VP (VBP improve)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN by)
+      (NP (NN contrast)))
+    (NP (NN tour) (NNS players))
+    (ADVP (RB generally))
+    (VP (VBP have)
+      (VP (VBN been)
+        (VP (VBG using)
+          (NP (DT the) (JJ same) (NNS strings)
+            (CC and)
+            (NNS tensions))
+          (PP (IN for)
+            (NP (NNS years)
+              (CC and)
+              (NN dont) (NN need)))
+          (S
+            (VP (TO to)
+              (VP (VB make)
+                (NP (JJ major) (NNS changes))))))))
+    (. .)))
+

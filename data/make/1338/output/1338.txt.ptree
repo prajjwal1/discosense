@@ -1,0 +1,38 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (CD 1998)))
+    (, ,)
+    (NP (DT a) (JJ national) (NN constitution) (NN center) (NN survey))
+    (VP (VBD found)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (RB only) (DT a) (NN quarter))
+            (PP (IN of)
+              (NP (DT the) (CD 600) (NNS respondents))))
+          (VP (VBD knew)
+            (SBAR (IN that)
+              (S
+                (NP (DT the) (NN constitution))
+                (VP (VBD was)
+                  (VP (VBN drafted)
+                    (PP (IN in)
+                      (NP (NN philadelphia)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN by)
+      (NP (NN contrast)))
+    (NP
+      (QP (JJR more) (IN than) (CD 75))
+      (NN percent))
+    (VP (MD could)
+      (VP (VB identify)
+        (NP
+          (NP (DT the) (NN zip) (NN code))
+          (PP (IN of)
+            (NP (JJ beverly) (NNP hills) (CD 90210))))))
+    (. .)))
+

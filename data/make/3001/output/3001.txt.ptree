@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (SBAR (IN until)
+      (S
+        (NP (NN jimbo))
+        (VP (VBD was)
+          (VP (VBN informed)
+            (SBAR (IN that)
+              (S
+                (NP (DT this))
+                (VP (MD would)
+                  (VP (VB be)
+                    (VP (VBN phd))))))))))
+    (VP (VBD was)
+      (VP (VBG using)
+        (NP (PRP$ his) (JJ faux) (NNS credentials))
+        (S
+          (VP (TO to)
+            (VP (VB make)
+              (NP (NNS points))
+              (PP (IN within)
+                (NP (DT the) (NN wikipedia) (NN universe))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (JJ other) (NNS words)))
+    (NP (PRP$ its))
+    (VP (VBP ok)
+      (S
+        (VP (TO to)
+          (VP (VB lie)
+            (PP (TO to)
+              (NP
+                (NP (NNS outsiders))
+                (PP (IN about)
+                  (NP (PRP$ your) (NNS credentials)))))))))
+    (. .)))
+

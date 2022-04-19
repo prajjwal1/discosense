@@ -1,0 +1,1 @@
+nothing in the notion of digital computation used by computer scientists and computability theorists mandates such a definition. conversely the processing of non natural information need not be carried out by means of digital computation.

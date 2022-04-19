@@ -1,0 +1,2 @@
+conn:then conn_POS:RB prev1:, prev1_POS:, with_prev1_full:,_then with_prev1_POS_full:,_RB prev2:astonishment prev2_POS:NN with_prev2_full:astonishment_then with_prev2_POS_full:NN_RB NA
+conn:though conn_POS:IN sent_pos:0 NA

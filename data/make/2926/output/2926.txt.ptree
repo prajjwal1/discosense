@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (ADVP (RB typically))
+    (NP (FW i))
+    (VP (VBP do)
+      (VP (VB give)
+        (NP
+          (NP (DT a) (NN steering) (NN wheel) (NN wave))
+          (CC and)
+          (NP (DT a) (JJ huge) (NN smile)))
+        (PP (TO to)
+          (NP
+            (NP (DT every) (JJ saab) (NN i))
+            (VP (VBN come)
+              (PP (RB upon)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB otherwise))
+    (NP (FW i))
+    (VP
+      (ADVP (RB just))
+      (VBP throw)
+      (NP
+        (NP (DT the) (NNS horns))
+        (CC or)
+        (RB just)
+        (NP
+          (NP (NN wave)
+            (CC or)
+            (NN something))
+          (PP (IN like)
+            (NP (DT that))))))
+    (. .)))
+

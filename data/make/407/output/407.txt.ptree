@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (VP (VB learn)
+      (SBAR
+        (WHADVP (WRB how))
+        (S
+          (NP (PRP$ your) (NN lifestyle))
+          (VP (MD may)
+            (VP (VB affect)
+              (NP
+                (NP (PRP$ your) (NN risk))
+                (PP (IN of)
+                  (NP (NN health) (NNS problems)))))))))
+    (. .)))
+
+(ROOT
+  (S (IN for)
+    (NP
+      (NP (NN instance) (NNS men))
+      (SBAR
+        (WHNP (WP who))
+        (S
+          (VP (VBP work)
+            (PP (IN with)
+              (NP (JJ certain) (NNS chemicals)))))))
+    (VP (VBP require)
+      (S
+        (VP (TO to)
+          (VP (VB take)
+            (NP (JJ protective) (NNS steps))))))
+    (. .)))
+

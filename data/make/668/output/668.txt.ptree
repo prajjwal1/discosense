@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (NP (PDT such) (DT a) (JJ conditional) (NN probability))
+    (VP (MD may)
+      (VP (VB be)
+        (VP (VBN computed)
+          (S
+            (VP (VBG using)
+              (NP (NNS techniques))
+              (SBAR (IN as)
+                (S
+                  (VP (VBP are)
+                    (VP (VBN known)
+                      (PP (IN in)
+                        (NP (DT the) (NN art))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB though))
+    (NP
+      (NP (DT a) (NN reliability))
+      (PP (IN of)
+        (NP (DT a) (JJ combined) (NN packet))))
+    (VP (MD may)
+      (VP (VB be)
+        (VP (VBN determined)
+          (PP (IN in)
+            (NP (DT any) (JJ other) (JJ suitable) (NN way))))))
+    (. .)))
+

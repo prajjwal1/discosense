@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (NN authority))
+      (PP (IN for)
+        (NP
+          (NP (DT the) (NN denial)
+            (CC or)
+            (NN award))
+          (PP (IN of)
+            (NP
+              (NP (NNS attorneys) (NNS fees))
+              (PP (IN in)
+                (NP (DT a) (JJ civil) (NNS rights) (NN action))))))))
+    (VP (VBZ arises)
+      (PP (IN under)
+        (NP (DT the) (NN act))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thus))
+    (NP (EX there))
+    (VP (VBZ is)
+      (NP
+        (NP (DT no) (NN impediment))
+        (PP (TO to)
+          (NP
+            (NP (DT this) (NNS courts) (NN consideration))
+            (PP (IN of)
+              (NP
+                (NP (DT the) (NN issue))
+                (PP (IN of)
+                  (NP
+                    (NP (NNS attorneys) (NNS fees))
+                    (PP (IN under)
+                      (NP (DT the) (NN act)))))))))))
+    (. .)))
+

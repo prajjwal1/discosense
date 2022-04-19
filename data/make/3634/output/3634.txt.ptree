@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (PP (IN on)
+      (NP
+        (NP (DT the) (NN search))
+        (PP (IN of)
+          (NP (PRP$ her) (NNS siblings)))))
+    (, ,)
+    (NP (PRP she))
+    (VP (VBZ has)
+      (VP (VBN lost)
+        (NP (PRP$ her) (NN love))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB yet)
+      (PP (IN for)
+        (NP
+          (NP (DT the) (NN love))
+          (CC and)
+          (NP
+            (ADJP (JJ desperate)
+              (S
+                (VP (TO to)
+                  (VP (VB meet)
+                    (NP (PRP her))))))
+            (NNS siblings)))))
+    (, ,)
+    (NP (PRP she))
+    (VP (VBZ goes)
+      (PRT (RP on))
+      (PP (IN with)
+        (NP (PRP$ her) (NN life))))
+    (. .)))
+

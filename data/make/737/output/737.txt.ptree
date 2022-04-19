@@ -1,0 +1,54 @@
+(ROOT
+  (S
+    (S
+      (VP (TO to)
+        (VP (VB avoid)
+          (S
+            (VP (VBG having)
+              (S
+                (NP (NNS drivers))
+                (VP (VB incriminate)
+                  (NP (PRP themselves)))))))))
+    (, ,)
+    (NP (DT the) (NNS researchers))
+    (VP (VBD did) (RB not)
+      (VP (VB ask)
+        (SBAR (IN if)
+          (S
+            (NP (DT a) (NNS hands))
+            (VP (VBP free)
+              (SBAR
+                (S
+                  (NP (NN apparatus))
+                  (VP (VBD was)
+                    (PP (IN in)
+                      (NP (NN use)))
+                    (PP (IN at)
+                      (NP
+                        (NP (DT the) (NN time))
+                        (PP (IN of)
+                          (NP (DT the) (NN crash)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB rather))
+    (NP (PRP they))
+    (VP (VBD asked)
+      (NP (NNS drivers))
+      (SBAR
+        (WHADVP (WRB how) (RB often))
+        (S
+          (NP (PRP they))
+          (VP
+            (VP (VBD used)
+              (NP (PDT such) (DT a) (NN device)))
+            (CC and)
+            (VP (VBZ factored)
+              (NP (DT that))
+              (PP (IN into)
+                (S
+                  (VP (VBG determining)
+                    (NP (DT the) (NNS devices) (NN effectiveness))))))))))
+    (. .)))
+

@@ -1,0 +1,56 @@
+(ROOT
+  (S
+    (SBAR (IN if)
+      (S
+        (NP
+          (NP (DT the) (NN nominee))
+          (PP (IN for)
+            (NP (NN speaker))))
+        (VP (VBZ falls)
+          (PP (IN below)
+            (NP (DT this) (NN number)))
+          (ADVP (RB then)))))
+    (NP (DT the) (NN house))
+    (VP (MD would)
+      (VP (VB be)
+        (PP (IN without)
+          (NP (DT a) (NN speaker)))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (PP (IN in)
+      (ADJP (JJ short)))
+    (VP
+      (ADVP (IN if)
+        (NP (CD 16) (NN house)))
+      (VBZ republicans)
+      (NP (NN abstain))
+      (PP (IN from)
+        (S
+          (VP (VBG voting)
+            (PP (IN for)
+              (NP (DT a) (NN nominee)))
+            (ADVP (RB then))))))
+    (NP
+      (NP (PRP he))
+      (SBAR
+        (S
+          (NP (PRP she))
+          (VP (MD would)
+            (ADVP (RB only))
+            (VP (VB receive)
+              (S
+                (NP
+                  (NP (CD 217) (NNS votes))
+                  (CC or)
+                  (NP (CD 1) (NN vote)))
+                (ADJP (JJ shy)))))))
+      (PP (IN of)
+        (NP (DT the) (VBN required) (NNS votes)
+          (S
+            (VP (TO to)
+              (VP (VB be)
+                (VP (VBN elected))))))))
+    (. .)))
+

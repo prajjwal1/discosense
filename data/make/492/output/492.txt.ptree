@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (ADVP (IN along)
+      (PP (IN with)
+        (NP (JJ other) (NNS collaborations))))
+    (, ,)
+    (NP (NN hes))
+    (VP (VBD built)
+      (NP (DT an) (CD 18) (NN album) (NN solo) (NN career)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB rather))
+    (NP (PRP he))
+    (VP
+      (VP (VBZ plays)
+        (NP
+          (NP (NN slide) (NN guitar)
+            (CC and)
+            (NN dobro))
+          (PP (IN in)
+            (NP (CD two) (JJ other) (NNS bands)))))
+      (, ,)
+      (VP (VBZ helps)
+        (NP (NNS friends)
+          (CC and)
+          (NNS colleagues))
+        (PP (IN in)
+          (NP (NN nashville))))
+      (CC and)
+      (VP (VBZ keeps)
+        (PP (IN on)
+          (S
+            (VP (VBG learning)
+              (PP (IN as)
+                (NP (DT a) (JJ solo) (NN singer) (NN songwriter))))))))
+    (. .)))
+

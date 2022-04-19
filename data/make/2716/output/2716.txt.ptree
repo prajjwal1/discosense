@@ -1,0 +1,21 @@
+(ROOT
+  (S
+    (ADVP (RB accordingly))
+    (, ,)
+    (NP (DT the) (NN poe) (NN system))
+    (VP (VBZ restricts)
+      (NP (DT the) (NN power) (NN supply))
+      (PP (TO to)
+        (NP (DT the)
+          (ADJP (RB newly) (VBN connected))
+          (NN device))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thereafter))
+    (NP (DT the) (NN poe) (NN system))
+    (VP (VBZ ends)
+      (NP (DT the) (NN power) (NN supply) (NN process)))
+    (. .)))
+

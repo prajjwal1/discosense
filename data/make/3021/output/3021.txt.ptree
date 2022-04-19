@@ -1,0 +1,47 @@
+(ROOT
+  (S
+    (NP (DT the) (NN victory))
+    (VP (VBD was)
+      (NP
+        (NP (JJ small) (NN consolation))
+        (PP (IN for)
+          (NP
+            (NP (JJ boise) (NN state))
+            (, ,)
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (VP (VBD missed)
+                  (PRT (RP out))
+                  (PP (IN on)
+                    (NP
+                      (NP (DT a) (JJ possible))
+                      (SBAR
+                        (S
+                          (VP (VBD rose)
+                            (NP (NN bowl) (NN appearance))
+                            (PP (IN on)
+                              (NP
+                                (NP (CD two) (VBN missed) (NN field) (NNS goals))
+                                (NP (JJ last) (NN month))
+                                (PP (IN against)
+                                  (NP (NN nevada)))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S (CC but)
+    (NP
+      (NP (DT the) (JJ dominating) (NN win))
+      (PP (IN against)
+        (NP
+          (NP (DT a) (NN team))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBD was)
+                (PP (IN at)
+                  (NP (CD one) (NN time)))))))))
+    (VP (VBD ranked)
+      (INTJ (UH no)))
+    (. .)))
+

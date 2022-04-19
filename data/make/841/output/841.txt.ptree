@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (NP (PRP they))
+    (ADVP (RB already))
+    (VP (VBP recognize)
+      (NP
+        (NP (DT the) (NN sound))
+        (PP (IN of)
+          (NP (DT the) (NN bag))))
+      (SBAR (IN that)
+        (S
+          (NP (PRP they))
+          (VP (VBP go)
+            (ADVP (RB wild))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN although)
+      (S
+        (NP (JJ exotic) (NNS vets))
+        (VP (VBP do))))
+    (VP (VBP say)
+      (SBAR (IN that)
+        (S
+          (NP (PRP$ its))
+          (ADVP (RB best))
+          (VP (TO to)
+            (VP (VB keep)
+              (PRT (RP away))
+              (PP (IN from)
+                (NP (DT the) (JJ pellet) (NN diet))))))))
+    (. .)))
+

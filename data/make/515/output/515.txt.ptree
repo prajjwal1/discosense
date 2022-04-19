@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (ADVP (RB personally))
+    (, ,)
+    (NP (FW i))
+    (VP (MD would)
+      (VP (VB like)
+        (S
+          (VP (TO to)
+            (VP (VB see)
+              (NP
+                (NP (NN obama))
+                (VP (VBN come)
+                  (PRT (RP out))
+                  (ADVP (RB ahead)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB however))
+    (NP (FW i))
+    (VP (VBP think)
+      (SBAR
+        (S
+          (NP (NN clinton))
+          (VP (MD may)
+            (VP (VB have)
+              (NP (DT a) (JJR better) (NN chance))
+              (PP (IN at)
+                (S
+                  (VP (VBG beating)
+                    (NP (DT the) (NN gop) (NN candidate))))))))))
+    (. .)))
+

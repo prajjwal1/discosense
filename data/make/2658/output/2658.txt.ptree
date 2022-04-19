@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (NP (DT this) (NN paper))
+    (VP (VBZ presents)
+      (NP
+        (NP (DT a) (NN study))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (NN body) (NN orientation))
+            (PP (IN of)
+              (NP
+                (NP (JJ domestic) (NNS cattle))
+                (PP (IN on)
+                  (NP
+                    (NP (JJ free) (NNS pastures))
+                    (PP (IN in)
+                      (NP (JJ several) (NN european) (NNS states))))))))))
+      (, ,)
+      (PP (VBN based)
+        (PP (IN on)
+          (NP (JJ google) (NN satellite) (NNS photographs)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN sum)))
+    (NP
+      (NP (CD 232) (NNS herds))
+      (PP (IN with)
+        (NP (CD 3412) (NNS individuals))))
+    (VP (VBD were)
+      (VP (VBN evaluated)))
+    (. .)))
+

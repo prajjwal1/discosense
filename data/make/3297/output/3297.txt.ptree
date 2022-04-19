@@ -1,0 +1,21 @@
+(ROOT
+  (S
+    (NP
+      (ADJP (JJ beethovens) (JJS greatest))
+      (NNS works))
+    (VP (VBP are)
+      (NP
+        (NP (PRP$ his) (NN response))
+        (PP (TO to)
+          (NP (DT the) (JJS greatest) (NNS demands)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB conversely))
+    (NP (PRP$ his) (JJ occasional) (NNS pieces))
+    (VP (VBP are)
+      (PP (IN of)
+        (NP (JJ subordinate) (NN value))))
+    (. .)))
+

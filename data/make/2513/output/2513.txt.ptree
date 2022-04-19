@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNS structures)
+        (CC and)
+        (NNS properties))
+      (PP (IN of)
+        (NP (NN protein)
+          (CC or)
+          (NN peptide))))
+    (VP (VBZ fragments)
+      (SBAR (IN as)
+        (S
+          (NP
+            (NP (NNS inhibitors))
+            (PP (IN of)
+              (NP (NN pcs))))
+          (VP (VBD were)
+            (VP
+              (ADVP (RB also))
+              (VBN discussed))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (RB particularly) (DT the) (NNS properties))
+        (PP (IN of)
+          (NP
+            (NP (NNS polyarginines))
+            (CC and)
+            (NP (JJ small) (NNS peptides)))))
+      (VP (VBG containing)
+        (NP (JJ pseudopeptide) (NN bond))
+        (PP (IN at)
+          (NP (DT the) (JJ scissile) (NN site)))))
+    (NP (DT a) (JJ suitable) (NN peptide) (NN substrate))
+    (VP (VBD were)
+      (VP (VBN described)))
+    (. .)))
+

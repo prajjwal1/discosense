@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (ADVP (RB thus))
+    (, ,)
+    (NP
+      (NP (DT the) (JJ effective) (NN area))
+      (PP (IN of)
+        (NP (DT the) (VBG scattering) (NN region))))
+    (VP (VBZ is)
+      (NP
+        (NP
+          (QP (JJR less) (IN than) (CD 1) (CD 10))
+          (DT a) (JJ sectional) (NN area))
+        (PP (IN of)
+          (NP (DT the) (NN flow)
+            (QP (CD passage) (CD 300))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB consequently))
+    (NP
+      (NP (DT the) (JJ effective) (NN usage))
+      (PP (IN of)
+        (NP (DT a) (NN sample) (NN fluid))))
+    (VP (VBZ becomes)
+      (ADJP (RB so) (JJ low))
+      (SBAR (IN that)
+        (S
+          (NP (DT the)
+            (ADJP (RB fully) (JJ effective))
+            (NN use))
+          (VP (MD can) (RB not)
+            (VP (VB be)
+              (VP (VBN made)
+                (PP (IN of)
+                  (NP (DT the) (NN sample) (NN fluid)))))))))
+    (. .)))
+

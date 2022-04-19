@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (NP (PRP she))
+    (VP
+      (VP (VBD was)
+        (VP
+          (ADVP (RB first))
+          (VBN shown)
+          (PP (IN as)
+            (NP (DT a) (JJ fierce) (NN warrior)))))
+      (CC and)
+      (VP (MD can)
+        (VP (VB be)
+          (VP
+            (ADVP (RB easily))
+            (VBN provoked)
+            (ADVP (RB especially))
+            (PP (IN with)
+              (NP (NNP xiaoyu)))
+            (PP (IN around)
+              (NP (PRP her)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (RB though) (IN as)
+      (S
+        (NP (DT the) (NN story))
+        (VP (VBD progressed))))
+    (, ,)
+    (NP (NN ziyan))
+    (VP (VBD transformed)
+      (PP (IN from)
+        (NP (DT an) (JJ innocent)
+          (CC and)
+          (JJ feisty) (NN woman)))
+      (PP (TO to)
+        (NP (DT a) (NN kind)))
+      (X
+        (NP
+          (ADJP (JJ hearted)
+            (CC and)
+            (JJ amusing))
+          (NN lady))))
+    (. .)))
+

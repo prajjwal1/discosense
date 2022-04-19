@@ -1,0 +1,50 @@
+(ROOT
+  (S
+    (SBAR (IN if)
+      (S
+        (NP (NNS characters))
+        (VP (VBP are)
+          (ADJP (JJ low)
+            (SBAR
+              (S
+                (NP (NN level)
+                  (CC and)
+                  (NN dont))
+                (VP (VBP have)
+                  (NP
+                    (NP (DT a) (NN ranger))
+                    (PP (IN in)
+                      (NP (DT the) (NN party)))))))))))
+    (, ,)
+    (NP (PRP they))
+    (ADVP (RB probably))
+    (VP (VBP wont)
+      (VP (VB have)
+        (NP (DT the) (NN feat))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NN conversely))
+      (ADVP (RB once))
+      (VP (VBP theyre)
+        (NP (JJ high) (NN level))))
+    (, ,)
+    (NP (NN theyll))
+    (VP (VBP have)
+      (NP
+        (NP (NN access))
+        (PP (TO to)
+          (NP
+            (NP (NNS magics))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (MD will)
+                  (VP (VB make)
+                    (S
+                      (NP (DT the) (NN feat))
+                      (ADJP (JJ unnecessary)))))))))))
+    (. .)))
+

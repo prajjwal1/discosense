@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (NP (FW i))
+    (VP (VBD suggested)
+      (SBAR
+        (S
+          (NP (NN roger))
+          (VP (VBP goodell)
+            (S
+              (NP (PRP himself))
+              (VP (VBG calling)
+                (NP (DT every) (NN head) (NN coach))
+                (S
+                  (VP (TO to)
+                    (VP (VB spell)
+                      (PRT (RP out))
+                      (NP (DT these) (NNS incentives)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB instead))
+    (NP (DT the) (NN league) (NN office))
+    (VP (VBD issued)
+      (NP (DT a) (NN warning)))
+    (. .)))
+

@@ -1,0 +1,53 @@
+(ROOT
+  (S
+    (NP
+      (NP (JJ technical) (NNS advantages))
+      (PP (IN of)
+        (NP (DT the) (JJ present) (NN invention))))
+    (VP (VBP include)
+      (S
+        (VP (VBG providing)
+          (NP
+            (NP (DT an) (JJ improved) (NN method)
+              (CC and)
+              (NN system))
+            (PP (IN for)
+              (S
+                (VP (VBG accessing)
+                  (NP (JJ subterranean) (NNS deposits))
+                  (PP (IN from)
+                    (NP
+                      (NP (DT a) (JJ limited) (NN area))
+                      (PP (IN on)
+                        (NP (DT the) (NN surface))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (ADJP (JJ particular)))
+    (NP (DT a) (NN well))
+    (VP (VBD bore)
+      (SBAR
+        (S
+          (NP (NN pattern))
+          (VP (VBZ is)
+            (VP (VBN drilled)
+              (PP (IN in)
+                (NP (DT a) (NN target) (NN zone)))
+              (PP (IN from)
+                (NP
+                  (NP (DT an) (JJ articulated) (NN surface))
+                  (ADVP (RB well)
+                    (ADVP (IN at) (JJS least))
+                    (PP (IN in)
+                      (ADJP
+                        (ADJP (RB close) (JJ proximity))
+                        (PP (TO to)
+                          (NP
+                            (NP (DT another))
+                            (CC or)
+                            (NP (JJ second) (NN surface))))))))
+                (ADVP (RB well))))))))
+    (. .)))
+

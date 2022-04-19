@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (NP (EX there))
+    (VP (MD might) (, ,)
+      (ADVP (RB however))
+      (, ,)
+      (ADVP (RB still))
+      (VP (VB be)
+        (NP
+          (NP (NN value))
+          (PP (IN in)
+            (S
+              (VP (VBG using)
+                (NP (DT those) (NNS channels))
+                (PP (IN for)
+                  (NP (NN support)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (IN in) (RB short))
+    (VP (VB stay)
+      (ADJP (JJ true)
+        (PP (TO to)
+          (NP (PRP$ your) (NN brand)))))
+    (. .)))
+

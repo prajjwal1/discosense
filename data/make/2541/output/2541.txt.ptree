@@ -1,0 +1,54 @@
+(ROOT
+  (S
+    (NP (DT the) (NN bdf))
+    (VP (VBZ is)
+      (ADJP (RB principally) (JJ dedicated)
+        (PP (TO to)
+          (NP
+            (NP
+              (NP (DT the) (NN maintenance))
+              (PP (IN of)
+                (NP (JJ internal) (NN security))))
+            (CC and)
+            (NP
+              (NP (DT the) (NN protection))
+              (PP (IN of)
+                (NP
+                  (NP (DT the) (NNS shores))
+                  (PP (IN of)
+                    (NP (DT the) (NN bahrain) (NN archipelago))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP
+      (ADVP (RB nevertheless))
+      (IN with)
+      (NP
+        (NP (DT the) (NN rise))
+        (PP (IN of)
+          (NP
+            (NP (NNS tensions))
+            (PP (IN in)
+              (NP (DT the) (NN persian) (NN gulf)))))))
+    (, ,)
+    (NP (DT the) (NN force))
+    (VP
+      (VP (VBZ has)
+        (ADVP (RB nearly))
+        (VP (VBN tripled)
+          (PP (IN in)
+            (NP (NN size)))
+          (PP (IN since)
+            (NP (CD 1984)))))
+      (CC and)
+      (VP (VBZ has)
+        (VP (VBN added)
+          (ADVP (RB significantly))
+          (PP (TO to)
+            (NP
+              (NP (PRP$ its) (NN inventory))
+              (PP (IN of)
+                (NP (JJ modern) (NNS armaments))))))))
+    (. .)))
+

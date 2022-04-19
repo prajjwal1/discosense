@@ -1,0 +1,49 @@
+(ROOT
+  (S
+    (NP (JJ todays) (NN mix))
+    (VP (VBZ weights)
+      (NP (CD 59) (NN %))
+      (PP (IN as)
+        (SBAR
+          (WHNP (WP what))
+          (S
+            (NP (PRP we))
+            (VP (VBP are)
+              (VP (VBG calling)
+                (NP (JJ hard) (NNS commodities))
+                (PP (IN with)
+                  (NP
+                    (NP (JJ soft) (NNS commodities))
+                    (VP (VBG capturing)
+                      (NP (DT the) (JJ remaining) (CD 41) (NN %)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (QP (CD interestingly) (CD 9)))
+      (PP (IN of)
+        (NP
+          (NP (CD 19) (NNS components))
+          (PP (IN in)
+            (NP (DT the) (NN crb) (NN index))))))
+    (VP (VBP are)
+      (NP
+        (NP (JJ hard) (NNS commodities))
+        (, ,)
+        (SBAR
+          (WHPP (IN of)
+            (WHNP (WDT which)))
+          (S
+            (NP (DT each))
+            (VP (VBZ is)
+              (VP (VBN included)
+                (PP (IN in)
+                  (NP
+                    (NP (DT the) (NN list))
+                    (PP (IN of)
+                      (NP (CD 14)))))
+                (PP (IN above))))))))
+    (. .)))
+

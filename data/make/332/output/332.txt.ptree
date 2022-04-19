@@ -1,0 +1,71 @@
+(ROOT
+  (S
+    (NP (PRP we))
+    (VP
+      (VP (VBP have)
+        (VP (VBN faced)))
+      (CC and)
+      (VP (MD will)
+        (VP (VB continue)
+          (S
+            (VP (TO to)
+              (VP (VB face)
+                (NP
+                  (NP (NNS claims))
+                  (VP (VBG relating)
+                    (S
+                      (VP (TO to)
+                        (VP (VB content)
+                          (SBAR (IN that)
+                            (S
+                              (VP (VBZ is)
+                                (VP
+                                  (VP (VBN published))
+                                  (CC or)
+                                  (VP (VBN made)
+                                    (ADJP (JJ available))
+                                    (PP (IN through)
+                                      (NP
+                                        (NP (PRP$ our) (NNS products)
+                                          (CC and)
+                                          (NNS services))
+                                        (CC or)
+                                        (NP (JJ third) (NN party) (NNS products)
+                                          (CC or)
+                                          (NNS services))))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (ADJP (JJ particular)))
+    (NP
+      (NP (DT the) (NN nature))
+      (PP (IN of)
+        (NP (PRP$ our) (NN business))))
+    (VP (VBZ exposes)
+      (NP (PRP us))
+      (PP (TO to)
+        (NP
+          (NP (NNS claims))
+          (VP (VBN related)
+            (PP (TO to)
+              (NP
+                (NP (NN defamation))
+                (, ,)
+                (NP (JJ intellectual) (NN property) (NNS rights))
+                (, ,)
+                (NP
+                  (NP (NNS rights))
+                  (PP (IN of)
+                    (NP (NN publicity)
+                      (CC and)
+                      (NN privacy))))
+                (, ,)
+                (NP (JJ illegal) (NN content))
+                (, ,)
+                (NP (NN content) (NN regulation))
+                (CC and)
+                (NP (JJ personal) (NN injury) (NNS torts))))))))
+    (. .)))
+

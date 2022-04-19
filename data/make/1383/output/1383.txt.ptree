@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (SBAR
+      (WHNP (WDT which))
+      (S
+        (VP (VBZ is)
+          (S
+            (VP (TO to)
+              (VP (VB say))))
+          (, ,)
+          (SBAR (IN if)
+            (S
+              (NP (PRP you))
+              (ADVP (RB cant))
+              (VP (VBP stand)
+                (NP (NNS melodies))))))))
+    (, ,)
+    (VP (VB stay)
+      (ADJP (JJ clear)
+        (PP (IN of)
+          (NP (NN antenna)))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (ADVP (IN in) (RB short))
+      (IN if)
+      (S
+        (NP (PRP$ your) (JJ favorite) (NNS bands) (NN arent))
+        (VP (VBD played)
+          (PP (IN between)
+            (NP (NN audioslave)
+              (CC and)
+              (NN foo) (NNS fighters)))
+          (PP (IN on)
+            (NP (JJ modern) (NN rock) (NN radio))))))
+    (, ,)
+    (VP (VB cave)
+      (PP (IN in)
+        (NP
+          (NP (RB probably) (JJ isnt) (NN one))
+          (PP (IN of)
+            (NP (PRP them))))))
+    (. .)))
+

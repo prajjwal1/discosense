@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (NP (PDT all) (DT the) (JJ current) (NNS ones))
+    (VP (VBP are)
+      (ADJP (RB quite) (JJ short)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP
+      (VP (VB interestingly)
+        (NP (DT the) (JJR more) (NN complex)))
+      (CC and)
+      (VP (VB direct)
+        (NP
+          (NP
+            (NP (DT the) (NN story))
+            (ADJP (DT the)
+              (ADJP (JJR shorter))
+              (, ,)
+              (CC and)
+              (ADJP (DT the) (RBR more) (JJ abstract))
+              (CC and)
+              (ADJP (JJ vague))))
+          (X (DT the) (JJR longer)))))
+    (. .)))
+

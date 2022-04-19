@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (NP (NN deleuze))
+    (VP (VBZ uses)
+      (NP (DT an)
+        (ADJP (RB often) (JJ inaccurate))
+        (NN comparison))
+      (S
+        (VP (TO to)
+          (VP (VB put)
+            (PRT (RP forward))
+            (NP
+              (NP (PRP$ his) (NN idea))
+              (PP (IN of)
+                (SBAR
+                  (WHNP (WP what))
+                  (S
+                    (VP (VBZ is)
+                      (ADJP (JJ wrong)
+                        (PP (IN with)
+                          (NP (NN robinson) (NNS psychologically))))
+                      (SBAR (IN that)
+                        (S
+                          (NP (PRP he))
+                          (VP (VBZ is)
+                            (NP (DT the) (JJ archetypal) (NN capitalist))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN by)
+      (NP (NN contrast)))
+    (NP (NN olivier) (NN cadiot))
+    (VP (VBZ has)
+      (VP (VBN read)
+        (ADJP (DT both) (JJ defoe)
+          (CC and)
+          (JJ deleuze))))
+    (. .)))
+

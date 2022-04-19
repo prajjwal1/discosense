@@ -1,0 +1,52 @@
+(ROOT
+  (S
+    (NP
+      (NP (PRP$ our) (NN client))
+      (, ,)
+      (NP (DT a) (VBG leading) (NN food) (NN company))
+      (, ,))
+    (VP (VBZ is)
+      (VP (VBG looking)
+        (PP (IN for)
+          (NP
+            (NP (DT a)
+              (ADJP
+                (ADJP (JJ gifted))
+                (CC and)
+                (ADJP (RB incredibly) (JJ skilled)))
+              (NN vp) (NN business) (NN development))
+            (SBAR
+              (WHNP (WP who))
+              (S
+                (VP (VBZ is)
+                  (ADJP (JJ capable)
+                    (PP (IN of)
+                      (S
+                        (VP (VBG taking)
+                          (NP (DT the) (NN team))
+                          (PP (TO to)
+                            (NP
+                              (NP (JJ remarkable) (NNS heights))
+                              (PP (IN of)
+                                (NP (NN success))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB specifically))
+    (NP (PRP we))
+    (VP (VBP are)
+      (VP (VBG seeking)
+        (NP
+          (NP (DT a) (NN leader))
+          (SBAR
+            (WHNP (WP who))
+            (S
+              (VP (VBZ is)
+                (ADJP (JJ able)
+                  (S
+                    (VP (TO to)
+                      (VP (VB handle)
+                        (NP (DT the))))))))))))
+    (. .)))
+

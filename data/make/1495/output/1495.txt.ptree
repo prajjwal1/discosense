@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (DT this) (NN case)))
+    (, ,)
+    (NP (NN walley))
+    (VP (VBZ does) (RB not)
+      (VP (VB argue)
+        (SBAR (IN that)
+          (S
+            (NP (NN pender))
+            (VP (VBD received)
+              (NP (DT a) (NN reduction))
+              (PP (IN in)
+                (NP
+                  (NP (DT the) (NN range))
+                  (PP (IN of)
+                    (NP (JJ possible) (NN imprisonment)))))
+              (SBAR (IN before)
+                (S
+                  (NP (PRP he))
+                  (VP (VBD testified)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB rather))
+    (NP (NN pender))
+    (VP (VBD hoped)
+      (S
+        (VP (TO to)
+          (VP (VB receive)
+            (NP (DT a) (NN motion))
+            (PP (IN by)
+              (NP (DT the) (NN government)
+                (S
+                  (VP (TO to)
+                    (VP (VB reduce)
+                      (NP (PRP$ his) (NN sentence))
+                      (PP (IN after)
+                        (NP (DT the) (NN trial))))))))))))
+    (. .)))
+

@@ -1,0 +1,1 @@
+the example shows how to achieve continuous figure numbering in the book class. conversely heres how to achieve per section figure numbering in the article class.

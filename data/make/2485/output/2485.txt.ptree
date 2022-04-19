@@ -1,0 +1,42 @@
+(ROOT
+  (S (CC and)
+    (NP (PRP it))
+    (ADVP (RB also))
+    (VP (VBZ explains)
+      (SBAR
+        (WHADVP (WRB why))
+        (S
+          (NP (VBN decreased) (NN melatonin))
+          (VP (VBZ is)
+            (VP (VBN found)
+              (PP (IN in)
+                (NP
+                  (NP (DT those))
+                  (PP (IN with)
+                    (NP (NN insomnia))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ conversely) (NN serotonin))
+      (, ,)
+      (NP
+        (NP (DT the) (NN brain) (NN hormone))
+        (VP (VBN associated)
+          (PP (IN with)
+            (NP (NN mood) (NN elevation)))))
+      (, ,))
+    (VP
+      (VP (VBZ rises)
+        (PP (IN with)
+          (NP (NN exposure)))
+        (PP (TO to)
+          (NP (JJ bright) (NN light))))
+      (, ,)
+      (CC and)
+      (VP (VBZ falls)
+        (PP (IN with)
+          (NP (VBN decreased) (NN sun) (NN exposure)))))
+    (. .)))
+

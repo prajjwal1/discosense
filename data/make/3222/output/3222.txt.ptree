@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (NP (PRP they))
+    (VP (VBD made)
+      (SBAR
+        (S
+          (NP (PRP her))
+          (VP (VBP believe)
+            (SBAR
+              (S
+                (NP (PRP she))
+                (VP (VBD was)
+                  (ADJP (JJ horrid)
+                    (CC and)
+                    (JJ ugly)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB however))
+    (NP
+      (NP (DT a) (NN mistake))
+      (PP (IN on)
+        (NP (PRP$ her) (NN part) (NNS causes))))
+    (VP (VBZ irenes)
+      (NP (NN life))
+      (S
+        (VP (TO to)
+          (VP (VB change)
+            (S
+              (VP (VBG landing)
+                (NP (PRP her))
+                (PP (IN in)
+                  (NP
+                    (NP (DT the) (NN care))
+                    (PP (IN of)
+                      (NP (DT a) (JJ young) (NN miner)))))))))))
+    (. .)))
+

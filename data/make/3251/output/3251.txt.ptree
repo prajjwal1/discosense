@@ -1,0 +1,54 @@
+(ROOT
+  (S
+    (PP (IN for)
+      (NP (NN example)))
+    (, ,)
+    (NP (NNS metals))
+    (ADVP (RB typically))
+    (VP (VBP expand)
+      (ADVP (RBR faster))
+      (PP (IN than)
+        (NP (NN silicon)))
+      (, ,)
+      (SBAR (IN whereas)
+        (S
+          (NP
+            (NP (NNS voids))
+            (, ,)
+            (PP (IN for)
+              (NP (NN example)))
+            (, ,))
+          (VP (VBN filled)
+            (PP (IN with)
+              (NP
+                (NP (DT a) (NN gas))
+                (VP (VBG having)
+                  (NP (JJ negligible) (NN expansion)))
+                (ADVP (JJ relative)
+                  (PP (TO to)
+                    (NP (DT the) (NN silicon) (NN substrate))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (RB hence) (DT a) (NN combination))
+      (PP (IN of)
+        (NP
+          (NP (NN metal))
+          (PP (IN with)
+            (NP (NNS voids))))))
+    (VP (VBZ produces)
+      (S
+        (NP
+          (NP (DT an) (JJ effective) (NN material))
+          (PP (IN with)
+            (NP
+              (NP (DT a) (NN coefficient))
+              (PP (IN of)
+                (NP (NN expansion))))))
+        (ADJP (JJ comparable)
+          (PP (TO to)
+            (NP (DT the) (NN substrate))))))
+    (. .)))
+

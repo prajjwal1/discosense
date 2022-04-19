@@ -1,0 +1,65 @@
+(ROOT
+  (S
+    (ADVP (RB yet))
+    (, ,)
+    (S
+      (NP
+        (NP (JJ such) (NNS measures))
+        (PP (IN in)
+          (NP (DT the) (NN past))))
+      (VP (VBP have)
+        (VP (VBN been)
+          (VP (VBN enacted)
+            (ADVP (RB predominantly))
+            (PP (IN in)
+              (NP
+                (NP (JJ applied) (NNS areas))
+                (PP (IN of)
+                  (NP (NN physics)
+                    (CC or)
+                    (NN cryptography)))))))))
+    (CC and)
+    (S (, ,)
+      (PP (IN as)
+        (NP (DT a) (NN result)))
+      (, ,)
+      (NP
+        (NP (NNS analyses))
+        (PP (IN of)
+          (NP (NN secrecy)
+            (CC and)
+            (NN science))))
+      (VP (VBP have)
+        (VP (VBN focused)
+          (PP (IN on)
+            (NP (JJ such) (NNS areas))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN contrast)))
+    (NP (DT many))
+    (VP (VBP argue)
+      (SBAR (IN that)
+        (S
+          (NP (PRP it))
+          (VP (VBZ is)
+            (NP
+              (NP (DT the) (JJ fundamental) (NN knowledge))
+              (VP (VBN gained)
+                (PP (IN about)
+                  (NP (DT the) (JJ biological) (NNS processes)))
+                (NP (NN today)))
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (VP (VBZ is)
+                    (ADJP (JJ essential)
+                      (PP (IN for)
+                        (NP
+                          (NP (DT the) (NN production))
+                          (PP (IN of)
+                            (NP (NNS bioweapons))))))))))))))
+    (. .)))
+

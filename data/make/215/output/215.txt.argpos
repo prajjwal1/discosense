@@ -1,0 +1,2 @@
+conn:if..then conn_POS:IN_RB NA
+conn:on_the_contrary conn_POS:IN_DT_NN sent_pos:0 NA

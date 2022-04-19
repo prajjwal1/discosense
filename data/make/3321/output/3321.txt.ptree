@@ -1,0 +1,23 @@
+(ROOT
+  (S
+    (NP (DT the) (JJ other)
+      (ADJP (RB not) (RB so) (JJ famous))
+      (NNS games))
+    (VP (VBP are)
+      (VP (VBN forgotten)
+        (CC and)
+        (VBN put)
+        (ADVP (RB aside))
+        (PP (IN by)
+          (NP (JJ future) (NNS gamers)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (JJ other) (NNS words)))
+    (NP (PRP they))
+    (VP (VBP become)
+      (ADJP (JJ underrated)))
+    (. .)))
+

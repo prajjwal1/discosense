@@ -1,0 +1,2 @@
+conn:because conn_POS:IN prev1:, prev1_POS:, with_prev1_full:,_because with_prev1_POS_full:,_IN prev2:this prev2_POS:DT with_prev2_full:this_because with_prev2_POS_full:DT_IN NA
+conn:however conn_POS:RB sent_pos:0 NA

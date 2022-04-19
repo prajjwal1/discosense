@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (S
+      (NP (NN adbpa))
+      (VP (VBZ is)
+        (NP (DT a) (JJ good) (NN place)
+          (S
+            (VP (TO to)
+              (VP (VB start)
+                (PP (IN as)
+                  (NP (DT an) (NN overview)))))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (NNS details))
+      (VP (VBP are)
+        (ADVP (RB obviously))
+        (VP (VBG lacking))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP (NN instance)))
+    (NP (PRP it))
+    (VP (VBP doesnt)
+      (SBAR
+        (SBAR
+          (S
+            (VP (VBP display)
+              (NP
+                (NP (NN information))
+                (PP (IN about)
+                  (NP (JJ active) (NN directory) (NN replication)))))))
+        (CC or)
+        (SBAR (IN if)
+          (S
+            (NP (DT any) (NN dcs) (NN havent))
+            (VP (VBN replicated)
+              (PP (IN over)
+                (NP
+                  (NP (DT a) (NN period))
+                  (PP (IN of)
+                    (NP (NN time))))))))))
+    (. .)))
+

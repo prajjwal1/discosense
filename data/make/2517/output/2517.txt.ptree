@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (DT some) (NNS cases)))
+    (, ,)
+    (NP (DT the) (JJ astral) (NN experience))
+    (VP (VBZ lasts)
+      (PP (IN for)
+        (NP
+          (NP (DT a) (NN period))
+          (PP (IN as)
+            (NP (JJ short)
+              (UCP
+                (PP (IN as)
+                  (NP
+                    (NP (DT a) (NN couple))
+                    (PP (IN of)
+                      (NP (NNS mins)))))
+                (CC or)
+                (ADVP (RB simply)))
+              (NNS seconds))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thereafter))
+    (NP (DT the) (JJ astral) (NN body))
+    (VP
+      (VP (VBZ gets)
+        (ADJP (RB excessively) (JJ excited)))
+      (CC and)
+      (VP (VBZ returns)
+        (PP (TO to)
+          (NP (DT the) (JJ physical) (NN body)))))
+    (. .)))
+

@@ -1,0 +1,50 @@
+(ROOT
+  (S
+    (S
+      (NP (DT the) (NN economy))
+      (VP (VBZ is)
+        (VP (VBG going)
+          (S
+            (VP (TO to)
+              (VP (VB be)
+                (ADJP (JJR weaker)
+                  (SBAR
+                    (S
+                      (NP (NN banking) (NNS problems))
+                      (VP (MD will)
+                        (VP (VB persist))))))))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (DT the) (NN fed))
+      (VP (MD will)
+        (VP (VB continue)
+          (S
+            (VP (TO to)
+              (VP (VB ease)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nonetheless))
+    (NP (DT the) (NN consensus) (NN perception))
+    (VP (VBZ appears)
+      (S
+        (VP (TO to)
+          (VP (VB be)
+            (SBAR (IN that)
+              (S
+                (NP (NN qe) (CD 3))
+                (VP (MD will)
+                  (VP (VB be)
+                    (VP (VBN gone)
+                      (PP (IN by)
+                        (NP
+                          (NP (DT the) (NN middle))
+                          (PP (IN of)
+                            (NP (CD 2014)))))
+                      (, ,)
+                      (PP (IN despite)
+                        (NP (DT the) (JJ stated) (JJ economic) (NNS preconditions))))))))))))
+    (. .)))
+

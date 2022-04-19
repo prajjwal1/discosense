@@ -1,0 +1,2 @@
+conn:in_other_words conn_POS:IN_JJ_NNS sent_pos:0 NA
+conn:if conn_POS:IN prev1:even prev1_POS:RB with_prev1_full:even_if with_prev1_POS_full:RB_IN prev2:words prev2_POS:NNS with_prev2_full:words_if with_prev2_POS_full:NNS_IN NA

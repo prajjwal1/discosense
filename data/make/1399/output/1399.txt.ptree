@@ -1,0 +1,51 @@
+(ROOT
+  (S
+    (NP (PRP she))
+    (VP (VBZ knows)
+      (PP (IN from)
+        (NP (JJ past) (NN experience)))
+      (SBAR
+        (WHADVP (WRB how)
+          (CC and)
+          (WRB when))
+        (S
+          (NP (PRP$ her) (NN baby))
+          (ADVP (RB usually))
+          (VP (VBZ cries)
+            (SBAR
+              (S
+                (VP (VBZ thats)
+                  (NP (PRP$ her) (NN baseline)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB because) (IN of)
+      (NP (DT that)))
+    (NP (PRP she))
+    (VP (MD can)
+      (VP (VB tell)
+        (NP (DT this) (NN time) (RP around))
+        (SBAR
+          (SBAR (IN whether)
+            (S
+              (NP (DT the) (NN baby))
+              (VP (VBZ is)
+                (VP (VBG crying)
+                  (ADVP (RB just))
+                  (PP (IN because)
+                    (NP (NN hes) (NN fussy)))))))
+          (, ,)
+          (CC or)
+          (SBAR (IN whether)
+            (S
+              (NP (EX there))
+              (VP (MD might)
+                (VP (VB be)
+                  (NP (NN something)
+                    (S
+                      (VP (TO to)
+                        (VP (VB worry)
+                          (PRT (RP about)))))))))))))
+    (. .)))
+

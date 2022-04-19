@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (ADVP (RB positivity))
+    (, ,)
+    (PP (IN by)
+      (S
+        (VP (VBG prompting)
+          (NP (NN approach)
+            (CC and)
+            (NN exploration)))))
+    (, ,)
+    (VP (VBZ creates)
+      (NP (JJ experiential) (NN learning) (NNS opportunities))
+      (NP
+        (NP (DT that) (JJ con) (NN firm))
+        (CC or)
+        (NP (JJ correct) (JJ initial) (NNS expectations))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN by)
+      (NP
+        (NP (NN contrast))
+        (SBAR (IN because)
+          (S
+            (ADVP (RB negativity))
+            (VP (VBZ promotes)
+              (NP (NN avoidance)))))))
+    (, ,)
+    (NP (NNS opportunities)
+      (S
+        (VP (TO to)
+          (VP (VB correct)
+            (NP (JJ false) (NNS impressions))))))
+    (VP (VBP are)
+      (VP (VBN passed)
+        (PP (IN by))))
+    (. .)))
+

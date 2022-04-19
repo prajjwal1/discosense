@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (JJ average) (NN survival) (NN time))
+      (PP (IN of)
+        (NP
+          (NP (DT these) (NNS patients))
+          (SBAR
+            (WHNP (WP who))
+            (S
+              (VP (VBD were)
+                (VP (VBN treated)
+                  (PP (IN with)
+                    (NP (JJ postoperative) (NN radiotherapy))))))))))
+    (VP (VBD amounted)
+      (PP (TO to)
+        (NP (CD 75) (NNS months))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN contrast)))
+    (NP
+      (NP (DT the) (NNS patients))
+      (SBAR
+        (WHNP (WP who))
+        (S
+          (VP (VBD underwent)
+            (NP (JJ preoperative) (NN irradiation))))))
+    (VP (VBD survived)
+      (NP (CD 31) (NNS months))
+      (PP (IN on)
+        (NP (NN average))))
+    (. .)))
+

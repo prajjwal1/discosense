@@ -1,0 +1,3 @@
+conn:in_addition conn_POS:IN_NN sent_pos:0 NA
+conn:also conn_POS:RB prev1:is prev1_POS:VBZ with_prev1_full:is_also with_prev1_POS_full:VBZ_RB prev2:this prev2_POS:DT with_prev2_full:this_also with_prev2_POS_full:DT_RB NA
+conn:then conn_POS:RB prev1:and prev1_POS:CC with_prev1_full:and_then with_prev1_POS_full:CC_RB prev2:tuple prev2_POS:NN with_prev2_full:tuple_then with_prev2_POS_full:NN_RB NA

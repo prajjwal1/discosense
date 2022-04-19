@@ -1,0 +1,43 @@
+(ROOT
+  (S (RB not)
+    (NP (DT all) (NNS people))
+    (VP (VBP are)
+      (ADJP (JJ comfortable)
+        (PP (IN with)
+          (NP
+            (NP (PRP$ your) (NNS dogs))
+            (, ,)
+            (NP (NNS cats))
+            (, ,)
+            (NP (NN teacup) (NNS pigs))
+            (CC or)
+            (NP (JJ similar) (NNS pets))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB hence))
+    (NP (PRP it))
+    (VP (VBZ is)
+      (NP
+        (NP (JJ mandatory))
+        (PP (IN for)
+          (NP (PRP you)))
+        (S
+          (VP (TO to)
+            (VP (VB check)
+              (PP (IN with)
+                (NP
+                  (NP (DT the) (NN staff))
+                  (PP (IN of)
+                    (NP (NN hostel)))))
+              (SBAR (IN for)
+                (S
+                  (NP (PRP them))
+                  (VP (TO to)
+                    (VP (VB allot)
+                      (NP (PRP you))
+                      (PP (IN with)
+                        (NP (DT the) (JJS best) (NN room))))))))))))
+    (. .)))
+

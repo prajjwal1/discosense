@@ -1,0 +1,4 @@
+0..2 0 if 83.txt 0
+65..68 0 for 83.txt 0
+138..148 1 conversely 83.txt 0
+149..151;201..205 1 if_then 83.txt 0

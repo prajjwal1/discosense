@@ -1,0 +1,58 @@
+(ROOT
+  (S
+    (S
+      (NP (FW i))
+      (VP (VBD went)
+        (PP (TO to)
+          (NP
+            (NP (DT the) (NN university))
+            (PP (IN of)
+              (NP (NN hull)))))))
+    (CC but)
+    (S
+      (NP
+        (NP (DT the) (NN smell))
+        (PP (IN of)
+          (NP (NN fishmeal))))
+      (VP (VBD was)
+        (ADJP
+          (ADJP (JJR more))
+          (SBAR (IN than)
+            (S
+              (NP (FW i))
+              (VP (MD could)
+                (VP (VB take))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB otherwise))
+    (NP (FW i))
+    (VP (VBD had)
+      (NP
+        (NP
+          (NP (DT a) (NN choice))
+          (PP (IN between)
+            (NP (JJ aberystwyth) (NN university))))
+        (CC and)
+        (NP
+          (NP (DT a)
+            (ADJP
+              (ADVP (RB religiously))
+              (VBN oriented))
+            (NN institution))
+          (PP (IN in)
+            (NP (JJ western) (NN canada)))))
+      (, ,)
+      (SBAR
+        (WHADVP (WRB where))
+        (S
+          (NP (FW i))
+          (VP (VBD suspected)
+            (SBAR
+              (S
+                (NP (PRP they))
+                (VP (VBD sacrificed)
+                  (NP (DT the) (NN firstborn)))))))))
+    (. .)))
+

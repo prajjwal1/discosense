@@ -1,0 +1,55 @@
+(ROOT
+  (S
+    (NP (PRP we))
+    (VP (MD should)
+      (VP (VB point)
+        (PRT (RP out))
+        (ADVP (RB here))
+        (SBAR (IN that)
+          (S
+            (PP (IN within)
+              (NP (DT the) (JJ marvel) (JJ cinematic) (NN universe)))
+            (, ,)
+            (NP
+              (NP (RB even) (NNS people))
+              (PP (IN without)
+                (NP (NNS superpowers))))
+            (VP (VBP have)
+              (NP
+                (NP (DT a) (NN way))
+                (PP (IN of)
+                  (S
+                    (VP (VBG getting)
+                      (NP
+                        (NP (NN un))
+                        (VP (VBN killed))))))))))))
+    (. .)))
+
+(ROOT
+  (S (CC but)
+    (S
+      (NP (PRP we))
+      (VP (VBP agree)
+        (ADVP (RB wholeheartedly))
+        (SBAR (IN that)
+          (S
+            (NP (JJ black) (NN widow))
+            (VP (VBZ is)
+              (NP
+                (NP (NN someone))
+                (SBAR
+                  (S
+                    (NP (PRP we))
+                    (VP (VBP canbelieve)
+                      (PRT (RP in)))))))))))
+    (, ,) (IN so)
+    (S
+      (NP (VBP we) (NN wont))
+      (VP (VBP argue)
+        (PP (IN with)
+          (NP
+            (NP (DT the) (NN rest))
+            (PP (IN of)
+              (NP (PRP$ his) (NN explanation)))))))
+    (. .)))
+

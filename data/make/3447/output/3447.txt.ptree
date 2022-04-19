@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT this) (JJ rapid) (NN growth))
+      (PP (IN of)
+        (NP (JJ mobile) (NN data) (NN traffic))))
+    (VP (MD will)
+      (ADVP (RB likely))
+      (VP (VB continue)
+        (PP (IN in)
+          (NP (DT the) (JJ near) (NN future)))
+        (ADVP (RB as) (RB well))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (ADJP (RB particularly) (JJ mobile))
+      (NN technology))
+    (VP (VBZ is)
+      (ADVP (RB often))
+      (VP (VBN referred)
+        (PP (TO to)
+          (NP
+            (NP (RB as) (DT a) (NN game) (NN changer))
+            (PP (IN for)
+              (NP (NN news) (NN consumption)))))))
+    (. .)))
+

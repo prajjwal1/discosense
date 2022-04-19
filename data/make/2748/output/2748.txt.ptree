@@ -1,0 +1,53 @@
+(ROOT
+  (SINV
+    (ADVP (RB then)
+      (CC and)
+      (RB only))
+    (ADVP (RB then))
+    (VP (MD would))
+    (NP (PRP we))
+    (S
+      (VP
+        (ADVP (RB successively))
+        (VB detect)
+        (NP
+          (NP (DT a) (NN message))
+          (PP (IN from)
+            (NP
+              (NP (DT the) (NN gc))
+              (PRN (, ,)
+                (ADVP (RB presumably))
+                (ADJP
+                  (ADJP (JJ faint))
+                  (RB enough)
+                  (S
+                    (VP (TO to)
+                      (VP (VB be)
+                        (ADJP (RB only) (JJ detectable))
+                        (PP (IN with)
+                          (NP
+                            (NP (DT a) (JJ huge) (NN radio) (NN telescope))
+                            (PP (IN in)
+                              (NP (NN space)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN on)
+      (NP (DT the) (JJ other) (NN hand)))
+    (NP (DT the) (NN gc))
+    (VP (MD may)
+      (VP (VB be)
+        (VP (VBG monitoring)
+          (NP (JJ biotically) (JJ inhabited) (NNS planets))
+          (PP (IN by)
+            (NP
+              (NP (JJ remote) (JJ bracewell) (NNS probes))
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (VP (VBP have)
+                    (VP (VBN programmed)
+                      (NP (NNS instructions)))))))))))
+    (. .)))
+

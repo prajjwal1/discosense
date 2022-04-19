@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (NP (FW i))
+    (ADVP (RB manually))
+    (VP (VBD created)
+      (NP (DT an) (JJ empty) (NN database))
+      (PP (IN with)
+        (NP (JJ same) (NN filepath)
+          (CC and)
+          (NN filesize)))
+      (S
+        (VP (VBG using)
+          (NP
+            (NP (NN sql))
+            (, ,)
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (VBD worked))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB interestingly))
+    (NP (DT a) (CD 1) (NN gb) (NN database) (NN copy))
+    (VP
+      (VP (VBD failed)
+        (PP (IN with)
+          (NP (JJ same) (NNS errors))))
+      (CC and)
+      (VP (VBD succeeded)
+        (PP (IN on)
+          (NP (JJ 2nd) (NN try)))))
+    (. .)))
+

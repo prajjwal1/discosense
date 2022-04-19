@@ -1,0 +1,2 @@
+Explicit|||0..4||when||0|when|||Temporal.Synchrony|||||||||||68..100|0|i am asked for the root password||||||||5..66|0|i try to install software updates using thesoftware updategui|||||||||||||
+Explicit|||102..110||although||1|although|||Comparison.Concession|||||||||||135..194|1|the password is not recognized as correct in the gui prompt||||||||111..133|1|i can su in a terminal|||||||||||||

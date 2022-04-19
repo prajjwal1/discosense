@@ -1,0 +1,54 @@
+(ROOT
+  (S
+    (NP (EX there))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (NN lot))
+        (PP (IN of)
+          (NP
+            (NP (NN uncertainty))
+            (PP (IN in)
+              (S
+                (VP (VBG doing)
+                  (S
+                    (NP (NNS things))
+                    (ADJP (JJ different)))
+                  (, ,)
+                  (SBAR (IN because)
+                    (S
+                      (NP (EX there))
+                      (VP (VBP are)
+                        (ADVP (RB now))
+                        (NP (DT a) (NN bazillion) (NNS things))
+                        (SBAR (IN that)
+                          (S
+                            (NP (PRP you))
+                            (VP (MD could)
+                              (VP (VB do)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB thus))
+      (NP (JJ bad) (NN news))
+      (VP (VBZ brings)
+        (NP (JJR more) (NN uncertainty))
+        (SBAR (IN because)
+          (S
+            (NP (PRP it))
+            (VP (VBZ implies)
+              (NP (NN change)))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (JJ good) (NN news))
+      (VP (VBP bring)
+        (NP (JJR lower) (NN uncertainty))
+        (SBAR (IN because)
+          (S
+            (NP (PRP it))
+            (VP (VBZ implies)
+              (NP (NN repetition)))))))
+    (. .)))
+

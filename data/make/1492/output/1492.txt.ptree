@@ -1,0 +1,23 @@
+(ROOT
+  (S
+    (NP (NN sarah) (NNS i))
+    (VP (VBP think)
+      (S
+        (NP (PRP you))
+        (VP (VB raise)
+          (NP (DT some) (JJ interesting) (NNS questions)))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (RB particularly) (DT the) (NN intersection))
+    (PP (IN of)
+      (NP
+        (NP (NN childhood) (NN obesity))
+        (, ,)
+        (NP (NN school) (NNS lunches))
+        (, ,)
+        (CC and)
+        (NP (NN food) (NN security))))
+    (. .)))
+

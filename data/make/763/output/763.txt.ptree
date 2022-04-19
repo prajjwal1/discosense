@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (VP (VBD said) (, ,)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (DT the) (NN number))
+            (PP (IN of)
+              (NP
+                (NP (NNS admirals))
+                (PP (IN on)
+                  (NP (DT the) (NN list))))))
+          (VP (VBD was) (RB not)
+            (VP (VBN diminished)
+              (NP (DT this) (NN year)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN on)
+      (NP (DT the) (NN contrary)))
+    (NP (PRP it))
+    (VP (VBD was)
+      (ADJP (JJR greater))
+      (PP (IN by)
+        (NP (CD nine))))
+    (. .)))
+

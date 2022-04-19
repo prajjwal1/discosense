@@ -1,0 +1,57 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (NNS results))
+      (PP (IN of)
+        (NP (DT the)
+          (UCP
+            (ADVP (FW in) (FW vitro))
+            (CC and)
+            (PP (IN in)
+              (NP (NN vivo) (NN standard))))
+          (NN test) (NNS procedures))))
+    (VP (VBP demonstrate)
+      (SBAR (IN that)
+        (S
+          (NP (NN actinomycin) (NNS d))
+          (VP (VBZ is)
+            (ADJP (JJ useful)
+              (PP (IN for)
+                (NP
+                  (NP (DT the) (NN treatment))
+                  (PP (IN of)
+                    (NP
+                      (ADJP (JJ hyper) (JJ proliferative))
+                      (NN vascular) (NN disease))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB specifically))
+    (NP (NN actinomycin) (NNS d))
+    (VP (VBZ is)
+      (ADJP (JJ useful)
+        (PP (IN for)
+          (NP
+            (NP
+              (NP (DT the) (NN inhibition))
+              (PP (IN of)
+                (NP (JJ smooth) (NN muscle) (NN cell) (NN hyperplasia))))
+            (, ,)
+            (NP
+              (NP (NNS restenosis)
+                (CC and)
+                (NN vascular) (NN occlusion))
+              (PP (IN in)
+                (NP (DT a) (NN mammal))))
+            (, ,) (RB particularly)
+            (NP
+              (NP (NNS occlusions))
+              (PP (VBG following)
+                (NP (DT a)
+                  (ADJP (RB mechanically) (JJ mediated))
+                  (NN vascular) (NN trauma)
+                  (CC or)
+                  (NN injury))))))))
+    (. .)))
+

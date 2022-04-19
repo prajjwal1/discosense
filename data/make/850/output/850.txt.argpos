@@ -1,0 +1,2 @@
+conn:thus conn_POS:RB prev1:are prev1_POS:VBP with_prev1_full:are_thus with_prev1_POS_full:VBP_RB prev2:mennonites prev2_POS:NNS with_prev2_full:mennonites_thus with_prev2_POS_full:NNS_RB NA
+conn:nevertheless conn_POS:RB sent_pos:0 NA

@@ -1,0 +1,50 @@
+(ROOT
+  (S
+    (NP (DT the) (JJ national) (NNS accounts))
+    (ADVP (RB also))
+    (VP (VBP include)
+      (NP
+        (NP (NNS figures))
+        (PP (IN for)
+          (NP
+            (NP (DT the) (NNS factors))
+            (PP (IN of)
+              (NP (NN production)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN by)
+      (NP (NN contrast)))
+    (NP
+      (NP (DT the) (JJ financial) (NNS accounts))
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (VP (VBP are)
+            (NP
+              (NP (DT an) (JJ integral) (NN part))
+              (PP (IN of)
+                (NP (DT the) (JJ national) (NNS accounts)))))))
+      (, ,))
+    (VP (VBP focus)
+      (PP (IN on)
+        (NP
+          (NP (DT the) (JJ financial) (NNS activities))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBP arise)
+                (PP (IN as)
+                  (NP
+                    (NP (NN part))
+                    (PP (IN of)
+                      (NP
+                        (NP (DT the) (NN production))
+                        (PP (IN of)
+                          (NP (NNS goods)
+                            (CC and)
+                            (NNS services)))))))))))))
+    (. .)))
+

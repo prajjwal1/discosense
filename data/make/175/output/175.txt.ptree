@@ -1,0 +1,50 @@
+(ROOT
+  (S
+    (S
+      (VP (VBN granted)))
+    (, ,)
+    (NP (DT this) (JJ desperate) (NN reaction))
+    (VP (MD may)
+      (VP (VB be)
+        (VP (VBN self)
+          (NP (JJ soothing)
+            (UCP
+              (PP (IN of)
+                (NP (DT the) (JJ last) (NN resort)))
+              (, ,)
+              (CC but)
+              (NP (PRP$ its)
+                (NP
+                  (NP (DT a) (NN kind))
+                  (PP (IN of)
+                    (NP (NN self))))))
+            (NNS soothing))
+          (ADVP (RB nonetheless)))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (ADVP (IN in) (RB short))
+      (IN if)
+      (S
+        (NP (PRP we))
+        (ADVP (RB cant))
+        (VP (VBD comfort)
+          (NP (PRP ourselves))
+          (PP (IN through)
+            (NP (NN self) (NN validation))))))
+    (, ,)
+    (ADVP (RB well))
+    (VP (VBP need)
+      (S
+        (VP (TO to)
+          (VP (VB do)
+            (ADVP (RB so)
+              (PP (IN through)
+                (PP (IN in)
+                  (S
+                    (VP (VBG validating)
+                      (NP (NNS others)))))))))))
+    (. .)))
+

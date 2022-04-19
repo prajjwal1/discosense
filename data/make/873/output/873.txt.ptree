@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (ADVP (RB later)
+      (PP (IN during)
+        (NP
+          (NP (DT the) (NN time))
+          (PP (IN of)
+            (NP (NNS peshwas))))))
+    (, ,)
+    (NP (DT the) (NN temple))
+    (VP (VBD was)
+      (VP (VBN repaired)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB though))
+    (NP
+      (NP (JJ many) (NNS invasions))
+      (PP (IN over)
+        (NP
+          (NP (DT this) (NN part))
+          (PP (IN of)
+            (NP (NN india))))))
+    (VP (VBZ has)
+      (VP (VBN caused)
+        (NP
+          (NP (DT some) (NNS damages))
+          (PP (IN of)
+            (NP
+              (NP (DT the) (JJ beautiful) (NNS idols))
+              (, ,)
+              (SBAR
+                (WHNP (WDT which))
+                (S
+                  (VP (VBP are) (RB all)
+                    (PP (IN around)
+                      (NP (DT the) (NN temple)))))))))))
+    (. .)))
+

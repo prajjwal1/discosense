@@ -1,0 +1,55 @@
+(ROOT
+  (S
+    (NP
+      (NP
+        (ADJP (RB low) (DT no))
+        (NNS concentrations))
+      (VP (VBN synthesized)
+        (PP (IN by)
+          (NP (NN constitutively)))))
+    (VP (VBD expressed)
+      (S
+        (NP (DT no) (NNS synthases))
+        (VP
+          (VP (VB act)
+            (PP (IN on)
+              (NP
+                (NP (JJ several) (JJ signaling) (NNS pathways))
+                (VP (VBG activating)
+                  (NP
+                    (NP (NN transcription) (NNS factors))
+                    (, ,)
+                    (RRC
+                      (PP (JJ such) (IN as)
+                        (NP (NN nf)))
+                      (NP (SYM b))))))))
+          (CC or)
+          (VP (VB ap)
+            (NP (CD 1)))
+          (, ,)
+          (CC and)
+          (VP
+            (ADVP (RB thereby))
+            (VB influence)
+            (NP (NN gene) (NN expression))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP
+        (NP (NN contrast))
+        (PP (IN during)
+          (NP (JJ inflammatory) (NNS reactions)))))
+    (NP
+      (NP (DT the) (NN inducible))
+      (NP (DT no) (NN synthase)))
+    (VP (VBZ produces)
+      (ADVP (RB no)
+        (PP (IN for)
+          (NP
+            (NP (VBN prolonged) (NNS periods))
+            (PP (IN of)
+              (NP (NN time)))))))
+    (. .)))
+

@@ -1,0 +1,47 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT all))
+      (PP (IN of)
+        (NP (PRP$ her) (JJ endearing) (JJ personal) (NNS qualities))))
+    (, ,)
+    (ADVP (RB however))
+    (, ,)
+    (VP (VBD were)
+      (NP (DT a) (JJ sharp) (NN contrast)
+        (S
+          (VP (TO to)
+            (VP (VB shivajis)
+              (NP
+                (NP (JJ second) (NN wife))
+                (, ,)
+                (NP (NNS soyarabai))
+                (, ,)
+                (SBAR
+                  (WHNP (WP who))
+                  (S
+                    (VP (VBD was)
+                      (NP (DT an) (JJ intriguing) (NN lady)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB yet))
+    (NP (EX there))
+    (VP
+      (VP (VBZ is)
+        (NP
+          (NP
+            (NP (DT no) (NN record))
+            (PP (IN of)
+              (NP (DT any) (NN friction))))
+          (CC or)
+          (NP
+            (NP (JJ mutual) (NNS differences))
+            (PP (IN between)
+              (NP (NNS saibai))))))
+      (CC and)
+      (VP (VBZ shivajis)
+        (NP (JJ other) (NNS wives))))
+    (. .)))
+

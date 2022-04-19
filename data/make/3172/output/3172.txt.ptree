@@ -1,0 +1,48 @@
+(ROOT
+  (S
+    (PP (IN with)
+      (NP (NN caller) (NN id)))
+    (, ,)
+    (NP (DT the) (NN airline))
+    (VP (MD should)
+      (VP (VB know)
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (NP (PRP you))
+            (VP (VBP are)
+              (SBAR
+                (WHADVP (WRB when))
+                (S
+                  (NP (PRP you))
+                  (VP (VBP call)
+                    (PP (IN from)
+                      (NP (DT the) (NN tarmac)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (RB yet) (PDT many) (DT a) (NN passenger))
+    (VP (VBZ has)
+      (VP (VBN been)
+        (VP (VBN frustrated)
+          (PP (IN by)
+            (NP
+              (NP (DT the) (NN time) (NN consuming) (NN airline) (NN phone) (NN tree))
+              (VP
+                (VP (VBN encountered)
+                  (PP (IN in)
+                    (NP (DT that) (NN situation))))
+                (, ,)
+                (CC and)
+                (ADVP (RB only) (RB recently))
+                (VP (VB have)
+                  (S
+                    (NP (PRP we))
+                    (VP (VBN seen)
+                      (NP
+                        (NP (JJ real) (NN improvement))
+                        (PP (IN in)
+                          (NP (DT that) (NN experience)))))))))))))
+    (. .)))
+

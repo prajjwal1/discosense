@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (S
+      (NP (DT the) (JJ gory) (NNS parts))
+      (VP (VBP are)
+        (ADJP (JJ funny))))
+    (CC and)
+    (S
+      (NP (DT the) (JJ funny) (NNS parts))
+      (VP (VBP are) (RB not)))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (ADJP (JJ short)))
+    (NP (DT this))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (NN work))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (MD can) (RB not)
+              (VP (VB decide)
+                (SBAR
+                  (WHNP (WP what))
+                  (S
+                    (NP (PRP it))
+                    (VP (VBZ wants)
+                      (S
+                        (VP (TO to)
+                          (VP (VB be)
+                            (SBAR
+                              (WHADVP (WRB when))
+                              (S
+                                (NP (PRP it))
+                                (VP (VBZ grows)
+                                  (NP
+                                    (NP (NN upa) (NN shakespearean) (NN tragedy))
+                                    (, ,)
+                                    (NP (DT a) (NN comedy))
+                                    (CC or)
+                                    (NP (DT a) (NN rock) (NN show))))))))))))))))))
+    (. .)))
+

@@ -1,0 +1,48 @@
+(ROOT
+  (S
+    (SBAR (IN if)
+      (S
+        (NP (DT the) (NN moment))
+        (VP (VBZ is)
+          (ADJP (JJ large) (RB enough)))))
+    (, ,)
+    (NP (PRP it))
+    (VP (MD may)
+      (ADVP (RB even))
+      (VP (VB cause)
+        (S
+          (NP (DT the) (NNS pushers))
+          (VP (TO to)
+            (VP (VB engage)
+              (NP
+                (NP (DT the) (JJ staple) (NN housing))
+                (VP (VBG increasing)
+                  (NP
+                    (NP (DT the) (NN friction))
+                    (VP (VBN encountered)
+                      (PP (IN by)
+                        (NP
+                          (NP (DT the) (NN firing) (NN assembly))
+                          (PP (IN of)
+                            (NP (DT the) (NN device))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thus))
+    (NP (PRP it))
+    (VP (MD can)
+      (VP (VB be)
+        (VP (VBN seen)
+          (SBAR (IN that)
+            (S
+              (NP (DT the) (NN moment))
+              (VP (MD may)
+                (VP (VB increase)
+                  (NP
+                    (NP (DT the) (NN firing) (NN force))
+                    (VP (VBN encountered)
+                      (PP (IN by)
+                        (NP (DT a) (NN surgeon))))))))))))
+    (. .)))
+

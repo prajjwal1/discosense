@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (NP (DT the) (NN author))
+    (VP (MD could)
+      (VP (VB have)
+        (VP (VBD said)
+          (NP (NN everything))
+          (SBAR
+            (S
+              (NP (PRP he))
+              (VP (VBD needed)
+                (S
+                  (VP (TO to)
+                    (VP (VB say)
+                      (PP (IN in)
+                        (NP
+                          (QP (RB about) (CD 50))
+                          (NNS pages))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB instead))
+    (NP (DT the) (NN book))
+    (VP (VBZ is)
+      (ADJP (RB very) (JJ redundant)
+        (CC and)
+        (JJ preachy))
+      (, ,)
+      (ADVP (RB even))
+      (PP (IN in)
+        (NP (PRP$ its) (JJ brief) (CD 120) (NNS pages))))
+    (. .)))
+

@@ -1,0 +1,18 @@
+nsubj(written-3, i-1)
+aux(written-3, have-2)
+root(ROOT-0, written-3)
+prep_at(written-3, length-5)
+prep_about(length-5, it-7)
+
+advmod(continue-3, yet-1)
+nsubj(continue-3, you-2)
+xsubj(say-5, you-2)
+root(ROOT-0, continue-3)
+aux(say-5, to-4)
+xcomp(continue-3, say-5)
+amod(dont-7, i-6)
+nsubj(realize-8, dont-7)
+ccomp(say-5, realize-8)
+det(situation-10, the-9)
+dobj(realize-8, situation-10)
+

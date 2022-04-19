@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (ADVP (RB likewise))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ is) (RB not)
+      (NP (JJ conaways) (NN point)
+        (S
+          (VP (TO to)
+            (VP (VB recount)
+              (NP
+                (NP (DT the) (JJ minute) (JJ internal) (NNS workings))
+                (, ,)
+                (NP (NN labor) (NNS imbroglios))
+                (, ,)
+                (CC or)
+                (NP
+                  (NP (DT the) (JJ political) (NNS complexities))
+                  (PP (IN of)
+                    (NP (DT the) (NNS institutions) (NN position)))))
+              (PP (IN in)
+                (NP (DT the) (JJR larger) (NN library) (NN world))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB rather))
+    (NP (DT this) (NN book))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (JJ fitting) (NN paean))
+        (PP (TO to)
+          (NP (CD one)))
+        (PP (IN of)
+          (NP (DT the) (JJ worlds) (JJ great) (NNS libraries)))))
+    (. .)))
+

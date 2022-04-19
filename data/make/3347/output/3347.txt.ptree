@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP they))
+      (VP (VBP dont)
+        (ADVP (RB always))
+        (VP (VB work))))
+    (, ,)
+    (CC but)
+    (S
+      (ADVP (RB sometimes))
+      (NP (PRP they))
+      (VP (MD can)
+        (VP (VB have)
+          (NP
+            (ADJP (RB surprisingly) (JJ quick))
+            (NN mood) (NN elevating) (NNS effects)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB because) (IN of)
+      (NP (DT that) (JJ energizing) (NN effect)))
+    (, ,)
+    (ADVP (RB however))
+    (, ,)
+    (NP (PRP they))
+    (VP (MD may) (RB not)
+      (VP (VB be)
+        (NP
+          (NP (DT a) (JJ good) (NN idea))
+          (PP (IN for)
+            (NP
+              (NP (DT those))
+              (SBAR
+                (WHNP (WP who))
+                (S
+                  (VP (VBP are)
+                    (ADJP (JJ hypomanic)
+                      (CC or)
+                      (JJ manic))))))))))
+    (. .)))
+

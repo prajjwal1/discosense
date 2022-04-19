@@ -1,0 +1,64 @@
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB why))
+      (S
+        (NP (PRP we))
+        (VP (MD should)
+          (VP
+            (VP (VB be)
+              (ADJP (JJ afraid)
+                (PP (IN of)
+                  (NP (PRP it)))))
+            (CC or)
+            (VP (VB consider)
+              (S
+                (NP (PRP it))
+                (ADJP (JJ dangerous))
+                (SBAR (IN because)
+                  (S
+                    (NP (JJ objective) (NNS truths))
+                    (VP (VBP areimpersonalor)
+                      (VP (VB enslave)
+                        (NP (PRP us))
+                        (PP (IN by)
+                          (S
+                            (VP (VBG forcing)
+                              (S
+                                (NP (PRP us))
+                                (VP (TO to)
+                                  (VP (VB reach)
+                                    (NP (JJ certain) (JJ logical) (NNS conclusions))))))))))))))))))
+    (VP (VBZ is)
+      (PP (IN beyond)
+        (NP (PRP me))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (RB particularly) (IN if)
+      (S
+        (NP (PRP you))
+        (VP (VBP believe)
+          (SBAR (IN that)
+            (S
+              (NP (JJ objective) (NNS truths))
+              (VP (VBP are)
+                (ADVP (RB actually))
+                (NP
+                  (NP (NN part))
+                  (PP (IN of)
+                    (NP (NN christianity))))))))))
+    (, ,)
+    (S
+      (ADVP (RB then))
+      (VP (VBG finding)
+        (NP (PRP them))))
+    (VP (MD will)
+      (ADVP (RB always))
+      (VP (VB point)
+        (NP (PRP you))
+        (PP (IN in)
+          (NP (DT the) (JJ right) (NN direction)))))
+    (. .)))
+

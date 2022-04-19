@@ -1,0 +1,50 @@
+(ROOT
+  (S
+    (NP (DT the) (NNS nanoparticles))
+    (VP (VBD were)
+      (VP (VBN targeted)
+        (PP (IN by)
+          (S
+            (VP (VBG attaching)
+              (S
+                (NP (DT an) (NN antibody) (NN one))
+                (ADJP (JJ specific)
+                  (PP (TO to)
+                    (NP
+                      (NP (DT an) (NN antigen))
+                      (PP (IN on)
+                        (NP
+                          (NP (DT the) (NN surface))
+                          (PP (IN of)
+                            (NP (NN mouse) (JJ embryonic) (NN stem) (NNS cells))))))))
+                (S
+                  (VP (VBG being)
+                    (VP (VBN grown)
+                      (PP (IN in)
+                        (NP (NN culture))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN as)
+      (NP (DT a) (NN result)))
+    (NP (DT the) (NNS nanoparticles))
+    (VP (VBP target)
+      (CC and)
+      (VBP attach)
+      (NP
+        (NP (PRP themselves))
+        (PP (TO to)
+          (NP (DT the) (NN stem) (NNS cells))))
+      (, ,)
+      (S
+        (VP (VBG ensuring)
+          (NP
+            (NP (JJ direct) (NN delivery))
+            (PP (IN of)
+              (NP
+                (NP (DT the) (JJ bioactive) (NNS factors))
+                (VP (VBN packaged)
+                  (ADVP (RB inside)))))))))
+    (. .)))
+

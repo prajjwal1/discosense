@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (VBG reprogramming)
+        (CC or)
+        (VBG updating))
+      (PP (IN of)
+        (NP (DT these) (NNS programs))))
+    (VP (MD can)
+      (VP (VB be)
+        (ADJP (JJ costly))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP (NN instance)))
+    (NP
+      (NP (JJ third) (NN party) (NNS contractors))
+      (, ,)
+      (SBAR
+        (WHNP (WP who))
+        (S
+          (VP (MD may)
+            (ADVP (RB no) (RB longer))
+            (VP (VB be)
+              (ADJP (JJ available)
+                (PP (IN for)
+                  (S
+                    (VP (VBG updating)
+                      (NP (DT the) (NN software))))))))))
+      (, ,))
+    (VP (MD may)
+      (VP (VB have)
+        (VP (VBN created)
+          (NP
+            (NP (JJ many))
+            (PP (IN of)
+              (NP (DT the) (NNS programs)))))))
+    (. .)))
+

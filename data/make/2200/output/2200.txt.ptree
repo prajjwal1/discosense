@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (NP (NN tom))
+    (ADVP (RB kingsley))
+    (VP (VBZ is)
+      (NP
+        (NP (DT an) (NN astronomer))
+        (PP (IN at)
+          (NP
+            (NP (DT the) (JJ right) (NN place))
+            (CC and)
+            (NP (DT the) (JJ right) (NN time))))
+        (S
+          (VP (TO to)
+            (VP (VB get)
+              (NP
+                (NP (DT the) (JJ first) (NNS photographs))
+                (PP (IN of)
+                  (NP (DT the) (JJ alien) (NN spacecraft)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN as)
+      (NP (DT a) (NN result)))
+    (NP (PRP he))
+    (VP (VBZ becomes)
+      (NP
+        (NP (DT the) (VBG leading) (JJ scientific) (NN expert))
+        (PP (IN on)
+          (NP
+            (NP (DT the) (NNS aliens))
+            (CC and)
+            (NP (PRP$ their) (NN technology))))))
+    (. .)))
+

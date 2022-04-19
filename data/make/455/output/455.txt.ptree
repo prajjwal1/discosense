@@ -1,0 +1,41 @@
+(ROOT
+  (S (CC and)
+    (NP
+      (NP (DT this))
+      (PP (IN in)
+        (NP
+          (NP (DT a) (NN period))
+          (PP (IN of)
+            (NP
+              (NP (JJ economic) (NN crisis))
+              (, ,)
+              (NP
+                (NP (DT the) (JJS worst))
+                (PP (IN since)
+                  (NP
+                    (NP (DT the) (NN depression))
+                    (, ,)
+                    (SBAR
+                      (WHADVP (WRB when))
+                      (S
+                        (NP (PRP you))
+                        (VP (MD would)
+                          (VP (VB think)
+                            (NP (DT the) (NN left))))))))))))))
+    (VP (MD would)
+      (VP (VB be)
+        (VP (VBN invigorated))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB instead))
+    (NP (PRP$ its)
+      (NX
+        (NP (DT a) (NN beginning))
+        (PP (IN of)
+          (NP (DT a) (NN non)))))
+    (VP (VBP stop)
+      (NP (NN meltdown)))
+    (. .)))
+

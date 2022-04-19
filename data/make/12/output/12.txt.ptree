@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (PP
+      (ADVP (RB here))
+      (IN in)
+      (NP (DT the) (NN north) (NNS texas) (NN area)))
+    (, ,)
+    (NP (PRP we))
+    (ADVP (RB normally))
+    (VP (VBP need) (RB not)
+      (VP (VB worry)
+        (PP (IN about)
+          (NP (JJ extreme) (, ,) (JJ long) (NNS winters)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nonetheless))
+    (NP (PRP we))
+    (VP
+      (VP (VBP do)
+        (VP (VB get)
+          (NP
+            (NP (PRP$ our) (NN share))
+            (PP (IN of)
+              (NP (VBG killing) (NNS frosts))))))
+      (CC and)
+      (VP (VBZ freezes)
+        (PP (IN in)
+          (NP (JJ late) (NN fall)
+            (CC or)
+            (NN winter)))))
+    (. .)))
+

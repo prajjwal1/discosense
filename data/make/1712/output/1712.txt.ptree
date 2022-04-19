@@ -1,0 +1,64 @@
+(ROOT
+  (S
+    (ADVP (RB as)
+      (PP (IN with)
+        (NP
+          (NP (DT all) (JJ large) (, ,) (JJ long) (NN term) (NNS projects))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBP employ)
+                (NP
+                  (NP (JJ first))
+                  (PP (IN of)
+                    (NP (DT a) (NN kind) (NNS technologies))))))))))
+    (, ,)
+    (NP (PRP we))
+    (VP (VBP continue)
+      (S
+        (VP (TO to)
+          (VP (VB be)
+            (VP (VBN challenged)
+              (S
+                (VP (TO to)
+                  (VP
+                    (VP (VB control)
+                      (NP (NNS costs)))
+                    (CC and)
+                    (VP (VB maintain)
+                      (NP (NN schedule)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB however))
+    (NP (PRP it))
+    (VP (VBZ is)
+      (ADJP (RBS most) (JJ important)
+        (S
+          (VP
+            (VP (TO to)
+              (VP (VB work)
+                (ADVP (RB safely))))
+            (CC and)
+            (VP (TO to)
+              (VP (VB provide)
+                (NP
+                  (NP (NNS facilities))
+                  (SBAR
+                    (WHNP (WDT that))
+                    (S
+                      (VP (MD will)
+                        (VP (VB do)
+                          (NP
+                            (NP (DT the) (NN job))
+                            (SBAR
+                              (S
+                                (NP (PRP they))
+                                (VP (VBP are)
+                                  (VP (VBN intended)
+                                    (S
+                                      (VP (TO to)
+                                        (VP (VB do))))))))))))))))))))
+    (. .)))
+

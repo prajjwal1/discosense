@@ -1,0 +1,63 @@
+(ROOT
+  (S
+    (NP (PRP we))
+    (VP (VBP note)
+      (SBAR (IN that)
+        (S
+          (NP (PRP we))
+          (VP
+            (VP (VBD used)
+              (NP
+                (NP (DT a) (JJ similar) (NN barium) (NN precipitation) (NN method))
+                (PP (IN for)
+                  (NP (JJ sulfate) (NN measurement)))))
+            (CC and)
+            (VP
+              (ADVP (RB therefore))
+              (MD can) (RB not)
+              (VP (VB account)
+                (PP (IN for)
+                  (NP
+                    (NP (DT the)
+                      (ADJP (RB peculiarly) (JJ low))
+                      (JJ sulfate) (NNS values))
+                    (VP (VBN reported)
+                      (PP (IN in)
+                        (NP (DT that) (NN paper))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN contrast)))
+    (NP (PRP we))
+    (VP
+      (VP (VBD noted)
+        (NP
+          (NP
+            (QP (JJR less) (IN than) (CD 1))
+            (JJ mmol) (NNS d))
+          (PP (IN of)
+            (NP (NN thiosulfate))))
+        (PP (IN in)
+          (NP
+            (NP (DT the) (NN urine))
+            (PP (IN of)
+              (NP (PRP$ our) (NN study) (NNS participants))))))
+      (, ,)
+      (CC and)
+      (VP (VBD found)
+        (SBAR (IN that)
+          (S
+            (NP (JJ excreted) (NN sulfate))
+            (VP (VBD was)
+              (ADJP (RB approximately) (JJ equimolar)
+                (PP (IN with)
+                  (NP
+                    (NP (DT the) (NN amount))
+                    (PP (IN of)
+                      (NP
+                        (NP (NN thiosulfate))
+                        (VP (VBN administered))))))))))))
+    (. .)))
+

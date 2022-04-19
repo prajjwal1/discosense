@@ -1,0 +1,65 @@
+(ROOT
+  (S
+    (NP (DT this) (NN program))
+    (VP (VBZ is)
+      (ADJP (JJ unique)
+        (PP (IN in)
+          (NP
+            (NP (PRP$ its) (NN emphasis))
+            (PP (IN on)
+              (NP
+                (NP (DT the) (NN role))
+                (PP (IN of)
+                  (NP
+                    (NP (NN peer) (NN group) (NNS norms))
+                    (, ,)
+                    (NP (NNS attitudes))
+                    (, ,)
+                    (CC and)
+                    (NP
+                      (NP (NN behavior))
+                      (PP (IN in)
+                        (NP
+                          (NP (DT the) (NN initiation)
+                            (CC and)
+                            (NN maintenance))
+                          (PP (IN of)
+                            (NP (JJ bullying)
+                              (CC and)
+                              (JJ other) (NNS forms)))))
+                      (PP (IN of)
+                        (NP (NN violence))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB because) (IN of)
+      (NP (DT this)))
+    (NP (DT this) (NN investigation))
+    (VP (MD will)
+      (VP (VB involve)
+        (NP
+          (NP (DT a) (JJ direct) (NN test))
+          (PP (IN via)
+            (NP
+              (NP (JJ social) (NN network) (NN analysis))
+              (SBAR
+                (WHNP (DT the) (NN extent)
+                  (WHPP (TO to)
+                    (WHNP (WDT which))))
+                (S
+                  (VP (VBP peer)
+                    (SBAR
+                      (S
+                        (NP
+                          (NP (NNS norms)
+                            (CC or)
+                            (NNS shifts))
+                          (PP (IN in)
+                            (NP (NN peer) (NNS attitudes))))
+                        (VP (VBP are)
+                          (VP (VBN impacted)
+                            (PP (IN by)
+                              (NP (DT the) (NN intervention)))))))))))))))
+    (. .)))
+

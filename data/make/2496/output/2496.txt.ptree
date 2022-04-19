@@ -1,0 +1,47 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (DT this) (NN construction)))
+    (, ,)
+    (SBAR
+      (WHADVP (WRB when))
+      (S
+        (S
+          (VP (VBG rotating)
+            (NP (DT the) (NN brush) (NN roller) (CD 21))
+            (PP (IN by)
+              (NP (DT the) (NN brush) (NN roller)))))
+        (VP (VBP drive)
+          (NP (NN motor) (CD 200)))))
+    (, ,)
+    (NP (DT the) (JJ flicker) (CD 48))
+    (VP (VBZ is)
+      (VP (VBN driven)
+        (S
+          (VP (TO to)
+            (VP (VB rotate)
+              (PP (IN via)
+                (NP (DT the)
+                  (ADJP (JJ gears)
+                    (NP (CD 51)
+                      (CC and)
+                      (CD 50))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thereby))
+    (NP
+      (NP
+        (NP (DT the) (NN flicker))
+        (NP (CD 48)))
+      (CC and)
+      (NP
+        (NP (DT the) (NN brush) (NN roller))
+        (NP (CD 21))))
+    (VP (VBP are)
+      (VP (VBG rotated)
+        (PP (IN at)
+          (NP (JJ different) (JJ circumferential) (NNS velocities)))))
+    (. .)))
+

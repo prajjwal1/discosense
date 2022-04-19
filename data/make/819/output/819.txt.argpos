@@ -1,0 +1,2 @@
+conn:but conn_POS:CC sent_pos:0 NA
+conn:as conn_POS:IN prev1:, prev1_POS:, with_prev1_full:,_as with_prev1_POS_full:,_IN prev2:point prev2_POS:NN with_prev2_full:point_as with_prev2_POS_full:NN_IN NA

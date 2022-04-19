@@ -1,0 +1,49 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (PRP$ our) (NN opinion)))
+    (, ,)
+    (S
+      (PP (IN in)
+        (NP
+          (NP (NN accordance))
+          (PP (IN with)
+            (NP (DT the) (VBN published) (NNS criteria)))))
+      (, ,)
+      (NP (PRP it))
+      (VP (VBZ is)
+        (ADJP (JJ prudent)
+          (S
+            (VP (TO to)
+              (VP (VB realize)
+                (SBAR (IN that)
+                  (S
+                    (NP (EX there))
+                    (VP (VBP are)
+                      (NP
+                        (NP (NNS similarities))
+                        (PP (IN between)
+                          (NP
+                            (NP (JJ certain) (NNS types))
+                            (PP (IN of)
+                              (NP (NN hgpin)
+                                (CC and)
+                                (NN idc) (NN p.)))
+                            (ADVP (RB particularly)
+                              (NP (DT the) (NN trabecular))))))
+                      (ADVP (RB micropapillary)))))))))))
+    (CC and)
+    (S
+      (NP
+        (NP (JJ loose) (NN cribriform) (NNS patterns))
+        (PP (IN of)
+          (NP (NN idc) (NN p))))
+      (VP (MD can)
+        (VP (VB overlap)
+          (PP (IN with)
+            (NP
+              (NP (NNS subtypes))
+              (PP (IN of)
+                (NP (NN hgpin))))))))
+    (. .)))
+

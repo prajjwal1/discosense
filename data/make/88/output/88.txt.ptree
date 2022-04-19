@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (NP (CD four) (JJ constant) (NNS regions))
+    (VP (VBZ is) (RB not)
+      (VP (VBN meant)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (VP (VBG limiting)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP
+        (NP (NN example))
+        (PP (IN in)
+          (NP (CD one) (NN embodiment)))))
+    (NP (DT the) (NN convolution) (NN filter))
+    (VP (MD may)
+      (VP (VB have)
+        (NP
+          (NP (DT a) (JJ large) (NN number))
+          (PP (IN of)
+            (NP
+              (NP (NNS regions))
+              (NP (DT each)))))
+        (PP (IN with)
+          (NP (DT an) (JJ assigned) (NN filter) (NN value)))))
+    (. .)))
+

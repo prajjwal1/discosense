@@ -1,0 +1,2 @@
+conn:although conn_POS:IN prev1:that prev1_POS:IN with_prev1_full:that_although with_prev1_POS_full:IN_IN prev2:mind prev2_POS:NN with_prev2_full:mind_although with_prev2_POS_full:NN_IN NA
+conn:thus conn_POS:RB sent_pos:0 NA

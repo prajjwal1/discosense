@@ -1,0 +1,53 @@
+(ROOT
+  (S
+    (S
+      (NP (NN tiger) (NN hunting))
+      (VP (VBZ is)
+        (ADJP (RB now) (JJ illegal))
+        (ADVP (RB everywhere))))
+    (, ,)
+    (CC and)
+    (S
+      (NP
+        (NP (JJ international) (NN trade))
+        (PP (IN in)
+          (NP (NNS tigers)
+            (CC and)
+            (NN tiger) (NNS products))))
+      (VP (VBZ is)
+        (ADVP (RB completely))
+        (VP (VBN banned)
+          (PP (IN under)
+            (NP (NNP cites))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB nevertheless))
+      (NP (NN habitat) (NN destruction))
+      (VP (VBZ continues)
+        (PP (IN at)
+          (NP (DT a) (JJ rapid) (NN pace)))))
+    (, ,)
+    (S
+      (NP (JJ live) (NNS tigers))
+      (VP (VBP enter)
+        (NP (DT the) (JJ illegal) (JJ exotic) (JJ pet) (NN trade))))
+    (, ,)
+    (S
+      (NP (NN tiger) (NNS skins))
+      (VP (VBP are)
+        (VP (VBN bought)
+          (CC and)
+          (VBN sold))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (NN tiger) (NNS parts))
+      (VP (VBP are)
+        (VP (VBN sought)
+          (PP (IN for)
+            (NP (VBN presumed) (NN health) (NNS benefits))))))
+    (. .)))
+

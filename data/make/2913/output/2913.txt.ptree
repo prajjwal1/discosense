@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP it))
+      (VP (VBZ is)
+        (VP (VBN noted)
+          (SBAR (IN that)
+            (S
+              (NP (DT the) (NN measuring) (NN mode))
+              (VP (VBZ is) (RB not)
+                (ADJP (VBN limited) (RB only)
+                  (PP (TO to)
+                    (NP
+                      (NP (DT the) (NN center))
+                      (VP (VBN weighted)
+                        (S
+                          (VP (VBG measuring)
+                            (NP (NN mode))))))))))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (DT the))
+      (VP (VBD averaged)
+        (S
+          (VP (VBG measuring)
+            (NP (NN mode))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thereby))
+    (NP
+      (NP (DT a) (JJR larger) (NN number))
+      (PP (IN of)
+        (NP (JJ other) (NN measuring) (NNS modes))))
+    (VP (MD may)
+      (VP (VB be)
+        (VP (VBN used))))
+    (. .)))
+

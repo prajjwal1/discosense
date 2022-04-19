@@ -1,0 +1,4 @@
+conn:thereafter conn_POS:RB sent_pos:0 NA
+conn:and conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_and with_prev1_POS_full:,_CC prev2:formed prev2_POS:VBN with_prev2_full:formed_and with_prev2_POS_full:VBN_CC NA
+conn:then conn_POS:RB sent_pos:-3 prev1:is prev1_POS:VBZ with_prev1_full:is_then with_prev1_POS_full:VBZ_RB prev2:film prev2_POS:NN with_prev2_full:film_then with_prev2_POS_full:NN_RB NA
+conn:thereby conn_POS:RB sent_pos:0 NA

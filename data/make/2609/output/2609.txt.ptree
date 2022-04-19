@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (JJS best) (NN time))
+      (PP (IN for)
+        (NP (NN sunshine))))
+    (VP (VBZ is)
+      (ADVP (RB usually))
+      (PP (IN during)
+        (NP (DT the) (NN morning)))
+      (PP (IN on)
+        (S
+          (ADVP (RB east))
+          (VP (VBG facing)
+            (NP (NNS coasts))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ conversely) (NN west))
+      (VP (VBG facing)
+        (NP (NNS coasts))))
+    (VP (VBP are)
+      (ADJP (RB sometimes) (JJ sunnier)
+        (PP (IN in)
+          (NP
+            (NP (DT the) (JJ late) (NN afternoon))
+            (CC and)
+            (NP (NN evening))))))
+    (. .)))
+

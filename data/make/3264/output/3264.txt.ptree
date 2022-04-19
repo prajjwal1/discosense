@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (NP (FW i))
+    (VP (VBD expected)
+      (NP (JJ full) (NN scale) (NN rebellion))
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (DT the) (NNS girls))
+          (VP (VBD ate)
+            (NP
+              (NP (PRP$ their) (NN meal))
+              (PP (IN of)
+                (NP
+                  (NP (NNS beans))
+                  (, ,)
+                  (NP (NN kale))
+                  (, ,)
+                  (CC and)
+                  (NP (NN corn)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB instead))
+    (NP (PRP they))
+    (VP
+      (VP (VBD fought)
+        (PRT (RP over))
+        (NP (DT the) (NN kale)))
+      (CC and)
+      (VP (VBN begged)
+        (PP (IN for)
+          (NP (JJR more)))))
+    (. .)))
+

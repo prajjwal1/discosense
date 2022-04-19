@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (PP (RB even) (IN without)
+      (NP (DT that) (JJ extra)))
+    (, ,)
+    (NP (DT this))
+    (VP (MD would)
+      (VP (VB be)
+        (NP
+          (NP (DT a) (NN killer) (NN deal))
+          (PP (IN on)
+            (NP
+              (NP (DT a) (JJ fast) (, ,) (JJ high) (NN capacity))
+              (, ,)
+              (NP
+                (NP (NN travel) (NN bag))
+                (NP (JJ friendly) (JJ hard) (NN drive))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB consequently))
+    (NP (FW i))
+    (VP (VBP expect)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (MD will)
+            (VP (VB sell)
+              (PRT (RP out))
+              (ADVP (RB rather) (RB quickly)))))))
+    (. .)))
+

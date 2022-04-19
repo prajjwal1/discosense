@@ -1,0 +1,64 @@
+(ROOT
+  (S
+    (NP (PRP they))
+    (VP (VBD were)
+      (S
+        (VP (TO to)
+          (VP (VB bring)
+            (NP
+              (NP (DT these)
+                (ADJP (RB tightly) (JJ wrapped))
+                (NNS packages))
+              (, ,)
+              (NP
+                (NP (NN wound))
+                (PP (IN in)
+                  (NP (JJ elastic) (NN tape))))
+              (, ,))
+            (PP (TO to)
+              (NP (DT the) (JJ parque) (NN central)))
+            (, ,)
+            (SBAR
+              (WHADVP (WRB where))
+              (S
+                (NP (PRP they))
+                (VP (VBD had)
+                  (VP (VBN been)
+                    (VP (VBN instructed)
+                      (S
+                        (VP (TO to)
+                          (VP (VB wait)
+                            (PP (IN for)
+                              (NP
+                                (NP (NN theowner))
+                                (PP (IN of)
+                                  (NP (DT the) (NN merchandise)))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN sum)
+        (S
+          (VP (TO to)
+            (VP (VB ward)
+              (PRT (RP off))
+              (NP (DT the) (VBG coming) (NN hunger)))))))
+    (, ,)
+    (NP (NN florencia)
+      (CC and)
+      (NN elida))
+    (VP (VBD recieved)
+      (NP
+        (QP (RB about) (CD 25))
+        (NNS bucks))
+      (ADVP (RB apiece))
+      (S
+        (VP (TO to)
+          (VP (VB carry)
+            (NP
+              (NP (CD 32,000))
+              (PP (JJ worth) (IN of)
+                (NP (NN cocaine))))))))
+    (. .)))
+

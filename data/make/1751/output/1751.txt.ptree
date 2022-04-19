@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (NP (NN ohlendorf))
+    (VP (VBD ended)
+      (NP (DT the) (CD 2010) (NN season))
+      (PP (IN with)
+        (NP
+          (NP (CD two) (NNS years))
+          (CC and)
+          (NP
+            (NP (CD 139) (NNS days))
+            (PP (IN of)
+              (NP (NN service) (NN time)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN as)
+      (NP (DT a) (NN result)))
+    (NP (PRP he))
+    (VP (MD will)
+      (ADVP (RB now))
+      (VP (VB be)
+        (UCP
+          (ADJP (RB arbitration) (JJ eligible)
+            (PP (IN for)
+              (NP
+                (NP (DT a) (NN total))
+                (PP (IN of)
+                  (NP (CD four) (NNS years))))))
+          (, ,)
+          (CONJP (RB instead) (IN of))
+          (NP (DT the) (JJ normal) (CD three)))))
+    (. .)))
+

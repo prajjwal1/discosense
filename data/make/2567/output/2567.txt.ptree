@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (PP (IN for)
+      (NP (CD 1) (JJ d) (NNS systems)))
+    (, ,)
+    (NP (NN rosenbrock))
+    (VP (VBD introduced)
+      (NP
+        (NP (DT the)
+          (ADJP (RB well) (VBN known))
+          (NN definition))
+        (PP (IN of)
+          (NP (JJ strict) (NN system) (NNS equivalence)))
+        (, ,)
+        (VP (VBG using)
+          (NP (DT a) (JJ polynomial) (NN matrix) (NN description) (NN setting)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB subsequently))
+    (NP (JJ rosenbrocks) (JJ strict) (NN system) (NNS equivalence))
+    (VP (VBD was)
+      (VP (VBN generalized)
+        (PP (IN by)
+          (NP (NN fuhrmann)))
+        (PP (IN for)
+          (NP
+            (NP (NNS pmds))
+            (VP
+              (ADVP (RB not) (RB necessarily))
+              (VBG having)
+              (NP (DT the) (JJ same) (NN size)))))))
+    (. .)))
+

@@ -1,0 +1,4 @@
+conn:however conn_POS:RB sent_pos:0 NA
+conn:although conn_POS:IN prev1:, prev1_POS:, with_prev1_full:,_although with_prev1_POS_full:,_IN prev2:case prev2_POS:NN with_prev2_full:case_although with_prev2_POS_full:NN_IN NA
+conn:still conn_POS:RB prev1:may prev1_POS:MD with_prev1_full:may_still with_prev1_POS_full:MD_RB prev2:there prev2_POS:EX with_prev2_full:there_still with_prev2_POS_full:EX_RB NA
+conn:for_instance conn_POS:IN_NN sent_pos:0 NA

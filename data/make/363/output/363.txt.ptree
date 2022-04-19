@@ -1,0 +1,45 @@
+(ROOT
+  (S
+    (NP (DT some))
+    (VP (MD will)
+      (VP (VB find)
+        (S
+          (NP (PRP it))
+          (NP
+            (NP (DT an) (NN act))
+            (PP (IN of)
+              (NP (JJ profound) (NN chutzpah)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN on)
+      (NP (DT the) (JJ other) (NN hand)))
+    (NP (NN youd))
+    (VP (VBP have)
+      (S
+        (VP (TO to)
+          (VP (VB be)
+            (NP (DT a) (NN curmudgeon))
+            (S (RB not)
+              (VP (TO to)
+                (VP (VB like)
+                  (NP
+                    (NP (DT a) (NN book))
+                    (SBAR
+                      (WHNP (WDT that))
+                      (S
+                        (VP (VBZ mixes)
+                          (NP
+                            (NP (NNS recipes))
+                            (PP (IN for)
+                              (NP (NN hamantashen))))
+                          (PP (IN with)
+                            (NP
+                              (NP (NNS tips))
+                              (PP (IN for)
+                                (S
+                                  (VP (VBG decorating)
+                                    (NP (PRP$ your) (NN backyard) (NN sukkah))))))))))))))))))
+    (. .)))
+

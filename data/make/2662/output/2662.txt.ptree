@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (PP (IN after)
+      (NP
+        (NP (DT each))
+        (PP (IN of)
+          (NP (DT the) (JJ major) (NNS accidents)))))
+    (, ,)
+    (NP (NNS brans))
+    (VP (VBD was)
+      (VP (VBN disciplined)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thus))
+    (NP
+      (NP (DT the) (NN october))
+      (, ,)
+      (NP
+        (NP (CD 1975))
+        (, ,)
+        (NP (NN accident))))
+    (VP (VBD was)
+      (VP (VBN followed)
+        (PP (IN by)
+          (NP (DT an) (JJ oral) (NN reprimand)))
+        (SBAR (IN while)
+          (S
+            (NP
+              (NP (DT the) (NN january))
+              (, ,)
+              (NP
+                (NP (CD 1976))
+                (, ,)
+                (NP (NN incident))))
+            (VP (VBD resulted)
+              (PP (IN in)
+                (NP (DT a) (JJ written) (JJ disciplinary) (NN warning))))))))
+    (. .)))
+

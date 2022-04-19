@@ -1,0 +1,1 @@
+lcd subscribes to weekly fund flow data from lipper, but cannot see inside the aggregate observation. nonetheless its worthy of a dive into the open ended fund, which trades under the symbol tfvcx.

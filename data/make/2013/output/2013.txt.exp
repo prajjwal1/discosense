@@ -1,0 +1,3 @@
+conn_lc:accordingly conn:accordingly conn_POS:RB xxx£
+conn_lc:so_that conn:so_that conn_POS:RB_IN with_prev_full:,_so_that xxx£
+conn_lc:thereafter conn:thereafter conn_POS:RB xxx£

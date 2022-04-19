@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (NP
+      (NP (NN market) (NNS participants))
+      (, ,)
+      (PP (IN on)
+        (NP (DT the) (JJ other) (NN hand)))
+      (, ,))
+    (VP (MD may)
+      (VP
+        (VP (VB think)
+          (SBAR (IN that)
+            (S
+              (NP (DT the) (NN probability))
+              (VP (VBZ is)
+                (ADVP (RB actually))
+                (ADJP (RB much) (JJR higher))
+                (SBAR (IN because)
+                  (S
+                    (NP (NNS prices))
+                    (VP (VBP do)
+                      (NP (NN jump)))))))))
+        (CC and)
+        (VP (VB change)
+          (ADVP (RB rapidly))
+          (PP (IN within)
+            (NP (JJ small) (NN time) (NNS frames))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (RB hence) (DT the) (JJ pronounced) (NN shape))
+      (PP (IN of)
+        (NP (DT the) (JJ implied) (NN volatility))))
+    (VP (VBP smile)
+      (PP (IN at)
+        (NP (JJ short) (NNS maturities))))
+    (. .)))
+

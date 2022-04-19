@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (NP (NN application) (NN processor) (NNS 504))
+    (VP (VBZ provides)
+      (NP
+        (NP (DT the) (VBG processing) (NN power))
+        (PP (IN for)
+          (NP
+            (NP (JJ other) (NNS functions))
+            (PP (IN within)
+              (NP (NN camera) (NN phone) (CD 500)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP (NN example) (NNS calculators)))
+    (, ,)
+    (NP
+      (NP (NNS calendars))
+      (, ,)
+      (NP (NNS alarms))
+      (, ,)
+      (NP (NN camera) (NNS functions))
+      (, ,)
+      (CC and)
+      (NP (NNS directories)))
+    (VP (VBP are)
+      (VP (VBN provided)
+        (PP (IN through)
+          (NP (NN application) (NN processor) (CD 504)))))
+    (. .)))
+

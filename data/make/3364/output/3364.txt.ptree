@@ -1,0 +1,23 @@
+(ROOT
+  (S
+    (NP (DT this) (JJ bullish) (NN breakout))
+    (VP (VBD was) (RB not)
+      (VP (VBN accompanied)
+        (PP (IN by)
+          (NP (JJR heavier) (NN volume)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nevertheless))
+    (NP (PRP it))
+    (VP (VBD did) (RB not)
+      (VP (VB fall)
+        (PRT (RP back))
+        (PP (IN below)
+          (NP
+            (NP (DT the) (JJ breakout) (NN level))
+            (PP (IN over)
+              (NP (DT the) (JJ past) (JJ few) (NNS days)))))))
+    (. .)))
+

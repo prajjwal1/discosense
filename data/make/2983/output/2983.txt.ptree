@@ -1,0 +1,51 @@
+(ROOT
+  (S
+    (SBAR (IN as)
+      (S
+        (NP (NN odwyer))
+        (VP (VBD came)
+          (ADVP (RB back))
+          (PP (IN after)
+            (S
+              (VP (VBG delivering)
+                (NP
+                  (NP (DT the) (NN envelope))
+                  (PP (IN inside)
+                    (NP (DT the) (NN door))))))))))
+    (, ,)
+    (NP (NN finkelstein))
+    (VP
+      (VP (VBD came)
+        (PRT (RP up))
+        (PP (IN on)
+          (NP (DT the) (NN porch))))
+      (CC and)
+      (VP (VBN engaged)
+        (PP (IN in)
+          (NP
+            (NP (DT some) (NN conversation))
+            (PP (IN with)
+              (NP (NN odwyer)))
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (NP (NN crane))
+                (VP (VBD did) (RB not)
+                  (VP (VB overhear)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thereafter))
+    (NP (NN crane) (, ,) (NNS wilders)
+      (CC and)
+      (NNS finkelstein))
+    (VP
+      (VP (VBD got)
+        (PP (IN in)
+          (NP (JJ wilders) (NN car))))
+      (CC and)
+      (VP (VBD returned)
+        (NP (NN downtown))))
+    (. .)))
+

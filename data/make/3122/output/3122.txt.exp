@@ -1,0 +1,4 @@
+conn_lc:also conn:also conn_POS:RB with_prev_full:argument_also xxx£
+conn_lc:therefore conn:therefore conn_POS:RB with_prev_full:complex_therefore xxx£
+conn_lc:nor conn:nor conn_POS:CC with_prev_full:,_nor xxx£
+conn_lc:thus conn:thus conn_POS:RB xxx£

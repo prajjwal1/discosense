@@ -1,0 +1,47 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (JJS greatest) (NN virtue))
+      (PP (IN of)
+        (NP (DT this) (NN branch))))
+    (VP (VBZ is)
+      (NP (PRP$ their) (NN ability)
+        (S
+          (VP (TO to)
+            (VP (VB explain)
+              (NP
+                (NP (DT the) (NNS decisions))
+                (PP (IN of)
+                  (NP (DT the) (VBG coding) (NN authority)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP (NN example)))
+    (NP (DT a) (NN bug)
+      (CC or)
+      (NN design) (NN imbalance))
+    (VP (VBZ is)
+      (ADVP (RB up)
+        (PP (TO to)
+          (NP (DT the) (JJ coding) (NN authority))))
+      (S
+        (VP (TO to)
+          (VP (VB fix))))
+      (, ,)
+      (PP (IN in)
+        (NP
+          (NP (PRP$ our) (NN model))
+          (SBAR
+            (S
+              (NP (DT the) (JJ judicial) (NN system))
+              (VP (MD would) (RB not)
+                (VP (VB have)
+                  (NP (DT the) (NN authority)
+                    (S
+                      (VP (TO to)
+                        (VP (VB change)
+                          (NP (PRP it)))))))))))))
+    (. .)))
+

@@ -1,0 +1,2 @@
+conn:as conn_POS:IN prev1:fragments prev1_POS:VBZ with_prev1_full:fragments_as with_prev1_POS_full:VBZ_IN prev2:peptide prev2_POS:NN with_prev2_full:peptide_as with_prev2_POS_full:NN_IN NA
+conn:also conn_POS:RB sent_pos:-3 prev1:were prev1_POS:VBD with_prev1_full:were_also with_prev1_POS_full:VBD_RB prev2:pcs prev2_POS:NN with_prev2_full:pcs_also with_prev2_POS_full:NN_RB NA

@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (NP (JJ multiple) (NN light) (NNS sources))
+    (VP (MD can)
+      (VP
+        (VP (VB wash)
+          (PRT (RP out))
+          (NP
+            (NP (DT any) (NNS wrinkles))
+            (PP (IN in)
+              (NP
+                (NP (DT a) (NNS persons) (NN face))
+                (, ,)
+                (PP (IN for)
+                  (NP (NN instance)))
+                (, ,)))))
+        (CC and)
+        (VP (VB give)
+          (NP (DT a) (JJR more) (JJ youthful) (NN appearance)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN contrast)))
+    (NP
+      (NP (DT a) (JJ single) (JJ light) (NN source))
+      (, ,)
+      (PP (JJ such) (IN as)
+        (NP (JJ harsh) (NN daylight)))
+      (, ,))
+    (VP (MD can)
+      (VP (VB serve)
+        (S
+          (VP (TO to)
+            (VP (VB highlight)
+              (NP
+                (NP (DT any) (NN texture))
+                (CC or)
+                (NP (JJ interesting) (NNS features))))))))
+    (. .)))
+

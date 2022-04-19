@@ -1,0 +1,1 @@
+a peer may have at least one personal certificate. thus the key ring may be non empty.

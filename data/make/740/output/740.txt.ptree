@@ -1,0 +1,58 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN addition)))
+    (, ,)
+    (NP
+      (NP (JJ adverse) (NNS movements))
+      (PP (IN in)
+        (NP (NNS fundamentals)
+          (CC and)
+          (NN investor) (NN sentiment))))
+    (VP (VBD contributed)
+      (PP (TO to)
+        (NP
+          (NP (DT a) (NN decline))
+          (PP (IN in)
+            (NP
+              (NP (NN stock) (NN market) (NNS indices))
+              (, ,)
+              (NP (JJR wider) (JJ sovereign) (NNS spreads))
+              (, ,)
+              (NP (NN credit) (NN rating) (NNS downgrades))
+              (, ,)
+              (CC and)
+              (NP (NN capital) (NNS outflows))))))
+      (PP (IN from)
+        (NP (DT some) (NNS countries))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN as)
+      (NP
+        (NP (DT a) (NN result) (NN growth))
+        (PP (IN for)
+          (NP (DT the) (NNS regions)))))
+    (NP
+      (NP (NN oil) (NNS importers))
+      (, ,)
+      (PP (VBG excluding)
+        (NP (NN syria)))
+      (, ,))
+    (VP (VBD fell)
+      (PP (IN by)
+        (NP
+          (QP (RB nearly) (PDT half))))
+      (PP (IN from)
+        (NP
+          (NP (CD 4.3) (NN percent))
+          (PP (IN in)
+            (NP (CD 2010)))))
+      (PP (TO to)
+        (NP
+          (NP (CD 2.2) (NN percent))
+          (PP (IN in)
+            (NP (CD 2011))))))
+    (. .)))
+

@@ -1,0 +1,57 @@
+(ROOT
+  (S
+    (ADVP (RB nevertheless))
+    (, ,)
+    (S
+      (NP (DT a) (JJ few) (NNS chemokines))
+      (VP (VBD were)
+        (VP (VBN released)
+          (PP (IN by)
+            (NP
+              (NP (NN hepa) (NN tocyte))
+              (PP (VBG following)
+                (NP (NN tnf) (NN stimulation))))))))
+    (CC but)
+    (S
+      (NP
+        (NP (PRP$ its) (NN relevance))
+        (PP (TO to)
+          (NP (NN hmgb) (CD 1) (NN release))))
+      (VP (VBZ is)
+        (NP
+          (NP (DT a) (NN subject))
+          (PP (IN of)
+            (PP (IN on)
+              (S
+                (VP (VBG going)
+                  (NP (NN investigation)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ interestingly) (JJ hmgb) (CD 1) (JJ cytoplasmic) (NNS translocation))
+    (VP (VBZ is)
+      (ADVP (RB clearly))
+      (VP (VBN observed)
+        (PP (IN in)
+          (NP
+            (NP (JJ regenerated) (NN hepato) (NNS cytes))
+            (PP (IN of)
+              (NP (NNS patients)))))
+        (PP (IN with)
+          (NP
+            (NP (NN alf))
+            (VP (VBN caused)
+              (PP
+                (PP (IN by)
+                  (NP (NN hbv) (NN infection)))
+                (, ,)
+                (CC but)
+                (RB not)
+                (PP (IN in)
+                  (NP
+                    (NP (NNS patients))
+                    (PP (IN with)
+                      (NP (JJ chronic) (NN hbv) (NN infection)))))))))))
+    (. .)))
+

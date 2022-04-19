@@ -1,0 +1,2 @@
+conn:if conn_POS:IN prev1:complete prev1_POS:JJ with_prev1_full:complete_if with_prev1_POS_full:JJ_IN prev2:be prev2_POS:VB with_prev2_full:be_if with_prev2_POS_full:VB_IN NA
+conn:conversely conn_POS:RB sent_pos:0 NA

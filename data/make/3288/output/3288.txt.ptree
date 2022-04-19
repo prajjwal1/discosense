@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (NP
+      (NP (NN research))
+      (PP (IN into)
+        (NP (NN language) (NN learning) (NNS strategies))))
+    (VP (VBD began)
+      (PP (IN in)
+        (NP (DT the) (NNS 1960s))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (RB particularly) (NN development))
+      (PP (IN in)
+        (NP (JJ cognitive) (NN psychology))))
+    (VP (VBD influenced)
+      (NP
+        (NP (RB much))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (NN research))
+            (VP (VBN done)
+              (PP (IN on)
+                (NP (NN language) (NN learning) (NNS strategies))))))))
+    (. .)))
+

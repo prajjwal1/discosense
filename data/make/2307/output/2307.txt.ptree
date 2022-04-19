@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (NP (PRP you))
+    (VP (MD can)
+      (VP (VB experience)
+        (NP
+          (NP (DT this))
+          (PP (IN in)
+            (NP (NN diy))))
+        (PP (IN by)
+          (S
+            (ADVP (RB just))
+            (VP (VBG using)
+              (NP (JJ perfumers) (NN cola) (NN flavor)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (ADJP (IN though) (JJ tasty))
+      (JJ vapors) (JJ cherry)
+      (ADJP (JJ cola)
+        (CC and)
+        (JJ decadent))
+      (JJ vapors) (NN kola))
+    (VP (VBP kick)
+      (SBAR
+        (S
+          (NP (DT both))
+          (VP (VBP have)
+            (NP
+              (NP (DT a) (JJ light) (NN bubbly) (NN sensation))
+              (PP (IN on)
+                (NP (DT the) (NN tongue))))))))
+    (. .)))
+

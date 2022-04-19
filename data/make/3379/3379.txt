@@ -1,0 +1,1 @@
+for example, the round trip signal delay may be normalized, yielding an estimate of distance by a time of arrival technique. likewise any doppler shift in the signal may be determined and compensated, allowing an indication of relative speed.

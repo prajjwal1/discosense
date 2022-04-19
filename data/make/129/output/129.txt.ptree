@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP$ my) (NN daughter))
+      (VP (VBD stayed)
+        (PP (IN at)
+          (NP (DT another) (NN hotel)))
+        (PP (IN with)
+          (NP (DT the) (NN team)))))
+    (, ,) (IN so)
+    (S
+      (NP (FW i))
+      (VP (VBD had)
+        (NP (DT some) (NN time)
+          (S
+            (VP (TO to)
+              (VP (VB explore)))))))
+    (. .)))
+
+(ROOT
+  (S (CC but)
+    (SBAR (IN if)
+      (S
+        (VP (VBP im)
+          (ADVP (RB ever))
+          (PP (IN over)
+            (NP (DT that) (NN way))))))
+    (, ,)
+    (NP (JJ ill))
+    (ADVP (RB definitely))
+    (VP (VBP go)
+      (ADVP (RB back)))
+    (. .)))
+

@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNS data))
+      (VP (VBN provided)
+        (PP (IN in)
+          (NP (DT this) (NN paper)))))
+    (VP (MD can)
+      (VP (VB be)
+        (VP (VBN used)
+          (PP (IN for)
+            (S
+              (VP (VBG demonstrating)
+                (NP
+                  (NP (PDT all) (DT the) (NNS concepts))
+                  (VP (VBN mentioned)
+                    (PP (IN above))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB however))
+    (NP
+      (NP (DT the) (JJ main) (NN focus))
+      (PP (IN of)
+        (NP
+          (NP (DT the) (NN use))
+          (PP (IN of)
+            (NP (DT this) (NN data) (NN set))))))
+    (VP (VBZ is)
+      (PP (IN on)
+        (NP (NN calibration))))
+    (. .)))
+

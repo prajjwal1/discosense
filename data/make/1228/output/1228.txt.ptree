@@ -1,0 +1,52 @@
+(ROOT
+  (S
+    (NP
+      (NP (JJ institutional) (NN change))
+      (VP (VBN seen)
+        (PP (IN as)
+          (NP
+            (NP (DT a) (NN consequence))
+            (PP (IN of)
+              (NP (VBG changing) (NNS beliefs)))))))
+    (ADVP (RB thus))
+    (VP (VBZ has)
+      (S
+        (VP (TO to)
+          (VP (VB deal)
+            (PP (IN with)
+              (NP (DT an) (NN aggregation) (NN problem)))
+            (SBAR
+              (WHADVP (WRB how))
+              (S
+                (VP (VBP are)
+                  (NP
+                    (NP (JJ individual) (NNS beliefs))
+                    (VP (VBN transformed)
+                      (PP (IN into)
+                        (NP (VBN modified) (NNS institutions))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP
+        (NP (NN sum))
+        (PP (IN at)
+          (NP
+            (NP (DT the) (NN outset))
+            (PP (IN of)
+              (NP
+                (NP (PRP$ my) (NN reading))
+                (PP (IN of)
+                  (NP (DT this) (NN book)))))))))
+    (, ,)
+    (NP (FW i))
+    (VP (VBD hoped)
+      (S
+        (VP (TO to)
+          (VP (VB find)
+            (NP (JJ further) (JJ substantial) (NN progress))
+            (PP (IN in)
+              (NP (DT the) (JJ new) (JJ institutional) (NNS economics)))))))
+    (. .)))
+

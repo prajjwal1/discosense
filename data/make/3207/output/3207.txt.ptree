@@ -1,0 +1,32 @@
+(ROOT
+  (S (CC but)
+    (NP (DT a) (VBN printed) (NN meal))
+    (VP (MD could)
+      (ADVP (RB also))
+      (VP (VB help)
+        (S
+          (NP (PRP you))
+          (VP (VB stay)
+            (ADJP (JJ healthy))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP (NN instance)))
+    (NP (PRP$ your) (NN compositor))
+    (VP (MD could)
+      (VP (VB avoid)
+        (NP
+          (NP (NNS ingredients))
+          (SBAR
+            (WHPP (TO to)
+              (WHNP (WDT which)))
+            (S
+              (NP (PRP you))
+              (VP (VBP are)
+                (ADJP (JJ allergic)
+                  (CC or)
+                  (JJ intolerant))))))))
+    (. .)))
+

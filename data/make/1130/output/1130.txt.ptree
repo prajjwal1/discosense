@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (NN start))
+      (PP (IN of)
+        (NP (DT the) (NN imaging) (NN cycle))))
+    (VP (VBZ is)
+      (VP (VBN marked)
+        (PP (IN by)
+          (NP (DT a) (NN pitch) (NN pulse)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thereafter))
+    (NP
+      (NP (DT the) (JJ next) (NN count))
+      (VP (VBN stored)
+        (PP (IN in)
+          (NP (DT the) (NN counter)))))
+    (VP (VBZ is)
+      (VP (VBN decremented)
+        (S
+          (VP (TO to)
+            (VP (VB zero)
+              (PP (IN by)
+                (NP (DT the) (NN clock) (NN pulse) (NNS counts))))))))
+    (. .)))
+

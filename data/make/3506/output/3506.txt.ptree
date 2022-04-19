@@ -1,0 +1,47 @@
+(ROOT
+  (S
+    (PP (VBG according)
+      (PP (TO to)
+        (NP (JJ maritime) (NN law))))
+    (, ,)
+    (NP
+      (NP (DT a) (NN buoy))
+      (, ,)
+      (CC or)
+      (ADVP (RB otherwise))
+      (NP (JJ floating) (NN object))
+      (, ,))
+    (VP (VBZ constitutes)
+      (PP (IN as)
+        (NP (JJ sufficient) (NNS grounds)))
+      (PP (IN in)
+        (S
+          (VP (VBG laying)
+            (NP (NN claim))
+            (PP (TO to)
+              (NP (DT an) (NN artifact)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP
+        (NP (JJ other) (NNS words))
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (VP (VBN faced)
+              (PP (IN with)
+                (NP (DT a) (NN lagan))))))))
+    (, ,)
+    (NP (PRP one))
+    (VP (VBZ is)
+      (VP (VBN required)
+        (S
+          (VP (TO to)
+            (VP (VB return)
+              (NP (DT the) (NN artifact))
+              (PP (TO to)
+                (NP (PRP$ its) (JJ rightful) (NN owner))))))))
+    (. .)))
+

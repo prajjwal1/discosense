@@ -1,0 +1,1 @@
+therefore, less number of test pads pins may be used to accommodate smaller dies and chip substrates resulting in a reduction in cost. hence the invention method of test may reduce the overall cost of the chip.

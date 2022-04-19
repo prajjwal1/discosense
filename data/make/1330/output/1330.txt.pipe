@@ -1,0 +1,2 @@
+Explicit|||0..2||if||0|if|||Contingency.Condition|||||||||||23..51|0|id recommend this toy to you||||||||3..21|0|you are a beginner|||||||||||||
+Explicit|||53..62||otherwise||1|otherwise|||Expansion.Alternative|||||||||||0..51|0|if you are a beginner, id recommend this toy to you||||||||63..93|1|you may want to look elsewhere|||||||||||||

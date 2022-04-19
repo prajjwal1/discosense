@@ -1,0 +1,44 @@
+(ROOT
+  (S
+    (NP (PRP they))
+    (VP (VBD had)
+      (NP
+        (NP (DT no) (NN concept))
+        (PP (IN of)
+          (NP
+            (NP
+              (NP (NN ownership))
+              (PP (IN of)
+                (NP (NN land))))
+            (CC or)
+            (NP
+              (NP (DT any) (NN resource))
+              (PP (IN on)
+                (NP (PRP it)))))))
+      (, ,)
+      (PP (IN with)
+        (NP
+          (NP (DT the) (JJ single) (NN exception))
+          (PP (IN of)
+            (NP (JJ eagle) (NNS nests))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN contrast)))
+    (NP (DT the) (NNS owens) (NN valley) (NN paiute))
+    (VP (VBD occupied)
+      (NP
+        (ADJP (RB relatively) (JJ fertile))
+        (NN land))
+      (PP (IN with)
+        (NP
+          (NP (NN denser) (NNS stands))
+          (PP (IN of)
+            (NP
+              (NP (NN pinon) (NN pine))
+              (CC and)
+              (NP (JJ abundant) (NN game)))))))
+    (. .)))
+

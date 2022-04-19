@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (NP (DT the) (NN hops))
+    (VP
+      (VP (VBD bittered)
+        (NP (DT the) (JJ sweet) (NN melange)))
+      (, ,)
+      (CC but)
+      (VP (VBD did)
+        (NP (RB little))
+        (PP (IN in)
+          (NP
+            (NP (DT the) (NN line))
+            (PP (IN of)
+              (S
+                (VP (VBG flavoring)
+                  (S
+                    (NP (PRP it))
+                    (NP (DT all))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB overall))
+    (NP (DT the) (NN flavor) (NN profile))
+    (VP
+      (VP (VBD was)
+        (NP (NN thing)))
+      (CC and)
+      (VP (VBD dropped)
+        (PRT (RP off))
+        (ADVP (RB quickly))
+        (SBAR (IN as)
+          (S
+            (NP (DT the) (NN malt))
+            (VP (VBD ebbed) (, ,)
+              (S
+                (VP (VBG leaving)
+                  (NP (DT a) (JJ crisp) (, ,)
+                    (ADJP (RB slightly) (JJ bittered))
+                    (NN finish)))))))))
+    (. .)))
+

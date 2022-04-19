@@ -1,0 +1,54 @@
+(ROOT
+  (S
+    (S
+      (VP (VBG using)
+        (NP (CD four))
+        (ADVP (RB widely))))
+    (VP (VBD utilized)
+      (NP (NN personality) (NNS tests))
+      (, ,)
+      (S
+        (NP (PRP we))
+        (VP
+          (VP (VB classify)
+            (NP (NNS participants))
+            (PP (IN into)
+              (NP (CD three) (JJ distinct) (NN personality) (NNS types))))
+          (CC and)
+          (VP (VB find)
+            (SBAR (IN that)
+              (S
+                (NP (DT these) (NNS types))
+                (VP (VBP have)
+                  (NP (JJ different) (NN risk) (NNS characteristics)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (RB particularly) (DT the) (NN trait))
+      (PP (IN of)
+        (NP (NN motivation))))
+    (VP (VBZ plays)
+      (NP (DT a) (NN role))
+      (PP (IN in)
+        (S
+          (VP (VBG explaining)
+            (NP
+              (NP (DT the) (NN attraction))
+              (PP (IN of)
+                (NP (NN gambling)))))))
+      (, ,)
+      (SBAR (IN while)
+        (S
+          (NP
+            (NP (DT the) (NN trait))
+            (PP (IN of)
+              (NP (NNS impulsiveness))))
+          (VP (VBZ affects)
+            (NP
+              (NP (DT the) (NN discriminability))
+              (PP (IN of)
+                (NP (JJ non) (JJ extreme) (NNS probabilities))))))))
+    (. .)))
+

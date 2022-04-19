@@ -1,0 +1,3 @@
+conn_lc:when conn:when conn_POS:WRB xxx£
+conn_lc:then conn:then conn_POS:RB with_prev_full:,_then xxx£
+conn_lc:in_other_words conn:in_other_words conn_POS:IN_JJ_NNS xxx£

@@ -1,0 +1,45 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT these) (NN state) (NN machine))
+      (VP (VBN related)
+        (NP (NNS callbacks))
+        (PP (IN above)
+          (ADVP (RB generally)))))
+    (VP (VBP do) (RB not)
+      (VP (VB replace)
+        (NP (JJ formal) (NN event) (NNS callbacks))
+        (SBAR (IN that)
+          (S
+            (NP (DT a) (NN driver))
+            (VP (MD can)
+              (VP (VB register)
+                (PP (IN for)
+                  (S
+                    (VP (VBG using)
+                      (NP (JJ conventional) (NN registration) (NNS apis)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP
+        (NP (NN instance))
+        (SBAR (IN if)
+          (S
+            (NP (DT the) (NN driver))
+            (VP (VBD registered)
+              (PP (IN for)
+                (NP (DT a) (NN state) (NN change) (NN notification)))
+              (PP (IN on)
+                (NP (DT a) (VBG restarting) (NN self) (VBN managed) (NNP io) (NN state))))))))
+    (, ,)
+    (NP (PRP it))
+    (VP (MD would) (RB not)
+      (VP (VB replace)
+        (NP (DT the) (JJ evtdeviceselfmanagediorestart) (NN callback))
+        (ADVP (VBN related)
+          (PP (TO to)
+            (NP (DT this) (NN state))))))
+    (. .)))
+

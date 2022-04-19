@@ -1,0 +1,48 @@
+(ROOT
+  (S
+    (NP (NNS dali))
+    (VP (VBZ represents)
+      (NP
+        (NP (DT a) (JJ preserved) (NN form))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (NN myth))
+            (, ,)
+            (SBAR
+              (WHADVP (WRB where))
+              (S
+                (NP (DT the) (NN goddess))
+                (VP (VBZ retains)
+                  (NP
+                    (NP (PRP$ her) (NN power))
+                    (CC and)
+                    (NP (PRP$ her) (NN beauty))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN contrast)))
+    (NP (DT the) (NN glaistig))
+    (VP
+      (VP (VBZ represents)
+        (NP
+          (NP (DT an) (JJ altered) (NN form))
+          (, ,)
+          (SBAR
+            (WHADVP (WRB where))
+            (S
+              (NP (DT the) (NN goddess))
+              (VP (VBZ has)
+                (VP (VBN been)
+                  (VP (VBN reduced)
+                    (PP (TO to)
+                      (NP (DT an) (JJ ugly) (NN hag))))))))))
+      (CC and)
+      (VP (VBZ is)
+        (VP (VBN accorded)
+          (NP
+            (ADJP (RB significantly) (JJR less))
+            (NN respect)))))
+    (. .)))
+

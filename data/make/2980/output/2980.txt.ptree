@@ -1,0 +1,45 @@
+(ROOT
+  (S
+    (S
+      (NP (NNS pagani))
+      (VP (VBZ has)
+        (VP (VBN prepared)
+          (NP
+            (NP (DT another) (JJ special) (NN copy))
+            (PP (IN of)
+              (NP (PRP$ its) (NN huayra) (NN supercar)))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP
+        (NP (DT this) (JJ unique) (NN car))
+        (PP (IN in)
+          (NP (DT the) (NNS pictures))))
+      (VP (VBZ is)
+        (VP (VBN ordered)
+          (PP (IN by)
+            (NP (NNP bingo) (NNS sports)))
+          (PP (IN from)
+            (NP (NN japan))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (ADJP (JJ short)))
+    (NP (DT the) (NNP huayra) (NNP bingo) (NNS sports) (NN edition))
+    (VP (VBZ stands)
+      (PRT (RP out))
+      (PP (IN by)
+        (NP
+          (NP (DT the) (JJ brown) (NN gold) (NN exterior))
+          (, ,)
+          (NP (JJ white) (NN interior))
+          (, ,)
+          (CC and)
+          (NP
+            (NP (NNS wheels))
+            (PP (IN with)
+              (NP (DT a) (JJ golden) (NN theme)))))))
+    (. .)))
+

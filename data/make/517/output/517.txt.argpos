@@ -1,0 +1,2 @@
+conn:though conn_POS:IN prev1:glitch prev1_POS:NN with_prev1_full:glitch_though with_prev1_POS_full:NN_IN prev2:a prev2_POS:DT with_prev2_full:a_though with_prev2_POS_full:DT_IN NA
+conn:also conn_POS:RB prev1:is prev1_POS:VBZ with_prev1_full:is_also with_prev1_POS_full:VBZ_RB prev2:who prev2_POS:WP with_prev2_full:who_also with_prev2_POS_full:WP_RB NA

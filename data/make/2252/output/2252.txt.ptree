@@ -1,0 +1,52 @@
+(ROOT
+  (S
+    (PP (VBG barring)
+      (NP (DT some) (JJ relevant) (JJ partial) (NNS results)))
+    (, ,)
+    (NP (PDT all) (DT the) (JJ noncommutative) (NN geometry) (NN structure))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (NN generalization))
+        (PP (IN of)
+          (NP
+            (NP (NN riemannian) (NN geometry))
+            (, ,)
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (VBZ is)
+                  (NP
+                    (NP (DT a) (NN geometry))
+                    (SBAR
+                      (WHADVP (WRB where))
+                      (S
+                        (NP (DT the) (JJ metric) (NN tensor))
+                        (VP (VBZ is)
+                          (ADVP (RB positively))
+                          (VP (VBN defined)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ conversely) (NN physics) (NNS deals))
+      (PP (IN with)
+        (NP
+          (NP (DT the) (JJ geometric) (NN structure))
+          (VP (VBN known)
+            (PP (IN as)
+              (NP (NN pseudo) (NN riemannian)))))))
+    (VP (VBD manifold)
+      (SBAR (IN that)
+        (S
+          (VP (VBZ allows)
+            (S
+              (NP (PRP one))
+              (VP (TO to)
+                (VP (VB give)
+                  (NP
+                    (NP (DT a) (JJ mathematically) (JJ rigorous) (NN description))
+                    (PP (IN of)
+                      (NP (NN causality)))))))))))
+    (. .)))
+

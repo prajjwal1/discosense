@@ -1,0 +1,2 @@
+conn:for_example conn_POS:IN_NN sent_pos:0 NA
+conn:for_example conn_POS:IN_NN prev1:as prev1_POS:IN with_prev1_full:as_for_example with_prev1_POS_full:IN_IN_NN prev2:translation prev2_POS:NN with_prev2_full:translation_for_example with_prev2_POS_full:NN_IN_NN NA

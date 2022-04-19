@@ -1,0 +1,1 @@
+for example, the final storage budget for a project could be separated into a hardware budget, software budget, and services budget by using a rule set. for example the final storage budget could be allocated 60% of the final storage budget is for hardware, 20% is for software, and 20% is for services.

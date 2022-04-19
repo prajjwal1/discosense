@@ -1,0 +1,44 @@
+(ROOT
+  (S
+    (ADVP (RB overall))
+    (, ,)
+    (NP (DT the) (NNS data))
+    (VP (VBZ suggests)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (NN adult))
+            (PP (IN like)
+              (NP
+                (NP (NNS features))
+                (PP (IN of)
+                  (NP (NN threat) (NN learning))))))
+          (VP (VBP emerge)
+            (SBAR (IN as)
+              (S
+                (NP (DT the) (JJ relevant) (NN brain) (NNS areas))
+                (VP (VBP become)
+                  (VP (JJ incorporated)
+                    (PP (IN into)
+                      (NP (DT this) (NN learning)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB specifically))
+    (NP
+      (NP (DT the) (JJ developmental) (NN emergence))
+      (PP (IN of)
+        (NP
+          (NP (DT the) (NN amygdala) (NNS permits) (NN cue) (NN learning))
+          (CC and)
+          (NP
+            (NP (DT the) (NN emergence))
+            (PP (IN of)
+              (NP (DT the) (NNS hippocampus)))))))
+    (VP (VBZ permits)
+      (NP
+        (NP (NN context))
+        (VP (VBG learning))))
+    (. .)))
+

@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (NP (DT those) (NNS rules))
+    (VP (VBP recognize)
+      (S
+        (NP
+          (NP (DT the) (NN impact))
+          (PP (IN of)
+            (NP
+              (NP (NN blindness))
+              (PP (IN on)
+                (NP (DT a) (NNS persons) (NN ability))))))
+        (VP (TO to)
+          (VP (VB work)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP (NN example)))
+    (NP
+      (NP (DT the) (NN dollar) (NN amount))
+      (VP (VBN used)
+        (S
+          (VP (TO to)
+            (VP (VB determine)
+              (SBAR (IN whether)
+                (S
+                  (NP (DT a) (JJ blind) (NN individual))
+                  (VP (VBZ is)
+                    (VP (VBG engaging)
+                      (PP (IN in)
+                        (NP (NN sga))))))))))))
+    (VP (VBZ is)
+      (ADJP
+        (ADJP (JJR higher))
+        (PP (IN than)
+          (NP
+            (NP (DT the) (NN limit))
+            (PP (IN for)
+              (NP (DT a) (JJ sighted) (NN person)))))))
+    (. .)))
+

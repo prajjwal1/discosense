@@ -1,0 +1,45 @@
+(ROOT
+  (S
+    (NP
+      (NP (NN thesteak))
+      (, ,)
+      (SBAR (IN whether)
+        (S
+          (NP
+            (NP (NN tuna))
+            (CC or)
+            (NP (DT another) (NN fish)))
+          (ADVP (RB commonly))
+          (VP (VBD served)
+            (ADJP (RB as) (JJ such)))))
+      (, ,))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (NN slab))
+        (PP (IN like)
+          (NP
+            (NP (NN cut))
+            (PP (IN of)
+              (NP (JJ uniform) (NN thickness)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN by)
+      (NP (NN contrast)))
+    (NP
+      (NP (DT a) (NN loin))
+      (CC or)
+      (NP (JJ other) (NN fillet)))
+    (VP (MD will)
+      (VP (VB have)
+        (NP
+          (NP (DT a) (VBG varying) (NN thickness))
+          (PP (VBG depending)
+            (PP (IN on)
+              (NP
+                (NP (DT the) (JJ natural) (NN shape))
+                (PP (IN of)
+                  (NP (DT the) (NN fish)))))))))
+    (. .)))
+

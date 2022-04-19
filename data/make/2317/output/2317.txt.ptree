@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (S
+      (NP (NN ive))
+      (ADVP (RB never))
+      (VP (VBD wavered)
+        (PP (IN in)
+          (NP (PRP$ my) (NN support)))
+        (PP (IN for)
+          (NP
+            (NP (JJ civil) (NNS rights))
+            (CC or)
+            (NP (DT the) (JJ civil) (NNS rights) (NN act))))))
+    (, ,)
+    (NP (PRP he))
+    (VP (VBD said)
+      (PP (IN at)
+        (NP (NN howard))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (RB yet) (IN as)
+      (S
+        (NP (NNS videos))
+        (VP (VBD posted)
+          (PP (IN on)
+            (NP (JJ various) (NNS websites) (NN show))))))
+    (, ,)
+    (NP (PRP he))
+    (VP (VBD wavered)
+      (NP (DT a) (NN lot)))
+    (. .)))
+

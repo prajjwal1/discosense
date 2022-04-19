@@ -1,0 +1,52 @@
+(ROOT
+  (S
+    (SBAR (IN if)
+      (S
+        (NP
+          (NP (DT any))
+          (PP (IN of)
+            (NP (DT these) (NNS backups))))
+        (VP (VBP have)
+          (S
+            (VP (TO to)
+              (VP (VB play)
+                (NP (JJ significant) (NN time))))))))
+    (, ,)
+    (NP
+      (NP (DT the) (NN hoped))
+      (PP (IN for)
+        (NP
+          (NP (NN improvement))
+          (PP (IN in)
+            (NP (DT the) (JJ eagles) (NN defense))))))
+    (VP (MD will)
+      (VP (VB be)
+        (ADJP (RB much) (RBR less) (JJ likely)
+          (S
+            (VP (TO to)
+              (VP (VB occur)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (ADVP (RB conversely))
+      (IN if)
+      (S
+        (NP (DT the) (NNS eagles))
+        (VP (VBP have)
+          (NP (DT another)
+            (ADJP (RB relatively) (JJ healthy))
+            (NN year)))))
+    (, ,)
+    (ADVP (RB then))
+    (NP (PRP we))
+    (VP (MD can)
+      (VP (VB start)
+        (S
+          (VP (VBG ascribing)
+            (NP (JJR more) (NN credit))
+            (PP (TO to)
+              (NP (NN chip) (NNS kellys) (NN sportsscience)))))))
+    (. .)))
+

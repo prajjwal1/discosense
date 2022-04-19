@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (SBAR (RB not)
+      (S
+        (ADVP (RB only))
+        (VP (VBZ is)
+          (SBAR
+            (S
+              (NP (EX there))
+              (VP (VBZ is)
+                (NP
+                  (NP (DT a) (NN lack))
+                  (PP (IN of)
+                    (NP (NN depth))))))))))
+    (NP (DT some) (NNS juniors))
+    (VP (VBP have)
+      (VP (VBN retired)
+        (ADVP (RB already))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nevertheless))
+    (NP (EX there))
+    (VP (VBP are)
+      (VP (VBN talented)
+        (NP (NNS juniors))
+        (S
+          (VP (VBG coming)
+            (PRT (RP up))
+            (PP (IN through)
+              (NP (DT the) (NNS ranks)))))))
+    (. .)))
+

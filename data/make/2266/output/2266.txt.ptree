@@ -1,0 +1,44 @@
+(ROOT
+  (S
+    (S
+      (NP (DT this))
+      (VP (VBZ is)
+        (NP (DT a)
+          (ADJP (RB really) (JJ simple))
+          (NN question))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (DT the) (NN answer))
+      (VP (VBZ is)
+        (VP (VBG stumping)
+          (NP (PRP me))
+          (SBAR
+            (WHADVP (WRB how))
+            (S
+              (VP (VBP do)
+                (SBAR
+                  (S
+                    (NP (PRP you))
+                    (VP (VBZ format)
+                      (NP (DT another) (JJ countrys) (NN currency))
+                      (ADVP (RB correctly)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB specifically))
+    (NP
+      (NP (DT this) (NN answer))
+      (, ,)
+      (VP (VBG quoting)
+        (PP (IN from)
+          (NP (NN wikipedia))))
+      (, ,))
+    (VP (VBZ has)
+      (NP (DT a) (JJ great) (NN survey))
+      (PP (IN of)
+        (FRAG
+          (WHADVP (WRB how)))))
+    (. .)))
+

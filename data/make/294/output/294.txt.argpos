@@ -1,0 +1,2 @@
+conn:while conn_POS:IN prev1:electricity prev1_POS:NN with_prev1_full:electricity_while with_prev1_POS_full:NN_IN prev2:produce prev2_POS:VB with_prev2_full:produce_while with_prev2_POS_full:VB_IN NA
+conn:however conn_POS:RB sent_pos:0 NA

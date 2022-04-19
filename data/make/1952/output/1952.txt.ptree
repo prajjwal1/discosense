@@ -1,0 +1,52 @@
+(ROOT
+  (S
+    (S
+      (NP (FW i))
+      (VP (VBP have)
+        (NP (DT a) (CD 1940) (NN cottage))
+        (PP (IN with)
+          (NP
+            (NP (NNS lots))
+            (PP (IN of)
+              (NP (JJ original) (NNS details)))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (FW i))
+      (VP (VBP adore)
+        (NP (JJ mid) (NN century) (NN design))
+        (ADVP (RB as) (RB well))
+        (, ,)
+        (SBAR (IN so)
+          (S
+            (NP (PRP$ your) (NN blog))
+            (VP (VBZ has)
+              (VP (VBN served)
+                (PP (IN as)
+                  (NP
+                    (NP (NNS lots))
+                    (PP (IN of)
+                      (NP (NN inspiration)))))
+                (PP (IN in)
+                  (NP (PRP$ my) (NN decorating)))))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (PP (IN in)
+      (NP (JJ particular) (NN ive)))
+    (VP (VBD made))
+    (NP (DT the) (NN decision)
+      (S
+        (VP (TO to)
+          (VP (VB go)
+            (PP (IN with)
+              (NP (NN linoleum)))
+            (SBAR
+              (WHADVP (WRB when))
+              (S
+                (NP (PRP we))
+                (VP (VBP tackle)
+                  (NP (PRP$ our) (NN kitchen)))))))))
+    (. .)))
+

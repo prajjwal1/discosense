@@ -1,0 +1,45 @@
+(ROOT
+  (S
+    (ADVP (RB moreover))
+    (, ,)
+    (S
+      (ADVP (RB accurately))
+      (VP (VBG predicting)
+        (NP
+          (NP (DT the) (NNS characteristics))
+          (PP (IN of)
+            (NP (PDT such) (DT a) (NN state))))
+        (, ,)
+        (SBAR (RB even) (IN if)
+          (S
+            (NP (PRP it))
+            (VP (VBZ does)
+              (VP (VB arise)))))))
+    (, ,)
+    (VP (VBZ is) (RB not)
+      (ADJP (RB always) (JJ possible)))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (JJ short) (NN vegetative)))
+    (NP (NNS communities))
+    (VP (VBP are)
+      (ADJP (JJ subject)
+        (PP (TO to)
+          (NP
+            (NP (JJ many) (NNS variables))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (ADVP (RB together))
+                (VP (VBD set)
+                  (NP (NNS limits))
+                  (PP (IN on)
+                    (NP
+                      (NP (DT the) (NN predictability))
+                      (PP (IN of)
+                        (NP (JJ future) (NNS conditions))))))))))))
+    (. .)))
+

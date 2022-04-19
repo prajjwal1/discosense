@@ -1,0 +1,17 @@
+mark(smiling-3, if-1)
+poss(smiling-3, its-2)
+advcl(winning-9, smiling-3)
+advmod(player-7, then-5)
+det(player-7, the-6)
+nsubj(winning-9, player-7)
+aux(winning-9, is-8)
+root(ROOT-0, winning-9)
+
+advmod(losing-5, otherwise-1)
+det(player-3, the-2)
+nsubj(losing-5, player-3)
+aux(losing-5, is-4)
+root(ROOT-0, losing-5)
+det(game-7, the-6)
+dobj(losing-5, game-7)
+

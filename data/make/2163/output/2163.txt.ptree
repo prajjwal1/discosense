@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (NP
+      (NP (PRP they))
+      (CC and)
+      (NP (PDT all) (DT the) (NNS others)))
+    (VP (VBD were)
+      (ADJP (JJ right)
+        (SBAR
+          (S
+            (NP (DT every) (NN nation))
+            (VP (VBZ has)
+              (NP (DT a) (NN right)
+                (S
+                  (VP (TO to)
+                    (VP (VB have)
+                      (NP (PRP$ its) (JJ own)))))))))))
+    (. .)))
+
+(ROOT
+  (S (CC but)
+    (NP (DT this))
+    (VP (VBZ is) (RB not)
+      (NP (DT the) (NN matter))
+      (ADVP (RB now)))
+    (. .)))
+

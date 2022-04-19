@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (S
+      (NP (NN transformational) (NN change) (NNS leaders) (NN dont))
+      (VP (VBP think)
+        (NP (NNS lessofthemselves))))
+    (, ,)
+    (NP (PRP they))
+    (VP (VBP think)
+      (ADVP (RBR less))
+      (PP (IN about)
+        (NP (PRP themselves))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (JJ other) (NNS words)))
+    (NP (PRP they))
+    (VP (VBP demonstrate)
+      (NP
+        (NP (DT a) (NN self))
+        (PP (CC less)
+          (NP (NN confidence))))
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (PRP it))
+          (VP (VBZ comes)
+            (PP (TO to)
+              (NP
+                (NP (DT the) (NN situation))
+                (PP (IN at)
+                  (NP (NN hand)))))))))
+    (. .)))
+

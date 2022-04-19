@@ -1,0 +1,47 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP$ our) (JJ first) (NN experience))
+      (VP (VBD was)
+        (NP (DT a) (NN homebirth))
+        (PP
+          (PP (IN over)
+            (ADVP
+              (NP (CD 4) (NNS years))
+              (RB ago)))
+          (, ,)
+          (CC and)
+          (RB because)
+          (PP (IN of)
+            (NP
+              (NP (NN scar) (NN tissue))
+              (PP (IN on)
+                (NP (DT the) (NN cervix))))))))
+    (, ,)
+    (NP (JJ julias) (NN labor))
+    (VP (VBD was)
+      (PP (IN like)
+        (NP
+          (NP (NN transition))
+          (PP (IN for)
+            (NP (CD 36) (NNS hours))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB because) (IN of)
+      (NP (DT that) (CD 1st) (NN birth)))
+    (, ,)
+    (NP (PRP we))
+    (VP (VBD were)
+      (ADJP (RB somewhat) (JJ unprepared)
+        (PP (IN for)
+          (SBAR
+            (WHNP (WP what))
+            (S
+              (NP (NN hana))
+              (VP (VBD had)
+                (PP (IN in)
+                  (NP (NN mind)))))))))
+    (. .)))
+

@@ -1,0 +1,3 @@
+conn_lc:if_if_subjects_have_difficulty_speaking_during_the_task_,_then conn:if_if_subjects_have_difficulty_speaking_during_the_task_,_then conn_POS:IN_IN_NNS_VBP_NN_VBG_IN_DT_NN_,_RB xxx£
+conn_lc:otherwise conn:otherwise conn_POS:RB xxx£
+conn_lc:because conn:because conn_POS:IN with_prev_full:method_because xxx£

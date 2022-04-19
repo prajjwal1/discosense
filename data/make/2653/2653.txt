@@ -1,0 +1,1 @@
+creating a set of rules that a machine could use to understand and answer the games questions would be impossible, as the questions are too complex. instead ibms team, lead by david ferrucci based in yorktown heights, new york, gave their computer a few rules and a huge amount of memory and processing power. huge databases.

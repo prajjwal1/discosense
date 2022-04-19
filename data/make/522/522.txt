@@ -1,0 +1,1 @@
+stykz automatically updates the thumbnail as soon as any changes are made to the current frame. because of this you dont need to make an extra frame or click on some other frame in order to see your thumbnail update.

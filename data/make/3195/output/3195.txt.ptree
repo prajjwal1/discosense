@@ -1,0 +1,48 @@
+(ROOT
+  (S
+    (SBAR (IN if)
+      (S
+        (NP (NN everything))
+        (VP (VBZ is)
+          (VP (VBG working)
+            (NP (NN ok))))))
+    (, ,)
+    (NP (PRP it))
+    (VP (MD should)
+      (VP (VB fire)
+        (PRT (RP up))
+        (PP (IN within)
+          (NP (DT a) (JJ few) (NNS cranks)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thereafter))
+    (NP (PRP it))
+    (VP (VBZ takes)
+      (NP (DT a) (NN while)
+        (S
+          (VP (TO to)
+            (VP (VB purge)
+              (NP
+                (NP (DT the) (NN air))
+                (, ,)
+                (ADVP (RB usually))
+                (NP
+                  (NP (DT a) (JJ couple) (NN dozen) (NNS miles))
+                  (PP (IN of)
+                    (S
+                      (VP (VBG driving)
+                        (SBAR (IN before)
+                          (S
+                            (NP (NNS things))
+                            (VP (VBP begin)
+                              (S
+                                (VP (TO to)
+                                  (VP (VB settle)
+                                    (PRT (RP back))
+                                    (PP (IN in)
+                                      (PP (TO to)
+                                        (ADJP (RB near) (JJ normal))))))))))))))))))))
+    (. .)))
+

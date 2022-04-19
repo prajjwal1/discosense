@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (NP (DT the) (NN region))
+    (VP (VBD was)
+      (VP (VBN placed)
+        (PP (IN on)
+          (NP (JJ equal) (NN footing)))
+        (PP (IN with)
+          (NP
+            (NP (DT the) (JJ flemish) (NN region))
+            (CC and)
+            (NP (DT the) (NN walloon) (NN region))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nonetheless))
+    (NP (NNS brussels))
+    (VP (VBZ does) (RB not)
+      (VP
+        (VP (VB have)
+          (NP (PRP$ its) (JJ own) (NN community))
+          (PP (RB rather)
+            (NP
+              (NP (DT the) (JJ flemish) (NN community))
+              (CC and)
+              (NP (DT the) (JJ french) (NN community)))))
+        (CC both)
+        (VP (VB have)
+          (NP
+            (NP (NN jurisdiction))
+            (PP (IN in)
+              (NP (NNS brussels)))))))
+    (. .)))
+

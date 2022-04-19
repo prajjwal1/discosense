@@ -1,0 +1,45 @@
+(ROOT
+  (S
+    (ADVP (RB rather))
+    (, ,)
+    (NP (NN commodity) (NNS frontiers))
+    (VP (VBD were)
+      (ADJP (RB so) (JJ epoch))
+      (S
+        (VP (VBG making)
+          (SBAR (IN because)
+            (S
+              (NP (PRP they))
+              (VP (VBD extended)
+                (NP
+                  (NP (DT the) (NN zone))
+                  (PP (IN of)
+                    (NP (NN appropriation))))
+                (PP
+                  (ADVP (RBR faster))
+                  (IN than)
+                  (NP
+                    (NP (DT the) (NN zone))
+                    (PP (IN of)
+                      (NP (NN commodification)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP
+        (NP (NN sum))
+        (SBAR (RB not)
+          (S
+            (ADVP (RB only))
+            (VP (VBZ does)
+              (SBAR
+                (S
+                  (NP (NN capitalism))
+                  (VP (VBP have)
+                    (VP (VBZ frontiers))))))))))
+    (NP (PRP it))
+    (VP (VBZ is)
+      (NP (DT a) (NN frontier) (NN civilization)))
+    (. .)))
+

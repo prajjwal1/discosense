@@ -1,0 +1,48 @@
+(ROOT
+  (S
+    (NP (JJ such) (NNS treatments))
+    (VP (VBP are)
+      (ADVP (RB also))
+      (VP (VBN associated)
+        (PP (IN with)
+          (NP
+            (NP (JJ unpleasant) (NN side) (NNS effects))
+            (, ,)
+            (SBAR
+              (WHNP
+                (NP (DT the) (RBS most) (JJ common))
+                (WHPP (IN of)
+                  (WHNP (WDT which))))
+              (S
+                (VP (VBZ is)
+                  (NP (NN diarrhea))
+                  (, ,)
+                  (S
+                    (VP (VBG causing)
+                      (NP (NNS patients))
+                      (S
+                        (VP (TO to)
+                          (VP (VB see)
+                            (NP
+                              (NP (NN saw))
+                              (PP (IN between)
+                                (NP (NNS extremes))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN as)
+      (NP (DT a) (NN result)))
+    (NP
+      (NP (JJS most) (NNS doctors))
+      (CC and)
+      (NP (PRP$ their) (NNS patients)))
+    (VP (VBP are)
+      (VP (VBN dissatisfied)
+        (PP (IN with)
+          (NP
+            (NP (JJ current) (NNS treatments))
+            (PP (IN for)
+              (NP (JJ chronic) (NN constipation)))))))
+    (. .)))
+

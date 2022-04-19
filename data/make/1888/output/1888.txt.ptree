@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (ADVP (RB yet))
+    (NP (RB even) (PDT such) (DT a) (NN crisis))
+    (VP (MD would) (RB not)
+      (VP (VB entail)
+        (NP
+          (NP (NN dissolution))
+          (PP (IN of)
+            (NP (DT the) (JJ monetary) (NN union))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN on)
+      (NP (DT the) (NN contrary)))
+    (NP (PRP it))
+    (VP (VBZ is)
+      (ADJP (RB perfectly) (JJ possible)
+        (PP (IN for)
+          (NP (JJ monetary) (NNS unions))))
+      (S
+        (VP (TO to)
+          (VP (VB survive)
+            (NP
+              (NP (JJ financial) (NNS crises))
+              (CC and)
+              (NP (JJ public) (NN sector) (NNS defaults)))))))
+    (. .)))
+

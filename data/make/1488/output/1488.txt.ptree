@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (NP (DT this) (NN study))
+    (ADVP (RB also))
+    (VP (VBZ has)
+      (NP
+        (NP
+          (NP (DT a) (JJ few) (JJ notable) (NNS limitations))
+          (NP
+            (NP (DT the) (NN lack))
+            (PP (IN of)
+              (NP (NN control) (NN group)))))
+        (CC and)
+        (NP
+          (NP (NN number))
+          (PP (IN of)
+            (NP (NNS women))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nonetheless))
+    (NP (PRP it))
+    (VP (VBZ is)
+      (ADJP (JJ unlikely))
+      (SBAR (IN that)
+        (S
+          (NP (DT these) (NNS limitations))
+          (VP (MD would)
+            (ADVP (RB significantly))
+            (VP (VB affect)
+              (NP
+                (NP (DT the) (NN result))
+                (PP (IN of)
+                  (NP (DT the) (NN study)))))))))
+    (. .)))
+

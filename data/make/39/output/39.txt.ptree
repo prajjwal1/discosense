@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (SBAR (IN although)
+      (S
+        (NP (PRP it))
+        (VP (VBD took)
+          (ADVP (RB awhile))
+          (S
+            (VP (TO to)
+              (VP (VB assemble)))))))
+    (, ,)
+    (NP (DT the) (NNS instructions))
+    (VP (VBP are)
+      (ADJP (JJ easy)
+        (S
+          (VP (TO to)
+            (VP (VB follow))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB overall))
+    (NP (DT this) (NN tv) (NN stand))
+    (VP (VBZ is)
+      (ADJP (JJ worth))
+      (S
+        (VP (VBG purchasing)
+          (PP (IN for)))))
+    (. .)))
+

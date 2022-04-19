@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (NP (PRP$ my) (JJ own))
+    (ADVP (RB only))
+    (VP (VBD migrated)
+      (PP (TO to)
+        (NP
+          (QP (CD windows) (CD 7))))
+      (NP (JJ last) (NN year)))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (ADJP (JJ short)))
+    (NP (DT the) (NN linux) (NN desktop) (NN doesnt))
+    (ADVP (RB really))
+    (VP (VBP need)
+      (NP (DT the) (NN stuff))
+      (SBAR (IN that)
+        (S
+          (NP (JJS most) (NNS people))
+          (VP (VBP seem)
+            (S
+              (VP (TO to)
+                (VP (VB think)
+                  (SBAR
+                    (S
+                      (NP (PRP it))
+                      (VP (VBZ needs)))))))))))
+    (. .)))
+

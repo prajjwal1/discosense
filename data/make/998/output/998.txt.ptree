@@ -1,0 +1,51 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (NN number))
+      (PP (IN of)
+        (NP
+          (NP (NNS keys))
+          (PP (IN for)
+            (S
+              (VP (VBG using)
+                (NP (DT these) (NNS functions))))))))
+    (VP (VBZ is)
+      (VP (VBN minimized)
+        (PP (IN in)
+          (NP (DT the) (JJ above) (NN communication) (NN device)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (ADJP (JJ particular)))
+    (NP (DT a) (NN box))
+    (VP (VBZ specifying)
+      (NP (JJ key) (NNS functions))
+      (PP (IN as)
+        (NP
+          (NP (DT a)
+            (ADJP (JJ key)
+              (PP (IN for)
+                (S
+                  (VP (VBG using)
+                    (NP (DT the) (NN message))))))
+            (NN box))
+          (, ,)
+          (NP (DT a)
+            (ADJP (JJ key)
+              (PP (IN for)
+                (S
+                  (VP (VBG using)
+                    (NP (DT the) (CD one) (NN touch))))))
+            (NN dial))
+          (CC and)
+          (NP (DT a)
+            (ADJP (JJ key)
+              (PP (IN for)
+                (S
+                  (VP (VBG using)
+                    (NP (DT the) (JJ private) (NN telephone))))))
+            (NN directory)))))
+    (. .)))
+

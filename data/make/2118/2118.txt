@@ -1,0 +1,1 @@
+every one should watch out for this one on all ssp based client vms. particularly if you have gone for small numbers of larger lus or even just the one large lu for everything.

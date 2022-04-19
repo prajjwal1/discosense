@@ -1,0 +1,53 @@
+(ROOT
+  (S
+    (NP (PRP it))
+    (VP (VBZ has)
+      (VP (VBN continued)
+        (S
+          (VP (TO to)
+            (VP (VB vote)
+              (PP (IN for)
+                (NP (NNS republicans)))
+              (PP (IN by)
+                (NP
+                  (ADJP (RB very) (JJ wide))
+                  (NNS margins)))
+              (, ,)
+              (PP (IN with)
+                (S
+                  (NP (DT the) (JJ only) (NN exception))
+                  (VP (VBG being)
+                    (NP (CD 1976)))))
+              (, ,)
+              (SBAR
+                (WHADVP (WRB where))
+                (S
+                  (NP (JJ gerald) (NN ford))
+                  (VP (VBD won)
+                    (NP (DT a) (JJ narrow)
+                      (ADJP
+                        (QP (CD 50) (CD 49)))
+                      (NN victory))
+                    (PP (IN over)
+                      (NP (JJ jimmy) (NN carter)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nonetheless))
+    (NP (PRP it))
+    (VP
+      (ADVP (RB usually))
+      (VBD continued)
+      (S
+        (VP (TO to)
+          (VP (VB elect)
+            (NP (JJ conservative) (NNS democrats))
+            (PP (IN at)
+              (NP (DT the)
+                (UCP (NN state)
+                  (CC and)
+                  (JJ local))
+                (NN level)))))))
+    (. .)))
+

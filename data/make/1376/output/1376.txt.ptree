@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (ADVP (RB therefore))
+    (, ,)
+    (NP
+      (NP (JJR less) (NN number))
+      (PP (IN of)
+        (NP (NN test) (NNS pads) (NNS pins))))
+    (VP (MD may)
+      (VP (VB be)
+        (VP (VBN used)
+          (S
+            (VP (TO to)
+              (VP (VB accommodate)
+                (NP
+                  (NP (JJR smaller) (NN dies)
+                    (CC and)
+                    (NN chip) (NNS substrates))
+                  (VP (VBG resulting)
+                    (PP (IN in)
+                      (NP
+                        (NP (DT a) (NN reduction))
+                        (PP (IN in)
+                          (NP (NN cost)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (RB hence) (DT the) (NN invention) (NN method))
+      (PP (IN of)
+        (NP (NN test))))
+    (VP (MD may)
+      (VP (VB reduce)
+        (NP
+          (NP (DT the) (JJ overall) (NN cost))
+          (PP (IN of)
+            (NP (DT the) (NN chip))))))
+    (. .)))
+

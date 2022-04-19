@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (NP (NN master) (NNS plans))
+    (VP (VBP do) (RB not)
+      (VP (VB form)
+        (NP
+          (NP (DT the) (NN backbone))
+          (PP (IN of)
+            (NP (DT every) (NN architecture) (NN training) (NN program))))
+        (PP (IN around)
+          (NP (DT the) (NN world)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN on)
+      (NP (DT the) (NN contrary)))
+    (NP (DT that))
+    (VP (MD would)
+      (ADVP (RBS most))
+      (ADVP (RB definitely))
+      (VP (VB be)
+        (NP
+          (NP (DT a) (JJ small) (NN minority))
+          (PP (IN of)
+            (NP (NNS programs))))
+        (NP (DT these) (NNS days))))
+    (. .)))
+

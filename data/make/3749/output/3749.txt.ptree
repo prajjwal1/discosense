@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (NP (PRP he))
+    (VP (VBZ has)
+      (VP (VBN commanded)
+        (S
+          (NP (DT an) (JJ operational) (NN air) (NN base))
+          (VP (VB paf)
+            (NP (NN base) (NNS samungli))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thereafter))
+    (NP (PRP he))
+    (VP (VBD was)
+      (VP
+        (VP (VBN promoted)
+          (PP (TO to)
+            (NP
+              (NP (CD two) (JJ star) (JJ general) (NN rank))
+              (PP (IN in)
+                (NP (NN air) (NN force)))))
+          (PP (IN as)
+            (NP (NN air) (NN vice) (NN marshal))))
+        (CC and)
+        (VP (VBN served)
+          (PP (IN as)
+            (NP (NN director) (JJ general) (NN nab) (NN frontier))))))
+    (. .)))
+

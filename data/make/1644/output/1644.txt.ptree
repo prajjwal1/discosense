@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (S
+      (NP (NN ive))
+      (ADVP (RB already))
+      (VP (VBD posted)
+        (NP (PRP$ my) (NN opinion))
+        (PP (IN on)
+          (NP (DT the) (JJ justin) (NN upton) (NN trade) (NN speculation)))))
+    (, ,)
+    (CC but)
+    (S
+      (SBAR (IN if)
+        (S
+          (NP (NN someone))
+          (VP (VBZ is)
+            (PP (IN after)
+              (S
+                (VP (VBG pitching)
+                  (CC or)
+                  (VBG catching)
+                  (NP (NNS prospects))))))))
+      (, ,)
+      (NP (PRP they))
+      (VP (MD should)
+        (VP (VB be)
+          (VP (VBG calling)
+            (NP (DT the) (NNS jays))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB conversely))
+    (NP (DT the) (NNS jays) (NN front) (NN office))
+    (VP (MD should)
+      (VP (VB be)
+        (VP (VBG shopping)
+          (PP (IN around)
+            (NP (DT these) (JJ marketable) (NNS commodities)))
+          (S
+            (VP (TO to)
+              (VP (VB round)
+                (PRT (RP out))
+                (NP (DT the) (NN system))))))))
+    (. .)))
+

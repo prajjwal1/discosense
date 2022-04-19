@@ -1,0 +1,49 @@
+(ROOT
+  (S
+    (ADVP (RB however))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ is)
+      (ADJP (JJ important)
+        (S
+          (VP (TO to)
+            (VP (VB stress)
+              (SBAR (IN that)
+                (S
+                  (NP (DT this) (NN statistic))
+                  (VP (VBZ is) (RB not)
+                    (NP
+                      (NP (NN representative))
+                      (PP (IN of)
+                        (NP (JJ overall) (NN compliance))))
+                    (PP (IN by)
+                      (NP
+                        (NP (NN api) (NNS manufacturers))
+                        (PP (IN in)
+                          (NP (NN asia)
+                            (CC or)
+                            (NN worldwide)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN contrast)))
+    (NP (DT the) (NNS data))
+    (VP (VBP indicate)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (DT the) (NN triggers))
+            (VP (VBN used)
+              (S
+                (VP (TO to)
+                  (VP (VB select)
+                    (NP (NN inspection) (NNS sites))
+                    (PP (VBN based)
+                      (PP (IN on)
+                        (NP (NN risk)))))))))
+          (VP (VBP are)
+            (ADJP (JJ effective))))))
+    (. .)))
+

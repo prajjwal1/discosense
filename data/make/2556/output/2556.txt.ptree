@@ -1,0 +1,57 @@
+(ROOT
+  (S
+    (PP (IN after)
+      (NP
+        (NP (NN aggregation))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (NNS nanoparticles))
+            (CC and)
+            (NP (DT the) (VBG encapsulating) (NN medium))))))
+    (, ,)
+    (NP (DT the) (NN aggregate))
+    (VP (MD may)
+      (VP (VB be)
+        (VP (VBN subjected)
+          (PP (TO to)
+            (NP (DT a) (JJ further) (NN treatment) (NN step)))
+          (S
+            (VP (TO to)
+              (VP (VB improve)
+                (NP
+                  (NP (DT the) (JJ physical) (NNS characteristics))
+                  (PP (IN of)
+                    (NP (DT the) (NN aggregate))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP
+        (NP (NN example))
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP (DT the) (VBG encapsulating) (NN medium))
+            (VP
+              (VP (VBZ includes))
+              (CC or)
+              (VP (VBZ consists)
+                (ADVP (RB essentially))
+                (PP (IN of)
+                  (NP (DT an) (NN epoxy)))))))))
+    (, ,)
+    (NP (DT the) (JJ further) (NN treatment) (NN step))
+    (VP (MD may)
+      (VP
+        (VP (VB include))
+        (CC or)
+        (VP (VB consist)
+          (ADVP (RB essentially))
+          (PP (IN of)
+            (S
+              (VP (VBG crosslinking)
+                (PP (IN of)
+                  (NP (DT the) (NN epoxy) (VBG encapsulating) (NN medium)))))))))
+    (. .)))
+

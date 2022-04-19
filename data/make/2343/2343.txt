@@ -1,0 +1,1 @@
+infolink is a feature that allows a user to quickly access information from the internet. in contrast dlna is a feature that lets you store, control, and display your media on different networked devices.

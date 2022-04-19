@@ -1,0 +1,55 @@
+(ROOT
+  (S
+    (ADVP (RB vishmehr))
+    (, ,)
+    (NP
+      (NP (RB nowhere))
+      (PP (IN in)
+        (NP
+          (NP (DT the) (NN scripture)
+            (CC or)
+            (NN tradition))
+          (PP (IN of)
+            (NP (DT the) (NN church))))))
+    (VP (VBP do)
+      (SBAR
+        (S
+          (NP (FW i))
+          (VP (VBP find)
+            (NP
+              (NP (DT any) (NN warrant))
+              (PP (IN for)
+                (NP (DT the) (NN idea))))
+            (SBAR (IN that)
+              (S
+                (NP (PRP we))
+                (VP (MD ought)
+                  (S
+                    (VP (TO to)
+                      (VP (VB lie)
+                        (PRT (RP down))
+                        (PP (IN beside)
+                          (NP
+                            (NP (NN faramir))
+                            (PP (IN on)
+                              (NP (DT the) (NN pyre)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN on)
+      (NP (DT the) (NN contrary)))
+    (NP (EX there))
+    (VP (VBZ is)
+      (NP
+        (NP (DT all) (NNS sorts))
+        (PP (IN of)
+          (NP
+            (NP (NN warrant))
+            (PP (IN for)
+              (S
+                (VP (VBG dragging)
+                  (NP (PRP him))
+                  (PRT (RP off)))))))))
+    (. .)))
+

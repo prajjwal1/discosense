@@ -1,0 +1,48 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (JJ recent) (NNS years)))
+    (, ,)
+    (PP (IN with)
+      (NP
+        (NP (NNS countries))
+        (PP (JJ such) (IN as)
+          (NP
+            (NP (NN china) (, ,) (NN india) (, ,)
+              (CC and)
+              (NN brazil))
+            (VP (VBG taking)
+              (NP (PRP$ their) (JJ rightful) (NN place))
+              (PP (IN on)
+                (NP (DT the) (JJ international) (NN scene))))))))
+    (, ,)
+    (NP (DT the) (NNP g) (CD 7))
+    (VP (VBZ has)
+      (VP (VBN given)
+        (NP (NN way))
+        (PP (TO to)
+          (NP (DT the) (NN g) (CD 20)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB likewise))
+    (NP
+      (NP (DT an) (JJ ambitious) (NN reform))
+      (PP (IN of)
+        (NP (DT the) (JJ international) (JJ monetary) (NN fund))))
+    (VP (VBD was)
+      (VP (VBN adopted)
+        (PP (IN in)
+          (NP (CD 2010)))
+        (S
+          (VP (TO to)
+            (VP (VB reflect)
+              (NP (NNS changes))
+              (PP (IN in)
+                (NP
+                  (NP (DT the) (JJ global) (NN distribution))
+                  (PP (IN of)
+                    (NP (NN power))))))))))
+    (. .)))
+

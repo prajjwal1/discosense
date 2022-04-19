@@ -1,0 +1,67 @@
+(ROOT
+  (S
+    (VP
+      (VP (VB take)
+        (NP
+          (NP (NN advantage))
+          (PP (IN of)
+            (NP
+              (NP (DT the) (NN fact))
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (VP (VBP youre)
+                    (ADJP (JJ able)
+                      (S
+                        (VP (TO to)
+                          (VP (VB bid)
+                            (PP (IN on)
+                              (NP (NNS categories))))))))))))))
+      (CC and)
+      (VP (VB narrow)
+        (S
+          (NP (DT this))
+          (VP (TO to)
+            (VP (VB be)
+              (VP
+                (ADVP (RB as) (RB closely))
+                (VBN tied)
+                (PP (TO to)
+                  (NP
+                    (NP (PRP$ your) (NNS products))
+                    (ADJP (RB as) (JJ possible))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB otherwise))
+      (NP (PRP$ your) (NNS products))
+      (VP (VBP are)
+        (VP (VBG going)
+          (S
+            (VP (TO to)
+              (VP (VB be)
+                (PP (IN in)
+                  (NP
+                    (NP (RB much) (JJR bigger))
+                    (, ,)
+                    (NP (JJR more) (JJ general) (NNS buckets))))))))))
+    (CC and)
+    (S
+      (NP (PRP you))
+      (VP (MD could)
+        (VP (VB end)
+          (PRT (RP up))
+          (S
+            (VP (VBG spending)
+              (NP (JJR more) (NN budget))
+              (PP (IN than)
+                (S
+                  (VP (VBN needed)
+                    (PP (IN with)
+                      (NP
+                        (QP (JJR less) (IN than) (CD optimal))
+                        (NNS results)))))))))))
+    (. .)))
+

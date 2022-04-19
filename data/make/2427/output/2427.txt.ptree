@@ -1,0 +1,27 @@
+(ROOT
+  (S (CC but)
+    (S
+      (NP (DT that))
+      (VP (VBD was)
+        (ADVP (RB simply))
+        (NP (DT an) (JJ alien) (NN concept))
+        (PP (TO to)
+          (NP (DT the) (JJ churchs) (JJ political) (NN braintrust)))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (DT the) (NNS results))
+      (VP (VBP speak)
+        (PP (IN for)
+          (NP (PRP themselves)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN as)
+      (NP (DT a) (NN result)))
+    (NP (DT all) (NNS people))
+    (VP (VBP suffer)
+      (NP (DT the) (JJ financial) (NNS consequences)))
+    (. .)))
+

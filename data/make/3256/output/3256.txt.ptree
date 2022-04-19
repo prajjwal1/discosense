@@ -1,0 +1,60 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (JJ other) (NNS words)))
+    (PRN (, ,)
+      (S
+        (NP (NN romney))
+        (VP (VBZ is) (RB not)
+          (ADVP (RB only))
+          (VP (VBG expressing)
+            (NP (NN contempt))
+            (PP (IN for)
+              (NP
+                (NP
+                  (QP (RB nearly) (PDT half)))
+                (PP (IN of)
+                  (NP (DT the) (NN american) (NN population))))))))
+      (, ,))
+    (NP (PRP he))
+    (VP (VBP doesnt) (RB even)
+      (VP (VB seem)
+        (S
+          (VP (TO to)
+            (VP (VB understand)
+              (NP
+                (NP (DT those) (NN hes))
+                (VP (VBG condemning))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN on)
+      (NP (DT the) (NN contrary)))
+    (NP (DT the) (NN republican) (NN candidate))
+    (VP (VBZ seems)
+      (S
+        (VP (TO to)
+          (VP (VB believe)
+            (SBAR
+              (S
+                (NP (DT these) (NNS americans))
+                (VP (VBP are)
+                  (NP
+                    (NP (JJ indolent) (NNS schemers))
+                    (VP (VBG trying)
+                      (S
+                        (VP (TO to)
+                          (VP (VB get)
+                            (PRT (RP away))
+                            (PP (IN with)
+                              (NP
+                                (NP (NN something))
+                                (, ,)
+                                (SBAR
+                                  (WHNP (WDT which))
+                                  (S
+                                    (VP (VBZ is)
+                                      (ADJP (RB demonstrably) (JJ ridiculous)))))))))))))))))))
+    (. .)))
+

@@ -1,0 +1,53 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP
+        (NP (DT the) (NN course))
+        (PP (IN of)
+          (S
+            (VP (VBG pursuing)
+              (NP
+                (NP (NN independence))
+                (PP (IN in)
+                  (NP (PRP$ its) (JJ nuclear) (NN fuel) (NN cycle))))
+              (PP (IN through)
+                (NP (DT the) (CD 1970s)
+                  (CC and)
+                  (CD 80s))))))))
+    (NP (NN brazil))
+    (VP (VBD had)
+      (ADVP (RB firmly))
+      (VP (VBN denied)
+        (NP
+          (NP (NNS aspirations))
+          (PP (IN for)
+            (NP (JJ nuclear) (NNS weapons))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nevertheless))
+    (NP (DT the) (NN usa))
+    (VP (VBD was)
+      (ADJP (JJ active)
+        (PP (IN in)
+          (S
+            (VP (VBG attempting)
+              (S
+                (VP (TO to)
+                  (VP (VB counter)
+                    (NP (DT the) (JJ countrys) (NN agreement))
+                    (PP (IN with)
+                      (NP (JJ west) (NN germany)))
+                    (SBAR (IN because)
+                      (S
+                        (NP (PRP it))
+                        (VP (VBD included)
+                          (NP
+                            (NP (DT the) (NN possibility))
+                            (PP (IN of)
+                              (S
+                                (VP (VBG supplying)
+                                  (NP (JJ enrichment) (NN technology)))))))))))))))))
+    (. .)))
+

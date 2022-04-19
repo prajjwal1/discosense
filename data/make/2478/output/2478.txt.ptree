@@ -1,0 +1,55 @@
+(ROOT
+  (S
+    (NP
+      (NP (NN note))
+      (, ,)
+      (NP (PRP$ its)
+        (NP (DT an)
+          (ADJP (JJ old))
+          (NN book))))
+    (VP (VBD published)
+      (ADVP
+        (NP (CD 11) (NNS years))
+        (RB ago))
+      (, ,)
+      (S
+        (NP
+          (NP (PRP$ its) (NNS events))
+          (VP (VBG taking)
+            (NP
+              (NP (NN place))
+              (PP (IN between)
+                (NP (CD 1965) (TO to) (CD 1975))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (ADVP (RB consequently))
+      (IN if)
+      (S
+        (NP (PRP you))
+        (VP (VBP want)
+          (S
+            (VP (TO to)
+              (VP (VB get)
+                (NP
+                  (NP (DT a) (NN copy) (NN youll))
+                  (SBAR
+                    (S
+                      (NP (DT no) (NN doubt))
+                      (VP (VBP have)
+                        (S
+                          (VP (TO to)
+                            (VP (VB order)
+                              (NP (PRP it)))))))))))))))
+    (, ,)
+    (NP (PRP$ your) (JJ local) (NN book) (NN store))
+    (VP (VBZ is) (RB not)
+      (ADJP (JJ likely)
+        (S
+          (VP (TO to)
+            (VP (VB have)
+              (NP (PRP it)))))))
+    (. .)))
+

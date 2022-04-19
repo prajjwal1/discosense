@@ -1,0 +1,2 @@
+conn:then conn_POS:RB prev1:but prev1_POS:CC with_prev1_full:but_then with_prev1_POS_full:CC_RB prev2:assessment prev2_POS:NN with_prev2_full:assessment_then with_prev2_POS_full:NN_RB NA
+conn:as_a_result conn_POS:IN_DT_NN sent_pos:0 NA

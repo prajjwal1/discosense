@@ -1,0 +1,51 @@
+(ROOT
+  (S
+    (NP (DT these) (NNS interpretations))
+    (VP (VBP make)
+      (S
+        (NP (DT the) (NN segmentation) (NN process))
+        (ADJP (RBR more) (JJ reliable)))
+      (, ,)
+      (PP (IN by)
+        (S
+          (VP
+            (VP (VBG indicating) (, ,)
+              (PP (IN for)
+                (NP (NN example)))
+              (, ,)
+              (SBAR
+                (WHADVP (WRB when))
+                (S
+                  (NP (NNS regions))
+                  (VP (MD may)
+                    (VP (VB be)
+                      (ADJP (VBN merged)))))))
+            (CC or)
+            (VP (MD should)
+              (VP (VB be)
+                (VP (VBN split))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP (NN example)))
+    (NP (DT the) (NN system))
+    (VP (VBZ has)
+      (VP (VBN colored)
+        (NP (NNS regions))
+        (SBAR (IN that)
+          (S
+            (NP (PRP it))
+            (VP (VBZ has)
+              (VP (VBN hypothesized) (, ,)
+                (S
+                  (VP (VBG using)
+                    (NP (NN interpretation) (NNS rules))))
+                (, ,)
+                (S
+                  (VP (TO to)
+                    (VP (VB be)
+                      (ADJP (JJ shutters)))))))))))
+    (. .)))
+

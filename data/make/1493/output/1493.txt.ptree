@@ -1,0 +1,33 @@
+(ROOT
+  (S (CC but)
+    (PP (IN unlike)
+      (NP (DT either) (NN dc)
+        (CC and)
+        (NN marvel)))
+    (, ,)
+    (NP (DT the) (JJ red) (NN panda) (NN universe))
+    (VP (VBZ has) (RB all)
+      (VP (VBN been)
+        (VP (VBN written)
+          (PP (IN by)
+            (NP
+              (NP (CD one) (NN man))
+              (, ,)
+              (NP (VBG greg) (NN taylor)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB because) (IN of)
+      (NP (DT that)))
+    (NP (PRP it))
+    (VP (VBZ has)
+      (NP
+        (NP (DT a) (NN consistency))
+        (PP (IN like)
+          (NP
+            (NP (DT the) (JJS best) (NNS seasons))
+            (PP (IN of)
+              (NP (NN babylon) (CD 5)))))))
+    (. .)))
+

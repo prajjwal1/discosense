@@ -1,0 +1,48 @@
+(ROOT
+  (S
+    (S
+      (NP (DT this) (JJ completely) (NN mis))
+      (VP (VBZ states)
+        (NP (DT the) (JJ catholic) (NN position))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (FW i))
+      (VP (VBP think)
+        (S
+          (NP (PRP it))
+          (ADJP
+            (ADJP (RB much) (RB too) (JJ harsh))
+            (PP (IN for)
+              (NP
+                (NP (NN someone))
+                (SBAR
+                  (WHNP (WP who))
+                  (S (, ,)
+                    (PP (IN in)
+                      (NP (DT the) (JJ final) (NN analysis)))
+                    (, ,)
+                    (VP (VBZ agrees)
+                      (PP (IN with)
+                        (NP
+                          (NP (PRP$ your) (NN position))
+                          (PP (IN on)
+                            (NP (NN anti) (VBG aging))))))))))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (PP (IN in)
+      (NP (NN sum)))
+    (VP (VBP youre)
+      (S
+        (VP (VBG creating)
+          (NP (DT an) (NN enemy)))))
+    (SBAR
+      (WHADVP (WRB when))
+      (S
+        (NP (EX there))
+        (VP (VBZ is)
+          (NP (NN none)))))
+    (. .)))
+

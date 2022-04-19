@@ -1,0 +1,49 @@
+(ROOT
+  (S
+    (NP (NN mr))
+    (VP (VBP maude)
+      (SBAR
+        (S
+          (NP (JJ open) (NN source) (NN software))
+          (VP (MD can)
+            (VP (VB deliver)
+              (NP (JJ significant) (NNS savings))))))
+      (, ,)
+      (SBAR (IN as)
+        (S
+          (VP (VBD indicated)
+            (PP (IN by)
+              (NP (NN evidence)))
+            (PP (IN from)
+              (NP (PDT both) (DT the) (JJ public)
+                (CC and)
+                (JJ private) (NNS sectors)))
+            (, ,)
+            (PP (IN in)
+              (NP (DT the) (NN uk)
+                (CC and)
+                (RB overseas)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB however))
+      (NP (PRP it))
+      (VP (VBZ is) (RB not)
+        (ADVP (RB always))
+        (NP (DT the) (JJS best) (NN solution))))
+    (, ,)
+    (CC and)
+    (S
+      (NP
+        (NP (RB as) (PDT such) (DT the) (NN scenario))
+        (PP (IN of)
+          (S
+            (VP (VBG replacing)
+              (NP (DT all) (NN software))))))
+      (VP (VBZ has) (RB not)
+        (VP (VBN been)
+          (VP (VBN costed)))))
+    (. .)))
+

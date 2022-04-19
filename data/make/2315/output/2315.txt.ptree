@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (PP (IN after)
+      (NP (JJ radical) (NN prostatectomy)))
+    (, ,)
+    (NP (PRP it))
+    (VP
+      (VP (VBZ is)
+        (ADVP (RB habitually))
+        (VP (VBN caused)
+          (PP (IN by)
+            (NP (NN bladder) (NN cancer)
+              (CC or)
+              (NN infection)))))
+      (CC and)
+      (VP (VBZ is)
+        (ADVP (RB almost))
+        (VP
+          (ADVP (RB never))
+          (VBN related)
+          (PP (TO to)
+            (NP (NN prostate) (NN cancer))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN on)
+      (NP
+        (NP (DT the) (NN contrary))
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP (DT the) (JJ primary) (NN treatment))
+            (VP (VBZ is) (RB not)
+              (ADJP (JJ radical)))))))
+    (NP (NN surgery) (NN gh))
+    (VP (VBZ is)
+      (ADJP
+        (ADVP (RBS most) (RB commonly))
+        (JJ due)
+        (S
+          (VP (TO to)
+            (VP (VB cap)
+              (NP (PRP itself)))))))
+    (. .)))
+

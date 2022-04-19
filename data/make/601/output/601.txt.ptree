@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (ADVP (RB hence))
+    (, ,)
+    (NP (PRP$ its)
+      (ADJP (JJ hard) (RB not)
+        (S
+          (VP (TO to)
+            (VP (VB ask)
+              (SBAR (IN if)
+                (S
+                  (NP (DT some) (JJ poor) (JJ overworked) (NN editor))
+                  (VP (VBP isnt)
+                    (S
+                      (VP (VBG channeling)
+                        (NP
+                          (NP (DT the) (NN spirit))
+                          (PP (IN of)
+                            (NP (NN max) (NN bialystock)
+                              (CC and)
+                              (NN offering) (NNS contracts))))
+                        (PP (IN for)
+                          (NP (DT the) (NN science))))))))))))
+      (NN fiction) (NN equivalent))
+    (VP (VBP ofspringtime)
+      (PP (IN for)
+        (NP (NN hitler))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (RB hence) (DT this) (NN viper) (NN fish))
+    (PP (IN of)
+      (NP
+        (NP (DT a) (NN title))
+        (PP (IN in)
+          (NP (DT the) (NN rack)))
+        (NP (DT this) (NN morning))))
+    (. .)))
+

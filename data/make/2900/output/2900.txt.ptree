@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (ADVP
+      (PP (IN from)
+        (NP (DT that) (NN point)))
+      (IN on))
+    (, ,)
+    (NP
+      (NP (DT all) (NNS messages))
+      (VP (VBN sent)
+        (PP (IN from)
+          (NP (DT that) (NN country) (NN code)))
+        (PP (TO to)
+          (NP (PRP$ his) (NN handset)))))
+    (VP (MD can)
+      (VP (VB be)
+        (VP (VBN translated))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB conversely))
+    (NP (DT the) (JJ originating) (NN subscriber))
+    (VP (MD can)
+      (VP (VB register)
+        (SBAR (RB so) (IN that)
+          (S
+            (NP
+              (NP (DT all) (NNS messages))
+              (VP (VBG originating)
+                (PP (IN from)
+                  (NP
+                    (NP (PRP him))
+                    (, ,)
+                    (VP (VBN destined)
+                      (PP (TO to)
+                        (NP (JJ specific) (NN country) (NNS codes))))))))
+            (VP (MD may)
+              (VP (VB be)
+                (VP (VBN translated))))))))
+    (. .)))
+

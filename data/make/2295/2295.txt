@@ -1,0 +1,1 @@
+they simply want to use the objects and forget about them prior to getting the next object from the iterator. thus i see no need to return pointers to objects allocated in the heap.

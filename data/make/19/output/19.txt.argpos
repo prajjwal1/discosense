@@ -1,0 +1,2 @@
+conn:when conn_POS:WRB sent_pos:0 NA
+conn:thus conn_POS:RB sent_pos:0 NA

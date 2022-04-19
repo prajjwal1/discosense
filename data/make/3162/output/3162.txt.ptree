@@ -1,0 +1,59 @@
+(ROOT
+  (S
+    (NP (DT the) (NN investigation))
+    (ADVP (RB also))
+    (VP (VBD determined)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (NNS allegations))
+            (SBAR (IN that)
+              (S
+                (NP (NN union) (NNS officers))
+                (VP (VBN campaigned)
+                  (PP
+                    (PP (IN at)
+                      (NP (DT the) (NN union) (NN hall)))
+                    (CC or)
+                    (PP (IN at)
+                      (NP
+                        (NP (NNS worksites))
+                        (PP (IN on)
+                          (NP (NN union) (NN time))))))))))
+          (VP (VBD were)
+            (ADJP
+              (ADJP (JJ unsupported))
+              (CC and)
+              (ADJP (RB sometimes) (JJ contradicted)))
+            (PP (IN by)
+              (NP (DT the) (NN evidence)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP (NN example)))
+    (NP
+      (NP (DT a) (NN challenger))
+      (PP (TO to)
+        (NP (JJ incumbent))))
+    (VP
+      (VP (VBD lost)
+        (NP (DT the) (NN election)))
+      (, ,)
+      (CC but)
+      (VP (VBD stated)
+        (SBAR (IN that)
+          (S
+            (NP (PRP he))
+            (ADVP (RB never))
+            (VP (VBD saw)
+              (NP (NN payan)
+                (CC or)
+                (JJ other) (NN union) (NNS officials))
+              (S
+                (VP (VBG campaigning)
+                  (PP (IN on)
+                    (NP (NN union) (NN time))))))))))
+    (. .)))
+

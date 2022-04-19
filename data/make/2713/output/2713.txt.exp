@@ -1,0 +1,5 @@
+conn_lc:while conn:while conn_POS:IN xxx£
+conn_lc:if conn:if conn_POS:IN with_prev_full:only_if xxx£
+conn_lc:and conn:and conn_POS:CC with_prev_full:iphone_and xxx£
+conn_lc:otherwise conn:otherwise conn_POS:RB xxx£
+conn_lc:yet conn:yet conn_POS:RB with_prev_full:dont_yet xxx£

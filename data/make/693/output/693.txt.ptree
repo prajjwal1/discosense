@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (NP (DT the) (NN bill))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the)
+          (ADJP (RBS most) (JJ important))
+          (NN piece))
+        (PP (IN of)
+          (NP
+            (NP (NN education) (NN legislation))
+            (PP (IN in)
+              (NP (DT a) (NN generation)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB therefore))
+    (NP (PRP it))
+    (VP (VBZ is)
+      (ADJP (JJ important))
+      (SBAR
+        (SBAR (IN that)
+          (S
+            (NP (PRP we))
+            (VP (VBP get)
+              (S
+                (NP (PRP it))
+                (ADJP (RB right))))))
+        (CC and)
+        (SBAR (IN that)
+          (S
+            (NP (DT the) (NN bill))
+            (VP (VBZ commands)
+              (NP (DT the)
+                (ADJP (JJS broadest) (JJ possible))
+                (NN consensus)))))))
+    (. .)))
+

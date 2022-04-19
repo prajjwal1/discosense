@@ -1,0 +1,48 @@
+(ROOT
+  (S
+    (ADVP (RB however))
+    (, ,)
+    (NP (DT each) (JJ nutrient) (NN test) (NN meal))
+    (VP (VBZ is)
+      (VP (VBN represented)
+        (PP (IN by)
+          (NP
+            (NP
+              (QP (IN at) (JJS least) (CD 8))
+              (NNS recordings))
+            (SBAR
+              (WHPP (IN in)
+                (WHNP (WDT which)))
+              (S
+                (NP (NN nausea))
+                (VP (VBD was)
+                  (VP (VBN reported)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB specifically))
+    (NP (CD eight) (NNS women))
+    (VP (VBD ingested)
+      (NP
+        (NP (DT the) (JJ liquid) (NN protein))
+        (, ,)
+        (NP (JJ liquid) (NN carbohydrate))
+        (, ,)
+        (NP (JJ solid) (NN carbohydrate))
+        (, ,)
+        (NP (JJ solid) (NN fat))
+        (, ,)
+        (CC and)
+        (NP (JJ inert) (NNS meals)))
+      (, ,)
+      (SBAR (IN whereas)
+        (S
+          (NP (CD nine) (NNS women))
+          (VP (VBD ingested)
+            (NP
+              (NP (DT the) (JJ solid) (NN protein))
+              (CC and)
+              (NP (JJ liquid) (JJ fat) (NNS meals)))))))
+    (. .)))
+

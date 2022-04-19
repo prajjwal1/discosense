@@ -1,0 +1,49 @@
+(ROOT
+  (S
+    (NP (JJ agricultural) (NNS species))
+    (VP (VBP are)
+      (ADVP (RB often))
+      (VP (VBN selected)
+        (S
+          (VP (TO to)
+            (VP (VB have)
+              (NP
+                (NP (DT a) (JJ predictable) (VBG flowering) (NN time))
+                (, ,)
+                (NP
+                  (NP (DT a) (JJ predictable) (NN seed) (NN size))
+                  (CC and)
+                  (NP
+                    (NP (DT a) (JJ predictable) (NN degree))
+                    (PP (IN of)
+                      (NP
+                        (NP (NN tolerance))
+                        (PP (IN for)
+                          (NP (NN drought)))))))
+                (, ,)
+                (NP (NN salt))
+                (, ,)
+                (CC or)
+                (NP (JJ heavy) (NNS metals))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN by)
+      (NP (NN contrast)))
+    (NP (JJ wild) (NNS species))
+    (VP (VBP retain)
+      (NP
+        (NP (DT a)
+          (ADJP (RB much) (JJR greater))
+          (NN degree))
+        (PP (IN of)
+          (NP
+            (NP (JJ genetic) (NN diversity))
+            (PP (IN in)
+              (NP
+                (NP (DT all))
+                (PP (IN of)
+                  (NP (DT these) (NNS traits)))))))))
+    (. .)))
+

@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (NP (PDT such) (DT a) (NN study))
+    (VP (VBZ does) (RB not)
+      (VP (VB fall)
+        (PP (IN within)
+          (NP
+            (NP (DT the) (NN scope))
+            (PP (IN of)
+              (NP (DT this) (NN paper)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB consequently))
+    (NP (PRP we))
+    (VP (VBD used)
+      (NP (JJ major) (NNS roads) (NNS data))
+      (PP (IN for)
+        (NP
+          (NP (NN sadc))
+          (, ,)
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (VP (VBZ includes)
+                (NP
+                  (NP (JJ high) (NN speed))
+                  (, ,)
+                  (NP (JJ hard) (NN surface))
+                  (, ,)
+                  (NP (NN gravel))
+                  (, ,)
+                  (NP (NN track))
+                  (CC or)
+                  (NP (NN trail) (, ,) (NN undifferentiated)
+                    (CC and)
+                    (JJ unsurfaced) (NN road) (NNS types)))))))))
+    (. .)))
+

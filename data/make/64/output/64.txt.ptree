@@ -1,0 +1,51 @@
+(ROOT
+  (S
+    (NP (NN ginger))
+    (VP (VBD offered)
+      (NP (JJR better) (NN protection))
+      (PP (IN against)
+        (NP
+          (NP (NN nausea))
+          (VP (VBN induced)
+            (PP (IN by)
+              (NP (JJ circular) (NN vection))))))
+      (, ,)
+      (PP (VBN compared)
+        (PP (IN with)
+          (NP (NN dimenhydrinate)
+            (CC and)
+            (NN placebo)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN contrast)))
+    (NP (NN stewart)
+      (CC and)
+      (NNS colleagues))
+    (VP (VBD conducted)
+      (SBAR
+        (S
+          (NP (DT a) (NN placebo))
+          (VP
+            (VP (VBD controlled)
+              (NP (NN study)))
+            (CC and)
+            (VP (VBD reported)
+              (SBAR (IN that)
+                (S
+                  (NP
+                    (NP (NN none))
+                    (PP (IN of)
+                      (NP (DT the) (NN ginger) (NNS preparations))))
+                  (VP (VBD provided)
+                    (NP (NN protection))
+                    (PP (IN against)
+                      (NP (NN motion) (NN sickness)))
+                    (, ,)
+                    (PP (VBN compared)
+                      (PP (IN with)
+                        (NP (NN placebo))))))))))))
+    (. .)))
+

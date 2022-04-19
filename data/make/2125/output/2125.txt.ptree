@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (VP (VB use)
+      (S
+        (VP (VBG writing)
+          (PP (IN as)
+            (NP (DT a) (NN math) (NN tool))))))
+    (. .)))
+
+(ROOT
+  (S (IN for)
+    (NP (NN example))
+    (VP (VBP work)
+      (ADVP (RB together))
+      (S
+        (VP (TO to)
+          (VP (VB write)
+            (NP
+              (ADJP (JJ funny) (, ,) (JJ challenging) (, ,) (JJ beneficial))
+              (NN word) (NNS problems))))))
+    (. .)))
+

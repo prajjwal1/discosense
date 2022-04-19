@@ -1,0 +1,2 @@
+conn:on_the_other_hand conn_POS:IN_DT_JJ_NN sent_pos:0 NA
+conn:before conn_POS:IN prev1:worry prev1_POS:VBP with_prev1_full:worry_before with_prev1_POS_full:VBP_IN prev2:who prev2_POS:WP with_prev2_full:who_before with_prev2_POS_full:WP_IN NA

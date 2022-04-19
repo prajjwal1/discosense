@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (ADVP (RB apart)
+      (PP (IN from)
+        (NP
+          (NP (NNS applications))
+          (VP (VBG dealing)
+            (PP (IN with)
+              (NP (DT the) (NN beam) (NNS modifiers)))))))
+    (, ,)
+    (NP (CD two) (JJ patient) (NNS cases))
+    (VP (VBP are)
+      (VP (VBN shown)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thereby))
+    (NP (NNS comparisons))
+    (VP (VBP are)
+      (VP (VBN performed)
+        (PP (IN between)
+          (NP
+            (NP (JJ mc) (JJ calculated) (NN dose) (NNS distributions))
+            (CC and)
+            (NP
+              (NP (DT those))
+              (VP (VBN calculated)
+                (PP (IN by)
+                  (NP
+                    (NP (DT a) (NN pencil) (NN beam))
+                    (CC or)
+                    (NP (DT the) (NN aaa) (NN algorithm))))))))))
+    (. .)))
+

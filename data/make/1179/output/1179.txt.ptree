@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (NP (DT these) (NNS changes))
+    (VP (VBP suggest)
+      (SBAR (IN that)
+        (S
+          (NP (PRP it))
+          (VP (MD might)
+            (VP (VB be)
+              (ADJP (JJ fruitful)
+                (S
+                  (VP (TO to)
+                    (VP (VB re)
+                      (VP (VB examine)
+                        (NP
+                          (NP (DT the) (NNS issues))
+                          (PP (IN of)
+                            (NP (NN place)
+                              (CC and)
+                              (NN space))))
+                        (PP (IN in)
+                          (NP
+                            (NP (NN light))
+                            (PP (IN of)
+                              (NP (JJ recent) (NNS developments)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (ADJP (JJ particular)))
+    (NP
+      (NP (DT the) (NN nature))
+      (PP (IN of)
+        (NP (NN space)
+          (CC and)
+          (NN spatiality))))
+    (VP (VBP deserve)
+      (NP (JJ further) (NN consideration)))
+    (. .)))
+

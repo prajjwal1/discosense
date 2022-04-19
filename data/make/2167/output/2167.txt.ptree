@@ -1,0 +1,48 @@
+(ROOT
+  (S
+    (NP (JJ experienced) (NNS players))
+    (VP (MD will)
+      (VP (VB enjoy)
+        (NP
+          (NP (DT the) (NNS challenges))
+          (PP (IN of)
+            (NP (DT the) (JJ new) (NN badge) (NN system))))
+        (PP (IN for)
+          (NP
+            (NP (DT every) (NN bridge))
+            (SBAR
+              (S
+                (NP (EX there))
+                (VP (VBP are)
+                  (NP
+                    (NP (CD 5) (NNS badges))
+                    (SBAR
+                      (S
+                        (VP (TO to)
+                          (VP (VB be)
+                            (VP (VBN won)
+                              (PP (IN for)
+                                (SBAR
+                                  (WHNP (WDT which))
+                                  (S
+                                    (NP (PRP you))
+                                    (VP (MD must)
+                                      (VP (VB fulfill)
+                                        (NP (JJ certain) (NNS requirements))))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP
+        (NP (NN example))
+        (VP (VBG building)
+          (NP (DT a) (NN bridge)))))
+    (NP (DT that))
+    (VP (MD can)
+      (VP (VB carry)
+        (ADVP (DT no) (RBR more))
+        (PP (IN than)
+          (NP (DT a) (JJ certain) (NN load) (NN limit)))))
+    (. .)))
+

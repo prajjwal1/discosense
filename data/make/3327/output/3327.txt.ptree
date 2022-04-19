@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (NP (PRP it))
+    (VP (VBZ seems)
+      (ADJP
+        (ADVP (NN kind) (IN of))
+        (JJ weak)
+        (PRN (, ,)
+          (CC but)
+          (ADVP (RB only))))
+      (SBAR (IN because)
+        (S
+          (NP (PRP it))
+          (VP (VBP doesnt)
+            (VP (VB have)
+              (NP
+                (NP (DT the) (JJ dramatic) (NN oomph))
+                (PP (IN of)
+                  (NP (NN tv) (NN reality)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB instead))
+    (NP (PRP it))
+    (VP (VBZ feels)
+      (NP (JJR more))
+      (PP (IN like)
+        (NP
+          (NP (NN something))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (ADVP (RB actually))
+              (VP (MD could)
+                (VP (VB happen)
+                  (PP (IN in)
+                    (NP (JJ mundane) (JJ real) (NN life))))))))))
+    (. .)))
+

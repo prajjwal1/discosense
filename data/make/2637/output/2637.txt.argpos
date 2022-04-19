@@ -1,0 +1,2 @@
+conn:in_other_words conn_POS:IN_JJ_NNS sent_pos:0 NA
+conn:when conn_POS:WRB prev1:confidence prev1_POS:NN with_prev1_full:confidence_when with_prev1_POS_full:NN_WRB prev2:less prev2_POS:CC with_prev2_full:less_when with_prev2_POS_full:CC_WRB NA

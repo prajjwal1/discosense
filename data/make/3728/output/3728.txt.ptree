@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (NN francization))
+      (PP (IN of)
+        (NP (JJ dutch) (NNS speakers))))
+    (VP (VBD became)
+      (ADJP
+        (ADJP (JJR more))
+        (CC and)
+        (ADJP (RBR more) (JJ rare)))
+      (PP (IN with)
+        (NP (NN time))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nonetheless))
+    (NP (JJ foreign) (NN immigration))
+    (VP (VBD continued)
+      (S
+        (VP (TO to)
+          (VP (VB tilt)
+            (NP (DT the) (NN balance))
+            (PP (IN in)
+              (NP
+                (NP (NN favor))
+                (PP (IN of)
+                  (NP (NNP french)))))))))
+    (. .)))
+

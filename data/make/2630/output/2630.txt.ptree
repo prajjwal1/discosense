@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (JJ final) (NN step))
+      (PP (IN in)
+        (NP
+          (NP (DT the) (NN assembly))
+          (PP (IN of)
+            (NP (DT the) (NN splint))))))
+    (ADVP (RB simply))
+    (VP (VBZ involves)
+      (S
+        (VP (VBG attaching)
+          (S
+            (NP (DT the) (NN contact) (NN fastener))
+            (NP (NNS straps) (CD 30) (, ,) (CD 32) (, ,)
+              (CC and)
+              (CD 34)))
+          (ADVP (IN along)
+            (PP (IN with)
+              (NP
+                (NP (DT the) (NNS patches))
+                (NP (CD 35) (, ,) (CD 38) (, ,)
+                  (CC and)
+                  (CD 40))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thereafter))
+    (NP (DT the) (NN splint))
+    (VP (VBZ is)
+      (ADJP (JJ ready)
+        (PP (IN for)
+          (NP (NN use)))))
+    (. .)))
+

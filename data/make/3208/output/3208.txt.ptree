@@ -1,0 +1,45 @@
+(ROOT
+  (S
+    (NP (JJ similar) (NNS results))
+    (VP (VBD were)
+      (VP (VBN found)
+        (PP (IN in)
+          (NP
+            (NP (CD two) (JJ representative) (NNS studies))
+            (PP (IN among)
+              (NP
+                (ADJP
+                  (NP
+                    (QP (CD 16) (TO to) (CD 20))
+                    (NN year))
+                  (JJ old))
+                (NNS danes)))))
+        (PP (IN from)
+          (NP (CD 1984)
+            (CC and)
+            (CD 1989)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN sum)))
+    (NP
+      (NP (DT a) (NN decrease))
+      (PP (IN in)
+        (NP
+          (NP (DT the) (JJ average) (NN age))
+          (PP (IN at)
+            (NP (JJ coital) (NN debut))))))
+    (VP (VBD took)
+      (NP (NN place))
+      (PP (IN before)
+        (NP (CD 1980)))
+      (, ,)
+      (PP (IN with)
+        (NP
+          (NP (DT no) (JJ real) (NN change))
+          (PP (IN in)
+            (NP (JJ recent) (NNS decades))))))
+    (. .)))
+

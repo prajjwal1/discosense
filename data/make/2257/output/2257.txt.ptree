@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (NN field))
+      (PP (IN of)
+        (NP (NN radio) (NNS programs))))
+    (VP (VBZ is)
+      (ADJP (RB far) (RB too) (JJ vast)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP
+      (ADVP (RB rather)
+        (PP (IN in)
+          (ADVP
+            (NP (DT this) (NN piece))
+            (RB well))))
+      (VB highlight)
+      (NP
+        (NP (CD four) (NNS shows))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBP represent)
+              (NP
+                (NP (DT a) (NN good))
+                (VP (VBG jumping)
+                  (PRT (RP off))
+                  (NP (NN point)))))))))
+    (. .)))
+

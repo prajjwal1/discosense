@@ -1,0 +1,47 @@
+(ROOT
+  (S
+    (S
+      (NP (JJ real) (NNS charities))
+      (VP (MD will)
+        (VP (VB spend)
+          (NP
+            (NP
+              (QP (CD 60) (TO to) (CD 99))
+              (NN percent))
+            (PP (IN of)
+              (NP (DT the) (NN money)))))))
+    (NP (PRP they))
+    (VP (VBP collect)
+      (PP (IN on)
+        (NP
+          (NP (DT the) (NNS people))
+          (SBAR
+            (S
+              (NP (PRP they))
+              (VP (VBP are)
+                (VP (VBN supposed)
+                  (S
+                    (VP (TO to)
+                      (VP (VB serve)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN by)
+      (NP (NN contrast)))
+    (NP (NN charity) (NNS scams))
+    (ADVP (RB often))
+    (VP (VBP wind)
+      (PRT (RP up))
+      (NP (NN spending))
+      (NP
+        (NP (JJS most))
+        (CC or)
+        (NP (DT all))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (NN money))
+            (PP (IN on)
+              (NP (PRP$ its) (NNS administrators)))))))
+    (. .)))
+

@@ -1,0 +1,2 @@
+conn:consequently conn_POS:RB prev1:and prev1_POS:CC with_prev1_full:and_consequently with_prev1_POS_full:CC_RB prev2:appreciation prev2_POS:NN with_prev2_full:appreciation_consequently with_prev2_POS_full:NN_RB NA
+conn:nevertheless conn_POS:RB sent_pos:0 NA

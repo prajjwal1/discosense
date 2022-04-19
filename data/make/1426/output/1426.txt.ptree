@@ -1,0 +1,44 @@
+(ROOT
+  (FRAG
+    (ADVP (RB likewise))
+    (, ,)
+    (PP (IN in)
+      (NP
+        (NP (DT the) (NN majority))
+        (PP (IN of)
+          (NP
+            (NP (NNS casesalsaconfis))
+            (VP (RB not) (VBN required)
+              (PP (TO to)
+                (NP (JJ configure) (NN sound))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB rather))
+      (NP (NN thealsamixertool))
+      (VP (VBZ is)
+        (VP (VBN used)
+          (S
+            (VP (TO to)
+              (VP
+                (VP (VB unmute)
+                  (NP (DT the) (NN master)
+                    (CC and)
+                    (NN pcm) (NNS channels)))
+                (CC and)
+                (VP (VB turn)
+                  (PRT (RP up))
+                  (NP (DT the) (NN volume)))))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (JJ thealsactl) (NNS storeis))
+      (VP (VBD used)
+        (S
+          (VP (TO to)
+            (VP (VB save)
+              (NP (DT the) (JJ sound) (NNS defaults)))))))
+    (. .)))
+

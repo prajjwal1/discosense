@@ -1,0 +1,2 @@
+conn:for_example conn_POS:IN_NN sent_pos:0 NA
+conn:after conn_POS:IN prev1:rise prev1_POS:NN with_prev1_full:rise_after with_prev1_POS_full:NN_IN prev2:44 prev2_POS:CD with_prev2_full:44_after with_prev2_POS_full:CD_IN NA

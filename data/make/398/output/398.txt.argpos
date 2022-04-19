@@ -1,0 +1,2 @@
+conn:when conn_POS:WRB prev1:sad prev1_POS:JJ with_prev1_full:sad_when with_prev1_POS_full:JJ_WRB prev2:got prev2_POS:VBD with_prev2_full:got_when with_prev2_POS_full:VBD_WRB NA
+conn:because conn_POS:IN prev1:deactivate prev1_POS:VB with_prev1_full:deactivate_because with_prev1_POS_full:VB_IN prev2:to prev2_POS:TO with_prev2_full:to_because with_prev2_POS_full:TO_IN NA

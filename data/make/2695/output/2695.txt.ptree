@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT some)
+        (QP (CD 30) (TO to) (CD 40))
+        (NN polling) (NNS locations))
+      (, ,)
+      (PP (RB out) (IN of)
+        (NP (CD 375)))
+      (PP (IN in)
+        (NP (DT the) (NN county)))
+      (, ,))
+    (VP (VBD were)
+      (VP (VBN expected)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (VP (VBN changed)
+                (PP (RB because) (IN of)
+                  (NP (NN storm) (NNS problems)))))))))
+    (. .)))
+
+(ROOT
+  (S (CC but)
+    (NP (NN biamonte))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP he))
+          (VP (VBP didnt)
+            (SBAR
+              (S
+                (VP (VBP expect)
+                  (SBAR (IN that)
+                    (S
+                      (NP (DT the) (NNS problems))
+                      (VP (MD would)
+                        (VP (VB keep)
+                          (NP
+                            (NP (JJ large) (NNS numbers))
+                            (PP (IN of)
+                              (NP (NNS people))))
+                          (PP (IN from)
+                            (NP (VBG casting) (NNS ballots))))))))))))))
+    (. .)))
+

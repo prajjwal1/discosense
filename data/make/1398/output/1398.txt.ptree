@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (NP (NNS alumni))
+    (ADVP (RB generally))
+    (VP (VBP report)
+      (SBAR
+        (S
+          (NP
+            (NP (JJ new) (NNS jobs))
+            (, ,)
+            (NP (NNS promotions))
+            (, ,))
+          (ADVP (RB recently))
+          (VP (VBD awarded)
+            (SBAR
+              (S
+                (NP (NNS distinctions))
+                (, ,)
+                (X
+                  (X (NN etc.))
+                  (PP
+                    (ADVP (RB similarly))
+                    (IN in)
+                    (NP (PRP$ our) (JJ spiritual) (NNS lives))))
+                (NP (PRP we))
+                (VP (MD should)
+                  (VP (VB strive)
+                    (S
+                      (VP (TO to)
+                        (VP
+                          (ADVP (RB constantly))
+                          (VB reach)
+                          (NP (JJ new) (NNS levels)))))))))))))
+    (. .)))
+

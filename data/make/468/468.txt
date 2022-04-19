@@ -1,0 +1,1 @@
+with appropriately sized hardware, if the query results are found in memory, they may be returned within milliseconds. conversely complex queries requiring results aggregation over huge indexes may take a few seconds.

@@ -1,0 +1,3 @@
+conn_lc:likewise conn:likewise conn_POS:RB xxx£
+conn_lc:as conn:as conn_POS:IN with_prev_full:varied_as xxx£
+conn_lc:for_example conn:for_example conn_POS:IN_NN xxx£

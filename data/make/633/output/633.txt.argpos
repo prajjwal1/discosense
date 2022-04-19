@@ -1,0 +1,2 @@
+conn:or conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_or with_prev1_POS_full:,_CC prev2:narrative prev2_POS:NN with_prev2_full:narrative_or with_prev2_POS_full:NN_CC NA
+conn:rather conn_POS:RB sent_pos:0 NA

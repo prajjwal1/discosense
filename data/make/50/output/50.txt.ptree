@@ -1,0 +1,49 @@
+(ROOT
+  (S
+    (NP (JJ i) (NN dont))
+    (VP (VBP think)
+      (SBAR
+        (S
+          (NP (FW i))
+          (VP (VBP have)
+            (NP
+              (NP (DT a) (JJ favourite) (JJ short) (NN story))
+              (, ,)
+              (SBAR
+                (WHNP (WDT which))
+                (S
+                  (VP (MD might)
+                    (VP (VB be)
+                      (NP
+                        (NP (NN way) (NN i) (NN didnt))
+                        (SBAR
+                          (S
+                            (VP (VBP love)
+                              (NP (DT the) (NN book)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN although)
+      (S
+        (NP (DT the) (JJ second) (JJS strongest) (NN man))))
+    (, ,)
+    (NP (NN tapka)
+      (CC and)
+      (NN natasha))
+    (VP
+      (VP (VBD were)
+        (VP
+          (ADVP (DT all) (RB well))
+          (VBN done)))
+      (CC and)
+      (VP (VBP stand)
+        (PRT (RP out))
+        (SBAR (IN as)
+          (S
+            (NP (JJ memorable))
+            (VP (VBZ reads)
+              (PP (IN for)
+                (NP (PRP me))))))))
+    (. .)))
+

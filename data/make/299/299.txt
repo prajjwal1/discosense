@@ -1,0 +1,1 @@
+in other instances, well known control structures and encoder decoder circuits have not been shown in detail in order not to obscure the present invention. particularly many functions are described to be carried out by various components within a compressed video distribution system.

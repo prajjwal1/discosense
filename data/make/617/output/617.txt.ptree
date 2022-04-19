@@ -1,0 +1,47 @@
+(ROOT
+  (S
+    (S
+      (S
+        (NP (NN electricity))
+        (VP (VBZ is)
+          (PP (IN on)
+            (NP
+              (NP
+                (QP (RB only) (CD five))
+                (NNS hours))
+              (NP (DT a) (NN day))))
+          (SBAR
+            (WHADVP (WRB when))
+            (S
+              (NP (PRP it))
+              (VP (VBZ is)
+                (ADJP (JJ available)))))))
+      (, ,)
+      (CC and)
+      (S
+        (NP (NNS politicians))
+        (ADVP (RB only))
+        (VP (VBP care)
+          (PP (IN about)
+            (NP
+              (NP (DT the) (NN town))
+              (PP (IN in)
+                (NP (NN election) (NN season))))))))
+    (, ,)
+    (NP (PRP he))
+    (VP (VBD said))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nevertheless))
+    (NP (NN arsal))
+    (VP (VBD seemed)
+      (S
+        (VP (TO to)
+          (VP (VB have)
+            (VP (VBN returned)
+              (PP (TO to)
+                (NP (NN life))))))))
+    (. .)))
+

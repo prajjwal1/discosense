@@ -1,0 +1,49 @@
+(ROOT
+  (S
+    (PP (IN for)
+      (NP (NN example)))
+    (, ,)
+    (NP
+      (NP (DT the) (NN output) (NN power))
+      (PP (IN of)
+        (NP (DT the) (NN transmitter) (CD 20))))
+    (VP (VBZ is)
+      (VP (VBN adjusted)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (NP
+                (NP (CD 90) (NN %))
+                (PP (IN of)
+                  (NP
+                    (NP (DT the) (NN output) (NN power))
+                    (VP (VBN prescribed)
+                      (PP (IN by)
+                        (NP (NN ieee))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thereby))
+    (NP
+      (NP (DT the) (NN power) (NN consumption))
+      (PP (IN of)
+        (NP (DT the) (NN transmitter) (CD 20))))
+    (VP (VBZ is)
+      (VP (VBN saved)
+        (PP (IN without)
+          (S
+            (VP (VBG affecting)
+              (NP
+                (NP (DT the) (NN signal) (NN transmission))
+                (PP (IN between)
+                  (NP
+                    (NP
+                      (NP (DT the) (NN transceiver) (NN device))
+                      (NP (CD 10)))
+                    (CC and)
+                    (NP
+                      (NP (DT the) (JJ far) (NN end) (NN device))
+                      (NP (CD 70)))))))))))
+    (. .)))
+

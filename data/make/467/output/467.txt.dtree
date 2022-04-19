@@ -1,0 +1,18 @@
+det(method-2, this-1)
+nsubj(efficient-5, method-2)
+cop(efficient-5, is-3)
+advmod(efficient-5, very-4)
+root(ROOT-0, efficient-5)
+prepc_in(efficient-5, identifying-7)
+det(adversary-9, the-8)
+dobj(identifying-7, adversary-9)
+
+advmod(provide-5, nevertheless-1)
+nsubj(provide-5, it-2)
+aux(provide-5, does-3)
+neg(provide-5, not-4)
+root(ROOT-0, provide-5)
+amod(countermeasures-7, effective-6)
+dobj(provide-5, countermeasures-7)
+prep_against(provide-5, jamming-9)
+

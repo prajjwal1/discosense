@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (JJ e) (NN mail))
+      (ADJP (JJ relay)
+        (NP (CD 46))))
+    (VP (VBZ is)
+      (ADVP (RB generally))
+      (VP (VBN adapted)
+        (S
+          (VP (TO to)
+            (VP (VB filter)
+              (NP
+                (NP (JJ e) (NN mail))
+                (VP (VBN received)
+                  (PP (IN into)
+                    (NP (DT the) (NN enterprise) (CD 32)))
+                  (PP (IN by)
+                    (S
+                      (VP (VBG applying)
+                        (NP
+                          (QP (IN at) (JJS least) (CD one))
+                          (NN policy))
+                        (PP (TO to)
+                          (NP (JJ incoming) (NNS messages)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (RB particularly) (DT the) (JJ e) (NN mail))
+      (ADJP (JJ relay)
+        (NP (CD 46))))
+    (VP (VBZ compares)
+      (NP
+        (NP (NNS attributes))
+        (PP (IN of)
+          (NP (JJ received) (JJ e) (NN mail) (NNS messages))))
+      (PP (TO to)
+        (NP
+          (NP (NNS attributes))
+          (ADJP (JJ typical)
+            (PP (TO to)
+              (NP (NN spam) (NNS messages)))))))
+    (. .)))
+

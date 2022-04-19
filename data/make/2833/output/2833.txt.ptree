@@ -1,0 +1,50 @@
+(ROOT
+  (S (CC and)
+    (NP (PRP he))
+    (VP (VBZ thinks)
+      (SBAR
+        (S
+          (NP
+            (NP (NN spending) (NN time))
+            (VP (VBG predicting)
+              (SBAR
+                (WHNP (WP what))
+                (S
+                  (NP (DT the) (NN text))
+                  (VP (VBZ is)
+                    (VP
+                      (VP (VBG going)
+                        (S
+                          (VP (TO to)
+                            (VP (VB be)
+                              (ADJP (IN about))))))
+                      (CC or)
+                      (VP (VBG comparing)
+                        (NP (PRP it))
+                        (PP (TO to)
+                          (NP (JJ other) (NNS works))))))))))
+          (VP (VBZ is)
+            (NP (DT a) (JJ needless) (NN distraction))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB instead))
+    (NP (PRP he))
+    (VP (VBZ encourages)
+      (S
+        (NP (NNS teachers))
+        (VP (TO to)
+          (VP (VB allow)
+            (NP
+              (NP (NNS students))
+              (PP (TO to)
+                (NP
+                  (NP (NN dive))
+                  (ADVP (RB immediately)
+                    (PP (IN in)
+                      (PP (TO to)
+                        (NP (DT the) (NN text))))))))
+            (NP (PRP itself))))))
+    (. .)))
+

@@ -1,0 +1,11 @@
+conn:thus conn_lc:thus conn_cat:Conj-adverb conn_to_node:RB->UCP->VP->S conn_node_lsib_size=2 conn_node_rsib_size=1 conn_to_node:RB->UCP->VP->S^conn_node_lsib_size:>1 conn_to_node_relpos:0 0:2
+conn:thus conn_lc:thus conn_cat:Conj-adverb conn_to_node:RB->UCP->VP->S<-NP conn_node_lsib_size=2 conn_node_rsib_size=1 conn_to_node:RB->UCP->VP->S<-NP^conn_node_lsib_size:>1 conn_to_node_relpos:-1 0:3
+conn:thus conn_lc:thus conn_cat:Conj-adverb conn_to_node:RB->UCP->VP conn_node_lsib_size=2 conn_node_rsib_size=1 conn_to_node:RB->UCP->VP^conn_node_lsib_size:>1 conn_to_node_relpos:0 0:12
+conn:thus conn_lc:thus conn_cat:Conj-adverb conn_to_node:RB->UCP conn_node_lsib_size=2 conn_node_rsib_size=1 conn_to_node:RB->UCP^conn_node_lsib_size:>1 conn_to_node_relpos:0 0:15
+conn:thus conn_lc:thus conn_cat:Conj-adverb conn_to_node:RB->UCP<-PP conn_node_lsib_size=2 conn_node_rsib_size=1 conn_to_node:RB->UCP<-PP^conn_node_lsib_size:>1 conn_to_node_relpos:-1 0:16
+conn:thus conn_lc:thus conn_cat:Conj-adverb conn_to_node:RB->UCP<-PP<-NP conn_node_lsib_size=2 conn_node_rsib_size=1 conn_to_node:RB->UCP<-PP<-NP^conn_node_lsib_size:>1 conn_to_node_relpos:-1 0:19
+conn:thus conn_lc:thus conn_cat:Conj-adverb conn_to_node:RB->UCP<-SBAR conn_node_lsib_size=2 conn_node_rsib_size=1 conn_to_node:RB->UCP<-SBAR^conn_node_lsib_size:>1 conn_to_node_relpos:1 0:28
+conn:thus conn_lc:thus conn_cat:Conj-adverb conn_to_node:RB->UCP<-SBAR<-S conn_node_lsib_size=2 conn_node_rsib_size=1 conn_to_node:RB->UCP<-SBAR<-S^conn_node_lsib_size:>1 conn_to_node_relpos:1 0:29
+conn:thus conn_lc:thus conn_cat:Conj-adverb conn_to_node:RB->UCP<-SBAR<-S<-NP conn_node_lsib_size=2 conn_node_rsib_size=1 conn_to_node:RB->UCP<-SBAR<-S<-NP^conn_node_lsib_size:>1 conn_to_node_relpos:1 0:30
+conn:thus conn_lc:thus conn_cat:Conj-adverb conn_to_node:RB->UCP<-SBAR<-S<-VP conn_node_lsib_size=2 conn_node_rsib_size=1 conn_to_node:RB->UCP<-SBAR<-S<-VP^conn_node_lsib_size:>1 conn_to_node_relpos:1 0:33
+conn:thus conn_lc:thus conn_cat:Conj-adverb conn_to_node:RB->UCP<-SBAR<-S<-VP<-VP conn_node_lsib_size=2 conn_node_rsib_size=1 conn_to_node:RB->UCP<-SBAR<-S<-VP<-VP^conn_node_lsib_size:>1 conn_to_node_relpos:1 0:36

@@ -1,0 +1,44 @@
+(ROOT
+  (S
+    (NP (PRP they))
+    (VP (VBP find)
+      (NP
+        (NP
+          (NP (NNS relationships))
+          (PP (IN between)
+            (NP (DT a) (JJ medical) (NN condition))))
+        (CC and)
+        (NP
+          (NP (NNS things))
+          (PP (IN like)
+            (NP
+              (NP (JJ human) (NN behavior))
+              (, ,)
+              (NP (JJ environmental) (NNS toxins))
+              (, ,)
+              (NP (NNS genes))
+              (, ,)
+              (NP (JJ medical) (NNS treatments))
+              (, ,)
+              (NP (JJ other) (NNS diseases))
+              (, ,)
+              (CC and)
+              (NP (JJ geographical) (NN location)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP (NN example)))
+    (NP (PRP they))
+    (VP (VBP ask)
+      (NP
+        (NP (NNS questions))
+        (PP (IN like)
+          (SBAR
+            (WHNP (WP what))
+            (S
+              (VP (VBZ causes)
+                (NP (JJ multiple) (NN sclerosis))))))))
+    (. .)))
+

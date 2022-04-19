@@ -1,0 +1,35 @@
+(ROOT
+  (S (CC but)
+    (NP (NN damn))
+    (VP (VBD did)
+      (NP (PRP she))
+      (PP (IN like)
+        (S
+          (VP (VBG acquiring)
+            (NP (JJ physical) (NNS items))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB conversely))
+    (NP (FW i))
+    (VP (VBP bring)
+      (NP (JJ new) (NN stuff))
+      (PP (IN into)
+        (NP (DT the) (NN house)))
+      (ADVP
+        (ADVP (RB very) (RB cautiously))
+        (SBAR (IN because)
+          (S
+            (NP (FW i))
+            (VP (VBP know)
+              (SBAR
+                (S
+                  (NP (JJR more) (NN stuff))
+                  (VP (VBZ adds)
+                    (NP
+                      (NP (JJR more) (NN stress))
+                      (CC and)
+                      (NP (JJR more) (NN clutter)))))))))))
+    (. .)))
+

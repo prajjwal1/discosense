@@ -1,0 +1,42 @@
+(ROOT
+  (NP
+    (NP (NNP and))
+    (, ,)
+    (NP (PRP$ its)
+      (NP
+        (NP (RB not) (RB just))
+        (PP (IN for)
+          (NP (DT the) (NNS players)))))
+    (, ,)
+    (NP
+      (NP (PRP$ its))
+      (PP (IN for)
+        (NP (PRP us)))
+      (PP (IN as)
+        (NP
+          (NP (NNS coaches))
+          (, ,)
+          (ADVP (RB too)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP (NN instance) (NN today)))
+    (NP (PRP he))
+    (VP (VBD talked)
+      (PP (IN about)
+        (NP
+          (NP (JJ collective) (NN responsibility))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBZ applies)
+                (PP (TO to)
+                  (NP
+                    (NP (DT the) (NN staff))
+                    (, ,)
+                    (CONJP (RB as) (RB well) (IN as))
+                    (NP (DT the) (NNS players))))))))))
+    (. .)))
+

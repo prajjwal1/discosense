@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (JJ abbys) (NN speech))
+        (PP (IN about)
+          (NP
+            (NP (PRP$ her) (NN love))
+            (PP (IN for)
+              (NP (JJ david) (NN rosen))))))
+      (VP (VBD was)
+        (ADVP (RB also))
+        (VP (VBG moving))))
+    (, ,)
+    (CC but)
+    (FRAG
+      (ADVP (RB hardly))
+      (NP (JJ new) (NN information)))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (ADJP (JJ short)))
+    (NP (PRP it))
+    (VP (VBZ sucks)
+      (S
+        (VP (TO to)
+          (VP (VB be)
+            (NP (DT a) (NN gladiator))))))
+    (. .)))
+

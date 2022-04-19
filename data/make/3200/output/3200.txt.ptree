@@ -1,0 +1,47 @@
+(ROOT
+  (S
+    (NP (DT this) (NN pattern))
+    (VP (VBZ suggests)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (JJ large) (NNS herbivores))
+            (PP (JJ such) (IN as)
+              (NP (NNS deer))))
+          (VP (VBP are)
+            (ADVP (RB selectively))
+            (VP (VBG feeding)
+              (PP (IN on)
+                (NP
+                  (NP (DT the)
+                    (ADJP (RBS most) (JJ nutritious))
+                    (NNS plants))
+                  (ADJP (JJ available)
+                    (CC and)
+                    (RB potentially))))
+              (S
+                (VP (VB limit)
+                  (NP
+                    (NP (DT the) (NN size))
+                    (PP (IN of)
+                      (NP (NN h.) (NNS maximiliani)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN contrast)))
+    (NP (NN seed) (NN production))
+    (VP (VBD was)
+      (VP (VBN reduced)
+        (PP
+          (PP (IN by)
+            (NP
+              (NP (DT the) (JJ combined) (NN exclusion))
+              (PP (IN of)
+                (NP (NNS insects)))))
+          (CC and)
+          (PP (IN above)
+            (NP (NN ground) (NNS mammals))))))
+    (. .)))
+

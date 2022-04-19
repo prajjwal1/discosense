@@ -1,0 +1,70 @@
+(ROOT
+  (S
+    (SBAR (IN if)
+      (S
+        (NP (PRP it))
+        (VP (VBP doesnt)
+          (VP (VB have)
+            (NP (NN amba) (NN accreditation))
+            (, ,)
+            (PP (IN in)
+              (NP
+                (NP (JJ particular))
+                (, ,)
+                (SBAR
+                  (WHNP (WDT that))
+                  (S
+                    (VP (MD might)
+                      (VP (VB be)
+                        (SBAR (IN because)
+                          (S
+                            (NP (DT the) (NN mba))
+                            (VP (VBZ is) (RB not)
+                              (ADJP (RB as) (JJ important)
+                                (PP (TO to)
+                                  (NP (PRP it))))
+                              (PP (IN as)
+                                (NP (DT the) (JJ other) (NN business) (NNS qualifications))))))))))))))))
+    (NP (PRP it))
+    (VP (VBZ offers))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (JJ interestingly) (NN professor))
+      (ADVP (RB anthony))
+      (VP (VBD hopwood)))
+    (, ,)
+    (NP
+      (NP (NN dean))
+      (PP (IN of)
+        (NP (DT the)
+          (ADJP
+            (ADJP (RB relatively) (JJ new))
+            (, ,)
+            (CC but)
+            (ADJP (RB already) (RB internationally) (JJ respected))))))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP
+            (NP (NN business) (NN school))
+            (PP (IN at)
+              (NP (JJ oxford) (NN university))))
+          (VP (VBZ says)
+            (SBAR
+              (S
+                (NP (PRP he))
+                (VP (VBZ is) (RB not)
+                  (ADJP (JJ sure)
+                    (SBAR
+                      (S
+                        (VP (VBD said)
+                          (SBAR
+                            (S
+                              (VP (VBZ needs)
+                                (NP (NN accreditation))
+                                (ADVP (IN at) (DT all))))))))))))))))
+    (. .)))
+

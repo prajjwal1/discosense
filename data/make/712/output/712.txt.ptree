@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNS people))
+      (PP (IN like)
+        (NP
+          (NP (PRP him))
+          (CC and)
+          (NP (DT the) (JJ karate) (NN kid)))))
+    (VP (VBD did)
+      (ADVP (RB so) (RB well))
+      (SBAR
+        (ADVP (RB internationally))
+        (IN that)
+        (S
+          (NP (PRP he))
+          (VP (VBZ means)
+            (NP (NN something))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB because) (IN of)
+      (NP
+        (NP (DT that))
+        (SBAR (IN if)
+          (S
+            (PP (IN after)
+              (NP (NN earth)))
+            (VP (VBZ does)
+              (NP
+                (NP (DT any) (NN kind))
+                (PP (IN of)
+                  (NP (NN business)))))))))
+    (, ,)
+    (VP (VB hes)
+      (ADJP (JJ golden)))
+    (. .)))
+

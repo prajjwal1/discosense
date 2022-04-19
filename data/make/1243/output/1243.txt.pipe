@@ -1,0 +1,4 @@
+Explicit|||105..107||if||0|if|||Contingency.Condition|||||||||||94..104|0|he desired||||||||108..122|0|he paid for it|||||||||||||
+Explicit|||124..134||thereafter||1|thereafter|||Temporal.Asynchronous|||||||||||0..122|0|nevertheless, he and another doctor informed appellant that he could have the medication that he desired if he paid for it||||||||135..251|1|appellants wife twice sent him the medicine, but prison authorities returned it to her each time forsecurity reasons|||||||||||||
+Explicit|||0..12||nevertheless||0|nevertheless|||Comparison.Concession|||||||||||1..2|-1|e||||||||14..122|0|he and another doctor informed appellant that he could have the medication that he desired if he paid for it|||||||||||||
+Explicit|||180..183||but||1|but|||Comparison.Contrast|||||||||||124..178|1|thereafter appellants wife twice sent him the medicine||||||||184..251|1|prison authorities returned it to her each time forsecurity reasons|||||||||||||

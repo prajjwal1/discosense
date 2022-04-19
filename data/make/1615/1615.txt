@@ -1,0 +1,1 @@
+for example, one important high level goal is that the tics dialogues do not interfere with the driving activity. hence we suggest that every main principle should describe an activity and the high level goals of usability should be defined by means of the attributes of the users activities.

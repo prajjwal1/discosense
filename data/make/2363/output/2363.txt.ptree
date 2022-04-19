@@ -1,0 +1,59 @@
+(ROOT
+  (S
+    (ADVP (RB now))
+    (, ,)
+    (PP (VBG according)
+      (PP (TO to)
+        (NP (NN hegel))))
+    (, ,)
+    (NP (NN reality))
+    (VP (VBZ is) (, ,)
+      (ADVP (RB however))
+      (, ,)
+      (FRAG
+        (PP (IN in)
+          (NP (DT no) (NN way)))
+        (NP
+          (NP (DT an) (NN attribute))
+          (ADJP (JJ predictable))
+          (PP (IN of)
+            (NP
+              (NP
+                (NP
+                  (NP (DT any) (JJ given) (NN state))
+                  (PP (IN of)
+                    (NP (NNS affairs))))
+                (, ,)
+                (ADJP (JJ social)
+                  (CC or)
+                  (JJ political))
+                (, ,)
+                (PP (IN in)
+                  (NP (DT all) (NNS circumstances))))
+              (CC and)
+              (ADVP (IN at) (DT all))
+              (NP (NNS times)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (PP (IN on)
+        (NP (DT the) (NN contrary)))
+      (NP (DT the) (NN roman) (NN republic))
+      (VP (VBD was)
+        (ADJP (JJ real))))
+    (, ,)
+    (CC but)
+    (SINV (RB so)
+      (VP (VBD was))
+      (NP
+        (NP (DT the) (NN roman) (NN empire))
+        (, ,)
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (VBD superseded)
+              (NP (PRP it)))))))
+    (. .)))
+

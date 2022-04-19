@@ -1,0 +1,49 @@
+(ROOT
+  (S
+    (NP
+      (NP (CD five) (NNS pakistanis))
+      (CC and)
+      (NP (DT an) (NN afghan)))
+    (VP (VBP have)
+      (VP (VBN been)
+        (VP (VBN held)
+          (PP (IN for)
+            (S
+              (ADVP (RB illegally))
+              (VP (VBG entering)
+                (SBAR
+                  (S
+                    (NP (DT the) (VBN united) (NNS states))
+                    (VP (VBD confirmed)
+                      (NP
+                        (NP (DT the)
+                          (ADJP
+                            (NP (PRP us))
+                            (JJ federal))
+                          (NN bureau))
+                        (PP (IN of)
+                          (NP (NN investigation)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB though))
+    (NP (DT the) (CD six))
+    (VP
+      (VP (VBZ has) (RB not)
+        (VP (VBN been)
+          (VP (VBN suspected)
+            (PP (IN as)
+              (NP (NNS terrorists))))))
+      (CC but)
+      (VP (VBD were)
+        (VP
+          (ADVP (RBR earlier))
+          (VBN detained)
+          (PP (IN in)
+            (NP
+              (NP (NN arizona))
+              (PP (IN in)
+                (NP (NN december))))))))
+    (. .)))
+

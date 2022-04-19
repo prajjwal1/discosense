@@ -1,0 +1,1 @@
+it is natural here to consider the class consisting of all ordinals for which there is a transitive model of zfc of height. thus the ordinal of your title, when it exists, is simply the supremum of the countable members of s. there are a number of relatively easy observations.

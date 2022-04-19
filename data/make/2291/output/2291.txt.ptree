@@ -1,0 +1,48 @@
+(ROOT
+  (S (CC but)
+    (NP (NN mulandir))
+    (VP (VBZ is)
+      (ADVP (RB only))
+      (NP
+        (NP (DT a) (NN stealth))
+        (VP (VBN based)
+          (NP (NN mission))
+          (NP (DT the) (JJ first) (JJ few) (NNS times)))
+        (SBAR
+          (S
+            (NP (PRP you))
+            (VP (VBP visit)
+              (NP (DT the) (NN place))))))
+      (, ,)
+      (SBAR (IN because)
+        (S
+          (PP (IN after)
+            (NP (DT some) (VBG grinding)))
+          (, ,)
+          (NP
+            (NP (DT the) (NNS enemies))
+            (PP (IN in)
+              (NP (DT the) (NN city))))
+          (VP (VBP are)
+            (ADJP (JJ weak))
+            (PP (VBN compared)
+              (PP (TO to)
+                (NP (PRP$ your) (NNS characters))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB specifically))
+    (NP (DT an) (NN undead))
+    (VP (VBD called)
+      (SBAR
+        (S
+          (NP (DT the) (NN nevermore))
+          (VP (VBZ drops)
+            (SBAR
+              (S
+                (NP (DT an) (NN item))
+                (VP (VBD called)
+                  (NP (DT the) (NN raven) (NN cap)))))))))
+    (. .)))
+

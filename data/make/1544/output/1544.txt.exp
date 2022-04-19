@@ -1,0 +1,4 @@
+conn_lc:because conn:because conn_POS:IN with_prev_full:,_because xxx£
+conn_lc:conversely conn:conversely conn_POS:RB xxx£
+conn_lc:when conn:when conn_POS:WRB with_prev_full:conversely_when xxx£
+conn_lc:since conn:since conn_POS:IN with_prev_full:fall_since xxx£

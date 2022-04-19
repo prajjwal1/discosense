@@ -1,0 +1,1 @@
+widgets are high level descriptions of interface elements that provide building blocks to windows. for example s, widgets can be user interface elements such as sliders, buttons, etc.

@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (ADVP (RB conversely))
+    (, ,)
+    (NP (JJ many) (JJ influential) (NNS venezuelans))
+    (VP (VBD went)
+      (PP (TO to)
+        (NP
+          (NP (DT the) (VBN united) (NNS states))
+          (PP
+            (ADVP (RB regularly))
+            (IN for)
+            (NP (NN education) (, ,) (NN culture) (, ,) (JJ medical) (NN attention)
+              (CC and)
+              (NN shopping))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (RB as) (DT a) (NN result) (NNS relations))
+        (PP (IN between)
+          (NP (DT the) (CD two) (NNS nations))))
+      (VP (VBD tended)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (ADJP (JJ narrow)))))))
+    (CC and)
+    (S
+      (NP (PRP one))
+      (VP (VBD sided)))
+    (. .)))
+

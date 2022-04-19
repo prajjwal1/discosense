@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (NP (JJ detroits) (NN decline))
+    (VP (VBD worked)
+      (PP (IN in)
+        (NP (JJ toyotas) (NN favor)))
+      (, ,)
+      (PP (IN as)
+        (NP
+          (NP (DT the) (NN leader))
+          (PP (IN in)
+            (NP
+              (NP (JJ hybrid) (JJ electric) (NNS vehicles))
+              (VP (VBN pushed)
+                (PP (IN past)
+                  (NP (PRP$ its) (NN american) (NNS rivals)))
+                (PP (IN on)
+                  (NP (DT this) (NNS years) (NN list)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ overall) (NN toyota))
+    (VP (VBD sold)
+      (NP
+        (ADJP
+          (NP
+            (QP (RB only) (CD 3,000)))
+          (JJR fewer))
+        (NNS vehicles))
+      (PP (IN than)
+        (NP (JJ global) (NN leader) (NN general) (NNS motors))))
+    (. .)))
+

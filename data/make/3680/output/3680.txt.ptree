@@ -1,0 +1,45 @@
+(ROOT
+  (S
+    (NP (DT the) (NN result))
+    (VP (VBZ is)
+      (SBAR (IN that)
+        (S
+          (NP (NN today) (, ,) (JJ indias) (NN democracy))
+          (VP (VBZ is)
+            (ADJP (RB inherently) (VBN politicized)
+              (PP (IN on)
+                (NP
+                  (NP (DT the) (NN basis))
+                  (PP (IN of)
+                    (NP
+                      (NP (NN caste))
+                      (, ,)
+                      (NP (NN linguistic))
+                      (, ,)
+                      (CC and)
+                      (NP (JJ religious) (NNS distinctions)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB yet))
+    (NP (DT these))
+    (VP (VBP are) (RB not)
+      (ADJP (JJ aberrations)
+        (PP (IN from)
+          (NP
+            (NP (DT some) (JJ pure) (NN past))
+            (, ,)
+            (CONJP (CC but)
+              (RB simply))
+            (NP
+              (NP (DT a) (VBN revised) (NN version))
+              (PP (IN of)
+                (NP
+                  (NP (DT the) (NN dimensioning))
+                  (PP (IN of)
+                    (NP (JJ previous) (NNS times)
+                      (CC and)
+                      (NNS eras))))))))))
+    (. .)))
+

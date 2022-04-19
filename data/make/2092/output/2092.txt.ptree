@@ -1,0 +1,56 @@
+(ROOT
+  (S
+    (NP (DT the) (NN court))
+    (VP
+      (VP (VBD sentenced)
+        (ADJP (RB tracy) (JJ russell)
+          (PP (TO to)
+            (NP
+              (NP (CD five) (NNS years))
+              (PP (IN of)
+                (NP (NN community) (NN control)))))))
+      (CC and)
+      (VP (VBD ordered)
+        (S
+          (NP (PRP her))
+          (VP (TO to)
+            (VP (VB pay)
+              (NP (CD 36,864.33))
+              (PP (IN in)
+                (NP
+                  (NP (NN restitution))
+                  (, ,)
+                  (SBAR
+                    (WHPP (IN of)
+                      (WHNP (WDT which)))
+                    (S
+                      (NP (CD 1,000.00))
+                      (VP (VBD was)
+                        (VP (VBN paid)
+                          (PP (IN at)
+                            (NP (DT the) (NN sentencing))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB similarly))
+    (NP (DT the) (NN court))
+    (VP
+      (VP (VBD sentenced)
+        (NP (NN robin) (NN russell))
+        (PP (TO to)
+          (NP
+            (NP (CD five) (NNS years))
+            (PP (IN of)
+              (NP (NN community) (NN control))))))
+      (CC and)
+      (VP (VBD ordered)
+        (S
+          (NP (PRP him))
+          (VP (TO to)
+            (VP (VB pay)
+              (NP (CD 43,935.20))
+              (PP (IN in)
+                (NP (NN restitution))))))))
+    (. .)))
+

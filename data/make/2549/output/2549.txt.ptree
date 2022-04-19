@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (NP (DT the) (JJ fail) (JJ safe) (NN epo))
+    (VP (VBZ is)
+      (ADJP (JJR safer))
+      (PP (IN than)
+        (NP (DT a) (JJ traditional) (NN epo)))
+      (, ,)
+      (SBAR (IN since)
+        (S
+          (NP (PRP$ its) (NN fault) (NN mode))
+          (VP (VBZ is)
+            (S
+              (VP (TO to)
+                (VP (VB open)
+                  (NP (DT the) (NN equipment) (NN circuit) (NN breaker)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB however))
+    (NP (DT this) (NN safety) (NN assurance))
+    (VP (VBZ comes)
+      (PP (IN at)
+        (NP (DT a) (NN price))))
+    (. .)))
+

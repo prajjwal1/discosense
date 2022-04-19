@@ -1,0 +1,38 @@
+(ROOT
+  (S
+    (NP (PRP he))
+    (VP (VBD continued)
+      (S
+        (VP (TO to)
+          (VP (VB deliver)
+            (NP
+              (NP (PRP$ his) (NNS jumps))
+              (ADJP (RB as) (VBN planned))))))
+      (, ,)
+      (SBAR (IN until)
+        (S
+          (NP (PRP he))
+          (ADVP (RB suddenly))
+          (VP (VBD decided)
+            (S
+              (VP (TO to)
+                (VP (VB add)
+                  (NP (DT a) (JJ double) (NN toe) (NN loop))
+                  (PP (TO to)
+                    (NP (PRP$ his) (JJ final) (JJ double) (NN axel))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN as)
+      (NP (DT a) (NN result)))
+    (NP (DT the) (JJ final) (NN combination))
+    (VP (VBD was)
+      (VP (VBN nixed)
+        (SBAR (IN as)
+          (S
+            (NP (PRP it))
+            (VP (VBD was)
+              (NP (PRP$ his) (JJ fourth) (NN one)))))))
+    (. .)))
+

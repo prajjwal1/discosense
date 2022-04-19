@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (NP (DT this))
+    (VP
+      (VP (VBZ reinforces)
+        (NP (DT the) (JJ endogenous) (NN rigidity))
+        (PP (IN in)
+          (NP (DT the) (JJ nominal) (NNS wages))))
+      (CC and)
+      (VP (VBZ makes)
+        (S
+          (NP (NNS firms) (NN pricing) (NNS decisions))
+          (ADJP (RB even) (RBR more) (JJ rigid)))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (ADVP (RB thus))
+      (IN although)
+      (S
+        (NP (PRP it))
+        (VP (VBZ makes)
+          (NP
+            (NP (DT no) (NN difference))
+            (PP (IN in)
+              (NP (NN output) (NNS dynamics))))
+          (PP (IN under)
+            (NP (JJ staggered) (NN wage) (NN setting))))))
+    (, ,)
+    (NP (DT the) (NN input) (NN output) (NN structure))
+    (VP (VBZ improves)
+      (NP
+        (NP (DT the) (NN ability))
+        (PP (IN of)
+          (NP
+            (NP (JJ staggered) (NN price))
+            (VP (VBG setting)
+              (PP (IN in)
+                (NP (VBG generating) (NN persistence))))))))
+    (. .)))
+

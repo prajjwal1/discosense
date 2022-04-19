@@ -1,0 +1,48 @@
+(ROOT
+  (S
+    (NP (PRP$ your) (NN problem))
+    (VP
+      (VP (VBZ sounds)
+        (NP (JJR more))
+        (PP (IN like)
+          (NP (DT a) (NN sewer) (NN gas))))
+      (CC and)
+      (VP (MD can)
+        (VP (VB be)
+          (VP (VBN caused)
+            (PP (IN by)
+              (NP
+                (NP (DT a) (VBN cracked) (NN sewer) (NN line))
+                (, ,)
+                (NP (DT a) (VBN blocked) (NN vent))
+                (, ,)
+                (CC or)
+                (NP
+                  (NP (NNP traps) (NNP devoid))
+                  (PP (IN of)
+                    (NP (NN water))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (ADVP (RB likewise))
+      (IN if)
+      (S
+        (NP (PRP you))
+        (VP (VBP have)
+          (NP
+            (NP (DT a) (NN combustion) (NN type) (NN heat))
+            (PP (JJ such) (IN as)
+              (NP (JJ natural) (NN gas)))))))
+    (, ,)
+    (NP (NN propane) (, ,) (NN oil)
+      (CC or)
+      (NNS coalyou))
+    (VP (MD could)
+      (VP (VB have)
+        (NP (DT a) (JJ faulty) (NN chimney)
+          (CC or)
+          (NN heating) (NN system))))
+    (. .)))
+

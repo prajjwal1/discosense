@@ -1,0 +1,44 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (JJ recent) (NNS years)))
+    (NP (DT a) (JJ few) (NNS investigators))
+    (VP (VBP have)
+      (VP (VBN begun)
+        (S
+          (VP (TO to)
+            (VP (VB realize)
+              (NP
+                (NP (DT the) (JJ true) (NN importance))
+                (PP (IN of)
+                  (NP (JJ anode) (NNS sheaths)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (RB particularly) (NN samuel) (NN korman)
+        (CC and)
+        (NNS charles) (NN sheer))
+      (PP (IN in)
+        (NP (DT the) (VBN united) (NNS states))))
+    (VP (VBP have)
+      (VP (VBN directed)
+        (NP (JJ scientific) (NN attention))
+        (PP (TO to)
+          (NP
+            (NP (DT the) (JJ technical) (NNS possibilities))
+            (ADJP (JJ inherent)
+              (PP (IN in)
+                (NP
+                  (NP (NNS processes))
+                  (SBAR
+                    (WHNP (WDT that))
+                    (S
+                      (VP (VBP characterize)
+                        (NP
+                          (NP (JJ anode) (NNS regions))
+                          (PP (IN in)
+                            (NP (JJ high) (NN intensity) (NNS arcs))))))))))))))
+    (. .)))
+

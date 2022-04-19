@@ -1,0 +1,72 @@
+(ROOT
+  (S
+    (S
+      (NP (DT the) (NNS fluids))
+      (VP (VBZ is)
+        (ADJP (RBR less) (JJ dense)
+          (PP (IN than)
+            (NP (NN water))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (DT this))
+      (VP (VBZ is)
+        (ADJP (JJ consistent)
+          (PP (IN with)
+            (NP (DT the) (JJ buoyant) (NN force))))
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (VP (VBN suspended)
+              (PP (IN in)
+                (NP
+                  (NP (NN liquid))
+                  (VP (VBG being)
+                    (VP
+                      (ADVP
+                        (ADVP (RBR less))
+                        (SBAR (IN than)
+                          (SBAR (IN that)
+                            (FRAG
+                              (WHADVP (WRB when))))))
+                      (VBN suspended)
+                      (PP (IN in)
+                        (NP (NN water))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (ADVP (RB similarly))
+      (IN if)
+      (S
+        (NP (NN wfluid))
+        (VP (VBZ is)
+          (ADJP
+            (ADJP (JJR less))
+            (PP (IN than)
+              (NP (NN wwater)))))))
+    (, ,)
+    (NP
+      (NP (DT the) (NN term))
+      (PP (IN on)
+        (NP
+          (NP (DT the) (NN right))
+          (PP (IN in)
+            (NP (DT the) (JJ above) (NN expression))))))
+    (VP (VBZ is)
+      (ADJP (JJR greater))
+      (PP (IN than)
+        (NP (CD one)))
+      (, ,)
+      (VP (VBG indicating)
+        (SBAR (IN that)
+          (S
+            (NP (DT the) (NN fluid))
+            (VP (VBZ is)
+              (NP
+                (NP (NN denser))
+                (PP (IN than)
+                  (NP (NN water)))))))))
+    (. .)))
+

@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (NNS proponents))
+      (PP (IN of)
+        (NP (NN industry) (NN protection))))
+    (VP (VBP argue)
+      (SBAR (IN that)
+        (S
+          (NP (NN assistance))
+          (VP (MD should)
+            (VP (VB be)
+              (VP (VBN given)
+                (PP (TO to)
+                  (NP (DT the) (JJ infant) (NN industry)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (JJ other) (NNS words)))
+    (NP
+      (NP (DT those) (NNS industries))
+      (SBAR
+        (WHNP (WDT that))
+        (S
+          (VP (VBP are)
+            (ADJP (JJ capable)
+              (PP (IN of)
+                (S
+                  (VP (VBG growing)
+                    (CC and)
+                    (VBG obtaining)
+                    (NP
+                      (NP
+                        (ADJP (RB internationally) (JJ competitive))
+                        (NNS levels))
+                      (PP (IN of)
+                        (NP (NN efficiency))))))))))))
+    (VP (MD may)
+      (VP (VB be)
+        (ADJP (JJ subject)
+          (PP (TO to)
+            (NP (DT the) (JJ initial) (JJ temporary) (NN protection))))))
+    (. .)))
+

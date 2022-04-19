@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (NP
+      (NP (PRP$ your) (NN assessment))
+      (PP (IN in)
+        (NP (PRP$ your) (JJR earlier) (NN post))))
+    (VP (VBD was)
+      (ADJP (RB quite) (JJ correct)
+        (SBAR
+          (S
+            (NP (DT the) (NN head))
+            (VP (VBZ is)
+              (VP (VBN turned)
+                (ADVP
+                  (ADVP (RBR more))
+                  (SBAR (IN than)
+                    (S
+                      (NP (PRP you))
+                      (VP (VBD had)
+                        (S
+                          (NP (PRP it))
+                          (VP (VBN shown)
+                            (ADVP (RB especially))
+                            (NP (DT the) (NN nose))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nonetheless))
+    (NP (PRP you))
+    (VP (VBP have)
+      (NP
+        (NP (DT some) (JJ nice) (NNS things))
+        (VP (VBG happening))))
+    (. .)))
+

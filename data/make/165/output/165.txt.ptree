@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (PP (IN of)
+      (NP (NN course)))
+    (, ,)
+    (NP (DT the) (NN solution))
+    (ADVP (RB probably))
+    (VP (VBP isnt)
+      (NP
+        (NP (NN breast) (NNS implants))
+        (PP (IN for)
+          (NP (DT all)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB instead))
+    (NP (DT the) (NN solution))
+    (VP (VBZ is)
+      (PP (IN for)
+        (NP (NN italy)))
+      (S
+        (VP (TO to)
+          (VP (VB field)
+            (NP
+              (NP
+                (NP (NNS candidates))
+                (VP (VBN based)
+                  (PP (IN on)
+                    (PRN (, ,)
+                      (SBAR (IN as)
+                        (S
+                          (NP (NNS minetti))
+                          (VP (VBZ says))))
+                      (, ,))
+                    (NP (PRP$ their) (NNS resumes)))))
+              (, ,) (RB not)
+              (NP (PRP$ their) (NN ability)
+                (S
+                  (VP (TO to)
+                    (VP (VB rock)
+                      (NP (DT a) (JJ gold) (NN bikini))
+                      (PP (IN on)
+                        (NP (NN television))))))))))))
+    (. .)))
+

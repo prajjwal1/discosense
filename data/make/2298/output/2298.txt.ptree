@@ -1,0 +1,47 @@
+(ROOT
+  (S
+    (SBAR (IN while)
+      (S
+        (NP (NN credit) (NNS accommodations))
+        (VP (VBP provide)
+          (NP
+            (NP (JJ alternate) (NNS pathways))
+            (CC and)
+            (NP (NN flexibility))))))
+    (, ,)
+    (NP
+      (NP (NNS students))
+      (VP (VBG receiving)
+        (NP (NNS accommodations))))
+    (VP (MD must)
+      (VP (VB earn)
+        (NP
+          (NP (DT the) (CD 22) (JJ standard) (NNS credits))
+          (CC and)
+          (NP
+            (NP (CD six) (JJ verified) (NNS credits))
+            (VP (VBN required)
+              (S
+                (VP (TO to)
+                  (VP (VB graduate)
+                    (PP (IN with)
+                      (NP (DT a) (JJ standard) (NN diploma)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN contrast)))
+    (NP
+      (QP (RB only) (CD 20))
+      (JJ standard)
+      (NX
+        (NX (NNS credits))
+        (CC and)
+        (NX (VBN 0) (NN verified) (NNS credits))))
+    (VP (VBP are)
+      (VP (VBN required)
+        (PP (IN for)
+          (NP (DT the) (VBN modified) (NN standard) (NN diploma)))))
+    (. .)))
+

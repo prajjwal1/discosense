@@ -1,0 +1,52 @@
+(ROOT
+  (S
+    (NP (JJ apps) (NN world))
+    (ADVP (RB also))
+    (VP (VBZ has)
+      (NP
+        (NP (DT a) (JJ wide) (NN representation))
+        (PP (IN of)
+          (NP
+            (UCP (NN consumer)
+              (CC and)
+              (JJ enterprise))
+            (JJ mobile) (NNS developers)))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBZ highlights)
+              (NP
+                (NP (DT the) (NN variety))
+                (PP (IN of)
+                  (NP
+                    (NP (NN use) (NNS cases))
+                    (VP (VBN faced)
+                      (PP (IN by)
+                        (NP (JJ mobile) (NNS applications))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB because)
+      (PP (IN of)
+        (NP
+          (NP (DT this) (NN breadth)
+            (CC and)
+            (NN range))
+          (PP (IN of)
+            (NP (NN coverage))))))
+    (, ,)
+    (NP (FW i))
+    (VP (MD could)
+      (VP (VB talk)
+        (PP (IN about)
+          (NP (JJ many) (NNS things)))
+        (SBAR (IN that)
+          (S
+            (NP (FW i))
+            (VP
+              (VP (VBD learned))
+              (CC and)
+              (VP (VBD observed)))))))
+    (. .)))
+

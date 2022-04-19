@@ -1,0 +1,2 @@
+conn:therefore conn_POS:RB sent_pos:0 NA
+conn:when conn_POS:WRB prev1:stressed prev1_POS:VBN with_prev1_full:stressed_when with_prev1_POS_full:VBN_WRB prev2:be prev2_POS:VB with_prev2_full:be_when with_prev2_POS_full:VB_WRB NA

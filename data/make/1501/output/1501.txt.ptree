@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (NP (NN second))
+    (, ,)
+    (SBAR (RB even) (IN if)
+      (S
+        (NP (NN halperin))
+        (VP (VBZ is)
+          (ADJP (RB otherwise) (VBN qualified))
+          (, ,)
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (NP (PRP we))
+              (VP (VBP doubt)))))))
+    (, ,)
+    (NP (PRP he))
+    (VP (VBZ has) (RB not)
+      (VP (VBN established)
+        (NP
+          (NP (DT the) (VBG remaining) (NNS elements))
+          (PP (IN of)
+            (NP (PRP$ his) (JJ prima) (NN facie) (NN case))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (PP (IN in)
+      (NP (JJ particular) (NN halperin)))
+    (VP (VBD failed)
+      (S
+        (VP (TO to)
+          (VP (VB demonstrate)))))
+    (SBAR (IN that)
+      (S
+        (NP (PRP he))
+        (VP (VBZ has)
+          (NP (DT a) (NN disability)))))
+    (. .)))
+

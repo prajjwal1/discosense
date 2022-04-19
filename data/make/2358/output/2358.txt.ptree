@@ -1,0 +1,49 @@
+(ROOT
+  (S
+    (NP (JJ vergils) (NN biography))
+    (, ,)
+    (ADVP (RB however))
+    (, ,)
+    (VP (VBZ makes)
+      (S
+        (NP (PRP it))
+        (ADJP (JJ clear)))
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (DT the) (NN purpose))
+            (PP (IN of)
+              (NP (PRP$ his) (JJ final) (NN trip)
+                (S
+                  (VP (TO to)
+                    (VP (VB greece)))))))
+          (VP (VBD was)
+            (S
+              (VP (TO to)
+                (VP
+                  (VP (VB revise))
+                  (, ,) (RB not)
+                  (VP (VB complete)
+                    (NP (DT the) (NN aeneid))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN sum)))
+    (NP (PRP it))
+    (VP (VBZ seems)
+      (SBAR (RB as) (IN if)
+        (S
+          (NP (NN hes))
+          (VP (VBN gone)
+            (ADVP
+              (ADVP (RB as) (RB far))
+              (PP (IN in)
+                (NP (DT the) (NN story))))
+            (SBAR (IN as)
+              (S
+                (NP (PRP he))
+                (VP (VBD planned))))))))
+    (. .)))
+

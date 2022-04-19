@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (NP (PRP it))
+    (VP (VBZ is)
+      (ADVP (RB now))
+      (NP (DT a) (NN republican) (NN citadel))
+      (, ,)
+      (S
+        (ADVP (RB handily))
+        (VP (VBG electing)
+          (NP (DT the) (JJ republican) (JJ presidential) (NN nominee))
+          (NP (DT every) (NN year))
+          (PP (IN since)
+            (NP (CD 1980))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB consequently))
+    (NP (DT no) (JJ presidential) (NN nominee))
+    (VP (VBZ has)
+      (ADVP (RB even))
+      (VP (VBN campaigned)
+        (PP (IN in)
+          (NP
+            (NP (DT the) (NN state))
+            (PP (IN since)
+              (NP (CD 1996)))))))
+    (. .)))
+

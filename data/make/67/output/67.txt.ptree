@@ -1,0 +1,45 @@
+(ROOT
+  (S
+    (ADVP (RB maybe))
+    (NP (PRP it))
+    (VP (VBD was)
+      (NP (DT the) (NN color))
+      (SBAR (IN before)
+        (S
+          (NP (NNS shadows))
+          (VP (VBD were)
+            (VP (VBN applied)
+              (PP (TO to)
+                (NP (PRP it))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nonetheless))
+    (NP (PRP it))
+    (VP (VBZ has)
+      (NP
+        (NP (DT a)
+          (ADJP (RB noticeably) (JJR stronger))
+          (JJ blue) (NN component))
+        (PP (VBN compared)
+          (PP (TO to)
+            (NP (NN red)))))
+      (, ,)
+      (SBAR (IN while)
+        (S
+          (NP
+            (NP (DT the) (NN color))
+            (PP (IN of)
+              (NP (DT the) (NN floor))))
+          (VP (VBZ has)
+            (NP
+              (NP
+                (ADJP (RB nearly) (JJ equal))
+                (NNS levels))
+              (PP (IN of)
+                (NP (NN blue)
+                  (CC and)
+                  (NN red))))))))
+    (. .)))
+

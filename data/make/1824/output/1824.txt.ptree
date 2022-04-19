@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (SBAR (IN if)
+      (S
+        (NP (NNS subjects))
+        (VP (VBP have)
+          (NP
+            (NP (NN difficulty))
+            (VP (VBG speaking)
+              (PP (IN during)
+                (NP (DT the) (NN task))))))))
+    (, ,)
+    (ADVP (RB then))
+    (NP (DT the) (NN retrospective) (NN method))
+    (VP (VBZ is)
+      (ADJP (JJ fine)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB otherwise))
+    (VP (VB use)
+      (NP (DT the) (JJ concurrent) (NN method))
+      (SBAR (IN because)
+        (S
+          (NP (PRP it))
+          (VP (VBZ takes)
+            (NP
+              (NP
+                (QP (RB only) (PDT half)))
+              (NP (DT the) (NN time)))))))
+    (. .)))
+

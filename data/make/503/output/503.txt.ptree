@@ -1,0 +1,38 @@
+(ROOT
+  (S
+    (NP (WDT what))
+    (VP (VBD saved)
+      (SBAR
+        (S
+          (NP (PDT both) (DT these) (NNS shows))
+          (VP (VBD was)
+            (SBAR (IN that)
+              (S
+                (NP
+                  (NP (DT the) (NNS bands))
+                  (CC and)
+                  (NP (PRP$ their) (NNS songs)))
+                (VP (VBD were)
+                  (ADJP (RB genuinely) (JJ loved)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN by)
+      (NP (NN contrast)))
+    (NP (DT the) (NN spice) (NNS girls))
+    (VP (VBD were)
+      (NP
+        (NP (DT a)
+          (ADJP (RB hugely) (JJ influential))
+          (NN phenomenon))
+        (PRN (, ,)
+          (CC but)
+          (ADJP (JJ loved))
+          (, ,)))
+      (PP (IN in)
+        (NP (DT that)
+          (ADJP (JJ rare) (, ,) (JJ enduring))
+          (NN way))))
+    (. .)))
+

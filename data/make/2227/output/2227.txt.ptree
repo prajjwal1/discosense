@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (NP (DT this) (NN phenomenon))
+    (VP (VBZ is)
+      (ADVP (RB generally))
+      (VP (VBN associated)
+        (PP (IN with)
+          (NP
+            (NP (DT the) (VBN combined) (NN action))
+            (PP (IN of)
+              (NP
+                (NP (NN storm) (NNS seas))
+                (, ,)
+                (NP (JJ inadequate) (NN design) (NN parameter) (NNS regulations))
+                (, ,)
+                (CC and)
+                (NP
+                  (ADJP (JJ dangerous) (JJ operational))
+                  (NNS procedures))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN contrast)))
+    (NP
+      (NP (DT the) (NN capsizing))
+      (PP (IN of)
+        (NP (JJ large) (NNS ships))))
+    (VP
+      (VP (VBZ is)
+        (ADJP (JJ rare)))
+      (, ,)
+      (CC but)
+      (VP (VBZ does)
+        (S
+          (VP (VB occur)))))
+    (. .)))
+

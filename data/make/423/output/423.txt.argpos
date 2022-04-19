@@ -1,0 +1,2 @@
+conn:likewise conn_POS:RB sent_pos:0 NA
+conn:after conn_POS:IN sent_pos:2 prev1:stay prev1_POS:VB with_prev1_full:stay_after with_prev1_POS_full:VB_IN prev2:likewise prev2_POS:RB with_prev2_full:likewise_after with_prev2_POS_full:RB_IN NA

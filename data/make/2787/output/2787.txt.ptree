@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (ADVP (RB oddly))
+    (, ,)
+    (ADVP (RB however))
+    (, ,)
+    (VP (VBZ sonys)
+      (NP (JJ first) (JJ japanese) (NN playstation) (CD 4) (JJ commercial) (NN doesnt) (NN focus))
+      (PP (IN in) (IN on)
+        (NP
+          (NP (PRP$ their) (JJ upcoming) (NN japanese) (NNS games))
+          (CC or)
+          (NP
+            (NP (DT any) (NNS games))
+            (PP (IN in)
+              (NP (NN general))))))
+      (ADVP (RB really)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB instead))
+    (NP (DT the) (NN commercial))
+    (VP (VBZ showcases)
+      (NP
+        (NP (DT all))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (NN launch) (NNS events))
+            (PP (IN for)
+              (NP (DT the) (NN playstation) (CD 4))))))
+      (PP (IN in)
+        (NP (JJ other) (NNS territories))))
+    (. .)))
+

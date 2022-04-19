@@ -1,0 +1,50 @@
+(ROOT
+  (S
+    (S
+      (NP (DT the) (NN law))
+      (ADVP (RB basically))
+      (VP (VBZ says)
+        (SBAR (IN that)
+          (S
+            (NP (DT the) (NN copyright) (NN holder))
+            (VP (VBZ has)
+              (NP (DT that) (NN burden)))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP they))
+      (VP (VBP argue)
+        (SBAR (IN that)
+          (S
+            (NP (DT the) (NN service) (NN provider))
+            (VP (VBZ has)
+              (NP
+                (NP (DT the)
+                  (ADJP (RBS most) (RB readily) (JJ available))
+                  (NN information))
+                (PP (IN on)
+                  (NP
+                    (NP (DT the) (NN upload))
+                    (ADVP (PRP itself))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN on)
+      (NP (DT the) (JJ other) (NN hand)))
+    (NP (DT the) (NN service) (NN provider))
+    (VP (VBZ does) (RB not)
+      (VP (VB have)
+        (S
+          (NP (DT the) (NNS resources))
+          (VP (TO to)
+            (VP (VB review)
+              (NP
+                (NP (DT every) (JJ possible) (NN license))
+                (SBAR
+                  (S
+                    (NP (DT a) (NN file))
+                    (VP (MD could)
+                      (VP (VB have)))))))))))
+    (. .)))
+

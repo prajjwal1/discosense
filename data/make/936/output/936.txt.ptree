@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (S
+      (NP (DT the) (NN screen))
+      (VP (VBZ is)
+        (VP (VBN placed)
+          (PP (IN over)
+            (NP
+              (NP (DT the) (NN circuit))
+              (CC and)
+              (NP (DT the) (NNS pads)))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (DT the) (JJ above) (NN solder) (NN cream))
+      (VP (VBZ is)
+        (VP (VBN screened)
+          (PP (IN onto)
+            (NP
+              (NP (DT the) (NNS pads))
+              (PP (IN on)
+                (NP (DT the) (NN circuit) (NN board))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thereafter))
+    (NP
+      (NP (JJ electronic) (NNS components))
+      (PP (VBG including)
+        (NP (NNS capacitors)
+          (CC and)
+          (NNS resistors))))
+    (VP (VBP are)
+      (ADJP (RB carefully) (VBN positioned)
+        (PP (IN with)
+          (NP
+            (NP (PRP$ their) (JJ peripheral) (NNS contacts))
+            (PP (IN on)
+              (NP (DT the) (NN solder) (NN cream) (JJ coated) (NNS pads)))))))
+    (. .)))
+

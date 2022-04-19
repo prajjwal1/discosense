@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (NP (NNS republicans))
+    (VP (VBP have)
+      (VP (VBN shot)
+        (PRT (RP down))
+        (NP (DT these) (NNS recommendations))
+        (PP (IN in)
+          (NP (DT the) (NN past)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB conversely))
+    (NP
+      (NP (DT a) (CD 2007) (NN bill))
+      (SBAR
+        (WHNP (WDT that))
+        (S
+          (VP (MD would)
+            (VP (VB have)
+              (VP (VBN reduced)
+                (NP
+                  (NP (DT the) (NN number))
+                  (PP (IN of)
+                    (NP (NN family) (NNS visas))))))))))
+    (VP (VBD did) (RB not)
+      (VP (VB advance)
+        (PP (IN in)
+          (NP
+            (NP (DT the) (NN senate))
+            (PP (VBG following)
+              (NP
+                (NP (NN protest))
+                (PP (IN from)
+                  (NP
+                    (NP (DT some) (NNS democrats))
+                    (CC and)
+                    (NP (DT the) (JJ catholic) (NN church))))))))))
+    (. .)))
+

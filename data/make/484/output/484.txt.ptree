@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (NP (DT the) (JJ compressed) (NN mode) (NN frame))
+    (VP (VBZ is)
+      (VP (VBN transmitted)
+        (PP (IN at)
+          (NP
+            (NP (DT a) (JJR higher) (NN transmission) (NN power))
+            (PP (IN than)
+              (NP
+                (NP (DT the) (NN frame))
+                (PP (IN in)
+                  (NP (JJ normal) (NN transmission)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB consequently))
+    (NP (NN transmission) (NN quality))
+    (VP (MD can)
+      (VP (VB be)
+        (VP (VBN maintained)
+          (ADVP (RB even))
+          (PP (IN in)
+            (NP
+              (NP (NN frame) (NN transmission))
+              (PP (IN in)
+                (NP (JJ compressed) (NN mode))))))))
+    (. .)))
+

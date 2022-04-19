@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (NP (JJ international) (NN ophthalmology))
+    (VP (VBZ has)
+      (NP
+        (NP (JJ regular) (NNS sections))
+        (VP (VBN devoted)
+          (PP
+            (PP (TO to)
+              (NP (JJ geographical) (NN ophthalmology)))
+            (, ,)
+            (CC and)
+            (PP (TO to)
+              (NP (JJ new) (NNS developments) (, ,) (NNS products)
+                (CC and)
+                (NNS techniques)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN sum)))
+    (NP (JJ international) (NN ophthalmology))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (NN journal))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBZ provides)
+              (NP (JJ complete) (NN postgraduate) (NN information)))))))
+    (. .)))
+

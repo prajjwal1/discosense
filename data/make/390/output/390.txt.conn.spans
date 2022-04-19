@@ -1,0 +1,5 @@
+0..2 0 as 390.txt 0
+3..6 0 for 390.txt 0
+75..86 1 for_example 390.txt 0
+87..89 1 if 390.txt 0
+137..140 1 for 390.txt 0

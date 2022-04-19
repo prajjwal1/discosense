@@ -1,0 +1,60 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT no) (NN place))
+        (PP (IN on)
+          (NP (NN earth))))
+      (VP (MD can)
+        (VP
+          (VP (VB duplicate)
+            (NP (PRP$ its) (NNS geysers)))
+          (CC and)
+          (VP (VB bubbling)
+            (NP (JJ hot) (NNS springs))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBZ dwarfs)
+        (NP (JJ grand) (NN teton))
+        (PP
+          (PP (IN in)
+            (NP (NN size)))
+          (CC and)
+          (PP (IN in)
+            (NP
+              (NP (DT the) (NN diversity))
+              (PP (IN of)
+                (NP (PRP$ its) (NNS ecosystems))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN contrast)))
+    (NP (PRP you))
+    (VP (MD can)
+      (VP (VB drive)
+        (NP
+          (NP (DT the)
+            (QP (JJR more) (IN than) (CD 50))
+            (NNS miles))
+          (PP (IN of)
+            (NP (JJ grand) (NN teton) (NN park) (NNS roads))))
+        (PP (IN without)
+          (S
+            (VP (VBG being)
+              (NP
+                (NP (NN part))
+                (PP (IN of)
+                  (NP
+                    (NP (DT a) (NN convoy))
+                    (PP (IN of)
+                      (NP
+                        (ADJP (JJ anxious)
+                          (CC and)
+                          (JJ impatient))
+                        (NNS tourists)))))))))))
+    (. .)))
+

@@ -1,0 +1,48 @@
+(ROOT
+  (S
+    (NP (PRP he))
+    (VP (VBD was)
+      (VP (VBN lifted)
+        (PP (IN with)
+          (NP
+            (NP (DT a)
+              (ADJP (JJ little)
+                (PP (IN over)
+                  (NP
+                    (NP (CD eight) (NNS minutes))
+                    (VP (VBG remaining)
+                      (PP (IN in)
+                        (NP
+                          (NP (NN favor))
+                          (PP (IN of)
+                            (NP (NNS james)))))))))
+              (JJ strange))
+            (, ,)
+            (SBAR
+              (WHNP (WP who))
+              (S
+                (VP (VBD logged)
+                  (SBAR
+                    (S
+                      (NP (CD three))
+                      (VP (VBZ saves)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ overall) (JJ umaine) (NN farmington) (NN outshot) (NNS lyndon))
+    (VP
+      (VP (VBP state)
+        (NP (CD 56) (CD 30)))
+      (, ,)
+      (CC and)
+      (VP (VBD had)
+        (NP
+          (NP (DT a)
+            (ADJP
+              (QP (CD 52) (CD 38)))
+            (NN advantage))
+          (PP (IN in)
+            (NP (NN ground) (NNS balls))))))
+    (. .)))
+

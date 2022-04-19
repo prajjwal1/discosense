@@ -1,0 +1,44 @@
+(ROOT
+  (S
+    (S
+      (NP (FW i))
+      (ADVP (RB always))
+      (VP (VBP feel)
+        (SBAR (IN like)
+          (S
+            (NP (PRP$ their) (NNS beers))
+            (VP (VBP are) (RB not)
+              (VP
+                (ADVP (RB quite) (RB as))
+                (VBN nuanced)
+                (PP (IN as)
+                  (NP (PRP$ their) (NN belgian) (NNS inspirations)))))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP they))
+      (VP (VBP are)
+        (ADVP (RB always))
+        (ADJP (JJ good))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VBG interestingly)
+        (PP (IN in)
+          (NP (CD 2003)))))
+    (, ,)
+    (NP
+      (NP (DT the) (NNS founders))
+      (PP (IN of)
+        (NP (NN ommegang))))
+    (VP (VBD sold)
+      (NP
+        (NP (PRP$ their) (NNS shares))
+        (PP (IN of)
+          (NP (DT the) (NN brewery))))
+      (PP (TO to)
+        (NP (DT the) (NN belgian) (NN brewery) (NN brouwerij) (NN duvel) (NN moortgat))))
+    (. .)))
+

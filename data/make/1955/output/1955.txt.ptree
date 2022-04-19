@@ -1,0 +1,48 @@
+(ROOT
+  (S
+    (NP
+      (NP (VBG mcquaig) (NN explainedno) (NN energy) (NN source))
+      (PP (IN in)
+        (NP (NN view))))
+    (VP (VBZ is)
+      (ADJP
+        (ADJP (RB as) (JJ effective))
+        (, ,)
+        (ADJP (JJ versatile))
+        (, ,)
+        (CC and)
+        (ADJP (JJ potent)
+          (PP (IN as)
+            (NP (NN oil))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB yet))
+    (NP
+      (NP (DT the) (NN solution))
+      (PP (TO to)
+        (NP (PRP$ our) (NN dilemma))))
+    (VP (VBZ is)
+      (S
+        (VP (TO to)
+          (VP (VB rely)
+            (PP (IN on)
+              (NP (NNS lots)))))))
+    (NP
+      (NP (JJR less))
+      (PP (IN of)
+        (NP (PRP it))))
+    (, ,)
+    (S
+      (VP (VBG substituting)
+        (NP
+          (NP (RBR less)
+            (ADJP (RB ecologically) (JJ damaging))
+            (NNS sources))
+          (PP (IN like)
+            (NP (NN wind) (, ,) (NN sun)
+              (CC and)
+              (NNS waves))))))
+    (. .)))
+

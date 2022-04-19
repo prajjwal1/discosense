@@ -1,0 +1,1 @@
+in typical situations, this goal is easily achieved with 16 or 32 bit checksums. in contrast file fingerprints need to be at least 64 bit long to guarantee virtual uniqueness in large file systems.

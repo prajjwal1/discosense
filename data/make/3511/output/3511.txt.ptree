@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (NP (PRP$ his) (JJ controversial) (NN adolescence))
+    (VP (VBD was)
+      (VP (VBN banned)
+        (PP (IN from)
+          (NP
+            (NP (DT some) (NNS libraries))
+            (PP (RB because) (IN of)
+              (NP
+                (NP (PRP$ its)
+                  (ADJP
+                    (ADJP (JJ lengthy))
+                    (CC and)
+                    (ADJP (RB sometimes) (JJ lyrical)))
+                  (NN treatment))
+                (PP (IN of)
+                  (NP (NN sex)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB yet))
+    (NP (DT the) (NN book))
+    (VP (VBD was)
+      (ADVP (RB also))
+      (VP (VBN characterized)
+        (PP (IN by)
+          (NP
+            (NP (JJ urgent) (JJ religious) (NNS strictures))
+            (PP (IN on)
+              (NP (NN behavior)))))))
+    (. .)))
+

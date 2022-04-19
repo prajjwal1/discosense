@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (PP (IN as)
+      (NP (DT a) (NN sophomore)))
+    (, ,)
+    (NP (PRP he))
+    (VP (VBD endured)
+      (NP
+        (NP (DT an) (NN injury))
+        (VP (VBN plagued)
+          (NP (NN season)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nonetheless))
+    (NP (JJ big) (NNS things))
+    (VP (VBD were)
+      (VP (VBN expected)
+        (PP (IN of)
+          (NP (PRP him)))
+        (PP (IN as)
+          (NP (DT a) (NN junior)))))
+    (. .)))
+

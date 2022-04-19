@@ -1,0 +1,35 @@
+(ROOT
+  (S (IN for)
+    (NP (NN romney))
+    (VP (VBZ is) (RB not)
+      (NP (PRP$ your) (JJ average) (, ,) (JJ honest) (, ,) (JJ hardworking) (NN american)))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (RB rather)
+      (S
+        (NP (PRP he))
+        (VP (VBZ is)
+          (NP
+            (NP (DT a)
+              (ADJP (NN self) (VBD centered))
+              (, ,) (NN predatory) (NN capitalist))
+            (SBAR
+              (WHNP (WP who))
+              (S
+                (ADVP (RB also))
+                (VP (VBZ has)
+                  (NP (DT no) (NN clue))
+                  (PP (IN as)
+                    (PP (TO to)
+                      (NP (DT the) (JJ regular)))))))))))
+    (, ,)
+    (NP (JJ everyday) (NNS americans))
+    (ADVP (JJ real))
+    (VP
+      (VP (VBZ wants))
+      (CC and)
+      (VP (VBZ needs)))
+    (. .)))
+

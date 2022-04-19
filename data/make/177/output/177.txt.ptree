@@ -1,0 +1,72 @@
+(ROOT
+  (S (CC but)
+    (SBAR (IN if)
+      (S
+        (NP (NNS people))
+        (VP
+          (VP (VBP think)
+            (SBAR (IN that)
+              (S
+                (NP (PRP they))
+                (VP (VBP are)
+                  (VP (VBG getting)
+                    (NP (JJ active) (NN management)))))))
+          (, ,)
+          (CC and)
+          (VP (VBP believe)
+            (SBAR
+              (S
+                (NP (PRP it))
+                (VP (MD will)
+                  (VP (VB protect)
+                    (NP (PRP them))
+                    (PP (IN from)
+                      (NP (DT the) (NN market)
+                        (CC and)
+                        (NN volatility)))))))))))
+    (, ,)
+    (NP
+      (NP (DT a) (NN lack))
+      (PP (IN of)
+        (NP (JJ effective) (NN management))))
+    (VP (VBZ is)
+      (ADJP (RB potentially) (JJ disastrous)))
+    (. .)))
+
+(ROOT
+  (S
+    (PP
+      (ADVP (RB likewise))
+      (IN from)
+      (NP (DT a) (JJ legal) (NN perspective)))
+    (, ,)
+    (NP
+      (NP
+        (NP (NNS promises))
+        (PP (IN of)
+          (NP (JJ active) (NN management))))
+      (SBAR
+        (WHNP (WDT that))
+        (S
+          (VP (VBP create)
+            (NP
+              (NP (DT an) (NN impression))
+              (PP (IN of)
+                (NP
+                  (ADJP (JJ powerful)
+                    (CC and)
+                    (JJ effective))
+                  (NN loss) (NN control)))))))
+      (, ,))
+    (VP (MD may)
+      (VP (VB lead)
+        (PP (TO to)
+          (NP
+            (NP (NNS awards))
+            (PP (IN of)
+              (NP
+                (NP (NNS damages))
+                (PP (IN in)
+                  (NP (NN court)))))))))
+    (. .)))
+

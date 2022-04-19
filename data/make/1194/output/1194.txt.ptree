@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (NP (DT the) (NNS results))
+    (VP (VBP show)
+      (SBAR (IN that)
+        (S
+          (NP (NNS women))
+          (VP (VBP are)
+            (NP
+              (NP (DT the) (NN majority))
+              (PP (IN among)
+                (NP
+                  (NP (JJ young) (NNS teachers))
+                  (VP (VBG having)
+                    (NP
+                      (NP (JJR less) (NN experience))
+                      (PP (IN in)
+                        (NP (JJ special) (NN education))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN on)
+      (NP (DT the) (NN contrary)))
+    (NP
+      (NP (NNS men))
+      (PP (IN between)
+        (NP
+          (NP (CD 31))
+          (ADJP
+            (NP (CD 50) (NNS years))
+            (JJ old)))))
+    (VP (VBP are)
+      (ADJP
+        (ADJP (RB comparatively) (JJR more))
+        (PP (IN than)
+          (NP (NNS women)))))
+    (. .)))
+

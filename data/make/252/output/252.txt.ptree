@@ -1,0 +1,47 @@
+(ROOT
+  (S
+    (NP (DT this) (NN book))
+    (VP (VBZ does) (RB not)
+      (VP (VB deal)
+        (PP (IN with)
+          (NP (JJ social) (NNS systems)))
+        (PP (IN from)
+          (NP (DT this) (NN perspective)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB rather))
+    (NP (PRP it))
+    (VP (VBZ examines)
+      (NP
+        (NP (NN self))
+        (VP (VBG organizing)
+          (NP
+            (NP (NNS systems) (NNS models))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (VBP seek)
+                  (S
+                    (VP (TO to)
+                      (VP (VB explain)
+                        (NP
+                          (NP (DT the) (NN emergence))
+                          (PP (IN of)
+                            (NP (NNS patterns) (NN behavior))))
+                        (PP (IN in)
+                          (NP
+                            (NP (NNS systems))
+                            (SBAR
+                              (WHNP (WDT that))
+                              (S
+                                (VP (VBP are)
+                                  (ADVP (RB initially))
+                                  (PP (IN in)
+                                    (NP
+                                      (NP (DT a) (NN state))
+                                      (PP (IN of)
+                                        (NP (NN disorganization))))))))))))))))))))
+    (. .)))
+

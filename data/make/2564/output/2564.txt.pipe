@@ -1,0 +1,1 @@
+Explicit|||137..151||in other words||1|in other words|||Expansion.Restatement|||||||||||0..135|0|on top of the pcie bus there is a dma engine that makes it possible for a nic to read and write from to host memory without using a cpu||||||||152..256|1|while the nic is active, it will always read and write packets on its own, with minimal cpu intervention|||||||||||||

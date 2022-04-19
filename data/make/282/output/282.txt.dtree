@@ -1,0 +1,15 @@
+det(interpretation-2, this-1)
+nsubj(exclude-5, interpretation-2)
+aux(exclude-5, does-3)
+neg(exclude-5, not-4)
+root(ROOT-0, exclude-5)
+amod(love-7, mans-6)
+dobj(exclude-5, love-7)
+prep_to(exclude-5, god-9)
+
+det(contrary-3, the-2)
+prep_on(includes-5, contrary-3)
+nsubj(includes-5, it-4)
+root(ROOT-0, includes-5)
+dobj(includes-5, it-6)
+

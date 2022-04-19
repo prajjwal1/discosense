@@ -1,0 +1,41 @@
+(ROOT
+  (S (CC but)
+    (NP (DT the) (NN reality))
+    (VP (VBZ is)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (MD can)
+            (VP
+              (VP (VB be)
+                (ADJP (JJ modern))
+                (, ,)
+                (ADVP (RB antique)))
+              (CC or)
+              (VP (VB reflect)
+                (NP
+                  (NP (DT the) (NN style))
+                  (PP (IN of)
+                    (NP (DT any) (NN period))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB however))
+    (NP (PRP you))
+    (VP (VBP have)
+      (S
+        (VP (TO to)
+          (VP (VB bring)
+            (PP (TO to)
+              (NP
+                (NP (DT the) (NN material))
+                (ADVP (PRP itself))))
+            (NP
+              (NP (DT a) (NN knowledge))
+              (PP (IN of)
+                (NP (NN style)
+                  (CC and)
+                  (NN design))))))))
+    (. .)))
+

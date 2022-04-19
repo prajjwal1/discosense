@@ -1,0 +1,55 @@
+(ROOT
+  (S
+    (INTJ (DT that) (VBZ is))
+    (, ,)
+    (S
+      (NP (PRP they))
+      (VP (VBD tended)
+        (S
+          (VP (TO to)
+            (VP (VB trust)
+              (NP (DT the) (NN non) (NN expert) (NN reviewer))
+              (ADVP
+                (ADVP (RBR more))
+                (SBAR
+                  (WHADVP (WRB when))
+                  (S
+                    (NP (PRP he))
+                    (VP (VBD was)
+                      (ADJP (RB very) (JJ confident)
+                        (PP (IN than)
+                          (SBAR
+                            (WHADVP (WRB when))
+                            (S
+                              (NP (PRP he))
+                              (VP (VBD was) (RB not)
+                                (ADJP (RB so) (JJ confident))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN contrast)))
+    (NP (PRP they))
+    (VP (VBD tended)
+      (S
+        (VP (TO to)
+          (VP (VB trust)
+            (NP (DT the) (NN expert) (NN reviewer))
+            (ADVP
+              (ADVP (RBR more))
+              (SBAR
+                (WHADVP (WRB when))
+                (S
+                  (NP (PRP he))
+                  (VP (VBD was)
+                    (ADJP (JJ tentative)
+                      (PP (IN than)
+                        (SBAR
+                          (WHADVP (WRB when))
+                          (S
+                            (NP (PRP he))
+                            (VP (VBD was)
+                              (ADJP (RB very) (JJ confident)))))))))))))))
+    (. .)))
+

@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (NP
+      (NP (JJ saudi) (NNS arabias) (NN closeness))
+      (PP (IN with)
+        (NP (NN egypt))))
+    (VP (VBZ is)
+      (NP (DT an) (JJ expensive) (NN friendship))
+      (, ,)
+      (S
+        (VP (VBG costing)
+          (NP
+            (NP (JJ riyadh) (NNS billions))
+            (PP (IN of)
+              (NP (NNS dollars))))
+          (PP
+            (ADVP (RB just))
+            (IN in)
+            (NP (DT the) (JJ last) (NN year))))))
+    (. .)))
+
+(ROOT
+  (S (CC but)
+    (NP (DT the) (NNS saudis))
+    (VP (VB gain)
+      (NP
+        (NP
+          (NP (DT some) (NNS dividends))
+          (, ,)
+          (NP
+            (NP
+              (ADJP (RB not) (JJS least))
+              (DT an) (NN ally))
+            (PP (IN with)
+              (NP (DT the) (JJ arab) (NNS worlds)))))
+        (ADJP (RBS most) (JJ powerful))
+        (NN military)))
+    (. .)))
+

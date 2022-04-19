@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP we))
+      (VP (MD would)
+        (ADVP (RB truly))
+        (VP (VB love)
+          (S
+            (VP (TO to)
+              (VP (VB join)
+                (NP (PRP you))
+                (NP (NN tonight))))))))
+    (, ,)
+    (CC but)
+    (S
+      (ADVP (RB tragically))
+      (NP (PRP we))
+      (VP (VBP are)
+        (PP (IN in)
+          (NP
+            (NP (NN brazil))
+            (VP (VBG engaging)
+              (PP (IN in)
+                (NP (NN hardcore) (NN journalism))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB however))
+    (NP (PRP you))
+    (VP (VBP are)
+      (ADVP (RB as) (RB always))
+      (ADJP (JJ welcome)
+        (S
+          (VP (TO to)
+            (VP (VB share)
+              (NP (PRP$ your) (NNS comments))
+              (PRT (RP down))
+              (PP (IN in)
+                (NP (DT the) (NNS comments) (NN section))))))))
+    (. .)))
+

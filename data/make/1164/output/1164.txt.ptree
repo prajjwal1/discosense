@@ -1,0 +1,43 @@
+(ROOT
+  (S (CC but)
+    (NP (DT this))
+    (VP (VBZ does) (RB not)
+      (VP (VB provide)
+        (NP (DT the) (JJ central) (NN bank))
+        (PP (IN with)
+          (NP
+            (NP (DT any) (JJ quantitative) (NNS controls))
+            (PP (IN over)
+              (NP (NN bank) (NNS loans)
+                (CC and)
+                (NNS deposits)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB rather))
+    (NP (DT the) (JJ central) (NN bank))
+    (VP
+      (VP (VBZ supplies)
+        (NP (NNS reserves))
+        (PP (IN on)
+          (NP (NN demand))))
+      (CC but)
+      (VP (VBZ sets)
+        (NP
+          (NP (NN thepriceat))
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (NP (PRP it))
+              (VP (VBZ supplies)
+                (NP
+                  (NP (NNS reserves))
+                  (SBAR
+                    (WHADVP (WRB when))
+                    (S
+                      (NP (PRP it))
+                      (VP (VBZ targets)
+                        (NP (DT the) (JJ overnight) (NN interest) (NN rate))))))))))))
+    (. .)))
+

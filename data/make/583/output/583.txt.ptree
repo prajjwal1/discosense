@@ -1,0 +1,47 @@
+(ROOT
+  (S
+    (NP (NNS symbols))
+    (VP (MD can)
+      (ADVP (RB very)
+        (ADVP (RB definitely)))
+      (VP (VB be)
+        (VP (VBN used)
+          (PP (IN as)
+            (NP (NNS tools)))
+          (PP (IN in)
+            (S
+              (VP (VBG adapting)
+                (NP (PRP oneself))
+                (ADVP (RB linguistically))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP
+        (NP (NN instance))
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP (FW i))
+            (VP (VBP want)
+              (S
+                (VP (TO to)
+                  (VP (VB talk)
+                    (PP (TO to)
+                      (NP
+                        (NP (DT a) (NN student))
+                        (PP (IN about)
+                          (NP (DT a) (JJ reflex) (NN action)))))))))))))
+    (, ,)
+    (NP (FW i))
+    (VP (VBP use)
+      (S
+        (NP (NNS pictures))
+        (VP (TO to)
+          (VP (VB aid)
+            (NP (PRP me))
+            (PP (IN in)
+              (NP (PRP$ my) (NN adaptation)))))))
+    (. .)))
+

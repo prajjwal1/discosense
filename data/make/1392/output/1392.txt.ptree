@@ -1,0 +1,59 @@
+(ROOT
+  (S
+    (PP (RB instead) (IN of)
+      (NP (JJ unaccompanied) (JJ vocal) (NN music)))
+    (, ,)
+    (PP (IN for)
+      (NP (NN example)))
+    (, ,)
+    (PP (IN in)
+      (NP (JJ baroque) (NNS compositions)))
+    (, ,)
+    (NP (NNS vocalists))
+    (VP (MD would)
+      (ADVP (RB often))
+      (VP (VB be)
+        (VP (VBN heard)
+          (PP (IN with)
+            (NP
+              (NP (NNS instrumentalists)
+                (CC or)
+                (NNS alternating))
+              (PP (IN between)
+                (NP
+                  (ADJP (JJ vocal)
+                    (CC and)
+                    (JJ instrumental))
+                  (NNS sections)))))
+          (S
+            (VP (TO to)
+              (VP (VB create)
+                (NP
+                  (NP (DT a) (NN contrast))
+                  (PP (IN in)
+                    (NP (NN timbre))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB likewise))
+    (NP
+      (NP (DT a) (JJ small) (NN group))
+      (PP (IN of)
+        (NP (NNS instruments))))
+    (VP (MD might)
+      (VP (VB be)
+        (VP (VBN alternated)
+          (PP (IN with)
+            (NP (DT a)
+              (ADJP (JJ large) (JJ instrumental))
+              (NN group)))
+          (S
+            (VP (TO to)
+              (VP (VB create)
+                (NP
+                  (NP (DT a) (NN contrast))
+                  (PP (IN of)
+                    (NP (NN texture))))))))))
+    (. .)))
+

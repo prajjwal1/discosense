@@ -1,0 +1,58 @@
+(ROOT
+  (S
+    (NP
+      (NP (NN tissue) (NNS dyed))
+      (PP (IN with)
+        (NP
+          (NP (DT both) (NNS types))
+          (PP (IN of)
+            (NP (NNS dyes))))))
+    (VP (MD will)
+      (VP
+        (VP (VB emit)
+          (NP (NN light))
+          (PP (IN at)
+            (NP
+              (NP (RB roughly) (DT the) (JJ same) (NN intensity))
+              (PP (IN from)
+                (S
+                  (VP (VBG moving)
+                    (NP (NN tissue))))))))
+        (CC and)
+        (VP
+          (ADVP (RB electrically))
+          (VB inactive)
+          (NP (NN tissue)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN by)
+      (NP (NN contrast) (NNS electrically)))
+    (NP (JJ active) (NN tissue))
+    (VP (MD will)
+      (VP (VB emit)
+        (NP (NN light))
+        (PP (IN at)
+          (NP
+            (NP (DT a) (JJ different) (NN intensity))
+            (PP (IN at)
+              (NP
+                (NP (DT the) (NN wavelength))
+                (PP (IN of)
+                  (NP (DT the)
+                    (ADJP
+                      (ADVP (RB electrically))
+                      (JJ sensitive))
+                    (NN dye)))))))
+        (PP (IN than) (IN at)
+          (NP
+            (NP (DT the) (NN wavelength))
+            (PP (IN of)
+              (NP (DT the)
+                (ADJP
+                  (ADVP (RB electrically))
+                  (JJ insensitive))
+                (NN reference) (NN dye)))))))
+    (. .)))
+

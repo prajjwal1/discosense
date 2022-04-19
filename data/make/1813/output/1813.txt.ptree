@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (NP (NN herc))
+    (VP (VBZ loves)
+      (S
+        (VP (TO to)
+          (VP (VB attack)
+            (NP
+              (NP (NNS shows))
+              (SBAR
+                (S
+                  (NP (PRP he))
+                  (VP (VBP doesnt)
+                    (VP (VB like)
+                      (PP (RB instead) (IN of)
+                        (S
+                          (ADVP (RB just))
+                          (VP (VBG ignoring)
+                            (NP (PRP them))
+                            (PP (IN into)
+                              (NP (DT the) (NN dust) (NNP bin)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB likewise))
+    (NP (PRP he))
+    (VP (VBZ lacks)
+      (NP (DT the) (NN objectivity)
+        (S
+          (VP (TO to)
+            (VP (VB discuss)
+              (ADJP (JJ supernatural)))))))
+    (. .)))
+

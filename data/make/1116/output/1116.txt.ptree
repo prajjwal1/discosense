@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (NP (DT the) (NN qrs) (NNS peaks))
+    (VP (VBP are)
+      (ADVP (RB then))
+      (VP
+        (ADVP (RB individually))
+        (VBN classified)
+        (PP (IN into)
+          (NP (JJ various) (NNS types)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB subsequently))
+    (NP
+      (NP (DT a) (NN time) (NN average))
+      (PP (IN over)
+        (NP (DT the) (NN registration) (NN period))))
+    (VP (VBZ is)
+      (VP (VBN formed)
+        (PP (IN within)
+          (NP (DT each) (NN type)))))
+    (. .)))
+

@@ -1,0 +1,66 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT another) (JJ important) (NN factor))
+      (PP (IN in)
+        (NP (JJ underage) (NN drinking))))
+    (VP (VBZ is)
+      (NP
+        (NP (NN availability))
+        (, ,)
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBZ is) (, ,)
+              (SBAR
+                (S
+                  (NP
+                    (NP (DT the) (NN degree))
+                    (PP (IN of)
+                      (NP (NN effort))))
+                  (VP (VBD required)
+                    (S
+                      (VP (TO to)
+                        (VP (VB obtain)
+                          (UCP
+                            (NP (NN alcohol))
+                            (, ,)
+                            (ADJP (RB as) (VBN determined)
+                              (PP (IN by)
+                                (ADJP (JJ geographic))))
+                            (, ,)
+                            (ADJP (JJ economic))
+                            (, ,)
+                            (CC and)
+                            (NP (JJ social) (NNS factors))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB consequently))
+    (NP
+      (NP (NNS interventions))
+      (VP (VBN aimed)
+        (PP (IN at)
+          (NP (DT the) (NN individual)))))
+    (VP (MD must)
+      (VP (VB be)
+        (VP (VBN supplemented)
+          (PP (IN by)
+            (NP (NN policy) (NNS changes)))
+          (S
+            (VP (TO to)
+              (VP (VB help)
+                (VP
+                  (VP (VB reduce)
+                    (NP (NN youth) (NN access))
+                    (PP (TO to)
+                      (NP (NN alcohol))))
+                  (CC and)
+                  (VP (VB decrease)
+                    (NP
+                      (NP (DT the) (JJ harmful) (NNS consequences))
+                      (PP (IN of)
+                        (NP (VBN established) (NN drinking))))))))))))
+    (. .)))
+

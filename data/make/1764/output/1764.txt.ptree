@@ -1,0 +1,37 @@
+(ROOT
+  (SINV
+    (PP (IN on))
+    (VP (MD may))
+    (NP
+      (NP (CD 26))
+      (, ,)
+      (NP
+        (NP (CD 1987))
+        (, ,)
+        (PP (IN at)
+          (NP
+            (NP (DT the) (NN outset))
+            (PP (IN of)
+              (NP
+                (NP (PRP$ his) (NN employment))
+                (PP (IN with)
+                  (NP (NN shuttleworth) (, ,) (NN nutter) (JJ signed) (NN anemployment) (NN agreement)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP
+      (ADVP (RB subsequently))
+      (IN on)
+      (NP (NNP february) (CD 12) (, ,) (CD 1990)))
+    (, ,)
+    (NP (NN shuttleworth)
+      (CC and)
+      (NN nutter))
+    (VP (VBD entered)
+      (PP (IN into)
+        (NP (NN anaddendum)))
+      (PP (TO to)
+        (NP (NN employment) (NN agreement))))
+    (. .)))
+

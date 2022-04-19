@@ -1,0 +1,15 @@
+mark(made-4, that-1)
+nsubjpass(made-4, they-2)
+auxpass(made-4, are-3)
+root(ROOT-0, made-4)
+advmod(better-6, much-5)
+acomp(made-4, better-6)
+prep_than(made-4, others-8)
+
+mark(have-3, although-1)
+nsubj(have-3, i-2)
+root(ROOT-0, have-3)
+neg(experience-6, no-4)
+amod(experience-6, personal-5)
+dobj(have-3, experience-6)
+

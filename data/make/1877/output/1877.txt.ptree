@@ -1,0 +1,60 @@
+(ROOT
+  (S
+    (ADVP (DT no) (NN matter)
+      (SBAR
+        (WHADVP (WRB how))
+        (S
+          (ADVP (RB strenuously))
+          (NP (DT the) (JJ israel) (NNS haters))
+          (VP (MD may)
+            (VP (NN yearn)
+              (PP (IN for)
+                (NP
+                  (NP (DT a)
+                    (ADJP
+                      (NP (PRP us))
+                      (JJ israel))
+                    (NN rift))
+                  (PP (IN over)
+                    (NP
+                      (NP (JJ jewish) (NN housing) (NN construction))
+                      (PP (IN in)
+                        (NP (JJ east) (NN jerusalem))))))))))))
+    (, ,)
+    (NP (PRP they))
+    (VP (MD will)
+      (VP (VB be)
+        (VP (VBN disappointed)
+          (PP (IN by)
+            (NP (DT this) (CD 8) (NN volume) (NN compilation))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (ADVP (RB nevertheless))
+    (PP (IN for)
+      (NP (JJ good) (NN measure)))
+    (, ,)
+    (VP (VBZ yishai)
+      (NP
+        (NP (NNS blends))
+        (PP (IN in)
+          (NP (NN american)
+            (CC and)
+            (NN israeli) (NN commentary))))
+      (S
+        (VP (VBG exposing)
+          (NP
+            (NP (NN palestinian) (NN criticism))
+            (PP (IN of)
+              (NP
+                (NP (JJ jewish) (NN construction))
+                (PP (IN in)
+                  (NP (JJ east) (NN jerusalem))))))
+          (PP (IN as)
+            (NP (NN nothing))))))
+    (NP
+      (QP (JJR more) (IN than) (CD anti))
+      (JJ semitic) (NN incitement))
+    (. .)))
+

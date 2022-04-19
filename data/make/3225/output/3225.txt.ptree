@@ -1,0 +1,18 @@
+(ROOT
+  (S
+    (NP (DT the) (NN email) (NNS congratulations))
+    (VP (VBP have)
+      (VP (VBN tapered)
+        (PRT (RP off))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (JJ short) (NN everyone) (NNS elses)))
+    (NP (NN excitement))
+    (VP (VBZ has)
+      (VP (VBN worn)
+        (PRT (RP off))))
+    (. .)))
+

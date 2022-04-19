@@ -1,0 +1,56 @@
+(ROOT
+  (S
+    (ADVP (RB therefore))
+    (NP (NN god))
+    (VP (VBZ does) (RB not)
+      (VP (VB prepare)
+        (NP
+          (NP (JJ unequal) (NNS things))
+          (PP (IN for)
+            (NP (NNS men))))
+        (PP (IN by)
+          (S
+            (VP
+              (VP (VBG predestinating))
+              (CC and)
+              (VP (VBG reprobating) (, ,)
+                (SBAR (IN unless)
+                  (FRAG
+                    (PP (IN through)
+                      (NP
+                        (NP (DT the) (NN foreknowledge))
+                        (PP (IN of)
+                          (NP (PRP$ their) (NNS merits)
+                            (CC and)
+                            (NNS demerits)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (PP (IN on)
+        (NP (DT the) (NN contrary)))
+      (NP (DT the) (NN apostle))
+      (VP (VBZ says)
+        (PP (RB not) (IN by)
+          (NP
+            (NP (NNS works))
+            (PP (IN of)
+              (NP (NN justice)))
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (NP (PRP we))
+                (VP (VBP have)
+                  (VP (VBN done)))))))))
+    (, ,)
+    (CC but)
+    (S
+      (PP (VBG according)
+        (PP (TO to)
+          (NP (PRP$ his) (NN mercy))))
+      (NP (PRP he))
+      (VP (VBD saved)
+        (NP (PRP us))))
+    (. .)))
+

@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (RB only) (JJ possible) (NN basis))
+      (PP (IN for)
+        (NP (DT this) (NN concession))))
+    (, ,)
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (NN applicability))
+        (PP (IN of)
+          (NP
+            (NP (NN section) (CD 1371))
+            (PP (TO to)
+              (NP (NN section) (CD 1371)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nonetheless))
+    (NP (DT the) (NN secretary))
+    (VP
+      (ADVP (RB now))
+      (VBZ asserts)
+      (PP (IN for)
+        (NP (DT the) (JJ first) (NN time)))
+      (SBAR (IN that)
+        (S
+          (NP (NN section) (CD 1371))
+          (VP (VBZ does) (RB not)
+            (VP (VB apply)
+              (PP (TO to)
+                (NP
+                  (NP (NNS permits))
+                  (VP (VBN issued)
+                    (PP (IN under)
+                      (NP (NNS sections) (CD 1371)
+                        (CC and)
+                        (CD 1374)))))))))))
+    (. .)))
+

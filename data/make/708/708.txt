@@ -1,0 +1,1 @@
+these state machine related callbacks above generally do not replace formal event callbacks that a driver can register for using conventional registration apis. for instance if the driver registered for a state change notification on a restarting self managed io state, it would not replace the evtdeviceselfmanagediorestart callback related to this state.

@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (NP (PRP he))
+    (VP (VBD had)
+      (NP
+        (NP (CD 11) (NNS years))
+        (PP (IN of)
+          (NP
+            (NP (CD four) (NN war))
+            (CC or)
+            (NP (JJR better)))))
+      (PP (VBN compared)
+        (PP (TO to)
+          (NP
+            (NP (CD 14))
+            (PP (IN for)
+              (NP (NN whitaker)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN on)
+      (NP (DT the) (JJ other) (NN hand)))
+    (NP (NN trammell))
+    (VP (VBZ does)
+      (VP (VB have)
+        (NP
+          (NP (DT some) (JJR darker) (JJ green) (NNS boxes))
+          (VP (VBG indicating)
+            (SBAR (IN that)
+              (S
+                (NP (PRP$ his) (JJS best) (NNS years))
+                (VP (VBD were)
+                  (ADJP (JJR better))
+                  (PP (IN than)
+                    (NP (NNS whitakers)))
+                  (NP (JJS best) (NNS years)))))))))
+    (. .)))
+

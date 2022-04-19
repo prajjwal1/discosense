@@ -1,0 +1,52 @@
+(ROOT
+  (S
+    (PP (IN on)
+      (NP (DT the) (JJ bright) (NN side)))
+    (, ,)
+    (S
+      (NP (NNS sales))
+      (ADVP (RB still))
+      (VP (VBD grew)
+        (NP (CD 9.5) (NN %))
+        (NP (NN year))
+        (PP (IN over)
+          (NP (NN year)))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (JJ top) (NN line))
+      (VP (VBZ has)
+        (VP (VBN grown)
+          (PP (IN at)
+            (NP
+              (NP (DT an) (JJ annual) (NN rate))
+              (PP (IN of)
+                (NP
+                  (NP (CD 26.7) (NN %))
+                  (PP (IN over)
+                    (NP (DT the) (JJ past) (CD three) (NNS years))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB similarly))
+    (NP (JJ net) (NN income))
+    (VP
+      (VP (VBD rose)
+        (ADVP (RB close)
+          (PP (TO to)
+            (NP (CD 15) (NN %))))
+        (PP (IN in)
+          (NP (CD 2012))))
+      (, ,)
+      (CC and)
+      (VP (VBD grew)
+        (PP (IN at)
+          (NP
+            (NP (DT a) (NN rate))
+            (PP (IN of)
+              (NP (CD 85) (NN %)))))
+        (PP (IN over)
+          (NP (DT the) (JJ same) (NN period)))))
+    (. .)))
+

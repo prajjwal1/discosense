@@ -1,0 +1,45 @@
+(ROOT
+  (S
+    (ADVP (RB however))
+    (, ,)
+    (NP (JJ sempers) (NN predecessor))
+    (VP (VBD changed)
+      (NP (DT the) (NN order))
+      (SBAR (IN before)
+        (S
+          (NP (PRP he))
+          (VP
+            (VP (VBD left))
+            (CC and)
+            (VP (VBD was)
+              (NP
+                (NP (DT the) (JJ only) (NN decision))
+                (SBAR
+                  (WHNP (WDT that))
+                  (S
+                    (VP (VBD lasted))))))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (PP (RB because) (IN of)
+      (NP
+        (NP (DT that))
+        (VP (VBN arad))))
+    (VP
+      (VP (VBD began)
+        (NP
+          (NP (DT a) (JJ large) (NN line))
+          (PP (IN of)
+            (NP (NN hobgoblin) (NNS toys)))))
+      (CC and)
+      (VP (JJ pressured)))
+    (NP
+      (NP (NN semper))
+      (PP (IN into)
+        (S
+          (VP (VBG using)
+            (NP (DT the) (NN character))
+            (ADVP (RB first))))))
+    (. .)))
+

@@ -1,0 +1,48 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT the) (NN audax) (NN branch))
+        (PP (IN of)
+          (NP (NN cycling))))
+      (VP (VBZ is)
+        (ADJP (RB comparatively) (JJ small))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (NNS fatalities))
+      (VP (VBP are)
+        (ADVP (RB deeply))
+        (VP (VBN felt)
+          (PP (IN throughout)
+            (NP (PRP$ its) (NN community))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN as)
+      (NP (DT a) (NN result)))
+    (NP (NN audax) (NNS members))
+    (VP (VBP have)
+      (VP (VBN agreed)
+        (PP (TO to)
+          (NP
+            (NP (PRP$ his) (JJ familys) (NN request))
+            (PP (IN for)
+              (NP (NNS volunteers)))))
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (ADJP (JJ pallbearers)
+                (PP (IN at)
+                  (NP
+                    (NP (PRP$ his) (NN funeral))
+                    (PP (IN on)
+                      (NP (JJ thursday) (NN morning))))))
+              (PP (IN at)
+                (NP
+                  (NP (NN rosebud))
+                  (, ,)
+                  (NP (NN victoria)))))))))
+    (. .)))
+

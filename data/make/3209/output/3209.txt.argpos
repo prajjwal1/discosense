@@ -1,0 +1,2 @@
+conn:but conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_but with_prev1_POS_full:,_CC prev2:educated prev2_POS:VBN with_prev2_full:educated_but with_prev2_POS_full:VBN_CC NA
+conn:in_particular conn_POS:IN_JJ sent_pos:0 NA

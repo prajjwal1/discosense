@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (NP (PRP it))
+    (VP (VBZ is)
+      (NP
+        (NP (NN time))
+        (, ,)
+        (ADVP (RB however))
+        (, ,)
+        (S
+          (VP (TO to)
+            (VP (VB stop)
+              (S
+                (VP (VBG pandering)
+                  (PP (TO to)
+                    (NP (PRP$ their) (NN plight))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB instead))
+    (NP (NNS reformers))
+    (VP (MD should)
+      (VP (VB respond)
+        (PP (TO to)
+          (NP
+            (NP (DT the) (JJ crying) (NN need))
+            (PP (IN for)
+              (NP (NN transparency)
+                (CC and)
+                (NN understanding)))))
+        (PP (IN in)
+          (NP
+            (NP (DT a) (NN process))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (VBZ has)
+                  (VP (VBN taken)
+                    (PP (IN on)
+                      (NP
+                        (NP (NN circus))
+                        (PP (IN like)
+                          (NP (NNS proportions)))))))))))))
+    (. .)))
+

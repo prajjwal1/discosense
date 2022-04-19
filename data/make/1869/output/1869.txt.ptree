@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (PP (IN of)
+      (NP (NN course)))
+    (, ,)
+    (S
+      (VP (VBG being)
+        (NP (DT an) (JJ old) (NN story) (NN doesnt))))
+    (VP (VBP make)
+      (S
+        (NP (PRP it))
+        (NP (DT a) (JJ universal) (NN one))))
+    (. .)))
+
+(ROOT
+  (S (CC but)
+    (NP (DT the) (NN dynamic))
+    (VP (VBZ is)
+      (ADVP (RB universally))
+      (VP (VBN understood)))
+    (. .)))
+

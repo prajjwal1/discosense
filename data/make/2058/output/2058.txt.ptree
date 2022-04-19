@@ -1,0 +1,45 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (VBN stated) (NN interest))
+      (PP (IN on)
+        (NP (DT the) (NNS notes))))
+    (VP (MD will)
+      (VP (VB constitute)
+        (NP
+          (ADJP (VBN qualified))
+          (VBN stated) (NN interest))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thus))
+    (NP (DT a) (NN u.) (NN s.) (NN noteholder))
+    (VP (MD will)
+      (VP (VB be)
+        (VP (VBN required)
+          (S
+            (VP (TO to)
+              (VP (VB include)
+                (NP
+                  (NP (NN oid))
+                  (PP (IN in)
+                    (NP (NN income))))
+                (PP (IN in)
+                  (NP
+                    (NP (NN advance))
+                    (PP (IN of)
+                      (NP
+                        (NP (DT the) (NN receipt))
+                        (PP (IN of)
+                          (NP
+                            (NP (DT the) (NN cash))
+                            (SBAR
+                              (WHPP (TO to)
+                                (WHNP (WDT which)))
+                              (S
+                                (NP (JJ such) (NN oid))
+                                (VP (VBZ is)
+                                  (ADJP (JJ attributable)))))))))))))))))
+    (. .)))
+

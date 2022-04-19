@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (ADVP (RB well))
+    (VP (VB do)
+      (NP (DT this))
+      (PP (IN with)
+        (NP
+          (NP (DT the) (JJ same) (NN kind))
+          (PP (IN of)
+            (NP
+              (NP (NN pci) (NN sas) (NN adapter) (NN bracket))
+              (ADVP (RB as) (IN before)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP interestingly) (NNP intel))
+    (ADVP (RB also))
+    (VP (VBZ sells)
+      (NP
+        (NP (DT a) (NN sas) (NN expander))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP
+              (VP (VBZ uses)
+                (NP (DT the) (NN pci) (NN format)))
+              (CC and)
+              (ADVP (RB yet))
+              (VP (VBZ does) (RB not)
+                (VP (VB have)
+                  (NP (JJ external) (NN sff) (CD 8088) (NNS ports)))))))))
+    (. .)))
+

@@ -1,0 +1,61 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP
+        (NP (DT the) (JJ early) (NNS days))
+        (PP (IN of)
+          (NP (NN breastfeeding)))))
+    (, ,)
+    (NP (NNS mothers))
+    (ADVP (RB often))
+    (VP (VBP think)
+      (SBAR
+        (S
+          (NP (PRP they))
+          (VP (VBP are) (RB not)
+            (VP (VBG making)
+              (NP
+                (NP (JJ enough) (NN breastmilk))
+                (ADJP (JJ due)
+                  (S
+                    (VP (TO to)
+                      (VP (VB colostrum)
+                        (S
+                          (VP (VBG being)
+                            (ADJP (JJ small))
+                            (PP (IN in)
+                              (NP
+                                (NP (NN quantity))
+                                (CC and)
+                                (NP (PRP$ their) (JJ babys) (JJ frequent) (NN feeding) (NN pattern))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB interestingly))
+    (NP (DT a) (NNS womans) (NN body))
+    (VP (VBZ knows)
+      (S
+        (VP (TO to)
+          (VP (VB produce)
+            (NP
+              (NP (DT a) (JJ small) (NN amount))
+              (PP (IN of)
+                (NP (NN colostrum))))
+            (S
+              (VP (TO to)
+                (VP (VB match)
+                  (NP
+                    (NP (DT the) (JJ newborn) (NN belly))
+                    (, ,)
+                    (SBAR
+                      (WHNP (WDT which))
+                      (S
+                        (VP (VBZ is)
+                          (PP (IN about)
+                            (NP
+                              (NP (DT the) (NN size))
+                              (PP (IN of)
+                                (NP (DT a) (NN marble))))))))))))))))
+    (. .)))
+

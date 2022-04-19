@@ -1,0 +1,49 @@
+(ROOT
+  (S
+    (PP (IN for)
+      (NP (NN example)))
+    (, ,)
+    (NP (CD one)
+      (ADJP (JJ important) (JJ high))
+      (NN level) (NNS goal))
+    (VP (VBZ is)
+      (SBAR (IN that)
+        (S
+          (NP (DT the) (JJ tics) (NNS dialogues))
+          (VP (VBP do) (RB not)
+            (VP (VB interfere)
+              (PP (IN with)
+                (NP (DT the) (VBG driving) (NN activity))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB hence))
+      (NP (PRP we))
+      (VP (VBP suggest)
+        (SBAR (IN that)
+          (S
+            (NP (DT every) (JJ main) (NN principle))
+            (VP (MD should)
+              (VP (VB describe)
+                (NP (DT an) (NN activity))))))))
+    (CC and)
+    (S
+      (NP
+        (NP (DT the) (JJ high) (NN level) (NNS goals))
+        (PP (IN of)
+          (NP (NN usability))))
+      (VP (MD should)
+        (VP (VB be)
+          (VP (VBN defined)
+            (PP (IN by)
+              (NP
+                (NP (NNS means))
+                (PP (IN of)
+                  (NP
+                    (NP (DT the) (NNS attributes))
+                    (PP (IN of)
+                      (NP (DT the) (NNS users) (NNS activities)))))))))))
+    (. .)))
+

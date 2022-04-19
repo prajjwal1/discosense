@@ -1,0 +1,65 @@
+(ROOT
+  (S (CC and)
+    (PP (IN for)
+      (NP
+        (NP (DT the) (NN avoidance))
+        (PP (IN of)
+          (NP (NN doubt)))))
+    (, ,)
+    (NP (FW i))
+    (ADVP (RB personally))
+    (VP (VBP have)
+      (NP
+        (NP (DT no) (NN objection))
+        (PP (IN in)
+          (NP (NN principle))))
+      (PP (TO to)
+        (NP
+          (NP (NNS admins))
+          (PP (IN from)
+            (NP
+              (NP (JJ other) (NN language) (NNS versions))
+              (VP (VBG being)
+                (VP
+                  (ADVP (RB rapidly))
+                  (VBN promoted)
+                  (PP (TO to)
+                    (NP
+                      (NP (NN admin) (NN status))
+                      (PP (IN on)
+                        (NP (DT the) (FW en) (NN wikitravel))))))))))))
+    (. .)))
+
+(ROOT
+  (S (CC but)
+    (NP (EX there))
+    (VP (MD should)
+      (VP (VB be)
+        (NP (DT a) (JJ clear) (NN announcement))
+        (PP (IN on)
+          (NP (DT the) (JJ proper) (NN page)))
+        (NP (DT each) (NN time))
+        (SBAR
+          (SBAR
+            (S
+              (NP (DT this))
+              (VP (VBZ happens))))
+          (CC and)
+          (SBAR
+            (S
+              (NP (PRP you))
+              (ADVP (RB urgently))
+              (VP (VBP need)
+                (S
+                  (VP (TO to)
+                    (VP (VB revise)
+                      (NP (PDT all) (DT those) (NN policy) (NNS pages))
+                      (SBAR (IN that)
+                        (S
+                          (NP (PRP you))
+                          (ADVP (RB currently))
+                          (VP (VBP keep)
+                            (S
+                              (VP (VBG flouting)))))))))))))))
+    (. .)))
+

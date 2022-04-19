@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (PP (IN through)
+      (NP (JJ myriad) (NN study) (NNS models)))
+    (, ,)
+    (NP (DT the) (JJ visible) (NN weather) (NN team))
+    (VP (VBD experimented)
+      (PP (IN with)
+        (NP
+          (NP (PRP$ their) (NN implementation))
+          (PP (IN at)
+            (NP (DT a) (NN time)))))
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (PRP they))
+          (VP (VBD were) (RB not)
+            (VP (VBN limited)
+              (PP (IN by)
+                (S
+                  (VP (VBG preexisting)
+                    (NP (NN base) (NNS schemes))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB rather))
+    (NP (PRP they))
+    (VP (VBD were)
+      (VP (VBN nurtured)
+        (PP (IN alongside)
+          (NP
+            (NP (NNS considerations))
+            (PP (IN of)
+              (NP
+                (NP (NN form))
+                (, ,)
+                (NP (NN landscape))
+                (, ,)
+                (CC and)
+                (NP (NNS aesthetics))))))))
+    (. .)))
+

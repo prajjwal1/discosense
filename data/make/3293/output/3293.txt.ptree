@@ -1,0 +1,45 @@
+(ROOT
+  (S
+    (PP (IN by)
+      (S
+        (VP (VBG listening)
+          (PP (IN for)
+            (NP
+              (NP (DT the) (NNS echoes))
+              (PP (IN of)
+                (NP (DT these) (NNS calls))))))))
+    (, ,)
+    (NP (NNS bats))
+    (VP (VBP are)
+      (ADJP (JJ able)
+        (S
+          (VP
+            (VP (TO to)
+              (VP (VB find)
+                (NP (NNS insects))
+                (PP (IN in)
+                  (NP (DT the) (NN dark)))))
+            (CC and)
+            (VP (TO to)
+              (VP (VB fly)
+                (PP (IN through)
+                  (NP (JJ dark) (NNS caves)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thus))
+    (NP (NNS bats))
+    (VP (VBP are)
+      (NP
+        (NP (CD one))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (JJ few) (NNS predators))
+            (PP (IN on)
+              (NP (NN night) (VBG flying) (NNS insects)))))
+        (, ,)
+        (PP (JJ such) (IN as)
+          (NP (NNS mosquitoes)))))
+    (. .)))
+

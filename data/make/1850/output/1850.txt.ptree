@@ -1,0 +1,51 @@
+(ROOT
+  (S
+    (NP (NN reality))
+    (VP (VBZ is) (, ,)
+      (ADVP (IN after) (DT all))
+      (, ,)
+      (ADJP (RB too) (JJ big)
+        (PP (IN for)
+          (NP (PRP$ our) (JJ frail) (NN understanding))))
+      (PP (TO to)
+        (ADJP (RB fully) (JJ comprehend))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nevertheless))
+    (NP (PRP we))
+    (VP (VBP have)
+      (S
+        (VP (TO to)
+          (VP (VB build)
+            (NP (PRP$ our) (NN life))
+            (PP (IN on)
+              (NP
+                (NP (DT the) (NN theory))
+                (SBAR
+                  (WHNP (WDT which))
+                  (S
+                    (VP (VBZ contains)
+                      (NP (DT the) (JJ maximum) (NN truth)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP we))
+    (VP (MD can) (RB not)
+      (VP (VB sit)
+        (ADVP (RB still))
+        (SBAR (IN because)
+          (S
+            (NP (PRP we))
+            (VP
+              (VP (MD can) (RB not))
+              (, ,)
+              (CC or)
+              (VP (VBP do) (RB not))
+              (, ,)
+              (VP (VBP know)
+                (NP (DT the) (JJ absolute) (NN truth))))))))
+    (. .)))
+

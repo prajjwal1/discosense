@@ -1,0 +1,3 @@
+conn:however conn_POS:RB sent_pos:0 NA
+conn:for_example conn_POS:IN_NN sent_pos:0 NA
+conn:when conn_POS:WRB sent_pos:-3 prev1:heavier prev1_POS:RBR with_prev1_full:heavier_when with_prev1_POS_full:RBR_WRB prev2:become prev2_POS:VB with_prev2_full:become_when with_prev2_POS_full:VB_WRB NA

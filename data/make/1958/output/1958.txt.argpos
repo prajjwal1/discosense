@@ -1,0 +1,2 @@
+conn:because conn_POS:IN prev1:unsubbed prev1_POS:VBN with_prev1_full:unsubbed_because with_prev1_POS_full:VBN_IN prev2:i prev2_POS:FW with_prev2_full:i_because with_prev2_POS_full:FW_IN NA
+conn:but conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_but with_prev1_POS_full:,_CC prev2:notes prev2_POS:NNS with_prev2_full:notes_but with_prev2_POS_full:NNS_CC NA

@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (NP (NN wiesenthal))
+    (VP (VBD did) (RB not)
+      (VP (VB forgive)
+        (NP (PRP him))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB subsequently))
+    (NP (NN wiesenthal))
+    (VP
+      (VP (VBD wrote)
+        (PRT (RP up))
+        (NP
+          (NP (DT a) (JJ detailed) (NN account))
+          (PP (IN of)
+            (NP (DT the) (NN incident)))))
+      (CC and)
+      (VP (VBD sent)
+        (NP (PRP it))
+        (PP (TO to)
+          (NP (JJ leading) (NNS statesmen)
+            (CC and)
+            (NNS intellectuals)))
+        (, ,)
+        (S
+          (VP (VBG asking)
+            (NP (PRP them))))
+        (SBAR
+          (WHNP (WP what))
+          (S
+            (NP (PRP they))
+            (VP (MD would)
+              (VP (VB have)
+                (VP (VBN done)
+                  (PP (IN in)
+                    (NP (PRP$ his) (NN place))))))))))
+    (. .)))
+

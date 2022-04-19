@@ -1,0 +1,55 @@
+(ROOT
+  (S
+    (NP (DT the) (NN plaintiff))
+    (ADVP (RB below))
+    (VP (VBD complied)
+      (PP (IN with)
+        (NP
+          (NP (DT the) (NN law))
+          (PP (IN of)
+            (NP (NN maryland)))))
+      (, ,)
+      (PP (IN by)
+        (S
+          (VP (VBG stating)
+            (NP
+              (NP (PRP$ his) (NN cause))
+              (PP (IN of)
+                (NP
+                  (NP (NN action))
+                  (, ,)
+                  (SBAR
+                    (WHADVP (WRB when))
+                    (S
+                      (S
+                        (NP (DT the) (NN attachment))
+                        (VP (VBD was)
+                          (VP (VBN issued))))
+                      (CC and)
+                      (S
+                        (NP (DT the) (NN defendant))
+                        (VP
+                          (VP (VBD appeared))
+                          (CC and)
+                          (VP (VBD entered)
+                            (NP (DT a) (NN plea) (NN thereto))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB subsequently))
+    (NP (PRP he))
+    (VP (VBD filed)
+      (NP
+        (NP (DT a) (NN declaration))
+        (PP (IN of)
+          (NP
+            (NP (JJ indebitatus) (NN assumpsit))
+            (, ,)
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (VP (VBD was)
+                  (ADJP (JJ irregular)))))))))
+    (. .)))
+

@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN fact)))
+    (, ,)
+    (NP (NN confidence))
+    (VP (VBZ comes)
+      (PP (IN from)
+        (NP (JJ early) (NN preparation))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB therefore))
+    (NP (PRP we))
+    (VP (VBP need)
+      (S
+        (VP (TO to)
+          (VP (VB be)
+            (ADJP (RB well) (JJ prepared)
+              (PP (IN before)
+                (S
+                  (VP (VBG speaking)
+                    (PP (IN in)
+                      (NP (NN public)))))))))))
+    (. .)))
+

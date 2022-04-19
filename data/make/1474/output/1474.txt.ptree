@@ -1,0 +1,51 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP it))
+      (VP (VBZ sounds)
+        (ADVP (DT all) (RB well)
+          (CC and)
+          (RB good))))
+    (, ,)
+    (CC but)
+    (S
+      (PP (IN in)
+        (NP (NN reality)))
+      (NP (PRP we))
+      (VP (VBP are)
+        (ADVP (RB still))
+        (VP (VBG carrying)
+          (NP
+            (NP (DT the) (NN weight))
+            (PP (IN of)
+              (NP (NN sin)))
+            (SBAR
+              (S
+                (NP (PRP we))
+                (ADVP (RB cant))
+                (VP (VBP seem)
+                  (S
+                    (VP (TO to)
+                      (VP (VB forget)
+                        (CC or)
+                        (VB forgive)
+                        (NP (PRP ourselves))
+                        (PP (IN for))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB yet))
+    (NP (PRP$ his) (NN word))
+    (VP (VBZ assures)
+      (NP (PRP us))
+      (SBAR (IN that)
+        (S
+          (NP (NN god))
+          (VP (VBZ does) (RB not)
+            (VP (VB count)
+              (NP (PRP$ our) (NN sin))
+              (PP (IN against)
+                (NP (PRP us))))))))
+    (. .)))
+

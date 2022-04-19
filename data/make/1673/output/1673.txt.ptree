@@ -1,0 +1,48 @@
+(ROOT
+  (S
+    (NP (NN arunabha) (NN sengupta))
+    (VP (VBZ takes)
+      (NP
+        (NP (DT a) (NN look))
+        (PP (IN at)
+          (NP
+            (NP (DT some))
+            (PP (IN of)
+              (NP (PRP$ his) (JJ phenomenal) (NNS achievements))))))
+      (PP (IN till)
+        (NP (NN date))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (ADJP (JJ short)))
+    (NP (PRP he))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (NN face))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (JJ modern) (NN cricketer))
+            (NP
+              (NP (DT the) (NN batsman))
+              (SBAR
+                (WHNP (WP who))
+                (S
+                  (VP (VBZ knows)
+                    (NP (DT no) (NNS limits))
+                    (PP (TO to)
+                      (NP (NN strokeplay)))))))
+            (, ,)
+            (SBAR
+              (WHPP (IN for)
+                (WHNP (WP whom)))
+              (S
+                (NP (NN audacity))
+                (VP (VBZ is)
+                  (NP
+                    (NP (DT no) (NN fetter))
+                    (PP (IN for)
+                      (NP (NN temperament)))))))))))
+    (. .)))
+

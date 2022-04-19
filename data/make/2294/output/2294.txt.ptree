@@ -1,0 +1,61 @@
+(ROOT
+  (S
+    (NP (NN employment)
+      (CC and)
+      (NNS earnings))
+    (VP (VBP are)
+      (VP (VBG rising)
+        (PP (IN in)
+          (NP
+            (NP (DT both) (JJ high) (NN education))
+            (UCP
+              (ADJP (NN professional))
+              (, ,)
+              (NP (JJ technical))
+              (, ,)
+              (CC and)
+              (NP (JJ managerial) (NNS occupations))
+              (CC and)
+              (PRN (, ,)
+                (PP (IN since)
+                  (NP (DT the) (JJ late) (CD 1980) (NNS s)))
+                (, ,))
+              (PP (IN in)
+                (NP
+                  (NP (JJ low) (NN education) (NN food) (NN service))
+                  (, ,)
+                  (NP (JJ personal) (NN care))
+                  (, ,)
+                  (CC and)
+                  (NP (JJ protective) (NN service) (NNS occupations)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ conversely) (NN job) (NNS opportunities))
+    (VP (VBP are)
+      (VP (VBG declining)
+        (PP
+          (PP (IN in)
+            (NP
+              (NP (DT both) (JJ middle) (NN skill))
+              (, ,)
+              (NP (JJ white) (NN collar) (NN clerical))
+              (, ,)
+              (NP (JJ administrative))
+              (, ,)
+              (CC and)
+              (NP (NNS sales) (NNS occupations))))
+          (CC and)
+          (PP (IN in)
+            (NP
+              (NP (JJ middle) (NN skill))
+              (, ,)
+              (NP (JJ blue) (NN collar) (NN production))
+              (, ,)
+              (NP (NN craft))
+              (, ,)
+              (CC and)
+              (NP (JJ operative) (NNS occupations)))))))
+    (. .)))
+

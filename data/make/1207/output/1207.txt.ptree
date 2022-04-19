@@ -1,0 +1,50 @@
+(ROOT
+  (S
+    (ADVP (RB further))
+    (, ,)
+    (SBAR (IN since)
+      (S
+        (NP (DT this) (JJ sexual) (NN interest))
+        (VP (VBZ is)
+          (VP (VBG abiding)))))
+    (NP (PRP it))
+    (VP (MD will)
+      (ADVP (RB immediately))
+      (VP (VB impact)
+        (NP
+          (NP (DT any) (JJ possible) (NN relationship))
+          (PP (IN between)
+            (NP (DT the) (JJ potential) (NN man)
+              (CC and)
+              (NN woman))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB therefore))
+    (NP (PRP they))
+    (VP (MD should) (RB not)
+      (VP (VB seek)
+        (S
+          (VP (TO to)
+            (VP (VB discover)
+              (NP (DT a) (JJ potential) (NN spouse))
+              (ADVP (PRP themselves))
+              (, ,)
+              (SBAR (IN since)
+                (S
+                  (NP (DT that))
+                  (VP (MD will)
+                    (ADVP (RB inevitably))
+                    (VP (VB lead)
+                      (PP (TO to)
+                        (NP
+                          (NP (DT a)
+                            (ADJP
+                              (ADVP (RB sexually))
+                              (VBN charged))
+                            (NN relationship))
+                          (PP (IN of)
+                            (NP (DT some) (NN sort))))))))))))))
+    (. .)))
+

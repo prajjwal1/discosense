@@ -1,0 +1,45 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT any) (JJ drastic) (NN change))
+      (PP (IN in)
+        (NP
+          (NP (DT the) (NN tax) (NN system))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBP isrevenue)
+                (ADJP (JJ neutralwill))))))))
+    (VP (VBP have)
+      (NP (JJ short) (NN term) (JJ negative) (NN impact))
+      (, ,)
+      (SBAR (IN because)
+        (S
+          (NP (DT the) (NN economy))
+          (VP (VBZ has)
+            (VP (VBN evolved)
+              (PP (IN around)
+                (NP (DT the) (JJ current) (NN regime))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (ADVP (RB hence))
+      (IN if)
+      (S
+        (NP (PRP we))
+        (VP (VBD were)
+          (S
+            (VP (TO to)
+              (VP (VB follow)
+                (NP (JJ theprecautionary) (NN principleso) (NNS beloved))
+                (PP (IN by)
+                  (NP (NN agw) (NNS alarmists)))))))))
+    (, ,)
+    (NP (PRP we))
+    (VP (MD would) (RB not)
+      (VP (VB make)
+        (NP (JJ such) (JJ drastic) (NNS changes))))
+    (. .)))
+

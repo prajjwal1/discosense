@@ -1,0 +1,50 @@
+(ROOT
+  (S
+    (NP (NNS participants))
+    (VP (VBD broke)
+      (NP (JJ new) (NN ground))
+      (PP (IN on)
+        (NP
+          (NP (DT the) (NN understanding))
+          (PP (IN of)
+            (NP
+              (NP (JJ cultural) (NN diversity))
+              (, ,)
+              (NP (JJ developmental) (NNS issues))
+              (, ,)
+              (CC and)
+              (NP (JJ universal) (NNS principles)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP
+      (ADVP (RB subsequently))
+      (IN in)
+      (NP (CD 1997)))
+    (, ,)
+    (PP (IN with)
+      (NP
+        (NP (NN support))
+        (PP (IN from)
+          (NP
+            (NP (DT the) (NN center))
+            (PP (IN for)
+              (NP (JJ mental) (NN health) (NNS services)))))))
+    (, ,)
+    (NP (NNS imhi))
+    (VP (VBD convened)
+      (NP
+        (NP (DT a) (NN conference))
+        (PP (IN of)
+          (NP (NNS leaders))))
+      (PP (IN in)
+        (NP
+          (NP (NN education))
+          (, ,)
+          (NP (NN religion))
+          (, ,)
+          (CC and)
+          (NP (JJ mental) (NN health)))))
+    (. .)))
+

@@ -1,0 +1,1 @@
+broker dealers often check the liquidity available in these pools as a first choice prior to routing orders to an exchange. in sum no exchange possesses a monopoly, regulatory or otherwise, in the execution of order flow from broker dealers.

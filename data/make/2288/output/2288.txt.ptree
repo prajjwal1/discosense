@@ -1,0 +1,49 @@
+(ROOT
+  (S (IN so)
+    (NP (PRP we))
+    (VP (VBP expect)
+      (S
+        (VP (TO to)
+          (VP (VB be)
+            (ADJP (JJ able)
+              (S
+                (VP (TO to)
+                  (VP (VB pack)
+                    (NP (JJ deadly) (NNS bombs))
+                    (PP (IN into)
+                      (NP
+                        (ADJP
+                          (ADJP (RB ever) (JJR smaller))
+                          (, ,)
+                          (ADJP (JJR lighter))
+                          (CC and)
+                          (ADJP (RBR more) (JJ harmless)))
+                        (ADJP (VBG looking))
+                        (NNS packages)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN on)
+      (NP (DT the) (JJ other) (NN hand)))
+    (NP (PRP we))
+    (VP (VBP believe)
+      (SBAR
+        (S
+          (NP (PRP we))
+          (VP (MD will)
+            (VP (VB be)
+              (ADJP (JJ able)
+                (S
+                  (VP (TO to)
+                    (VP (VB make)
+                      (NP
+                        (NP (NNS bombs))
+                        (ADJP (RB much) (JJR bigger)))
+                      (PP (IN than)
+                        (NP
+                          (NP (DT any) (NN weve))
+                          (VP (VBN made)
+                            (ADVP (RB before))))))))))))))
+    (. .)))
+

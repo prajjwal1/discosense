@@ -1,0 +1,18 @@
+cc(dont-4, and-1)
+nsubj(dont-4, they-2)
+advmod(dont-4, clearly-3)
+root(ROOT-0, dont-4)
+nn(anything-6, challenge-5)
+dobj(dont-4, anything-6)
+advmod(dont-4, much-7)
+advmod(dont-4, least-9)
+det(correctness-13, all-11)
+amod(correctness-13, political-12)
+prep_of(dont-4, correctness-13)
+
+det(contrary-3, the-2)
+prep_on(hide-5, contrary-3)
+nsubj(hide-5, they-4)
+root(ROOT-0, hide-5)
+prep_behind(hide-5, it-7)
+

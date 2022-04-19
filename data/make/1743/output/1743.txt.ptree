@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (VP (VB ahh)
+      (NP
+        (NP (NN bob))
+        (, ,)
+        (NP (PRP$ its)
+          (ADJP (RB almost)
+            (PP (IN like)
+              (NP (DT the) (NN swedish))))
+          (NN one))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN although)
+      (S
+        (NP (PRP we))
+        (VP (VBP dont))))
+    (VP (VBP have)
+      (NP
+        (NP
+          (NP (NN coat))
+          (CC and)
+          (NP (NNS tails)))
+        (CONJP (CC but)
+          (RB only))
+        (NP
+          (NP (JJ nice) (JJ formal) (NNS clothings))
+          (PP (IN for)
+            (NP (DT the) (JJ public) (NN defense))))))
+    (. .)))
+

@@ -1,0 +1,44 @@
+(ROOT
+  (S
+    (PP (IN after)
+      (NP (DT all)))
+    (, ,)
+    (NP (DT the))
+    (VP
+      (VP (VB be)
+        (ADJP (JJ impressive)
+          (SBAR
+            (S
+              (NP (NN ethos))
+              (VP (VBD was)
+                (NP (DT a) (NN challenge)
+                  (S
+                    (VP (TO to)
+                      (VP (VB be)
+                        (ADJP (JJ true)
+                          (PP (TO to)
+                            (NP (PRP themselves)))))))))))))
+      (CC and)
+      (VP (VB make)
+        (NP
+          (NP (DT the) (JJS best) (NN record))
+          (SBAR
+            (S
+              (NP (PRP they))
+              (VP (MD could)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (IN as) (DT a))
+    (VP (VBP result)
+      (NP (PRP$ its)
+        (ADJP (JJ easy)
+          (PP (TO to)
+            (NP
+              (NP (NNP revel))
+              (PP (IN in)
+                (NP (DT the) (NNS griswolds))))))
+        (JJ uncomplicated) (NN worldview)))
+    (. .)))
+

@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (NP (DT this) (NN solution))
+    (VP (VBZ is) (RB not)
+      (VP (VBG being)
+        (VP (VBN proposed)
+          (PP (IN for)
+            (NP (NN st.) (NN petersburg))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (PP (IN by)
+        (NP (NN contrast)))
+      (NP (JJ universal) (NN curbside) (NN service))
+      (VP (MD would)
+        (VP
+          (VP (VB see)
+            (NP (DT the) (NN city) (NN sponsor) (NN collection) (NN service)))
+          (CC and)
+          (VP (VB give)
+            (NP (DT each) (NN household))
+            (NP (DT a) (NNP bin))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (NN participation))
+      (VP (MD would)
+        (ADVP (RB still))
+        (VP (VB be)
+          (ADJP (JJ voluntary)))))
+    (. .)))
+

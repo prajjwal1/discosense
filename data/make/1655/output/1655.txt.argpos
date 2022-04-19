@@ -1,0 +1,2 @@
+conn:because conn_POS:IN prev1:months prev1_POS:NNS with_prev1_full:months_because with_prev1_POS_full:NNS_IN prev2:9 prev2_POS:CD with_prev2_full:9_because with_prev2_POS_full:CD_IN NA
+conn:however conn_POS:RB sent_pos:0 NA

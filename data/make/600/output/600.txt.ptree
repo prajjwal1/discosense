@@ -1,0 +1,58 @@
+(ROOT
+  (S
+    (NP
+      (NP (JJ many) (NNS americans))
+      (, ,)
+      (PP (VBG including)
+        (NP (DT some) (JJ recent) (JJ herald) (NN letter) (NNS writers)))
+      (, ,))
+    (VP (VBP have)
+      (NP
+        (NP (DT a) (JJ blind) (NN spot))
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP (PRP it))
+            (VP (VBZ comes)
+              (PP (TO to)
+                (S
+                  (VP (VBG recognizing)
+                    (SBAR
+                      (WHNP (WP what))
+                      (S
+                        (ADVP (RB exactly))
+                        (VP (VBZ is)
+                          (NP (DT an) (NN act) (NN ofterrorism)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB because) (IN of)
+      (NP (DT that) (NN ignorance)))
+    (, ,)
+    (NP (PRP they))
+    (VP (VBP feel)
+      (ADJP (JJ justified)
+        (S
+          (VP (VBG stating)
+            (SBAR
+              (S
+                (NP (EX there))
+                (VP (VBZ is)
+                  (NP
+                    (NP (RB only) (CD one) (NN religion))
+                    (PP (IN at)
+                      (NP
+                        (NP (DT this) (NN time))
+                        (PP (IN in)
+                          (NP (NN history) (NN islam)))))
+                    (SBAR
+                      (WHNP (WDT which))
+                      (S
+                        (VP (VBZ commits)
+                          (NP
+                            (NP (NNS acts))
+                            (PP (IN of)
+                              (NP (NN terrorism)))))))))))))))
+    (. .)))
+

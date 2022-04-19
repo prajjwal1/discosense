@@ -1,0 +1,1 @@
+the present technique provides a novel method and apparatus for determining the motion of an internal tissue or organ undergoing dynamic movement such as a respiratory cycle. particularly the technique provides for a method and system for processing projection data to determine the motion rather than relying on additional data acquired from an external sensor.

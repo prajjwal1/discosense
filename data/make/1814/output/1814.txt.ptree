@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (SBAR (IN if)
+      (S
+        (VP (VBP hes)
+          (ADJP (JJ miserable)))))
+    (NP (PRP he))
+    (VP (MD should)
+      (VP
+        (VP (VB give)
+          (PRT (RP up))
+          (NP (DT the) (NN money)))
+        (CC and)
+        (VP (VB go)
+          (PRT (RP back))
+          (PP (TO to)
+            (NP (NN japan))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB otherwise))
+    (VP
+      (VP (VB suck)
+        (NP (PRP it))
+        (PRT (RP up)))
+      (CC and)
+      (VP (VB keep)
+        (NP (NN pitching))))
+    (. .)))
+

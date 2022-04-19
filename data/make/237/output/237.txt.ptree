@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (NP (NN pienaar) (, ,) (NN stransky)
+      (CC and)
+      (NNS straeuli))
+    (VP (VBD were)
+      (NP
+        (NP (DT all))
+        (PP (IN in)
+          (NP (PRP$ their) (NNS 30s)))
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP (PRP they))
+            (VP (VBD made)
+              (NP (PRP$ their) (NN way))
+              (PP (TO to)
+                (NP (NNS clubs)))
+              (PP (IN in)
+                (NP (NN england))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (JJ conversely) (NN kirchner))
+        (, ,)
+        (NP (JJ janse) (NN van) (NN rensburg))
+        (, ,))
+      (ADJP (JJ pietersen)
+        (CC and)
+        (JJ duvenage)))
+    (VP (VBP are)
+      (VP (VBG arguably)
+        (ADVP (RB in) (, ,)
+          (CC or)
+          (RB near) (, ,))
+        (NP (PRP$ their) (JJ prime))))
+    (. .)))
+

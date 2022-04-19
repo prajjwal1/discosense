@@ -1,0 +1,53 @@
+(ROOT
+  (S
+    (NP (NN lpl))
+    (VP (MD would) (RB not)
+      (VP (VB be)
+        (ADJP (JJ able)
+          (S
+            (VP (TO to)
+              (VP (VB offer)
+                (NP
+                  (NP (DT the) (NN payout))
+                  (SBAR
+                    (S
+                      (NP (PRP they))
+                      (VP (VBP are)
+                        (ADJP (JJ able)
+                          (S
+                            (VP (TO to)
+                              (VP (VB offer)
+                                (PP (IN in)
+                                  (NP
+                                    (NP (DT the) (NN absence))
+                                    (PP (IN of)
+                                      (NP
+                                        (NP (DT these) (NN asset))
+                                        (VP (VBN based)
+                                          (NP (NNS fees)))))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB similarly))
+    (NP (NNS custodians))
+    (VP (MD would) (RB not)
+      (VP (VB be)
+        (ADJP (JJ able)
+          (S
+            (VP (TO to)
+              (VP (VB offer)
+                (NP (DT the) (NN custodian))
+                (NP
+                  (NP (NNS services))
+                  (SBAR
+                    (S
+                      (NP (PRP they))
+                      (VP (VBP offer)
+                        (PP (IN in)
+                          (NP
+                            (NP (DT the) (NN absence))
+                            (PP (IN of)
+                              (NP (DT these) (NNS fees)))))))))))))))
+    (. .)))
+

@@ -1,0 +1,54 @@
+(ROOT
+  (S
+    (NP (DT the) (JJ present) (NN data) (NN writing) (NN method))
+    (ADVP (RB also))
+    (VP (VBZ includes)
+      (SBAR
+        (S
+          (S
+            (VP (VBG moving)
+              (NP
+                (NP
+                  (QP (IN at) (JJS least) (CD one))
+                  (JJ second) (NNS data))
+                (PP (IN in)
+                  (NP
+                    (NP (DT the) (JJ physical) (NNS blocks))
+                    (PP (IN of)
+                      (NP
+                        (NP (DT another) (NN one))
+                        (PP (IN of)
+                          (NP (DT the) (NN flash) (NN memory) (NN modules))))))))
+              (PP (IN during)
+                (NP (DT the) (JJ first) (NNS data)))))
+          (VP (VBZ is)
+            (VP (VBN written))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (ADVP (RB thereby))
+      (WHADVP (WRB when))
+      (S
+        (NP (DT the) (NN host) (NN system))
+        (VP (VBZ is)
+          (VP (IN about)
+            (S
+              (VP (TO to)
+                (VP (VB write)
+                  (NP (NNS data))
+                  (PP (IN into)
+                    (NP (DT the) (JJ other) (NN flash) (NN memory) (NN module))))))))))
+    (, ,)
+    (NP
+      (NP (DT the) (NN time))
+      (PP (IN for)
+        (S
+          (VP (VBG executing)
+            (NP (DT the) (JJ write) (NN command))))))
+    (VP (VBZ is)
+      (ADVP (RB effectively))
+      (VP (VBN reduced)))
+    (. .)))
+

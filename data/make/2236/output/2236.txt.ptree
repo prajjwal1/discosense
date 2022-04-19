@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (ADVP (RB unfortunately))
+    (, ,)
+    (NP
+      (NP (PRP$ my) (NN pent))
+      (PP (IN up)
+        (NP (NN power))))
+    (VP (VBD had)
+      (VP (VBN drained)
+        (ADVP (RB back)
+          (PP (TO to)
+            (SBAR
+              (WHADVP (WRB wherever))
+              (S
+                (NP (PRP it))
+                (VP (VBD came)
+                  (PP (IN from)
+                    (PP (IN after)
+                      (S
+                        (VP (VBG seeing)
+                          (NP (DT that) (JJ april) (NN wasnt))
+                          (PP (IN in)
+                            (NP (JJ immediate) (NN danger))))))))))))
+        (ADVP (RB anymore))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB because) (IN of)
+      (NP (DT that)))
+    (NP (FW i))
+    (VP (VBD was)
+      (NP
+        (ADJP (RB absolutely) (DT no))
+        (NN help))
+      (ADVP (RB whatsoever)))
+    (. .)))
+

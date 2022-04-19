@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (NP
+      (NP (NN banking) (NN law))
+      (SBAR (IN that)
+        (S
+          (NP (PRP we))
+          (VP (VBP want)
+            (S
+              (VP (TO to)
+                (VP (VB reform)
+                  (ADVP (RB effectively)))))))))
+    (VP (VBZ allows)
+      (NP
+        (NP (CD 100) (NN percent) (NN coverage))
+        (PP (IN of)
+          (NP (JJ uninsured) (NNS depositors))))
+      (PP (IN at)
+        (NP (DT the) (JJS largest) (NNS banks))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN contrast)))
+    (NP (DT the) (NN fdic))
+    (VP (VBZ has)
+      (ADVP (RB increasingly))
+      (VP (VBN imposed)
+        (NP
+          (NP (NNS losses))
+          (PP (IN on)
+            (NP (DT the) (JJ uninsured))))
+        (PP (IN at)
+          (NP (NN community) (NNS banks)))
+        (PP (IN since)
+          (NP (CD 1992)))))
+    (. .)))
+

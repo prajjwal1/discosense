@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (PP (IN under)
+      (NP (JJ current) (NN law)))
+    (, ,)
+    (NP (NNS calstrs) (NNS members))
+    (VP (VBP bear)
+      (NP (JJ financial) (NN risk))
+      (SBAR (IN if)
+        (S
+          (NP (DT these) (JJ negative) (NNS events))
+          (VP (VBP occur)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN by)
+      (NP
+        (NP (NN contrast))
+        (PP (IN under)
+          (NP (DT the) (NN budget) (NN proposal)))))
+    (, ,)
+    (NP (DT the) (NNS states) (NN general) (NN fund))
+    (VP (MD would)
+      (VP (VB bear)
+        (NP (DT the) (NN risk))))
+    (. .)))
+

@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (NP (DT an) (NN image))
+    (VP (VBZ is)
+      (VP (VBN considered)
+        (S
+          (VP (TO to)
+            (VP (VB consist)
+              (PP (IN of)
+                (NP
+                  (NP (DT a) (NN composition))
+                  (PP (IN of)
+                    (NP
+                      (NP (DT a) (NN user) (VBN selected) (NN subject))
+                      (CC and)
+                      (NP (PRP$ its) (NN background)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB specifically))
+    (NP (DT the) (NN user))
+    (VP (MD can)
+      (VP (VB designate)
+        (NP
+          (NP (DT a) (NN region))
+          (PP (IN of)
+            (NP (DT the) (NN image))))
+        (PP (IN as)
+          (NP
+            (NP (NN opaque))
+            (ADJP (JJ subject) (, ,) (JJ free))
+            (PP (IN of)
+              (NP
+                (NP (DT any) (NNS elements))
+                (PP (IN of)
+                  (NP (DT the) (NN background)))))))))
+    (. .)))
+

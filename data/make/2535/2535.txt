@@ -1,0 +1,1 @@
+the mdnsd manpage and the wikipedia page for zeroconf might be a good start for this. though there are no howtos describing how to set up a single appliance serving only one cause.

@@ -1,0 +1,48 @@
+(ROOT
+  (S
+    (SBAR (IN though)
+      (S
+        (NP (RB not) (DT all) (NNS nouns))
+        (VP (VBP are)
+          (NP (JJ physical) (NNS objects)))))
+    (, ,)
+    (NP (DT all) (JJ physical) (NNS objects))
+    (VP (VBP are)
+      (VP (VBN named)
+        (PP (IN by)
+          (NP (NNS nouns)))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (ADVP (RB similarly))
+      (IN if)
+      (S
+        (NP (DT a) (NN verb))
+        (VP (VBZ has)
+          (NP
+            (NP (DT an) (NN argument))
+            (VP (VBG playing)
+              (NP
+                (NP (DT the) (JJ semantic) (NN role))
+                (PP (IN of)
+                  (NP (NN agent)))))))))
+    (, ,)
+    (ADVP (RB then))
+    (NP (DT that) (NN argument))
+    (VP (MD will)
+      (VP (VB be)
+        (VP (VBN expressed)
+          (PP (IN as)
+            (NP
+              (NP (DT the) (NN subject))
+              (PP (IN of)
+                (NP
+                  (NP (JJ basic) (NNS sentences))
+                  (PP (IN in)
+                    (NP (NN language)))))))
+          (PP (IN after)
+            (NP (NN language))))))
+    (. .)))
+

@@ -1,0 +1,15 @@
+det(model-2, the-1)
+nsubjpass(derived-9, model-2)
+amod(modulator-7, real-4)
+nn(modulator-7, delta-5)
+nn(modulator-7, sigma-6)
+prep_of(model-2, modulator-7)
+auxpass(derived-9, was-8)
+root(ROOT-0, derived-9)
+
+advmod(optimized-5, consequently-1)
+nn(coefficients-3, modulator-2)
+nsubjpass(optimized-5, coefficients-3)
+auxpass(optimized-5, were-4)
+root(ROOT-0, optimized-5)
+

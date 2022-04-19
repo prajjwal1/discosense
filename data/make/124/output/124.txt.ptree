@@ -1,0 +1,52 @@
+(ROOT
+  (S
+    (NP (EX there))
+    (VP (VBZ is)
+      (NP (NN evidence))
+      (SBAR (IN that)
+        (S
+          (NP (DT this))
+          (VP (VBZ is)
+            (ADVP (RB indeed))
+            (NP
+              (NP (DT the) (NN case))
+              (PP (IN in)
+                (NP (NN eca))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN sum)))
+    (NP (JJ empirical) (NN evidence))
+    (VP (VBZ suggests)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (NNS households))
+            (PP (IN in)
+              (NP
+                (NP
+                  (QP (RB about) (PDT half)))
+                (PP (IN of)
+                  (NP (JJ ecas) (NNS countries))))))
+          (VP (VBP are)
+            (VP (VBG spending)
+              (ADJP (RB significantly) (JJR more))
+              (PP
+                (PP (IN on)
+                  (NP (NN health)))
+                (, ,)
+                (CC and)
+                (PP (IN with)
+                  (NP (JJR greater) (NN variation)))
+                (, ,))
+              (PP (IN than)
+                (NP
+                  (NP (NNS counterparts))
+                  (PP (IN in)
+                    (NP
+                      (QP (CD eu) (CD 15))
+                      (NNS countries))))))))))
+    (. .)))
+

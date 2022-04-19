@@ -1,0 +1,55 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (NNS actions))
+      (PP (IN of)
+        (NP
+          (NP (NN alcohol))
+          (PP (IN on)
+            (NP (JJ synaptic) (NN transmission))))))
+    (ADVP (RB also))
+    (VP (VBP contribute)
+      (PP (TO to)
+        (NP
+          (NP (NN alcohol))
+          (VP (VBG seeking)
+            (NP
+              (NP (NN behavior))
+              (, ,)
+              (NP (JJ excessive) (NN drinking))
+              (, ,)
+              (CC and)
+              (NP (NN alcoholism)))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (ADVP (RB thus))
+    (VP (VBG understanding)
+      (NP
+        (NP (DT all))
+        (PP (IN of)
+          (NP
+            (NP (DT these) (JJ behavioral) (NNS actions))
+            (PP (IN of)
+              (NP (NN alcohol)))))))
+    (VP (VBZ requires))
+    (NP
+      (NP (DT some) (NN knowledge))
+      (PP (IN of)
+        (NP
+          (NP (NN neuronal))
+          (VP (VBG signaling)
+            (PP (IN in)
+              (NP
+                (NP (DT the) (NN brain))
+                (CC and)
+                (PRN (, ,)
+                  (ADVP (RB especially))
+                  (, ,))
+                (NP
+                  (NP (DT the) (NN process))
+                  (PP (IN of)
+                    (NP (JJ synaptic) (NN transmission))))))))))
+    (. .)))
+

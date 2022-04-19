@@ -1,0 +1,53 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (NN conclusion))
+        (PP (IN among)
+          (NP
+            (NP (NNS persons))
+            (PP (IN with)
+              (NP (NNS aids)))))))
+    (, ,)
+    (NP (EX there))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (JJ modest) (JJ excess) (NN risk))
+        (PP (IN of)
+          (NP
+            (NP (NN melanoma))
+            (, ,)
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (VP
+                  (VP (VBZ is) (RB not)
+                    (ADJP (RB strongly) (VBN related)
+                      (PP (TO to)
+                        (NP (NN immunosuppression)))))
+                  (CC and)
+                  (VP (MD may)
+                    (VP (VB relate)
+                      (PP (TO to)
+                        (NP (JJ ultraviolet) (NN radiation) (NN exposure))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN contrast)))
+    (NP
+      (NP (DT the)
+        (ADJP (RB greatly) (JJ increased))
+        (NNS risks))
+      (PP (IN for)
+        (NP (JJ merkel) (NN cell)
+          (CC and)
+          (NNS sebaceous) (NN carcinoma))))
+    (VP (VBP suggest)
+      (NP
+        (NP (DT an) (JJ etiologic) (NN role))
+        (PP (IN for)
+          (NP (NN immunosuppression)))))
+    (. .)))
+

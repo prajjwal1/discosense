@@ -1,0 +1,33 @@
+(ROOT
+  (NP
+    (NP (NN ravan))
+    (, ,)
+    (NP
+      (NP (DT the) (NN demon) (NN king))
+      (SBAR
+        (WHNP (WP who))
+        (S
+          (VP (VBD ruled)
+            (PP (IN over)
+              (NP (JJ lanka) (NN deceitfully) (NN abducted) (NN sita)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB subsequently))
+    (NP (NN sri) (NN ram) (NNS befriended))
+    (VP (VBD sugreev)
+      (CC and)
+      (VBD killed)
+      (NP
+        (NP (NNS bali))
+        (, ,)
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP (VBD harboured)
+              (ADVP (RB enemity))
+              (PP (IN against)
+                (NP (PRP him))))))))
+    (. .)))
+

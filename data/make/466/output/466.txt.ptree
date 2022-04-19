@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (NP (DT this))
+    (VP (VBZ is)
+      (SBAR (IN because)
+        (S
+          (PP (IN in)
+            (NP
+              (NP (DT this) (JJ particular) (NN type))
+              (PP (IN of)
+                (NP (NN website)))))
+          (NP
+            (NP (NN texture))
+            (, ,)
+            (NP
+              (NP (NN content))
+              (PP (IN of)
+                (NP
+                  (NP (DT the) (NN website))
+                  (SBAR
+                    (WHNP (WDT which))
+                    (S
+                      (VP (VBZ is)
+                        (NP
+                          (NP (DT the)
+                            (ADJP (RBS most) (JJ important))
+                            (NN element))
+                          (PP (IN of)
+                            (NP (DT any) (NN website))))))))))
+            (, ,))
+          (VP (VBZ gets)
+            (NP (DT the) (JJ proper) (NN exposure))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP
+      (ADVP (RB thereby))
+      (VBG increasing)
+      (NP (DT the) (NN traffic)))
+    (. .)))
+

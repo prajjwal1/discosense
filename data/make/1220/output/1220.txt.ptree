@@ -1,0 +1,49 @@
+(ROOT
+  (S
+    (SBAR (IN if)
+      (S
+        (NP (DT a) (NN thing))
+        (VP (VBZ exists))))
+    (, ,)
+    (NP (PRP it))
+    (VP (MD must) (RB either)
+      (VP (VB be)
+        (NP
+          (NP (NN racist))
+          (CC or)
+          (NP
+            (NP (DT an) (NN accusation))
+            (PP (IN against)
+              (NP (NN something)))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (VBZ is)
+                  (NP (NN racist)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (FW otherwise) (FW i) (NN dont))
+    (VP (VBP know) (, ,)
+      (S
+        (NP (PRP$ its) (JJ like) (NN youre))
+        (VP (VBG theorizing)
+          (SBAR (IN that)
+            (S
+              (NP (EX there))
+              (VP (VBZ is)
+                (NP
+                  (NP (NN stuff))
+                  (SBAR
+                    (WHNP (WDT that))
+                    (S
+                      (VP (VBZ has)
+                        (NP (NN nothing)
+                          (S
+                            (VP (TO to)
+                              (VP (VB do)
+                                (PP (IN with)
+                                  (NP (NN race)))))))))))))))))
+    (. .)))
+

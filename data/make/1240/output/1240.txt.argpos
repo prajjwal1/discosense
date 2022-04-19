@@ -1,0 +1,2 @@
+conn:later conn_POS:RB prev1:and prev1_POS:CC with_prev1_full:and_later with_prev1_POS_full:CC_RB prev2:, prev2_POS:, with_prev2_full:,_later with_prev2_POS_full:,_RB NA
+conn:nonetheless conn_POS:RB sent_pos:0 NA

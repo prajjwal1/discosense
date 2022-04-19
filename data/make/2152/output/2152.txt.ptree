@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (NP (NN mara) (NN elena) (NN velasco))
+    (VP (VBD went)
+      (PRT (RP on))
+      (S
+        (VP (TO to)
+          (VP (VB star)
+            (PP (IN in)
+              (NP (CD 15) (JJR more) (NNS films)))
+            (PP (VBN based)
+              (PP (IN on)
+                (NP (DT the) (NN prolificindia) (NN maracharacter)))))))
+      (, ,)
+      (SBAR (IN that)
+        (S
+          (NP (PRP she))
+          (VP (VBD created)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ overall) (NN mara) (NN elena) (NN velasco))
+    (VP (VBZ is)
+      (VP (VBN noted)
+        (PP (IN for)
+          (NP
+            (NP (NNS films))
+            (SBAR
+              (S
+                (NP (NN ofla) (NN india))
+                (VP (VBD maraand)
+                  (NP (PRP$ her) (NN film) (NNS appearances))
+                  (PP (IN during)
+                    (NP (CD 1962) (CD 1968))))))))))
+    (. .)))
+

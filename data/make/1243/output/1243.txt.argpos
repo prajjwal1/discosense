@@ -1,0 +1,4 @@
+conn:nevertheless conn_POS:RB sent_pos:0 NA
+conn:if conn_POS:IN prev1:desired prev1_POS:VBD with_prev1_full:desired_if with_prev1_POS_full:VBD_IN prev2:he prev2_POS:PRP with_prev2_full:he_if with_prev2_POS_full:PRP_IN NA
+conn:thereafter conn_POS:RB sent_pos:0 NA
+conn:but conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_but with_prev1_POS_full:,_CC prev2:medicine prev2_POS:NN with_prev2_full:medicine_but with_prev2_POS_full:NN_CC NA

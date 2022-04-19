@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (PP (VBG following)
+      (NP
+        (NP (DT a) (NN career))
+        (PP (IN in)
+          (NP (NN publishing)))))
+    (, ,)
+    (NP (NN iain) (NN harvey))
+    (VP (VBD entered)
+      (NP
+        (NP (DT the) (NN world))
+        (PP (IN of)
+          (NP (NN animation))))
+      (PP (IN as)
+        (NP
+          (NP (JJ executive) (NN producer))
+          (PP (IN of)
+            (NP (DT the) (NN snowman))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB subsequently))
+    (NP (PRP he))
+    (VP (VBD went)
+      (PP (IN on)
+        (PP (TO to)
+          (NP (JJ executive) (NN produce) (NNS projects))))
+      (PP (JJ such) (IN as)
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP
+              (NP (DT the) (NN wind) (NNS blows))
+              (, ,)
+              (NP (NN father) (NNS christmas))
+              (CC and)
+              (NP (DT the) (NN bbc) (NN television) (NN series)))
+            (VP (VBZ spider))))))
+    (. .)))
+

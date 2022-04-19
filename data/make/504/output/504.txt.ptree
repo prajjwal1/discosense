@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (PP (IN as)
+      (NP
+        (NP (DT the) (NN difficulty))
+        (PP (IN of)
+          (NP (DT the) (NN shot) (NNS increases)))))
+    (, ,)
+    (ADVP (RB so))
+    (VP (VBZ does)
+      (NP
+        (NP (DT the) (NN amount))
+        (PP (IN of)
+          (NP
+            (NP (NN care))
+            (VP (VBN used)
+              (PP (IN in)
+                (S
+                  (VP (VBG squeezing)
+                    (NP (DT the) (NN trigger)
+                      (CC and)
+                      (NN sight) (NN alignment))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB specifically))
+    (NP (NN sight))
+    (VP (VBP alignment)
+      (CC and)
+      (VBP trigger)
+      (NP (NN squeeze)))
+    (. .)))
+

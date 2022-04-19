@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (NP (DT a) (JJ baseline) (NN telephone) (NN cognitive) (NN screener))
+    (VP (VBD was)
+      (VP
+        (ADVP (RB first))
+        (VBN administered)
+        (PP (TO to)
+          (NP
+            (NP (JJ regards) (NNS participants))
+            (PP (IN in)
+              (NP (NN december) (CD 2003)))))
+        (, ,)
+        (SBAR
+          (NP (CD 11) (NNS months))
+          (IN after)
+          (S
+            (NP (NN study) (NN enrollment))
+            (VP (VBD began))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB subsequently))
+    (NP (PRP it))
+    (VP (VBD was)
+      (VP (VBN administered)
+        (PP (TO to)
+          (NP (DT all) (NNS participants)))
+        (ADVP (RB annually))))
+    (. .)))
+

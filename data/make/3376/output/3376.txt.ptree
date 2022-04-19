@@ -1,0 +1,39 @@
+(ROOT
+  (SINV
+    (ADVP (RB foremost)
+      (PP (IN among)
+        (NP (DT the) (NNS reasons))))
+    (VP (MD would)
+      (VP (VB be)
+        (NP (PRP$ their) (NN loyalty))
+        (PP (TO to)
+          (NP (NN bush) (, ,) (NN cheney) (, ,) (NN rove) (, ,) (FW etc.)))
+        (SBAR (IN though)
+          (S
+            (PP (IN as)
+              (NP
+                (NP (NNS members))
+                (PP (IN of)
+                  (NP (DT a) (NN minority) (NN class)))))
+            (, ,)
+            (NP (PRP they))
+            (VP (VBP are)
+              (ADVP (RB also))
+              (ADJP (JJ powerful)))))))
+    (NP
+      (NP (NNS symbols))
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (VP (VB voice)
+            (NP (DT the) (NN idea))
+            (SBAR (IN that)
+              (S
+                (NP (NN bush))
+                (VP (VBZ is)
+                  (VP (VBN committed)
+                    (PP (IN towards)
+                      (NP (JJ racial) (NN equality)))))))))))
+    (. .)))
+

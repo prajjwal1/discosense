@@ -1,0 +1,1 @@
+bangkok comes with a listener that generates a midi file. in other words the chess game is turned into music.

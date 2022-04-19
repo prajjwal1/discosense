@@ -1,0 +1,3 @@
+Explicit|||82..85||and||0|and|||Expansion.Conjunction|||||||||||0..81|0|if all of the other contestants have chosen correctly, they split the pot equally||||||||86..112|0|the pretender wins nothing|||||||||||||
+Explicit|||0..2||if||0|if|||Contingency.Condition|||||||||||55..81|0|they split the pot equally||||||||3..53|0|all of the other contestants have chosen correctly|||||||||||||
+Explicit|||114..123||otherwise||1|otherwise|||Expansion.Alternative|||||||||||0..112|0|if all of the other contestants have chosen correctly, they split the pot equally and the pretender wins nothing||||||||124..157|1|the pretender wins the entire pot|||||||||||||

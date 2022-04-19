@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (NP (NN islam))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the)
+          (ADJP (JJS fastest) (VBG growing))
+          (NN religion))
+        (PP (IN in)
+          (NP (DT the) (NN west)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nevertheless))
+    (NP (DT the) (NN west))
+    (VP (VBZ has)
+      (NP
+        (NP (JJ many) (NNS stereotypes)
+          (CC and)
+          (NNS misconceptions))
+        (PP (IN about)
+          (NP (NN islam)))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBP are)
+              (ADJP (JJ due)
+                (PP (TO to)
+                  (NP
+                    (NP (DT the) (NNS media))
+                    (, ,)
+                    (NP (NN prejudice))))))))))
+    (. .)))
+

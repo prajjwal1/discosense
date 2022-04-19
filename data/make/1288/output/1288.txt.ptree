@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (NP
+      (NP (NN ive))
+      (VP (VBN been)
+        (VP (VBG having)
+          (NP
+            (NP (NN trouble))
+            (S
+              (ADVP (RB really))
+              (VP (VBG figuring)
+                (PRT (RP out))
+                (SBAR
+                  (WHADVP (WRB how))
+                  (S
+                    (VP (TO to)
+                      (VP (VB make)
+                        (NP (PRP it))))))))))))
+    (VP (VBP look)
+      (ADJP (JJ good))
+      (PP (IN at)
+        (NP (DT this) (NN level))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB specifically))
+    (NP (PRP$ my) (NNS forests))
+    (VP (VBP look)
+      (PP (IN like)
+        (NP (NN crap))))
+    (. .)))
+

@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (PP (IN by)
+      (NP (DT the) (NN way)))
+    (, ,)
+    (NP
+      (NP (DT the) (JJ only) (NN change) (NN im))
+      (VP (VBG seeing)
+        (NP (NN today))))
+    (VP (VBZ is)
+      (SBAR (IN that)
+        (S
+          (NP (JJ youtube) (NNS uses))
+          (VP (VBP flash))))
+      (, ,)
+      (SBAR (RB even)
+        (S
+          (NP (JJ tough) (JJ i) (NN havent))
+          (VP (VBD opted)
+            (PRT (RP out))
+            (PP (IN of)
+              (NP (DT the) (JJ html) (CD 5) (NN beta)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (JJ overall)
+      (PP (IN in)
+        (NP (PRP$ my) (NN case))))
+    (NP (FW i))
+    (VP (VBP find)
+      (NP (PRP it))
+      (NP (JJR harder) (DT every) (NN day))
+      (S
+        (VP (TO to)
+          (VP (VB keep)
+            (S
+              (VP (VBG using)
+                (NP (NN ff))
+                (PP (IN as)
+                  (NP (PRP$ my) (NN default) (NN browser)))))))))
+    (. .)))
+

@@ -1,0 +1,62 @@
+(ROOT
+  (S
+    (NP (JJ renaud) (NN doesnt))
+    (VP (VBP think)
+      (SBAR
+        (S
+          (NP (NN dynahand))
+          (VP (VBZ is)
+            (ADJP (JJ secure) (RB enough)
+              (PP (IN for)
+                (S
+                  (VP (VBG protecting)
+                    (NP
+                      (NP (JJ sensitive) (NN information))
+                      (, ,)
+                      (PP (JJ such) (IN as)
+                        (NP (NN bank) (NNS accounts)
+                          (CC or)
+                          (NN health) (NNS records))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB rather))
+    (NP (PRP she))
+    (VP (VBZ believes)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (MD could)
+            (VP (VB be)
+              (ADJP (JJ useful)
+                (PP (IN for)
+                  (NP
+                    (NP (JJ social) (NNS sites))
+                    (, ,)
+                    (SBAR
+                      (SBAR
+                        (WHADVP (WRB where))
+                        (S
+                          (NP (DT a) (NN user))
+                          (VP (VBZ wants)
+                            (NP (PRP$ her) (NN account)
+                              (S
+                                (VP (TO to)
+                                  (VP (VB be)
+                                    (ADJP (JJ private)))))))))
+                      (CC but)
+                      (SBAR
+                        (WHADVP (WRB where))
+                        (S
+                          (NP (NN nothing) (NNS disastrous))
+                          (VP (MD would)
+                            (VP (VB happen)
+                              (SBAR (IN if)
+                                (S
+                                  (NP (NN someone))
+                                  (VP (VBD broke)
+                                    (PP (IN into)
+                                      (NP (PRP it)))))))))))))))))))
+    (. .)))
+

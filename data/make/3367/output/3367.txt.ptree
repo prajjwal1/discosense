@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (DT the) (JJ first) (CD nine) (NNS days)))
+    (PP (IN after)
+      (NP (DT the) (NN election)))
+    (, ,)
+    (NP (PRP we))
+    (VP (VBD looked)
+      (SBAR
+        (S
+          (NP (JJ wrong) (NNS stocks))
+          (VP (VBD lost)
+            (NP (CD 5.3) (NN %))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nonetheless))
+    (NP (DT the) (NN dow))
+    (VP
+      (VP (VBZ has)
+        (VP (VBN rallied)
+          (ADVP (RB back))))
+      (CC and)
+      (VP
+        (ADVP (RB now))
+        (VBZ stands)
+        (NP (CD 3.1) (NN %))
+        (PP (IN above)
+          (NP (PRP$ its) (NN election) (NN day) (NN level)))))
+    (. .)))
+

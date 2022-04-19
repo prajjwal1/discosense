@@ -1,0 +1,54 @@
+(ROOT
+  (S
+    (PP (IN during)
+      (NP (NN vibration)))
+    (, ,)
+    (NP (DT the) (NN detector))
+    (VP
+      (VP (VBZ remains)
+        (VP (VBN balanced)
+          (PP (IN in)
+            (NP
+              (NP (NN weight))
+              (PP (IN against)
+                (NP (DT the) (NN actuator)))))))
+      (CC and)
+      (VP (MD will)
+        (ADVP (RB hardly))
+        (VP (VB be)
+          (ADJP
+            (ADJP (JJ deviated))
+            (CC or)
+            (ADJP (RBR less) (VBN affected)
+              (PP (IN by)
+                (NP (DT the) (JJ vibrating) (NN action))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (RB hence) (JJ unwanted) (NN signal) (NNS components))
+      (VP (VBP are)
+        (ADVP (RB rarely))
+        (VP (VBN generated)
+          (PP (IN from)
+            (NP (DT the) (NNS detectors))))))
+    (CC and)
+    (S
+      (NP (DT the) (NN angular) (NN velocity) (NN sensor))
+      (VP (MD will)
+        (VP (VB give)
+          (NP
+            (NP (DT a) (NN minimum))
+            (PP (IN of)
+              (NP
+                (NP (NN output))
+                (VP (VBN offset)
+                  (NP (NN signal) (NN change))
+                  (PP (IN throughout)
+                    (NP
+                      (NP (DT a) (JJ wide) (NN range))
+                      (PP (IN of)
+                        (NP (NN temperature))))))))))))
+    (. .)))
+

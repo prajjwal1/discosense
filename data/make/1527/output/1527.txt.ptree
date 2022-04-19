@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (NP (DT the) (JJ entire) (NN eye) (NN area))
+    (VP (VBZ is)
+      (NP (DT a) (JJ key) (NN beauty) (NN concern))
+      (, ,)
+      (SBAR (IN as)
+        (S
+          (NP (JJ recent) (JJ scientific) (NN research))
+          (VP (VBZ has)
+            (VP (VBN demonstrated))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB because) (IN of)
+      (NP (DT this)))
+    (NP
+      (NP (DT any) (NN change)
+        (CC or)
+        (NN deterioration))
+      (PP (IN in)
+        (NP (DT the) (NN area))))
+    (VP (VBZ has)
+      (NP
+        (NP (DT a) (JJ powerful) (NN impact))
+        (PP (IN on)
+          (NP (JJ facial) (NN beauty)))))
+    (. .)))
+

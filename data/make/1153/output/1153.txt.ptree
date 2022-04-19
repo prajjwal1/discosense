@@ -1,0 +1,15 @@
+(ROOT
+  (S
+    (VP (VB take)
+      (NP (PRP them))
+      (ADVP (RB seriously)))
+    (. .)))
+
+(ROOT
+  (SINV
+    (PP (IN in)
+      (NP (JJ other) (NNS words)))
+    (VP (VBP be))
+    (NP (RB there))
+    (. .)))
+

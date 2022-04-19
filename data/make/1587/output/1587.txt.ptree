@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (ADVP (RB also))
+    (NP (DT the) (NN dialyzer))
+    (VP (VBZ has)
+      (NP
+        (NP (DT an) (JJ outer) (NN tube))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBZ establishes)
+              (NP
+                (NP (DT a) (JJ dialysate) (NN container))
+                (CC or)
+                (NP (NN chamber)))
+              (, ,)
+              (PP (IN about)
+                (NP
+                  (NP (DT the) (NN plurality))
+                  (PP (IN of)
+                    (NP (NNS fibers))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (JJ other) (NNS words)))
+    (NP (DT the) (NNS fibers))
+    (VP
+      (VP (VBP are)
+        (ADVP (RB substantially))
+        (VP (VBN contained)
+          (PP (IN in)
+            (NP (DT the) (NN dialyzer)))))
+      (CC and)
+      (VP (VBP are)
+        (PP (IN within)
+          (NP
+            (NP (DT a) (JJ dialysate) (NN chamber))
+            (CC or)
+            (NP (NN container))))))
+    (. .)))
+

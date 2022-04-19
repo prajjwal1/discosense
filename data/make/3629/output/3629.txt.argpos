@@ -1,0 +1,2 @@
+conn:nonetheless conn_POS:RB sent_pos:0 NA
+conn:nonetheless conn_POS:RB sent_pos:2 prev1:he prev1_POS:PRP with_prev1_full:he_nonetheless with_prev1_POS_full:PRP_RB prev2:nonetheless prev2_POS:RB with_prev2_full:nonetheless_nonetheless with_prev2_POS_full:RB_RB NA

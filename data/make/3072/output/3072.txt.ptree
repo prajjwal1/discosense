@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (NP (NN stroke))
+    (VP (VBD occurred)
+      (PP (IN in)
+        (NP
+          (NP (CD 157) (NNS patients))
+          (PP (IN in)
+            (NP
+              (NP (DT the) (JJ ramipril) (NN group))
+              (CC and)
+              (NP (JJ 226) (NNS patients))))))
+      (PP (IN in)
+        (NP (DT the) (NN placebo) (NN group))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB overall))
+    (NP
+      (NP (DT the) (JJ relative) (NN risk))
+      (PP (IN of)
+        (NP
+          (NP (NN death))
+          (PP (IN from)
+            (NP (DT the) (CD three) (JJ primary) (NN end) (NNS points))))))
+    (VP (VBD was)
+      (NP
+        (NP (CD 0.78))
+        (PP (IN in)
+          (NP
+            (NP (DT the) (NNS patients))
+            (SBAR
+              (WHNP (WP who))
+              (S
+                (VP (VBD received)
+                  (NP (DT the) (NN ace) (NN inhibitor)))))))))
+    (. .)))
+

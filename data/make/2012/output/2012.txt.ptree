@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (NP (DT the) (NN ut) (NN sign))
+    (VP (VBZ goes)
+      (PP (IN with)
+        (NP
+          (NP (DT the) (NN saying))
+          (, ,)
+          (NP (NN hook) (NN em) (NNS horns)))))
+    (. .)))
+
+(ROOT
+  (S (CC but)
+    (PP (IN in)
+      (NP (NN austin)))
+    (, ,)
+    (NP (PRP you))
+    (VP (MD can)
+      (ADVP (RB actually))
+      (VP
+        (VP (VB greet)
+          (NP (NN anyone))
+          (PP (IN with)
+            (NP (DT this) (JJ latter) (NN hand) (NN sign))))
+        (CC and)
+        (ADVP (RB openly))
+        (VP (VB say))
+        (, ,)
+        (VP (VB hail)
+          (NP (NN satan)))))
+    (. .)))
+

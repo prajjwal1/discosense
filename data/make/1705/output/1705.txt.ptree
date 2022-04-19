@@ -1,0 +1,55 @@
+(ROOT
+  (S
+    (NP (NNS gates))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP he))
+          (VP (VBD did) (RB not)
+            (VP (VB think)
+              (SBAR
+                (S
+                  (NP (PRP it))
+                  (VP (VBD was)
+                    (NP
+                      (NP (DT the) (JJ esquire) (NN article))
+                      (ADVP (RB alone))
+                      (SBAR
+                        (WHNP (WDT that))
+                        (S
+                          (VP (VBD prompted)
+                            (NP (NN fallon))
+                            (S
+                              (VP (TO to)
+                                (VP (VB quit))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB rather))
+    (NP (NNS gates))
+    (VP (VBD thought)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBD was)
+            (NP
+              (NP (DT a) (JJ cumulative) (NN kind))
+              (PP (IN of)
+                (NP (NN thing))))
+            (SBAR (IN that)
+              (S
+                (NP
+                  (NP (PRP he))
+                  (CC and)
+                  (NP (NN fall)))
+                (ADVP (RB on))
+                (VP (VBD had)
+                  (VP (VBN failed)
+                    (S
+                      (VP (TO to)
+                        (VP (VB put)
+                          (PRT (RP behind))
+                          (NP (PRP us)))))))))))))
+    (. .)))
+

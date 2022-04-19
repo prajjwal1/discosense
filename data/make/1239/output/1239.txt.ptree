@@ -1,0 +1,52 @@
+(ROOT
+  (S
+    (NP (DT the) (JJ next) (NN morning))
+    (, ,)
+    (SBAR (IN as)
+      (S
+        (NP (PRP they))
+        (VP (VBD waited)
+          (S
+            (VP (TO to)
+              (VP (VB be)
+                (VP (VBN interviewed)
+                  (ADVP (RB separately))
+                  (PP (IN by)
+                    (NP (NN air) (NN force) (NNS officers))))))))))
+    (, ,)
+    (NP (DT the) (CD two))
+    (VP (VBD agreed)
+      (S
+        (VP (TO to)
+          (VP (VB ask)
+            (PP (IN about)
+              (NP (DT the) (NN crash) (NNS rumors)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB subsequently))
+      (NP
+        (NP (DT the) (NN copilot))
+        (, ,)
+        (NP (NN william) (NN fortenberry))
+        (, ,))
+      (VP (VBD raised)
+        (NP (DT the) (NN question))))
+    (, ,)
+    (CC and)
+    (S
+      (NP
+        (NP (CD one))
+        (PP (IN of)
+          (NP (DT the) (NNS interrogators))))
+      (VP (VBD replied) (, ,)
+        (S
+          (INTJ (UH yes))
+          (, ,)
+          (NP (PRP it))
+          (VP (VBZ is)
+            (ADJP (JJ true))))))
+    (. .)))
+

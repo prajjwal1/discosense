@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (NP
+      (NP (PRP$ my) (JJ main) (NN question))
+      (PP (IN in)
+        (NP (PRP$ my) (NN mind))))
+    (VP (VBZ is)
+      (SQ (VBD did)
+        (NP (DT this))
+        (VP (VB happen)
+          (SBAR
+            (WHADVP (WRB when))
+            (S
+              (NP (FW i))
+              (VP (VBD attempted)
+                (S
+                  (VP (TO to)
+                    (VP (VB charge)
+                      (NP (DT the) (NN battery))
+                      (PP (IN on)
+                        (NP (DT the) (NN tractor))))))))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (PP (IN in)
+      (NP (JJ other) (NNS words)))
+    (VBD did)
+    (NP (CD i) (NN hook))
+    (VP
+      (ADVP (RB up))
+      (VP (VB charger)
+        (ADJP (JJ wrong)))
+      (CC and)
+      (VP (VB cause)
+        (S
+          (NP (DT this))
+          (VP (TO to)
+            (VP (VB happen))))))
+    (. .)))
+

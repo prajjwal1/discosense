@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNS members))
+      (PP (IN of)
+        (NP (DT the)
+          (NP (PRP us))
+          (NN navy))))
+    (VP (VBP use)
+      (NP (PRP$ our) (NN rating))
+      (PP (IN as)
+        (NP
+          (NP (DT a) (NN shorthand) (NN identification))
+          (PP (IN of)
+            (NP (PRP$ our) (NN job)
+              (CC and)
+              (NN rank))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP (NN example) (NN master)))
+    (NP (JJ chief) (JJ petty) (NN officer))
+    (VP (VBZ is)
+      (NP
+        (NP (DT an) (JJ enlisted) (NN paygrade))
+        (PP (IN of)
+          (NP (NNP e) (CD 9)))))
+    (. .)))
+

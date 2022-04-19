@@ -1,0 +1,1 @@
+conn:and conn_POS:CC prev1:issued prev1_POS:VBN with_prev1_full:issued_and with_prev1_POS_full:VBN_CC prev2:was prev2_POS:VBD with_prev2_full:was_and with_prev2_POS_full:VBD_CC NA

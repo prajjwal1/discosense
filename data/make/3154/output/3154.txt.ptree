@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (NNS words) (, ,) (NN muslim) (, ,) (NN hindu) (, ,) (NNS khatri) (, ,) (NN brahmin))
+      (, ,)
+      (X (NN etc.)))
+    (VP (MD should)
+      (VP (VB be)
+        (VP (VBN dropped)
+          (PP (IN from)
+            (NP
+              (NP (DT the) (NNS names))
+              (PP (IN of)
+                (NP (JJ educational) (NNS institutions))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB similarly)
+      (NP (DT the) (NN radio)))
+    (, ,)
+    (NP (DT the) (NN tv))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (NN cinema))
+      (CC and)
+      (NP (DT the) (NN press))
+      (, ,))
+    (VP (MD should)
+      (ADVP (RB also))
+      (VP (VB be)
+        (VP (VBN used)
+          (ADVP (RB effectively))
+          (S
+            (VP (TO to)
+              (VP
+                (VP (VB educate)
+                  (NP (JJ public) (NN opinion)))
+                (CC and)
+                (VP (VB develop)
+                  (NP (JJ national) (NN consciousness)))))))))
+    (. .)))
+

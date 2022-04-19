@@ -1,0 +1,2 @@
+conn:once conn_POS:IN prev1:greatly prev1_POS:RB with_prev1_full:greatly_once with_prev1_POS_full:RB_IN prev2:reduced prev2_POS:VBN with_prev2_full:reduced_once with_prev2_POS_full:VBN_IN NA
+conn:overall conn_POS:RB sent_pos:0 NA

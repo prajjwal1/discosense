@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (JJS oldest) (JJ extant) (NN building))
+      (PP (IN in)
+        (NP (DT the) (NN borough))))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (JJ jacob) (NNS loucks) (NN house))
+        (PP (IN at)
+          (NP
+            (NP (CD 115) (NN walnut) (NN avenue))
+            (, ,)
+            (VP (VBN built)
+              (PP (IN in)
+                (NP (CD 1853))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB otherwise))
+    (NP (DT the)
+      (ADJP (JJ boroughs) (JJS oldest))
+      (NNS residences))
+    (VP (VBP are)
+      (VP (VBN concentrated)
+        (PP (IN on)
+          (NP
+            (NP (JJ loucks) (NN avenue))
+            (, ,)
+            (SBAR
+              (WHADVP (WRB where))
+              (S
+                (NP (JJ many) (NNS houses))
+                (VP (VBP date)
+                  (PP (IN from)
+                    (NP (DT the) (NN 1880s))))))))))
+    (. .)))
+

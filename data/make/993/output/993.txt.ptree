@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (PRP$ our) (NN analysis)))
+    (, ,)
+    (NP (DT no) (JJ additional) (JJ molecular) (NNS markers))
+    (VP (VBD were)
+      (VP (VBN identified)
+        (SBAR (IN that)
+          (S
+            (ADVP (RB further))
+            (VP (VB refine)
+              (NP
+                (NP (DT the) (JJ molecular) (NN classification))
+                (PP (IN of)
+                  (NP (JJ diffuse) (NNS gliomas)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB interestingly))
+    (NP (DT these) (JJ molecular) (NNS classifiers))
+    (VP (VBP do) (RB not)
+      (ADVP (RB fully))
+      (VP (VB explain)
+        (NP (DT the) (NN variability))
+        (PP (IN in)
+          (NP
+            (NP (NN survival))
+            (VP (VBN observed)
+              (PP (IN for)
+                (NP (JJ diffuse) (NN glioma) (NNS patients))))))))
+    (. .)))
+

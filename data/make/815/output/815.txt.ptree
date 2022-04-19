@@ -1,0 +1,54 @@
+(ROOT
+  (S
+    (PP (IN of)
+      (NP (NN course)))
+    (, ,)
+    (S
+      (NP (DT any) (JJ good) (NN screenwriter))
+      (VP (MD will)
+        (VP (VB tell)
+          (NP (PRP you))
+          (SBAR (IN that)
+            (S
+              (NP (NN success))
+              (VP (VBZ relies)
+                (PP (IN on)
+                  (NP (NN drama)))))))))
+    (CC and)
+    (S
+      (NP (NN drama))
+      (VP (VBZ relies)
+        (PP (IN on)
+          (NP (NN conflict)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (PP (IN in)
+        (NP (JJ other) (NNS words)))
+      (NP (DT the) (NN reason) (NN donna))
+      (VP (VBD reed)))
+    (CC and)
+    (S
+      (NP (NN mrs.) (NN cleaver))
+      (VP (VBP arent)
+        (SBAR
+          (S
+            (NP
+              (NP (JJ big) (NN news))
+              (PP (IN on)
+                (NP (NN television))))
+            (ADVP (RB anymore))
+            (VP (VBZ is)
+              (SBAR (IN that)
+                (S
+                  (NP (PRP$ their) (JJ placid) (NN nature))
+                  (VP (VBZ is)
+                    (ADVP (RB simply))
+                    (, ,)
+                    (ADVP (RB well))
+                    (, ,)
+                    (ADJP (JJ boring))))))))))
+    (. .)))
+

@@ -1,0 +1,53 @@
+(ROOT
+  (S
+    (S
+      (NP (FW i))
+      (VP (VBP try)
+        (S
+          (VP (TO to)
+            (VP (VB do)
+              (NP
+                (NP (CD 6) (NNS days))
+                (PP (IN of)
+                  (NP
+                    (NP (NNS workouts))
+                    (PP (IN per)
+                      (NP (NN week)))))))))))
+    (, ,) (IN so)
+    (S
+      (PP (IN by)
+        (NP (NN default)))
+      (, ,)
+      (NP (PRP one))
+      (VP (VBZ has)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (NP (DT a) (NN weekend)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (RB though) (IN if)
+      (S
+        (NP (FW i))
+        (VP (VBP know)
+          (SBAR
+            (S
+              (NP (FW i))
+              (VP (VBP have)
+                (NP (DT a) (JJ busy) (NN week))
+                (ADVP (RB ahead))
+                (, ,)
+                (ADVP (RB ill))))))))
+    (VP (VBP do)
+      (NP (DT both) (NN weekend) (NNS days))
+      (SBAR (IN so)
+        (S
+          (NP (FW i))
+          (VP (MD can)
+            (VP (VB take)
+              (NP (DT a) (NN weekday))
+              (PRT (RP off)))))))
+    (. .)))
+

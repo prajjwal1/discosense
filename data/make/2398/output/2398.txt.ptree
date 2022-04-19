@@ -1,0 +1,38 @@
+(ROOT
+  (S
+    (NP (DT the) (NNS authors))
+    (VP (VBP argue)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (DT the) (JJ slow) (NN pace))
+            (PP (IN of)
+              (NP (NN recovery))))
+          (VP (VBZ reflects)
+            (NP
+              (NP (DT a) (JJ long) (NN term) (NN deterioration))
+              (PP (IN in)
+                (NP (JJ economic) (NNS prospects))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB specifically))
+    (NP (PRP they))
+    (VP (VBP estimate)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (DT the) (NN trend) (NN growth) (NN rate))
+            (PP (IN of)
+              (NP (JJ gross) (JJ domestic) (NN product))))
+          (VP (VBD fell)
+            (PP (IN by)
+              (NP
+                (NP (CD 1.2) (NN percentage) (NNS points))
+                (PP (IN between)
+                  (NP (CD 1965)
+                    (CC and)
+                    (CD 2005)))))))))
+    (. .)))
+

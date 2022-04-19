@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (NP
+      (NP (JJ oral) (NN treatment))
+      (PP (IN with)
+        (NP (NN perindopril))))
+    (ADVP (RB selectively))
+    (VP (VBD reduced)
+      (NP (NN body))
+      (NP (JJ fat) (NN mass))
+      (PP (IN without)
+        (S
+          (VP (VBG influencing)
+            (NP (JJ daily) (NN food) (NN intake))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN contrast)))
+    (NP (EX there))
+    (VP (VBD were)
+      (NP
+        (NP (DT no) (NNS differences))
+        (PP (IN in)
+          (NP
+            (NP (JJ lean)
+              (CC or)
+              (NN bone) (NN mass))
+            (PP (IN between)
+              (NP (DT the) (CD two) (NNS groups)))))))
+    (. .)))
+

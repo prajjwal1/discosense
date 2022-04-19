@@ -1,0 +1,1 @@
+since the nodal wear rate is already known, the cutting time increment, in which the specified tool wear increment is produced, can be searched by program. therefore a searching module is designed to carry out the searching work.

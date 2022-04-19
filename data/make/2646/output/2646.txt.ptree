@@ -1,0 +1,47 @@
+(ROOT
+  (S
+    (ADVP (RB overall))
+    (, ,)
+    (S
+      (NP (DT the) (NNS guns))
+      (VP (VBZ looks)))
+    (CC and)
+    (S
+      (NP (JJ sheer) (NN damage) (NN output))
+      (VP (VBP make)
+        (SBAR
+          (S
+            (NP (PRP it))
+            (VP (VBP seem)
+              (ADVP (RBR more))
+              (PP (IN like)
+                (NP (DT a) (JJ grenade) (NN launcher))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (JJ interestingly) (JJ final) (NN fantasy) (NNS tactics))
+        (NP (NN advance)))
+      (VP (VBZ has)
+        (NP (JJR smaller) (NNS guns))))
+    (, ,)
+    (CC but)
+    (S
+      (ADVP (RB also))
+      (NP (JJR smaller) (NNS wielders))
+      (VP (VBP theyre)
+        (S
+          (S
+            (VP (VBN used)
+              (PP (IN by)
+                (NP (DT a) (NN class)))))
+          (ADJP (RB only) (JJ available)
+            (PP (TO to)
+              (NP
+                (NP (NNS moogles))
+                (, ,)
+                (NP (DT the) (JJS smallest) (NN playable) (NNS species))))))))
+    (. .)))
+

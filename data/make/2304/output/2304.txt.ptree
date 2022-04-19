@@ -1,0 +1,65 @@
+(ROOT
+  (S
+    (SBAR (IN although)
+      (S
+        (NP (DT the) (NNS grasses))
+        (VP (VBD were)
+          (ADVP (RB only)
+            (NP (DT a) (NN moment)))
+          (ADJP (JJ old)
+            (PP (IN at)
+              (NP (PRP$ their) (NN creation)))))))
+    (, ,)
+    (NP (PRP they))
+    (VP (VBD appeared)
+      (SBAR (RB as) (IN if)
+        (S
+          (NP (PRP they))
+          (VP (VBD were)
+            (S
+              (NP (NNS months))
+              (ADJP (JJ old)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB likewise))
+    (NP
+      (NP (DT the) (NNS trees))
+      (, ,)
+      (SBAR (IN although)
+        (S
+          (NP (RB only) (DT a) (NN day))
+          (ADJP (JJ old)
+            (SBAR
+              (WHADVP (WRB when))
+              (S
+                (NP (PRP they))
+                (VP (VBD sprouted)
+                  (ADVP (RB forth))))))))
+      (, ,))
+    (VP (VBD were)
+      (ADVP
+        (ADVP (RB nevertheless))
+        (PP (IN like)
+          (NP (NNS trees) (NNS years))))
+      (ADJP (JJ old))
+      (SBAR (IN as)
+        (S
+          (S
+            (NP (PRP they))
+            (VP (VBD were)
+              (VP
+                (ADVP (RB fully))
+                (VBN grown))))
+          (CC and)
+          (S
+            (NP (NNS fruits))
+            (VP (VBD were)
+              (ADVP (RB already))
+              (NP
+                (NP (VBG budding))
+                (PP (IN on)
+                  (NP (PRP$ their) (NNS branches)))))))))
+    (. .)))
+

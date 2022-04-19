@@ -1,0 +1,53 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT all))
+      (PP (IN of)
+        (NP (DT this))))
+    (VP (VBD helped)
+      (VP
+        (VP (VB damage)
+          (NP (DT the) (NN economy)))
+        (, ,)
+        (VP (VB frighten)
+          (NP (DT the) (JJ middle) (NN class)))
+        (CC and)
+        (VP (VB provoke)
+          (NP (DT the) (NN right)
+            (CC and)
+            (NNS chiles) (NNS creditors)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (PP (IN in)
+        (NP (NN sum)))
+      (NP (PRP it))
+      (VP
+        (VP (VBD helped)
+          (VP (VB create)
+            (NP
+              (NP (DT a) (VBG suffocating) (NN atmosphere))
+              (PP (IN in)
+                (NP (DT the) (NN country))))))
+        (CC and)
+        (VP (VBD deprived)
+          (NP (DT the)
+            (ADVP (RB up)
+              (PP (IN of)
+                (NP (DT the) (NN majority))))
+            (NN support)))))
+    (NP (PRP it))
+    (VP (VBD required)
+      (S
+        (VP (TO to)
+          (VP (VB approve)
+            (CC and)
+            (VB consolidate)
+            (NP
+              (NP (NN change))
+              (PP (IN in)
+                (NP (DT a) (JJ democratic) (NN way))))))))
+    (. .)))
+

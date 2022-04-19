@@ -1,0 +1,50 @@
+(ROOT
+  (S
+    (ADVP (RB unfortunately))
+    (, ,)
+    (NP (PRP it))
+    (VP
+      (VP
+        (ADVP (RB still))
+        (VBZ has)
+        (NP (DT some) (NNS quirks)))
+      (, ,)
+      (CC and)
+      (VP (VBZ is)
+        (VP (VBN known)
+          (S
+            (VP (TO to)
+              (VP (VB cause)
+                (NP
+                  (NP (DT a) (NN performance))
+                  (VP (VBN hit)
+                    (PP (IN on)
+                      (NP (DT some) (NNS systems)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN as)
+      (S
+        (NP (DT a) (NN result))
+        (VP (VBZ wahoos)
+          (NP
+            (ADJP (RBS most) (JJ promising))
+            (NN feature)))))
+    (VP
+      (VP (VBZ is)
+        (VP (VBN disabled)
+          (PRT (RP out))
+          (PP (IN of)
+            (NP (DT the) (NN box)))))
+      (, ,)
+      (CC and)
+      (VP (VBZ needs)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (VP (VBN enabled)
+                (PP (IN by)
+                  (NP (DT the) (NN user)))))))))
+    (. .)))
+

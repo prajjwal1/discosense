@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (NP (JJ other) (NNS vitamins))
+    (VP (MD can)
+      (VP (VB affect)
+        (SBAR
+          (WHADVP (WRB how))
+          (S
+            (NP (DT the) (NN body))
+            (VP (VBZ heals)
+              (PP (IN from)
+                (NP (NN surgery))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP
+      (PP (IN in)
+        (NP (NN sum)))
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (VP (VBG thinking)
+            (PP (IN about)
+              (NP (JJ nontraditional) (NN cancer) (NNS modalities)))))))
+    (, ,)
+    (NP (DT the)
+      (ADJP (RBS most) (JJ important))
+      (NN question))
+    (VP (VBP isntwill)
+      (S
+        (NP (DT this) (NN treatment))
+        (VP (VB cure)
+          (NP (PRP$ my) (NN cancer)))))
+    (. .)))
+

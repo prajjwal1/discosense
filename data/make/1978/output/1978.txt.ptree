@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (INTJ (UH yes))
+    (, ,)
+    (NP (PRP it))
+    (VP (MD would)
+      (VP (VB have)
+        (VP (VBN looked)
+          (ADJP (RB absolutely) (JJ absurd))
+          (PP (IN without)
+            (NP (PRP it))))))
+    (. .)))
+
+(ROOT
+  (S (CC but)
+    (NP (PRP it))
+    (VP (VBZ feels)
+      (ADJP (RB very) (JJ overloaded)
+        (PP (IN with)
+          (NP (PRP it)))))
+    (. .)))
+

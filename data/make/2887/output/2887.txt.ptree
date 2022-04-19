@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP it))
+      (VP (VBZ has)
+        (NP
+          (NP (DT a) (NN lot))
+          (PP (IN of)
+            (NP (NNS inversions))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP it))
+      (ADVP (RB also))
+      (VP (VBZ has)
+        (NP (NN terrain))
+        (, ,)
+        (SBAR (IN so)
+          (S
+            (NP (PRP$ its))
+            (ADVP (RB very) (RB well))
+            (VP (VBD rounded))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (JJ overall))
+    (NP
+      (NP (DT a) (JJ great) (NN ride))
+      (CC and)
+      (NP (RB not) (DT a) (JJ short) (NN ride)))
+    (. .)))
+

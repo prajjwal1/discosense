@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (NP (NN evolvica))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (NN package))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBZ supports)
+              (NP
+                (NP (JJ evolutionary) (NN computation))
+                (PP (IN in)
+                  (NP (NN mathematica)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (ADJP (JJ particular)))
+    (NP (PRP it))
+    (VP (VBZ contains)
+      (NP
+        (NP (NNS implementations))
+        (PP (IN of)
+          (NP (NN evolution))))
+      (PP (IN on)
+        (NP
+          (NP (JJ symbolic) (NNS expressions))
+          (, ,)
+          (NP
+            (NP (DT an) (NN approach))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (VBZ is)
+                  (ADVP (RB generally))
+                  (VP (VBN known)
+                    (PP (IN as)
+                      (NP (JJ genetic) (NN programming)))))))))))
+    (. .)))
+

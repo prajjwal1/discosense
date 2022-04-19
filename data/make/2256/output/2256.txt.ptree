@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (PP (IN on)
+      (NP (JJ many) (NNS fronts)))
+    (, ,)
+    (NP
+      (NP (JJ economic) (NNS conditions))
+      (CC and)
+      (NP (JJ daily) (NN life)))
+    (VP (VBP are)
+      (VP (VBG improving)
+        (PP (IN for)
+          (NP (NN lao) (NNS citizens)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB yet))
+    (NP (JJ much) (NN work))
+    (VP (VBZ remains)
+      (S
+        (VP (TO to)
+          (VP (VB ensure)
+            (SBAR (IN that)
+              (S
+                (NP (DT the) (NN development) (NN dialogue))
+                (VP (VBZ becomes)
+                  (NP
+                    (NP (JJR more) (NN inclusive))
+                    (PP (IN of)
+                      (NP
+                        (NP (JJ laos) (JJ general) (NN populace))
+                        (, ,) (RB especially)
+                        (NP
+                          (NP (DT those))
+                          (PP (IN in)
+                            (NP
+                              (ADJP
+                                (ADJP (RB far) (JJ flung))
+                                (, ,)
+                                (ADJP (VBN isolated))
+                                (CC and)
+                                (ADJP (RB much) (JJR poorer)))
+                              (NNS communities))))))))))))))
+    (. .)))
+

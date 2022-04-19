@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (JJ upper))
+      (CC and)
+      (NP (JJR lower) (NN casing)))
+    (VP (VBZ is)
+      (VP (VBN combined)
+        (PP (IN with)
+          (NP (JJ respective) (VBG isolating) (NNS elements)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thereby))
+    (NP (DT the) (JJ optical) (NN transceiver) (NN module))
+    (VP (VBZ is)
+      (VP (VBN isolated)
+        (PP (IN from)
+          (NP (JJ electromagnetic) (NN interference)))))
+    (. .)))
+

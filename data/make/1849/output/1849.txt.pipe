@@ -1,0 +1,1 @@
+Explicit|||78..85||however||1|however|||Comparison.Contrast|||||||||||0..76|0|for many index types, such as dateindex or fieldindex, this is normally done||||||||86..226|1|for text indexes, such as zctextindex, textindex, and textindexng, the index doesnt keep the actual attribute or method results in the index|||||||||||||

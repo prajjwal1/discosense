@@ -1,0 +1,5 @@
+0..4 0 once 502.txt 0
+60..65 0 later 502.txt 0
+81..83 0 as 502.txt 0
+158..161 0 for 502.txt 0
+184..195 1 as_a_result 502.txt 0

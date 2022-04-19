@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (NN expression))
+      (PP (IN of)
+        (NP (DT those) (NNS molecules))))
+    (VP (VBZ is)
+      (ADVP (RB strongly))
+      (VP (VBN influenced)
+        (PP (IN by)
+          (NP
+            (NP (DT the) (NN activity))
+            (PP (IN of)
+              (NP (DT the) (JJ immune) (NN system)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (ADJP (RB particularly) (JJ nitric))
+      (NN oxide))
+    (VP
+      (VP (VBZ plays)
+        (NP (DT a) (JJ critical) (NN role))
+        (PP (IN in)
+          (NP
+            (NP (DT the) (NN interaction))
+            (PP (IN between)
+              (NP (NN inflammation)
+                (CC and)
+                (NN neuronal) (NNS circuits))))))
+      (CC and)
+      (VP (VBZ causes)
+        (NP (JJ mitochondrial) (NN dysfunction))))
+    (. .)))
+

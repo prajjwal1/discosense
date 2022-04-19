@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (NP (PRP it))
+    (VP (VBZ is) (RB not)
+      (VP (VBN used)
+        (PP (IN in)
+          (NP
+            (NP (DT the) (NN sense))
+            (PP (IN of)
+              (NP (DT a) (JJ traditional) (NN thread)
+                (CC or)
+                (NN process) (NN priority)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB specifically))
+    (NP (DT an) (NN activity) (NN priority))
+    (VP (VBZ defines)
+      (NP
+        (NP (DT an) (NN arbitration) (NN policy))
+        (PP (IN between)
+          (NP
+            (NP (NNS consumers))
+            (VP (VBG contending)
+              (PP (IN for)
+                (NP (DT the) (JJ same) (NNS resources))))))))
+    (. .)))
+

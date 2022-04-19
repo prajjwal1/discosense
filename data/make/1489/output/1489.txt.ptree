@@ -1,0 +1,45 @@
+(ROOT
+  (S
+    (NP (DT the) (NN north) (NN bergen) (NN police) (NN department))
+    (VP
+      (VP (VBZ is)
+        (NP (DT a) (JJ civil) (NN service) (NN employer)))
+      (CC and)
+      (VP (VBZ is)
+        (VP (VBN governed)
+          (PP (IN by)
+            (NP
+              (NP (NNS rules))
+              (VP (VBN set)
+                (PRT (RP forth))
+                (PP (IN by)
+                  (NP
+                    (NP (DT the) (JJ new) (NN jersey) (NN department))
+                    (PP (IN of)
+                      (NP (NNS personnel)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN as)
+      (NP (DT a) (NN result)))
+    (NP (PRP we))
+    (VP (VBP select)
+      (NP (NNS candidates))
+      (PP (IN from)
+        (NP
+          (NP (NN eligibility) (NNS lists))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBP are)
+                (VP (VBN supplied)
+                  (PP (TO to)
+                    (NP (PRP us)))
+                  (PP (IN by)
+                    (NP
+                      (NP (DT the) (NN state))
+                      (PP (IN of)
+                        (NP (JJ new) (NN jersey))))))))))))
+    (. .)))
+

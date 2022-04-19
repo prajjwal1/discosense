@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (NP (JJ positional) (NNS arguments))
+    (VP (VBP are)
+      (VP (VBN stored)
+        (PP (IN as)
+          (NP (DT a) (NN reference)))
+        (PP (TO to)
+          (NP
+            (NP (DT a) (NN list))
+            (PP (IN in)
+              (NP (DT the) (JJ args) (NN item)))))
+        (SBAR (IN while)
+          (S
+            (NP (VBN named) (NN configuration) (NNS parameters))
+            (VP (VBP are)
+              (VP (VBN stored)
+                (PP (IN as)
+                  (NP (DT a) (NN reference)))
+                (PP (TO to)
+                  (NP
+                    (NP (DT a) (JJ hash) (NN array))
+                    (PP (IN in)
+                      (NP (DT the) (VBG config) (NN item)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (IN for) (NN example) (NN loading))
+    (ADVP
+      (NP (DT a) (NN plugin))
+      (RB as))
+    (VP (VBN shown)
+      (ADVP (RB here)))
+    (. .)))
+

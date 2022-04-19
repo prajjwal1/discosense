@@ -1,0 +1,4 @@
+conn_lc:while conn:while conn_POS:IN with_prev_full:uno_while xxx£
+conn_lc:although conn:although conn_POS:IN with_prev_full:,_although xxx£
+conn_lc:nevertheless conn:nevertheless conn_POS:RB xxx£
+conn_lc:and conn:and conn_POS:CC with_prev_full:,_and xxx£

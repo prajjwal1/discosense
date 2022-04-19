@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (NP (JJ unconditional) (NN love))
+    (VP (VBZ has)
+      (S
+        (VP (TO to)
+          (VP (VB be)
+            (VP (VBN coupled)
+              (PP (IN with)
+                (NP
+                  (NP (JJ high) (NNS expectations))
+                  (PP (IN for)
+                    (NP (NN effort) (, ,) (NN character)
+                      (CC and)
+                      (NN morality))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB otherwise))
+    (NP (DT a) (NN child))
+    (VP (MD will)
+      (VP
+        (VP (VB feel)
+          (NP (NNS nurtured)))
+        (, ,)
+        (CONJP (CC but)
+          (RB not))
+        (VP (VB learn)
+          (S
+            (VP (TO to)
+              (VP (VB hold)
+                (NP (PRP himself))
+                (PP (TO to)
+                  (NP (JJ high) (NNS standards)))))))))
+    (. .)))
+

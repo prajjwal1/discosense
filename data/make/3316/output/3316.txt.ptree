@@ -1,0 +1,51 @@
+(ROOT
+  (S
+    (NP (JJ recent) (NNS studies))
+    (ADVP (RB however))
+    (VP (VBP suggest)
+      (SBAR (IN that)
+        (S
+          (NP (NNS macrophages))
+          (VP (MD may)
+            (VP (VB be)
+              (ADJP (JJ dispensable)
+                (PP (IN for)
+                  (NP
+                    (NP (DT the) (NN initiation))
+                    (PP (IN of)
+                      (NP
+                        (NP (NNS angiogenesis))
+                        (PP (IN in)
+                          (NP (NNS tumors)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB rather))
+    (NP (DT these) (NNS cells))
+    (VP (VBP express)
+      (NP
+        (NP (JJ proangiogenic) (NNS programs))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VB enhance)
+              (NP
+                (NP (DT the) (NN complexity))
+                (PP (IN of)
+                  (NP
+                    (NP (DT the) (NN tumor))
+                    (VP (VBN associated)
+                      (S
+                        (ADJP (JJ vasculature)))
+                      (, ,)
+                      (S
+                        (VP (VBG leading)
+                          (PP (TO to)
+                            (NP
+                              (ADJP (JJ aberrant) (, ,) (JJ plethoric)
+                                (CC and)
+                                (JJ dysfunctional))
+                              (NNS angiogenesis))))))))))))))
+    (. .)))
+

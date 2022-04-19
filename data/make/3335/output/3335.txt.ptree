@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (ADVP (RB disclaimer))
+    (NP
+      (NP (DT the) (NN use))
+      (PP (IN of)
+        (NP (DT the) (NN word) (NN idiot))))
+    (VP (VBZ is) (RB not)
+      (VP (VBN meant)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (NP
+                (NP (DT an) (JJ intellectual) (NN assessment))
+                (PP (IN of)
+                  (NP
+                    (NP (DT the) (NN readership))
+                    (PP (IN of)
+                      (NP (DT this) (NN blog)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB rather))
+    (NP (FW i))
+    (VP (VBP use)
+      (NP (DT this) (NN word))
+      (PP (IN as)
+        (NP
+          (NP
+            (NP (DT a) (JJ cultural) (NN point))
+            (PP (IN of)
+              (NP (NN reference))))
+          (CC or)
+          (NP
+            (NP (DT an) (NN example))
+            (PP (IN of)
+              (NP (NN contextualization)))))))
+    (. .)))
+

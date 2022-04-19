@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (NP (NNS women))
+    (VP (VBP are) (RB not)
+      (ADVP (RB often))
+      (VP (VBN treated)
+        (ADVP (RB badly))
+        (PP (IN in)
+          (NP (DT this) (NN culture)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN on)
+      (NP (DT the) (NN contrary)))
+    (NP (FW i))
+    (VP (VBP have)
+      (ADVP (RB never))
+      (VP (VBN seen)
+        (NP
+          (NP
+            (ADJP (RB so) (JJ much))
+            (NN respect))
+          (CC and)
+          (NP (PRP$ its)
+            (ADJP (RB not)
+              (PP (IN because)))
+            (NN im))
+          (NP (DT a) (NN foreigner)))
+        (ADVP (RB here))))
+    (. .)))
+

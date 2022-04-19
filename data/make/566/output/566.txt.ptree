@@ -1,0 +1,63 @@
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB when))
+      (S
+        (S
+          (NP (DT an) (JJ administrative) (NN structure))
+          (VP (VBZ is)
+            (ADVP (RB already))
+            (PP (IN in)
+              (NP (NN place)))))
+        (CC and)
+        (S
+          (NP (JJ recipient)
+            (CC and)
+            (NN provider) (NNS relationships))
+          (VP (VBP have)
+            (VP (VBN been)
+              (VP (VBN established)))))))
+    (, ,)
+    (NP (NN state) (NNS officials))
+    (VP (VBP have)
+      (NP
+        (NP (DT an) (JJR easier) (NN time))
+        (VP (VBG incorporating)
+          (NP (JJ new) (NNS responsibilities))
+          (PP (IN into)
+            (NP (VBG existing) (NN management) (NNS systems))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ conversely) (NNS problems))
+    (VP (VBP are)
+      (ADJP
+        (ADJP (RBR more) (JJ likely)
+          (S
+            (VP (TO to)
+              (VP (VB arise)
+                (SBAR
+                  (WHADVP (WRB when))
+                  (S
+                    (NP (NN state) (NNS governments))
+                    (VP (VBP assume)
+                      (NP
+                        (NP (NN responsibility))
+                        (PP (IN for)
+                          (NP (VBG administering) (NNS programs)))))))))))
+        (SBAR
+          (WHADVP (WRB where))
+          (S
+            (NP (DT the) (JJ federal) (NN government))
+            (ADVP (RB previously))
+            (VP (VBD awarded)
+              (NP (NNS grants))
+              (ADVP (RB directly))
+              (PP (TO to)
+                (NP
+                  (NP (JJ local) (JJ governmental) (NNS units))
+                  (CC or)
+                  (NP (JJ nonprofit) (NNS organizations)))))))))
+    (. .)))
+

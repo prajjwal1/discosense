@@ -1,0 +1,18 @@
+det(uk-3, the-2)
+prep_across(plenty-7, uk-3)
+expl(plenty-7, there-4)
+aux(plenty-7, has-5)
+cop(plenty-7, been-6)
+root(ROOT-0, plenty-7)
+prep_of(plenty-7, change-9)
+amod(distribution-12, bumblebee-11)
+prep_in(plenty-7, distribution-12)
+
+advmod(easy-7, yet-1)
+amod(dynamics-4, capturing-2)
+amod(dynamics-4, such-3)
+nsubj(easy-7, dynamics-4)
+cop(easy-7, is-5)
+neg(easy-7, not-6)
+root(ROOT-0, easy-7)
+

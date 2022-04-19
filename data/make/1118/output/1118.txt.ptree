@@ -1,0 +1,55 @@
+(ROOT
+  (S
+    (NP (PRP he))
+    (ADVP (RB just))
+    (VP (VBD had)
+      (VP (VBN surgery)
+        (NP (JJ last) (NN week))
+        (S
+          (VP (TO to)
+            (VP (VB lay)
+              (NP
+                (NP (DT the) (NNS fistulas))
+                (ADJP
+                  (ADJP (JJ open))
+                  (, ,)
+                  (CC and)
+                  (ADJP (RB so)
+                    (ADVP (RB far) (RB so))
+                    (JJ good)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN although)
+      (S
+        (NP (PRP he))
+        (VP
+          (VP (VBZ is)
+            (VP (VBG experiencing)
+              (NP
+                (NP (NN pain))
+                (, ,)
+                (CC but)
+                (NP (PRP$ its) (JJ manageable)))))
+          (, ,)
+          (CC and)
+          (VP (VBZ seems)
+            (S
+              (VP (TO to)
+                (VP (VB be)
+                  (VP (VBG getting)
+                    (ADJP
+                      (NP (DT a) (RB little))
+                      (JJR easier))))))))))
+    (, ,)
+    (NP (DT the) (JJS most) (NN pain))
+    (VP (VBZ is)
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (PRP he))
+          (VP (VBZ has)
+            (NP (DT a) (NN bowel) (NN movement))))))
+    (. .)))
+

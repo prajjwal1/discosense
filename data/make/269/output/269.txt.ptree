@@ -1,0 +1,54 @@
+(ROOT
+  (S
+    (S
+      (NP (JJ other) (NN zone) (NNS types))
+      (VP (MD can)
+        (VP (VB be)
+          (VP (VBN created) (, ,)
+            (PP (IN for)
+              (NP (NN example)))))))
+    (, ,)
+    (NP (JJ dynamic) (NN zone) (NNS types))
+    (VP (MD could)
+      (VP (VB be)
+        (VP (VBN used)
+          (SBAR (IN that)
+            (S
+              (VP (VBP vary)
+                (PP
+                  (PP (IN with)
+                    (NP
+                      (NP (DT the) (NN time))
+                      (PP (IN of)
+                        (NP (NN day)))))
+                  (CC or)
+                  (PP (IN with)
+                    (NP (DT the) (NN season))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP
+        (ADVP (RB thus))
+        (VBG using)
+        (NP (DT the) (NN time))
+        (PP (IN as)
+          (NP (DT a) (NN variable)))))
+    (, ,)
+    (NP (DT a) (JJ dynamic) (NN zone) (NN type))
+    (VP (MD would)
+      (VP (VB create)
+        (NP (DT a) (JJ different) (NN playlist))
+        (PP (IN during)
+          (NP
+            (NP (DT the) (NN morning) (NN commute))
+            (ADJP (RB as) (VBN opposed))))
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (VP (VBG driving)
+              (PP (IN at)
+                (NP (NN sunset))))))))
+    (. .)))
+

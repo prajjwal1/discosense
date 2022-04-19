@@ -1,0 +1,2 @@
+conn:thereby conn_POS:RB sent_pos:0 NA
+conn:when conn_POS:WRB prev1:player prev1_POS:NN with_prev1_full:player_when with_prev1_POS_full:NN_WRB prev2:global prev2_POS:JJ with_prev2_full:global_when with_prev2_POS_full:JJ_WRB NA

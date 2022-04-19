@@ -1,0 +1,49 @@
+(ROOT
+  (S
+    (S
+      (VP (VB feel)
+        (ADJP (JJ free)
+          (S
+            (VP (TO to)
+              (VP (VB add)
+                (PP (TO to)
+                  (NP (DT the) (NN list)))))))))
+    (, ,)
+    (NP (NN nothing))
+    (VP (VBZ is)
+      (ADJP (JJ finite)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB however))
+    (NP (JJ big) (NN caveat))
+    (ADVP (RB here))
+    (VP (VBP make)
+      (ADJP (JJ sure)
+        (SBAR (IN that)
+          (S
+            (SBAR
+              (WHNP (WDT whatever))
+              (S
+                (NP (PRP you))
+                (VP (VBP do)
+                  (PP (IN with)
+                    (NP (PRP it))))))
+            (, ,)
+            (NP (PRP you))
+            (VP (VBP do)
+              (S
+                (NP (PRP it))
+                (UCP
+                  (ADVP (RB intentionally))
+                  (CC and)
+                  (PP (IN with)
+                    (NP
+                      (NP (DT a) (NN goal))
+                      (PP (IN of)
+                        (NP (NN progress)
+                          (CC or)
+                          (NN permanence))))))))))))
+    (. .)))
+

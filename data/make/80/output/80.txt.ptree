@@ -1,0 +1,34 @@
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHADJP (WRB how) (JJ many))
+      (NNS lives))
+    (SQ
+      (VP (VBZ has)
+        (NP
+          (NP (DT this) (NN cost))
+          (PP (IN throughout)
+            (NP (NN history))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nevertheless))
+    (NP (PRP one))
+    (VP (MD must)
+      (VP (VB wonder)
+        (PP (IN at)
+          (NP
+            (NP (DT the) (JJ sudden)
+              (CC and)
+              (JJ inexplicable) (NN urgency))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (VBZ underpins)
+                  (NP
+                    (NP (DT the) (NNS positions))
+                    (PP (IN of)
+                      (NP (PDT both) (DT these) (JJ esteemed) (NNS newspapers)))))))))))
+    (. .)))
+

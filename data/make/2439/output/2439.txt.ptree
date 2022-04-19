@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (S
+      (NP (JJS most) (NN novice) (NNS screenwriters))
+      (VP (VBP think)
+        (S
+          (VP (VBG getting)
+            (S
+              (VP (VBN screwed)
+                (PRT (RP over))
+                (PP (IN in)
+                  (NP
+                    (ADJP (RB hollywood) (DT all))
+                    (NNS boils)))
+                (ADVP (RB down)
+                  (PP (TO to)
+                    (NP (NN story) (NN theft))))))))))
+    (, ,)
+    (CC but)
+    (S
+      (PP (IN in)
+        (NP (NN truth)))
+      (, ,)
+      (NP (NN story) (NN theft))
+      (ADVP (RB rarely))
+      (VP (VBZ takes)
+        (NP (NN place))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB instead))
+    (NP (PRP they))
+    (VP (VBP overlook)
+      (NP
+        (NP (DT the)
+          (ADJP (RB very) (JJ real))
+          (NN screenwriting) (NNS pitfalls))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (MD can)
+              (VP (VB cause)
+                (NP (JJ unnecessary) (NN career) (NNS setbacks))))))))
+    (. .)))
+

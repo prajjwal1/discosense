@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNS students))
+      (, ,)
+      (NP (NNS doctors))
+      (, ,)
+      (NP (NNS scientists))
+      (CC and)
+      (NP (NNS nurses)))
+    (VP (MD will)
+      (VP (VB be)
+        (ADJP (JJ interested)
+          (S
+            (VP (TO to)
+              (VP (VB work)
+                (PP (IN in)
+                  (NP
+                    (NP (DT an) (NN organisation))
+                    (PP (IN as)
+                      (NP (NN cancer) (NN research) (NN uk)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB hence))
+    (NP (DT the) (NN funding))
+    (VP (MD can)
+      (VP (VB be)
+        (VP (VBN reduced)
+          (PP (IN in)
+            (NP (DT the) (NN future)))
+          (S
+            (VP (TO to)
+              (VP (VB grow) (RBR further)))))))
+    (. .)))
+

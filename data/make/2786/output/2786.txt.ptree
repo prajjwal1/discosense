@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (ADVP
+      (NP (NNS whats))
+      (RBR more))
+    (, ,)
+    (SBAR (RB even) (IN though)
+      (S
+        (NP (PRP he))
+        (ADVP (RB harshly))
+        (VP (VBD criticized)
+          (NP (DT the) (JJ soviet) (NN government)))))
+    (, ,)
+    (NP (PRP he))
+    (ADVP (RB never))
+    (VP (VBD gave)
+      (PP (IN in)
+        (PP (TO to)
+          (NP
+            (NP (DT some) (JJ misty) (NN nostalgia))
+            (PP (IN for)
+              (NP (DT the) (JJ old) (NN order)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB rather))
+    (NP (PRP he))
+    (VP (VBD saw)
+      (NP
+        (NP (DT the) (JJ illiberal) (NN nature))
+        (PP (IN of)
+          (NP (DT the) (NN ussr))))
+      (PP (IN as)
+        (NP
+          (NP (DT the) (JJ natural) (NN follower))
+          (PP (IN of)
+            (NP (DT the) (JJ authoritarian) (NN tsarist) (NN order))))))
+    (. .)))
+

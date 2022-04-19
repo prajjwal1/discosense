@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (NP (DT the) (NN processor))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (NN unit))
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (VBZ reads)
+              (CC and)
+              (VBZ executes)
+              (NP (DT every) (NN program) (NN instruction)))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADVP (RB therefore))
+    (NP
+      (NP (NN consideration))
+      (PP (IN towards)
+        (NP (DT the) (NN processor)))
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (S
+            (VP (VBG purchasing)
+              (NP
+                (NP (DT a) (JJ new) (JJ personal) (NN computer))
+                (CC or)
+                (NP (NN laptop)))))
+          (VP (VBZ occupies)
+            (NP (DT the) (JJ top) (NN rank))
+            (PP (IN among)
+              (NP
+                (NP (DT all) (JJ other) (NN computer))
+                (VP (VBG buying)
+                  (NP (NNS considerations)))))))))
+    (. .)))
+

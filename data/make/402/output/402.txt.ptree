@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (SBAR (RB even) (IN if)
+      (S
+        (NP (PRP one))
+        (VP (VBZ does) (RB not)
+          (VP (VB believe)
+            (PP (IN in)
+              (NP (PRP it)))))))
+    (, ,)
+    (NP (PRP one))
+    (VP (MD can) (RB not)
+      (VP (VB deny)
+        (SBAR (IN that)
+          (S
+            (NP (PRP it))
+            (VP (VBZ is)
+              (NP
+                (NP (DT some))
+                (PP (IN of)
+                  (NP
+                    (NP (DT the)
+                      (ADJP (RBS most) (JJ beautiful))
+                      (NN writing))
+                    (VP
+                      (ADVP (RB ever))
+                      (VBN produced))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (ADJP (JJ short)))
+    (NP (PRP it))
+    (VP (VBD took)
+      (NP (PRP us))
+      (NP (DT a) (NN while))
+      (S
+        (VP (TO to)
+          (VP (VB get)
+            (NP (PRP it))))))
+    (. .)))
+

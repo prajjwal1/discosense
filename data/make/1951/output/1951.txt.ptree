@@ -1,0 +1,55 @@
+(ROOT
+  (S
+    (S
+      (NP (FW i))
+      (VP (VBD thought)
+        (PP (IN about)
+          (S
+            (VP (VBG trying)
+              (S
+                (VP (TO to)
+                  (VP (VB solve)
+                    (NP
+                      (NP (DT this))
+                      (PP (IN with)
+                        (NP (JJ intelligent) (NN mangling))))))))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (EX there))
+      (VP (VBZ is)
+        (ADVP (RB always))
+        (NP (DT a) (NN boundary) (NN case))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP
+        (NP (NN instance))
+        (SBAR (IN if)
+          (S
+            (NP (PRP you))
+            (VP (VBP mangle)
+              (NP (NN anything))
+              (SBAR (IN with)
+                (S
+                  (NP (SYM x))
+                  (VP (VB eclipse)
+                    (NP (CD 1))
+                    (PP (IN in)
+                      (NP
+                        (NP (DT some) (NN way))
+                        (, ,)
+                        (SBAR
+                          (WHNP (WP what))
+                          (IN if)
+                          (S
+                            (NP (EX there))
+                            (VP (VBZ is)
+                              (NP (DT a) (JJ global) (NN variable)))))))))))))))
+    (NP (SYM x))
+    (VP (VB eclipse)
+      (NP (CD 1)))
+    (. .)))
+

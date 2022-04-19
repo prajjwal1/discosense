@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (S
+      (VP (TO to)
+        (VP (VB be)
+          (ADJP (JJ effective)
+            (PP (IN for)
+              (NP (NN self) (NN defense)))))))
+    (, ,)
+    (NP (NNS bullets))
+    (VP (VBP risk)
+      (NP (JJR more) (JJ lethal) (NNS consequences))
+      (, ,)
+      (S
+        (VP (VBG striking)
+          (NP
+            (NP (DT the) (NN head))
+            (CC or)
+            (NP (JJ vital) (NNS organs))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB similarly))
+    (NP (NN chemical)
+      (CC or)
+      (NN pepper) (NNS sprays))
+    (VP (MD must)
+      (VP (VB hit)
+        (S
+          (NP
+            (NP (DT an) (NN assailant))
+            (PP (IN in)
+              (NP (DT the) (NN face))))
+          (NP
+            (NP (DT a)
+              (ADJP (RB much) (RBR less) (JJ reliable))
+              (NN alternative))
+            (PP (IN in)
+              (NP (JJ fast) (VBG moving) (NNS confrontations)))))))
+    (. .)))
+

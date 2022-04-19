@@ -1,0 +1,2 @@
+conn:in_particular conn_POS:IN_JJ sent_pos:0 NA
+conn:and conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_and with_prev1_POS_full:,_CC prev2:forecheck prev2_POS:VBP with_prev2_full:forecheck_and with_prev2_POS_full:VBP_CC NA

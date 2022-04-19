@@ -1,0 +1,50 @@
+(ROOT
+  (S
+    (PP
+      (ADVP (RB still))
+      (IN in)
+      (NP (NN existence)))
+    (NP (NN today))
+    (, ,)
+    (NP (NNS polini))
+    (VP (VBZ is)
+      (NP
+        (NP (DT an) (JJ italian) (NN company))
+        (VP (VBG making)
+          (NP
+            (NP (JJ miniature) (NNS sportbikes))
+            (VP
+              (ADVP (RB commonly))
+              (VBN referred)
+              (PP (TO to)
+                (SBAR (IN as)
+                  (S
+                    (VP (VBZ pocketbikes)
+                      (SBAR (IN that)
+                        (S
+                          (NP (RB even) (NN napoleon))
+                          (VP (MD would)
+                            (VP (VB feel)
+                              (VP (VBN cramped)
+                                (PRT (RP on))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN although)
+      (FRAG
+        (PP (IN despite)
+          (NP (PRP$ their) (JJ ergonomic) (NNS challenges)))))
+    (, ,)
+    (NP
+      (NP (NNS people))
+      (PP (IN of)
+        (NP (DT all) (NNS shapes)
+          (CC and)
+          (NNS sizes))))
+    (VP (VBP have)
+      (VP (VBN gravitated)
+        (PP (TO to)
+          (NP (DT these) (NNS pocketbikes)))))
+    (. .)))
+

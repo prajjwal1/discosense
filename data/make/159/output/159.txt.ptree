@@ -1,0 +1,59 @@
+(ROOT
+  (S
+    (ADVP (RB consequently))
+    (, ,)
+    (NP (PRP they))
+    (VP (VBD sealed)
+      (NP (DT the) (NN videotape)
+        (CC and)
+        (NNS pictures))
+      (PP (IN in)
+        (NP
+          (NP (DT an) (NN envelope))
+          (VP
+            (VP (VBN addressed)
+              (PP (TO to)
+                (NP (NN roger) (NN carlisle))))
+            (, ,)
+            (VP (VBN attached)
+              (NP
+                (NP (DT a) (NN return) (NN address) (NN label))
+                (CC and)
+                (NP (JJ proper) (NN postage))))
+            (, ,)
+            (CC and)
+            (VP (VBN delivered)
+              (NP (DT the) (NN package))
+              (PP (TO to)
+                (NP (DT the) (JJ correct) (NN address))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB thereafter))
+      (NP (DT the) (NNS inspectors))
+      (VP (VBD maintained)
+        (NP
+          (NP (JJ undercover) (NN surveillance))
+          (PP (IN of)
+            (NP (DT the) (NN location))))))
+    (, ,)
+    (CC and)
+    (S
+      (PP (IN within)
+        (NP (DT a) (JJ short) (NN time)))
+      (, ,)
+      (NP (NN cedelle))
+      (VP
+        (VP (VBD arrived))
+        (, ,)
+        (VP (VBD picked)
+          (PRT (RP up))
+          (NP (DT the) (NN parcel)))
+        (, ,)
+        (CC and)
+        (VP (VBD drove)
+          (PRT (RP away)))))
+    (. .)))
+

@@ -1,0 +1,47 @@
+(ROOT
+  (S
+    (SBAR (IN if)
+      (S
+        (NP (PRP it))
+        (VP (VBZ is)
+          (ADJP (JJ correct)))))
+    (, ,)
+    (NP (FW i))
+    (VP (MD will)
+      (VP (VB include)
+        (NP (PRP it))
+        (PP (IN in)
+          (NP
+            (NP (PRP$ my) (VBG upcoming) (NN catalogue) (NN raisonn))
+            (PP (IN on)
+              (NP (DT the) (NN artist)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (ADVP (RB likewise))
+      (IN if)
+      (S
+        (NP (PRP you))
+        (VP (VBP have)
+          (NP
+            (NP (DT any) (NN information))
+            (VP (VBG pertaining)
+              (PP (TO to)
+                (NP
+                  (NP (DT any))
+                  (PP (IN of)
+                    (NP
+                      (NP (PRP$ his) (NNS paintings))
+                      (, ,)
+                      (CC or)
+                      (NP (PRP$ his) (NN life))
+                      (, ,) (FW i))))))))))
+    (VP (MD would)
+      (VP (VB be)
+        (ADJP (RB very) (JJ appreciative)
+          (PP (IN for)
+            (NP (DT the) (NN assistance))))))
+    (. .)))
+

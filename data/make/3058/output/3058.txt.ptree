@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (NP (PRP we))
+    (VP (VBP are)
+      (VP (VBG considering)
+        (NP (JJ various) (NN business) (NNS models))
+        (PP (IN for)
+          (NP (DT the) (NN lifestyle) (NN entertainment) (NN business)))
+        (S
+          (VP (TO to)
+            (VP (VB drive)
+              (NP (JJR more) (NN value)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (RB as) (DT a) (NN result))
+    (VP (VBP im)
+      (ADJP (JJ happy)
+        (S
+          (VP (TO to)
+            (VP (VB announce)
+              (NP
+                (NP (DT the) (NN signing))
+                (PP (IN of)
+                  (NP (DT a) (NN distribution) (NN agreement))))
+              (PP (IN for)
+                (NP
+                  (NP (NN lifestyle) (NN entertainment))
+                  (PP (IN in)
+                    (NP (NN north) (NN america)))))
+              (PP (IN with)
+                (NP (NNS funai))))))))
+    (. .)))
+

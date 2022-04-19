@@ -1,0 +1,54 @@
+(ROOT
+  (S
+    (PP (IN on)
+      (NP (DT the) (CD one) (NN hand)))
+    (, ,)
+    (NP (DT the) (NN image) (NN acquisition) (NN speed))
+    (VP (VBZ is)
+      (ADJP (RB relatively) (JJ slow)
+        (PP (IN for)
+          (NP
+            (NP (JJ large) (NNS fields))
+            (PP (IN of)
+              (NP
+                (NP (NN view))
+                (PP (RB because) (IN of)
+                  (NP (DT the) (NN need))))))))
+      (S
+        (VP (TO to)
+          (VP (VB scan)
+            (NP (DT the) (NN sample)))))
+      (SBAR (IN in) (NN order)
+        (S
+          (VP (TO to)
+            (VP (VB retrieve)
+              (NP (DT an) (NN image)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN on)
+      (NP (DT the) (JJ other) (NN hand)))
+    (NP (PRP it))
+    (VP (MD can)
+      (VP (VB be)
+        (ADJP (RB very) (JJ fast))
+        (SBAR (IN for)
+          (S
+            (NP
+              (NP (JJR smaller) (NNS fields))
+              (PP (IN of)
+                (NP
+                  (NP (NN view) (NNS recordings))
+                  (PP (IN with)
+                    (NP
+                      (NP
+                        (QP (IN up) (TO to) (CD 80))
+                        (NNS frames))
+                      (PP (IN per)
+                        (NP (NN second))))))))
+            (VP (VBP have)
+              (VP (VBN been)
+                (VP (VBN shown))))))))
+    (. .)))
+

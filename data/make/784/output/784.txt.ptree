@@ -1,0 +1,54 @@
+(ROOT
+  (S
+    (S
+      (SBAR (IN whether)
+        (S
+          (NP (PRP it))
+          (ADVP (RB actually))
+          (VP (VBZ protects)
+            (NP (NNS women))
+            (PP (IN from)
+              (NP (JJ physical) (NN abuse))))))
+      (VP (VBZ is)
+        (ADJP (JJ debatable))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (NNS women))
+      (ADVP (RB certainly))
+      (VP (VBP believe)
+        (SBAR
+          (S
+            (NP (DT the) (NN law))
+            (VP (VBZ protects)
+              (NP (PRP them))
+              (PP (IN from)
+                (NP (JJ physical) (NN abuse))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB consequently))
+    (NP (NNS women))
+    (VP (VBP are)
+      (ADJP (RBR more) (JJ likely)
+        (S
+          (VP (TO to)
+            (VP (VB hook)
+              (PRT (RP up))
+              (PP (IN with)
+                (NP
+                  (NP (DT a) (JJ dangerous) (NN man))
+                  (, ,)
+                  (SBAR (IN because)
+                    (S
+                      (NP (PRP they))
+                      (VP (VBP think)
+                        (SBAR
+                          (S
+                            (NP (DT the) (NN law))
+                            (VP (MD will)
+                              (VP (VB protect)
+                                (NP (PRP them))))))))))))))))
+    (. .)))
+

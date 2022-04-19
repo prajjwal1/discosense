@@ -1,0 +1,45 @@
+(ROOT
+  (S
+    (PP (JJ due) (TO to)
+      (NP
+        (NP (NNS shortages))
+        (PP (IN in)
+          (NP (DT the) (VBG reloading) (NN product) (NN industry)))))
+    (NP (PRP we))
+    (VP (VBP try)
+      (S
+        (VP (TO to)
+          (VP (VB make)
+            (ADJP (JJ sure))
+            (SBAR (IN that)
+              (S
+                (NP (DT all) (NNS products))
+                (VP (VBD listed)
+                  (SBAR
+                    (S
+                      (NP
+                        (NP (NN asavailable))
+                        (PP (IN for)
+                          (NP (NN purchase))))
+                      (VP (VBP are)
+                        (PP (IN in)
+                          (NP (NN stock)))))))))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADVP (RB however))
+    (SBAR (IN if)
+      (S
+        (NP (PRP we))
+        (VP (VBP find)
+          (S
+            (NP (PRP ourselves))
+            (VP (JJ oversold)
+              (S
+                (NP (PRP we))
+                (VP (VB apologize)
+                  (PP (IN for)
+                    (NP (DT the) (NN inconvenience))))))))))
+    (. .)))
+

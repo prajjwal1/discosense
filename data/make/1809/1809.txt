@@ -1,0 +1,1 @@
+if the program returns failure, the password must be wrong, so qmail popup reports that and waits for a different password. otherwise the program is presumed to have finished the pop 3 conversation, so qmail popup exits.

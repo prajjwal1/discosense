@@ -1,0 +1,74 @@
+(ROOT
+  (S
+    (NP (JJ last)
+      (PRN (CC but)
+        (PP
+          (ADVP (RB certainly))
+          (RB not)
+          (NP (DT the) (JJS least))))
+      (NNS shameless))
+    (VP (VBZ is)
+      (PP (IN about)
+        (NP
+          (NP (DT an) (JJ alcoholic) (NN man))
+          (, ,)
+          (SBAR
+            (WHNP (WP who))
+            (S
+              (VP (VBZ lives)
+                (PP (IN with)
+                  (NP
+                    (NP (PRP$ his) (CD six) (NNS children))
+                    (SBAR
+                      (WHNP (WP who))
+                      (S
+                        (VP (VBP try)
+                          (S
+                            (VP (TO to)
+                              (VP (VB do)
+                                (NP (PRP$ their) (JJS best))
+                                (S
+                                  (VP (TO to)
+                                    (VP (VB cope)
+                                      (PP (IN with)
+                                        (NP (PRP$ his) (NNS ways))))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ interestingly) (NN woody) (NN harrelson))
+    (VP (VBD was)
+      (ADVP (RB originally))
+      (VP (VBN set)
+        (S
+          (VP (TO to)
+            (VP (VB star) (, ,)
+              (ADVP (RB back))
+              (SBAR
+                (WHADVP (WRB when))
+                (S
+                  (NP (DT the) (NN show))
+                  (VP (VBD was)
+                    (S
+                      (VP (TO to)
+                        (VP (VB air)
+                          (PP (IN on)
+                            (NP (NN nbc))))))))))))
+        (, ,)
+        (ADJP
+          (ADJP (RB then) (JJ hbo))
+          (, ,)
+          (CC and)
+          (ADJP (RB then) (JJ showtime)))
+        (, ,)
+        (PP (IN before)
+          (S
+            (VP (VBG dropping)
+              (PRT (RP out))
+              (PP (IN after)
+                (NP
+                  (NP (DT the) (NN success))
+                  (PP (IN of)
+                    (NP (NN zombieland))))))))))
+    (. .)))
+

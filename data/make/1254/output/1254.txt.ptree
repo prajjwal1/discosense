@@ -1,0 +1,58 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP$ your) (NNS hands))
+      (VP (VBP carry)
+        (NP (NNS oils))))
+    (CC and)
+    (S
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (PRP$ your) (NN hand))
+          (VP (VBZ is)
+            (VP (VBN wiped)
+              (PP (IN on)
+                (NP (DT a) (NN glass) (NN surface)))))))
+      (, ,)
+      (NP (DT the) (NNS oils))
+      (VP
+        (VP (VB transfer)
+          (PP (TO to)
+            (NP (DT the) (NN glass))))
+        (CC and)
+        (VP (MD will)
+          (VP (VB smudge) (, ,) (VB print) (, ,)
+            (CC and)
+            (VB create)
+            (NP (NN visibility) (NNS problems))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB overall))
+      (S
+        (VP (VBG keeping)
+          (S
+            (NP (PRP$ your) (NN glass))
+            (ADJP (JJ clear)))))
+      (VP (VBP isnt)
+        (ADJP (JJ tough))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP you))
+      (VP (MD can)
+        (VP (VB make)
+          (S
+            (NP (PRP it))
+            (ADJP (JJ tough))
+            (SBAR (IN if)
+              (S
+                (NP (PRP you))
+                (VP (VBP dont)
+                  (VP (VB know)
+                    (NP (JJ proper) (NN practice))))))))))
+    (. .)))
+

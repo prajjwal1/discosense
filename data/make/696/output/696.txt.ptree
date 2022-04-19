@@ -1,0 +1,49 @@
+(ROOT
+  (S
+    (NP
+      (NP (NN walker))
+      (, ,)
+      (NP
+        (NP (DT a) (JJ seventh) (NN grade) (JJ special) (NN education) (NN teacher))
+        (PP (IN in)
+          (NP (JJ indianas) (JJ randolph) (JJ central) (NN school) (NN corporation))))
+      (, ,))
+    (VP
+      (VP (VBD tried)
+        (S
+          (VP (TO to)
+            (VP (VB quit)
+              (NP (PRP$ her) (NN union))
+              (NP (JJ last) (NN summer))))))
+      (, ,)
+      (CC but)
+      (VP (VBD missed)
+        (NP (DT the)
+          (ADJP (JJ july)
+            (NP (CD 30)))
+          (NN drop) (NN deadline))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB because)
+      (PP (IN of)
+        (SBAR (IN that)
+          (S
+            (NP (NN union) (NNS representatives))
+            (VP (VBD told)
+              (NP (PRP her)))))))
+    (NP (PRP she))
+    (VP (VBD was)
+      (VP (VBN required)
+        (S
+          (VP (TO to)
+            (VP (VB remain)
+              (S
+                (NP (DT a) (NNS dues))
+                (VP (VBG paying)
+                  (NP (NN member))
+                  (PP (IN for)
+                    (NP (DT the) (NNP 2011) (CD 12) (NN school) (NN year))))))))))
+    (. .)))
+

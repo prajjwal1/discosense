@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (NP (JJ washington) (DT the) (NN flu))
+    (VP (VBZ has)
+      (VP (VBN reached)
+        (NP (JJ such) (NN epidemic) (NNS levels))
+        (NP (DT this) (NN season))
+        (SBAR (IN that)
+          (S
+            (NP (CD two) (JJ local) (NNS hospitals) (NN wont))
+            (VP (VBP allow)
+              (S
+                (NP (NNS children))
+                (VP (TO to)
+                  (VP (VB visit)
+                    (NP (PRP$ its) (NNS facilities))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB specifically))
+    (NP (DT the) (NNS hospitals))
+    (VP (VBP are)
+      (VP (VBG restricting)
+        (NP (NNS visitors)
+          (CC and)
+          (NN hospital) (NNS volunteers))
+        (PP (IN under)
+          (NP (CD 18)))))
+    (. .)))
+

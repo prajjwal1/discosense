@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (S
+      (VP
+        (VP (VBG feeling)
+          (ADVP (RB fast)))
+        (CC and)
+        (VP (VBG being)
+          (ADJP (JJ fast)))))
+    (VP (VBP are)
+      (NP (CD 2) (JJ different) (NNS things)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB likewise))
+      (VP
+        (ADVP (RB simply))
+        (VBG knowing)
+        (NP (DT the) (NNS numbers) (NN doesnt))))
+    (VP (VBP tell)
+      (NP (DT the) (JJ whole) (NN story)))
+    (. .)))
+

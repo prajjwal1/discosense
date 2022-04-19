@@ -1,0 +1,45 @@
+(ROOT
+  (S
+    (S
+      (NP (JJ i) (NN dont))
+      (VP (VBP want)
+        (S
+          (VP (TO to)
+            (VP (VB see)
+              (VP (VBN adhd)
+                (PP (IN as)
+                  (NP (DT a) (NN disorder)))))))))
+    (, ,)
+    (CC but)
+    (S
+      (ADVP (RB just))
+      (NP (DT a) (JJ different) (NN personality) (NN type) (NN god))
+      (VP (VBD made)
+        (PP (IN with)
+          (NP (DT a) (JJ special) (NN purpose)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB because) (IN of)
+      (NP (DT this) (NN type)))
+    (, ,)
+    (S
+      (NP (PRP we))
+      (VP (VBP do) (RB not)
+        (VP (VB do)
+          (ADVP (RB well))
+          (PP (IN in)
+            (NP (NN school))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP we))
+      (ADVP (RB usually))
+      (VP (VBP become)
+        (NP
+          (NP (DT the) (JJ black) (NN sheep))
+          (PP (IN in)
+            (NP (DT the) (NN family))))))
+    (. .)))
+

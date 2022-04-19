@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (NP (DT the) (NN truth))
+    (VP (VBZ is)
+      (SBAR (IN that)
+        (S
+          (NP (NN bond) (NNS investors))
+          (VP (VBP have)
+            (NP (DT a) (NN choice))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (PP (RB because) (IN of)
+        (NP (DT that)))
+      (NP (PRP we))
+      (VP
+        (VP (VBP are)
+          (VP (VBN stranded)))
+        (CC and)
+        (VP (VBP have)
+          (NP (DT no) (NN choice)))))
+    (CC but)
+    (S
+      (VP (TO to)
+        (VP (VB deal)
+          (PP (IN with)
+            (NP (DT the) (NN deficit))))))
+    (. .)))
+

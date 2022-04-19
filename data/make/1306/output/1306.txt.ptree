@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (ADVP (RB perhaps))
+    (NP (DT this) (NN presentation))
+    (VP (VBZ suffers)
+      (NP
+        (NP (JJS most))
+        (FRAG
+          (WHADVP (WRB when))))
+      (PP (VBN compared)
+        (PP (IN with)
+          (NP
+            (NP (DT the) (JJ british) (NN series))
+            (VP (VBG starring)
+              (ADJP (RB jeremy) (JJ brett)))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADVP (IN in)
+      (ADVP (JJ short))
+      (PP (IN despite)
+        (NP (PRP$ its) (JJ good) (NNS points))))
+    (, ,)
+    (ADVP (RB not)
+      (PP (IN for)
+        (NP (NNS sherlockians))))
+    (. .)))
+

@@ -1,0 +1,68 @@
+(ROOT
+  (S
+    (PP (IN as)
+      (NP (JJ such)))
+    (, ,)
+    (NP (PRP you))
+    (VP (VBP dont)
+      (S
+        (VP (VB get)
+          (VP (VBN dropped)
+            (PRT (RP out))
+            (PP (IN of)
+              (NP (JJ broadband) (NN access)))
+            (ADVP (RB down)
+              (PP (TO to)
+                (NP (CD 1) (NN xrtt))))
+            (SBAR
+              (SBAR
+                (WHADVP (WRB when))
+                (S
+                  (NP (PRP you))
+                  (VP (VBP leave)
+                    (NP (PRP$ your) (NN calling) (NN area)))))
+              (, ,)
+              (CC but)
+              (SBAR
+                (WHADVP (WRB when))
+                (S
+                  (NP (PRP you))
+                  (VP (VBP leave)
+                    (NP (DT a) (JJ broadbandaccess) (NN area))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP
+        (NP (NN instance))
+        (SBAR (IN if)
+          (S
+            (NP (PRP you))
+            (VP (VBD lived)
+              (PP (IN in)
+                (NP (NNS kansas))))))))
+    (, ,)
+    (NP (PRP you))
+    (VP
+      (VP (MD would)
+        (VP (VB get)
+          (NP
+            (NP (CD 1) (NN xrtt))
+            (PP (IN in)
+              (NP (PRP$ your) (JJ local) (NN area))))))
+      (, ,)
+      (CC and)
+      (VP (MD would)
+        (VP (VB get)
+          (NP (JJ broadbandaccess) (NNS speeds))
+          (SBAR (IN if)
+            (S
+              (NP (PRP you))
+              (VP (VBD travelled)
+                (PP (TO to)
+                  (NP (NN dc)
+                    (CC or)
+                    (NN san) (NN diego)))))))))
+    (. .)))
+

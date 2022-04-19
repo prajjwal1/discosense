@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (NP (DT that))
+    (VP (MD should)
+      (VP (VB come)
+        (PP (IN as)
+          (NP (DT no) (NN surprise)))
+        (, ,)
+        (ADVP (RB really))
+        (, ,)
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP (PRP we))
+            (VP (VBP remember)
+              (SBAR (IN that)
+                (S
+                  (NP (DT the) (NNS framers))
+                  (VP (VBD were) (, ,)
+                    (PP (IN after)
+                      (NP (DT all)))
+                    (, ,)
+                    (VP (VBG revolutionaries)
+                      (NP (PRP themselves)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nonetheless))
+    (NP (EX there))
+    (VP (VBZ is)
+      (NP
+        (NP (DT that) (JJ troubling) (NN language))
+        (PP (IN about)
+          (NP (DT the) (RB well) (VBN regulated) (NN militia)))))
+    (. .)))
+

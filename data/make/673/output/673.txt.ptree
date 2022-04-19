@@ -1,0 +1,49 @@
+(ROOT
+  (S
+    (ADVP (RB now))
+    (, ,)
+    (PP (IN with)
+      (S
+        (NP
+          (NP (DT the) (JJ second) (NN half))
+          (PP (IN of)
+            (NP (DT the) (NN season))))
+        (VP (VBG facing)
+          (NP (PRP them)))))
+    (, ,)
+    (NP (NN tamarac))
+    (VP (VBZ is)
+      (ADJP (RB well) (JJ aware))
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (JJ tonights) (NN matchup))
+            (PP (IN against)
+              (NP (DT the) (NNS panthers))))
+          (VP (MD could)
+            (VP (VB have)
+              (NP
+                (NP (JJ enormous) (NNS repercussions))
+                (PP (IN on)
+                  (NP (PRP$ their) (NN fate))))
+              (PP (IN within)
+                (NP (DT the) (NN league))))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (SBAR (IN although)
+      (S
+        (PP (IN of)
+          (NP (NN course)))
+        (, ,)
+        (VP (VBP theyre) (RB not)
+          (VP (IN about)
+            (S
+              (VP (TO to)
+                (VP (VB focus)
+                  (ADVP (RB solely))
+                  (PP (IN on)
+                    (NP (DT that))))))))))
+    (. .)))
+

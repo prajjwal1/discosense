@@ -1,0 +1,52 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT a)
+        (ADJP (JJ statisticians)
+          (PP (IN from)
+            (NP (PRP$ your) (NNS maths))))
+        (NN department))
+      (CC and)
+      (NP
+        (NP (RB perhaps) (DT a) (NN biologist))
+        (PP (IN from)
+          (NP (DT the) (NN science) (NN department))))
+      (, ,))
+    (VP (MD would)
+      (VP (VB be)
+        (NP (DT a) (JJ good) (NN start))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (PP (IN in)
+      (NP (JJ other) (NNS words)))
+    (VP (VBP begin)
+      (S
+        (VP (VBG checking)
+          (NP (PRP$ your) (NNS premises))
+          (SBAR (IN before)
+            (S
+              (NP (PRP you))
+              (VP (VBP get)
+                (ADVP (RB so) (RB close))
+                (PP (TO to)
+                  (NP
+                    (NP (DT the) (NN deadline))
+                    (PP (IN for)
+                      (NP (PRP$ your) (NN thesis)))))
+                (SBAR (IN that)
+                  (S
+                    (NP (PRP you))
+                    (VP (MD cant)
+                      (VP (VB adjust)
+                        (NP (PRP$ your) (NNS methods))))))))))))
+    (NP
+      (NP (DT the) (NNS hypothesis))
+      (SBAR
+        (S
+          (NP (PRP you))
+          (VP (VBP are)
+            (VP (VBG testing))))))
+    (. .)))
+

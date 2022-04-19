@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (NP (DT the) (JJ mesozoic) (JJ paleozoic) (NN province))
+    (VP (VBZ is)
+      (ADVP (RB reasonably))
+      (VP
+        (ADVP (RB well))
+        (VBN understood)))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN contrast)))
+    (NP (JJ many) (NNS gaps))
+    (VP (VBP remain)
+      (PP (IN in)
+        (NP
+          (NP (DT the) (NN understanding))
+          (PP (IN of)
+            (NP
+              (NP (DT the) (NN geology)
+                (CC and)
+                (NN evolution))
+              (PP (IN of)
+                (NP
+                  (NP (DT the))
+                  (PP (IN of)
+                    (NP (DT the) (JJ tertiary) (NN province))))))))))
+    (. .)))
+

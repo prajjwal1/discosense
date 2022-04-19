@@ -1,0 +1,61 @@
+(ROOT
+  (S
+    (S
+      (NP (DT this))
+      (VP (VBZ means)
+        (SBAR (IN that)
+          (S
+            (NP (NNS scientists))
+            (VP (VBP have)
+              (NP (JJ few) (NNP buoy) (NNS measurements)
+                (S
+                  (VP (TO to)
+                    (VP (VB compare)
+                      (PP (TO to)
+                        (NP
+                          (NP (DT the) (NNS data))
+                          (SBAR
+                            (S
+                              (NP (PRP they))
+                              (VP (VBP get)
+                                (PP (IN from)
+                                  (NP (DT the) (NN satellite)))))))))))))))))
+    (CC and)
+    (S
+      (NP (NN cant))
+      (VP (VBP match)
+        (NP (DT the) (NN satellite) (NNS measurements))
+        (PP (TO to)
+          (NP (JJ exact) (NN wind) (NNS speeds)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB instead))
+    (NP (DT the) (NN image))
+    (VP (VBZ provides)
+      (NP
+        (NP (DT a) (JJ clear) (NN picture))
+        (PP (IN of)
+          (NP (JJ relative) (NN wind) (NNS speeds))))
+      (, ,)
+      (S
+        (VP (VBG showing)
+          (SBAR
+            (SBAR
+              (WHADJP (WRB how) (JJ large))
+              (S
+                (NP
+                  (NP (DT the) (JJ strong) (NN center))
+                  (PP (IN of)
+                    (NP (DT the) (NN storm))))
+                (VP (VBZ is))))
+            (CC and)
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (NP (NN direction) (NNS winds))
+                (VP (VBP are)
+                  (VP (VBG blowing)))))))))
+    (. .)))
+

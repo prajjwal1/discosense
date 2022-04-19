@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (NP (NNS participants))
+    (VP (VBD declared)
+      (SBAR (IN that)
+        (S
+          (NP (PRP they))
+          (VP (VBD had)
+            (NP
+              (NP
+                (NP (DT no) (NN salt))
+                (CC and)
+                (NP (RB not) (JJ much) (NN taste)))
+              (CONJP (RB as) (RB well) (IN as))
+              (NP (DT a) (JJ slight) (NN cardboard) (NN flavor)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN by)
+      (NP (NN contrast) (NNS walmarts)))
+    (NP (JJ great) (NN value) (JJ white) (NN tortilla) (NNS chips))
+    (VP (VBD were)
+      (VP (VBN judged)
+        (ADVP (RB way) (RB too))
+        (PP
+          (ADVP (RB salty))
+          (IN by)
+          (NP (JJ several) (NNS panelists)))))
+    (. .)))
+

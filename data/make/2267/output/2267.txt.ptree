@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (NP (NN nonhuman) (NNS creatures)
+      (CC and)
+      (NNS cultures))
+    (VP (VBP are)
+      (ADVP (RB usually))
+      (VP (VBN presented)
+        (ADVP (RB sympathetically))
+        (, ,)
+        (PP (IN with)
+          (S
+            (NP (JJ human) (NNS protagonists))
+            (ADVP (RB sometimes))
+            (VP (VBG supporting)
+              (NP (PRP them))
+              (PP (IN against)
+                (NP (JJ oppressive) (JJ human) (NNS authorities))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN contrast)))
+    (NP (JJ several) (NNS books))
+    (VP (VBP present)
+      (NP
+        (NP
+          (ADJP (JJ technological)
+            (CC and)
+            (JJ mechanized))
+          (NNS cultures))
+        (ADJP
+          (ADJP (RB as) (JJ negative))
+          (CC or)
+          (ADJP (RB even)
+            (ADVP (RB positively))
+            (JJ evil)))))
+    (. .)))
+

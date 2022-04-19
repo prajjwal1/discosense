@@ -1,0 +1,11 @@
+nsubj(missed-2, wed-1)
+root(ROOT-0, missed-2)
+det(payment-5, a-3)
+nn(payment-5, rent-4)
+dobj(missed-2, payment-5)
+
+prep_in(screwed-5, short-2)
+nsubjpass(screwed-5, we-3)
+auxpass(screwed-5, were-4)
+root(ROOT-0, screwed-5)
+

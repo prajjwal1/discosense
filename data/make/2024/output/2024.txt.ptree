@@ -1,0 +1,59 @@
+(ROOT
+  (S
+    (S
+      (NP (DT these) (NNS countries))
+      (VP (MD need)
+        (VP (VB support)
+          (S
+            (VP (TO to)
+              (VP (VB help)
+                (VP (VB end)
+                  (NP
+                    (NP (DT the) (JJ widespread) (NN use))
+                    (PP (IN of)
+                      (NP (NN child) (NNS soldiers)))))))))))
+    (CC and)
+    (S
+      (NP (NN change))
+      (VP (VBZ takes)
+        (NP (NN time))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB nevertheless))
+      (NP (PRP they))
+      (VP (VBP continue)
+        (S
+          (VP (TO to)
+            (VP (VB exploit)
+              (NP (NNS children))
+              (PP (IN in)
+                (NP (PRP$ their) (NNS militaries))))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (DT the) (VBN united) (NNS states))
+      (VP (VBZ refuses)
+        (S
+          (VP (TO to)
+            (VP (VB show)
+              (S
+                (NP (DT the) (NN will))
+                (ADJP (JJ necessary)
+                  (S
+                    (VP (TO to)
+                      (VP (VB enforce)
+                        (NP
+                          (NP (DT the) (NN law))
+                          (SBAR
+                            (WHNP (WDT that))
+                            (S
+                              (VP (VBD took)
+                                (NP (NN effect))
+                                (ADVP
+                                  (NP (RB just) (CD three) (NNS years))
+                                  (RB ago))))))))))))))))
+    (. .)))
+

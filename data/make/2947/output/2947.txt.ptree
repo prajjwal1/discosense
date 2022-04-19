@@ -1,0 +1,55 @@
+(ROOT
+  (S
+    (S
+      (VP (VB try)
+        (S
+          (VP (VBG lowering)
+            (PP (IN after)
+              (NP (NN dinner) (NNS snacks)))))))
+    (CC and)
+    (S
+      (NP (PRP you))
+      (VP (MD will)
+        (VP (VB view)
+          (NP
+            (NP (DT a) (JJ marked) (NN improvement))
+            (PP (IN inside)
+              (NP (PRP$ your) (NN weight)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB though))
+      (NP (NNS pills)
+        (CC or)
+        (NN fad))
+      (VP (VBZ diets)
+        (SBAR (IN that)
+          (S
+            (NP
+              (NP (NN curb) (NN craving))
+              (PP (IN for)
+                (NP (NN food))))
+            (VP (VBP help)
+              (PP (IN in)
+                (S
+                  (VP (VBG losing)
+                    (NP (NN weight))
+                    (PP (TO to)
+                      (NP (PRP$ your) (NN degree)))))))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (JJS most) (NNS physicians))
+      (VP (VBP warn)
+        (SBAR
+          (S
+            (NP (DT the) (NN weight) (NN reduction) (NNS ways))
+            (VP (VBP are)
+              (NP
+                (NP (JJ unhealthy) (NNS strategies))
+                (PP (TO to)
+                  (NP (VBG shedding) (NNS pounds)))))))))
+    (. .)))
+

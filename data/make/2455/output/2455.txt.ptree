@@ -1,0 +1,54 @@
+(ROOT
+  (S
+    (NP
+      (NP (JJ weekly) (JJ clinical) (NNS observations))
+      (, ,)
+      (NP (NN body) (NN weight) (NNS measurements))
+      (, ,)
+      (CC and)
+      (NP
+        (NP (NN quantitation))
+        (PP (IN of)
+          (NP (NN food) (NN intake)))))
+    (VP (VBD failed)
+      (S
+        (VP (TO to)
+          (VP (VB identify)
+            (NP
+              (NP (DT any) (NN evidence))
+              (PP (IN of)
+                (NP (NN toxicity))))
+            (PP (IN in)
+              (NP
+                (NP (VBG surviving) (NNS animals))
+                (VP (VBN exposed)
+                  (S
+                    (VP (TO to)
+                      (VP (VB resveratrol)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN by)
+      (NP (NN contrast)))
+    (NP
+      (NP
+        (ADJP (RB statistically) (JJ significant))
+        (NNS reductions))
+      (PP (IN in)
+        (NP (NN food) (NN consumption))))
+    (VP (VBD were)
+      (VP (VBN seen)
+        (PP (IN during)
+          (NP (DT all) (NN study) (NNS weeks)))
+        (PP (IN in)
+          (NP
+            (NP (NNS groups))
+            (VP (VBN exposed)
+              (PP (TO to)
+                (NP
+                  (NP (DT the) (JJ positive) (NN control) (NN article))
+                  (, ,)
+                  (NP (NN p) (NN cresidine)))))))))
+    (. .)))
+

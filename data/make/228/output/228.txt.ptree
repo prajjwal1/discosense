@@ -1,0 +1,48 @@
+(ROOT
+  (S
+    (S
+      (VP (VBG opening)
+        (NP (DT the) (NN ahr))
+        (PRT (RP up))
+        (PP (TO to)
+          (NP
+            (NP (DT the) (NNS realities))
+            (PP (IN of)
+              (NP (JJ historical) (NN globalism)))))))
+    (VP (VBZ means)
+      (S
+        (VP (VBG finding)
+          (NP (NNS ways))
+          (S
+            (VP (TO to)
+              (VP (VB integrate)
+                (NP (DT the) (NN world))
+                (PP (IN into)
+                  (NP (DT the) (NNS pasts)))
+                (SBAR (IN that)
+                  (S
+                    (NP (DT the) (NN journal))
+                    (VP (VBZ publishes))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (ADJP (JJ particular)))
+    (NP (PRP it))
+    (VP (VBZ has)
+      (VP (VBN meant)
+        (S
+          (VP (VBG grappling)
+            (PP (IN with)
+              (NP
+                (NP (DT the) (JJ disciplinary) (NN meaning))
+                (PP (IN of)
+                  (NP
+                    (NP (DT the) (NN debate))
+                    (VP (VBN bound)
+                      (PRT (RP up))
+                      (PP (IN in)
+                        (NP (DT the) (JJ epithet) (NN eurocentrism))))))))))))
+    (. .)))
+

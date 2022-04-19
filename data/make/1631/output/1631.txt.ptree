@@ -1,0 +1,37 @@
+(ROOT
+  (SINV
+    (PP (IN among)
+      (NP (JJ interesting) (NNS findings)))
+    (VP (VBD were))
+    (SBAR (IN that)
+      (S
+        (NP (NN non) (NNS believers))
+        (VP (VBD were)
+          (ADVP (RB often))
+          (NP
+            (NP (JJ professional) (NNS people))
+            (VP (VBG living)
+              (PP (IN in)
+                (NP (JJ middle) (NN class) (NNS suburbs))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN contrast)))
+    (NP
+      (NP (DT the) (VBG working) (NN class))
+      (CC and)
+      (NP
+        (NP (JJ ethnic) (NNS suburbs))
+        (PP (IN of)
+          (NP (DT the) (JJ major) (NNS cities)))))
+    (VP (VBD were)
+      (NP (RB much) (RBR more) (JJ religious))
+      (, ,)
+      (ADVP
+        (ADVP (IN at) (JJS least))
+        (PP (IN by)
+          (NP (PRP$ their) (JJ own) (NN account)))))
+    (. .)))
+

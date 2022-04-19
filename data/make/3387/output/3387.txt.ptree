@@ -1,0 +1,50 @@
+(ROOT
+  (S
+    (ADVP (RB however))
+    (, ,)
+    (S
+      (NP (DT this) (NN post))
+      (VP (VBZ is)
+        (ADJP (RB long) (JJ enough))))
+    (, ,)
+    (CC and)
+    (S
+      (NP
+        (NP (PRP$ my) (NN point))
+        (SBAR (IN that)
+          (S
+            (NP (JJR higher) (NN education))
+            (VP (VBZ is) (RB not)
+              (ADJP (IN out)
+                (PP (IN of)
+                  (NP
+                    (NP (NN reach))
+                    (PP (IN of)
+                      (NP (DT the) (JJ corporate) (NN reform) (NN arm))))))))))
+      (VP (VBZ is)
+        (ADJP (RB well) (VBN documented))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP
+      (ADVP (RB nevertheless))
+      (IN for)
+      (NP
+        (NP (DT those))
+        (VP (VBG wishing)
+          (S
+            (VP (TO to)
+              (VP (VB delve)
+                (ADVP (RBR deeper))
+                (PP (IN into)
+                  (NP (JJ grasmicks) (JJ extensive) (NN reform) (NNS involvements)))))))))
+    (, ,)
+    (NP (FW i))
+    (VP (VBP have)
+      (VP (VBN included)
+        (NP (RB much) (RB here) (JJ additional) (NNS notes))
+        (PP (IN on)
+          (NP (NN grasmick)))))
+    (. .)))
+

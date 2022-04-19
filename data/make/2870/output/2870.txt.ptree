@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNS thousands))
+      (PP (IN of)
+        (S
+          (VP (VBG fleeing)
+            (NP
+              (NP (JJ bastarnae) (JJ perished) (, ,) (JJ many) (NN asphyxiated))
+              (PP (IN in)
+                (NP (JJ nearby) (NNS woods))))
+            (PP (IN by)
+              (S
+                (VP (VBG encircling)
+                  (NP
+                    (NP (NNS fires))
+                    (VP (VBN set)
+                      (PP (IN by)
+                        (NP
+                          (NP (DT the) (NNS romans))
+                          (, ,)
+                          (NP (NNS others)))))))))))))
+    (VP (VBD drowned)
+      (S
+        (VP (VBG trying)
+          (S
+            (VP (TO to)
+              (VP (VB swim)
+                (PP (IN across)
+                  (NP (DT the) (NN danube)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nevertheless))
+    (NP (DT a) (JJ substantial) (NN force))
+    (VP (VBD dug)
+      (NP (PRP themselves))
+      (PP (IN into)
+        (NP (DT a) (JJ powerful) (NN hillfort))))
+    (. .)))
+

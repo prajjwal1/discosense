@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (PP (IN under)
+      (NP (DT this) (NN condition)))
+    (, ,)
+    (NP (DT the) (VBG etching) (NN process))
+    (VP (VBZ enhances)
+      (S
+        (VP (VBG creating)
+          (S
+            (ADJP (JJR more)
+              (CC and)
+              (JJR deeper)
+              (SBAR
+                (S
+                  (VP (VBZ pores)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (RB hence) (JJR more) (NN dissolution))
+    (VP (MD will)
+      (VP (VB occur)
+        (PP (IN with)
+          (NP
+            (NP (JJR higher) (NN concentration))
+            (PP (IN of)
+              (NP (NN dmf)))))
+        (S
+          (VP (TO to)
+            (VP (VB promote)
+              (NP (JJ uniformed) (NN pore) (NNS distributions))
+              (PP (IN on)
+                (NP (DT the) (NN surface))))))))
+    (. .)))
+

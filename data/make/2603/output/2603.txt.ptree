@@ -1,0 +1,55 @@
+(ROOT
+  (SINV
+    (S
+      (ADVP (RB also))
+      (NP (PRP they))
+      (ADVP (RB only))
+      (VP
+        (ADVP (RB ever))
+        (VBP seem)
+        (S
+          (VP (TO to)
+            (VP (VB have)
+              (NP
+                (NP (CD two) (NNS pieces))
+                (PP (IN of)
+                  (NP (NN anything) (NNS i)))))))))
+    (VP (VBP like)
+      (CC and)
+      (VBP theyre)
+      (ADVP (RB usually)))
+    (NP
+      (NP (DT both))
+      (PP (IN in)
+        (NP (JJ extra) (JJ small))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (PP (RB because) (IN of)
+      (NP
+        (NP (DT that)
+          (ADVP
+            (ADVP (RB as) (RB far))
+            (SBAR (IN as)
+              (S
+                (NP (FW i))
+                (VP (MD can)
+                  (VP (VB remember)
+                    (NP (DT the) (JJ only) (NNS things)))))))
+          (NN ive))
+        (VP
+          (ADVP (RB ever))
+          (VBN owned)
+          (PP (IN from)
+            (NP (NN zara))))))
+    (VP (VBZ is))
+    (NP
+      (NP (DT a) (NN pair))
+      (PP (IN of)
+        (NP
+          (NP (NNS shoes))
+          (CC and)
+          (NP (DT a) (NN belt)))))
+    (. .)))
+

@@ -1,0 +1,49 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (DT this) (NN study)))
+    (, ,)
+    (NP (PRP we))
+    (VP (VBD investigated)
+      (SBAR (IN whether)
+        (S
+          (NP (NN lipid) (NNS effects))
+          (VP (VBP differ)
+            (PP (IN with)
+              (NP (NN regard)))
+            (PP (TO to)
+              (NP (DT the) (JJ administered) (NN las)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB subsequently))
+    (NP
+      (NP (DT the) (NNS times))
+      (PP (IN from)
+        (NP
+          (NP (DT the) (NN start))
+          (PP (IN of)
+            (NP
+              (NP (NN perfusion))
+              (PP
+                (PP (TO to)
+                  (NP
+                    (NP (NN return))
+                    (PP (IN of)
+                      (NP (JJ first) (NN heart) (NN activity)))))
+                (CC and)
+                (PP (TO to)
+                  (NP
+                    (NP (NN recovery))
+                    (PP (IN of)
+                      (NP (NN heart)))))
+                (NP
+                  (ADJP (NN rate)
+                    (CC and)
+                    (NN rate))
+                  (NN pressure) (NN product))))))))
+    (VP (VBD were)
+      (VP (VBN assessed)))
+    (. .)))
+

@@ -1,0 +1,4 @@
+conn:yet conn_POS:CC sent_pos:0 NA
+conn:if conn_POS:IN prev1:, prev1_POS:, with_prev1_full:,_if with_prev1_POS_full:,_IN prev2:heart prev2_POS:NN with_prev2_full:heart_if with_prev2_POS_full:NN_IN NA
+conn:therefore conn_POS:RB sent_pos:0 NA
+conn:though conn_POS:IN prev1:, prev1_POS:, with_prev1_full:,_though with_prev1_POS_full:,_IN prev2:forbore prev2_POS:VBD with_prev2_full:forbore_though with_prev2_POS_full:VBD_IN NA

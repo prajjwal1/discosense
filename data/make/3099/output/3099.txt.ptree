@@ -1,0 +1,66 @@
+(ROOT
+  (S
+    (NP (PRP it))
+    (VP (VBD was)
+      (ADJP (JJ vivid)
+        (PP (IN in)
+          (NP
+            (NP (DT the) (NNS minds))
+            (PP (IN of)
+              (NP
+                (NP (DT those))
+                (SBAR
+                  (WHNP (WP who))
+                  (S
+                    (VP (VBN framed)
+                      (NP (DT the) (JJ universal) (NN declaration))
+                      (, ,)
+                      (S
+                        (VP (VBG working)
+                          (SBAR (IN as)
+                            (S
+                              (NP (PRP they))
+                              (VP (VBD had)
+                                (PP (IN in)
+                                  (NP
+                                    (NP (DT the) (NN aftermath))
+                                    (PP (IN of)
+                                      (NP (DT the) (NN world) (NN war) (NN ii)))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB yet))
+      (NP (NN genocide)
+        (CC and)
+        (NN mass) (NN killing))
+      (VP (VBD had)
+        (VP (VBN happened)
+          (ADVP (RB again)))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBD had)
+        (VP (VBN happened)
+          (PP (IN before)
+            (NP
+              (NP (DT the) (NNS eyes))
+              (PP (IN of)
+                (NP (DT the) (NN world)))))
+          (, ,)
+          (PP (IN in)
+            (NP
+              (NP (NN rwanda))
+              (, ,)
+              (NP (NN cambodia))
+              (, ,)
+              (NP (JJ former) (NN yugoslavia))
+              (CC and)
+              (NP
+                (NP (JJ other) (NNS parts))
+                (PP (IN of)
+                  (NP (DT the) (NN globe)))))))))
+    (. .)))
+

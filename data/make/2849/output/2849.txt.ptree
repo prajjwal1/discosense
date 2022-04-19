@@ -1,0 +1,50 @@
+(ROOT
+  (S
+    (PP (IN on)
+      (NP (DT a) (NN side)))
+    (, ,)
+    (NP (PRP they))
+    (ADVP (RB really))
+    (VP (VBP didnt)
+      (VP (VB play)
+        (PRT (RP out))
+        (S
+          (VP
+            (VP (VBG setting)
+              (PRT (RP up))
+              (NP (DT the) (NN dinner)))
+            (CC or)
+            (VP (VBG training)
+              (NP (DT the) (NN staff)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB rather))
+    (NP (PRP they))
+    (VP (VBD made)
+      (SBAR
+        (S
+          (NP (NNS nicolai))
+          (VP (VBP wait)
+            (SBAR
+              (SBAR (IN while)
+                (S
+                  (NP (PRP they))
+                  (VP (VBD figured)
+                    (PRT (RP out))
+                    (SBAR
+                      (WHADVP (WRB why))
+                      (S
+                        (NP (PRP he))
+                        (VP (VBD was)
+                          (ADVP (RB there))))))))
+              (CC and)
+              (SBAR
+                (WHNP (WP what))
+                (S
+                  (NP (PRP it))
+                  (ADVP (RB really))
+                  (VP (VBD meant)))))))))
+    (. .)))
+

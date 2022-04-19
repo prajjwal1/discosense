@@ -1,0 +1,1 @@
+decreasing the feed rate at a constant air pressure or increasing the air pressure at a constant feed rate will decrease both the spray angle and the resulting particle size. conversely decreasing the air pressure will increase both the spray angle and particle size.

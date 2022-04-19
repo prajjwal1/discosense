@@ -1,0 +1,23 @@
+(ROOT
+  (S
+    (NP (DT this))
+    (VP (VBD dragged)
+      (NP (DT the) (NN fermanagh))
+      (S
+        (VP
+          (VP (VBG starting)
+            (NP (NN defence))
+            (PP (DT all) (IN over)
+              (NP (DT the) (NN place))))
+          (CONJP (RB rather) (IN than))
+          (VP (VBG keeping)
+            (NP (PRP$ their) (NNS positions))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (RB as) (DT a) (NN result) (NN antrim))
+    (VP (VBD took)
+      (PRT (RP over)))
+    (. .)))
+

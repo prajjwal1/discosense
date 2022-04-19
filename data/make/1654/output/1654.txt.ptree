@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (NP (NNP belviq))
+    (VP (VBZ stands)
+      (PRT (RP out))
+      (SBAR (RB not) (RB just) (IN because)
+        (S
+          (UCP
+            (PP (IN of)
+              (NP (PRP$ its) (NN safety) (NN profile)))
+            (, ,)
+            (CC but)
+            (SBAR (IN because)
+              (S
+                (NP (PRP it))
+                (VP (VBZ is)
+                  (NP (DT an)
+                    (ADJP (RB entirely) (JJ new))
+                    (NN drug))))))
+          (, ,)
+          (NP (NN tenthoff))
+          (VP (VBD said)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN by)
+      (NP (NN contrast)))
+    (NP
+      (NP (DT the) (NNS competitors))
+      (PP (IN from)
+        (NP (NNS vivus)
+          (CC and)
+          (NN orexigen))))
+    (VP (VBP are)
+      (NP
+        (NP (NNS combinations))
+        (PP (IN of)
+          (NP
+            (NP (CD two))
+            (VP
+              (ADVP (RB already))
+              (VBN approved)
+              (NP (NNS drugs)))))))
+    (. .)))
+

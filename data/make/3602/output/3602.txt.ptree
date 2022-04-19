@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (PP (JJ due) (TO to)
+      (NP
+        (NP (DT this) (JJ immense) (NN diversity))
+        (PP (IN in)
+          (NP (JJ indigenous) (NNS religions)))))
+    (, ,)
+    (NP
+      (NP (DT a) (NN singular) (NN school))
+      (PP (IN of)
+        (NP (NN dayawism))))
+    (VP (VBZ is) (RB not)
+      (ADJP (JJ feasible)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB rather))
+    (NP
+      (NP (NNS hundreds))
+      (PP (IN of)
+        (NP
+          (NP (NNS schools))
+          (PP (IN of)
+            (NP
+              (NP (NN dayawism) (NN pertaining))
+              (PP (TO to)
+                (NP (DT an) (JJ ethno) (JJ linguistic) (NN tribe))))))))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (JJR better) (NN supplement))
+        (PP (TO to)
+          (NP
+            (NP (DT the) (JJ current) (JJ religious) (NN landscape))
+            (PP (IN in)
+              (NP (DT the) (NNS philippines)))))))
+    (. .)))
+

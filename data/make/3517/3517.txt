@@ -1,0 +1,1 @@
+on non orthogonal moves these indicate pairs of moves, and a second modifier of the perpendicular type is needed to fully specify a single direction. otherwise when multiple directions are mentioned, it means that moves in all these directions are possible.

@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB when))
+      (S
+        (NP (DT the) (NN band) (NN width))
+        (VP (VBZ changes))))
+    (, ,)
+    (NP (DT the) (NN fermi) (NN level))
+    (VP (VBZ readjusts)
+      (S
+        (VP (TO to)
+          (VP (VB keep)
+            (S
+              (NP (DT this) (NN area))
+              (ADJP (JJ constant)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB interestingly))
+    (NP (DT this))
+    (VP (VBZ means)
+      (SBAR (IN that)
+        (S (, ,)
+          (PP (IN in)
+            (NP (DT this) (NN model)))
+          (, ,)
+          (NP (DT the) (JJ nesting) (NNS properties))
+          (VP (VBP remain)
+            (NP (RB exactly) (DT the) (JJ same))
+            (PP (IN throughout)
+              (NP (DT the) (NN series)))))))
+    (. .)))
+

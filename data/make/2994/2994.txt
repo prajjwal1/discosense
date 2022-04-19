@@ -1,0 +1,1 @@
+a loop antenna produces radio waves because its circumference is roughly equal to the carrier wavelength, allowing the formation of standing waves. in contrast a magnetic loop is far smaller than the carrier wavelength, and its impedance is predominantly inductive, with a small radiation resistance.

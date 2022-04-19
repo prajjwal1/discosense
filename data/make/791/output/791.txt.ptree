@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT a) (NN lot))
+        (PP (IN of)
+          (NP (DT these) (NNS songs))))
+      (VP (VBD came)
+        (PP (TO to)
+          (NP (PRP me)))
+        (ADVP (RB very) (RB quickly))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (FW i))
+      (VP (VBD kept)
+        (SBAR
+          (S
+            (NP
+              (NP (JJS most))
+              (PP (IN of)
+                (NP (DT the) (JJ original) (NNS ideas) (NN i))))
+            (VP (VBD had)
+              (PP (IN on)
+                (NP (DT the) (NN demo) (NNS versions))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB overall))
+    (NP (DT the) (NNS albums))
+    (VP (VBD got)
+      (NP (DT a) (RB very) (JJ masculine) (NN sound))
+      (, ,)
+      (PP (IN with)
+        (NP (JJ strong) (NNS basslines)
+          (CC and)
+          (NNS drums)))
+      (PP (IN throughout)))
+    (. .)))
+

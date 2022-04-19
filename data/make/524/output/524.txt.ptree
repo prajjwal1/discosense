@@ -1,0 +1,54 @@
+(ROOT
+  (S
+    (ADVP (RB however))
+    (, ,)
+    (NP (DT the) (NN attorney))
+    (VP (VBD failed)
+      (S
+        (VP (TO to)
+          (VP (VB advise)
+            (NP
+              (NP (DT the) (NN client))
+              (PP (IN of)
+                (NP (DT the) (NN brief))))
+            (SBAR (IN until)
+              (S
+                (NP
+                  (QP (JJR more) (IN than) (CD 30))
+                  (NNS days))
+                (VP (VBD had)
+                  (VP (VBN passed)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thereafter))
+    (NP
+      (NP (DT the) (NN court))
+      (PP (IN of)
+        (NP (NNS appeals))))
+    (VP (VBD issued)
+      (SBAR
+        (S
+          (NP
+            (NP (DT a) (NN delinquency) (NN order))
+            (VP
+              (ADVP (RB expressly))
+              (VBG warning)
+              (NP
+                (NP (DT the) (NN attorney))
+                (SBAR
+                  (WHNP (WDT that) (NN failure))
+                  (S
+                    (VP (TO to)
+                      (VP (VB file)
+                        (NP (DT a) (NN response) (NN brief)))))))))
+          (VP (MD could)
+            (VP (VB result)
+              (PP (IN in)
+                (NP
+                  (NP (NN summary) (NN reversal))
+                  (PP (IN of)
+                    (NP (DT the) (NN circuit) (NN court) (NN order))))))))))
+    (. .)))
+

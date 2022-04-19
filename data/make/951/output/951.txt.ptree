@@ -1,0 +1,50 @@
+(ROOT
+  (S
+    (NP (NN citigroup))
+    (VP (VBZ has)
+      (NP
+        (NP (DT a) (JJ whole) (NN stable))
+        (PP (IN of)
+          (NP
+            (NP (NNS horses))
+            (SBAR
+              (S
+                (NP (PRP you))
+                (VP (VBP have)
+                  (S
+                    (VP (TO to)
+                      (VP (VB deal)
+                        (PP (IN with))))))))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (ADJP (RB nonetheless) (JJ indymac))
+    (VP (VBZ does))
+    (S
+      (VP (VB provide)
+        (NP
+          (NP (DT an) (NN example))
+          (SBAR
+            (WHPP (IN in)
+              (WHNP (WDT which)))
+            (S
+              (NP (NN nationalization))
+              (VP (VBD worked) (, ,)
+                (S
+                  (VP (VBG suggesting)
+                    (SBAR (IN that)
+                      (S
+                        (NP
+                          (NP
+                            (QP (IN at) (JJS least) (DT some)))
+                          (PP (IN of)
+                            (NP (DT the) (NNS fears) (NNS critics))))
+                        (VP (VBP have)
+                          (PP (IN of)
+                            (NP (NN nationalization)))
+                          (VP (MD may)
+                            (VP (VB be)
+                              (ADJP (JJ unfounded)))))))))))))))
+    (. .)))
+

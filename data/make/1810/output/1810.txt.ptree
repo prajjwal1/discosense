@@ -1,0 +1,26 @@
+(ROOT
+  (S
+    (NP (FW i))
+    (VP (VBP have)
+      (VP (VBN written)
+        (PP (IN at)
+          (NP
+            (NP (NN length))
+            (PP (IN about)
+              (NP (PRP it)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB yet))
+    (NP (PRP you))
+    (VP (VBP continue)
+      (S
+        (VP (TO to)
+          (VP (VB say)
+            (S
+              (NP (JJ i) (NN dont))
+              (VP (VB realize)
+                (NP (DT the) (NN situation))))))))
+    (. .)))
+

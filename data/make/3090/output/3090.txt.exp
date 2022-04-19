@@ -1,0 +1,2 @@
+conn_lc:if conn:if conn_POS:IN xxx£
+conn_lc:however conn:however conn_POS:RB xxx£

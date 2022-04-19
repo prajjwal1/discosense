@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (NP (DT the) (NN brain))
+    (VP (VBZ requires)
+      (NP (JJ similar) (NNS conditions))
+      (SBAR (IN in) (NN order)
+        (S
+          (VP
+            (VP (TO to)
+              (VP (VB unlearn)))
+            (CC or)
+            (VP (TO to)
+              (VP (VB develop)
+                (NP (JJ new) (NNS patterns))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP
+        (NP (JJ other) (NNS words))
+        (VP (VBN wounded)
+          (PP (IN in)
+            (NP (NN connection))))))
+    (, ,)
+    (VP (VB healed)
+      (PP (IN in)
+        (NP (NN connection))))
+    (. .)))
+

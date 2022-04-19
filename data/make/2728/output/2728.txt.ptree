@@ -1,0 +1,48 @@
+(ROOT
+  (S
+    (NP (JJ i) (NN dont))
+    (VP (VBP see)
+      (NP (DT a) (NN scenario))
+      (SBAR
+        (WHADVP (WRB where))
+        (S
+          (VP (VBD drew)
+            (SBAR
+              (S
+                (VP (VBZ gets)
+                  (NP
+                    (NP (DT the) (NN career) (NN contract) (NN hes))
+                    (VP (VBN been)
+                      (VP (VBG hoping)
+                        (PP (IN for)
+                          (NP (DT this) (NN offseason)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB instead) (IN like)
+      (NP
+        (NP (NNS boras))
+        (SBAR
+          (S
+            (VP (VBZ has)
+              (VP (VBN done)
+                (PP (IN in)
+                  (NP (JJ recent) (NNS years)))
+                (PP (IN with)
+                  (NP (PRP$ his) (JJ late) (NN signing) (JJ free) (NNS agents)))))))))
+    (, ,)
+    (NP (NNP drew))
+    (VP (MD will)
+      (ADVP (RB probably))
+      (VP (VB settle)
+        (PP (IN for)
+          (NP (DT a) (CD one) (NN year) (NN deal)))
+        (S
+          (VP (TO to)
+            (VP (VB rebuild)
+              (NP (PRP$ his) (NN value))
+              (PP (IN for)
+                (NP (DT the) (NNP 2014) (CD 2015) (JJ free) (NN agency))))))))
+    (. .)))
+

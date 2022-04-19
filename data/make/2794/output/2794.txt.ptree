@@ -1,0 +1,62 @@
+(ROOT
+  (S
+    (NP (NNS jasons) (NNS parents))
+    (VP (VBD expected)
+      (S
+        (NP (PRP him))
+        (VP (TO to)
+          (VP
+            (VP (VB get)
+              (NP (PRP$ his) (NN ph.) (NN d.))
+              (PP (IN in)
+                (NP (NN physics))))
+            (CC and)
+            (VP
+              (ADVP (RB then))
+              (JJ return)
+              (PP (TO to)
+                (NP
+                  (NP (PRP$ his) (NN hometown))
+                  (PP (IN of)
+                    (NP (NN nanjing))))))
+            (, ,)
+            (SBAR
+              (WHADVP (WRB where))
+              (S
+                (NP (PRP he))
+                (VP (MD could)
+                  (VP (VB teach) (, ,) (VB write)
+                    (CC and)
+                    (VB conduct)
+                    (NP (NN research))
+                    (PP (IN at)
+                      (NP
+                        (NP (CD one))
+                        (PP (IN of)
+                          (NP (CD 50) (NNS universities)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB instead) (IN after)
+      (NP (NN graduation)))
+    (, ,)
+    (NP (NN jason))
+    (VP
+      (VP (VBD sold)
+        (NP (PRP$ his) (NNS textbooks)))
+      (CC and)
+      (VP (VBD bought)
+        (NP
+          (NP (NNS boxes))
+          (PP (JJ full) (IN of)
+            (NP
+              (NP (JJ falun) (NN gong) (NNS brochures))
+              (, ,)
+              (NP (NNS pamphlets))
+              (, ,)
+              (NP (NNS reports))
+              (CC and)
+              (NP (JJ informational) (NNS videos)))))))
+    (. .)))
+

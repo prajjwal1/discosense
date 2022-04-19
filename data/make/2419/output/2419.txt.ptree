@@ -1,0 +1,53 @@
+(ROOT
+  (S
+    (PP (IN on)
+      (NP
+        (NP (DT the) (JJ top) (NN right) (NN side))
+        (PP (IN of)
+          (NP (JJ ihec) (NN blog)))))
+    (NP (PRP you))
+    (VP (MD will)
+      (VP (VB find)
+        (NP
+          (NP (DT a) (JJ brief) (NN poll) (NN im))
+          (VP (VBG conducting)
+            (PP (IN on)
+              (NP
+                (NP (JJ new) (NNS media) (NN use))
+                (PP (IN in)
+                  (NP (JJ international) (NN education)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB specifically))
+    (NP (FW i))
+    (VP (VBP want)
+      (S
+        (VP (TO to)
+          (VP (VB see)
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (NP
+                  (NP (JJ new) (NNS media) (NN tool))
+                  (SBAR
+                    (S
+                      (NP (PRP you))
+                      (VP (VBP feel)))))
+                (VP (VBZ is)
+                  (NP
+                    (NP (DT the) (JJS best))
+                    (PP (IN for)
+                      (S
+                        (VP (VBG keeping)
+                          (PRT (RP up))
+                          (PP (TO to)
+                            (NP (NN date)))
+                          (PP (IN on)
+                            (NP
+                              (NP (DT the) (NN field))
+                              (PP (IN of)
+                                (NP (JJ international) (NN education))))))))))))))))
+    (. .)))
+

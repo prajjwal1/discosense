@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (NP (PRP$ our) (NNS findings))
+    (VP (VBP reveal)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (DT the) (NN impact))
+            (PP (IN of)
+              (NP (DT an) (NN iss) (NN recommendation))))
+          (VP (VBZ is)
+            (VP (VBN reduced)
+              (ADVP (RB greatly))
+              (SBAR (IN once)
+                (S
+                  (NP (NN company)
+                    (CC and)
+                    (NN firm) (NN specific) (NNS factors))
+                  (ADVP (JJ important)
+                    (PP (TO to)
+                      (NP (NNS investors))))
+                  (VP (VBP are)
+                    (VP (VBN taken)
+                      (PP (IN into)
+                        (NP (NN consideration))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB overall))
+    (NP (PRP we))
+    (VP (VBP estimate)
+      (SBAR (IN that)
+        (S
+          (NP (DT an) (NN iss) (NN recommendation))
+          (VP (VBZ shifts)
+            (NP
+              (NP
+                (QP (CD 6) (NN %) (TO to) (CD 10) (NN %)))
+              (PP (IN of)
+                (NP (NN shareholder) (NNS votes))))))))
+    (. .)))
+

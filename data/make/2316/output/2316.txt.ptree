@@ -1,0 +1,53 @@
+(ROOT
+  (S
+    (NP (DT an)
+      (ADJP (JJ unhappy))
+      (NN tremblay))
+    (VP (VBZ means)
+      (NP (DT a) (JJ trembling) (NN sharon))
+      (, ,)
+      (S
+        (NP (DT a) (NN state))
+        (ADJP (JJ familiar)
+          (PP (TO to)
+            (NP (PRP her))))
+        (SBAR (RB ever) (IN since)
+          (S
+            (NP (PRP she))
+            (VP (VBD knew)
+              (SBAR
+                (S
+                  (NP (DT the) (NN ice))
+                  (VP (VBD eyed)
+                    (NP (NN kingpin))
+                    (SBAR
+                      (WHADVP (WRB when))
+                      (S
+                        (NP (PRP he))
+                        (VP (VBD was)
+                          (ADVP (RB only))
+                          (NP (DT a) (JJ scary) (NN student) (NN prince)))))))))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (PP (IN on)
+      (NP (DT the) (JJ other) (NN hand) (NNS rays) (NN scheme)))
+    (VP (VBZ has)
+      (ADVP (RB almost))
+      (NP (JJ irresistible) (NN payoff) (NN potential)))
+    (SBAR (IN if)
+      (S
+        (NP (NN sharon))
+        (VP (MD can)
+          (VP (VB trust)
+            (NP (PRP$ her) (JJ new) (NN partner))
+            (ADVP (RB long) (RB enough)
+              (S
+                (VP (TO to)
+                  (VP (VB double)
+                    (VP (VB cross)
+                      (NP (PRP him))
+                      (ADVP (RB safely)))))))))))
+    (. .)))
+

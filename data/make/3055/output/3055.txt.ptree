@@ -1,0 +1,38 @@
+(ROOT
+  (S
+    (NP (FW i))
+    (VP (VBP want)
+      (S
+        (VP (TO to)
+          (VP (VB see)
+            (S
+              (NP (PRP myself))
+              (VP
+                (VP (VBN healed))
+                (CC and)
+                (VP
+                  (ADVP (RB hopefully))
+                  (NP (PRP$ our) (NN marriage) (NN healed)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nonetheless))
+    (NP (FW i))
+    (VP (VBP have)
+      (S
+        (VP (TO to)
+          (VP
+            (VP (VB fix)
+              (NP (PRP myself)))
+            (CC and)
+            (VP (VB be)
+              (NP (DT a) (JJR better) (NN example))
+              (PP (TO to)
+                (NP (PRP$ my) (CD 20)
+                  (CC and)
+                  (CD 14)))
+              (NP (NN year)))
+            (NP (JJ old) (NNS boys))))))
+    (. .)))
+

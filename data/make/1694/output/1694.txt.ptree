@@ -1,0 +1,38 @@
+(ROOT
+  (S
+    (S
+      (NP (FW i))
+      (VP (VBP know)
+        (S
+          (NP (PRP it))
+          (VP (VB doesnt)
+            (NP (NN matter))
+            (PP (TO to)
+              (NP (JJS most) (NNS folks)))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP
+        (NP (DT that) (JJ thrown) (NN togetherbundlebox) (NN art))
+        (PP (IN for)
+          (NP (DT these) (NN hd) (NNS collections))))
+      (VP (VBZ is)
+        (NP (PDT such) (DT an) (NN eyesore))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADJP (IN although))
+    (S
+      (VP
+        (ADVP (RB high)
+          (NP (CD five))
+          (PP (IN for)
+            (ADVP (IN at) (JJS least))))
+        (VBG using)
+        (NP
+          (NP (DT the) (NN pal) (NN version))
+          (PP (IN for)
+            (NP (DT that) (NN bundle) (NN box) (NN art))))))
+    (. .)))
+

@@ -1,0 +1,1 @@
+in www documents, hyperlink targets are most often files that can reside on any computers connected to the internet. however a hyperlink target can also be a particular location within a document, including the document that is currently being rendered.

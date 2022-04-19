@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (PP (IN on)
+      (NP (DT the) (CD one) (NN hand)))
+    (, ,)
+    (NP (NNP al) (NNP qaeda))
+    (VP (VBZ has)
+      (ADVP (RB definitely))
+      (VP (VBN been)
+        (VP (VBN crippled)
+          (PP (IN by)
+            (NP (DT the) (NNS actions)))
+          (SBAR (IN that)
+            (S
+              (NP (PRP we))
+              (VP (VBP have)
+                (VP (VBN taken)
+                  (PP (IN in)
+                    (NP (DT the) (JJ last) (JJ few) (NNS years))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN on)
+      (NP (DT the) (JJ other) (NN hand)))
+    (NP (DT these) (NNS cells))
+    (VP (VBP have)
+      (VP (VBN metastasized)
+        (NP (DT all))
+        (PP (IN around)
+          (NP (DT the) (NN world)))
+        (, ,)
+        (PP (VBG including)
+          (PP
+            (ADVP (RB here))
+            (IN at)
+            (NP (NN home))))))
+    (. .)))
+

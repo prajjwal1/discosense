@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (SBAR (IN although)
+      (S
+        (NP (JJ bridge) (NN office) (NN policy))
+        (VP (VBZ is)
+          (VP (VBN presented)
+            (ADVP (RB here))
+            (PP (IN for)
+              (NP (JJ numerous) (NNS situations)))))))
+    (, ,)
+    (NP
+      (NP (NN content))
+      (PP (IN of)
+        (NP (DT the) (NN manual))))
+    (VP (VBZ is) (RB not)
+      (VP (VBN intended)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (ADJP (JJ exhaustive)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB therefore))
+    (NP
+      (NP (NN use))
+      (PP (IN of)
+        (NP (DT this) (NN manual))))
+    (VP (MD must)
+      (VP (VB be)
+        (VP (VBN tempered)
+          (PP (IN with)
+            (NP (JJ sound) (NN engineering) (NN judgment))))))
+    (. .)))
+

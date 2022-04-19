@@ -1,0 +1,4 @@
+conn_lc:however conn:however conn_POS:RB xxx£
+conn_lc:although conn:although conn_POS:IN with_prev_full:,_although xxx£
+conn_lc:still conn:still conn_POS:RB with_prev_full:may_still xxx£
+conn_lc:for_instance conn:for_instance conn_POS:IN_NN xxx£

@@ -1,0 +1,51 @@
+(ROOT
+  (S
+    (SBAR
+      (WHNP (WP who))
+      (S
+        (VP (MD would)
+          (ADVP (RB possibly))
+          (VP (VB want)
+            (S
+              (VP (TO to)
+                (VP (VB play)
+                  (NP (DT a) (NN game))
+                  (SBAR
+                    (WHADVP (WRB where))
+                    (S
+                      (NP (DT a) (JJ tiny) (JJ red) (NN plumber))
+                      (VP (MD must)
+                        (VP (VB rescue)
+                          (NP (PRP$ his) (JJ beloved) (NNS princess))
+                          (PP (IN by)
+                            (S
+                              (VP (VBG hopping)
+                                (PRT (RP over))
+                                (NP (NNS obstacles))))))))))))))))
+    (VP (VBD tossed)
+      (PP (IN in)
+        (NP (PRP$ his) (NN way)))
+      (PP (IN by)
+        (NP (DT an) (JJ obese) (NN gorilla))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP
+      (ADVP (RB yet))
+      (IN with)
+      (NP (DT no) (VBG remaining) (NNS options)))
+    (, ,)
+    (NP (NN stone)
+      (CC and)
+      (NN judy))
+    (VP (VBD set)
+      (PRT (RP out))
+      (PP (IN across)
+        (NP (DT the) (NN country)))
+      (S
+        (VP (TO to)
+          (VP (VB sell)
+            (NP (PRP it))))))
+    (. .)))
+

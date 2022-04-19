@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (SBAR (IN although)
+      (S
+        (NP (DT these) (JJ ultra) (JJ low) (NNS rates))
+        (VP (VBP are)
+          (NP (JJ temporary) (NNS promotions)))))
+    (, ,)
+    (NP (JJ overall) (JJ long) (NN term))
+    (NP (JJ real) (NN estate) (NN borrowing) (NNS rates))
+    (VP (VBP are)
+      (PP (IN at)
+        (NP
+          (NP (PRP$ their) (JJS lowest))
+          (PP (IN in)
+            (NP (NN canadian) (NN history))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (JJ other) (NNS words)))
+    (NP (PRP it))
+    (ADVP (RB just))
+    (VP (VB wont)
+      (VP (VB get)
+        (ADJP (RB much) (JJR better))
+        (PP (IN than)
+          (NP (DT this)))))
+    (. .)))
+

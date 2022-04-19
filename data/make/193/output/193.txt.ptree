@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (PRP$ its) (NN hiring) (NNS policies)
+        (CC and)
+        (NN protocol) (NN manual)))
+    (, ,)
+    (NP
+      (NP (JJ google) (JJ listed) (NN intel))
+      (PP (IN among)
+        (NP
+          (NP (DT the) (NNS companies))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP
+                (VP (VBP have)
+                  (NP
+                    (NP (JJ special) (NNS agreements))
+                    (PP (IN with)
+                      (NP (NN google)))))
+                (CC and)
+                (VP (VBP are)
+                  (NP
+                    (NP (NN part))
+                    (PP (IN of)
+                      (NP (DT the)))))))))))
+    (VP (VBP do) (RB not)
+      (ADVP (NN cold))
+      (VP (VB call)
+        (NP (NN list))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB similarly))
+    (NP (NN intel))
+    (VP (VBD instructed)
+      (NP (PRP$ its) (JJ human) (NNS resources) (NN staff))
+      (PP (IN about)
+        (NP
+          (NP (DT the) (NN existence))
+          (PP (IN of)
+            (NP (DT the) (NN agreement))))))
+    (. .)))
+

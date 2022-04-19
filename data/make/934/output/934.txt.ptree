@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (NP (NN gabe))
+    (VP (VBD was)
+      (ADJP (JJ oldeer)
+        (SBAR
+          (S
+            (NP (PRP he))
+            (VP (VBD knew)
+              (NP (PRP$ his) (NN father))
+              (, ,)
+              (PP (IN unlike)
+                (NP
+                  (NP (PRP you))
+                  (SBAR
+                    (WHNP (WP who))
+                    (S
+                      (NP (JJ i) (NN havent))
+                      (VP (VBD heard)
+                        (VP (VB speak)
+                          (NP (DT a) (JJ good) (NN word))
+                          (PP (IN about)
+                            (NP (NN paul))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN on)
+      (NP (DT the) (NN contrary)))
+    (NP (PRP you))
+    (VP (VBZ trash)
+      (NP (PRP$ your) (VBN alleged) (NN dad)))
+    (. .)))
+

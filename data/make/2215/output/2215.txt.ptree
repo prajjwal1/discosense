@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (NP (PRP they))
+    (VP (VBP are)
+      (ADJP (RB almost) (JJ incapable)
+        (PP (IN of)
+          (S
+            (VP (VBG weighing)
+              (NP
+                (NP (DT the) (NNS needs))
+                (PP (IN of)
+                  (NP
+                    (NP (NNS others))
+                    (PP (IN in)
+                      (NP (PRP$ their) (NNS heads)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP (NN instance)))
+    (NP (PRP they))
+    (ADVP (RB usually))
+    (VP (VBP go)
+      (PP (TO to)
+        (NP (NN math) (NN school)))
+      (PP (IN on)
+        (NP (NN sunday)))
+      (PRN (CC but)
+        (NP
+          (NP (DT this) (NN sunday))
+          (SBAR
+            (S
+              (NP (PRP it))
+              (VP (VBZ is)
+                (VP (VBG fathers)
+                  (NP (NN day))))))))
+      (SBAR (IN so)
+        (S
+          (NP (PRP we))
+          (VP (VBP are)
+            (VP (VBG going)
+              (PP (IN on)
+                (NP (NN thursday))))))))
+    (. .)))
+

@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (S
+      (ADVP (RB maybe))
+      (NP (PRP they))
+      (VP (VBP do)))
+    (, ,)
+    (CC but)
+    (S
+      (NP (NNS chances))
+      (VP (VBP are)
+        (SBAR (IN that)
+          (S
+            (PP (IN in)
+              (NP
+                (NP (DT the) (JJ long) (NNS sleepless) (NNS watches))
+                (PP (IN of)
+                  (NP (DT the) (NN night)))))
+            (NP
+              (NP (DT the) (NN crack))
+              (PP (IN in)
+                (NP (DT the) (NN teacup))))
+            (VP (VBZ whelms)
+              (NP (PRP them))
+              (SBAR (IN as)
+                (S
+                  (NP (PRP it))
+                  (VP (VBZ whelms)
+                    (NP (PRP us))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB therefore))
+    (VP (VB let)
+      (S
+        (NP
+          (NP (PRP$ our) (NN distrust))
+          (PP (IN of)
+            (NP (NNS certainties))))
+        (VP (VB be)
+          (VP (VBN tempered)
+            (PP (IN by)
+              (NP (NN compassion)))))))
+    (. .)))
+

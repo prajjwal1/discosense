@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (ADJP (RB very) (JJ few))
+        (NNS questions))
+      (VP (VBD were)
+        (VP (VBN answered))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (DT the) (JJ whole) (NN film))
+      (VP (VBD was)
+        (ADVP (RBR more)
+          (PP (IN of)
+            (NP (DT a) (NN mystery))))
+        (VP (VBN left)
+          (PP (TO to)
+            (NP (NN interpretation))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN contrast)))
+    (NP (NN matt) (NNS reeves))
+    (VP (VBD was)
+      (ADJP (RBR more) (JJ clear)
+        (CC and)
+        (JJ direct))
+      (PP (IN in)
+        (NP (PRP$ his) (NN screenplay)))
+      (PP (IN with)
+        (NP
+          (NP (DT the) (NN mystery))
+          (VP (VBG surrounding)
+            (NP (PRP$ his) (NNS characters))))))
+    (. .)))
+

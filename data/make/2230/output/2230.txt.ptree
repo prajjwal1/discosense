@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (ADVP (RB similarly))
+    (, ,)
+    (SBAR (IN if)
+      (S
+        (NP (DT the) (NN run))
+        (VP (VBZ is)
+          (ADJP (JJ black)))))
+    (, ,)
+    (NP (NN run) (CD 132))
+    (VP (MD may)
+      (VP (VB be)
+        (VP (VBN substituted)
+          (PP (IN by)
+            (NP
+              (NP (DT the) (NN concatenation))
+              (PP (IN of)
+                (NP (NNS fields)))))
+          (NP (CD 140) (, ,) (CD 152)
+            (CC and)
+            (CD 154)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (RB hence) (CD 3272) (NNS pixels))
+      (PP (IN of)
+        (NP (JJ digitized) (NNS data))))
+    (VP (MD may)
+      (VP (VB be)
+        (VP (VBN replaced)
+          (PP (IN by)
+            (NP (DT a) (CD 26) (NN bit) (NN code))))))
+    (. .)))
+

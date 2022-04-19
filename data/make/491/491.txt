@@ -1,0 +1,1 @@
+the original images are then cropped to reflect the selected landmarks, thereby generating piecewise images 604. thereafter the images are warped to generate the registered face images 606 that include the landmarks.

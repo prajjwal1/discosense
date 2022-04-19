@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (NP
+      (NP (NN hes))
+      (VP (VBN done)
+        (S
+          (NP (NNS loads))
+          (ADJP (RBR more) (JJ wild)))))
+    (VP (VBP stuff)
+      (ADVP (IN than) (DT that))
+      (ADVP (RB though)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (RB hence) (NN joe))
+    (VP (VBD wrote)
+      (NP (NN ttv))
+      (PP (RB partly)
+        (PP (TO to)
+          (NP (JJ clear) (NNS simons) (NN name)))
+        (, ,)
+        (CC and)
+        (RB partly)
+        (PP
+          (ADVP (RB perhaps))
+          (IN as)
+          (NP
+            (NP (DT an) (NN attempt))
+            (PP (IN at)
+              (NP (NNS catharsis)
+                (CC or)
+                (NN closure)))))))
+    (. .)))
+

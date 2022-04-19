@@ -1,0 +1,61 @@
+(ROOT
+  (S
+    (PP (IN on)
+      (NP
+        (NP (DT the) (NN day))
+        (PP (IN of)
+          (NP (PRP$ my) (NN visit)))))
+    (, ,)
+    (NP (FW i))
+    (VP (VBD was)
+      (VP (VBN told)
+        (PP (IN by)
+          (NP (DT a) (NN guide)))
+        (SBAR (IN that)
+          (S
+            (NP (JJ many) (NNS men))
+            (VP (VBD died)
+              (S
+                (VP (VBG fighting)
+                  (PP (IN for)
+                    (NP
+                      (NP (NN control))
+                      (PP (IN of)
+                        (NP (DT the) (NN spot)))))))
+              (SBAR
+                (WHADVP (WRB where))
+                (S
+                  (NP (DT the) (NN platform))
+                  (VP (VBZ is)
+                    (VP (VBN located))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB consequently))
+    (PP (IN at)
+      (NP (DT the) (NN time)))
+    (NP (FW i))
+    (VP (VBD assumed)
+      (SBAR
+        (S
+          (NP (FW i))
+          (VP (VBD was)
+            (VP (VBG standing)
+              (PP (IN on)
+                (NP
+                  (NP (DT a) (JJ german) (JJ strong) (NN point))
+                  (SBAR
+                    (WHNP (WDT that))
+                    (S
+                      (VP (VBD killed)
+                        (NP (JJ many) (NNS men))
+                        (PP (IN in)
+                          (NP (PRP$ their) (NNS attempts)))
+                        (S
+                          (VP (TO to)
+                            (VP (VB knock)
+                              (NP (PRP it))
+                              (PRT (RP out)))))))))))))))
+    (. .)))
+

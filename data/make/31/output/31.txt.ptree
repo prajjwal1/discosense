@@ -1,0 +1,44 @@
+(ROOT
+  (S
+    (NP (PRP they))
+    (VP (VBD caught)
+      (NP
+        (NP
+          (NP (FW de) (FW la))
+          (SBAR
+            (WHNP
+              (NP (NN fuente)
+                (CC and)
+                (NN vaubourzeix))
+              (PP (IN with)
+                (NP (CD 26) (NN km))))
+            (S
+              (VP (TO to)
+                (VP (VB go))))))
+        (, ,)
+        (CC and)
+        (NP
+          (NP (DT a) (NN gap))
+          (PP (IN of)
+            (NP
+              (NP (CD 40) (NNS seconds))
+              (PP (IN over)
+                (NP (DT the) (NN chasing) (NN field))))))))
+    (. .)))
+
+(ROOT
+  (S (CC but)
+    (S
+      (NP (NN vaubourzeix))
+      (VP (VBD was)
+        (VP
+          (ADVP (RB soon))
+          (VBN dropped))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (DT the) (NN gap))
+      (VP (VBD dropped) (, ,)
+        (ADVP (RB too))))
+    (. .)))
+

@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (NP (DT both)
+      (NP (DT the) (VBN modified) (NN incubator) (NN weathering))
+      (CC and)
+      (NP (JJ controlled) (NN deterioration)))
+    (VP (VBD were)
+      (ADJP (JJ efficient)
+        (PP (IN for)
+          (S
+            (VP (VBG evaluating)
+              (NP
+                (NP (DT the) (NN field) (VBG weathering) (NN resistance))
+                (PP (IN of)
+                  (NP (NN soybean) (NNS varieties)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB particularly))
+    (NP (VBN controlled) (NN deterioration) (NN method))
+    (VP (VBD was)
+      (VP (VBN found)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (NP
+                (NP (DT a) (JJ useful) (NN way))
+                (PP (IN for)
+                  (S
+                    (VP (VBG evaluating)
+                      (NP
+                        (NP (DT the) (NN field) (VBG weathering) (NN resistance))
+                        (PP (IN of)
+                          (NP (NN soybean) (NNS seeds)))))))))))))
+    (. .)))
+

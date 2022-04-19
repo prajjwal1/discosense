@@ -1,0 +1,62 @@
+(ROOT
+  (S
+    (S
+      (S
+        (NP (NN underwood))
+        (VP (VBD said)
+          (NP (PRP he))))
+      (CC and)
+      (S
+        (NP (PRP$ his) (NN wife))
+        (ADVP (DT both))
+        (VP (VBP have)
+          (VP (VBN concealed)
+            (NP (NN handgun) (NNS licenses))))))
+    (, ,) (IN so)
+    (S
+      (NP (PRP he))
+      (VP (VBZ knows)
+        (SBAR
+          (WHADVP (WRB how)
+            (ADJP (JJ easy)))
+          (S
+            (NP (PRP it))
+            (VP (VBZ is)
+              (S
+                (VP (TO to)
+                  (VP (VB get)
+                    (NP (CD one))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB because)
+      (PP (IN of)
+        (SBAR (IN that)
+          (S
+            (NP (PRP he))
+            (VP
+              (VP (MD would) (RB not)
+                (VP (VB be)
+                  (PP (IN in)
+                    (NP
+                      (NP (NN favor))
+                      (PP (IN of)
+                        (S
+                          (VP (VBG arming)
+                            (NP (NNS teachers)))))))))
+              (CC but)
+              (VP
+                (ADVP (RB instead))
+                (VBZ prefers)
+                (NP (DT the) (JJ marshal) (NN system))
+                (PP (IN in)
+                  (NP
+                    (NP (NN place))
+                    (PP (IN in)
+                      (NP (JJ new) (NN deal)))))))))))
+    (, ,)
+    (NP (PRP he))
+    (VP (VBD said))
+    (. .)))
+

@@ -1,0 +1,3 @@
+Explicit|||0..6||before||0|before|||Temporal.Asynchronous|||||||||||41..86|0|somerville produced 1.3 million bricks a year||||||||7..39|0|mechanical presses were invented|||||||||||||
+Explicit|||88..98||thereafter||1|thereafter|||Temporal.Asynchronous|||||||||||0..86|0|before mechanical presses were invented, somerville produced 1.3 million bricks a year||||||||99..234|1|production increased rapidly to 5.5 million bricks a year, and the success of the brickyards began to attract numerous other industries|||||||||||||
+Explicit|||158..161||and||1|and|||Expansion.Conjunction|||||||||||88..156|1|thereafter production increased rapidly to 5.5 million bricks a year||||||||162..234|1|the success of the brickyards began to attract numerous other industries|||||||||||||

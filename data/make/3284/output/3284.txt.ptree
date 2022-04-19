@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (ADVP (RB however))
+    (, ,)
+    (NP
+      (NP (DT the) (JJ adult) (NNS versions))
+      (PP (IN of)
+        (NP (DT these) (NNS costumes))))
+    (VP (VBP are)
+      (ADJP (RB quite) (JJ different)
+        (PP (IN than)
+          (NP
+            (NP (DT the) (NNS ones))
+            (PP (IN for)
+              (NP (NNS kids)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP (NN instance)))
+    (NP (JJ adult) (NN superhero) (NNS outfits))
+    (ADVP (RB often))
+    (VP (VB come)
+      (NP
+        (NP
+          (ADJP
+            (ADJP (VBN equipped)
+              (PP (IN with)
+                (NP (JJ padded) (NNS muscles))))
+            (CC and)
+            (ADJP (NN rock) (JJ hard)))
+          (JJ synthetic) (NN abs))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (MD would)
+              (VP (VB make)
+                (S
+                  (NP (DT any) (JJ cosmetic) (NN surgeon))
+                  (ADJP (JJ proud)))))))))
+    (. .)))
+

@@ -1,0 +1,59 @@
+(ROOT
+  (S
+    (NP (PRP it))
+    (VP (VBZ has) (, ,)
+      (PP (IN for)
+        (NP
+          (NP (NN instance))
+          (, ,)
+          (NP (DT some)
+            (ADJP (RB pretty) (JJ solid))
+            (NN leadership))
+          (, ,)
+          (NP (DT some) (JJ good) (NNS theologians))
+          (, ,)
+          (CC and)
+          (NP (DT some) (JJ strong) (NN support))))
+      (PP (IN from)
+        (NP
+          (NP (DT the) (NN communion))
+          (SBAR
+            (WHPP (IN of)
+              (WHNP (WDT which)))
+            (S
+              (NP (PRP it))
+              (VP (VBZ is) (RB not)
+                (ADVP (RB formally))
+                (NP (DT a) (NN part))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN by)
+      (NP (NN contrast)))
+    (NP
+      (NP (NN tec))
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (VP (VBZ remains)
+            (NP
+              (NP (DT a)
+                (ADJP (RB very) (JJ strong))
+                (NN anglican) (NN church))
+              (ADJP (JJ numerically)
+                (CC and)
+                (RB financially))))))
+      (, ,))
+    (VP (VBZ is)
+      (ADVP (IN out)
+        (PP (IN of)
+          (NP (NN kilter))))
+      (PP (IN with)
+        (NP
+          (NP (RB much))
+          (PP (IN of)
+            (NP (DT the) (NN anglican) (NN communion))))))
+    (. .)))
+

@@ -1,0 +1,1 @@
+the following section provides a brief introduction of the currently adopted model, which is originally for the newtonian flow. thereafter the scale shifts of the dissipation range and of the viscoelastic behavior are considered and the present constitutive equation as well as the.

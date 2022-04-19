@@ -1,0 +1,59 @@
+(ROOT
+  (S
+    (VP (VB im)
+      (ADJP (RB fairly) (JJ certain)
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBP im) (RB not)
+              (NP (DT the) (JJ first) (NN person)
+                (S
+                  (VP (TO to)
+                    (VP (VB want)
+                      (S
+                        (VP (TO to)
+                          (VP (VB render)
+                            (NP (NN code))
+                            (PP (VBG depending)
+                              (PP (IN on)
+                                (NP (DT a) (NN date) (NN time))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB however))
+    (SBAR (IN if)
+      (S
+        (NP (EX there))
+        (VP (VBP are)
+          (ADJP (RB no) (JJ ready)
+            (SBAR
+              (S
+                (VP (VBD made)
+                  (NP (NNS solutions)))))))))
+    (, ,)
+    (VP (VBP do)
+      (SBAR
+        (S
+          (NP (PRP you))
+          (VP (VBP have)
+            (NP
+              (NP (DT any) (NNS clues))
+              (PP (IN as) (TO to)
+                (SBAR
+                  (WHADVP (WRB how))
+                  (S
+                    (VP (TO to)
+                      (VP (VB architect)
+                        (NP (DT a) (NN mechanism)
+                          (S
+                            (VP (TO to)
+                              (VP (VB allowcontent)
+                                (S
+                                  (NP (NN ownersto))
+                                  (VP (VB maintain)
+                                    (NP (DT these) (NNS partials))
+                                    (PP (IN without)
+                                      (NP (NN programmer) (NN involvement)))))))))))))))))))
+    (. .)))
+

@@ -1,0 +1,61 @@
+(ROOT
+  (S
+    (PP (IN of)
+      (NP (NN course)))
+    (, ,)
+    (NP
+      (NP (NN adversity))
+      (PP (IN in)
+        (CC and)
+        (IN of)
+        (NP (PRP itself))))
+    (VP (VBZ is) (RB not)
+      (ADVP (RB necessarily))
+      (NP (DT a)
+        (ADJP (JJ good)
+          (CC or)
+          (JJ bad))
+        (NN thing)))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADVP (RB rather))
+    (NP
+      (NP (PRP$ its))
+      (SBAR
+        (SBAR
+          (WHNP (WP what))
+          (S
+            (NP (PRP we))
+            (VP (VBP do))))
+        (CC and)
+        (SBAR (IN whether)
+          (S
+            (VP (VBD were)
+              (ADJP (JJ open)
+                (PP (TO to)
+                  (S
+                    (VP (VBG learning)
+                      (PP (IN from)
+                        (NP
+                          (NP (PRP it))
+                          (SBAR
+                            (WHNP (WDT that))
+                            (S
+                              (VP (MD should)
+                                (VP (VB decide)
+                                  (SBAR (IN whether)
+                                    (S
+                                      (NP (PRP$ its))
+                                      (VP
+                                        (VP (VBN been)
+                                          (PP (IN of)
+                                            (NP (NN benefit))))
+                                        (CC or)
+                                        (VP
+                                          (NP (NN harm))
+                                          (PP (TO to)
+                                            (NP (PRP us))))))))))))))))))))))
+    (. .)))
+

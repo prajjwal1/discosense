@@ -1,0 +1,2 @@
+conn:and conn_POS:CC prev1:electrodes prev1_POS:NNS with_prev1_full:electrodes_and with_prev1_POS_full:NNS_CC prev2:more prev2_POS:JJR with_prev2_full:more_and with_prev2_POS_full:JJR_CC NA
+conn:thereby conn_POS:RB sent_pos:0 NA

@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (VP (VB look)
+      (PP (IN for)
+        (NP
+          (NP (JJ whole) (NNS grains))
+          (CC or)
+          (NP
+            (NP (JJ whole) (NN wheat))
+            (PP (JJ such) (IN as)
+              (NP
+                (NP (JJ brown) (NN rice))
+                (CC or)
+                (NP (JJ whole) (NN wheat) (NN pasta))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB in))
+    (NP (NN sum))
+    (VP (VBP remember)
+      (SBAR (IN that)
+        (S
+          (NP (NN portion) (NN control))
+          (VP (VBZ is)
+            (NP (DT the) (JJS most))
+            (ADJP (JJ important))))))
+    (. .)))
+

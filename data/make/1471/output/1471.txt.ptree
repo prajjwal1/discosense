@@ -1,0 +1,57 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (NN depression))
+      (SBAR
+        (S
+          (NP (PRP she))
+          (VP (VBZ describes)))))
+    (VP (VBZ is)
+      (ADJP (JJ believable))
+      (ADVP (RB only))
+      (PP (IN by)
+        (NP
+          (NP (NN virtue))
+          (SBAR
+            (WHPP (IN of)
+              (WHNP (WRB how) (JJ uninspired)))
+            (S
+              (NP (PRP she))
+              (VP (VBZ sounds)))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (PP (IN for)
+      (NP
+        (NP (NN instance))
+        (PP (IN on)
+          (NP
+            (NP (JJR better) (NN girl))
+            (CC and)
+            (NP
+              (NP (PRP$ its)
+                (NX
+                  (NX
+                    (NP (DT no) (NN fun))
+                    (SBAR
+                      (WHADVP (WRB when))
+                      (S
+                        (VP (VBP im)))))
+                  (PRN
+                    (ADVP (RB always))
+                    (ADVP (IN at) (NN home)))))
+              (CC and)
+              (NP (PRP$ its)
+                (NX
+                  (NX
+                    (NP (DT no) (NN fun))
+                    (SBAR
+                      (WHADVP (WRB when))
+                      (S
+                        (VP (VBP im)))))
+                  (PRN
+                    (ADVP (RB always))
+                    (ADVP (RB alone))))))))))
+    (. .)))
+

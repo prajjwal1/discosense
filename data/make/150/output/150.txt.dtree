@@ -1,0 +1,16 @@
+root(ROOT-0, hes-1)
+num(years-3, 19-2)
+tmod(older-4, years-3)
+acomp(hes-1, older-4)
+prep_than(older-4, her-6)
+
+advmod(hardly-10, though-1)
+prep_for(hardly-10, most-3)
+det(series-6, the-5)
+prep_of(most-3, series-6)
+det(relationshipis-9, the-8)
+nsubj(hardly-10, relationshipis-9)
+root(ROOT-0, hardly-10)
+det(romance-12, a-11)
+dobj(hardly-10, romance-12)
+

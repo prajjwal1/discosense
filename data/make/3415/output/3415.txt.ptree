@@ -1,0 +1,55 @@
+(ROOT
+  (S
+    (NP (PRP we))
+    (VP (VBP show)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (NN evidence))
+            (VP (VBG appearing)
+              (S
+                (VP (TO to)
+                  (VP (VB support)
+                    (NP
+                      (NP (JJ direct) (NNS effects))
+                      (PP (IN of)
+                        (NP (JJ congressional) (NN attention))))
+                    (PP (TO to)
+                      (NP
+                        (NP (JJ criminal) (NN justice) (NNS issues))
+                        (CC and)
+                        (NP (DT the) (NN homicide) (NN rate)))))))))
+          (VP (VBZ is)
+            (ADJP (JJ spurious))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP
+        (NP (NN sum))
+        (SBAR (IN while)
+          (S
+            (NP (DT the) (NN president) (NNS dispenses))
+            (VP (VBZ pardons)
+              (PP (IN as)
+                (NP
+                  (NP (NN part))
+                  (PP (IN of)
+                    (NP
+                      (NP (DT a) (NN system))
+                      (PP (IN of)
+                        (NP (JJ separated) (NNS powers)))))))
+              (, ,)
+              (SBAR
+                (WHADVP (WRB how))
+                (S
+                  (NP (PRP he))
+                  (VP (VBZ exercises)))))))))
+    (NP (DT this) (JJ unilateral) (NN power))
+    (VP (VBZ depends)
+      (ADVP (RB mostly))
+      (PP (IN on)
+        (NP (PRP$ his) (JJ own) (NN policy) (NNS positions))))
+    (. .)))
+

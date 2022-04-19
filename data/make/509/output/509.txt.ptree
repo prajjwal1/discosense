@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (PP (VBG according)
+      (PP (TO to)
+        (NP (CD one) (JJ exemplary) (NN embodiment))))
+    (, ,)
+    (NP (DT the) (NN sink) (NN region))
+    (VP (VBZ is)
+      (VP (VBN arranged)
+        (PP (IN at)
+          (NP
+            (NP (DT a) (NN location))
+            (PP (IN of)
+              (NP (DT the) (NN water) (NN directing) (NN region)))))
+        (S
+          (VP (VBG lying)
+            (NP (NN furthest))
+            (PRT (RP down))
+            (PP (IN in)
+              (NP (DT a) (NN vehicle) (JJ vertical) (NNS axis)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thereby))
+    (NP (NN gravity))
+    (VP (MD can)
+      (VP (VB be)
+        (VP (VBN utilized)
+          (PP (IN for)
+            (S
+              (VP (VBG draining)
+                (PRT (RP off))
+                (NP (NN water))))))))
+    (. .)))
+

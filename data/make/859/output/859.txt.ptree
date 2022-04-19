@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (ADVP (RB finally))
+    (, ,)
+    (NP (NN time))
+    (VP (VBD spent)
+      (SBAR
+        (S
+          (NP
+            (NP (NN washing)
+              (CC and)
+              (NN usage))
+            (PP (IN of)
+              (NP (JJ antibacterial) (NNS wipes))))
+          (VP (VBD were)
+            (VP
+              (ADVP (RB positively))
+              (VBN correlated))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ interestingly) (NN time))
+    (VP (VBD spent)
+      (SBAR
+        (S
+          (NP (NNP washing))
+          (VP (VBD was) (RB not)
+            (VP
+              (ADVP (RB significantly))
+              (VBN associated)
+              (PP (IN with)
+                (NP (JJ emotional) (NN distress)))
+              (PP (IN during)
+                (NP (DT the) (NN bat))))))))
+    (. .)))
+

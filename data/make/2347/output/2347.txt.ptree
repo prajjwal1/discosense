@@ -1,0 +1,44 @@
+(ROOT
+  (S
+    (SBAR (IN if)
+      (S
+        (NP (DT these) (NNS findings))
+        (VP (VBP are)
+          (ADJP (JJ translatable)))))
+    (, ,)
+    (NP
+      (NP (NN inhibition))
+      (PP (IN of)
+        (NP
+          (NP (JJ endogenous) (NN goat))
+          (VP (VBG using)
+            (NP (JJ specific) (NNS inhibitors))))))
+    (VP (MD could)
+      (VP (VB emerge)
+        (PP (IN as)
+          (NP
+            (NP (JJ potential) (NN treatment)
+              (CC or)
+              (JJ preventative) (NN strategy))
+            (PP (IN for)
+              (NP (NN diabetes)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB similarly))
+    (NP (NN tweaking) (NN goat) (NN biology))
+    (VP (MD may)
+      (VP (VB reap)
+        (NP
+          (NP (NNS rewards))
+          (PP (IN in)
+            (NP (DT the) (NN march))))
+        (PP (IN towards)
+          (S
+            (VP (VBG curbing)
+              (NP (NN overweight)
+                (CC and)
+                (NN obesity)))))))
+    (. .)))
+

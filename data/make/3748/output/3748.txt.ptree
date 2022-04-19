@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (NP (PRP he))
+    (VP (VBD wrote)
+      (PP (IN in)
+        (NP (CD 1298)))
+      (SBAR
+        (SBAR (IN that)
+          (S
+            (NP (PRP he))
+            (VP (VBD had)
+              (VP (VBN been)
+                (VP (VBN brought)
+                  (PRT (RP up))
+                  (PP (IN in)
+                    (NP
+                      (NP (DT the) (JJ gilbertine) (NN order))
+                      (PP (IN of)
+                        (NP (NNS monks))))))))))
+        (, ,)
+        (CC but)
+        (SBAR
+          (WHADVP (WRB where) (RB exactly))
+          (S
+            (VP (VBZ is)
+              (ADJP (JJ unclear)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (ADVP (RB likewise))
+      (WHADVP (WRB where))
+      (S
+        (NP (PRP he))
+        (VP (VBD was)
+          (ADJP (VBN educated)))))
+    (VP (VBZ is)
+      (ADJP (JJ unknown)))
+    (. .)))
+

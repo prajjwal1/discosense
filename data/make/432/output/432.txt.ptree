@@ -1,0 +1,48 @@
+(ROOT
+  (S
+    (NP (DT a) (NNS people) (NN mover))
+    (VP (VBZ needs)
+      (NP
+        (ADJP (RB very) (JJ high))
+        (NN frequency))
+      (PP (IN at)
+        (NP
+          (NP (DT all) (NNS times))
+          (, ,)
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (VP (VBZ is)
+                (SBAR
+                  (WHADVP (WRB why))
+                  (S
+                    (NP (JJ such) (NNS systems))
+                    (VP (VBP are)
+                      (ADVP (RB normally))
+                      (ADJP (JJ driverless)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (PP (IN in)
+        (NP (NN contrast)))
+      (NP (JJS most) (NNS subways))
+      (VP (VBP are) (RB not)
+        (ADJP (JJ driverless))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (FW i))
+      (VP (VBP do) (RB not)
+        (VP (VB know)
+          (PP (IN of)
+            (NP
+              (NP (DT a) (JJ single) (JJ mainline) (NN railroad))
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (VP (VBZ is)
+                    (ADJP (JJ driverless))))))))))
+    (. .)))
+

@@ -1,0 +1,52 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (NP
+          (QP (RB about) (CD 90))
+          (NN percent))
+        (PP (IN of)
+          (NP
+            (NP (NNS students))
+            (PP (IN in)
+              (NP (JJ own))))))
+      (VP (VBP are)
+        (NP
+          (NP (NNS students))
+          (PP (IN of)
+            (NP (NN color))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP
+        (NP
+          (QP (CD 65) (TO to) (CD 70))
+          (NN percent))
+        (VP (VBN come)
+          (PP (IN from)
+            (NP (JJ low) (NN income) (NNS households))))
+        (, ,)
+        (VP (VBN hayden)))
+      (VP (VBD said)))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN because)
+      (S
+        (PP (IN of)
+          (NP (DT this)))
+        (NP (PRP she))
+        (VP (VBD said))))
+    (, ,)
+    (NP (DT the) (JJ third) (NN party) (NNS providers))
+    (VP (VBP offer)
+      (NP
+        (NP (NNS students))
+        (PP (IN in)
+          (NP
+            (NP (JJ own) (JJ discounted) (NNS rates))
+            (PP (IN for)
+              (NP (PRP$ their) (NNS programs)))))))
+    (. .)))
+

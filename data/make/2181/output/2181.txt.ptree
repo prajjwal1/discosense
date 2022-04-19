@@ -1,0 +1,61 @@
+(ROOT
+  (S
+    (S
+      (VP (VBG providing)
+        (NP
+          (NP (NNS payors))
+          (PP (IN with)
+            (NP
+              (NP (DT a) (JJ comprehensive) (NN network))
+              (PP (IN of)
+                (NP (JJ ancillary) (NN healthcare) (NNS services))))))
+        (NP
+          (NP (NNS providers))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBZ is)
+                (VP (VBN tailored)
+                  (PP (TO to)
+                    (NP (DT each) (JJ payors) (NN specific))))))))))
+    (VP
+      (VP (VBZ needs))
+      (CC and)
+      (VP (VBZ is)
+        (ADJP (JJ available)
+          (PP (TO to)
+            (NP
+              (NP (DT each) (NNS payors))
+              (VP (VBN covered)
+                (NP
+                  (NP (NNS persons))
+                  (PP (IN for)
+                    (NP (VBN covered) (NNS services))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB consequently))
+    (NP
+      (NP (JJ financial) (NN information)
+        (CC and)
+        (NNS disclosures))
+      (VP
+        (ADVP (RB normally))
+        (VBN included)
+        (PP (IN in)
+          (NP
+            (NP (JJ financial) (NNS statements))
+            (VP (VBN prepared)
+              (ADVP (RB annually))
+              (PP (IN in)
+                (NP (NN accordance)))
+              (PP (IN with)
+                (NP (NN gaap))))))))
+    (VP (VBP have)
+      (VP (VBN been)
+        (VP (VBN condensed)
+          (CC or)
+          (VBN omitted))))
+    (. .)))
+

@@ -1,0 +1,38 @@
+(ROOT
+  (S
+    (NP (DT each) (JJ infected) (NN individual))
+    (VP (VBZ has)
+      (S
+        (NP (PRP her))
+        (NP (PRP$ his) (JJ own) (NN infective) (NN period))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (ADJP (JJ particular)))
+    (NP (PRP we))
+    (VP (VBP assume)
+      (NP
+        (NP (DT the) (JJ infective) (NN period))
+        (, ,)
+        (CC and)
+        (NP (DT the) (NN stop) (NN time))
+        (, ,))
+      (S
+        (VP (TO to)
+          (VP (VB follow)
+            (NP (JJ exponential) (NNS distributions)))))
+      (, ,)
+      (PP (IN with)
+        (NP
+          (NP (DT the) (JJ same) (NN parameter) (NNS values))
+          (VP
+            (VP (VBN adopted)
+              (PP (IN in)))
+            (CC and)
+            (VP (VBN reported)
+              (PP (IN in)
+                (NP (NN table) (CD 1))))))))
+    (. .)))
+

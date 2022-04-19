@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (NP
+      (NP (JJ pretty) (NN chill))
+      (PP (IN during)
+        (NP (DT the) (NN day) (NN time))))
+    (VP (VBP stop)
+      (SBAR (IN that)
+        (S
+          (NP (FW i))
+          (VP (VBD made) (, ,)
+            (NP
+              (NP
+                (NP (DT a) (NN couple))
+                (PP (IN of)
+                  (NP (JJ communal) (NNS tables))))
+              (, ,)
+              (NP
+                (NP
+                  (ADJP (RBR more) (JJ intimate))
+                  (NN seating))
+                (PP (IN toward)
+                  (NP (DT the) (NN back))))
+              (, ,)
+              (CC and)
+              (NP (DT some) (NN sidewalk) (NN seating)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB though))
+    (NP (PRP it))
+    (ADVP (RB just))
+    (VP (VBZ happens)
+      (S
+        (VP (TO to)
+          (VP (VB have)
+            (NP (DT a)
+              (ADJP (RB really) (JJ great))
+              (NN beer) (NN selection))))))
+    (. .)))
+

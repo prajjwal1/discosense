@@ -1,0 +1,38 @@
+(ROOT
+  (S
+    (NP (DT every) (NN time) (NN ive))
+    (VP (VBD traveled)
+      (PP (IN in)
+        (NP
+          (NP (NN italy))
+          (, ,)
+          (NP
+            (NP (NN im))
+            (VP (VBN impressed)
+              (PP (IN by)
+                (NP
+                  (NP (DT the) (JJ micro) (NN regionalism))
+                  (PP (IN of)
+                    (NP (DT the) (NN food))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP
+        (NP (NN example))
+        (PP (IN in)
+          (NP (NN romagna)))
+        (, ,)
+        (PP (IN near)
+          (NP (NN bologna)))))
+    (, ,)
+    (NP (PRP they))
+    (VP (VBP make)
+      (SBAR
+        (S
+          (NP (DT a) (NN flatbread))
+          (VP (VBD called)
+            (NP (NN piadina))))))
+    (. .)))
+

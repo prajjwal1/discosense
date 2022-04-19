@@ -1,0 +1,19 @@
+(ROOT
+  (S
+    (VP (VBZ laughs)
+      (CC and)
+      (VBZ looks)
+      (PP (IN at)
+        (NP (DT the) (CD 7) (NN series))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (SBAR (IN although)
+      (S
+        (NP (FW i))
+        (VP (VBP do)
+          (PP (IN like)
+            (NP (DT the) (NN m) (CD 5))))))
+    (. .)))
+

@@ -1,0 +1,49 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNS cmos))
+      (, ,)
+      (SBAR (IN if)
+        (S
+          (NP (DT a) (JJ rifled) (NN tube))
+          (VP (VBZ is)
+            (VP (VBN made)
+              (PP (IN for)
+                (NP (DT that)))))))
+      (, ,))
+    (VP (VBP try)
+      (NP (DT that) (JJ first)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB otherwise))
+      (ADVP (RB usually))
+      (NP (DT an) (JJ open) (NN choke))
+      (VP (VBZ works)
+        (NP
+          (NP (JJS best))
+          (PP (IN for)
+            (NP (NNS slugs))))))
+    (, ,)
+    (NP (NN tho) (NNS i))
+    (VP (VBP recall)
+      (NP
+        (NP (DT an)
+          (ADJP (JJ old)
+            (NP (CD 16)))
+          (NN ga) (CD 97) (NN winchester))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBD had)
+              (NP
+                (NP (DT a) (JJ full) (NN choke))
+                (CC and)
+                (NP
+                  (NP (DT a) (JJ long) (NN string))
+                  (PP (IN of)
+                    (NP (NNS successes))))))))))
+    (. .)))
+

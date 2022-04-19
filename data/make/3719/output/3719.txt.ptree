@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (NNS goals))
+      (PP (IN of)
+        (NP (NNS feminists))))
+    (VP (VBD were)
+      (ADVP (RB largely))
+      (VP (VBN carried)
+        (PRT (RP out))
+        (PP (IN in)
+          (NP (NN university) (NNS classrooms)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP
+      (ADVP (RB specifically))
+      (IN in)
+      (NP (DT the) (NN composition) (NN classroom)))
+    (, ,)
+    (NP (JJ faye) (NN spencer) (NN moar))
+    (VP (VBD claimed)
+      (SBAR (IN that)
+        (S
+          (NP (DT the) (NN way) (NN writing))
+          (VP (VBD was)
+            (VP (VBN taught)
+              (NP
+                (ADJP (RB largely) (JJ favored))
+                (JJ male) (NNS writers)))))))
+    (. .)))
+

@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (NP (PRP it))
+    (VP (VBD was)
+      (ADVP (RB here))
+      (SBAR (IN that)
+        (S
+          (NP (NN gul))
+          (VP (VBD made)
+            (NP (DT a) (NN mark))
+            (, ,)
+            (S
+              (VP
+                (VP (VBG steaming)
+                  (PRT (RP in)))
+                (CC and)
+                (VP (VBG bowling)
+                  (ADVP (RB accurately))
+                  (PP (IN on)
+                    (NP
+                      (NP (DT the) (JJ flat) (NNS decks))
+                      (PP (IN under)
+                        (NP (NN testing) (NNS conditions))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nevertheless))
+    (NP (PRP he))
+    (VP (VBD had)
+      (ADVP (RB little))
+      (S
+        (VP (TO to)
+          (VP (VB show)
+            (PP (IN for)
+              (PP (IN in)
+                (NP (DT the) (JJ wickets) (NN column))))))))
+    (. .)))
+

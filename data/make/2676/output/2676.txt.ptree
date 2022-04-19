@@ -1,0 +1,20 @@
+(ROOT
+  (S
+    (NP (NN emily))
+    (VP (VBD picked)
+      (PRT (RP up))
+      (NP (PRP$ her) (JJ sparkly) (NNS pumps))
+      (PP (IN at)
+        (NP (DT the) (JJ tory) (NN burch) (NN boutique)))
+      (PP (IN in)
+        (NP (DT the) (NN galleria))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB overall))
+    (NP (PRP it))
+    (VP (VBD was)
+      (NP (DT an) (JJ inventive) (NN look)))
+    (. .)))
+

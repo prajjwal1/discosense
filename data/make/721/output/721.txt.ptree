@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (SBAR (IN if)
+      (S
+        (NP (DT the) (NN challenge))
+        (VP (VBZ is)
+          (VP (VBN rejected)))))
+    (, ,)
+    (NP (DT the) (NN tribunal))
+    (VP (MD shall)
+      (VP
+        (VP (VB continue)
+          (PP (IN with)
+            (NP (DT the) (JJ arbitral) (NNS proceedings))))
+        (CC and)
+        (VP (VB make)
+          (NP (DT an) (NN award)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (RB hence) (NN approach))
+      (PP (TO to)
+        (NP (DT a) (NN court))))
+    (VP (VBZ is)
+      (ADVP (RB only))
+      (PP (IN at)
+        (NP (DT the) (NN post) (NN award) (NN stage))))
+    (. .)))
+

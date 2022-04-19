@@ -1,0 +1,2 @@
+conn:likewise conn_POS:RB sent_pos:0 NA
+conn:also conn_POS:RB prev1:assemblies prev1_POS:NNS with_prev1_full:assemblies_also with_prev1_POS_full:NNS_RB prev2:fin prev2_POS:NN with_prev2_full:fin_also with_prev2_POS_full:NN_RB NA

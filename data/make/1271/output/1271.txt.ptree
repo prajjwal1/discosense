@@ -1,0 +1,24 @@
+(ROOT
+  (S
+    (ADVP (RB generally))
+    (, ,)
+    (NP (DT the) (NN income) (NN tax) (NN department))
+    (VP (VBZ issues)
+      (NP
+        (NP (DT the) (NN registration))
+        (PP (IN for)
+          (NP (DT a) (JJ limited) (NN period))))
+      (ADVP (RB only)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thereafter))
+    (NP (DT the) (NN registration))
+    (VP (VBZ has)
+      (S
+        (VP (TO to)
+          (VP (VB be)
+            (VP (VBN renewed))))))
+    (. .)))
+

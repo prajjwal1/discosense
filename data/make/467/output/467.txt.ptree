@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (NP (DT this) (NN method))
+    (VP (VBZ is)
+      (ADJP (RB very) (JJ efficient)
+        (PP (IN in)
+          (S
+            (VP (VBG identifying)
+              (NP (DT the) (NN adversary)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nevertheless))
+    (NP (PRP it))
+    (VP (VBZ does) (RB not)
+      (VP (VB provide)
+        (NP (JJ effective) (NNS countermeasures))
+        (PP (IN against)
+          (NP (NN jamming)))))
+    (. .)))
+

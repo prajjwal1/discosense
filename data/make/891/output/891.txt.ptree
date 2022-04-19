@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (NP (PRP$ his) (NN frame))
+    (VP (VBZ is)
+      (ADJP (JJ ok) (, ,)
+        (CC but)
+        (JJ hes))
+      (S
+        (ADVP (RB never))
+        (VP (VBG going)
+          (S
+            (VP (TO to)
+              (VP (VB be)
+                (NP
+                  (NP (DT the) (NN type))
+                  (PP (IN of)
+                    (NP (JJ big) (NN guy)))
+                  (SBAR
+                    (WHNP (WP who))
+                    (S
+                      (VP (MD will)
+                        (VP (VB lower)
+                          (NP (DT a) (NN shoulder))
+                          (PP (IN on)
+                            (NP (PRP$ his) (NN defender))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB because) (IN of)
+      (NP (DT that)))
+    (NP (PRP he))
+    (VP (VBZ spends)
+      (NP
+        (NP (DT a) (NN lot))
+        (PP (IN of)
+          (NP (NN time))))
+      (PP (IN on)
+        (NP (DT the) (NN perimeter))))
+    (. .)))
+

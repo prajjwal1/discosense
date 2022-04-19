@@ -1,0 +1,51 @@
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB when))
+      (S
+        (NP (PRP you))
+        (VP (VBP play)
+          (NP (DT a) (NN rule) (NN card)))))
+    (, ,)
+    (NP
+      (NP (DT the) (NN rule))
+      (PP (IN on)
+        (NP (DT that) (NN card))))
+    (VP (VBZ becomes)
+      (NP
+        (NP (NN part))
+        (PP (IN of)
+          (NP (DT the) (NN game)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP (NN example)))
+    (NP (PRP you))
+    (VP (MD might)
+      (VP (VB play)
+        (NP
+          (NP (DT a) (NN draw) (NN card))
+          (, ,)
+          (SBAR
+            (WHPP (IN at)
+              (WHNP (WDT which) (NN point)))
+            (S
+              (NP (DT the) (NN rule))
+              (VP (VBZ is)
+                (ADVP (RB now))
+                (S
+                  (VP (TO to)
+                    (VP (VB draw)
+                      (NP
+                        (NP (CD three) (NNS cards))
+                        (PP (RB instead) (IN of)
+                          (NP (CD one))))
+                      (PP (IN at)
+                        (NP
+                          (NP (DT the) (NN beginning))
+                          (PP (IN of)
+                            (NP (PRP$ your) (NN turn))))))))))))))
+    (. .)))
+

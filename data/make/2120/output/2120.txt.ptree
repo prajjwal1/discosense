@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (NP (DT this))
+    (VP (VBZ means)
+      (SBAR
+        (S
+          (NP (JJS most) (NNS traps))
+          (VP (MD will)
+            (ADVP (RB automatically))
+            (VP (VB overcome)
+              (NP (DT a) (NNS creatures) (NN damage) (NN reduction)))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADVP (RB therefore))
+    (SBAR (IN unless)
+      (S
+        (NP
+          (NP
+            (NP (DT the) (NNS traps))
+            (NP (DT an) (JJ actual) (NN weapon)))
+          (CC or)
+          (NP
+            (NP (JJ natural) (NN attack))
+            (, ,)
+            (NP (NN dr) (NN doesnt))))
+        (VP (VBP apply))))
+    (. .)))
+

@@ -1,0 +1,55 @@
+(ROOT
+  (S
+    (ADVP (RB also))
+    (, ,)
+    (NP (DT a) (NN lock) (NN manager))
+    (VP (MD may)
+      (VP
+        (VP (VB maintain)
+          (NP (JJ direct) (NNS pointers))
+          (PP (TO to)
+            (NP
+              (ADJP
+                (ADVP (RB frequently))
+                (VBN used))
+              (JJ shared) (NN lock) (NNS states))))
+        (, ,)
+        (CC and)
+        (VP (VB omit)
+          (NP (JJ such) (NNS states))
+          (PP (IN from)
+            (NP (DT the) (NNS tsls))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP
+        (NP (NN instance))
+        (VP (VBN shared)
+          (S
+            (VP
+              (VP (VB lock)
+                (NP
+                  (NP (NNS states))
+                  (VP (VBG representing)
+                    (NP
+                      (NP (NNS locks))
+                      (VP (VBN owned)
+                        (PP (IN in)
+                          (NP (NN read))))))))
+              (, ,)
+              (CC or)
+              (VP (VB write)))))))
+    (, ,)
+    (NP
+      (NP (NN mode))
+      (PP (IN by)
+        (NP (DT a) (JJ single) (NN owner))))
+    (VP (MD may)
+      (VP (VB be)
+        (VP (VBN omitted)
+          (PP (IN from)
+            (NP (DT the) (NNS tsls))))))
+    (. .)))
+

@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (NP (NN stilicho))
+    (VP
+      (VP (VBD exercised)
+        (NP (NN moderation))
+        (PP (IN in)
+          (NP (PRP$ his) (JJ religious) (NNS policies))))
+      (CC and)
+      (VP (VBN enacted)
+        (NP
+          (NP (NNS laws))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBD were)
+                (ADJP (JJ favorable)
+                  (PP (TO to)
+                    (NP (DT the) (NNS pagans))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP
+      (ADVP (RB consequently))
+      (IN during)
+      (NP
+        (NP (DT the) (NN time))
+        (SBAR
+          (WHPP (IN in)
+            (WHNP (WDT which)))
+          (S
+            (NP (NN stilicho))
+            (VP (VBD held)
+              (NP (NN power)))))))
+    (, ,)
+    (NP (DT the) (NNS pagans))
+    (VP (VBD enjoyed)
+      (NP (DT a) (JJ brief) (NN respite))
+      (PP (IN from)
+        (NP (NN persecution))))
+    (. .)))
+

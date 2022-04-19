@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (NP (FW i))
+    (VP (VBP am)
+      (ADJP
+        (ADJP (RB truly) (JJ honoured))
+        (CC and)
+        (ADJP
+          (NP (DT a) (RB bit))
+          (JJ daunted)))
+      (PP (IN at)
+        (NP (JJ first))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nevertheless))
+    (NP (FW i))
+    (VP (VBP try)
+      (NP (PRP$ my) (JJS best))
+      (S
+        (VP (TO to)
+          (VP (VB share)
+            (SBAR
+              (WHNP (WP what))
+              (S
+                (NP (FW i))
+                (VP (VBP know))))))))
+    (. .)))
+

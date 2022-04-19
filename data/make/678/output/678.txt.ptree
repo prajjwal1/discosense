@@ -1,0 +1,65 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (PRP her)))
+    (, ,)
+    (NP (NN jonze))
+    (VP (VBD knew)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (DT the) (JJS best) (NN way))
+            (SBAR
+              (S
+                (VP (TO to)
+                  (VP (VB sell)
+                    (NP (PRP$ his) (NN surface) (NN level) (JJ ludicrous) (NN premise)))))))
+          (VP (VBD was)
+            (S
+              (VP (TO to)
+                (VP
+                  (VP (VB undersell)
+                    (NP (PRP it)))
+                  (CC and)
+                  (VP (VB play)
+                    (NP (NN everything))
+                    (PP (IN as)
+                      (NP
+                        (NP (NN subtly))
+                        (ADJP (RB as) (JJ possible))))))))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (PP (RB because) (IN of)
+      (NP
+        (NP (DT that)
+          (ADJP (JJ hers) (JJS greatest))
+          (NN strength))
+        (SBAR
+          (S
+            (VP (VBZ is)
+              (NP (PRP$ its))
+              (ADVP (RB fully)))))))
+    (VP (VBD lived)
+      (PP (IN in))
+      (, ,)
+      (ADVP (RB easily)))
+    (NP
+      (NP (JJ acceptable) (NN world))
+      (, ,)
+      (NP
+        (NP (DT a) (VBN heightened) (NN universe))
+        (SBAR
+          (WHADVP (WRB where))
+          (S
+            (NP
+              (NP (DT all))
+              (PP (IN of)
+                (NP (DT the) (JJ next) (NN level) (NNS ideologies))))
+            (VP (VBP feel)
+              (ADJP (JJ organic)
+                (CC and)
+                (JJ realistic)))))))
+    (. .)))
+

@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (NP
+      (ADJP (JJ shoplocal)
+        (CC and)
+        (JJ wanderful))
+      (NNS media))
+    (VP (VBP have)
+      (VP (VBN played)
+        (NP (DT a) (JJ key) (NN role))
+        (ADVP (RB here))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB similarly))
+    (NP
+      (NP (NN paper) (NN g))
+      (CC and)
+      (NP (PRP$ its) (NN flyer) (NN board)))
+    (VP (VBD pushed)
+      (NP (DT the) (NN envelope))
+      (PP (IN in)
+        (S
+          (VP (VBG working)
+            (ADVP (RB broadly))
+            (PP (IN with)
+              (NP (JJ local) (NNS advertisers)))
+            (S
+              (VP (TO to)
+                (VP
+                  (ADVP (RB automatically))
+                  (VB create)
+                  (NP (JJ new) (JJ online) (NN ad) (NNS formats)))))))))
+    (. .)))
+

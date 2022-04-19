@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (NP (PRP he))
+    (VP (VBZ argues)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (DT the) (NNS manifestations))
+            (PP (IN of)
+              (NP
+                (NP (NN intelligence))
+                (PP (JJ such) (IN as)
+                  (NP (NN language) (, ,) (NN music)
+                    (CC and)
+                    (NN art))))))
+          (VP (VBD did) (RB not)
+            (VP (VB evolve)
+              (PP (RB because) (IN of)
+                (NP (PRP$ their) (JJ utilitarian) (NN value)))
+              (PP (TO to)
+                (NP
+                  (NP (DT the) (NN survival))
+                  (PP (IN of)
+                    (NP (JJ ancient) (NNS hominids))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB rather))
+    (NP (NN intelligence))
+    (VP (MD may)
+      (VP (VB have)
+        (VP (VBN been)
+          (NP (DT a) (NN fitness) (NN indicator)))))
+    (. .)))
+

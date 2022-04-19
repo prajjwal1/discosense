@@ -1,0 +1,37 @@
+(ROOT
+  (NP
+    (NP (RB not) (RB really))
+    (, ,)
+    (VP (VBN given)
+      (SBAR
+        (WHNP
+          (WHNP (WRB how) (RB much))
+          (PP (IN of)
+            (NP (DT a) (NN labyrinth))))
+        (S
+          (NP (PRP it))
+          (ADVP (RB already))
+          (VP (VBZ is)
+            (PP (IN for)
+              (NP (NNS games)))
+            (ADVP (RB alone))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN on)
+      (NP (DT the) (JJ other) (NN hand)))
+    (NP (PRP$ my) (JJ intrinsic) (NN inertia))
+    (VP (VBZ makes)
+      (NP
+        (NP (DT the) (NN idea))
+        (PP (IN of)
+          (NP (NN everything))))
+      (PP (IN under)
+        (S
+          (ADVP
+            (NP (CD one) (NN icon))
+            (RB vaguely))
+          (VP (VBG appealing)))))
+    (. .)))
+

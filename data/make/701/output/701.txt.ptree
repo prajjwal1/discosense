@@ -1,0 +1,68 @@
+(ROOT
+  (S
+    (INTJ (UH yes))
+    (, ,)
+    (NP
+      (NP (NN ive))
+      (VP
+        (VP (VBN been)
+          (PP (IN on)
+            (NP (DT a) (JJ serious) (JJ noir) (NN kick)))
+          (PP (IN for)
+            (NP (DT the) (JJ last) (JJ few) (NNS years))))
+        (CC and)
+        (VP (, ,)
+          (SBAR (IN once)
+            (S
+              (ADVP (RB again))
+              (, ,)
+              (NP (PRP it))
+              (VP (VBZ has)
+                (NP (NN nothing)
+                  (S
+                    (VP (TO to)
+                      (VP (VB do)
+                        (PP (IN with)
+                          (NP (DT a) (JJ certain) (NN wine) (NN movie)))))))))))))
+    (VP (VBP ive)
+      (ADVP (RB yet))
+      (S
+        (VP (TO to)
+          (VP (VB watch)))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN although) (IN if)
+      (S
+        (NP (DT that))
+        (VP (VBD had)
+          (NP (NN anything)
+            (S
+              (VP (TO to)
+                (VP (VB do)
+                  (PP (IN with)
+                    (NP (JJ pinot) (NNS noirs)))
+                  (S
+                    (VP (VBG being)
+                      (ADJP (JJR easier)
+                        (S
+                          (VP (TO to)
+                            (VP (VB find))))))))))))))
+    (, ,)
+    (ADVP (RB then))
+    (, ,)
+    (S
+      (ADJP (JJ okay)))
+    (, ,)
+    (ADVP (RB maybe))
+    (NP (PRP it))
+    (VP (VBZ has)
+      (NP (DT a) (JJ little) (NN something)
+        (S
+          (VP (TO to)
+            (VP (VB do)
+              (PP (IN with)
+                (NP (PRP it))))))))
+    (. .)))
+

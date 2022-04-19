@@ -1,0 +1,2 @@
+conn:ultimately conn_POS:RB sent_pos:1 prev1:i prev1_POS:FW with_prev1_full:i_ultimately with_prev1_POS_full:FW_RB NA
+conn:if..then conn_POS:IN_RB NA

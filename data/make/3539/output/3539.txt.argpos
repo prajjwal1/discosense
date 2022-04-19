@@ -1,0 +1,2 @@
+conn:also conn_POS:RB prev1:may prev1_POS:MD with_prev1_full:may_also with_prev1_POS_full:MD_RB prev2:newspapers prev2_POS:NNS with_prev2_full:newspapers_also with_prev2_POS_full:NNS_RB NA
+conn:likewise conn_POS:RB sent_pos:0 NA

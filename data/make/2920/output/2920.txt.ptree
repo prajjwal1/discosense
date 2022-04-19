@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (SBAR (IN if)
+      (S
+        (NP (PRP you))
+        (VP (VBP dont)
+          (VP (VB have)
+            (NP (DT an) (NN enemy))))))
+    (, ,)
+    (NP (PRP you))
+    (VP (MD should)
+      (VP
+        (VP (VB find)
+          (NP (CD one)))
+        (CC or)
+        (VP (VB make)
+          (NP (CD one)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB otherwise))
+    (NP (PRP$ your) (NN society))
+    (VP (VBZ becomes)
+      (ADJP (RB very) (JJ loose)))
+    (. .)))
+

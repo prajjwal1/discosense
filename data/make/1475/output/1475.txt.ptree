@@ -1,0 +1,24 @@
+(ROOT
+  (S
+    (NP (NNS shes))
+    (VP (VBZ entertaining)
+      (NP (PRP herself)))
+    (. .)))
+
+(ROOT
+  (S (CC but)
+    (PP
+      (NP (PRP$ its) (RB not))
+      (IN like)
+      (NP (DT the) (NNS books)))
+    (NP (PRP$ my) (NN father)
+      (CC and)
+      (NN mother))
+    (VP (VBD used)
+      (S
+        (VP (TO to)
+          (VP (VB read)
+            (PP (TO to)
+              (NP (PRP me)))))))
+    (. .)))
+

@@ -1,0 +1,1 @@
+an environmental module allows the patient, a clinician, or the patients family members and or friends to control the environmental conditions of the patients room. for instance the environmental module enables the patient to adjust the lighting setting in the room.

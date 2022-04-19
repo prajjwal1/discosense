@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNS sales))
+      (PP (IN in)
+        (NP (NN north) (NN american) (NN companion) (NN animal))))
+    (VP (VBD were)
+      (ADVP (RB up)
+        (NP (CD 9) (NN %)))
+      (PP (IN on)
+        (NP
+          (NP (DT the) (NN strength))
+          (PP (IN of)
+            (NP
+              (NP (PRP$ our) (NNS brands))
+              (CC and)
+              (NP (JJ extensive) (NN product) (NNS offerings)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB however))
+    (NP (PRP we))
+    (VP (VBD saw)
+      (NP
+        (NP (DT a)
+          (ADJP (CD 2) (NN %))
+          (NN decline))
+        (PP (IN in)
+          (NP (NN north) (NN american) (NNS aquatics)))))
+    (. .)))
+

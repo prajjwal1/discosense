@@ -1,0 +1,21 @@
+(ROOT
+  (S
+    (NP (NN marianne))
+    (VP (VBZ denies)
+      (SBAR (IN that)
+        (S
+          (NP (PRP she))
+          (VP (VBD acted)
+            (ADVP (RB recklessly))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nonetheless))
+    (NP (NN elinor))
+    (VP (VBZ is)
+      (VP (VBN concerned)
+        (PP (IN about)
+          (NP (PRP$ her) (NNS sisters) (NN reputation)))))
+    (. .)))
+

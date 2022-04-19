@@ -1,0 +1,4 @@
+0..5 0 since 308.txt 0
+81..90 1 otherwise 308.txt 0
+91..93 1 if 308.txt 0
+158..161 1 and 308.txt 0

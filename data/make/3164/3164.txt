@@ -1,0 +1,1 @@
+hence, the conditional branch instructions implement functionality that efficiently perform operations that may be used in a variety of applications including computer generated graphics design. in particular a clipping operation may be accelerated with the foregoing branch instructions.

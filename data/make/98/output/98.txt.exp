@@ -1,0 +1,2 @@
+conn_lc:if conn:if conn_POS:IN with_prev_full:even_if xxx£
+conn_lc:for_instance conn:for_instance conn_POS:IN_NN xxx£

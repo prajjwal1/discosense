@@ -1,0 +1,51 @@
+(ROOT
+  (SINV
+    (ADJP (JJ ford))
+    (VP (VBZ reminds)
+      (NP (PRP us))
+      (SBAR (IN that)
+        (S
+          (NP (PRP we))
+          (ADVP (RB also))
+          (VP (VBP need)
+            (S
+              (VP (TO to)
+                (VP (VB remember)
+                  (NP
+                    (NP (NNS acts))
+                    (PP (IN of)
+                      (NP (NN horror)))))))))))
+    (NP
+      (NP (DT the) (NN holocaust))
+      (, ,)
+      (NP (NN rwanda)
+        (S
+          (VP (TO to)
+            (VP (VB prevent)
+              (NP (NNS atrocities))
+              (PP (IN from)
+                (S
+                  (VP (VBG happening)
+                    (ADVP (RB again))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP
+        (NP (JJ other) (NNS words))
+        (ADVP (RB sometimes))))
+    (NP (PRP we))
+    (VP (VBP have)
+      (S
+        (VP (TO to)
+          (VP (VB remember)
+            (NP (DT the) (NN offense)))))
+      (, ,)
+      (SBAR (RB even) (IN as)
+        (S
+          (NP (PRP we))
+          (VP (VB forgive)
+            (NP (DT the) (NNS offenders))))))
+    (. .)))
+

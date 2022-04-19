@@ -1,0 +1,2 @@
+conn:therefore conn_POS:RB sent_pos:0 NA
+conn:if conn_POS:IN prev1:, prev1_POS:, with_prev1_full:,_if with_prev1_POS_full:,_IN prev2:disgrace prev2_POS:NN with_prev2_full:disgrace_if with_prev2_POS_full:NN_IN NA

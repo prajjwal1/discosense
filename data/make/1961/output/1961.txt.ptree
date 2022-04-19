@@ -1,0 +1,38 @@
+(ROOT
+  (S
+    (NP (JJ rafas) (NN torso))
+    (ADVP (RB pretty) (RB much))
+    (VP (VBZ ends)
+      (PRT (RP up))
+      (S
+        (VP (VBG facing)
+          (NP (DT the) (NN net))
+          (PP (IN at)
+            (NP
+              (NP (DT the) (NN completion))
+              (PP (IN of)
+                (NP (PRP$ his) (NN rodeo) (NN finish))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN contrast)))
+    (NP (DT this) (NN video))
+    (VP (VBZ shows)
+      (NP
+        (NP (CD one))
+        (PP (IN of)
+          (NP
+            (NP (PRP$ his) (JJR more) (JJ conventional) (NNS finishes))
+            (PP (IN on)
+              (NP
+                (NP (DT a) (JJ high) (NN ball))
+                (SBAR
+                  (WHNP (WDT that))
+                  (S
+                    (VP (VBZ goes)
+                      (PP (IN across)
+                        (NP (PRP$ his) (NN chest))))))))))))
+    (. .)))
+

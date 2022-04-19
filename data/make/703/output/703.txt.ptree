@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (NP (PRP$ our) (NN instruction))
+    (VP (VBZ is)
+      (ADJP (RB largely) (JJ individual)))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB because) (IN of)
+      (NP (DT this) (NN fact)))
+    (NP (PRP$ our) (NNS students))
+    (VP (VBP are)
+      (ADJP (JJ able)
+        (S
+          (VP (TO to)
+            (VP (VB make)
+              (NP
+                (ADJP (RB much) (JJR better))
+                (NN progress))
+              (PP (IN than)
+                (NP
+                  (NP (NNS students))
+                  (PP (IN in)
+                    (NP (JJ large) (NNS schools)))))
+              (, ,)
+              (SBAR
+                (WHADVP (WRB where))
+                (S
+                  (NP (DT the) (NNS teachers))
+                  (VP (VBP have)
+                    (NP
+                      (NP (JJ insufficient) (NN time))
+                      (PP (IN for)
+                        (NP (JJ individual) (NN instruction))))))))))))
+    (. .)))
+

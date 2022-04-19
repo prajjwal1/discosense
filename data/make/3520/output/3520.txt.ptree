@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (PP (IN at)
+      (NP (DT a) (NN press) (NN conference)))
+    (, ,)
+    (NP (NN heitzler))
+    (VP (VBD did) (RB not)
+      (VP (VB blame)
+        (NP (DT the) (NN track))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB rather))
+    (NP (PRP he))
+    (VP (VBD stressed)
+      (SBAR (IN that)
+        (S
+          (NP (NNS officials))
+          (VP (MD could)
+            (ADVP (RB not)
+              (PP (IN in)
+                (NP (JJ good) (NN conscience))))
+            (VP (VB allow)
+              (NP (DT a) (NN race))
+              (PP (IN with)
+                (NP
+                  (NP (JJ such) (JJ serious) (NNS concerns))
+                  (PP (IN about)
+                    (NP
+                      (NP (DT the) (NN safety))
+                      (PP (IN of)
+                        (NP (DT the) (NNS drivers))))))))))))
+    (. .)))
+

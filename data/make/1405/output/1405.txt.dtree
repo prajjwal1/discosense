@@ -1,0 +1,13 @@
+nsubj(thought-2, i-1)
+root(ROOT-0, thought-2)
+nsubj(delicious-5, it-3)
+cop(delicious-5, was-4)
+ccomp(thought-2, delicious-5)
+
+amod(i-2, overall-1)
+nsubjpass(impressed-5, i-2)
+auxpass(impressed-5, was-3)
+advmod(impressed-5, really-4)
+root(ROOT-0, impressed-5)
+agent(impressed-5, yuba-7)
+

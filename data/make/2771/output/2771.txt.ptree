@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (VP (VB modify)
+      (NP
+        (NP (DT the) (NN path))
+        (VP (VBN set)
+          (PP (IN by)
+            (NP (DT the) (JJ aforementioned) (NN variable)))
+          (PP (TO to)
+            (NP
+              (NP (DT the) (NN folder))
+              (VP (VBG containing)
+                (NP (PRP$ your) (NNS images))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP
+        (NP (NN example))
+        (PP (IN in)
+          (NP
+            (NP (DT the) (NN version))
+            (PP (IN of)
+              (NP
+                (NP (DT the) (NN code))
+                (PP (IN in)
+                  (NP (DT the) (NN tutorial)))))))))
+    (, ,)
+    (NP (DT the) (NNS images))
+    (VP (VBP are)
+      (VP (VBN stored)
+        (PP (IN in)
+          (NP (DT the) (NN animation) (NN folder)))))
+    (. .)))
+

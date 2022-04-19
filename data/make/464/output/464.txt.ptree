@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (NP (PRP he))
+    (VP (MD will) (RB then)
+      (VP (VB spend)
+        (NP
+          (NP (DT the) (JJ next) (NN couple))
+          (PP (IN of)
+            (NP
+              (NP (NNS weeks))
+              (VP (VBG working)
+                (PP (IN from)
+                  (NP
+                    (NP (NN home))
+                    (PP (IN at)
+                      (NP (DT the) (NNS governors) (NN residence)))))
+                (SBAR (IN as)
+                  (S
+                    (NP (PRP he))
+                    (VP (VBZ recuperates))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (ADVP (RB as)
+        (NP (DT a) (NN result)))
+      (NP (JJ public) (NNS events))
+      (SBAR
+        (WHNP (WDT that))
+        (S
+          (VP (VBD had)
+            (VP (VBN been)
+              (VP (VBN planned)
+                (PP (IN for)
+                  (NP (JJ early) (NN january)))))))))
+    (VP (VBP are)
+      (VP (VBG being)
+        (VP (VBN rescheduled))))
+    (. .)))
+

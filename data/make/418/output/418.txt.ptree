@@ -1,0 +1,24 @@
+(ROOT
+  (S
+    (ADVP (RB hence))
+    (, ,)
+    (NP
+      (NP (JJ many) (JJ teenage) (NNS parents))
+      (, ,)
+      (ADVP (RB particularly))
+      (NP (NNS mothers)))
+    (ADVP (RB hardly))
+    (VP (VBP optimise)
+      (NP (PRP$ their) (NN capacity))
+      (PP (IN for)
+        (NP (JJ exceptional) (NNS achievements))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB likewise))
+    (NP (PRP$ their) (JJ childrens) (NN growth))
+    (VP (VBZ is)
+      (ADJP (RB often) (JJ retarded)))
+    (. .)))
+

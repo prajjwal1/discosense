@@ -1,0 +1,2 @@
+conn:in_other_words conn_POS:IN_JJ_NNS sent_pos:0 NA
+conn:before conn_POS:IN prev1:premises prev1_POS:NNS with_prev1_full:premises_before with_prev1_POS_full:NNS_IN prev2:your prev2_POS:PRP$ with_prev2_full:your_before with_prev2_POS_full:PRP$_IN NA

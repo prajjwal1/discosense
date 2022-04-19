@@ -1,0 +1,23 @@
+(ROOT
+  (S
+    (NP
+      (NP (JJR less) (NN stock))
+      (PP (IN than)
+        (NP
+          (NP (NNP dabs))
+          (PP (CC but)
+            (NP (PRP$ their) (NNS prices))))))
+    (VP (VBP are)
+      (ADJP (JJ good)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB specifically))
+    (NP (NN theyve))
+    (VP (VBD got)
+      (NP (DT the) (JJS best) (NNS prices))
+      (PP (IN on)
+        (NP (NN athlon) (NN xps))))
+    (. .)))
+

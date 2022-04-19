@@ -1,0 +1,52 @@
+(ROOT
+  (S
+    (NP (DT an) (JJ unlikely) (NN employer))
+    (ADVP (RB recently))
+    (VP (VBD found)
+      (PRT (RP out))
+      (SBAR (IN that)
+        (S
+          (S
+            (VP
+              (VP (VBG discharging))
+              (CC or)
+              (ADVP (RB otherwise))
+              (VP (VBG disciplining)
+                (NP (DT an) (NN employee))
+                (PP (IN for)
+                  (S
+                    (VP (VBG complying)
+                      (PP (IN with)
+                        (NP (NN jury) (NN duty)))))))))
+          (VP
+            (VP (VBZ is) (RB not)
+              (NP (RB only) (JJ bad) (NN publicity)))
+            (CC but)
+            (VP
+              (ADVP (RB also))
+              (VBZ violates)
+              (NP (NN michigan) (NN law)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB specifically))
+    (NP (DT the) (JJ detroit) (JJ free) (NN press))
+    (VP (VBD reported)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (DT a) (NN law) (NN firm) (NN employee))
+            (VP (VBN called)
+              (PP (IN for)
+                (NP
+                  (NP (NN jury) (NN duty))
+                  (PP (IN in)
+                    (NP (DT a) (NN murder) (NN case)))))
+              (PP (VBG pending)
+                (PP (IN in)
+                  (NP (NN macomb) (NN county))))))
+          (VP (VBP continue)
+            (NP (NN reading))))))
+    (. .)))
+

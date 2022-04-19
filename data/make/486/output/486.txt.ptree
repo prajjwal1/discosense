@@ -1,0 +1,47 @@
+(ROOT
+  (S
+    (INTJ (UH yes))
+    (, ,)
+    (NP (DT this) (NN love))
+    (VP (VBZ is)
+      (ADJP (JJ genuine) (, ,) (RB not) (JJ ersatz))
+      (, ,)
+      (SBAR (RB even) (IN if)
+        (S
+          (NP (DT the) (NN situation))
+          (VP (VBZ is)
+            (NP (NN substitute))))))
+    (. .)))
+
+(ROOT
+  (S (CC but)
+    (SBAR
+      (WHNP (WP what))
+      (S
+        (NP (DT a) (NNS parents))
+        (VP (VBP fail)
+          (S
+            (VP (TO to)
+              (VP (VB realize)))))))
+    (VP (VBZ is)
+      (SBAR (IN that)
+        (S
+          (NP (PRP$ its))
+          (ADJP (JJR more)
+            (PP (IN about)
+              (SBAR
+                (WHNP (WP what))
+                (S
+                  (NP (NNS children))
+                  (VP (VBP receive)
+                    (SBAR
+                      (WHADVP (WRB when))
+                      (S
+                        (NP (PRP they))
+                        (VP (VBP receive)
+                          (NP
+                            (NP (DT the) (NN love))
+                            (PP (IN of)
+                              (NP (PRP$ their) (JJ biological) (NNS parents)))))))))))))))
+    (. .)))
+

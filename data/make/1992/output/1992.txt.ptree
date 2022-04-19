@@ -1,0 +1,35 @@
+(ROOT
+  (S (IN so)
+    (NP (PRP it))
+    (VP (MD may)
+      (VP (VB come)
+        (PP (IN as)
+          (NP
+            (NP (DT a) (NN surprise))
+            (PP (TO to)
+              (NP
+                (NP (DT some))
+                (PP (IN of)
+                  (NP (PRP you)))))))
+        (SBAR (IN that)
+          (S
+            (NP (DT this) (NN project))
+            (VP (VBD was)
+              (PP (IN on)
+                (NP (DT the) (NNS needles)))
+              (SBAR
+                (ADVP (RB as) (RB long))
+                (IN as)
+                (S
+                  (NP (PRP it))
+                  (VP (VBD was)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nevertheless))
+    (NP (PRP$ its))
+    (ADVP (RB now))
+    (VP (VBZ complete))
+    (. .)))
+

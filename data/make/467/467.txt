@@ -1,0 +1,1 @@
+this method is very efficient in identifying the adversary. nevertheless it does not provide effective countermeasures against jamming.

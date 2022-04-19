@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (NP (FW i))
+    (VP (VBP do) (RB not)
+      (VP (VB think) (, ,) (VB squib) (, ,)
+        (SBAR (IN that)
+          (S
+            (NP (PRP you))
+            (ADVP (RB ever))
+            (VP (MD will)
+              (VP (VB be)
+                (PP (IN in)
+                  (NP (NN office)))
+                (, ,)
+                (SBAR (IN if) (RB even)
+                  (S
+                    (NP (PRP you))
+                    (VP (VB be)
+                      (VP (VBN appointed)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN on)
+      (NP
+        (NP (DT the) (NN contrary))
+        (NP (PRP$ my) (JJ good) (NN fellow))))
+    (, ,)
+    (NP (PRP$ my) (NN punctuality))
+    (VP (MD should)
+      (VP (VB surprise)
+        (NP (PRP you))))
+    (. .)))
+

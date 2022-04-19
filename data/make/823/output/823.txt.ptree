@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (NP (FW i))
+    (ADVP (RB just))
+    (VP (VBP poke)
+      (NP (DT the) (JJ throttle) (NN instinctively))
+      (ADVP (RB now))
+      (SBAR
+        (WHADVP (WRB whenever))
+        (S
+          (NP (PRP$ its))
+          (VP (VBG having)
+            (NP (DT an) (JJ off) (NN day))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VBG interestingly)
+        (SBAR (IN since)
+          (S
+            (NP (DT the) (NNS missus) (NN car))
+            (VP (VBZ has)
+              (VP (VBN had)
+                (NP
+                  (NP (PRP$ its) (JJR larger) (NN maf))
+                  (CC and)
+                  (NP
+                    (NP (NNS injectors))
+                    (VP (VBN fitted))))))))))
+    (, ,)
+    (NP (PRP$ its))
+    (VP (VBD started)
+      (S
+        (VP (VBG doing)
+          (NP (PRP it))
+          (ADVP (RB as) (RB well)))))
+    (. .)))
+

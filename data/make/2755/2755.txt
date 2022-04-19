@@ -1,0 +1,1 @@
+the at least one pointer may be a stack pointer and a frame pointer. subsequently when a third function written in the first programming language is called, a data block may be stored on the execution stack before a third frame for the third function.

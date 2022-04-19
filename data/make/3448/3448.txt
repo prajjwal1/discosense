@@ -1,0 +1,1 @@
+the random effects model does not necessarily eliminate the problem of heterogeneity. particularly if there is significant proportion of studies that differ in treatment effect and direction combining them could lead to misleading conclusions.

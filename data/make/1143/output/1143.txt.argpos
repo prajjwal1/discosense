@@ -1,0 +1,2 @@
+conn:but conn_POS:CC sent_pos:0 NA
+conn:when conn_POS:WRB prev1:weakened prev1_POS:VBN with_prev1_full:weakened_when with_prev1_POS_full:VBN_WRB prev2:is prev2_POS:VBZ with_prev2_full:is_when with_prev2_POS_full:VBZ_WRB NA

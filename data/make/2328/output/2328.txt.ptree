@@ -1,0 +1,44 @@
+(ROOT
+  (S
+    (NP (DT this))
+    (VP (VBZ is) (RB not)
+      (S
+        (VP (TO to)
+          (VP (VB suggest)
+            (SBAR (IN that)
+              (S
+                (NP
+                  (NP (NNS anxieties))
+                  (PP (IN about)
+                    (NP (NN crime))))
+                (VP (VBD had)
+                  (ADVP (RB never))
+                  (VP (VBN surfaced)
+                    (PP (RB prior)
+                      (PP (TO to)
+                        (NP (DT this) (NN point))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB rather)
+      (PP (IN from)
+        (NP (DT the) (CD 1960s)
+          (CC and)
+          (CD 1970s))))
+    (NP (PRP we))
+    (VP (VBP have)
+      (VP (VBN witnessed)
+        (NP (DT a) (JJ massive) (NN growth))
+        (PP (IN in)
+          (NP
+            (NP (DT the) (NNS efforts))
+            (VP (VBN put)
+              (PP (IN into)
+                (S
+                  (VP (VBG understanding)
+                    (CC and)
+                    (VBG controlling)
+                    (NP (JJ such) (NNS fears))))))))))
+    (. .)))
+

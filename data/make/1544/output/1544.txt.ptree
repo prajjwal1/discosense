@@ -1,0 +1,53 @@
+(ROOT
+  (S
+    (ADVP (RB typically))
+    (NP (DT a) (NN stock))
+    (VP (MD will)
+      (VP (VB run)
+        (ADVP
+          (ADVP (RBR higher))
+          (SBAR
+            (WHADVP (WRB when))
+            (S
+              (NP (PRP$ its))
+              (VP (VBD added)
+                (PP (TO to)
+                  (NP (DT an) (NN index)))
+                (, ,)
+                (SBAR (IN because)
+                  (S
+                    (NP
+                      (NP (PDT all) (DT the) (JJ mutual) (NNS funds))
+                      (VP (VBG tracking)
+                        (NP (DT the) (NN index))))
+                    (VP (VBP have)
+                      (S
+                        (VP (TO to)
+                          (VP (VB buy)
+                            (NP (NNS shares))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (ADVP (RB conversely))
+      (WHADVP (WRB when))
+      (S
+        (NP (PRP$ its))
+        (VP (VBD removed))))
+    (, ,)
+    (NP (DT the) (NN theory))
+    (VP (VBZ is)
+      (SBAR (IN that)
+        (S
+          (NP (PRP it))
+          (VP (MD should)
+            (VP (VB fall)
+              (SBAR (IN since)
+                (S
+                  (NP (DT those) (JJ same) (NNS funds))
+                  (VP (MD will)
+                    (VP (VB be)
+                      (VP (VBG selling)))))))))))
+    (. .)))
+

@@ -1,0 +1,2 @@
+conn:for_instance conn_POS:IN_NN sent_pos:0 NA
+conn:when conn_POS:WRB prev1:profitable prev1_POS:JJ with_prev1_full:profitable_when with_prev1_POS_full:JJ_WRB prev2:quite prev2_POS:RB with_prev2_full:quite_when with_prev2_POS_full:RB_WRB NA

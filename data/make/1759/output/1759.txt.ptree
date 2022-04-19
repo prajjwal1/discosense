@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (S
+      (VP (VBN called)
+        (NP (DT the) (JJ mesolimbic) (NN dopamine) (NN system))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBD evolved)
+      (S
+        (VP (TO to)
+          (VP (VB help)
+            (S
+              (NP (PRP us))
+              (VP (VB pursue)
+                (S
+                  (NP (NNS things))
+                  (ADJP (JJ necessary)
+                    (PP (IN for)
+                      (NP
+                        (NP (NN survival))
+                        (PP (JJ such) (IN as)
+                          (NP (NN food)
+                            (CC or)
+                            (NN sex)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB conversely))
+    (NP (DT the) (JJ brains) (JJ frontal) (NNS lobes) (NN orstopsystem))
+    (VP (VBD evolved)
+      (S
+        (VP (TO to)
+          (VP (VB help)
+            (S
+              (NP (PRP us))
+              (VP (VB weigh)
+                (NP
+                  (NP (DT the) (NNS consequences))
+                  (PP (IN of)
+                    (NP (PRP$ our) (NNS impulses))))))))))
+    (. .)))
+

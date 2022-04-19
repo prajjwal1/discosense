@@ -1,0 +1,38 @@
+(ROOT
+  (S
+    (S
+      (NP (NNS users))
+      (VP (VBP are)
+        (VP (VBG starting)
+          (S
+            (VP (TO to)
+              (VP (VB get)
+                (ADJP (RBR more) (VBN educated))))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP you))
+      (ADVP (RB cant))
+      (VP (VBP make)
+        (SBAR
+          (S
+            (NP (PRP them))
+            (VP (VBP learn))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (PP (IN in)
+      (NP (JJ particular) (NN management)))
+    (VP
+      (ADVP (RB generally))
+      (VBZ pushes)
+      (NP (NN security))
+      (PP (IN onto)
+        (NP (DT the) (NN back))))
+    (NP
+      (NP (NN burner))
+      (, ,)
+      (NP (VBN said) (NN roesch)))
+    (. .)))
+

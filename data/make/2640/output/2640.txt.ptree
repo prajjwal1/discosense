@@ -1,0 +1,44 @@
+(ROOT
+  (S
+    (NP
+      (NP (NN emulsion))
+      (VP (VBN delivered)
+        (PP (TO to)
+          (NP (NNS presses) (CD 130)
+            (CC and)
+            (CD 134)))))
+    (VP (MD may)
+      (VP (VB be)
+        (ADJP (DT the) (JJ same)
+          (CC or)
+          (JJ different))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP
+        (NP (JJ other) (NNS words))
+        (SBAR
+          (S
+            (NP (DT the) (NN emulsion))
+            (VP (VBZ is)
+              (VP (VBN added)
+                (PP (TO to)
+                  (NP (DT the) (VBN linked) (NN gravure)))))))))
+    (NP
+      (NP (NNS presses) (CD 130)
+        (CC and)
+        (CD 134))
+      (PP (IN at)
+        (NP
+          (NP (DT the) (JJ same) (NN rate))
+          (PP (IN as)
+            (NP (DT the) (NN emulsion))))))
+    (VP (VBZ is)
+      (VP (VBG being)
+        (VP (VBN applied)
+          (PP (TO to)
+            (NP (DT the) (NN carrier) (CD 110))))))
+    (. .)))
+

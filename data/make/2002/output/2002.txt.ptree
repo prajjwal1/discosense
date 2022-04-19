@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (S
+      (VP (VBG mores)
+        (NP (DT the) (NN pity) (NNS girls))
+        (PP (IN like)
+          (NP (NNS toys)))
+        (, ,)
+        (ADVP (RB too))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (NN coraline))
+      (VP (VBD demonstrated)
+        (NP
+          (NP (DT the) (NN fertility))
+          (PP (IN of)
+            (NP (JJ female) (NN escape) (NNS fantasies))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB otherwise))
+    (NP (DT the) (NN movie))
+    (VP (VBZ is)
+      (ADVP (RB practically))
+      (NP
+        (NP
+          (NP (DT a) (NN metaphor))
+          (PP (IN for)
+            (NP (NNS pixars))))
+        (CC storytelling)
+        (ADVP (IN down))
+        (, ,)
+        (ADVP (IN down))
+        (, ,)
+        (ADVP (RB down) (RB up))
+        (, ,)
+        (ADVP (IN up))
+        (, ,)
+        (ADVP (IN up))))
+    (. .)))
+

@@ -1,0 +1,60 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (NNS minimums))
+      (PP (IN in)
+        (NP (NN stress)
+          (CC and)
+          (NN temperature)))
+      (, ,)
+      (PP (IN below)
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (NP (NN grain) (NN boundary) (NN motion))
+            (VP (VBZ does) (RB not)
+              (VP (VB occur))))))
+      (, ,))
+    (VP (VBP increase)
+      (ADVP (RB regularly))
+      (PP (IN with)
+        (NP (DT the) (NN copper) (NN content)))
+      (SBAR (IN as)
+        (S
+          (VP (MD would)
+            (VP (VB be)
+              (VP (VBN expected)
+                (SBAR (IN if)
+                  (S
+                    (NP (NN recovery))
+                    (VP (VBZ is)
+                      (ADJP (JJ necessary)
+                        (PP (IN for)
+                          (NP (NN movement)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB otherwise))
+    (NP
+      (NP
+        (NP (DT the) (NNS effects))
+        (PRN (, ,) (IN if) (DT any) (, ,)))
+      (PP (IN of)
+        (NP
+          (NP (DT the) (NN copper) (NN solute))
+          (PP (IN upon)
+            (NP
+              (NP (NN grain) (NN boundary) (NN displacement))
+              (CC and)
+              (NP (PRP$ its) (NN rate)))))))
+    (VP (VBP are)
+      (ADJP (RB too) (JJ small)
+        (PP (IN for)
+          (NP (NN identification))))
+      (PP (IN by)
+        (NP
+          (NP (DT the) (JJ experimental) (NN technique))
+          (VP (VBN employed)))))
+    (. .)))
+

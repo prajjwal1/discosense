@@ -1,0 +1,54 @@
+(ROOT
+  (S
+    (S
+      (NP (DT the) (NNS subsidies))
+      (VP (VBP have)
+        (VP (VBN become)
+          (ADJP (JJ unpopular))
+          (SBAR (IN because)
+            (S
+              (NP
+                (NP (RB much))
+                (PP (IN of)
+                  (NP (DT the) (NN money))))
+              (VP (VBZ is)
+                (VP (VBG going)
+                  (PP (TO to)
+                    (NP
+                      (ADJP (JJ chinese) (, ,) (RB not) (JJ german) (, ,))
+                      (JJ solar) (NNS companies))))))))))
+    (, ,)
+    (NP (PRP she))
+    (VP (VBZ says))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP
+        (NP (JJ short))
+        (PP (IN in)
+          (NP
+            (NP (DT the) (NN midst))
+            (PP (IN of)
+              (NP (DT the) (JJ global) (JJ economic) (NN meltdown)))))))
+    (, ,)
+    (NP (JJ solar) (NN power))
+    (VP (VBZ has)
+      (VP (VBN become)
+        (NP (DT a) (NN luxury))
+        (SBAR (IN that)
+          (S
+            (NP (DT the) (NN spanish)
+              (CC and)
+              (NN german) (NNS governments))
+            (VP (VBP have)
+              (VP (VBN decided)
+                (SBAR
+                  (S
+                    (NP (PRP they))
+                    (VP (MD can)
+                      (ADVP (RB no) (RB longer))
+                      (VP (VB afford)))))))))))
+    (. .)))
+

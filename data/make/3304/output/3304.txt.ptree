@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (NP (PRP he))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (DT a) (NNS womans) (NN profile))
+          (VP (VBZ is)
+            (VP (VBN looked)
+              (PP (IN at)
+                (NP
+                  (QP (CD six) (NNS times) (RBR more)))
+                (ADVP (RB often)))
+              (PP (IN than)
+                (NP (DT a) (NNS mans))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB therefore))
+    (NP (NNS women))
+    (VP (VBP are)
+      (ADJP (RBR more) (JJ susceptible)
+        (S
+          (VP (TO to)
+            (VP (VB become)
+              (NP
+                (NP (DT a) (NN victim))
+                (PP (IN of)
+                  (NP (DT an) (JJ online) (JJ dating) (NN scam)))))))))
+    (. .)))
+

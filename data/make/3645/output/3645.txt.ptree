@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (S
+      (ADVP (RB normally))
+      (NP (DT a) (JJ poor) (NN batsman)))
+    (, ,)
+    (NP (PRP he))
+    (VP
+      (VP (VBD managed)
+        (S
+          (VP (TO to)
+            (VP (VB average)
+              (NP (DT a) (JJ startling) (CD 35.66))
+              (NP (DT that) (NN year))
+              (, ,)
+              (PP (IN despite)
+                (NP
+                  (NP (DT a) (JJ top) (NN score))
+                  (PP (IN of)
+                    (NP
+                      (QP (RB just) (CD 25))))))))))
+      (, ,)
+      (VP
+        (ADVP (NNS thanks)
+          (PP (TO to)
+            (NP (CD 13))))
+        (RB not)
+        (NP (NNS outs))
+        (PP (IN in)
+          (NP (PRP$ his) (NN sixteen) (NNS innings)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN by)
+      (NP (NN contrast)))
+    (NP (PRP$ his) (NN career) (NN average))
+    (VP (VBD was)
+      (NP (CD 10.83)))
+    (. .)))
+

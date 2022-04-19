@@ -1,0 +1,1 @@
+with the chip still in, i think there is some interference from the uno while the mini is being programmed, although i can be completely wrong. nevertheless it works, and i even managed to get the mini and uno working with a virtualwire link.

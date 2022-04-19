@@ -1,0 +1,69 @@
+(ROOT
+  (S
+    (ADVP (RB now))
+    (NP (PRP we))
+    (VP (VBP need)
+      (S
+        (VP (TO to)
+          (VP
+            (VP (VB get)
+              (ADJP (RB relentlessly) (JJ practical)))
+            (CC and)
+            (VP (VB come)
+              (PRT (RP back))
+              (PP (TO to)
+                (NP
+                  (NP (DT the) (JJ awkward) (NN question))
+                  (VP (VBN left)
+                    (S
+                      (VP (VBG hanging)
+                        (PP (IN in)
+                          (NP
+                            (NP (DT the) (NN air))
+                            (PP (IN from)
+                              (NP (NN part)))))
+                        (NP
+                          (NP (CD 1) (NNS wheres))
+                          (NP (DT the) (NN money)))
+                        (S
+                          (VP (VBG going)
+                            (S
+                              (VP (TO to)
+                                (VP (VB come)
+                                  (PP (IN from)))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB conversely))
+    (NP (PRP you))
+    (VP (MD may)
+      (VP (VB be)
+        (VP (VBN saddled)
+          (PP
+            (PP (IN with)
+              (NP
+                (NP (DT a) (NN mountain))
+                (PP (IN of)
+                  (NP (NN student) (NN debt)))))
+            (, ,)
+            (CC or)
+            (PP (IN for)
+              (NP (DT the) (NN moment))))))
+      (, ,)
+      (VP (VB be)
+        (VP (VBG coming)
+          (PRT (RP out))
+          (PP (IN of)
+            (NP
+              (NP (DT the) (NN stability))
+              (PP (IN of)
+                (NP
+                  (NP (DT a) (JJ proper) (NN job))
+                  (PP (IN on)
+                    (NP (DT a)
+                      (ADJP (RB relatively) (RB even))
+                      (NN keel)))))))
+          (ADVP (RB financially)))))
+    (. .)))
+

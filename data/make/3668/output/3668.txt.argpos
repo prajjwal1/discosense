@@ -1,0 +1,2 @@
+conn:when conn_POS:WRB prev1:effect prev1_POS:NN with_prev1_full:effect_when with_prev1_POS_full:NN_WRB prev2:blacker prev2_POS:NN with_prev2_full:blacker_when with_prev2_POS_full:NN_WRB NA
+conn:likewise conn_POS:RB sent_pos:0 NA

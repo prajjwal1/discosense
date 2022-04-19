@@ -1,0 +1,66 @@
+(ROOT
+  (S
+    (SBAR (IN while)
+      (S
+        (NP
+          (NP (NN pursuit))
+          (PP (IN of)
+            (NP (CD zero) (NN waste))))
+        (VP (VBZ is)
+          (NP
+            (NP (DT an))
+            (PP (IN on)
+              (S
+                (VP (VBG going)
+                  (NP
+                    (NP (NN process))
+                    (PP (IN of)
+                      (NP (NN improvement)))))))))))
+    (, ,)
+    (NP (NN carpenter))
+    (VP (VBD said)
+      (SBAR (IN that)
+        (S
+          (NP (JJ many) (NNS organizations))
+          (VP (VBP ask)
+            (PP (IN for)
+              (NP (JJ intermediate) (NNS benchmarks)))
+            (S
+              (VP (TO to)
+                (VP (VB validate)
+                  (NP (PRP$ their) (NN progress)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB specifically))
+    (NP (NN wm))
+    (VP (VBZ is)
+      (VP (VBG helping)
+        (S
+          (NP (NNS customers))
+          (VP
+            (VP (VB implement)
+              (S
+                (NP (NNS strategies))
+                (VP (TO to)
+                  (VP (VB increase)
+                    (NP (NN waste) (NN diversion) (NNS rates))))))
+            (, ,)
+            (VP (VB manage)
+              (NP (NN diversion) (NNS programs))
+              (PP (IN on)
+                (NP (DT an) (RB on) (JJ going) (NN basis))))
+            (, ,)
+            (CC and)
+            (VP (VB obtain)
+              (NP
+                (NP (DT the) (NNS data))
+                (VP (VBN required)
+                  (PP (IN by)
+                    (NP
+                      (NP (NN ul) (NN environment))
+                      (PP (IN for)
+                        (NP (DT the) (NN validation) (NN process))))))))))))
+    (. .)))
+

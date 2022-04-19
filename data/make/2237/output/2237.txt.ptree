@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (NP (JJ appropriate) (NNS strategies))
+    (VP (VBP are)
+      (ADJP (JJR harder)
+        (S
+          (VP (TO to)
+            (VP (VB develop)
+              (SBAR
+                (WHADVP (WRB when))
+                (S
+                  (NP (DT an) (NN organization))
+                  (VP (VBZ has)
+                    (S
+                      (VP (TO to)
+                        (VP (VB deal)
+                          (PP (IN with)
+                            (NP (JJ multiple) (NN target) (NNS audiences))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (RB particularly) (DT the) (JJ fourth) (NN characteristic))
+      (PP (IN of)
+        (NP (JJ public) (NNS organizations))))
+    (VP (VBZ makes)
+      (NP
+        (NP (DT the) (NN marketing))
+        (PP (IN of)
+          (NP
+            (NP (DT these) (NNS organizations))
+            (ADJP (RB highly) (VBN complicated))))))
+    (. .)))
+

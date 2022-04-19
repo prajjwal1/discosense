@@ -1,0 +1,58 @@
+(ROOT
+  (S
+    (NP
+      (NP (JJ raw) (NNS files))
+      (PP (IN at)
+        (NP (CD 1600))))
+    (VP (VBP are)
+      (ADVP
+        (NP
+          (NP (DT a) (NN bit))
+          (PP (IN of)
+            (NP (DT an) (NN issue) (NNS theres))))
+        (RBR more))
+      (VP (NN detail)
+        (ADVP (RB there))
+        (PP (IN than)
+          (NP
+            (UCP
+              (PP (IN in)
+                (NP (DT the) (NN jpg)))
+              (, ,)
+              (CC and)
+              (RB also)
+              (ADJP (JJR more)))
+            (NN noise)))))
+    (. .)))
+
+(ROOT
+  (S (CC but)
+    (NP (DT the) (JJ real) (NN issue))
+    (VP (VBZ is)
+      (SBAR (IN that) (, ,)
+        (S
+          (SBAR (IN with)
+            (S
+              (NP (NN default))
+              (VP (VBP develop)
+                (NP (NNS settings)))))
+          (, ,)
+          (NP (NNS colors))
+          (VP (VBP are)
+            (VP (VBN washed)
+              (PRT (RP out))
+              (PP (IN at)
+                (SBAR
+                  (WHADVP (WRB when))
+                  (S
+                    (S
+                      (VP (VBN viewed)
+                        (PP (IN in)
+                          (NP
+                            (NP (NN lightroom))
+                            (PP (IN on)
+                              (NP (DT a) (JJ calibrated) (NN nec) (NN multisync)))))))
+                    (VP (VBP pa)
+                      (NP (CD 271) (NN w) (NN lcd) (NN display)))))))))))
+    (. .)))
+

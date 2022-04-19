@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (NP (NN victor) (NN j.) (NN thannickal))
+    (VP
+      (VP (VBD identified))
+      (CC and)
+      (VP (VBD attempted)
+        (S
+          (VP (TO to)
+            (VP (VB reconcile)
+              (NP (DT some) (JJ apparent) (NNS paradoxes))
+              (PP (IN in)
+                (NP
+                  (NP (PRP$ our) (JJ current) (NN understanding))
+                  (PP (IN of)
+                    (NP
+                      (NP (DT the) (NNS pathogenesis))
+                      (PP (IN of)
+                        (NP (JJ idiopathic) (JJ pulmonary) (NN fibrosis))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB specifically))
+    (NP (PRP he))
+    (VP (VBD discussed)
+      (NP
+        (NP (DT the) (NN matrix) (NN paradox))
+        (CC and)
+        (NP (DT the) (VBG ageing) (NN paradox))))
+    (. .)))
+

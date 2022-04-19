@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (S
+      (NP (JJ low) (NN income) (NNS people))
+      (VP (VBP are)
+        (ADVP (RB reportedly))
+        (ADJP (RBR less) (JJ likely)
+          (S
+            (VP (TO to)
+              (VP (VB consume)
+                (NP (DT a) (JJ healthy) (NN diet))
+                (PP (IN than)
+                  (NP (JJR wealthier) (NNS people)))))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP
+        (NP (NN energy) (JJ dense) (NN nutrient))
+        (NP (JJ poor) (NNS diets)))
+      (VP (VBP are)
+        (ADVP (RB preferentially))
+        (VP (VBN consumed)
+          (PP (IN by)
+            (NP
+              (NP (NNS persons))
+              (PP (IN of)
+                (NP (JJR lower) (JJ socioeconomic) (NN status))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB consequently))
+    (NP (PRP$ their) (NN health))
+    (VP (VBZ is)
+      (PP (IN at)
+        (NP
+          (NP (JJR greater) (NN risk))
+          (PP (IN from)
+            (NP (NN diet) (JJ related) (NN illness))))))
+    (. .)))
+

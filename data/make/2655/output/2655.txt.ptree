@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (ADVP (RB first))
+    (, ,)
+    (NP (PRP we))
+    (VP (VBP use)
+      (NP (DT a) (JJ broad) (NN perspective))
+      (PP (IN for)
+        (NP
+          (NP (DT the) (NN definition))
+          (PP (IN of)
+            (NP (NN health) (NNS behaviors)))))
+      (S
+        (VP (TO to)
+          (VP (VB capture)
+            (NP
+              (NP (DT all) (JJ relevant) (NNS aspects))
+              (PP (IN of)
+                (NP
+                  (NP (NN health) (NN behavior) (NN change))
+                  (PP (IN in)
+                    (NP (JJR older) (NNS adults))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB particularly))
+    (NP (PRP we))
+    (VP (VBP suggest)
+      (NP
+        (NP (DT a) (NN distinction))
+        (PP (IN between)
+          (NP
+            (ADJP (JJ proximal)
+              (CC and)
+              (JJ distal))
+            (NN health) (NNS behaviors)))))
+    (. .)))
+

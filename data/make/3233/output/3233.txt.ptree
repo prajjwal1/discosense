@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (NNS tribes))
+      (PP (IN in)
+        (NP (DT the) (NN state))))
+    (VP (VBP consist)
+      (PP (IN of)
+        (NP
+          (NP (RB mostly) (NN navajo))
+          (CC and)
+          (NP (NN pueblo) (NNS peoples)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN as)
+      (NP (DT a) (NN result)))
+    (NP
+      (NP (DT the) (NNS demographics)
+        (CC and)
+        (NN culture))
+      (PP (IN of)
+        (NP (DT the) (NN state))))
+    (VP (VBP are)
+      (ADJP (JJ unique)
+        (PP (IN for)
+          (NP (PRP$ their) (JJ strong) (JJ hispanic)
+            (CC and)
+            (JJ native) (NN american) (NNS influences)))))
+    (. .)))
+

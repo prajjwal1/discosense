@@ -1,0 +1,52 @@
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (JJ google) (NN search))
+        (NP (DT the) (JJ seminal) (NN interface)))
+      (PP (IN of)
+        (NP (DT the) (NN internet))))
+    (VP
+      (VP (VBZ leverages)
+        (NP (DT these) (NNS characteristics)))
+      (CC and)
+      (VP (VBZ relies)
+        (NP (RB almost) (RB solely))
+        (PP (IN on)
+          (NP
+            (NP (DT the) (NN use))
+            (PP (IN of)
+              (NP
+                (NP (JJ semantic) (NNS relationships))
+                (PP (IN for)
+                  (NP (PRP$ its) (NN success)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB subsequently))
+    (NP
+      (NP (JJ many))
+      (PP (IN of)
+        (NP (DT the) (NN technology))))
+    (VP (VBZ experiences)
+      (SBAR
+        (S
+          (NP (PRP we))
+          (VP (VBP are)
+            (ADJP
+              (ADJP (RBS most) (JJ comfortable))
+              (SBAR (IN with)
+                (S
+                  (NP (NN today))
+                  (VP (VBP have)
+                    (VP (VBN been)
+                      (VP (VBN tailored)
+                        (PP (TO to)
+                          (NP (NN leverage) (NN semantic) (NNS relationships)))
+                        (PP (TO to)
+                          (NP (NNS people)
+                            (CC and)
+                            (NNS things)))))))))))))
+    (. .)))
+

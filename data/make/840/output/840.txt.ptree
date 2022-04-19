@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (NP (EX there))
+    (VP (VBP are)
+      (NP
+        (NP (NN non) (NN christian) (NNS students))
+        (PP (IN on)
+          (NP (NN campus)))
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP (VBP have)
+              (NP
+                (NP (PRP$ their) (JJ own) (NN faith))
+                (VP (VBN based)
+                  (NP (NNS beliefs)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP (NN instance)))
+    (NP (PRP$ our) (NN tour) (NN guide))
+    (VP (VBD had)
+      (NP (DT a) (NN muslim) (NN roommate)))
+    (. .)))
+

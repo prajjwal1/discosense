@@ -1,0 +1,53 @@
+(ROOT
+  (S
+    (NP (NNS woods))
+    (VP (VBD caught)
+      (NP (DT a) (NN break))
+      (PP (IN in)
+        (NP (DT the) (NN draw)))
+      (PP (IN by)
+        (S
+          (VP (VBG playing)
+            (NP
+              (NP
+                (NP (DT the) (JJR easier) (NN north))
+                (NP (PRP$ its)
+                  (ADJP
+                    (ADJP
+                      (NP
+                        (QP (RB about) (CD 600))
+                        (NNS yards))
+                      (JJR shorter))
+                    (PP (IN on)
+                      (NP
+                        (NP (DT a) (NN day))
+                        (PP (IN of)
+                          (NP (NN light))))))
+                  (NN rain)))
+              (, ,)
+              (NP (DT a) (JJ late) (NN breeze))
+              (CC and)
+              (NP (JJ soft) (NNS conditions)))))))
+    (. .)))
+
+(ROOT
+  (S (CC but)
+    (S
+      (NP (PRP he))
+      (VP (VBD kept)
+        (NP (DT the) (NN ball))
+        (PP (IN in)
+          (NP (NN play)))
+        (PP (IN off)
+          (NP (DT the) (NN tee)))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP he))
+      (ADVP (RB only))
+      (VP (VBD got)
+        (PP (IN in)
+          (NP (NN trouble)))
+        (ADVP (RB once))))
+    (. .)))
+

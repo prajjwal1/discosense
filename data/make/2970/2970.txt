@@ -1,0 +1,1 @@
+the analog circuits may operate on analog signals with small signal levels. hence the analog circuits should be exposed to as little noise as possible in order to preserve signal quality and achieve good performance.

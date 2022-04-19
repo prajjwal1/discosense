@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (NP (PDT such) (DT a) (NN test))
+    (VP (VBZ is)
+      (ADJP (JJ useful))
+      (SBAR (IN because)
+        (S (, ,)
+          (PP (IN for)
+            (NP (NN example)))
+          (, ,)
+          (NP (DT a) (JJ particular) (NN image))
+          (VP (MD may)
+            (VP (VB be)
+              (VP (VBN have)
+                (NP
+                  (NP (DT an) (JJ acceptable) (NN level))
+                  (PP (IN of)
+                    (NP (NNS darkness))))
+                (SBAR (IN while)
+                  (S
+                    (VP (VBG lacking)
+                      (NP
+                        (NP (DT the)
+                          (ADJP (JJ necessary) (JJ ridge))
+                          (NNS details) (NN characteristic))
+                        (PP (IN of)
+                          (NP (DT an) (JJ acceptable) (NN fingerprint) (NN image)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thus))
+    (NP (NN routine) (CD 500))
+    (VP (VBZ tests)
+      (NP
+        (NP (DT an) (NN image))
+        (PP (IN for)
+          (NP (PRP$ its) (NN definition) (NN level)))))
+    (. .)))
+

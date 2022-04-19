@@ -1,0 +1,51 @@
+(ROOT
+  (S
+    (NP (JJ natural) (NNS systems))
+    (VP (VBP are)
+      (ADJP (JJ interdisciplinary) (RB yet)
+        (SBAR
+          (S
+            (NP (PRP we))
+            (ADVP (RB often))
+            (VP (VB study)
+              (NP (PRP them))
+              (PP (IN in)
+                (NP
+                  (NP (NNS silos))
+                  (, ,)
+                  (VP (VBN defined)
+                    (PP (IN by)
+                      (NP
+                        (NP (DT a) (JJ specific) (NN taxon))
+                        (CC or)
+                        (NP (NN system))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (PP (IN in)
+        (NP (NN sum)))
+      (NP (FW i))
+      (VP (VBD was)
+        (ADJP (RBS most) (JJ pleased)
+          (S
+            (VP (TO to)
+              (VP (VB be)
+                (NP
+                  (NP (DT the) (JJ lone) (NN entomologist))
+                  (PP (IN in)
+                    (NP
+                      (NP (DT a) (JJ large) (NN interdisciplinary) (NN workshop))
+                      (PP (IN about)
+                        (NP
+                          (NP (JJ biodiversity) (NN monitoring))
+                          (PP (IN in)
+                            (NP (DT the) (JJ fragile) (NN arctic))))))))))))))
+    (NP (PRP$ my) (NNS horizons))
+    (VP (VBD were)
+      (VP
+        (ADVP (RB certainly))
+        (VBN broadened)))
+    (. .)))
+

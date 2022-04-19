@@ -1,0 +1,47 @@
+(ROOT
+  (S
+    (NP (DT the) (NNS findings))
+    (VP (VBZ is)
+      (NP
+        (NP (DT this) (NN report))
+        (SBAR
+          (S
+            (VP (VBP are)
+              (ADJP (RB hugely) (JJ distorted)
+                (PP (IN by)
+                  (NP
+                    (NP (DT the) (NN geography))
+                    (PP (IN of)
+                      (NP
+                        (NP (DT the) (NNS places))
+                        (SBAR
+                          (S
+                            (NP (PRP we))
+                            (VP (VBP are)
+                              (VP (VBG being)
+                                (VP (VBN compared)
+                                  (S
+                                    (VP (TO to))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP (NN example)))
+    (NP (JJ many) (JJ other) (JJ urban) (NNS locations))
+    (VP (VBP have)
+      (ADVP (RB long)
+        (NP
+          (NP (DT a) (NNS roads))
+          (, ,)
+          (NP (NN duel) (NNS carriageways))
+          (CC and)
+          (NP (NNS motorways))))
+      (S
+        (VP (VBG running)
+          (PRT (RP through)
+            (CC and)
+            (RP around))
+          (NP (PRP them)))))
+    (. .)))
+

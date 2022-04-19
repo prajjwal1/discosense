@@ -1,0 +1,61 @@
+(ROOT
+  (S
+    (NP (DT this))
+    (VP (VBZ is)
+      (NP
+        (NP (DT another) (JJ great) (NN shoe))
+        (SBAR
+          (S
+            (NP (PRP$ my) (JJ only) (NN complaint))
+            (VP (VBZ is)
+              (SBAR (IN that)
+                (S
+                  (NP
+                    (NP (PRP$ its)
+                      (ADJP (DT a)
+                        (ADJP (RB little) (RB too) (JJ big)
+                          (PP (IN around)
+                            (NP (DT the) (NN ankle))))
+                        (, ,)
+                        (CC and)
+                        (ADJP
+                          (NP (PRP it))
+                          (JJ isnt)))
+                      (NN adjustable))
+                    (PP (IN since)
+                      (NP (DT the) (NN closure))))
+                  (VP (VBZ is)
+                    (NP
+                      (NP (DT a) (NN sipper))
+                      (, ,) (RB not)
+                      (NP (NNS buckles)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB otherwise))
+      (NP (DT the) (NN construction))
+      (VP (VBZ is)
+        (ADJP (JJ good))))
+    (PRN (, ,)
+      (S
+        (NP (PRP$ its))
+        (ADJP (RB relatively) (JJ comfortable)
+          (PP (IN from)
+            (SBAR
+              (WHNP (WP what))
+              (S
+                (NP (FW i))
+                (VP (MD can)
+                  (VP (VB tell)
+                    (ADVP (RB so) (RB far)))))))))
+      (, ,))
+    (CC and)
+    (S
+      (NP (FW i))
+      (ADVP (RB really))
+      (VP (VBP like)
+        (NP (DT the) (JJ stud) (NNS details))))
+    (. .)))
+

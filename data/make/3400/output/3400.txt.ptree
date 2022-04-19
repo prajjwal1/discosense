@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (SBAR (IN although)
+      (S
+        (NP (DT this) (NN loss))
+        (VP (MD can)
+          (VP (VB be)
+            (VP (VBN reduced)
+              (CC and)
+              (VBN controlled))))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ is)
+      (ADJP (JJ inherent)
+        (PP (TO to)
+          (NP (DT a) (NN device)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB consequently))
+    (NP
+      (NP (DT the) (NN choice))
+      (PP (IN of)
+        (NP
+          (NP (NN topology))
+          (PP (IN for)
+            (NP (DT a) (VBN given) (NN fe) (NN capacitor))))))
+    (VP (MD will)
+      (VP (VB affect)
+        (NP
+          (NP (DT the)
+            (ADJP (JJS best) (JJ possible))
+            (NN qc))
+          (ADJP (JJ attainable)
+            (PP (IN from)
+              (NP (DT the) (NN fe) (NN capacitor)))))))
+    (. .)))
+

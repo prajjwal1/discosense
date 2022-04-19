@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (NP (DT the) (NNS feds))
+    (VP (VBP are)
+      (ADVP (RB also))
+      (VP (VBG poking)
+        (PP (IN around)
+          (NP (DT the) (JJ fattah) (NN organization)))
+        (, ,)
+        (PP (IN with)
+          (NP
+            (NP (DT a) (JJ particular) (NN interest))
+            (PP (IN in)
+              (NP
+                (NP (NN chaka) (NN fattah))
+                (VP (VBN jr.)
+                  (NP
+                    (NP (DT the) (NN son))
+                    (PP (IN of)
+                      (NP (DT the) (NN congressman)))))))))))
+    (. .)))
+
+(ROOT
+  (S (CC but)
+    (NP
+      (NP (DT all))
+      (PP (IN of)
+        (NP (DT that))))
+    (VP (VBZ is)
+      (PP (IN outside)
+        (NP
+          (NP (DT the) (NN orbit))
+          (PP (IN of)
+            (NP (NN city) (NN hall))))))
+    (. .)))
+

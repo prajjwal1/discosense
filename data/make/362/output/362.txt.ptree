@@ -1,0 +1,45 @@
+(ROOT
+  (S
+    (SBAR (IN whilst)
+      (S
+        (NP (JJS most) (NNS executives))
+        (VP (VBD felt)
+          (SBAR (IN that)
+            (S
+              (NP (VBG emerging) (NNS markets))
+              (VP (VBD were)
+                (NP (DT a) (JJ significant) (NN opportunity))))))))
+    (, ,)
+    (NP (RB only) (DT a) (NN minority))
+    (VP (VBD had)
+      (VP (VBN taken)
+        (NP (NN action))
+        (S
+          (VP (TO to)
+            (VP (VB address)
+              (NP (PRP it)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB similarly))
+    (NP
+      (NP (DT the) (NN majority))
+      (PP (IN of)
+        (NP (NNS companies))))
+    (VP (VBD had)
+      (ADVP (RB also))
+      (VP
+        (ADVP (RB not))
+        (VBN addressed)
+        (NP
+          (NP (NNS opportunities))
+          (PP (JJ such) (IN as)
+            (NP
+              (NP (NN talent) (NNS markets))
+              (, ,)
+              (NP (NN resource) (NNS constraints))
+              (CC or)
+              (NP (JJ ageing) (NNS populations)))))))
+    (. .)))
+

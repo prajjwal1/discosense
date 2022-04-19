@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP
+        (NP (PRP$ his) (JJ first) (NN season))
+        (PP (IN at)
+          (NP (NN love) (NN street)))))
+    (, ,)
+    (NP (DT a) (NN knee))
+    (VP (VBD injury)
+      (NP (JJ blighted) (NNS barrons))
+      (NP (NN season)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nonetheless))
+    (NP (JJ nonetheless) (NN manager) (NN gus) (NN macpherson))
+    (VP
+      (VP (VBD saw)
+        (NP (NN potential))
+        (PP (IN in)
+          (NP (PRP him))))
+      (CC and)
+      (VP (VBD offered)
+        (NP (PRP him))
+        (NP (DT a) (JJ new) (CD two) (NN year) (NN contract))))
+    (. .)))
+

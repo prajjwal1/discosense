@@ -1,0 +1,56 @@
+(ROOT
+  (S
+    (NP (DT the) (NN connection))
+    (VP (VBZ comes)
+      (PP (IN with)
+        (NP (DT a) (JJ comprehensive) (NNS antivirus) (NN solution)))
+      (S
+        (VP (TO to)
+          (VP (VB protect)
+            (NP
+              (NP (DT the) (JJ sensitive) (NN information))
+              (PP (IN on)
+                (NP (PRP$ your) (NN system))))
+            (PP (IN from)
+              (NP (NN fishing)
+                (CC or)
+                (NN spoofing)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN though)
+      (S
+        (NP (EX there))
+        (VP (VBP are)
+          (NP
+            (NP (JJ internet) (NN service) (NNS providers))
+            (SBAR
+              (WHNP (WP who))
+              (S
+                (VP (VBP do)
+                  (VP (VB provide)
+                    (NP (JJ antivirus) (NNS solutions))))))))))
+    (, ,)
+    (NP (NN tikona))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (JJ only) (NN service) (NN provider))
+        (PP (IN in)
+          (NP
+            (NP (DT the) (NN country))
+            (, ,)
+            (SBAR
+              (WHNP (WP who))
+              (S
+                (VP (VBP provide)
+                  (NP (DT an) (NNS antivirus))
+                  (SBAR (IN as)
+                    (S
+                      (NP (DT a) (NN standard))
+                      (VP (VBP add)
+                        (PRT (RP on))
+                        (PP (IN with)
+                          (NP (DT every) (NN connection)))))))))))))
+    (. .)))
+

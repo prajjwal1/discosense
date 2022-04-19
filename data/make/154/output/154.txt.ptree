@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (NP (PRP he))
+    (ADVP (RB also))
+    (VP
+      (VP (VBD stopped)
+        (PRT (RP by))
+        (PP (IN for)
+          (NP (NNS cocktails))))
+      (CC and)
+      (VP (VBD bought)
+        (NP (NN dinner)
+          (CC and)
+          (NNS flowers))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP
+        (NP (JJ short) (NN say) (NN family))
+        (CC and)
+        (NP
+          (NP (NNS friends))
+          (, ,)
+          (SBAR
+            (WHNP (WP who))
+            (S
+              (VP (VBD described)
+                (NP
+                  (NP (DT all))
+                  (PP (IN of)
+                    (NP (DT the) (NNS women))))
+                (PP (IN as)
+                  (ADJP (JJ homebound)
+                    (CC and)
+                    (JJ lonely)))))))))
+    (, ,)
+    (NP (PRP he))
+    (VP (VBD charmed)
+      (NP (PRP them)))
+    (. .)))
+

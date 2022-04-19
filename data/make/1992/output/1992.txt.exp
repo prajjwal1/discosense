@@ -1,0 +1,3 @@
+conn_lc:so conn:so conn_POS:IN xxx£
+conn_lc:as_long_as conn:as_long_as conn_POS:RB_RB_IN with_prev_full:needles_as_long_as xxx£
+conn_lc:nevertheless conn:nevertheless conn_POS:RB xxx£

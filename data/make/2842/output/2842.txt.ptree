@@ -1,0 +1,24 @@
+(ROOT
+  (S
+    (NP (DT no) (JJ other) (NN family) (NN member))
+    (VP (VBZ has)
+      (NP
+        (NP (DT a) (NN child))
+        (PP (IN with)
+          (NP
+            (NP (DT any) (NN kind))
+            (PP (IN of)
+              (NP (JJ developmental) (NNS problems)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN on)
+      (NP (DT the) (NN contrary)))
+    (NP (JJS most))
+    (VP (VBP are)
+      (ADJP (RB extremely) (JJ bright)
+        (CC and)
+        (JJ successful)))
+    (. .)))
+

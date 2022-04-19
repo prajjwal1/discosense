@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (ADVP (RB naturally))
+    (, ,)
+    (SBAR
+      (WHADVP (WRB when))
+      (S
+        (VP (VBG increasing)
+          (NP (DT the) (VBN required) (NN measurement) (NN precision)))))
+    (, ,)
+    (NP
+      (NP (DT the) (JJ average) (NN number))
+      (PP (IN of)
+        (NP (JJ administered) (NNS items))))
+    (VP (VBD increased))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB likewise))
+    (NP
+      (NP (DT the) (NN relationship))
+      (PP (IN between)
+        (NP (DT the) (NN latent) (NN depression))))
+    (VP (VBZ estimates)
+      (S
+        (VP (VBG using)
+          (NP
+            (NP (DT the)
+              (ADJP (JJ full)
+                (CC and)
+                (JJ adaptive))
+              (NN assessment))
+            (VP (VBN increased)
+              (SBAR (IN as)
+                (S
+                  (NP (NN measurement) (NNS requirements))
+                  (VP (VBD increased)))))))))
+    (. .)))
+

@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (NP (NN fontforge))
+    (VP
+      (VP (VBD reported)
+        (NP
+          (NP (NNS lots))
+          (PP (IN of)
+            (NP (NNS mistakes)))))
+      (CC but)
+      (VP (VBD complied)))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN on)
+      (NP
+        (NP (DT the) (JJ other) (NN hand) (NN jswolf))
+        (VP (VBN succeeded)
+          (ADVP (RB very) (RB nicely))
+          (PP (TO to)
+            (NP (NN embolden) (NNS charis))))))
+    (NP (NNP sil)
+      (CC but)
+      (NNP i) (NN dont))
+    (VP (VBP know)
+      (SBAR (IN if)
+        (S
+          (NP (PRP he))
+          (VP (VBD used)
+            (NP
+              (NP (NN fontforge))
+              (CC or)
+              (NP (DT another) (NN tool)))))))
+    (. .)))
+

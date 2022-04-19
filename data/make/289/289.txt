@@ -1,0 +1,1 @@
+historically, the supervisor was inundated with information on which to base process changes. subsequently a change in philosophy limited the control parameters to the most relevant variables.

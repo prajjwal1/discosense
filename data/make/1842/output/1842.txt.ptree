@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (SBAR (IN since)
+      (S
+        (NP
+          (NP (DT the) (NNS doctors))
+          (ADJP (RB nearly) (JJ fatal)))
+        (VP (VBP overdose))))
+    (, ,)
+    (NP (PRP$ my) (NN brother))
+    (VP (VBZ has)
+      (ADVP (RB never))
+      (VP
+        (VP (VBN run) (, ,) (VBN played)
+          (NP (DT a) (NN sport))
+          (, ,) (VBN thrown)
+          (CC or)
+          (VBN caught)
+          (NP (DT a) (NN ball)))
+        (, ,)
+        (CC or)
+        (VP (VBN driven)
+          (NP (DT a) (NN car)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (IN in) (JJ short) (NN everything))
+      (SBAR (IN that)
+        (S
+          (NP (PRP we))
+          (VP (VBP take)
+            (PP (IN for)
+              (S
+                (VP (JJ granted))))))))
+    (VP (VBD was)
+      (VP (VBN stolen)
+        (PP (IN from)
+          (NP (PRP him)))))
+    (. .)))
+

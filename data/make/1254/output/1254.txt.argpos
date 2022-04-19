@@ -1,0 +1,4 @@
+conn:and conn_POS:CC prev1:oils prev1_POS:NNS with_prev1_full:oils_and with_prev1_POS_full:NNS_CC prev2:carry prev2_POS:VBP with_prev2_full:carry_and with_prev2_POS_full:VBP_CC NA
+conn:when conn_POS:WRB prev1:and prev1_POS:CC with_prev1_full:and_when with_prev1_POS_full:CC_WRB prev2:oils prev2_POS:NNS with_prev2_full:oils_when with_prev2_POS_full:NNS_WRB NA
+conn:but conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_but with_prev1_POS_full:,_CC prev2:tough prev2_POS:JJ with_prev2_full:tough_but with_prev2_POS_full:JJ_CC NA
+conn:if conn_POS:IN prev1:tough prev1_POS:JJ with_prev1_full:tough_if with_prev1_POS_full:JJ_IN prev2:it prev2_POS:PRP with_prev2_full:it_if with_prev2_POS_full:PRP_IN NA

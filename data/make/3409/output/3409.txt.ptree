@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (NP (PRP you))
+    (VP (VBP have)
+      (NP
+        (NP (JJ several) (NNS people))
+        (VP (VBG working)
+          (PP (IN on)
+            (NP (NN code)))
+          (PP (IN at)
+            (NP
+              (NP (DT the) (JJ same) (NN time))
+              (, ,)
+              (NP
+                (NP (DT some))
+                (PP (IN on)
+                  (NP (JJ short) (NN term) (NN work))))
+              (, ,)
+              (NP
+                (NP (DT some))
+                (PP (IN on)
+                  (NP (JJR longer) (NN term) (NN stuff)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB therefore))
+    (VP (VB have)
+      (NP
+        (NP (JJ incomplete) (NN work))
+        (SBAR
+          (S
+            (NP (PRP you))
+            (VP (VBP dont)
+              (SBAR
+                (S
+                  (VP (VBP want)
+                    (S
+                      (VP (TO to)
+                        (VP (VB release)
+                          (ADVP (RB yet)))))))))))))
+    (. .)))
+

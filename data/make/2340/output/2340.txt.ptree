@@ -1,0 +1,57 @@
+(ROOT
+  (S
+    (S
+      (NP (NN san) (NN francisco))
+      (VP (VBZ expects)
+        (NP (NN kaepernick))
+        (S
+          (VP (TO to)
+            (VP (VB take)
+              (NP (DT that) (JJ next) (NN step)))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP$ its))
+      (VP (VBD found)
+        (NP (DT a) (NN way)
+          (S
+            (VP (TO to)
+              (VP (VB structure)
+                (NP (DT the) (NN contract))
+                (PP (IN in)
+                  (NP (PDT such) (DT a) (NN way)))
+                (SBAR (IN as)
+                  (S
+                    (VP (TO to)
+                      (VP (VB protect)
+                        (NP (PRP itself))
+                        (SBAR (IN if)
+                          (S
+                            (NP (PRP he))
+                            (VP (VBP doesnt))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB because)
+      (PP (IN of)
+        (SBAR (IN that)
+          (S
+            (NP (PRP it))
+            (VP (VBZ is)
+              (ADJP (JJ likely))
+              (SBAR (IN that)
+                (S
+                  (NP (NN kaepernick))
+                  (VP (MD will)
+                    (VP (VB justify)
+                      (NP (DT every) (JJ single) (NN penny)))))))))))
+    (NP (PRP he))
+    (VP (VBZ earns)
+      (PP (IN over)
+        (NP
+          (NP (DT the) (JJ next) (NN couple))
+          (PP (IN of)
+            (NP (NNS years))))))
+    (. .)))
+

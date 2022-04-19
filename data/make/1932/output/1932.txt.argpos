@@ -1,0 +1,3 @@
+conn:as_if conn_POS:RB_IN sent_pos:1 prev1:speak prev1_POS:VB with_prev1_full:speak_as_if with_prev1_POS_full:VB_RB_IN NA
+conn:as conn_POS:IN prev1:tempo prev1_POS:NN with_prev1_full:tempo_as with_prev1_POS_full:NN_IN prev2:and prev2_POS:CC with_prev2_full:and_as with_prev2_POS_full:CC_IN NA
+conn:when conn_POS:WRB prev1:might prev1_POS:NN with_prev1_full:might_when with_prev1_POS_full:NN_WRB prev2:you prev2_POS:PRP with_prev2_full:you_when with_prev2_POS_full:PRP_WRB NA

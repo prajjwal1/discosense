@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (NP (JJ modern) (NNS zombies))
+    (VP (VBP are)
+      (VP (VBN built)
+        (S
+          (VP (TO to)
+            (VP (VB scare)
+              (NP
+                (ADJP (JJ modern) (, ,) (VBN educated))
+                (NNS audiences)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB therefore))
+    (NP (PRP they))
+    (ADVP (RBS most) (RB commonly))
+    (VP (VBP get)
+      (VP (VBN explained)
+        (PP (IN as)
+          (NP
+            (NP (DT a)
+              (ADJP (RB highly) (JJ infectious))
+              (JJ viral)
+              (UCP (NN plague)
+                (CC or)
+                (JJ scientific))
+              (NN experiment))
+            (VP (VBN gone)
+              (S
+                (ADJP (JJ wrong))))))))
+    (. .)))
+

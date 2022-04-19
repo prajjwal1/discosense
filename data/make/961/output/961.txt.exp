@@ -1,0 +1,3 @@
+conn_lc:and conn:and conn_POS:CC with_prev_full:,_and xxx£
+conn_lc:and conn:and conn_POS:CC with_prev_full:it_and xxx£
+conn_lc:in_fact conn:in_fact conn_POS:IN_NN with_prev_full:and_in_fact xxx£

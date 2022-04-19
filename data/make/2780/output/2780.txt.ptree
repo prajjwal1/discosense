@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (S
+      (NP (NNS miami))
+      (VP (VBZ is)
+        (VP (VBG sending)
+          (NP (CD six)))))
+    (, ,)
+    (CC and)
+    (S
+      (SBAR (RB only)
+        (S
+          (NP (PRP one))
+          (VP (VBZ is)
+            (VP (VBG representing)
+              (NP (JJ u.) (NN s.) (NN a.))))))
+      (ADVP (RB likewise))
+      (NP (NN virginia) (NN tech))
+      (VP (VBZ is)
+        (ADVP (RB only))
+        (VP (VBG sending)
+          (NP (CD four))
+          (PP (IN with)
+            (NP
+              (NP (RB only) (NN queen) (NN harrison) (NN playing))
+              (PP (IN for)
+                (NP (DT the) (NN home) (NN team)))))
+          (SBAR (IN while)
+            (S
+              (NP (PRP$ her) (NN school) (NNS chums))
+              (VP (VBP are)
+                (VP (VBG wearing)
+                  (NP (NN mali) (, ,) (NN turkey)
+                    (CC and)
+                    (NNS latvias) (NNS colors)))))))))
+    (. .)))
+

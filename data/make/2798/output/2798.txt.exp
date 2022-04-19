@@ -1,0 +1,3 @@
+conn_lc:by_contrast conn:by_contrast conn_POS:IN_NN xxx£
+conn_lc:because conn:because conn_POS:IN with_prev_full:physicians_because xxx£
+conn_lc:as_a_result conn:as_a_result conn_POS:IN_DT_NN xxx£

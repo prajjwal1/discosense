@@ -1,0 +1,2 @@
+conn_lc:if conn:if conn_POS:IN xxx£
+conn_lc:in_short conn:in_short conn_POS:IN_JJ xxx£

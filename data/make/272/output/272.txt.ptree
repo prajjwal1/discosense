@@ -1,0 +1,59 @@
+(ROOT
+  (S
+    (S
+      (NP (DT this))
+      (VP (MD can)
+        (VP (VB be)
+          (VP (VBN used)
+            (PP (TO to)
+              (NP (JJ great) (NN effect)))
+            (, ,)
+            (PP (JJ such) (IN as)
+              (S
+                (VP (VBG laying)
+                  (PRT (RP over))
+                  (NP
+                    (NP (DT another) (NN layer))
+                    (PP (IN of)
+                      (NP (NN color)
+                        (CC or)
+                        (NNS details)))))))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP it))
+      (VP (VBZ is)
+        (ADVP (RB also))
+        (NP (NN something)
+          (S
+            (VP (TO to)
+              (VP (VB be)
+                (ADJP (JJ careful) (IN about))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN on)
+      (NP (DT the) (JJ other) (NN hand)))
+    (NP (PRP$ its))
+    (VP (VBZ okay)
+      (SBAR (IN if)
+        (S
+          (NP (DT the) (NN paint))
+          (VP (VBZ dries)
+            (PRT (RP out))
+            (PP (IN on)
+              (NP (DT the) (NN palette)))
+            (, ,)
+            (SBAR (IN as)
+              (S
+                (NP (PRP it))
+                (VP (MD will)
+                  (VP (VB rewet)
+                    (SBAR (IN once)
+                      (S
+                        (NP (PRP you))
+                        (VP (VBP add)
+                          (NP (NN water)))))))))))))
+    (. .)))
+

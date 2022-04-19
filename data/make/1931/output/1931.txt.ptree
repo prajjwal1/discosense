@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (NNS advertisements)
+        (CC and)
+        (NNS offers))
+      (PP (IN from)
+        (NP (JJ multiple) (NNS sponsors))))
+    (VP (MD can)
+      (VP (VB be)
+        (VP (VBN pooled)
+          (PP (IN at)
+            (NP (DT a) (JJ common) (NNS ads) (NN server))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB likewise))
+    (NP
+      (NP (NNS grades))
+      (PP (IN from)
+        (NP
+          (NP (DT a) (NN number))
+          (PP (IN of)
+            (NP (JJ different) (NNS schools))))))
+    (VP (MD can)
+      (VP (VB be)
+        (VP (VBN mapped)
+          (PP (IN into)
+            (NP
+              (NP (DT a) (JJ common) (NN format))
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (VP (VBZ is)
+                    (ADJP (JJ suitable)
+                      (PP (IN for)
+                        (NP (NN use))))
+                    (PP (IN by)
+                      (NP (JJ interactive) (NN voice) (NN response) (NN equipment)))))))))))
+    (. .)))
+

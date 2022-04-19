@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT the) (NNS unevenness))
+        (PP (IN of)
+          (NP (DT these) (NNS readings))))
+      (VP (VBZ is)
+        (NP (DT no) (NN accident))))
+    (, ,)
+    (CC nor)
+    (SQ (VBZ does)
+      (NP (PRP it))
+      (VP (VB represent)
+        (NP (DT a) (JJ critical) (NN failure))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN on)
+      (NP
+        (NP (DT the) (NN contrary))
+        (SBAR (IN as)
+          (S
+            (NP (FW i))
+            (VP (VBP hope)
+              (S
+                (VP (TO to)
+                  (VP (VB demonstrate)))))))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ mirrors)
+      (NP
+        (NP (DT the) (JJ representational) (NN quandary))
+        (VP (VBN confronted)
+          (PP (IN by)
+            (NP
+              (NP (JJ midcentury) (NNS writers))
+              (NP (JJ ofsocial) (NN fiction)))))))
+    (. .)))
+

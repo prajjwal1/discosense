@@ -1,0 +1,56 @@
+(ROOT
+  (S
+    (SBAR (IN while)
+      (S
+        (NP (DT this) (NN arrangement))
+        (VP (VBZ entrusts)
+          (NP (NNS users))
+          (PP (IN with)
+            (NP (JJ phenomenal) (NN authority)
+              (CC and)
+              (NN tractability))))))
+    (, ,)
+    (NP (DT the) (NN clout))
+    (VP
+      (VP (VBZ is)
+        (ADJP (RB highly) (JJ prone)
+          (PP (TO to)
+            (NP (NN misuse)))))
+      (, ,)
+      (CC and)
+      (VP (MD may)
+        (VP (VB be)
+          (VP (VBN manipulated)
+            (PP (IN in)
+              (NP (DT a) (JJ destructive) (NN manner)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB hence))
+      (VP (TO to)
+        (VP (VB check)
+          (NP
+            (NP (NN abuse))
+            (PP (IN of)
+              (NP (NN authority)))))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ is)
+      (ADVP (RB certainly))
+      (ADJP (JJ advisable)
+        (S
+          (VP (TO to)
+            (VP (VB add)
+              (NP
+                (NP (DT a)
+                  (ADJP (RB supplementary) (JJ unprivileged))
+                  (NN user))
+                (PP (IN for)
+                  (NP
+                    (NP (NN execution))
+                    (PP (IN of)
+                      (NP (JJ common) (NNS tasks)))))))))))
+    (. .)))
+

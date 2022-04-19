@@ -1,0 +1,1 @@
+further, in some examples, different vacuum consumers may be reactivated at different levels of vacuum within the system. for example vacuum consumers may be reactivated or pneumatically coupled to a vacuum reservoir with each 0.1 bar decrease in vacuum after the combustion stability threshold has been reached.

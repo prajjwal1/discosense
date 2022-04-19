@@ -1,0 +1,15 @@
+conn:thus conn_lc:thus conn_cat:Conj-adverb conn_to_node:RB->ADVP->S conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:0 0:2
+conn:thus conn_lc:thus conn_cat:Conj-adverb conn_to_node:RB->ADVP conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:0 0:5
+conn:thus conn_lc:thus conn_cat:Conj-adverb conn_to_node:RB->ADVP->S<-NP conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:1 0:8
+conn:thus conn_lc:thus conn_cat:Conj-adverb conn_to_node:RB->ADVP->S<-VP conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:1 0:13
+conn:thus conn_lc:thus conn_cat:Conj-adverb conn_to_node:RB->ADVP->S<-VP<-VP conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:1 0:16
+conn:thus conn_lc:thus conn_cat:Conj-adverb conn_to_node:RB->ADVP->S<-VP<-VP<-PP conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:1 0:19
+conn:thus conn_lc:thus conn_cat:Conj-adverb conn_to_node:RB->ADVP->S<-VP<-VP<-PP<-NP conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:1 0:22
+conn:thus conn_lc:thus conn_cat:Conj-adverb conn_to_node:RB->ADVP->S<-VP<-VP<-PP<-NP<-NP conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:1 0:23
+conn:thus conn_lc:thus conn_cat:Conj-adverb conn_to_node:RB->ADVP->S<-VP<-VP<-PP<-NP<-PP conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:1 0:28
+conn:thus conn_lc:thus conn_cat:Conj-adverb conn_to_node:RB->ADVP->S<-VP<-VP<-PP<-NP<-PP<-NP conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:1 0:31
+conn:thus conn_lc:thus conn_cat:Conj-adverb conn_to_node:RB->ADVP->S<-VP<-VP<-PP<-NP<-PP<-NP<-NP conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:1 0:32
+conn:thus conn_lc:thus conn_cat:Conj-adverb conn_to_node:RB->ADVP->S<-VP<-VP<-PP<-NP<-PP<-NP<-NP conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:1 0:39
+conn:thus conn_lc:thus conn_cat:Conj-adverb conn_to_node:RB->ADVP->S<-VP<-VP<-PP<-NP<-PP<-NP<-NP<-NP conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:1 0:40
+conn:thus conn_lc:thus conn_cat:Conj-adverb conn_to_node:RB->ADVP->S<-VP<-VP<-PP<-NP<-PP<-NP<-NP<-PP conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:1 0:45
+conn:thus conn_lc:thus conn_cat:Conj-adverb conn_to_node:RB->ADVP->S<-VP<-VP<-PP<-NP<-PP<-NP<-NP<-PP<-NP conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:1 0:48

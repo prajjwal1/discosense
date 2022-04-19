@@ -1,0 +1,17 @@
+(ROOT
+  (NP
+    (NP (NNS accommodates))
+    (VP (VBG differing)
+      (S
+        (VP (VBG picking)
+          (NP (NNS styles)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB overall))
+    (NP (DT the) (NN tone))
+    (VP (VBZ is)
+      (ADJP (JJ great)))
+    (. .)))
+

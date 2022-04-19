@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (DT some) (NNS places)))
+    (, ,)
+    (NP (DT the) (NN health) (NN centre))
+    (VP (VBZ is)
+      (VP (VBN closed)
+        (PP (JJ due) (TO to)
+          (NP
+            (NP (NN lack))
+            (PP (IN of)
+              (NP (NN staff)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB consequently))
+    (NP (EX there))
+    (VP (VBZ is)
+      (NP (DT no) (NN way)
+        (S
+          (VP (TO to)
+            (VP (VB administer)
+              (NP (NNS vaccines))
+              (PP (TO to)
+                (NP (NNS children))))))))
+    (. .)))
+

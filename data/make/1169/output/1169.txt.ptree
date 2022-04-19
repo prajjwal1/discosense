@@ -1,0 +1,51 @@
+(ROOT
+  (S
+    (NP
+      (NP (CD one) (NN advantage))
+      (PP (IN of)
+        (NP (DT the) (JJ above) (NN configuration))))
+    (VP (VBZ is)
+      (NP
+        (NP (NN minimization))
+        (PP (IN of)
+          (NP (NN space)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB particularly))
+    (NP (DT the) (NN integer))
+    (VP (VBZ roms)
+      (NP
+        (NP (CD 670))
+        (SBAR
+          (S
+            (NP
+              (NP (DT a) (NN c))
+              (, ,)
+              (SBAR
+                (WHNP (WDT which))
+                (S
+                  (VP (VBP are)
+                    (VP (VBN utilized)
+                      (SBAR
+                        (WHADVP (WRB when))
+                        (S
+                          (NP (DT the) (JJ cuop) (JJ immediate) (NN field) (NN 324))
+                          (VP (VBZ is)
+                            (VP (VBN interpreted)
+                              (S
+                                (VP (TO to)
+                                  (VP (VB be)
+                                    (NP (DT an) (NN address)))))))))))))
+              (, ,))
+            (VP (MD could)
+              (VP (VB be)
+                (VP (VBN positioned)
+                  (PP (IN before)
+                    (NP
+                      (NP (DT the) (NN shadow))
+                      (ADJP (JJ queue)
+                        (NP (CD 660))))))))))))
+    (. .)))
+

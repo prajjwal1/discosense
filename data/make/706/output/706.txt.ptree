@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (SBAR (IN if)
+      (S
+        (NP (DT no) (JJ uncorrectable) (NNS errors))
+        (VP (VBP are)
+          (VP (VBN discovered)
+            (PP (IN in)
+              (NP (DT the) (JJ regenerated) (NN data) (NN packet)))))))
+    (, ,)
+    (NP (DT an) (NN acknowledgment))
+    (VP (VBZ is)
+      (VP (VBN sent)
+        (PRT (RP back))
+        (PP (TO to)
+          (NP (DT the) (NN sender)))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (ADVP (RB conversely))
+      (IN if)
+      (S
+        (NP (DT the) (JJ regenerated) (NNS data) (NN packet))
+        (VP (VBZ contains)
+          (NP (JJ uncorrectable) (NNS errors)))))
+    (, ,)
+    (NP (DT no) (NN acknowledgment))
+    (VP (VBZ is)
+      (VP (VBN sent) (, ,)
+        (S
+          (VP (VBG forcing)
+            (NP
+              (NP (DT a) (JJ subsequent) (NN re) (NN transmission))
+              (PP (IN of)
+                (NP (DT that) (NN data) (NN packet))))))))
+    (. .)))
+

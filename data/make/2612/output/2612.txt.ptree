@@ -1,0 +1,55 @@
+(ROOT
+  (S
+    (ADVP (RB also))
+    (, ,)
+    (SBAR (IN although)
+      (S
+        (NP (DT the) (VBG foregoing) (NN process))
+        (ADVP (RB separately))
+        (VP (VBZ employs)
+          (NP
+            (NP
+              (NP (DT each))
+              (PP (IN of)
+                (NP (DT the) (NN area))))
+            (CC and)
+            (NP
+              (NP (DT the) (JJ light) (NN amount))
+              (PP (IN of)
+                (NP (DT the) (NN face) (NN region))))))))
+    (, ,)
+    (NP (DT these) (NNS factors))
+    (VP (MD may)
+      (VP (VB be)
+        (VP (VBN combined))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (JJ other) (NNS words)))
+    (NP (DT the) (NN diaphragm))
+    (VP (VBP control)
+      (SBAR
+        (S
+          (NP (NN unit) (CD 104))
+          (VP (MD may)
+            (VP (VB adjust)
+              (NP (DT the) (JJ aperture) (NN value))
+              (PP (IN on)
+                (NP
+                  (NP (DT the) (NN basis))
+                  (PP (IN of)
+                    (NP
+                      (NP
+                        (NP
+                          (QP (IN at) (JJS least) (CD one)))
+                        (PP (IN of)
+                          (NP (DT the) (NN area))))
+                      (CC and)
+                      (NP
+                        (NP (DT the) (JJ light) (NN amount))
+                        (PP (IN of)
+                          (NP (DT the) (NN face) (NN region)))))))))))))
+    (. .)))
+

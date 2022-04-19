@@ -1,0 +1,47 @@
+(ROOT
+  (S
+    (NP (DT the) (NN venture))
+    (VP
+      (VP (VBZ is)
+        (ADJP (RB not) (JJ profitable))
+        (NP (RB now)))
+      (CC and)
+      (VP (MD may)
+        (ADVP (RB never))
+        (VP (VB be) (, ,)
+          (SBAR
+            (S
+              (NP (PRP he))
+              (VP (VBD said))))))
+      (, ,)
+      (PP (RB because) (IN of)
+        (NP
+          (NP (DT the) (NN island) (NN terrain))
+          (CC and)
+          (NP
+            (NP (DT the) (JJ high) (NN cost))
+            (PP (IN of)
+              (S
+                (VP (VBG maintaining)
+                  (NP (NN service)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP (NN instance)))
+    (NP (PRP it))
+    (VP (VBZ is)
+      (VP (VBN planned)
+        (S
+          (VP (TO to)
+            (VP (VB fly)
+              (NP (NN servicemen))
+              (PP (IN in)
+                (SBAR
+                  (WHADVP (WRB whenever))
+                  (S
+                    (NP (DT any) (NN trouble))
+                    (VP (VBZ develops))))))))))
+    (. .)))
+

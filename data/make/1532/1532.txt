@@ -1,0 +1,1 @@
+chrome 31 for android, which will be arriving soon on google play, has gained application shortcuts. in short the feature lets users add website shortcuts to their android home screen that open in a normal chrome for android window.

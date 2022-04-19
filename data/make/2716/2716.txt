@@ -1,0 +1,1 @@
+accordingly, the poe system restricts the power supply to the newly connected device. thereafter the poe system ends the power supply process.

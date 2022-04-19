@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (ADVP (RB however))
+    (, ,)
+    (NP (DT these) (NNS authors))
+    (VP (VBD examined)
+      (NP
+        (NP (DT the) (NNS effects))
+        (PP (IN of)
+          (NP (DT each) (JJ comorbid) (NN disorder))))
+      (PP
+        (ADVP (RB independently))
+        (IN without)
+        (NP (JJ careful) (NN differential) (NN diagnosis)))
+      (PP (IN by)
+        (NP (DT a) (JJ skilled) (NN interviewer))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (JJ other) (NNS words)))
+    (NP
+      (NP (DT the) (NNS effects))
+      (PP (IN of)
+        (NP
+          (NP (PDT all) (DT the) (JJ comorbid) (NNS disorders) (JJ combined))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (MD could)
+                (VP (VB be)
+                  (VP (VBN associated)
+                    (PP (IN with)
+                      (NP (JJ psychotic) (NNS symptoms)))))))))))
+    (VP (VBD were) (RB not)
+      (VP (VBN controlled)
+        (PP (IN for)
+          (PP (IN in)
+            (NP (JJ sareen) (NNP et) (NN als) (NNS analyses))))))
+    (. .)))
+

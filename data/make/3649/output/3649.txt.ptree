@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (PRP them)))
+    (, ,)
+    (NP
+      (NP (DT the) (NN symbol))
+      (PP (IN of)
+        (NP (NN chaos))))
+    (VP (VBZ comprises)
+      (NP
+        (NP (CD eight) (NNS arrows))
+        (PP (IN in)
+          (NP (DT a) (JJ radial) (NN pattern)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN contrast)))
+    (NP
+      (NP (DT the) (NN symbol))
+      (PP (IN of)
+        (NP (NN law))))
+    (VP (VBZ is)
+      (NP (DT a) (JJ single) (NN upright) (NN arrow)))
+    (. .)))
+

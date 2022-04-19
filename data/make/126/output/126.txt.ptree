@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (NP (PRP it))
+    (VP (VBD was)
+      (ADJP (JJ hard)
+        (S
+          (VP (TO to)
+            (VP (VB imagine)
+              (PP (IN with)
+                (NP
+                  (NP (DT the) (JJ long) (NN time) (NN palestinian) (NN leader))
+                  (ADJP
+                    (ADJP (RB hugely) (JJ popular))
+                    (CC and)
+                    (ADJP (RB convincingly) (VBN elected))))))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (PP (IN in)
+      (NP (NN contrast) (NNS abbas)))
+    (VP (VBD had)
+      (NP (DT a) (NN rock) (NN bottom)))
+    (NP
+      (NP
+        (ADJP (CD 3) (NN %))
+        (NN approval) (NN rating))
+      (SBAR
+        (WHADVP
+          (ADVP (RB so))
+          (WRB where))
+        (S
+          (VP (VBD was)
+            (NP (DT the) (NN disagreement))))))
+    (. .)))
+

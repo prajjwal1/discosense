@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (NP (PRP he))
+    (ADVP (RB dog))
+    (VP (VBD told)
+      (NP (NN eleanor) (NN hinman))
+      (SBAR (IN that)
+        (S
+          (NP (NN hump))
+          (VP (VBD was)
+            (PP (IN about)
+              (NP
+                (NP (DT the) (JJ same) (NN age))
+                (PP (IN as)
+                  (NP (JJ crazy) (NN horse)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN contrast) (NNS charles)))
+    (NP (NN eastman))
+    (VP (VBD described)
+      (NP (NN hump))
+      (PP (IN as)
+        (NP
+          (ADJP
+            (ADJP (RB considerably) (JJR older))
+            (PRN (, ,)
+              (ADVP (RB perhaps))
+              (PP (IN by)
+                (NP (CD five)
+                  (CC or)
+                  (CD ten)))))
+          (NNS years))))
+    (. .)))
+

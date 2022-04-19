@@ -1,0 +1,15 @@
+(ROOT
+  (S
+    (ADVP (RB sure))
+    (NP (PRP it))
+    (ADVP (RB still))
+    (VP (VBZ has)
+      (NP (DT some) (NNS flaws)))
+    (. .)))
+
+(ROOT
+  (S (CC but)
+    (NP (WP what) (NN mmo))
+    (VP (VBP doesnt))
+    (. .)))
+

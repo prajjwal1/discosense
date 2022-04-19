@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (SBAR (IN if)
+      (S
+        (NP (PRP you))
+        (VP (VBP want)
+          (PP (TO to)
+            (NP (NN text)))
+          (NP (DT all) (NN night)))))
+    (VP (VB go)
+      (PRT (RP out))
+      (PP (IN into)
+        (NP (DT the) (NN hall))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (PP (IN in)
+      (NP (JJ other) (NNS words)))
+    (VP (VBP please)
+      (VP (VB leave)
+        (CC and)
+        (VB let)))
+    (NP
+      (NP (DT those))
+      (PP (IN of)
+        (NP (PRP us)))
+      (SBAR
+        (WHNP (WDT that))
+        (S
+          (VP (VBP want)
+            (S
+              (VP (TO to)
+                (VP (VB see)
+                  (S
+                    (NP (DT the) (NN entertainer))
+                    (VP (VB enjoy)
+                      (NP (DT the) (NN entertainment)))))))))))
+    (. .)))
+

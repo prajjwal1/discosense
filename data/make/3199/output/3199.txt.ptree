@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (S
+      (VP (TO to)
+        (VP (VB help)
+          (PP (IN with)
+            (NP (NN modeling)
+              (CC and)
+              (NN mapping) (NN concurrency))))))
+    (, ,)
+    (NP
+      (NP (NNS semantics))
+      (PP (IN for)
+        (NP (NN message) (NN passing))))
+    (VP (VBP are)
+      (ADJP (JJ similar)
+        (PP (IN for)
+          (NP (NNS actors)
+            (CC and)
+            (NNS objects)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB consequently))
+    (NP (NNS decisions))
+    (VP (VBD made)
+      (SBAR
+        (S
+          (NP (RB about) (JJ concurrent) (NN behavior))
+          (VP (VBP are)
+            (ADVP (RB easily))
+            (VP (VBN changed))))))
+    (. .)))
+

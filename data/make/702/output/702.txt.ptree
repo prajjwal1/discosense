@@ -1,0 +1,52 @@
+(ROOT
+  (SBARQ
+    (WHADVP (WRB how))
+    (SQ (MD can)
+      (NP (PRP we))
+      (VP
+        (ADVP (RBS best))
+        (VB extrapolate)
+        (NP
+          (NP (PRP$ our) (JJ current) (NN knowledge))
+          (PP (IN of)
+            (NP
+              (NP (JJ molecular) (NN biology))
+              (, ,)
+              (VP (VBN concentrated)
+                (PP (IN in)
+                  (NP
+                    (NP (RB just) (DT a) (NN handful))
+                    (PP (IN of)
+                      (NP (NN model) (NNS organisms))))))
+              (, ,))))
+        (PP (TO to)
+          (NP
+            (NP (DT the) (NN rest))
+            (PP (IN of)
+              (NP (NN life)))))))
+    (. .)))
+
+(ROOT
+  (SBARQ
+    (WHADVP
+      (ADVP (RB conversely))
+      (WRB how))
+    (SQ (MD can)
+      (NP (PRP we))
+      (VP (VB exploit)
+        (NP
+          (NP (DT the) (NN wealth)
+            (CC and)
+            (NN diversity))
+          (PP (IN of)
+            (NP (NN life))))
+        (S
+          (VP (TO to)
+            (VP
+              (ADVP (RBR better))
+              (VB understand)
+              (NP (JJ human) (NN biology)
+                (CC and)
+                (NN disease)))))))
+    (. .)))
+

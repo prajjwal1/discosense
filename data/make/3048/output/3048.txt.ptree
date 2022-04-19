@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (PP
+      (ADVP (RB also))
+      (IN like)
+      (NP (NNS animancers)))
+    (, ,)
+    (NP (NNS wizards))
+    (VP (VBP rely)
+      (PP (IN on)
+        (NP (JJ special) (NNS tools)))
+      (S
+        (VP (TO to)
+          (VP (VB achieve)
+            (NP (PRP$ their) (NNS effects))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB specifically))
+      (NP (NNS wizards))
+      (VP (VBP use)
+        (NP (NNS grimoires))))
+    (, ,)
+    (NP (JJ arcane) (NNS books))
+    (VP (VBD made)
+      (PP (IN with)
+        (NP
+          (NP (JJ rare) (NNS materials))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (MD can)
+                (VP
+                  (VP (VB absorb))
+                  (CC and)
+                  (VP
+                    (ADVP (RB temporarily))
+                    (VB hold)
+                    (NP
+                      (NP (NNS fragments))
+                      (PP (IN of)
+                        (NP (JJ ambient) (NN soul) (NN energy))))))))))))
+    (. .)))
+

@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (PP (IN at)
+      (NP (NN goldcorp)))
+    (, ,)
+    (NP (PRP we))
+    (VP (VBP enable)
+      (SBAR
+        (S
+          (NP (PRP$ our) (NNS employees))
+          (VP (VBZ tozigzagacross)
+            (NP
+              (NP (NNS roles))
+              (, ,)
+              (NP (NN business) (NNS lines))
+              (CC and)
+              (NP (NNS locations)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP (NN instance)))
+    (NP (NN ive))
+    (VP (VBD transitioned)
+      (PP (IN from)
+        (NP
+          (NP (DT a) (NN background))
+          (PP (IN in)
+            (NP (NN safety)))))
+      (PP (TO to)
+        (NP
+          (NP (DT a)
+            (ADJP (JJ challenging))
+            (NN leadership) (NN role))
+          (PP (IN in)
+            (NP (JJ human) (NNS resources))))))
+    (. .)))
+

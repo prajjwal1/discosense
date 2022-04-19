@@ -1,0 +1,3 @@
+conn:for_example conn_POS:IN_NN prev1:, prev1_POS:, with_prev1_full:,_for_example with_prev1_POS_full:,_IN_NN prev2:created prev2_POS:VBN with_prev2_full:created_for_example with_prev2_POS_full:VBN_IN_NN NA
+conn:thus conn_POS:RB sent_pos:0 NA
+conn:when conn_POS:WRB prev1:opposed prev1_POS:VBN with_prev1_full:opposed_when with_prev1_POS_full:VBN_WRB prev2:as prev2_POS:RB with_prev2_full:as_when with_prev2_POS_full:RB_WRB NA

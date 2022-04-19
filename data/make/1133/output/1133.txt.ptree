@@ -1,0 +1,61 @@
+(ROOT
+  (S (CC but)
+    (SBAR
+      (X (DT the) (JJR more))
+      (S
+        (NP (PRP we))
+        (VP (VBD talked))))
+    (, ,)
+    (X (DT the) (JJR more))
+    (NP (PRP they))
+    (VP (VBP didnt)
+      (VP (VB pay)
+        (NP (DT no) (NN attention))
+        (PP (TO to)
+          (NP (PRP us)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (SBAR
+        (ADVP (RB therefore))
+        (IN if)
+        (S
+          (NP (PRP they))
+          (VP (VBP aint)
+            (PP (IN for)
+              (NP (PRP us))))))
+      (NP (PRP they))
+      (VP (MD must)
+        (VP (VB be)
+          (VP (VBN agin)
+            (NP (PRP us))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP we))
+      (VP (VBP are)
+        (ADJP (JJ ready)
+          (S
+            (VP
+              (VP (TO to)
+                (VP (VB give)
+                  (NP (PRP them))
+                  (NP
+                    (NP (DT the) (NN fight))
+                    (PP (IN of)
+                      (NP (PRP$ their) (NNS lives))))))
+              (, ,)
+              (CC or)
+              (VP (TO to)
+                (VP (VB shake)
+                  (NP (NNS hands))
+                  (SBAR
+                    (WHADVP (WRB when))
+                    (S
+                      (NP (PRP it))
+                      (VP (VBZ is)
+                        (ADJP (RP over))))))))))))
+    (. .)))
+

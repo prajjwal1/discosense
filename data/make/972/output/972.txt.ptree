@@ -1,0 +1,61 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (NN plurality))
+      (PP (IN of)
+        (NP (JJ recesses) (CD 130))))
+    (VP (MD may)
+      (VP (VB be)
+        (VP (VBN formed)
+          (PP (IN in)
+            (NP
+              (NP (DT a) (NN pattern))
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (VP (VBZ is)
+                    (VP (VBN selected)
+                      (S
+                        (VP (TO to)
+                          (VP (VB comprise)
+                            (SBAR
+                              (S
+                                (NP
+                                  (NP (DT a) (JJ minor) (NN image))
+                                  (PP (IN of)
+                                    (NP
+                                      (NP (DT a) (NN pattern))
+                                      (PP (IN of)
+                                        (NP (DT the) (JJ conductive) (NN device))))))
+                                (VP (VBZ features)
+                                  (NP (CD 104)))))))))))))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (S
+      (PP (IN as)
+        (NP (DT a) (NN result)))
+      (NP (DT the) (JJ recesses) (CD 130))
+      (VP (MD may)
+        (VP (VB be)
+          (VP (VBN aligned)
+            (PP (IN with)
+              (NP (DT the) (JJ conductive) (NN device)))))))
+    (VP (VBZ features)
+      (NP (CD 104))
+      (PP (IN upon)
+        (S
+          (VP (VBG establishing)
+            (NP
+              (NP (DT the) (JJ temporary) (NN bond))
+              (PP (IN between)
+                (NP (DT the) (VBN processed) (NN semiconductor) (NN structure))))))))
+    (NP
+      (NP (CD 100))
+      (CC and)
+      (NP
+        (NP (DT the) (NN semiconductor) (NN structure))
+        (NP (CD 122))))
+    (. .)))
+

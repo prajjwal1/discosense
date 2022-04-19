@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNS workmen))
+      (VP (VBG making)
+        (NP (NNS roads))))
+    (VP (VBD had)
+      (S
+        (VP (TO to)
+          (VP (VB be)
+            (VP (VBN protected)
+              (PP (IN by)
+                (NP
+                  (NP (DT the) (NN army))
+                  (PP (IN against)
+                    (NP (JJ local) (NNS warriors))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP
+      (ADVP (RB nonetheless))
+      (IN despite)
+      (NP (DT these) (JJ sweeping) (JJ internal) (NNS policies)))
+    (, ,)
+    (NP (NN abdur))
+    (VP (VBZ rahmans)
+      (SBAR
+        (S
+          (NP (JJ foreign) (NN policy))
+          (VP (VBD was)
+            (ADVP (RB completely))
+            (PP (IN in)
+              (NP (JJ foreign) (NNS hands)))))))
+    (. .)))
+

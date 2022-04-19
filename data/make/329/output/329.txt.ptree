@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (NP (EX there))
+    (VP (VBP are)
+      (ADVP (RB still))
+      (NP
+        (NP (DT some) (JJ local) (NNS builders))
+        (VP (VBG producing)
+          (NP
+            (NP (JJ modest) (NNS houses))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (VBP are)
+                  (VP (VBN designed)
+                    (S
+                      (VP (TO to)
+                        (VP (VB fit)
+                          (PP (IN into)
+                            (NP (DT the) (JJ local) (NN environment))))))))))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (PP (IN on)
+      (NP (DT the) (JJ other) (NN hand))
+      (ADVP
+        (NP (CD 30) (NNS minutes))
+        (RB down)
+        (NP (DT the) (NN road))))
+    (, ,)
+    (ADVP (RB cary))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (NN poster) (NN child))
+        (PP (IN for)
+          (NP
+            (NP (DT the) (NN sort))
+            (PP (IN of)
+              (NP (JJ suburban) (NN development)))))))
+    (NP (DT that) (NN daveon) (NN dislikes))
+    (. .)))
+

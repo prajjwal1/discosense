@@ -1,0 +1,3 @@
+conn:but conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_but with_prev1_POS_full:,_CC prev2:overview prev2_POS:NN with_prev2_full:overview_but with_prev2_POS_full:NN_CC NA
+conn:for_instance conn_POS:IN_NN sent_pos:0 NA
+conn:or conn_POS:CC prev1:replication prev1_POS:NN with_prev1_full:replication_or with_prev1_POS_full:NN_CC prev2:directory prev2_POS:NN with_prev2_full:directory_or with_prev2_POS_full:NN_CC NA

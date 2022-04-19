@@ -1,0 +1,1 @@
+a similar description is applicable to the third tier. hence each server has a collection of adapters to serve its requirements for networking, storing and clustering.

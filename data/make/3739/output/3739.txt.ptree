@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (S
+      (NP (DT the) (NN castle))
+      (VP (VBD was)
+        (ADVP (RB partially))
+        (VP (VBN destroyed)
+          (PP (IN in)
+            (NP (DT the) (CD 1945) (NN bombardment))))))
+    (CC and)
+    (S
+      (NP
+        (NP (DT the) (JJ last) (NNS owners))
+        (, ,)
+        (NP (DT the) (NN family) (NNP von) (JJ prittwitz) (NN und) (NN gaffron))
+        (, ,))
+      (VP (VBD were)
+        (VP (VBN expelled)
+          (PP (IN after)
+            (NP (NN world) (NN war) (NN ii))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thereafter))
+    (NP (DT the) (NN castle))
+    (VP
+      (ADVP (RB gradually))
+      (VBD fell)
+      (PP (IN into)
+        (NP (NNS ruins))))
+    (. .)))
+

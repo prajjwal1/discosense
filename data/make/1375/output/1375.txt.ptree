@@ -1,0 +1,38 @@
+(ROOT
+  (SINV
+    (S
+      (NP (PRP she))
+      (VP (VBD started)
+        (PP (IN on)
+          (NP (DT a) (NN rant)))
+        (PP (IN about)
+          (NP
+            (NP (DT all))
+            (PP (IN of)
+              (NP (DT the) (JJ amazing) (NNS books)))))))
+    (VP (VBD shed))
+    (NP
+      (NP (NN read))
+      (, ,)
+      (NP
+        (NP (NN spencer) (VBG smiling))
+        (SBAR
+          (WHPP (IN at)
+            (WHNP (WRB how) (JJ nerdy)))
+          (S
+            (NP (PRP she))
+            (VP (VBD was))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN although)
+      (S
+        (NP (PRP he))
+        (VP (VBD thought))))
+    (NP (PRP it))
+    (ADVP (RB quite))
+    (VP (VBD became)
+      (NP (PRP her)))
+    (. .)))
+

@@ -1,0 +1,18 @@
+(ROOT
+  (NP
+    (NP (RB sometimes) (PRP$ its) (NNS lines))
+    (NP
+      (NP (JJ other) (NNS times))
+      (NP (PRP$ its) (NNS circles)))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB because) (IN of)
+      (NP (DT this)))
+    (NP (DT the) (NN picture))
+    (VP (VBZ is)
+      (VP (VB distort)
+        (NP (NN rf))))
+    (. .)))
+

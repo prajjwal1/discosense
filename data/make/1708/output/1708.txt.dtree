@@ -1,0 +1,17 @@
+nsubj(contested-3, he-1)
+advmod(contested-3, furthermore-2)
+root(ROOT-0, contested-3)
+det(grounds-6, the-4)
+amod(grounds-6, substantive-5)
+dobj(contested-3, grounds-6)
+prep_of(grounds-6, appeal-8)
+
+advmod(requests-3, consequently-1)
+nsubj(requests-3, he-2)
+root(ROOT-0, requests-3)
+mark(dismissed-8, that-4)
+det(appeal-6, the-5)
+nsubjpass(dismissed-8, appeal-6)
+auxpass(dismissed-8, be-7)
+ccomp(requests-3, dismissed-8)
+

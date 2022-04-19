@@ -1,0 +1,1 @@
+thus, thz tds measures both the amplitude and phase information of the frequency components it contains. in contrast measuring only the power at each frequency is essentially a photon counting technique information regarding the phase of the light is not obtained.

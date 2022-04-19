@@ -1,0 +1,52 @@
+(ROOT
+  (S
+    (NP (PRP they))
+    (VP (VBP are)
+      (NP
+        (NP
+          (NP (JJ super) (NN cheap))
+          (, ,)
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (VP (VBZ makes)
+                (NP (CD one) (NN wonder))))))
+        (, ,)
+        (CC and)
+        (NP
+          (NP (DT the) (NN fact))
+          (SBAR (IN that)
+            (S
+              (NP
+                (NP (DT the) (NN manufacturer) (NN doesnt) (NN state))
+                (NP (DT a) (JJ recommended)
+                  (CC or)
+                  (JJ maximum) (NN tdp) (NN doesnt)))
+              (VP (VBP inspire)
+                (NP (JJ great) (NN confidence))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nevertheless))
+    (NP (PRP they))
+    (VP (VBP seem)
+      (S
+        (VP (TO to)
+          (VP
+            (VP (VB be)
+              (PP (IN about)
+                (NP (DT the) (JJ right) (NN size))))
+            (CC and)
+            (VP (VB shape)
+              (S
+                (VP (TO to)
+                  (VP (VB fit)
+                    (SBAR (IN that)
+                      (S
+                        (NP (NN niche))
+                        (VP (VBD left)
+                          (PP (IN by)
+                            (NP (DT the) (JJ mini) (NN ninja))))))))))))))
+    (. .)))
+

@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (NN activity))
+      (PP (IN of)
+        (NP (NN g) (CD 7) (NN udj))))
+    (VP (VBD made)
+      (NP (JJ many) (NNS amharas))
+      (S
+        (VP (TO to)
+          (VP (VB look)
+            (PP (IN at)
+              (NP (NN asmara)))
+            (PP (IN as)
+              (NP
+                (NP (DT the) (NN focus))
+                (PP (IN of)
+                  (NP
+                    (NP (DT the) (NN struggle))
+                    (PP (IN against)
+                      (NP (NN weyane)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB because) (IN of)
+      (NP (DT this) (NN move)))
+    (NP
+      (NP (JJ many) (NNS amharas))
+      (PP (VBG including)
+        (NP (DT the) (CD two) (NNS generals))))
+    (VP (VBP are)
+      (VP (VBG suffering)
+        (PP (IN under)
+          (NP (NN prison)
+            (CC and)
+            (NN torture)))))
+    (. .)))
+

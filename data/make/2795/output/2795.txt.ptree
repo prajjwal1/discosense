@@ -1,0 +1,57 @@
+(ROOT
+  (S
+    (S
+      (NP (FW i))
+      (VP (VBP take)
+        (NP
+          (NP (NN pride))
+          (PP (IN in)
+            (NP (PDT all) (DT the) (NNS details))))))
+    (, ,)
+    (NP (PRP she))
+    (VP (VBZ points)
+      (PRT (RP out))
+      (, ,)
+      (PP (IN from)
+        (S
+          (VP
+            (VP (VBG filling)
+              (NP
+                (NP (DT the) (NN house))
+                (PP (IN with)
+                  (NP (NNS flowers)
+                    (CC and)
+                    (NNS candles))))
+              (PP (TO to)
+                (NP (VBG purchasing) (NNS frames))))
+            (CC and)
+            (VP (VBG placing)
+              (NP
+                (NP (NNS photographs))
+                (PP (IN in)
+                  (NP (PRP them)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (ADVP (RB otherwise))
+      (IN if)
+      (S
+        (NP (EX there))
+        (VP (VBZ is)
+          (NP
+            (NP (DT a) (JJ certain) (NN trademark))
+            (PP (TO to)
+              (NP (PRP$ her) (NN work)))))))
+    (, ,)
+    (NP (PRP$ its)
+      (ADJP
+        (NP (DT that))
+        (NP (DT a) (NN hunt)))
+      (NN interior))
+    (VP (VBZ does) (RB not)
+      (VP (VB say)
+        (NP (NN laura) (NN hunt))))
+    (. .)))
+

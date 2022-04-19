@@ -1,0 +1,33 @@
+(ROOT
+  (SINV
+    (ADVP
+      (NP (CD six) (NNS feet))
+      (RB up))
+    (VP (VBZ has)
+      (VP (VBN built)))
+    (NP (NNS products)
+      (SBAR
+        (WHNP (WDT that))
+        (S
+          (VP
+            (VP (VB extend)
+              (NP
+                (NP (DT the) (NN functionality))
+                (PP (IN of)
+                  (NP (DT the) (NN cms)))))
+            (CC and)
+            (VP (VB provide)
+              (NP (JJ key) (NNS features))
+              (PP (IN for)
+                (NP (PRP$ our) (NNS clients))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB though))
+    (NP (DT the) (NN benefit) (NN doesnt))
+    (VP (VBP stop)
+      (PP (IN with)
+        (NP (PRP$ our) (NNS clients))))
+    (. .)))
+

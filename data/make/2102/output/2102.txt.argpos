@@ -1,0 +1,2 @@
+conn:and conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_and with_prev1_POS_full:,_CC prev2:values prev2_POS:NNS with_prev2_full:values_and with_prev2_POS_full:NNS_CC NA
+conn:since conn_POS:IN prev1:unwavering prev1_POS:VBG with_prev1_full:unwavering_since with_prev1_POS_full:VBG_IN prev2:been prev2_POS:VBN with_prev2_full:been_since with_prev2_POS_full:VBN_IN NA

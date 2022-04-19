@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (PP (IN at)
+      (NP (JJ vanderbilt) (NN university)))
+    (, ,)
+    (PP (IN for)
+      (NP (NN instance)))
+    (, ,)
+    (NP
+      (NP (DT the) (JJ average) (NN price))
+      (PP (IN for)
+        (NP
+          (NP (DT a) (NN student))
+          (SBAR
+            (WHNP (WP$ whose) (NN family))
+            (S
+              (VP (VBZ makes)
+                (PP (IN between)
+                  (NP (CD 75,001)
+                    (CC and)
+                    (CD 110,000)))))))))
+    (VP (VBZ is)
+      (NP (CD 16,297)))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN contrast)))
+    (NP (DT the) (JJ average) (NN price))
+    (VP (VBZ is)
+      (NP
+        (NP (CD 27,620))
+        (PP (IN for)
+          (NP
+            (NP (NNS families))
+            (PP (IN in)
+              (NP
+                (NP (DT the) (JJ same) (NN income) (NN bracket))
+                (PP (IN at)
+                  (NP
+                    (NP (DT the) (NN university))
+                    (PP (IN of)
+                      (NP (JJ southern) (NN california)))))))))))
+    (. .)))
+

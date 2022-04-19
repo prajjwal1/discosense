@@ -1,0 +1,49 @@
+(ROOT
+  (S
+    (SBAR (IN as)
+      (S
+        (VP (VBD set)
+          (ADVP (RB forth) (RBR more) (RB fully))
+          (ADVP (RB below)))))
+    (, ,)
+    (NP (PRP we))
+    (VP (VBP conclude)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (DT the) (NN award))
+            (PP (IN of)
+              (NP (RB overtime))))
+          (VP (VBZ is) (RB not)
+            (ADJP (JJ inconsistent)
+              (PP (IN with)
+                (NP (NN law)
+                  (CC and)
+                  (NN regulation))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN sum)))
+    (NP (PRP we))
+    (VP (VBP conclude)
+      (SBAR (IN that)
+        (S
+          (NP (DT the) (NN agency))
+          (VP (VBZ has) (RB not)
+            (VP (VBN established)
+              (SBAR (IN that)
+                (S
+                  (NP (DT the) (NNS arbitrators) (NN award))
+                  (VP (VBZ is)
+                    (ADJP (JJ deficient))
+                    (SBAR (IN because)
+                      (S
+                        (NP (PRP it))
+                        (VP (VBD was)
+                          (VP (VBN based)
+                            (PP (IN on)
+                              (NP (DT a) (NN nonfact)))))))))))))))
+    (. .)))
+

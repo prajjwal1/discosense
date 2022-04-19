@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (NP (DT these) (NN road) (NNS improvements))
+    (VP (VBP have)
+      (ADVP (RB greatly))
+      (VP (VBN enhanced)
+        (NP (DT the) (NN connectivity))
+        (PP (TO to)
+          (NP (JJ major) (NN singapore) (NNS ports)))
+        (PP (IN through)
+          (NP
+            (NP (VBN upgraded) (NNS roads))
+            (CC and)
+            (NP (JJ major) (JJ arterial) (NN expressway))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB overall))
+    (NP (DT the) (JJ high) (NN park) (NNS residences) (NN singapore))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (JJ great) (NN place))
+        (PP (IN for)
+          (S
+            (VP (VBG availing)
+              (NP
+                (NP (DT all) (NNS kinds))
+                (PP (IN of)
+                  (NP (NN transport) (NNS means)))))))))
+    (. .)))
+

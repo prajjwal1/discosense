@@ -1,0 +1,49 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT a) (NN run))
+      (PP (IN against)
+        (NP
+          (ADJP (JJ explicit)
+            (CC and)
+            (JJ implicit))
+          (JJ financial) (NN insurance))))
+    (VP (VBZ is)
+      (ADVP (RB essentially))
+      (NP
+        (NP (DT a) (NN run))
+        (PP
+          (PP (IN against)
+            (NP
+              (ADJP
+                (NP (RB virtually) (DT all) (JJ private) (NN sector))
+                (JJ financial))
+              (NNS transactions)))
+          (CC but)
+          (PP (IN for)
+            (NP
+              (NP (DT those))
+              (PP (IN with)
+                (NP (DT the) (JJS shortest) (NNS maturities))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thus))
+    (NP
+      (NP (DT the) (JJ modern) (NN lender))
+      (PP (IN of)
+        (NP (JJ last) (NN resort) (NN facility))))
+    (VP (VBZ has)
+      (S
+        (VP (TO to)
+          (VP (VB be)
+            (NP
+              (NP (DT a) (NN provider))
+              (PP (IN of)
+                (NP
+                  (NP (JJ broad) (NN insurance))
+                  (, ,) (RB not) (RB just)
+                  (NP (NN deposit) (NN insurance)))))))))
+    (. .)))
+

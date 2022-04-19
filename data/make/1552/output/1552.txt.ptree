@@ -1,0 +1,45 @@
+(ROOT
+  (S
+    (SBAR (IN as)
+      (S
+        (NP (NN lopatin))
+        (VP (VBD explained)
+          (PP (IN in)
+            (NP (DT a) (NN talk)))
+          (PP (IN at)
+            (ADJP (JJ unsound))))))
+    (, ,)
+    (NP (PRP we))
+    (VP (VBD tried)
+      (S
+        (VP (TO to)
+          (VP (VB think)
+            (PP (IN about)
+              (NP
+                (NP (JJ sonic) (NNS environments))
+                (PP (IN in)
+                  (NP (DT an) (JJ allegorical) (NN way))))))))
+      (, ,)
+      (S
+        (VP (VBG creating)
+          (NP (NNS humorous))
+          (ADVP (RB still))
+          (ADVP (RB lifes)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (JJ other) (NNS words)))
+    (NP (PRP$ its) (CD two) (NNP smart) (, ,) (NN wry))
+    (VP (VBZ dudes)
+      (S
+        (VP
+          (VP (VBG having)
+            (NP (PRP$ their) (NN cake)))
+          (CC and)
+          (VP (VBG problematizing)
+            (NP (PRP it))
+            (ADVP (RB too))))))
+    (. .)))
+

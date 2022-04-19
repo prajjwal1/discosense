@@ -1,0 +1,17 @@
+nsubj(understands-9, microsoft-1)
+det(customer-5, a-3)
+amod(customer-5, large-4)
+appos(microsoft-1, customer-5)
+prep_of(customer-5, conxions-7)
+root(ROOT-0, understands-9)
+dobj(understands-9, this-10)
+
+advmod(people-5, interestingly-1)
+det(people-5, a-2)
+amod(people-5, few-3)
+amod(people-5, microsoft-4)
+nsubj(read-6, people-5)
+root(ROOT-0, read-6)
+det(site-8, this-7)
+dobj(read-6, site-8)
+

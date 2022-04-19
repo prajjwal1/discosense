@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (NP (NN korine))
+    (ADVP (RB often))
+    (VP (VBZ goes)
+      (PRT (RP back))
+      (PP (TO to)
+        (NP
+          (NP (DT the) (NN idea))
+          (PP (IN of)
+            (NP (DT the) (NNS girls) (NNS bodies)))))
+      (S
+        (VP (VBG being)
+          (ADJP (JJ sculptural)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB particularly))
+    (PP (IN of)
+      (NP
+        (NP (NN course))
+        (, ,)
+        (NP (DT the) (NNS shapes))))
+    (NP (PRP they))
+    (VP (VBP create)
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (PRP they))
+          (VP (VBP do)
+            (NP (NNS handstands))))))
+    (. .)))
+

@@ -1,0 +1,56 @@
+(ROOT
+  (S
+    (NP (DT the) (JJ experimental) (NNS results))
+    (VP (VBP suggest)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (JJ current) (NN fao))
+            (SBAR
+              (WHNP (WP who))
+              (S
+                (VP (VBP unu)
+                  (NP
+                    (NP (NNS recommendations))
+                    (PP (IN for)
+                      (NP (JJ dietary) (NN energy))))))))
+          (VP (VBP are)
+            (ADJP (RB too) (JJ high)
+              (PP
+                (PP (IN for)
+                  (NP
+                    (NP (NNS children))
+                    (PP (IN under)
+                      (NP (CD 5)))))
+                (, ,)
+                (CC and)
+                (ADVP (RB possibly))
+                (PP (IN under)
+                  (NP
+                    (NP (CD 7))
+                    (, ,)
+                    (NP
+                      (NP (NNS years))
+                      (PP (IN of)
+                        (NP (NN age))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN by)
+      (NP (NN contrast)))
+    (NP
+      (NP (JJ current) (NN dietary) (NNS recommendations))
+      (PP
+        (PP (IN for)
+          (NP (JJ adolescent) (NNS boys)))
+        (CC and)
+        (PP (IN for)
+          (NP
+            (NP (NNS girls))
+            (PP (IN around)
+              (NP (NN puberty)))))))
+    (VP (VBP seem)
+      (ADJP (RB somewhat) (JJ low)))
+    (. .)))
+

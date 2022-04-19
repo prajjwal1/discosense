@@ -1,0 +1,3 @@
+conn:because conn_POS:IN prev1:, prev1_POS:, with_prev1_full:,_because with_prev1_POS_full:,_IN prev2:this prev2_POS:DT with_prev2_full:this_because with_prev2_POS_full:DT_IN NA
+conn:after conn_POS:IN prev1:contrary prev1_POS:NN with_prev1_full:contrary_after with_prev1_POS_full:NN_IN prev2:the prev2_POS:DT with_prev2_full:the_after with_prev2_POS_full:DT_IN NA
+conn:if conn_POS:IN prev1:feel prev1_POS:VBP with_prev1_full:feel_if with_prev1_POS_full:VBP_IN prev2:i prev2_POS:FW with_prev2_full:i_if with_prev2_POS_full:FW_IN NA

@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (S
+      (ADVP (RB however))
+      (NP (PRP$ his) (NN form))
+      (VP (VBD faded)
+        (PRT (RP away))))
+    (CC and)
+    (S
+      (NP (PRP he))
+      (VP (VBD was)
+        (VP (VBN omitted)
+          (PP (IN from)
+            (NP (DT the) (NN squad)))
+          (PP (IN after)
+            (S
+              (VP (VBG suffering)
+                (NP (DT a) (NN groin) (NN injury))))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADJP (RB nonetheless) (RB nonetheless))
+    (S
+      (NP (PRP he))
+      (VP (VBD kept)
+        (NP (PRP$ his) (NN place))
+        (PP (IN in)
+          (NP
+            (NP (DT the) (NN australian) (NN team))
+            (PP (IN for)
+              (NP (DT the) (NN tour)))))
+        (PP (TO to)
+          (NP (JJ new) (NN zealand)))))
+    (. .)))
+

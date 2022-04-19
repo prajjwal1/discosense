@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (NP (DT this))
+    (VP (VBZ is)
+      (SBAR (IN because)
+        (S
+          (NP (PRP it))
+          (VP (VBZ displays)
+            (S
+              (VP (VBG promising)
+                (NP (JJ antiseptic) (NN activity))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (RB hence) (JJ topical) (NNS ointments))
+      (VP (VBG containing)
+        (NP (DT this) (NN powder))))
+    (VP (MD may)
+      (VP (VB be)
+        (ADJP (JJ helpful)
+          (PP (IN in)
+            (S
+              (VP (VBG treating)
+                (NP (NN skin) (NNS problems))
+                (PP (IN like)
+                  (NP (NN acne)
+                    (CC and)
+                    (NNS psoriasis)))))))))
+    (. .)))
+

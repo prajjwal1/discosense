@@ -1,0 +1,2 @@
+conn:then conn_POS:RB prev1:may prev1_POS:MD with_prev1_full:may_then with_prev1_POS_full:MD_RB prev2:fiber prev2_POS:NN with_prev2_full:fiber_then with_prev2_POS_full:NN_RB NA
+conn:thereafter conn_POS:RB sent_pos:0 NA

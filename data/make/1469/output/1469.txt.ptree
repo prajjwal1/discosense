@@ -1,0 +1,47 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (NN presence))
+      (PP (IN of)
+        (NP
+          (NP (DT any) (VBN known) (NN syndrome))
+          (CC and)
+          (NP
+            (NP (DT the) (JJ clinical) (NN presence))
+            (PP (IN of)
+              (NP (NNS scoliosis)))))))
+    (VP (VBD were)
+      (VP (VBN included)
+        (PP (IN for)
+          (NP (NN analysis)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB subsequently))
+    (S
+      (NP
+        (NP (JJ skeletally) (NN immature) (NNS patients))
+        (VP (VBN identified)
+          (PP (IN with)
+            (NP (NNS scoliosis)))))
+      (VP (VBD were)
+        (VP (VBN followed)
+          (PRT (RP up))
+          (PP (IN over)
+            (NP
+              (NP (DT a) (NN period))
+              (PP (IN of)
+                (NP (DT a) (JJ minimum) (CD four) (NNS years))))))))
+    (CC and)
+    (S
+      (NP
+        (NP (DT the) (JJ radiologic) (NN type) (, ,) (NN progression)
+          (CC and)
+          (NN severity))
+        (PP (IN of)
+          (NP (NNS scoliosis))))
+      (VP (VBD were)
+        (VP (VBN recorded))))
+    (. .)))
+

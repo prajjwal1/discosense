@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (NP (PRP she))
+    (VP (VBD encouraged)
+      (NP (NN everyone))
+      (S
+        (VP (TO to)
+          (VP (VB attend)
+            (PP (IN as)
+              (NP (JJ many) (NNS sessions)))
+            (PP (IN as)
+              (NP
+                (NP (JJ possible) (, ,) (JJ even) (NNS sessions))
+                (PP (IN outside)
+                  (NP (PRP$ their) (JJ own) (NN department)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thereafter))
+    (NP (PRP she))
+    (VP (VBD thanked)
+      (NP
+        (NP (DT the) (NNS members))
+        (PP (IN of)
+          (NP
+            (NP (JJ honors) (NN forum) (NN council)
+              (CC and)
+              (NN lisa) (NN bradshaw))
+            (PP (IN for)
+              (NP (PDT all) (PRP$ their) (NN work)))))))
+    (. .)))
+

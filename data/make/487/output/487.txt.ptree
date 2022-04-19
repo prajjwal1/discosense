@@ -1,0 +1,47 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT a) (NN city))
+      (PP (IN at)
+        (NP (NN peace))))
+    (VP (VBZ is)
+      (PP (IN by)
+        (NP
+          (NP (NN definition))
+          (VP
+            (VP (VBN ruled)
+              (PP (IN by)
+                (NP (DT the) (NNS people))))
+            (, ,)
+            (CC and)
+            (VP
+              (ADVP (RB so))
+              (MD will) (RB not)
+              (VP (VB tolerate)
+                (NP
+                  (NP (DT the) (NNS whims))
+                  (PP (IN of)
+                    (NP (DT a) (NN tyrant))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nonetheless))
+    (VP (VB let)
+      (S
+        (NP (PRP us))
+        (VP (VB remember)
+          (NP
+            (NP (DT some) (NNS passages))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (VBP show)
+                  (SBAR
+                    (S
+                      (NP (DT the) (JJ same) (NN imagery) (NNS bacchylides))
+                      (VP (VBD was)
+                        (VP (VBN inspired)
+                          (PP (IN by)))))))))))))
+    (. .)))
+

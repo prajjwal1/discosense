@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN food) (NN retailing) (NNS establishments)))
+    (, ,)
+    (NP (JJ large) (JJ open) (NN chiller) (NNS cabinets))
+    (VP (VBP are)
+      (ADJP (RB highly) (JJ effective)
+        (PP (IN at)
+          (S
+            (VP (VBG dehumidifying)
+              (NP (DT the) (JJ internal) (NN air)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB conversely))
+    (NP (DT a) (NN humidifier))
+    (VP (VBZ increases)
+      (NP
+        (NP (DT the) (NN humidity))
+        (PP (IN of)
+          (NP (DT a) (NN building)))))
+    (. .)))
+

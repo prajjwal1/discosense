@@ -1,0 +1,24 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (CD 1974)))
+    (, ,)
+    (NP (NN elizabeth)
+      (CC and)
+      (NN gordon))
+    (VP (VBD divorced))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB subsequently))
+    (NP (NN elizabeth))
+    (VP (VBD opened)
+      (NP
+        (NP (PRP$ her) (JJ own) (NN practice))
+        (, ,)
+        (NP (JJ elizabeth) (NN wright) (NN ingraham))
+        (CC and)
+        (NP (NNS associates))))
+    (. .)))
+

@@ -1,0 +1,1 @@
+another advantage to mapping each data access to data within a block to the same identifier is that it simplifies analysis of a data access sequence. specifically instead of analyzing the sequence within the block, an analyzer can focus on a sequence of blocks accessed.

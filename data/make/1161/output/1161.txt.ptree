@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (S
+      (VP
+        (ADVP (RB sure))
+        (VBN saved)
+        (PP (IN on)
+          (NP (NN furniture) (NN delivery) (NNS thanks)))))
+    (VP (VBP overstock))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ overall) (NNS i))
+      (PP (IN like)
+        (NP
+          (NP (DT this) (NN chair))
+          (, ,)
+          (PP (IN since)
+            (NP (DT the) (NN quality))))))
+    (VP (VBZ is)
+      (NP (JJ top) (NNS notch)))
+    (. .)))
+

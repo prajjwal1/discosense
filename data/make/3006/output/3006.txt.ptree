@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (NP (PRP it))
+    (VP (VBP doesnt)
+      (NP
+        (NP (NN fit) (NN snugly))
+        (, ,)
+        (NP
+          (NP (PRP$ its) (JJ loose))
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (VP (VBZ is) (RB not)
+                (NP
+                  (NP (DT the) (NN fit))
+                  (SBAR
+                    (S
+                      (NP (FW i))
+                      (VP (VBP want)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB otherwise))
+    (NP (PRP they))
+    (VP (MD would)
+      (VP (VB be)
+        (ADJP (JJ perfect))))
+    (. .)))
+

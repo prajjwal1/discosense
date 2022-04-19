@@ -1,0 +1,53 @@
+(ROOT
+  (S
+    (ADVP (RB apparently))
+    (, ,)
+    (NP (DT the) (JJ blue) (NNS dogs))
+    (VP (MD would)
+      (VP
+        (VP (VB have)
+          (S
+            (NP (PRP us))
+            (VP (VBP believe)
+              (SBAR
+                (S
+                  (NP (JJ conservative) (, ,) (JJ working) (NN class) (NNS constituents))
+                  (VP (VBP are)
+                    (VP (VBG insisting)
+                      (NP (PRP$ their) (JJ congressional) (NNS representatives)))))))))
+        (CONJP (RB not) (JJ only))
+        (VP (VB support)
+          (NP (NN bank) (NNS foreclosures)))
+        (, ,)
+        (CC but)
+        (ADVP (RB also))
+        (VP (VB help)
+          (S
+            (NP (NN wall) (NN street) (NNS barons))
+            (VP (VB rob)
+              (NP (DT the) (JJ federal) (NN treasury)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP
+      (ADVP (RB nonetheless))
+      (IN over)
+      (NP (DT the) (JJ long) (NN term)))
+    (, ,)
+    (NP
+      (NP (DT those))
+      (PP (IN like)
+        (NP (DT the) (JJ blue) (NNS dogs))))
+    (VP (MD will)
+      (VP (VB have)
+        (NP
+          (NP (DT an)
+            (ADJP (RB increasingly) (JJ difficult))
+            (NN time))
+          (VP (VBG succeeding)
+            (ADJP (DT both) (JJ legislatively)
+              (CC and)
+              (JJ electorally))))))
+    (. .)))
+

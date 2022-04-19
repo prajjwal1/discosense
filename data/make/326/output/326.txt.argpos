@@ -1,0 +1,2 @@
+conn:also conn_POS:RB prev1:women prev1_POS:NNS with_prev1_full:women_also with_prev1_POS_full:NNS_RB prev2:against prev2_POS:IN with_prev2_full:against_also with_prev2_POS_full:IN_RB NA
+conn:for_example conn_POS:IN_NN sent_pos:0 NA

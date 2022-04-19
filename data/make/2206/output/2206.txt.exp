@@ -1,0 +1,2 @@
+conn_lc:if conn:if conn_POS:IN xxx£
+conn_lc:as conn:as conn_POS:IN with_prev_full:expected_as xxx£

@@ -1,0 +1,59 @@
+(ROOT
+  (S
+    (S
+      (NP (NNS contraceptives))
+      (VP (VBP are)
+        (ADJP (JJ available))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (NN muslim) (NNS sheikhs))
+      (VP (VBP have)
+        (ADVP (RB frequently))
+        (VP (VBN told)
+          (NP (PRP$ their) (NNS followers))
+          (SBAR (IN that)
+            (S
+              (NP (EX there))
+              (VP (VBZ is)
+                (NP
+                  (NP (NN nothing))
+                  (PP (IN in)
+                    (NP (NN islam)))
+                  (SBAR
+                    (WHNP (WDT that))
+                    (S
+                      (VP (VBZ precludes)
+                        (NP (NN birth) (NN control))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB nevertheless))
+      (NP (NNS egyptians))
+      (VP (VBP have)
+        (NP
+          (NP (JJ great) (NN affection))
+          (PP (IN for)
+            (NP (NNS children))))))
+    (, ,)
+    (NP (NN family) (NN planning) (NNS officials))
+    (VP
+      (VP (VBP say))
+      (, ,)
+      (CC and)
+      (VP
+        (ADVP (RB still))
+        (VBP see)
+        (NP
+          (NP (JJ large) (NNS families))
+          (PP (IN as)
+            (NP
+              (NP (NNS signs))
+              (PP (IN of)
+                (NP (NN success)
+                  (CC and)
+                  (NN fertility))))))))
+    (. .)))
+

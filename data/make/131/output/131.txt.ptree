@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (NP (DT the) (NN year))
+    (VP (VBZ is)
+      (NP
+        (NP (CD 2027))
+        (, ,)
+        (NP
+          (NP (DT a) (NN quarter) (NN century))
+          (PP (IN before)
+            (NP
+              (NP (DT the) (NNS events))
+              (PP (IN of)
+                (NP (DT the) (JJ first) (NN game))))))
+        (, ,)
+        (CC and)
+        (NP
+          (NP (DT the) (NN nanotechnology))
+          (PP (IN from)
+            (NP
+              (NP (DT the) (JJ original) (JJ still) (NN hasnt))
+              (VP (VBN been)
+                (ADJP (RB fully) (JJ developed))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB instead))
+    (NP (NNS people))
+    (VP (VBD affix)
+      (NP (JJ mechanical) (NNS augmentations))
+      (PP (TO to)
+        (NP (PRP themselves)))
+      (S
+        (VP (TO to)
+          (VP (VB enhance)
+            (NP (NN perception)
+              (CC and)
+              (NN combat) (NNS abilities))))))
+    (. .)))
+

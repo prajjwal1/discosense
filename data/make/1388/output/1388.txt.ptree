@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (NP
+      (NP (NN anybody))
+      (SBAR
+        (WHNP (WP who))
+        (S
+          (VP (MD could)
+            (VP (VB get)
+              (PP (IN into)
+                (NP (DT a) (JJ national) (NN guard) (NN unit))))))))
+    (VP (VBD was)
+      (ADJP (JJ exempt) (RB too)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB consequently))
+    (NP (PRP we))
+    (VP (VBD were)
+      (VP (VBG drafting)
+        (NP
+          (NP (JJ high) (NN school) (NNS dropouts))
+          (, ,)
+          (NP (JJ low) (NN iq) (NNS people))
+          (, ,)
+          (CC and)
+          (NP (NNS people)))
+        (PP (IN with)
+          (NP
+            (NP (JJ criminal) (NNS records))
+            (, ,)
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (VP
+                  (VP (VBD made)
+                    (PP (IN for)
+                      (NP (DT a) (NN problem) (NN army)))
+                    (ADVP (RB then)))
+                  (CC and)
+                  (VP (VBZ has)
+                    (NP (DT the) (JJ same) (NN effect))))))))
+        (ADVP (RB now))))
+    (. .)))
+

@@ -1,0 +1,51 @@
+(ROOT
+  (S
+    (NP (DT this))
+    (VP (VBZ highlights)
+      (NP
+        (NP (DT the) (NNS successes))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (MD can)
+              (VP (VB be)
+                (VP (VBN achieved)
+                  (ADVP (RB even))
+                  (PP (IN with)
+                    (NP
+                      (NP
+                        (ADJP (RB relatively) (JJ low))
+                        (JJ initial) (NN interaction))
+                      (PP (IN among)
+                        (NP (DT the) (NN pedometer) (NNS subjects))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP interestingly))
+    (ADVP (RB there))
+    (VP (VBD was)
+      (NP
+        (NP (DT a) (NN drop))
+        (PP (IN in)
+          (NP
+            (NP (DT the) (NN proportion))
+            (PP (IN of)
+              (NP (JJ active) (NNS controls)))))
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP (VBD maintained)
+              (SBAR
+                (S
+                  (NP
+                    (NP (JJ sufficient) (NNS levels))
+                    (PP (IN of)
+                      (NP
+                        (NP (NN pa))
+                        (PP (IN across)
+                          (NP (DT the) (CD 12) (NN month))))))
+                  (VP (VBP follow)
+                    (PRT (RP up))))))))))
+    (. .)))
+

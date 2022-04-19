@@ -1,0 +1,1 @@
+an always visible attribute is not one of the normal window attributes defined and supported in the xwindows specification. consequently a system which includes a separately defined always visible attribute would constitute an extension to the x windows system, rendering the system incompatible with other systems.

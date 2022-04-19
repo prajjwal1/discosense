@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (S
+      (VP
+        (VP (VBG decreasing)
+          (NP (DT the) (NN feed) (NN rate))
+          (PP (IN at)
+            (NP (DT a) (JJ constant) (NN air) (NN pressure))))
+        (CC or)
+        (VP (VBG increasing)
+          (NP (DT the) (NN air) (NN pressure))
+          (PP (IN at)
+            (NP (DT a) (JJ constant) (NN feed) (NN rate))))))
+    (VP (MD will)
+      (VP (VB decrease)
+        (NP
+          (NP (PDT both) (DT the) (NN spray) (NN angle))
+          (CC and)
+          (NP (DT the) (VBG resulting) (NN particle) (NN size)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NN conversely))
+      (VP (VBG decreasing)
+        (NP (DT the) (NN air) (NN pressure))))
+    (VP (MD will)
+      (VP (VB increase)
+        (NP (PDT both)
+          (NP (DT the) (NN spray) (NN angle))
+          (CC and)
+          (NP (NN particle) (NN size)))))
+    (. .)))
+

@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB when))
+      (S
+        (NP (PRP you))
+        (VP (VBP dont)
+          (VP (VB hear)
+            (PP (IN about)
+              (NP (DT a) (JJ long) (NN snapper)))))))
+    (, ,)
+    (ADVP (RB then))
+    (NP (PRP you))
+    (VP (VBP know)
+      (SBAR
+        (S
+          (NP (PRP he))
+          (VP (VBZ is)
+            (VP (VBG doing)
+              (NP (PRP$ his) (NN job)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (ADVP (RB conversely))
+      (IN if)
+      (S
+        (NP (PRP you))
+        (VP (VBD heard)
+          (PP (IN about)
+            (NP (PRP him)))
+          (ADVP (RB frequently)))))
+    (, ,)
+    (NP (NN hed))
+    (ADVP (RB probably))
+    (VP (VB be)
+      (PRT (RP out))
+      (PP (IN of)
+        (NP (DT a) (NN job))))
+    (. .)))
+

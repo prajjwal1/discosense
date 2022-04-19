@@ -1,0 +1,47 @@
+(ROOT
+  (S
+    (NP (PRP one))
+    (VP (VBZ is)
+      (VP (VBG checking)
+        (NP (PRP$ your) (NN work))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB specifically))
+    (NP (PRP$ its) (NNP a) (NN kind))
+    (VP (VBP ofcheck)
+      (NP
+        (NP (PRP$ your) (NN workmethod))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBZ has)
+              (S
+                (VP (TO to)
+                  (VP (VB do)
+                    (PP (IN with)
+                      (S
+                        (VP
+                          (VP (VBG recognizing)
+                            (SBAR (IN that)
+                              (S
+                                (NP (PRP$ your) (NN answer))
+                                (VP (MD might)
+                                  (VP (VB be)
+                                    (ADJP (JJ fishy)))))))
+                          (, ,)
+                          (CC and)
+                          (VP (VBG knowing)
+                            (SBAR
+                              (WHADVP (WRB how))
+                              (S
+                                (VP (TO to)
+                                  (VP (VB check)
+                                    (SBAR (IN that)
+                                      (S
+                                        (NP (CD two) (NNS statements))
+                                        (VP (VBP are)
+                                          (ADJP (JJ equivalent)))))))))))))))))))))
+    (. .)))
+

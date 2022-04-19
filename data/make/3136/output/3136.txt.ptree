@@ -1,0 +1,47 @@
+(ROOT
+  (S
+    (SBAR (IN while)
+      (S
+        (NP
+          (NP (DT the) (NN life))
+          (PP (IN of)
+            (NP (JJ primitive) (NN man))))
+        (VP (VBD was)
+          (VP (VBN dominated)
+            (PP (IN by)
+              (NP (JJ brief) (, ,) (JJ intermittent) (JJ physical) (NNS stresses)))))))
+    (, ,)
+    (NP
+      (NP (DT the) (NN life))
+      (PP (IN of)
+        (NP (JJ modern) (NN man))))
+    (VP (VBZ is)
+      (VP (VBN dominated)
+        (PP (IN by)
+          (NP (JJ chronic) (JJ mental) (NN stress)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (PP (IN as)
+        (NP (DT a) (NN result)))
+      (NP (PRP$ our) (NN stress) (NN arousal) (NN system))
+      (VP (VBZ is)
+        (ADVP (RB hopelessly))
+        (ADJP (RB ill) (VBN equipped)
+          (S
+            (VP (TO to)
+              (VP (VB deal)
+                (PP (IN with)
+                  (NP (NN stress) (NN overload)))))))))
+    (, ,) (IN so)
+    (S
+      (NP (PRP it))
+      (VP (VBZ overproduces)
+        (ADJP
+          (ADJP (JJ cortisol) (JJ consistent))
+          (PP (IN with)
+            (NP (DT a) (JJ physical) (NN exhaustion) (NN stage))))))
+    (. .)))
+

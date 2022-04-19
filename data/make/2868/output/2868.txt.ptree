@@ -1,0 +1,51 @@
+(ROOT
+  (S
+    (S
+      (PP (IN at)
+        (NP (JJ first) (NN glance)
+          (CC and)
+          (NN aroma)))
+      (NP (FW i))
+      (VP (VBP am)
+        (VP (VBG anticipating)
+          (NP
+            (NP (DT some) (NN kind))
+            (PP (IN of)
+              (NP (NN rodenbach))))
+          (PP (IN like)
+            (NP (NN experience))))))
+    (CC but)
+    (S
+      (NP (DT this) (NN beer))
+      (VP (VBZ has)
+        (S
+          (NP (CC neither)
+            (NP (DT the) (NN body))
+            (CC nor)
+            (NP (DT the) (JJ high) (NN sugar) (NN content))))
+        (PP (IN of)
+          (NP (DT a) (NN rodenbach)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN on)
+      (NP (DT the) (JJ other) (NN hand)))
+    (NP (JJ kasteel) (NN rouge) (NN doesnt))
+    (VP (VBP have)
+      (NP
+        (NP (DT the) (NN acidity)
+          (CC or)
+          (NN level))
+        (PP (IN of)
+          (NP (JJ tart) (JJ sour) (NNS qualities)))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (MD would)
+              (VP (VB be)
+                (VP (VBN found)
+                  (S
+                    (ADJP (RBS most) (JJ lambics))))))))))
+    (. .)))
+

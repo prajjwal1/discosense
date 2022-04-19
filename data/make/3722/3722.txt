@@ -1,0 +1,1 @@
+in flocking simulations, there is no central control each bird behaves autonomously. in other words each bird has to decide for itself which flocks to consider as its environment.

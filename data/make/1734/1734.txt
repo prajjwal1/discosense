@@ -1,0 +1,1 @@
+uw computer scientists have created a program called stopinfo that integrates with onebusaway and provides specific information on location, safety features and stop closures for each bus stop in king county. in particular it seeks to collect and share information that blind people have identified as important when they ride the bus.

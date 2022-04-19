@@ -1,0 +1,52 @@
+(ROOT
+  (S
+    (NP
+      (NP (NN flint))
+      (, ,)
+      (NP
+        (NP (NN michigan) (CD one))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (JJ flint) (NNS generals))
+            (PP (IN from)
+              (NP (CD 2006) (CD 07)))))))
+    (VP (VBZ is)
+      (VP (VBG hoping)
+        (SBAR
+          (S
+            (NP (DT a) (NN fan))
+            (VP (MD might)
+              (VP (VB be)
+                (ADJP (JJ able)
+                  (S
+                    (VP (TO to)
+                      (VP (VB help)
+                        (NP (PRP him))
+                        (PRT (RP out))
+                        (PP (IN with)
+                          (NP (NN something)))))))))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (ADVP (RB specifically))
+    (VP (VBP hes)
+      (S
+        (VP (VBG looking)
+          (PP (IN for)
+            (NP
+              (NP (DT a) (NN photo))
+              (PP (IN from)
+                (NP (DT the) (JJ regular) (NN season))))))))
+    (NP
+      (NP (NN finale))
+      (, ,)
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (DT the) (NNS generals))
+          (VP (VBD handed)
+            (PRT (RP out))
+            (NP (PRP$ their) (JJ annual) (NNS awards))))))
+    (. .)))
+

@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (NP
+      (NP (RB even) (DT the) (JJ spanish) (NN archbishop))
+      (PP (IN of)
+        (NP (NN manila))))
+    (VP (VBD refused)
+      (S
+        (VP (TO to)
+          (VP (VB obey)
+            (NP
+              (NP (DT the) (NN order))
+              (PP (IN of)
+                (NP (DT the) (NN governor)
+                  (S
+                    (VP (TO to)
+                      (VP (VB excommunicate)
+                        (NP (DT the) (CD three))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN on)
+      (NP (DT the) (NN contrary)))
+    (NP (PRP he))
+    (VP (VBD had)
+      (NP (NN church) (NNS bells) (NN ring))
+      (PP (IN at)
+        (NP
+          (NP (DT the) (NN time))
+          (PP (IN of)
+            (NP (PRP$ their) (NN execution))))))
+    (. .)))
+

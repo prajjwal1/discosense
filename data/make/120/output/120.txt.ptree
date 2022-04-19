@@ -1,0 +1,64 @@
+(ROOT
+  (S
+    (S
+      (NP (NNS trends))
+      (VP (VBD were)
+        (VP (VBN observed)
+          (ADJP (JJ similar)
+            (PP (TO to)
+              (NP
+                (NP (DT those))
+                (PP (IN on)
+                  (NP (NN laboratory) (NN scale))))))
+          (S
+            (VP (VBG using)
+              (NP
+                (NP (DT the) (JJ same) (NNS additives))
+                (, ,)
+                (PP (IN except)
+                  (NP (DT that)))
+                (, ,))
+              (PP (IN on)
+                (NP (JJ industrial) (NN scale))))))))
+    (, ,)
+    (NP (PRP they))
+    (VP (VBD had)
+      (NP
+        (NP (DT a) (JJR greater) (NN impact))
+        (PP (IN on)
+          (NP
+            (NP (NN glutenin))
+            (VP (VBG linking))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thus))
+    (NP (DT the) (NN procedure)
+      (S
+        (VP (TO to)
+          (VP (VB make)
+            (NP (JJ dry) (NN pasta))
+            (PP (IN on)
+              (NP
+                (NP (NN laboratory) (NN scale))
+                (PP (IN in)
+                  (NP (DT this) (NN respect)))))))))
+    (VP (VBZ is)
+      (ADJP (JJ representative)
+        (PP (IN for)
+          (NP (JJ industrial) (JJ dry) (NN pasta) (NN production))))
+      (, ,)
+      (PP (IN notwithstanding)
+        (NP
+          (NP (DT the) (NNS differences))
+          (PP (IN in)
+            (S
+              (VP
+                (VP (VBG processing)
+                  (NP (NNS steps)))
+                (CC and)
+                (VP (VBG drying)
+                  (NP (NNS conditions)))))))))
+    (. .)))
+

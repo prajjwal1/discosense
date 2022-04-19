@@ -1,0 +1,62 @@
+(ROOT
+  (S
+    (NP (DT the) (NNS results))
+    (VP (VBP are)
+      (ADJP (JJ startling))
+      (, ,)
+      (S
+        (VP (TO to)
+          (VP (VB say)
+            (NP (DT the)
+              (ADJP (RB very) (JJS least))
+              (QP (RB nearly) (CD 1) (IN in) (CD 5))
+              (NNS drivers))
+            (PP (IN on)
+              (NP
+                (NP (DT the) (NN road) (NN today))
+                (SBAR
+                  (S
+                    (VP (MD can) (RB not)
+                      (VP (VB meet)
+                        (S
+                          (NP (DT the) (JJ basic) (NNS requirements))
+                          (VP (TO to)
+                            (VP (VB get)
+                              (NP (DT a) (NNS drivers) (NN license)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP
+        (NP (NN sum))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBZ means)
+              (NP
+                (NP
+                  (QP (CD 36.9) (CD million))
+                  (JJ american) (NNS drivers))
+                (SBAR
+                  (S
+                    (NP
+                      (NP
+                        (QP (RB roughly) (CD 18))
+                        (NN %))
+                      (PP (IN of)
+                        (NP (DT the) (JJ overall) (NN driving) (NN population))))
+                    (VP (MD would) (RB not)
+                      (VP (VB pass)
+                        (S
+                          (NP (DT the) (VBN written) (NNS drivers))
+                          (VP (NN test)
+                            (SBAR (IN if)
+                              (S
+                                (VP (VBN taken)
+                                  (NP (NN today)))))))))))))))))
+    (, ,)
+    (NP (NN gmac))
+    (VP (VBD noted))
+    (. .)))
+

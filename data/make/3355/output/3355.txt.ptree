@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (NP (FW i))
+    (VP (VBD was)
+      (VP
+        (ADVP (RB also))
+        (VBG trying)
+        (S (RB not)
+          (VP (TO to)
+            (VP (VB say)
+              (NP (NN anything) (NN mean)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN on)
+      (NP (DT the) (JJ other) (NN hand)))
+    (NP (JJ i) (NN didnt))
+    (VP (VBP want)
+      (S
+        (VP (TO to)
+          (VP (VB leave)
+            (NP (DT the) (NN impression))
+            (SBAR (IN that)
+              (S
+                (NP (FW i))
+                (VP (VBP consider)
+                  (S
+                    (NP
+                      (NP (DT the) (NN emphasis))
+                      (PP (IN on)
+                        (NP (NN community))))
+                    (VP (TO to)
+                      (VP (VB be)
+                        (NP (DT a) (JJ good) (NN thing))))))))))))
+    (. .)))
+

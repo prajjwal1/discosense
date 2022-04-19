@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (PP (IN for)
+      (NP (NN example)))
+    (, ,)
+    (NP
+      (NP (NN someone))
+      (PP (IN with)
+        (NP (DT a) (JJ great) (NN research) (NN background))))
+    (VP (MD would)
+      (VP (VB get)
+        (VP (VBN accepted)
+          (PP (IN with)
+            (NP
+              (NP (DT a)
+                (ADJP (RB fairly) (JJ low))
+                (NN score))
+              (, ,)
+              (CC or)
+              (NP (NN visa) (NNS versa)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP (NN example)))
+    (NP (FW i))
+    (VP (VBP have)
+      (VP (VBN translated)
+        (NP (NN arizona))
+        (PP (IN into))))
+    (. .)))
+

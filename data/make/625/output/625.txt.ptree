@@ -1,0 +1,26 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNS deviations))
+      (PP (IN from)
+        (NP (DT that) (NN standard))))
+    (VP (MD may)
+      (VP (VB be)
+        (NP
+          (NP (DT a) (NN reflection))
+          (PP (IN of)
+            (NP (NN quality))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN on)
+      (NP (DT the) (JJ other) (NN hand)))
+    (NP (NN photo) (NN interpretation))
+    (VP (VBZ is) (, ,)
+      (PP (IN for)
+        (NP (DT the) (JJS most) (NN part)))
+      (, ,)
+      (NP (DT a) (JJ subjective) (NN process)))
+    (. .)))
+

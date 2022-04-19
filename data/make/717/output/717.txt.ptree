@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (NP (DT this))
+    (VP (VBZ implies)
+      (SBAR (IN that)
+        (S
+          (NP (EX there))
+          (VP (VBZ is)
+            (NP (DT no) (NN retention))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (JJ other) (NNS words)))
+    (NP (NN c) (NNS clips))
+    (VP (MD can)
+      (VP (VB be)
+        (VP (VBN deleted)
+          (ADVP (RB immediately)))))
+    (. .)))
+

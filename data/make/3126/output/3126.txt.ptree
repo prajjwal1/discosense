@@ -1,0 +1,51 @@
+(ROOT
+  (S
+    (NP
+      (NP (NN language))
+      (PP (IN in)
+        (NP
+          (NP (DT the) (JJ first) (JJ apostolic) (NN exhortation))
+          (PP (IN of)
+            (NP
+              (NP (NN pope) (NNS francis))
+              (, ,)
+              (NP (NN evangelii) (NN gaudium))
+              (, ,))))))
+    (VP (VBZ has)
+      (VP (VBN fueled)
+        (X
+          (X (DT the))
+          (S
+            (ADVP (RB never))
+            (VP (VBG ending)
+              (NP (NN debate))
+              (PP (IN about)
+                (NP
+                  (NP (DT the) (JJ relative) (NNS merits))
+                  (PP (IN of)
+                    (NP (JJ alternative) (JJ economic) (NNS systems))))))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (PP (IN in)
+      (NP
+        (NP (JJ particular) (NNS commentators))
+        (PP (IN on)
+          (NP
+            (NP (JJ various) (NNS parts))
+            (PP (IN of)
+              (NP (DT the) (JJ political) (NN spectrum)))))))
+    (VP (VBP have)
+      (VP (VBN critiqued)
+        (CC or)
+        (VBN praised)))
+    (NP
+      (NP (DT the) (JJ holy) (NNS fathers))
+      (VP (VBN supposed)
+        (NP
+          (NP (NN condemnation))
+          (PP (IN of)
+            (NP (JJ unfettered) (NN capitalism))))))
+    (. .)))
+

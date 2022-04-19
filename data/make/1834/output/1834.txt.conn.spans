@@ -1,0 +1,6 @@
+0..4 0 when 1834.txt 0
+31..33 0 or 1834.txt 0
+84..86 0 or 1834.txt 0
+105..116 0 in_addition 1834.txt 0
+139..153 1 in_other_words 1834.txt 0
+181..184 1 and 1834.txt 0

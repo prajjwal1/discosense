@@ -1,0 +1,50 @@
+(ROOT
+  (S
+    (NP (JJ circular) (NNS permutations))
+    (VP (VBP include)
+      (NP
+        (NP (DT those) (NNS molecules))
+        (SBAR
+          (WHNP (WP$ whose) (NN structure))
+          (S
+            (VP (VBZ is)
+              (ADJP (JJ equivalent)
+                (PP (TO to)
+                  (NP
+                    (NP (DT a) (NN molecule))
+                    (SBAR
+                      (WHNP (WDT that))
+                      (S
+                        (VP (VBZ has)
+                          (VP (VBN been)
+                            (VP
+                              (VP (VBN circularized))
+                              (CC and)
+                              (VP
+                                (ADVP (RB then))
+                                (VBN opened)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thus))
+    (NP (DT a)
+      (ADJP (RB circularly) (JJ permuted))
+      (NN molecule))
+    (VP (MD may)
+      (VP
+        (VP (VB be)
+          (VP (VBN synthesized)
+            (NP
+              (NP (NNP de) (NNP novo))
+              (PP (IN as)
+                (NP (DT a) (JJ linear) (NN molecule))))))
+        (CC and)
+        (ADVP (RB never))
+        (VP (VB go)
+          (PP (IN through)
+            (NP (DT a) (NN circularization)
+              (CC and)
+              (NN opening) (NN step))))))
+    (. .)))
+

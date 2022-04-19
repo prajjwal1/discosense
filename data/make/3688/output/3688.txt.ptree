@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (NP (DT this) (NN problem))
+    (VP (VBZ is)
+      (ADJP (JJ difficult)
+        (PP (IN for)
+          (NP (JJ large) (NNS instances)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB specifically))
+    (NP (PRP it))
+    (VP (VBZ is)
+      (VP (VBN np)
+        (S
+          (ADJP (JJ hard)))
+        (, ,)
+        (S
+          (VP (VBG meaning)
+            (SBAR (IN that)
+              (S
+                (NP (PRP it))
+                (VP (VBZ is)
+                  (VP (VBN conjectured)
+                    (SBAR (IN that)
+                      (S
+                        (NP (EX there))
+                        (VP (VBZ does) (RB not)
+                          (VP (VB exist)
+                            (NP
+                              (NP (DT a) (JJ polynomial) (NN time) (NN algorithm))
+                              (SBAR
+                                (WHNP (WDT which))
+                                (S
+                                  (VP (VBZ finds)
+                                    (NP (DT the) (JJ optimal) (NN allocation))))))))))))))))))
+    (. .)))
+

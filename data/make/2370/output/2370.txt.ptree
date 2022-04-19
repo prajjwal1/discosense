@@ -1,0 +1,44 @@
+(ROOT
+  (NP
+    (NP (NNS thats))
+    (VP
+      (ADVP (RB only)
+        (NP (RB about) (CD 0.02) (NNS ounces))
+        (PP (IN for)
+          (NP
+            (NP (DT a) (JJ typical) (NN droplet))
+            (, ,)
+            (NP
+              (NP (DT the) (NN equivalent))
+              (PP (IN of)
+                (NP (DT a) (NN mosquito)))))))
+      (VBG being)
+      (VP (VBN hit)
+        (PP (IN by)
+          (NP (DT a) (NN feather)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN contrast)))
+    (NP
+      (NP (DT a) (NN dragonfly))
+      (SBAR
+        (WHNP (WDT that))
+        (S
+          (VP (VBZ weighs)
+            (NP
+              (NP
+                (QP (JJR more) (IN than) (CD 1,000) (NNS times))
+                (DT that))
+              (PP (IN of)
+                (NP (DT a) (NN mosquito))))))))
+    (VP (MD would)
+      (VP (VB absorb)
+        (NP
+          (NP (CD 90) (NN percent))
+          (PP (IN of)
+            (NP (DT a) (NNS droplets) (NN force))))))
+    (. .)))
+

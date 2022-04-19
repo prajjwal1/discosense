@@ -1,0 +1,58 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (DT the) (VBN wound) (NN healing)))
+    (NP
+      (NP
+        (NP
+          (ADJP (RB assay) (JJ solvent))
+          (JJ treated) (NN ls))
+        (NP (CD 174) (NN t)))
+      (, ,)
+      (CC and)
+      (NP
+        (QP (CD sw) (CD 480))
+        (NNS cells)))
+    (VP (VBD were)
+      (ADJP (JJ able)
+        (S
+          (VP (TO to)
+            (VP (VB close)
+              (NP (DT the) (NN wound))
+              (PP (IN by)
+                (NP (NN day) (CD 4)))
+              (PP (IN after)
+                (NP (VBN wound) (NN insertion))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP
+        (NP (NN contrast))
+        (PP (IN in)
+          (NP (JJ solvent) (JJ treated) (NN dld)))))
+    (NP (CD 1) (NNS cells))
+    (VP (VBD wound)
+      (SBAR
+        (S
+          (NP (NN closure))
+          (VP (VBD was) (RB not)
+            (NP
+              (NP (NN com))
+              (VP (VBN pleted)
+                (PP (IN by)
+                  (NP
+                    (NP (NN day) (CD 4))
+                    (, ,)
+                    (SBAR
+                      (WHNP (WDT which))
+                      (S
+                        (VP (VBD was)
+                          (ADJP (JJ consistent)
+                            (PP (IN with)
+                              (NP (PRP$ their) (VBN decreased) (NN migration)
+                                (CC and)
+                                (NN invasion) (NNS rates)))))))))))))))
+    (. .)))
+

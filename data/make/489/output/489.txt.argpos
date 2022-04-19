@@ -1,0 +1,2 @@
+conn:therefore conn_POS:RB sent_pos:0 NA
+conn:if conn_POS:IN prev1:superfluities prev1_POS:NNS with_prev1_full:superfluities_if with_prev1_POS_full:NNS_IN prev2:no prev2_POS:DT with_prev2_full:no_if with_prev2_POS_full:DT_IN NA

@@ -1,0 +1,4 @@
+conn_lc:in_fact conn:in_fact conn_POS:IN_NN xxx£
+conn_lc:thus conn:thus conn_POS:RB xxx£
+conn_lc:before conn:before conn_POS:IN with_prev_full:pausing_before xxx£
+conn_lc:before conn:before conn_POS:IN with_prev_full:seconds_before xxx£

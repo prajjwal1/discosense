@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (ADVP (RB thus))
+    (, ,)
+    (NP
+      (NP (DT the) (JJ generated) (NNS objects))
+      (PP (IN in)
+        (NP (DT a) (NN coarser) (NN segmentation))))
+    (VP (VBP inherit)
+      (NP (NN information))
+      (PP (IN from)
+        (NP
+          (NP (JJR smaller) (NNS objects))
+          (VP (VBN generated)
+            (PP (IN with)
+              (NP (NN finer) (NN scale) (NNS parameters)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB subsequently))
+    (NP (DT the) (NNS rankings))
+    (VP (VBP are)
+      (VP
+        (VP (VBN trained)
+          (S
+            (VP (VBG using)
+              (NP
+                (NP (DT the) (JJ same) (NNS plots))
+                (PP (IN of)
+                  (NP (NN training)))))))
+        (CC and)
+        (VP (VBN validated)
+          (S
+            (VP (VBG using)
+              (NP
+                (NP (DT the) (JJ same) (NN validation) (NNS plots))
+                (VP (VBN used)
+                  (PP (IN in)
+                    (NP (JJ previous) (NNS classifications))))))))))
+    (. .)))
+

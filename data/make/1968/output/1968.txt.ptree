@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (PP (IN on)
+      (NP
+        (NP (DT the) (NN contrary))
+        (, ,)
+        (NP
+          (NP (DT the) (NN dom) (NN level))
+          (ADJP
+            (NP (CD 2) (NNS methods))
+            (VBN related)
+            (PP (TO to)
+              (NP (NNS namespaces)))))))
+    (, ,)
+    (VP (VB identify)
+      (NP (NN attribute) (NNS nodes))
+      (PP (IN by)
+        (NP (PRP$ their) (NN namespaceuri)
+          (CC and)
+          (NN localname))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB because) (IN of)
+      (NP (DT this) (JJ fundamental) (NN difference)))
+    (, ,)
+    (S
+      (VP (VBG mixing)
+        (NP
+          (NP (DT both) (NNS sets))
+          (PP (IN of)
+            (NP (NNS methods))))))
+    (VP (MD can)
+      (VP (VB lead)
+        (PP (TO to)
+          (NP (JJ unpredictable) (NNS results)))))
+    (. .)))
+

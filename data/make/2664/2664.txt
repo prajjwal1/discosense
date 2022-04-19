@@ -1,0 +1,1 @@
+the thin bar is located directly in front of the left camera, and the fat bar is located directly in front of the right camera. thus the left camera presents the thin bar at the center of the monitor shown at t l in fig.

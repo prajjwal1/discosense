@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (NP (PRP it))
+    (VP (MD can)
+      (VP (VB provide)
+        (NP (JJ internal) (NNS auditors) (, ,) (NNS controllers)
+          (CC and)
+          (NNS cfos))
+        (PP (IN with)
+          (NP
+            (NP (NN evidence))
+            (PP (IN of)
+              (NP (NN payment) (NN fraud)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (ADJP (RB similarly) (JJ oversights))
+      (NN revenue) (NNS insights))
+    (VP (MD can)
+      (VP (VB detect)
+        (NP
+          (NP (NN pricing) (NNS trends))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBP indicate)
+                (NP
+                  (NP (NN discounting))
+                  (SBAR
+                    (WHNP (WDT that))
+                    (S
+                      (VP (VBZ exceeds)
+                        (NP (NNS guidelines))
+                        (, ,)
+                        (S
+                          (VP (VBG preventing)
+                            (NP (JJ unnecessary) (NN margin) (NN erosion))))))))))))))
+    (. .)))
+

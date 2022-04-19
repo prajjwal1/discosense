@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (JJ partial) (NN fluid) (NN stream))
+      (NP (CD 70)))
+    (VP (MD will)
+      (VP (VB be)
+        (ADJP (JJ conveyed)
+          (PP (IN in)
+            (NP
+              (NP (DT a) (NN direction) (NN opposite))
+              (PP (TO to)
+                (NP (DT the) (JJ main) (NN conveying) (NN direction)))))
+          (NP (CD 36)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thereby))
+    (NP (DT a) (NN counterflow))
+    (VP (VBZ is)
+      (ADJP (JJ effected)
+        (PP (IN within)
+          (NP (DT the) (JJ first) (NN pump) (NN device)))
+        (NP (CD 10))))
+    (. .)))
+

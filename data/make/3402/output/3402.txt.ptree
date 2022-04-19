@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (NP (NN second))
+    (, ,)
+    (NP (PRP he))
+    (VP
+      (VP (VBD observed)
+        (NP (DT the) (NN law))
+        (PP (IN from)
+          (NP (JJ superabundant) (NN willingness))))
+      (CC and)
+      (VP (VBD was)
+        (ADJP (JJ liable))
+        (PP (TO to)
+          (NP (DT no) (NN penalty)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN contrast)))
+    (NP (PRP$ our) (NN guilt))
+    (VP (VBZ is)
+      (ADVP (RB also))
+      (PP (IN of)
+        (NP (JJ twofold) (NN character))))
+    (. .)))
+

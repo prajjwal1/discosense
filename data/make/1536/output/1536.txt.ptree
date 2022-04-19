@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (NP (NN lithium) (NNS ions))
+    (ADVP (RB completely))
+    (VP (VBD replaced)
+      (NP (NN egf))
+      (PP (IN as)
+        (NP (DT a) (JJ necessary) (NN protein) (NN growth) (NN factor)))
+      (PP (IN for)
+        (NP
+          (NP (JJ clonal) (NN growth))
+          (PP (IN of)
+            (NP (NNS keratinocytes))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thereby))
+    (NP (NN lithium) (NNS ions))
+    (VP (VBP qualify)
+      (ADVP (FW per) (FW se))
+      (PP (IN as)
+        (NP (DT an) (JJ independent) (NN growth) (NN factor))))
+    (. .)))
+

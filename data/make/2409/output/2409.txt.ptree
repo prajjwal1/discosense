@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (S
+      (NP (NN baby) (NNS teeth))
+      (VP (VBP are)
+        (ADJP (JJ different)
+          (PP (IN from)
+            (NP
+              (NP (JJ adult) (NNS teeth))
+              (SBAR
+                (WHPP (IN in)
+                  (WHNP (WDT that)))
+                (S
+                  (NP
+                    (NP (DT the) (JJ outer) (NN layer))
+                    (PP (IN of)
+                      (NP (DT the) (NNS teeth))))
+                  (VP (VBZ is)
+                    (ADJP (RB much) (JJR thinner))))))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP
+        (NP (DT the) (NN layer) (RB just))
+        (WHPP (IN under)
+          (WHNP (WDT that))))
+      (VP (VBZ is)
+        (NP (RB much) (JJR softer))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB because) (IN of)
+      (NP (DT this)))
+    (NP (NNS cavities))
+    (VP (MD can)
+      (VP (VB eat)
+        (PP (IN through)
+          (NP (NN baby) (NNS teeth)))
+        (ADVP (RB surprisingly) (RB quickly))))
+    (. .)))
+

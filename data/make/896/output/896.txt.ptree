@@ -1,0 +1,50 @@
+(ROOT
+  (S
+    (NP
+      (NP (VBG spending) (NNS months))
+      (CC or)
+      (NP (RB even)
+        (NP (NNS days))
+        (ADVP (RB away)
+          (PP (IN from)
+            (NP (DT a) (NN manuscript))))))
+    (VP (VBZ detaches)
+      (NP (DT the) (NN story))
+      (PP (IN from)
+        (NP (PRP$ your) (NN unconscious))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (S
+      (ADVP (RB conversely))
+      (VP (VBG working)
+        (PP (IN on)
+          (NP
+            (NP (DT a) (NN story))
+            (NP (DT every) (NN day))))))
+    (: lights)
+    (NP
+      (NP (DT a) (NN fire))
+      (PP (IN in)
+        (NP (PRP$ your) (NN unconscious)))
+      (SBAR
+        (WHNP (WDT that))
+        (S
+          (VP (VBZ becomes)
+            (NP (NN self) (NNS sustaining))
+            (, ,)
+            (S
+              (VP (VBG igniting)
+                (NP (JJ new) (NN story) (NNS points))
+                (SBAR (RB even)
+                  (WHADVP (WRB when))
+                  (S
+                    (VP (VBP youre) (RB not)
+                      (VP (VB consciously)
+                        (S
+                          (VP (VBG working)
+                            (PP (IN on)
+                              (NP (DT the) (NN draft)))))))))))))))
+    (. .)))
+

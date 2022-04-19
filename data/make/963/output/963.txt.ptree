@@ -1,0 +1,50 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN addition)))
+    (, ,)
+    (NP
+      (NP
+        (NP (DT the) (NN means))
+        (PP (IN of)
+          (S
+            (VP (VBG promoting)
+              (NP (DT those) (NN interest))))))
+      (, ,) (RB namely)
+      (NP
+        (NP (DT a) (JJ total) (NN ban))
+        (PP (IN on)
+          (NP (JJ same) (NN sex) (NN marriage))))
+      (, ,))
+    (VP (VBP isnt)
+      (ADVP (RB narrowly))
+      (VP (VBN tailored)
+        (S
+          (VP (TO to)
+            (VP (VB produce)
+              (NP (DT those) (NNS results)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP (NN instance)))
+    (NP (DT the) (NN defense))
+    (ADVP (RB never))
+    (VP (VBD managed)
+      (S
+        (VP (TO to)
+          (VP (VB articulate)
+            (SBAR
+              (WHADVP (RB exactly) (WRB how))
+              (S
+                (S
+                  (VP (VBG precluding)
+                    (NP (NNS gays))
+                    (PP (IN from)
+                      (S
+                        (VP (VBG marrying))))))
+                (VP (VBZ promotes)
+                  (NP (NN procreation)))))))))
+    (. .)))
+

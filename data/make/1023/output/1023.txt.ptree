@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (S
+      (VP
+        (ADVP (RB once))
+        (VBN loosed)))
+    (, ,)
+    (NP
+      (NP (NN liberty))
+      (, ,)
+      (PP (IN like)
+        (NP (NN equality)))
+      (, ,))
+    (VP (VBD was)
+      (ADVP
+        (NP (DT an) (NN idea))
+        (RB not))
+      (VP
+        (ADVP (RB easily))
+        (VBN cabined)))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN on)
+      (NP (DT the) (JJ other) (NN hand)))
+    (NP
+      (NP (NN king))
+      (CC and)
+      (NP (PRP$ his) (NNS allies)))
+    (VP (VBD suffered)
+      (NP (JJ significant) (NNS defeats))
+      (PP (IN in)
+        (NP
+          (NP (DT the) (JJ legislative))
+          (, ,)
+          (NP (NN executive))
+          (, ,)
+          (CC and)
+          (NP (JJ judicial) (NNS arenas)))))
+    (. .)))
+

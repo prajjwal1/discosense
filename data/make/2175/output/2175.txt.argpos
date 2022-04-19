@@ -1,0 +1,2 @@
+conn:if conn_POS:IN sent_pos:0 NA
+conn:if conn_POS:IN sent_pos:1 prev1:likewise prev1_POS:RB with_prev1_full:likewise_if with_prev1_POS_full:RB_IN NA

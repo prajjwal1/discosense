@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (NP (EX there))
+    (VP (VBP have)
+      (VP (VBN been)
+        (NP
+          (NP (JJ numerous) (NN press) (NNS reports))
+          (PP (IN on)
+            (NP
+              (NP (DT the) (NN manipulation))
+              (PP (IN of)
+                (NP (NN crime) (NNS statistics)))))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBP have)
+                (VP (VBN highlighted)
+                  (NP
+                    (NP (DT the) (NN existence))
+                    (PP (IN of)
+                      (NP (NNS incentives)
+                        (S (RB not)
+                          (VP (TO to)
+                            (VP (VB record)
+                              (NP (JJ violent) (NN crime)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nonetheless))
+    (NP (NN murder) (NNS statistics))
+    (VP (VBP are)
+      (VP (VBN considered)
+        (S
+          (ADJP (JJ accurate)))))
+    (. .)))
+

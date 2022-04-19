@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (PP (IN for)
+      (NP (JJ many) (NN index) (NNS types)))
+    (, ,)
+    (PP (JJ such)
+      (PP (IN as)
+        (NP (NN dateindex)
+          (CC or)
+          (NN fieldindex))))
+    (, ,)
+    (NP (DT this))
+    (VP (VBZ is)
+      (ADVP (RB normally))
+      (VP (VBN done)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB however))
+    (PP (IN for)
+      (NP (NN text) (NNS indexes)))
+    (PRN (, ,)
+      (PP (JJ such) (IN as)
+        (NP
+          (NP (NN zctextindex))
+          (, ,)
+          (NP (NN textindex))
+          (, ,)
+          (CC and)
+          (NP (NN textindexng))))
+      (, ,))
+    (NP (DT the) (NN index) (NN doesnt))
+    (VP (VBP keep)
+      (NP
+        (NP (DT the) (JJ actual) (NN attribute)
+          (CC or)
+          (NN method) (NNS results))
+        (PP (IN in)
+          (NP (DT the) (NN index)))))
+    (. .)))
+

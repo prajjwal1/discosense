@@ -1,0 +1,1 @@
+the passband edges of the second filter 501 02 are denoted by the 3 db points at 197 hz and 296 hz respectively. similarly the beginning and end of the passband of the third filter is denoted by the 3 db points at 296 hz and 444 hz respectively.

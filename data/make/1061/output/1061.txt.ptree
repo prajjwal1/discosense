@@ -1,0 +1,38 @@
+(ROOT
+  (SINV
+    (S
+      (NP (DT that))
+      (VP (VBP tirade)
+        (SBAR
+          (S
+            (NP (PRP you))
+            (VP (VBD went)
+              (PP (IN on)
+                (PRN (, ,) (IN though)
+                  (ADJP (JJ entertaining))
+                  (, ,))))))))
+    (VP (VBZ leaves)
+      (PRT (RP out))
+      (NP (CD one) (JJ little) (NN factor)))
+    (NP (DT the) (NN american) (NN voter))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN though)
+      (S
+        (NP (FW i))
+        (VP (MD would)
+          (VP (VB guess)))))
+    (NP (PRP you))
+    (VP (VBP think)
+      (SBAR
+        (S
+          (NP (DT the) (JJ average) (NN american))
+          (VP (VBZ has)
+            (VP (VBN been)
+              (VP (VBN brainwashed)
+                (PP (IN by)
+                  (NP (DT the) (NN republican) (NN party)))))))))
+    (. .)))
+

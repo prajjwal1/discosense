@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (NN post) (CD 18)
+        (ADJP (DT a)
+          (CC and)
+          (DT the))
+        (NN post))
+      (ADJP (CD 18) (NN b)))
+    (VP (VBP are)
+      (VP (VBN formed)
+        (ADVP (RB so) (RB as))
+        (S
+          (VP (TO to)
+            (VP (VB have)
+              (NP (JJ different) (JJ cross) (NN sectional) (NNS areas)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thereby))
+    (NP
+      (NP (DT the) (CD two) (NNS posts))
+      (PP (IN as)
+        (NP (DT a) (NN whole))))
+    (VP (MD can)
+      (VP (VB be)
+        (VP (VBN formed)
+          (S
+            (VP (TO to)
+              (VP (VB have)
+                (NP (DT a) (JJR smaller) (NN impedance))
+                (ADVP (RB so) (RB as))
+                (S
+                  (VP (TO to)
+                    (VP (VB increase)
+                      (NP
+                        (NP (DT the) (VBG operating) (NN speed))
+                        (PP (IN of)
+                          (NP (DT the) (NN semiconductor) (NN device)))))))))))))
+    (. .)))
+

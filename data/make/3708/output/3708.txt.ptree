@@ -1,0 +1,38 @@
+(ROOT
+  (S
+    (NP (DT the) (NN sitar))
+    (VP (VBZ is)
+      (ADVP (RB generally))
+      (VP (VBN considered)
+        (NP (DT a) (JJ difficult) (NN instrument))
+        (S
+          (VP (TO to)
+            (VP (VB learn))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN by)
+      (NP (NN contrast)))
+    (NP
+      (NP (DT the) (JJ electric) (NN sitar))
+      (, ,)
+      (PP (IN with)
+        (NP
+          (NP (PRP$ its) (JJ standard) (NN guitar))
+          (ADJP (JJ fretboard)
+            (CC and)
+            (JJ tuning))))
+      (, ,))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a)
+          (ADJP (RBR more) (JJ familiar))
+          (NN fret) (NN arrangement))
+        (PP (IN for)
+          (NP (DT a) (NN guitarist)
+            (S
+              (VP (TO to)
+                (VP (VB play))))))))
+    (. .)))
+

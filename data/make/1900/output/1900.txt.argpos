@@ -1,0 +1,2 @@
+conn:then conn_POS:RB sent_pos:2 prev1:atc prev1_POS:NN with_prev1_full:atc_then with_prev1_POS_full:NN_RB prev2:the prev2_POS:DT with_prev2_full:the_then with_prev2_POS_full:DT_RB NA
+conn:on_the_other_hand conn_POS:IN_DT_JJ_NN sent_pos:0 NA

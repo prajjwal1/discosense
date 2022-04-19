@@ -1,0 +1,44 @@
+(ROOT
+  (S
+    (ADVP (RB also))
+    (PRN (, ,)
+      (S
+        (NP (NNS fetuses) (NN dont))
+        (VP (VBP hear)
+          (ADVP (RB as) (RB much))
+          (PP (IN with)
+            (NP (PRP$ their) (NNS ears)))
+          (SBAR (IN as)
+            (S
+              (NP (NNS children)
+                (CC or)
+                (NNS adults))
+              (VP (VBP do)
+                (SBAR (IN because)
+                  (S
+                    (NP (PRP$ their) (NNS ears))
+                    (VP (VBP are)
+                      (VP (VBN filled)
+                        (PP (IN with)
+                          (NP (NN fluid))))))))))))
+      (, ,))
+    (NP (PRP he))
+    (VP (VBD said))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (ADJP (RB rather) (JJ much))
+      (NN noise))
+    (VP (VBZ is)
+      (VP (VBN transmitted)
+        (PP (TO to)
+          (NP (PRP$ their) (JJ inner) (NNS ears)))
+        (PP (IN through)
+          (NP
+            (NP (NNS vibrations))
+            (PP (IN in)
+              (NP (PRP$ their) (NNS skulls)))))))
+    (. .)))
+

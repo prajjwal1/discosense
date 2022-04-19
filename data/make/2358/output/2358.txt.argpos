@@ -1,0 +1,3 @@
+conn:however conn_POS:RB prev1:, prev1_POS:, with_prev1_full:,_however with_prev1_POS_full:,_RB prev2:biography prev2_POS:NN with_prev2_full:biography_however with_prev2_POS_full:NN_RB NA
+conn:in_sum conn_POS:IN_NN sent_pos:0 NA
+conn:as conn_POS:IN prev1:story prev1_POS:NN with_prev1_full:story_as with_prev1_POS_full:NN_IN prev2:the prev2_POS:DT with_prev2_full:the_as with_prev2_POS_full:DT_IN NA

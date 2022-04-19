@@ -1,0 +1,4 @@
+conn:thus conn_POS:RB sent_pos:0 NA
+conn:and conn_POS:CC prev1:individual prev1_POS:NN with_prev1_full:individual_and with_prev1_POS_full:NN_CC prev2:an prev2_POS:DT with_prev2_full:an_and with_prev2_POS_full:DT_CC NA
+conn:whereas conn_POS:IN prev1:leader prev1_POS:NN with_prev1_full:leader_whereas with_prev1_POS_full:NN_IN prev2:a prev2_POS:DT with_prev2_full:a_whereas with_prev2_POS_full:DT_IN NA
+conn:in_contrast conn_POS:IN_NN sent_pos:0 NA

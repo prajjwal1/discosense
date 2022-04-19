@@ -1,0 +1,44 @@
+(ROOT
+  (S
+    (NP (DT the) (NNS changes))
+    (VP
+      (VP (VBP are)
+        (ADJP (RB often) (JJ subtle)))
+      (, ,)
+      (CC but)
+      (VP (MD can)
+        (VP (VB lead)
+          (PP (TO to)
+            (NP (JJ disastrous) (NNS complications)))
+          (SBAR (IN if)
+            (S
+              (NP (JJ proper) (NNS precautions))
+              (VP (VBP are) (RB not)
+                (VP (VBN taken))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (ADJP (RB conversely) (JJ appropriate))
+        (NN management))
+      (PP (IN of)
+        (NP (JJ routine)
+          (CC and)
+          (JJ dental) (NNS emergencies))))
+    (VP (MD can)
+      (VP (VB be)
+        (VP (VBN denied)
+          (PP (IN by)
+            (NP
+              (NP (DT the) (NN practitioner))
+              (PP (RB because) (IN of)
+                (NP
+                  (NP (NNS misconceptions))
+                  (PP (IN about)
+                    (NP (NN pregnancy)
+                      (CC and)
+                      (JJ fetal) (NN tolerance))))))))))
+    (. .)))
+

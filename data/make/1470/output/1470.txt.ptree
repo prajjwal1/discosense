@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (NP (PRP one))
+    (VP (VBD did)
+      (SBAR
+        (S
+          (VP (VBP know)
+            (SBAR (IN that)
+              (S
+                (NP (PDT all) (DT these) (NNS needs))
+                (VP (MD would)
+                  (VP (VB arise) (, ,)
+                    (ADVP (RBR sooner))
+                    (PP (RB rather) (IN than)
+                      (ADVP (RB later)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB therefore))
+    (NP (DT the) (NN pressure))
+    (VP (VBD was)
+      (NP
+        (NP (DT all))
+        (PP (IN on)
+          (NP
+            (NP (DT the) (NN side))
+            (PP (IN of)
+              (S
+                (VP (VBG being)
+                  (UCP (RB as)
+                    (ADJP
+                      (ADJP (RB solidary) (RB as) (JJ possible))
+                      (PP (IN within)
+                        (NP (NNS laws))))
+                    (CC and)
+                    (PP (IN with)
+                      (NP (NN anyone)
+                        (CC and)
+                        (NN everyone)))))))))
+        (NP (RB else) (JJ nearby))))
+    (. .)))
+

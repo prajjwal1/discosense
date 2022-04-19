@@ -1,0 +1,52 @@
+(ROOT
+  (S
+    (NP (FW i))
+    (VP (MD would) (RB not)
+      (VP (VB bother)
+        (S
+          (VP (VBG trying)
+            (S
+              (VP (TO to)
+                (VP (VB post)
+                  (PP (IN at)
+                    (NP (NN ehrman) (, ,) (NN hoffman) (, ,) (NN verenna) (NN etc) (NNS blogs)))
+                  (, ,)
+                  (SBAR (IN since)
+                    (S
+                      (NP (PRP they))
+                      (VP (VBP are)
+                        (ADVP (RB just))
+                        (NP
+                          (NP (DT a) (NNS cowards))
+                          (SBAR
+                            (S
+                              (VP (VBP echo)
+                                (NP (NN chamber))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN by)
+      (NP (NN contrast)))
+    (NP
+      (NP (JJ free) (NN thought) (NN nation))
+      (, ,)
+      (NP (JJ murdocks) (NN site))
+      (, ,))
+    (VP (MD would)
+      (VP (VB welcome)
+        (NP
+          (NP (DT any) (NN apologist))
+          (SBAR
+            (WHNP (WP who))
+            (S
+              (VP (VBZ deigns)
+                (S
+                  (VP (TO to)
+                    (VP (VB sully)
+                      (NP (PRP$ their) (NN reputation))
+                      (PP (IN by)
+                        (S
+                          (VP (VBG posting)))))))))))))
+    (. .)))
+

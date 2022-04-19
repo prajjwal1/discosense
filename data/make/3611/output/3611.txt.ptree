@@ -1,0 +1,48 @@
+(ROOT
+  (S
+    (NP (DT the) (NN distinction) (NN bias))
+    (VP (VBZ suggests)
+      (SBAR (IN that)
+        (S
+          (S
+            (VP (VBG comparing)
+              (NP
+                (NP (CD two) (NNS options))
+                (, ,)
+                (ADJP (RB as) (VBN done)
+                  (PP (IN in)
+                    (NP (JJ joint) (NN evaluation))))
+                (, ,))))
+          (VP (VBZ makes)
+            (NP
+              (NP (RB even) (JJ small) (NNS differences))
+              (PP (IN between)
+                (NP (NNS options) (NN salient))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (JJ other) (NNS words)))
+    (NP (VBG viewing) (NNS options))
+    (VP
+      (ADVP (RB simultaneously))
+      (VBZ makes)
+      (SBAR
+        (S
+          (NP (PRP them))
+          (VP (VBP seem)
+            (ADJP (RBR more) (JJ dissimilar)
+              (PP (IN than)
+                (SBAR
+                  (WHADVP (WRB when))
+                  (S
+                    (VP (VBG viewing)
+                      (CC and)
+                      (VBG evaluating)
+                      (NP
+                        (NP (DT each))
+                        (PP (IN in)
+                          (NP (NN isolation)))))))))))))
+    (. .)))
+

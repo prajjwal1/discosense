@@ -1,0 +1,15 @@
+conn:thereby conn_lc:thereby conn_cat:Conj-adverb conn_to_node:RB->ADVP->S->VP->VP->S conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:0 1:2
+conn:thereby conn_lc:thereby conn_cat:Conj-adverb conn_to_node:RB->ADVP->S->VP->VP->S<-PP conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:-1 1:3
+conn:thereby conn_lc:thereby conn_cat:Conj-adverb conn_to_node:RB->ADVP->S->VP->VP->S<-PP<-NP conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:-1 1:6
+conn:thereby conn_lc:thereby conn_cat:Conj-adverb conn_to_node:RB->ADVP->S->VP->VP->S<-NP conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:-1 1:11
+conn:thereby conn_lc:thereby conn_cat:Conj-adverb conn_to_node:RB->ADVP->S->VP->VP conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:0 1:14
+conn:thereby conn_lc:thereby conn_cat:Conj-adverb conn_to_node:RB->ADVP->S->VP conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:0 1:17
+conn:thereby conn_lc:thereby conn_cat:Conj-adverb conn_to_node:RB->ADVP->S->VP<-NP conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:-1 1:20
+conn:thereby conn_lc:thereby conn_cat:Conj-adverb conn_to_node:RB->ADVP->S<-ROOT<-S<-VP<-VP<-NP<-ADJP conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:-1 1:21
+conn:thereby conn_lc:thereby conn_cat:Conj-adverb conn_to_node:RB->ADVP->S->VP<-PP conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:-1 1:28
+conn:thereby conn_lc:thereby conn_cat:Conj-adverb conn_to_node:RB->ADVP->S->VP<-PP<-NP conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:-1 1:31
+conn:thereby conn_lc:thereby conn_cat:Conj-adverb conn_to_node:RB->ADVP->S conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:0 1:40
+conn:thereby conn_lc:thereby conn_cat:Conj-adverb conn_to_node:RB->ADVP conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:0 1:41
+conn:thereby conn_lc:thereby conn_cat:Conj-adverb conn_to_node:RB->ADVP->S<-VP conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:1 1:44
+conn:thereby conn_lc:thereby conn_cat:Conj-adverb conn_to_node:RB->ADVP->S<-VP<-NP conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:1 1:47
+conn:thereby conn_lc:thereby conn_cat:Conj-adverb conn_to_node:RB->ADVP->S<-VP<-NP<-ADJP conn_node_lsib_size=0 conn_node_rsib_size=0 conn_to_node_relpos:1 1:48

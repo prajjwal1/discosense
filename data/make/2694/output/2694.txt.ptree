@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (NP (DT a) (NN company) (NN official))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (NN lancer) (NN production))
+          (VP (VBZ is)
+            (VP (VBG being)
+              (VP (VBN halted)
+                (PP (RB because) (IN of)
+                  (NP
+                    (NP (DT the) (NN expense))
+                    (VP (VBN involved)
+                      (PP (IN in)
+                        (S
+                          (VP (VBG transferring)
+                            (NP (DT the) (NN welding) (NNS robots))
+                            (PP (IN from)
+                              (NP (NN cainta)))
+                            (PP (TO to)
+                              (NP (NN laguna)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB instead))
+    (NP (DT the) (NN welding) (NNS robots))
+    (VP (MD will)
+      (VP (VB be)
+        (VP (VBN reconfigured)
+          (PP (IN for)
+            (NP (JJ other) (NNS uses)))
+          (PP (IN at)
+            (NP (DT the) (NN cainta) (NN plant))))))
+    (. .)))
+

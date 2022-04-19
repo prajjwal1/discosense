@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT a) (NN tie) (NN portion))
+      (VP (VBG protruding)
+        (PP (IN from))))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP
+            (NP (JJ first) (NN end))
+            (PP (IN of)
+              (NP (DT the) (NN applicator))))
+          (VP (VBZ is)
+            (VP (VBN caught)
+              (PP (IN in)
+                (NP (NN order)))
+              (S
+                (VP (TO to)
+                  (VP (VB position)
+                    (NP
+                      (NP (DT the) (NN tie))
+                      (PP (IN in)
+                        (NP (PRP$ its) (JJ proper) (NN place))))
+                    (PP (IN around)
+                      (NP (DT the) (NN tissue)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thereafter))
+    (NP (DT the) (NN tie))
+    (VP (VBZ is)
+      (VP (VBN formed)
+        (PP (IN into)
+          (NP
+            (NP (DT a) (JJ locked) (NN occlusion) (NN loop))
+            (VP
+              (ADVP (RB around))
+              (VBD said)
+              (NP (NN tissue)))))))
+    (. .)))
+

@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (NP (PRP we))
+    (ADVP (RB thus))
+    (VP (VBD designed)
+      (SBAR
+        (S
+          (NP (PRP$ our) (NN study)
+            (S
+              (VP (TO to)
+                (VP (VB correspond)
+                  (PP (TO to)
+                    (NP
+                      (NP (DT the) (JJ wide) (NN spread))
+                      (PP (IN of)
+                        (NP (VBG missing) (NNS rates)))))))))
+          (VP (VBD encountered)
+            (PP (IN by)
+              (NP (JJ applied) (NNS researchers)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB specifically))
+    (NP (PRP we))
+    (VP (VBZ manipulated)
+      (NP (DT the) (JJ overall) (VBG missing) (NN rate))
+      (PP (IN at)
+        (NP
+          (NP (CD three) (NNS levels))
+          (ADJP
+            (NP (CD 20) (NN %))
+            (NP (CD 40) (NN %)
+              (CC or)
+              (CD 60) (NN %))))))
+    (. .)))
+

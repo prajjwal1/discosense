@@ -1,0 +1,26 @@
+(ROOT
+  (S
+    (NP (NN treatment) (CD seven))
+    (VP (VBD hit)
+      (S
+        (NP (PRP me))
+        (ADJP (RB harder)))
+      (NP (DT this) (NN time)))
+    (. .)))
+
+(ROOT
+  (S (CC but)
+    (NP (FW i))
+    (VP
+      (VP (VBD got)
+        (PP (IN through)
+          (NP (PRP it))))
+      (CC and)
+      (VP
+        (ADVP (RB just))
+        (VBD went)
+        (PRT (RP in))
+        (PP (TO to)
+          (NP (NN remission)))))
+    (. .)))
+

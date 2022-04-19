@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (ADVP (RB popularly)
+      (CC or)
+      (RB loosely))
+    (, ,)
+    (NP (DT the) (NN term) (NNS geosynchronous))
+    (VP (MD may)
+      (VP (VB be)
+        (VP (VBN used)
+          (S
+            (VP (TO to)
+              (VP (VB mean)
+                (ADVP (RB geostationary))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB specifically))
+    (NP (JJ geosynchronous) (NN earth) (NN orbit))
+    (VP (MD may)
+      (VP (VB be)
+        (NP
+          (NP
+            (NP (DT a) (NN synonym))
+            (PP (IN for)
+              (NP (JJ geosynchronous) (JJ equatorial) (NN orbit))))
+          (, ,)
+          (CC or)
+          (NP (JJ geostationary) (NN earth) (NN orbit)))))
+    (. .)))
+

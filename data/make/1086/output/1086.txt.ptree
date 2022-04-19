@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (NP (PRP he))
+    (VP
+      (VP (VBD was)
+        (NP (DT a) (JJ curious) (NN choice))
+        (PP (IN by)
+          (NP (NN owner) (NN peter) (NNS angelos))))
+      (, ,)
+      (CC and)
+      (VP (VBD seemed)
+        (VP (VBN overmatched)
+          (PP (IN in)
+            (NP
+              (NP (DT a)
+                (ADJP
+                  (QP (CD 71) (CD 73)))
+                (NN strike))
+              (VP (VBN shortened)
+                (NP (NN season))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nonetheless))
+    (NP (PRP he))
+    (VP (VBD was)
+      (NP
+        (NP (DT the) (NN man))
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP (VBD got)
+              (S
+                (VP (TO to)
+                  (VP (VB write)
+                    (NP
+                      (NP (NN cal) (NN ripken))
+                      (, ,)
+                      (NP (NN jr.)))))))))))
+    (. .)))
+

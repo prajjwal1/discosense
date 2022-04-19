@@ -1,0 +1,48 @@
+(ROOT
+  (S
+    (NP (NN cook))
+    (VP (VBD emphasized)
+      (SBAR (IN that)
+        (S
+          (NP (PRP he))
+          (VP (VBD was) (RB not)
+            (VP (VBG arguing)
+              (SBAR (IN that)
+                (S
+                  (NP (NN clinton) (NN shouldnt))
+                  (VP (VB be)
+                    (VP (VBN considered)
+                      (NP (DT the) (JJ democratic) (NN frontrunner))
+                      (SBAR (IN if)
+                        (S
+                          (NP (PRP she))
+                          (VP (VBZ chooses)
+                            (S
+                              (VP (TO to)
+                                (VP (VB run))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB instead))
+    (NP
+      (NP (NN hes))
+      (VP (VBG suggesting)
+        (NP (DT the) (NN clinton) (NN candidacy))))
+    (VP (MD might) (RB not)
+      (VP (VB be)
+        (NP
+          (NP (DT the) (JJ foregone) (NN conclusion))
+          (SBAR
+            (WHNP (DT many))
+            (S
+              (VP (VBP seem)
+                (S
+                  (VP (TO to)
+                    (VP (VB think)
+                      (SBAR
+                        (S
+                          (NP (PRP it))
+                          (VP (VBZ is)))))))))))))
+    (. .)))
+

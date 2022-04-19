@@ -1,0 +1,2 @@
+conn:by_contrast conn_POS:IN_NN sent_pos:0 NA
+conn:when conn_POS:WRB prev1:lens prev1_POS:NN with_prev1_full:lens_when with_prev1_POS_full:NN_WRB prev2:outsider prev2_POS:NN with_prev2_full:outsider_when with_prev2_POS_full:NN_WRB NA

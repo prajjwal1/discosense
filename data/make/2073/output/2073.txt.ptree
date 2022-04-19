@@ -1,0 +1,47 @@
+(ROOT
+  (S
+    (SBAR
+      (X (DT the) (JJR less))
+      (S
+        (ADVP (RB frequently))
+        (NP (DT the) (NN allocation))
+        (VP (VBZ is)
+          (VP (VBN performed)))))
+    (, ,)
+    (NP (DT the)
+      (ADJP (RBR less) (JJ frequently))
+      (NN storage) (NN space) (NNS 113))
+    (VP (VBZ needs)
+      (S
+        (VP (TO to)
+          (VP (VB be)
+            (VP (VBN locked))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP
+      (ADVP (RB consequently))
+      (IN by)
+      (S
+        (VP (VBG reserving)
+          (NP (JJ several) (NNS slots))
+          (PP (JJR more) (IN than)
+            (NP
+              (NP (DT the) (NN minimum))
+              (ADJP (JJ necessary)
+                (S
+                  (VP (TO to)
+                    (VP (VB accommodate)
+                      (NP (DT each) (JJ active) (NN snapshot) (NN chain))
+                      (PP (IN during)
+                        (NP (DT each) (NN allocation) (NN process))))))))))))
+    (, ,)
+    (NP
+      (NP (NN contention))
+      (PP (IN for)
+        (NP (JJ short) (NN term) (NN memory) (NNS 112))))
+    (VP (VBZ is)
+      (VP (VBN reduced)))
+    (. .)))
+

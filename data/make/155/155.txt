@@ -1,0 +1,1 @@
+these interpretations make the segmentation process more reliable, by indicating, for example, when regions may be merged or should be split. for example the system has colored regions that it has hypothesized, using interpretation rules, to be shutters.

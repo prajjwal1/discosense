@@ -1,0 +1,1 @@
+by offsetting the location hard coded in a read only memory with an offset value, a track, other than a bad calibration track, can instead be accessed. thereby the disk drive assembly is operable without requiring the calibration tracks to be good.

@@ -1,0 +1,2 @@
+conn:when conn_POS:WRB prev1:fun prev1_POS:NN with_prev1_full:fun_when with_prev1_POS_full:NN_WRB prev2:no prev2_POS:DT with_prev2_full:no_when with_prev2_POS_full:DT_WRB NA
+conn:when conn_POS:WRB prev1:fun prev1_POS:NN with_prev1_full:fun_when with_prev1_POS_full:NN_WRB prev2:no prev2_POS:DT with_prev2_full:no_when with_prev2_POS_full:DT_WRB NA

@@ -1,0 +1,44 @@
+(ROOT
+  (S (CC but)
+    (SBAR (IN as)
+      (S
+        (NP (PRP they))
+        (VP (VBP continue)
+          (NP (JJ theyll) (NN start))
+          (S
+            (VP (TO to)
+              (VP (VB notice)
+                (NP (DT no) (NNS tools))))))))
+    (VP (VBP are)
+      (VP (VBG being)
+        (VP (VBN handed)
+          (PRT (RP out)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB instead))
+    (NP (PRP we))
+    (VP (VBP teach)
+      (PP
+        (ADVP
+          (NP (DT the) (NN player))
+          (RBR more))
+        (IN about)
+        (NP
+          (NP (DT the) (NN creature))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBD was)
+                (VP (VBG standing)
+                  (ADVP (JJ next))
+                  (PP (TO to)
+                    (NP (DT the)
+                      (ADJP (RB seemingly) (JJ impossible)
+                        (S
+                          (VP (TO to)
+                            (VP (VB reach)))))
+                      (NN collectible))))))))))
+    (. .)))
+

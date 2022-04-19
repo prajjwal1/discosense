@@ -1,0 +1,16 @@
+(ROOT
+  (S
+    (NP (NNP wed))
+    (VP (VBD missed)
+      (NP (DT a) (NN rent) (NN payment)))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (ADJP (JJ short)))
+    (NP (PRP we))
+    (VP (VBD were)
+      (VP (VBN screwed)))
+    (. .)))
+

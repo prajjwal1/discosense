@@ -1,0 +1,2 @@
+conn:by_contrast conn_POS:IN_NN sent_pos:0 NA
+conn:and conn_POS:CC prev1:participate prev1_POS:VB with_prev1_full:participate_and with_prev1_POS_full:VB_CC prev2:to prev2_POS:TO with_prev2_full:to_and with_prev2_POS_full:TO_CC NA

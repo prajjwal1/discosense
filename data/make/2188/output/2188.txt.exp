@@ -1,0 +1,6 @@
+conn_lc:for_example conn:for_example conn_POS:IN_NN xxx£
+conn_lc:however conn:however conn_POS:RB with_prev_full:,_however xxx£
+conn_lc:so conn:so conn_POS:IN with_prev_full:alkaline_so xxx£
+conn_lc:likewise conn:likewise conn_POS:RB xxx£
+conn_lc:but conn:but conn_POS:CC with_prev_full:digestion_but xxx£
+conn_lc:so conn:so conn_POS:IN with_prev_full:body_so xxx£

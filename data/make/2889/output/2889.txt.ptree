@@ -1,0 +1,57 @@
+(ROOT
+  (S
+    (S
+      (VP (VBG talking)
+        (PP (IN about)
+          (NP (NN hiv) (NNS aids)))))
+    (VP (VBZ means)
+      (S
+        (VP (VBG talking)
+          (PP (IN about)
+            (NP
+              (NP (NN sex)
+                (CC and)
+                (NNS drugs))
+              (CC and)
+              (NP (PRP$ its)
+                (ADJP
+                  (ADJP (RB not) (RB always) (JJ easy))
+                  (PP (IN for)))
+                (NNS parents))))
+          (S
+            (VP (TO to)
+              (VP (VB talk)
+                (PP (IN about)
+                  (NP
+                    (NP (DT these) (NNS topics))
+                    (PP (IN with)
+                      (NP (PRP$ their) (NNS kids)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB similarly))
+    (NP (PRP$ its)
+      (ADJP
+        (ADJP (RB not) (RB always) (JJ easy))
+        (PP (IN for)
+          (NP (NNS teens)
+            (S
+              (VP
+                (VP (TO to)
+                  (VP (VB open)
+                    (PRT (RP up))
+                    (PP (TO to)
+                      (NP (NNS parents)))))
+                (CC or)
+                (VP (TO to)
+                  (VP (VB believe)
+                    (NP (DT that) (NNS issues))
+                    (PP (IN like)
+                      (NP (NN hiv))))))))))
+      (NNS aids))
+    (VP (MD can)
+      (VP (VB affect)
+        (NP (PRP them))))
+    (. .)))
+

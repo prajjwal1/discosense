@@ -1,0 +1,2 @@
+conn:before conn_POS:IN prev1:out prev1_POS:RP with_prev1_full:out_before with_prev1_POS_full:RP_IN prev2:planned prev2_POS:VBN with_prev2_full:planned_before with_prev2_POS_full:VBN_IN NA
+conn:when conn_POS:WRB prev1:it prev1_POS:PRP with_prev1_full:it_when with_prev1_POS_full:PRP_WRB prev2:change prev2_POS:VBP with_prev2_full:change_when with_prev2_POS_full:VBP_WRB NA

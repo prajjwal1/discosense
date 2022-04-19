@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (S
+      (NP (JJS most) (NNS citizens))
+      (, ,)
+      (UCP
+        (NP (JJ natural) (NN born))
+        (CC or)
+        (ADVP (RB otherwise)))
+      (, ,)
+      (VP (VBP are)
+        (VP (VBN committed)
+          (PP (TO to)
+            (NP (NN canadian) (NN society))))))
+    (CC but)
+    (S
+      (NP (DT that) (NN commitment))
+      (VP (VBZ is) (RB not)
+        (VP (VBN ensured)
+          (PP (IN by)
+            (NP (NN citizenship))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ conversely) (NN non) (NNS citizens))
+    (VP (MD may)
+      (VP (VB be)
+        (ADJP (RB deeply) (VBN committed)
+          (PP (TO to)
+            (NP (PRP$ our) (NN country))))))
+    (. .)))
+

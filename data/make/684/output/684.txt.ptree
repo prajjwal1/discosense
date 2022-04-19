@@ -1,0 +1,47 @@
+(ROOT
+  (S
+    (NP (DT this))
+    (VP (VBZ does)
+      (VP (VB come)
+        (PP (IN with)
+          (NP
+            (NP (DT a) (NN caveat))
+            (, ,)
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (VP (VBZ is)
+                  (SBAR (IN that)
+                    (S
+                      (NP
+                        (NP (DT the) (JJ spatial) (NN distribution))
+                        (PP (IN of)
+                          (NP (NNS rainfall))))
+                      (VP (VBZ is)
+                        (ADJP (RB very) (JJ variable)
+                          (PP (IN at)
+                            (NP
+                              (NP (DT the) (JJ local) (NN scale))
+                              (, ,)
+                              (SBAR
+                                (WHNP (WDT which))
+                                (S
+                                  (NP (DT this) (NN instrument))
+                                  (VP (VBZ does) (RB not)
+                                    (VP (VB resolve))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nonetheless))
+    (NP (PRP it))
+    (VP (VBZ does)
+      (VP (VB provide)
+        (NP
+          (NP (DT a)
+            (ADJP (RB really) (JJ interesting))
+            (NN indication))
+          (PP (IN of)
+            (NP (DT the) (JJ rainfall) (NN distribution))))))
+    (. .)))
+

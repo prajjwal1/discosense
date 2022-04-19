@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (NP (DT a) (NN pca) (NN fragment))
+    (VP
+      (VP (VBZ is) (RB not)
+        (NP (DT a) (NN luminophore)))
+      (CC and)
+      (VP (VBZ does) (RB not)
+        (VP (VB enable)
+          (NP
+            (NP (NN monitoring))
+            (PP (IN of)
+              (NP
+                (NP (DT the) (NN redistribution))
+                (PP (IN of)
+                  (NP (DT an) (JJ individual) (NN protein)))))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (PP (IN in)
+      (NP
+        (NP (NN contrast))
+        (SBAR
+          (WHNP (WP what))
+          (S
+            (VP (VBZ is)
+              (VP (VBN measured)
+                (PP (IN with)
+                  (NP (NN pca)))))))))
+    (VP (VBZ is))
+    (NP
+      (NP (DT the) (NN formation))
+      (PP (IN of)
+        (NP
+          (NP (DT a) (NN complex))
+          (PP (IN between)
+            (NP (CD two) (NNS proteins))))))
+    (. .)))
+

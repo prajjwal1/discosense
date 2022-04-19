@@ -1,0 +1,2 @@
+conn:and conn_POS:CC prev1:characterization prev1_POS:NN with_prev1_full:characterization_and with_prev1_POS_full:NN_CC prev2:deeper prev2_POS:JJR with_prev2_full:deeper_and with_prev2_POS_full:JJR_CC NA
+conn:nevertheless conn_POS:RB sent_pos:0 NA

@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (ADVP (RB finally))
+    (, ,)
+    (NP (DT the) (NN akp))
+    (VP (VBZ looks)
+      (PP (IN at)
+        (NP (PRP$ its) (JJ own) (JJ electoral) (NNS successes)))
+      (PP (IN as)
+        (NP
+          (NP (PRP$ its) (JJ real) (NN ace))
+          (PP (IN in)
+            (NP (DT the) (NN hole))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP
+      (ADVP (RB yet))
+      (IN in)
+      (NP (JJ many) (NNS respects)))
+    (, ,)
+    (NP (DT the) (NNS akps) (NN hand))
+    (VP (VBZ is)
+      (ADJP (RB much) (JJR weaker))
+      (SBAR (IN than)
+        (S
+          (NP (PRP it))
+          (VP (VBZ imagines)))))
+    (. .)))
+

@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (NP (JJ resting) (NN myocardial) (NN blood) (NN flow))
+    (VP (VBD was)
+      (ADVP (RB serially))
+      (VP (VBN assessed)
+        (PP (IN by)
+          (NP
+            (NP (JJ first) (NN pass) (NN perfusion) (JJ magnetic) (NN resonance) (NN imaging))
+            (PP (IN over)
+              (NP (DT an) (CD 8) (NN wk) (NN period)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN contrast)))
+    (NP
+      (NP (DT the) (NN signal) (NN intensity) (NNS ratios))
+      (PP (IN of)
+        (NP (DT the) (CD three) (NNS groups))))
+    (VP (VBD were)
+      (ADJP (JJ indistinguishable)
+        (PP (IN at)
+          (NP (NNS weeks) (CD 4)
+            (CC and)
+            (CD 8)))))
+    (. .)))
+

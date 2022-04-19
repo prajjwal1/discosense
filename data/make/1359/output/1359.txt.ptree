@@ -1,0 +1,50 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (NN portrait))
+      (PP (IN of)
+        (NP (DT the) (NN gazania) (NN petal))))
+    (VP (VBZ isolates)
+      (NP (DT a) (JJ single) (NN element)
+        (S
+          (VP (TO to)
+            (VP (VB present)
+              (NP
+                (NP (DT the) (NN curl))
+                (PP (IN of)
+                  (NP (DT the) (NN petal))))
+              (ADVP (RB close) (RB up)
+                (PP (IN in)
+                  (NP
+                    (NP (DT a) (NN way))
+                    (SBAR
+                      (S
+                        (NP (PRP it))
+                        (VP (VBZ is) (RB not)
+                          (VP
+                            (ADVP (RB usually))
+                            (VBN seen)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN contrast)))
+    (NP
+      (NP (DT the) (NN nigella) (NN blossom))
+      (VP (VBN shown)
+        (ADVP (RB below))))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (JJ textural) (NN image))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBZ is)
+              (PP (IN in)
+                (NP (NN focus) (NN end)))
+              (S
+                (VP (TO to)
+                  (VP (VB end)))))))))
+    (. .)))
+

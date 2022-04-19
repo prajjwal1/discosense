@@ -1,0 +1,61 @@
+(ROOT
+  (S
+    (NP
+      (NP (RB yet))
+      (CC and)
+      (NP (DT this)))
+    (VP (VBZ is)
+      (ADJP (RB completely) (JJ characteristic)
+        (PP (IN of)
+          (NP (NN bach))))
+      (SBAR
+        (S
+          (NP (DT the)
+            (ADJP (JJ musics) (JJ encyclopedic))
+            (NN range))
+          (VP (VBZ is)
+            (NP
+              (NP (DT the) (JJ furthest) (NN thing))
+              (PP (IN from)
+                (NP
+                  (ADJP (JJ dry)
+                    (PP (IN as)
+                      (NP (NN dust))))
+                  (, ,) (JJ pedantic) (NN academicism))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (RB rather)
+      (S
+        (NP (NN bach))
+        (VP (VBZ invests)
+          (NP
+            (NP (DT these) (NNS works))
+            (PP (IN with)
+              (NP (DT a) (JJ dynamic) (, ,) (JJ compelling) (NN vitality))))
+          (, ,)
+          (SBAR (RB so) (IN that)
+            (S
+              (NP (PRP they))
+              (VP (VBP give)
+                (NP (NN rise))
+                (PP (TO to)
+                  (NP
+                    (NP (DT another) (NN kind))
+                    (PP (IN of)
+                      (NP (NN polyphony)))
+                    (SBAR
+                      (WHNP (WDT that))
+                      (S
+                        (VP (VBZ is))))))))))))
+    (, ,)
+    (NP (PRP they))
+    (VP (MD can)
+      (VP (VB appeal)
+        (PP (TO to)
+          (NP (JJ many) (JJ different) (NNS levels)))
+        (PP (IN at)
+          (NP (RB once)))))
+    (. .)))
+

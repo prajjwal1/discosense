@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (NP (NN flavor))
+    (VP (VBZ is)
+      (ADVP (RB almost))
+      (NP
+        (NP
+          (NP (DT that))
+          (PP (IN of)
+            (NP (DT a) (JJ pale) (NN ale))))
+        (CONJP (RB rather) (IN than))
+        (NP
+          (NP (WP what) (NN im))
+          (VP (VBG expecting)
+            (PP (IN from)
+              (NP (DT a) (NN lager)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nevertheless))
+    (NP
+      (NP (PRP$ its)
+        (NAC
+          (NP (DT a) (JJ nice) (NN palatable))
+          (ADVP (RB up)))
+        (NN front)
+        (CC and)
+        (NN center))
+      (ADJP (JJ bitter)))
+    (VP (VBZ hops)
+      (PP (IN with)
+        (NP (DT a) (JJ light)
+          (ADJP (RB almost) (JJ transparent))
+          (NN background))))
+    (. .)))
+

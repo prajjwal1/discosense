@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP$ her) (NN poop))
+      (VP (VBD was)
+        (ADJP (JJ nice)
+          (CC and)
+          (JJ firm))))
+    (CC and)
+    (S
+      (NP (PRP she))
+      (VP (VBD covered)
+        (NP (PRP it))
+        (PRT (RP up))))
+    (. .)))
+
+(ROOT
+  (S (CC but)
+    (NP (PRP$ her) (NNS eyes))
+    (VP (VBP seem)
+      (ADJP (RBR more) (JJ clouded)
+        (PP (IN over)
+          (PP (IN than)
+            (ADVP
+              (NP (RB even) (CD 2) (NNS hours))
+              (RB ago))))))
+    (. .)))
+

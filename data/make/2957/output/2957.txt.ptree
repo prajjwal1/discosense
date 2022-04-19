@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (NP
+      (NP (JJ other) (NNS sites))
+      (VP (VBN involved)
+        (PP (IN with)
+          (NP (DT the) (NN sopa) (NN protest))))
+      (, ,)
+      (PP (VBG including)
+        (NP
+          (NP (NN yahoo) (NN inc.))
+          (CC and)
+          (NP (DT the) (JJ nonprofit) (NN wikimedia) (NN foundation))))
+      (, ,))
+    (VP (VBP have) (RB not)
+      (VP (VBN responded)
+        (PP (TO to)
+          (NP
+            (NP (NNS requests))
+            (PP (IN for)
+              (NP (NN comment)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN contrast) (NN reddit) (NN inc.)))
+    (SBAR
+      (WHNP (WDT which))
+      (S
+        (VP (VBD was)
+          (VP (VBN helped)
+            (S
+              (VP (VB initiate)
+                (NP (DT the) (NN sopa) (NN protest))))))))
+    (, ,)
+    (VP (VBZ is)
+      (ADVP (RB once) (RB again))
+      (VP (VBG taking)
+        (NP (DT a) (NN stand))))
+    (. .)))
+

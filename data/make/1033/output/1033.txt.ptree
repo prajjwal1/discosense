@@ -1,0 +1,44 @@
+(ROOT
+  (S
+    (SBAR (IN if)
+      (S
+        (VP (VBP youre)
+          (PP (RB not) (IN into)
+            (NP
+              (NP (DT any))
+              (PP (IN of)
+                (NP (DT the) (JJ above))))))))
+    (, ,)
+    (NP (PRP you))
+    (VP (MD can)
+      (ADVP (RB still))
+      (VP (VB chill)
+        (PP (IN with)
+          (NP (PRP$ your) (NNS friends)))
+        (PP (IN at)
+          (NP
+            (NP (DT the) (NNS deli))
+            (PP (IN on)
+              (NP (DT the) (NN ground) (NN floor)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB hence))
+    (NP (PRP we))
+    (VP (MD would)
+      (S
+        (ADJP (NN rate))
+        (SBAR
+          (S
+            (NP
+              (NP (DT the) (NN euro) (NN mast))
+              (PP (IN as)
+                (NP
+                  (NP (CD one))
+                  (PP (IN of)
+                    (NP (DT the) (JJS best) (NN observation))))))
+            (VP (VBZ towers)
+              (PRT (RP around)))))))
+    (. .)))
+

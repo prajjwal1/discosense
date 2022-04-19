@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT a) (JJ great) (NN number))
+        (PP (IN of)
+          (NP (NN business) (NNS schools))))
+      (VP (VBP develop)
+        (NP (NN curriculum))
+        (PP (IN around)
+          (NP
+            (NP (DT an) (NN array))
+            (PP (IN of)
+              (NP (JJ international) (NN edition)))))))
+    (NP (PRP us))
+    (VP (VBD sourced)
+      (NP (NNS textbooks))
+      (PP (IN on)
+        (NP (NN offer)))
+      (PP (IN by)
+        (NP (DT the) (JJ major) (JJ educational) (NNS publishers))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB consequently))
+    (NP
+      (NP (DT the) (NN intelligentsia))
+      (PP (IN of)
+        (NP (JJ many) (NN business) (NNS schools))))
+    (VP (VBZ has)
+      (VP (VBN focused)
+        (PP (IN on)
+          (NP
+            (NP (NN quantity))
+            (PP (IN over)
+              (NP (NN quality)))))))
+    (. .)))
+

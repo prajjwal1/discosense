@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (NP (FW i))
+    (VP (VBP dont)
+      (VP (VB get)
+        (NP (DT the) (NN sense))
+        (SBAR (IN that)
+          (S
+            (NP (JJ sybase) (NN iq))
+            (ADVP (RB actually))
+            (VP (VBZ boasts)
+              (NP
+                (NP (DT a) (NN lot))
+                (PP (IN of)
+                  (NP (JJ direct) (NN workload) (NN management) (NNS features)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB however))
+      (NP (EX there))
+      (VP (VBP are)
+        (NP
+          (NP (JJ such) (NNS features))
+          (PP (IN in)
+            (NP (JJ sybases) (NN flagship) (NN ase) (NN product))))))
+    (, ,) (IN so)
+    (S
+      (ADVP (RB hopefully))
+      (S
+        (VP (VBG adding)
+          (S
+            (NP (NN something))
+            (ADJP (JJ similar)
+              (S
+                (VP (TO to)
+                  (VP (VB sybase)
+                    (NP (NN iq)))))))))
+      (VP (VBZ is)
+        (NP (DT a) (NN product) (NN future))))
+    (. .)))
+

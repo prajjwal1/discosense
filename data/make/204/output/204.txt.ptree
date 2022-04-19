@@ -1,0 +1,59 @@
+(ROOT
+  (S
+    (NP (PRP it))
+    (VP (VBZ is)
+      (ADJP (JJ difficult)
+        (S
+          (VP (TO to)
+            (VP (VB imagine)
+              (NP
+                (NP (WP what) (NN sort))
+                (PP (IN of)
+                  (NP (NN organism)))
+                (SBAR
+                  (S
+                    (NP (DT this))
+                    (VP (MD could)
+                      (VP (VB be))))))))))
+      (, ,)
+      (SBAR (IN because)
+        (S
+          (NP
+            (NP (DT no) (NN pelecypod))
+            (, ,)
+            (NP (NN crustacean))
+            (, ,)
+            (NP (NN echinoderm))
+            (, ,)
+            (CC or)
+            (NP (DT any) (JJ other) (JJ shelled) (NN burrower)))
+          (VP (VBZ has)
+            (VP (VBN been)
+              (VP (VBN found)
+                (PP (IN at)
+                  (NP
+                    (NP (DT the) (NN end))
+                    (PP (IN of)
+                      (NP (DT any) (NN tube)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB consequently))
+    (NP (NNS worms))
+    (VP (VBP seem)
+      (S
+        (VP (TO to)
+          (VP (VB be)
+            (NP (DT the) (JJS best) (NN possibility))
+            (, ,)
+            (SBAR (IN because)
+              (S
+                (NP (PRP$ their) (JJ soft) (NNS bodies))
+                (VP (MD could)
+                  (VP (VB decay)
+                    (CC and)
+                    (VB leave)
+                    (NP (DT no) (NN trace))))))))))
+    (. .)))
+

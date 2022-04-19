@@ -1,0 +1,19 @@
+(ROOT
+  (S
+    (NP (DT a) (NN peer))
+    (VP (MD may)
+      (VP (VB have)
+        (NP
+          (QP (IN at) (JJS least) (CD one))
+          (JJ personal) (NN certificate))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thus))
+    (NP (DT the) (JJ key) (NN ring))
+    (VP (MD may)
+      (VP (VB be)
+        (ADJP (RB non) (JJ empty))))
+    (. .)))
+

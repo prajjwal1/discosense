@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (NP (DT this))
+    (VP (VBZ is)
+      (NP
+        (NP (JJ nuttings) (NN approach))
+        (PP (TO to)
+          (S
+            (VP (VBG creating)
+              (NP
+                (NP (JJR closer) (NNS connections))
+                (PP (IN between)
+                  (NP (PRP$ his) (NN class) (NNS attendees)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB similarly))
+    (NP (NN jordan))
+    (VP (VBZ issues)
+      (NP (DT a) (NN client) (NN newsletter))
+      (PP (IN with)
+        (NP (JJ weekly) (NNS challenges))))
+    (. .)))
+

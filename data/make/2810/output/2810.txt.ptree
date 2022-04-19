@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (S
+      (VP (TO to)
+        (VP (VB start)
+          (PP (IN with)))))
+    (, ,)
+    (NP (FW i))
+    (VP (VBP find)
+      (S
+        (NP (PRP it))
+        (ADJP (RB almost) (JJ impossible))
+        (S
+          (VP (TO to)
+            (VP
+              (VP (VB use)
+                (NP (RB only) (DT the) (NN plugin)))
+              (CC and)
+              (RB not)
+              (VP (VB accurev)
+                (NP (PRP itself))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB therefore))
+    (NP (FW i))
+    (VP (VBP recommend)
+      (S
+        (VP (VBG using)
+          (NP (DT both)))))
+    (. .)))
+

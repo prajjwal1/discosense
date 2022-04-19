@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (NP (DT the) (JJ moiree) (NN clock))
+    (VP (MD may)
+      (VP (VB be)
+        (VP (VBN mistaken)
+          (PP (IN for)
+            (NP
+              (NP (DT a) (JJ psychedelic) (NN poster))
+              (PP (IN from)
+                (NP (DT the) (NNS 60s))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nevertheless))
+    (NP
+      (NP (DT the) (JJ complex) (NN pattern))
+      (PP (IN of)
+        (NP (DT this) (NN creation))))
+    (VP (VBZ does)
+      (VP (VB serve)
+        (NP (DT a) (JJR higher) (NN function))
+        (PP (IN than)
+          (S
+            (ADVP (RB simply))
+            (VP (VBG decorating)
+              (NP (DT the) (NN wall)))))))
+    (. .)))
+

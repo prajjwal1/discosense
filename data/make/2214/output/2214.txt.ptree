@@ -1,0 +1,48 @@
+(ROOT
+  (S
+    (ADVP (RB yet))
+    (NP (DT another) (NN issue))
+    (VP (VBZ is)
+      (SBAR (IN that)
+        (S
+          (NP (JJ video) (NNS games))
+          (VP (VBP are)
+            (ADVP (RB normally))
+            (ADJP (JJ serious)
+              (SBAR (IN as)
+                (S
+                  (NP (DT the) (NN name))
+                  (VP (VBD indicated)
+                    (PP (IN with)
+                      (NP (DT the)
+                        (ADJP (RBS most) (JJ important))
+                        (NN focus)))
+                    (PP (IN on)
+                      (S
+                        (VP (VBG mastering)
+                          (PP (RB rather) (IN than)
+                            (NP (NN enjoyment))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN although)
+      (S
+        (NP (EX there))
+        (VP (VBZ is)
+          (NP (DT an) (NN entertainment) (NN factor)
+            (S
+              (VP (TO to)
+                (VP (VB keep)
+                  (NP
+                    (NP (DT the) (NNS kids))
+                    (VP (VBN engaged))))))))))
+    (, ,)
+    (NP (DT each) (CD one) (NN game))
+    (VP (VBZ is)
+      (ADVP (RB usually))
+      (VP (VBN designed)
+        (S
+          (VP (TO to)))))
+    (. .)))
+

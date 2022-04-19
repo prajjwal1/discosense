@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (NP (DT this))
+    (VP (VBZ does) (RB not)
+      (VP (VB mean)
+        (SBAR
+          (S
+            (NP (DT the) (NN pup))
+            (VP (MD should)
+              (VP (VB be)
+                (VP (VBN deprived)
+                  (PP (IN of)
+                    (NP (JJ new) (NNS stimuli))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN on)
+      (NP (DT the) (NN contrary)))
+    (NP (DT the) (NN breeder))
+    (VP (MD must)
+      (ADVP
+        (ADVP (RB sensitively))
+        (CC and)
+        (ADVP (RB systematically)))
+      (VP (VB introduce)
+        (NP (JJ different) (NNS objects) (, ,) (NNS people)
+          (CC and)
+          (NNS situations))))
+    (. .)))
+

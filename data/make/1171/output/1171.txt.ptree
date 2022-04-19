@@ -1,0 +1,53 @@
+(ROOT
+  (S
+    (NP (PRP it))
+    (VP (VBZ is)
+      (ADJP (RB extremely) (JJ solid)
+        (PP (IN with)
+          (NP
+            (NP (DT a) (NN gasket))
+            (PP (IN around)
+              (NP (PRP it)))
+            (PP (IN for)
+              (NP (DT a) (JJ tight) (NN seal))))))
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (VP (VBD closed)))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (SBAR (IN although)
+      (S
+        (NP (EX there))
+        (VP (VBZ is)
+          (NP
+            (NP (DT an) (NN area))
+            (SBAR
+              (WHADVP (WRB where))
+              (S
+                (NP (NN air))
+                (VP (MD can)
+                  (VP (VB get)
+                    (PP (IN in)
+                      (SBAR
+                        (WHADVP (WRB when))
+                        (S
+                          (NP (DT the) (NN damper))
+                          (VP (VBZ is)
+                            (VP (VBN closed)
+                              (PP (IN at)
+                                (NP
+                                  (NP (DT the) (NN location))
+                                  (PP (IN of)
+                                    (SBAR
+                                      (WHADVP (WRB where))
+                                      (S
+                                        (NP (DT the) (NN damper) (NN door))
+                                        (VP (VBZ is)
+                                          (VP (VBN hinged)
+                                            (PP (TO to)
+                                              (NP (DT the) (NN box)))))))))))))))))))))))
+    (. .)))
+

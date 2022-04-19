@@ -1,0 +1,56 @@
+(ROOT
+  (S
+    (NP (NN dorner))
+    (ADVP (RB also))
+    (VP (VBD wrote)
+      (PP (IN about)
+        (NP
+          (NP (DT the) (JJ blue) (NN line))
+          (, ,)
+          (NP
+            (NP (DT the) (NN code))
+            (PP (IN of)
+              (NP (NNS ethics))))))
+      (SBAR
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBZ prevents)
+              (NP (NNS cops))
+              (PP (IN from)
+                (S
+                  (VP (VBG testifying)
+                    (PP (IN against)
+                      (NP (CD one) (DT another)))))))))
+        (, ,) (RB even)
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP (DT that) (NN officer))
+            (VP (VBZ is)
+              (ADJP (JJ wrong)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ interestingly) (NN while))
+      (PP (IN in)
+        (NP
+          (NP (DT the) (NN midst))
+          (PP (IN of)
+            (S
+              (VP (VBG killing)
+                (NP
+                  (NP (JJ innocent) (NNS people))
+                  (, ,)
+                  (NP (DT both) (NN essex))
+                  (CC and)
+                  (NP (NN dorner)))))))))
+    (VP (VBD spared)
+      (SBAR
+        (S
+          (NP (DT some))
+          (VP (VBZ lives)))))
+    (. .)))
+

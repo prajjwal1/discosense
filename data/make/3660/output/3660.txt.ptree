@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (NP
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (DT the) (NN concert))
+          (VP (VBD was)
+            (ADJP (VBN televised)
+              (SBAR
+                (S
+                  (NP (PRP it))
+                  (VP (VBD had)
+                    (VP (VBN been)
+                      (VP (VBN edited)
+                        (PRT (RP down)))))))))))
+      (CC and)
+      (NP
+        (NP (JJ several) (NNS songs))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBD were)
+              (PP (IN on)
+                (NP (DT the) (NN album))))))))
+    (VP (VBD were) (RB not)
+      (ADJP (VBN televised)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB likewise))
+    (NP
+      (NP (JJ several) (NNS songs))
+      (PP (IN from)
+        (NP (DT the) (NN television) (NN airing))))
+    (VP (VBD did) (RB not)
+      (VP (VB make)
+        (NP (PRP it))
+        (PP (IN onto)
+          (NP (DT the) (NN album)))))
+    (. .)))
+

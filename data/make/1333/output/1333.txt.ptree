@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB when))
+      (S
+        (VP (VBG setting)
+          (PRT (RP up))
+          (NP (DT the) (NN account)))))
+    (, ,)
+    (NP (DT all) (JJ old) (NNS items))
+    (VP (VBP are)
+      (VP (VBN transferred)
+        (SBAR (IN as)
+          (S
+            (NP (PRP they))
+            (VP (MD should))))))
+    (. .)))
+
+(ROOT
+  (S (CC but)
+    (ADVP (RB then))
+    (, ,)
+    (NP (JJ new))
+    (VP (VBD sent)
+      (SBAR
+        (S
+          (NP (NN mail))
+          (VP (VBZ is) (RB not)
+            (VP (VBG showing)
+              (PRT (RP up))
+              (SBAR (IN in)
+                (S
+                  (NP (DT the))
+                  (VP (VBD sent)
+                    (NP (NNS items))
+                    (NP (NN folder))
+                    (ADVP (RB locally))))))))))
+    (. .)))
+

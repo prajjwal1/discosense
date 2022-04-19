@@ -1,0 +1,65 @@
+(ROOT
+  (S
+    (ADVP (RB elsewhere)
+      (PP (IN on)
+        (NP (DT the) (NN program))))
+    (, ,)
+    (NP (NN judith) (NNS jamisons))
+    (VP (VBD diviningshed)
+      (NP
+        (NP (PRP$ its) (JJ co) (NN ed) (NN cast))
+        (PP (IN of)
+          (NP (JJ last) (NN week))))
+      (PP (IN for)
+        (NP
+          (NP (DT an)
+            (ADJP (RB all) (JJ male))
+            (NN cast))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (ADVP (RB sometimes))
+              (VP (VBD looked)
+                (NP (RB too) (JJ feminine))
+                (PP (IN for)
+                  (NP
+                    (NP (DT the) (NN choreography))
+                    (, ,)
+                    (SBAR
+                      (WHNP (WDT which))
+                      (S
+                        (VP (VBZ is) (RB not)
+                          (ADJP (RB gender) (JJ blind)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (PP (IN by)
+        (NP (NN contrast) (NN linda)))
+      (NP (JJ denise) (NNS evans))
+      (VP (VBD was)
+        (ADJP
+          (NP (DT every) (NN inch))
+          (RB as) (JJ powerful))
+        (PP (IN as)
+          (NP (DT the) (NNS men)))
+        (SBAR (IN as)
+          (S
+            (NP (PRP she))
+            (VP (VBD led)
+              (NP (PRP$ her) (NNS pilgrims))
+              (PP (TO to)
+                (NP
+                  (NP (DT the) (VBN promised) (NN land))
+                  (PP (IN in)
+                    (NP (NN grace))))))))))
+    (, ,)
+    (NP (JJ ronald) (NN k.))
+    (VP (VBZ browns)
+      (NP
+        (NP (JJ stunning) (NN hit))
+        (PP (IN of)
+          (NP (JJ last) (NN year)))))
+    (. .)))
+

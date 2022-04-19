@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (ADVP (RB specifically))
+    (, ,)
+    (NP
+      (NP (NN plasma) (NN glucose) (NNS concentrations))
+      (PP (IN during)
+        (NP (DT an) (JJ oral) (NN glucose) (NN tolerance) (NN test))))
+    (VP (VBD appeared)
+      (ADVP (RBR higher))
+      (SBAR (IN after)
+        (S
+          (NP (DT a) (JJ high) (JJ fat) (NN evening) (NN meal))
+          (VP (VBD had)
+            (VP (VBN been)
+              (VP (VBN consumed)
+                (NP (DT the) (NN night))
+                (PP (IN before)))))))
+      (, ,)
+      (PP (VBN compared)
+        (PP (TO to)
+          (PP (IN after)
+            (NP (DT a) (JJ high) (JJ carbohydrate) (NN evening) (NN meal))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (ADJP (RB similarly) (JJ plasma))
+        (NN tg) (NNS levels))
+      (PP (IN during)
+        (NP (DT an) (JJ oral) (JJ fat) (NN tolerance) (NN test))))
+    (VP (VBD were)
+      (ADJP (JJR higher))
+      (PP (IN after)
+        (NP
+          (NP (DT a) (JJ high) (JJ carbohydrate) (NN evening) (NN meal))
+          (PP (VBN compared)
+            (PP (TO to)
+              (NP (DT a) (JJ high) (JJ fat) (NN evening) (NN meal)))))))
+    (. .)))
+

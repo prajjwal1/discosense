@@ -1,0 +1,52 @@
+(ROOT
+  (S
+    (NP (PRP$ his) (NN goal))
+    (VP (VBP isnt)
+      (S
+        (VP
+          (VP (TO to)
+            (VP (VB give)
+              (NP (NNS teenagers))
+              (NP (DT another) (NN reason)
+                (S
+                  (VP (TO to)
+                    (VP (NN experiment)
+                      (PP (IN with)
+                        (NP (NNS drugs)))))))))
+          (, ,)
+          (CC but)
+          (VP (TO to)
+            (VP (VB discover)
+              (NP
+                (NP (JJ therapeutic) (NNS uses))
+                (PP (IN of)
+                  (NP (DT the) (NN drug)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP (NN instance)))
+    (S
+      (VP (VBG using)
+        (NP (DT the) (NN hallucinogen)
+          (S
+            (VP (TO to)
+              (VP (VB help)
+                (S
+                  (NP (NN cancer) (NNS patients))
+                  (VP
+                    (VP (VB cope)
+                      (PP (IN with)
+                        (NP (DT the) (NN depression)
+                          (CC and)
+                          (NN anxiety))))
+                    (CC or)
+                    (VP
+                      (ADVP (RB possibly))
+                      (VB help)
+                      (NP (NNS smokers)))))))))))
+    (VP (VBD quit)
+      (NP (DT the) (NN habit)))
+    (. .)))
+

@@ -1,0 +1,1 @@
+as you can tell, it contains a lot of metadata, such as layer information, comments, and xml namespaces that are often unnecessary to render the asset in the browser. as a result it is always a good idea to minify your svg files by running through a tool like svgo.

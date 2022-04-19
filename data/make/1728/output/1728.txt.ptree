@@ -1,0 +1,38 @@
+(ROOT
+  (S
+    (NP (NN dropbox))
+    (VP (VBZ offers)
+      (NP
+        (NP (DT a) (NN wealth))
+        (PP (IN of)
+          (NP (NN integration))))
+      (PP (IN through)
+        (NP
+          (NP (JJ other) (NNS applications))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (MD might)
+                (VP (VB sway)
+                  (NP (DT some) (NNS users)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP
+        (NP (NN instance))
+        (PP (IN in)
+          (NP (JJ many) (NN ios) (NNS apps)))))
+    (NP (PRP it))
+    (VP (VBZ is)
+      (ADJP (JJ possible)
+        (S
+          (VP (TO to)
+            (VP (VB save)
+              (NP (NNS documents))
+              (ADVP (RB directly))
+              (PP (TO to)
+                (NP (DT a) (NN dropbox) (NN account))))))))
+    (. .)))
+

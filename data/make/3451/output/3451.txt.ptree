@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (NP (PRP they))
+    (VP (VBP think)
+      (S
+        (NP (PRP themselves))
+        (ADJP (RB wonderfully) (JJ wise))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN contrast)))
+    (NP (PRP he))
+    (VP (VBZ tries)
+      (S
+        (VP (TO to)
+          (VP (VB explain)
+            (SBAR
+              (WHNP (WP what))
+              (S
+                (NP
+                  (NP (JJ real) (NN wisdom))
+                  (, ,)
+                  (NP (JJ divine) (NN wisdom))
+                  (, ,))
+                (VP (VBZ is)
+                  (ADJP (JJ like)))))))))
+    (. .)))
+

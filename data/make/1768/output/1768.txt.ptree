@@ -1,0 +1,38 @@
+(ROOT
+  (S
+    (PP (RB because)
+      (PP (IN of)
+        (NP
+          (NP (DT this) (NN transition))
+          (, ,)
+          (CONJP (RB as) (IN of))
+          (NP (CD 2007)))))
+    (NP (PRP we))
+    (ADVP (RB no) (RB longer))
+    (VP (VBP speak)
+      (ADVP (RB simply))
+      (PP (IN of)
+        (NP (CD one) (JJ regional) (NN programme))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB rather))
+    (NP (EX there))
+    (VP (VBZ is)
+      (NP
+        (NP (CD one) (JJ national) (NN programme))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBZ reaches)
+              (PRT (RP out))
+              (ADVP (RB regionally))
+              (PP (IN by)
+                (S
+                  (VP (VBG accepting)
+                    (NP (NNS trainees))
+                    (PP (IN from)
+                      (NP (JJ other) (NNS countries)))))))))))
+    (. .)))
+

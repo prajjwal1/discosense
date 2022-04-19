@@ -1,0 +1,57 @@
+(ROOT
+  (S
+    (NP (JJ maternal) (NN defense) (NN behavior))
+    (VP (VBZ is)
+      (ADJP (RB only) (JJ observed))
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (DT the) (JJ main) (NN nest))
+          (VP (VBZ is)
+            (VP (VBN threatened)
+              (ADVP (RB directly))
+              (, ,)
+              (PP (IN in)
+                (NP
+                  (NP (NN response))
+                  (SBAR
+                    (WHPP (TO to)
+                      (WHNP (WDT which)))
+                    (S
+                      (NP (DT all) (NN xatu))
+                      (VP (MD will)
+                        (VP (VB harry)
+                          (NP (DT the) (NN attacker))
+                          (ADVP (RB fiercly))
+                          (, ,)
+                          (S
+                            (VP (VBG hoping)
+                              (S
+                                (VP (TO to)
+                                  (VP (VB drive)
+                                    (NP (PRP it))
+                                    (ADVP (RB away))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP interestingly) (NNP natu))
+    (ADVP (RB often))
+    (VP (VBP have)
+      (VP (VBN been)
+        (VP (VBN observed)
+          (S
+            (VP (VBG climbing)
+              (PP (IN on)
+                (NP
+                  (NP (NN top))
+                  (PP (IN of)
+                    (NP
+                      (NP (DT the) (NN head))
+                      (PP (IN of)
+                        (NP
+                          (NP (DT a) (JJ lonely) (NN xatu))
+                          (PP (IN for)
+                            (NP (NN protection))))))))))))))
+    (. .)))
+

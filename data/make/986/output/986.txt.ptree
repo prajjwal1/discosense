@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (NP (PRP it))
+    (VP (VBZ keeps)
+      (NP
+        (NP (JJ important) (NN info))
+        (PP (JJ such) (IN as)
+          (NP
+            (NP (DT the) (NN ip) (NN address))
+            (, ,)
+            (NP (JJ subnet) (NN mask))
+            (, ,)
+            (CC and)
+            (NP (NN broadcast) (NN address))))
+        (PP (IN for)
+          (NP (DT the) (VBN specified) (NN interface)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP (NN instance)))
+    (S
+      (VP (VBG knowing)
+        (NP (DT the) (VBG broadcasting) (NN address))))
+    (VP (MD may)
+      (VP (VB be)
+        (ADJP (RB quite) (JJ profitable))
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP (PRP you))
+            (VP (VBP need)
+              (S
+                (VP (TO to)
+                  (VP (VB send)
+                    (NP (DT some) (JJ discovering) (NN request))
+                    (PP (TO to)
+                      (NP (DT any) (JJ suitable) (NNS hosts)))))))))))
+    (. .)))
+

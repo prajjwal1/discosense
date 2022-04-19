@@ -1,0 +1,2 @@
+conn:if conn_POS:IN prev1:accentuated prev1_POS:VBN with_prev1_full:accentuated_if with_prev1_POS_full:VBN_IN prev2:further prev2_POS:RBR with_prev2_full:further_if with_prev2_POS_full:RBR_IN NA
+conn:therefore conn_POS:RB sent_pos:0 NA

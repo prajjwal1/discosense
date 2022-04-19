@@ -1,0 +1,47 @@
+(ROOT
+  (S
+    (PP (IN as)
+      (NP
+        (NP (CD one))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (JJ first) (NNS events))
+            (PP (IN of)
+              (NP
+                (NP (PRP$ its) (NN kind))
+                (PP (IN in)
+                  (NP (NN europe)))))))))
+    (NP (PRP it))
+    (VP (VBD attracted)
+      (NP
+        (NP (NNS thousands))
+        (PP (IN of)
+          (NP (NNS tourists))))
+      (PP (IN from)
+        (NP
+          (NP (NN italy))
+          (, ,)
+          (NP (NN germany))
+          (, ,)
+          (NP (NN france))
+          (, ,)
+          (NP (NN belgium))
+          (, ,)
+          (NP (DT the) (NNS netherlands))
+          (, ,)
+          (NP (NN austria))
+          (CC and)
+          (NP (NNS others)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB likewise))
+    (NP (NN energy) (NNS parties))
+    (VP (VBD arose)
+      (PP (IN in)
+        (NP (DT these) (NNS countries)))
+      (PP (IN in)
+        (NP (JJ large) (NNS clubs))))
+    (. .)))
+

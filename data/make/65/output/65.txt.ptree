@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (NP (NN szcerbiack))
+    (, ,)
+    (PP (IN after)
+      (NP (DT all)))
+    (, ,)
+    (VP (VBD was)
+      (NP
+        (NP (DT the) (NN one))
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP (VBD swore)
+              (PRT (RP out))
+              (NP
+                (NP (DT the) (NN warrant))
+                (VP (VBG charging)
+                  (NP (NN sutton))
+                  (PP (IN with)
+                    (NP
+                      (NP (DT the) (NN theft))
+                      (, ,) (RB not)
+                      (NP (NN officer) (NN martin)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN sum) (NNS suttons)))
+    (NP (NN arrest) (NN following) (NNS szcerbiaks) (NN identification))
+    (VP (VBZ does) (RB not)
+      (VP (VB state)
+        (NP (DT a) (JJ fourth) (NN amendment) (NN claim))))
+    (. .)))
+

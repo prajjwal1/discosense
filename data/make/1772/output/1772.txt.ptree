@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (NP (DT the) (NN blair) (NN government))
+    (VP (VBZ has)
+      (VP (VBN proposed)
+        (S
+          (VP (VBG relaxing)
+            (NP (NN tv) (NN ownership) (NNS rules))
+            (PP (IN in)
+              (NP
+                (NP (NNS ways))
+                (SBAR
+                  (WHNP (WDT that))
+                  (S
+                    (VP (MD would)
+                      (VP (VB benefit)
+                        (NP (NN newscorp))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (PP (IN in)
+        (ADJP (JJ short)))
+      (NP
+        (NP (DT some) (NNS aspects))
+        (PP (IN of)
+          (NP
+            (NP (NN news) (NN corps) (NN programming))
+            (, ,)
+            (NP (NNS positions))
+            (, ,)
+            (CC and)
+            (NP (NNS alliances)))))
+      (VP (VBP serve)
+        (NP (JJ conservative) (JJ political) (NNS ends))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (NNS others))
+      (VP (VBP do) (RB not)))
+    (. .)))
+

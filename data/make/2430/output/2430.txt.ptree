@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (NP (NNS contributions))
+    (VP (VBP challenge)
+      (NP
+        (NP (DT the) (JJ conventional) (NN wisdom))
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (VBZ claims)
+              (SBAR (IN that)
+                (S
+                  (NP (NNS immigrants))
+                  (VP (VBP do)
+                    (ADVP (RB well))
+                    (PP (IN in)
+                      (NP (NN business)))
+                    (SBAR (IN because)
+                      (S
+                        (NP (PRP$ their) (NN culture))
+                        (VP (VBZ makes)
+                          (S
+                            (NP (PRP them))
+                            (ADJP (JJ entrepreneurial))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB rather))
+    (NP (PRP they))
+    (VP (VBP show)
+      (SBAR
+        (WHADVP (WRB how))
+        (S
+          (NP
+            (NP (DT the) (NN development))
+            (PP (IN of)
+              (NP (DT a) (JJ particular) (JJ ethnic) (NN minority) (NN business))))
+          (VP (VBZ is)
+            (ADVP (RB always))
+            (NP
+              (NP (DT the) (NN product))
+              (PP (IN of)
+                (NP (JJ unique) (, ,) (JJ historical) (NNS circumstances))))))))
+    (. .)))
+

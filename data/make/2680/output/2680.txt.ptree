@@ -1,0 +1,45 @@
+(ROOT
+  (S
+    (PP (IN of)
+      (NP (NN course)))
+    (, ,)
+    (NP (DT the) (JJ balanced) (NN budget) (NN amendment))
+    (VP (VBZ has)
+      (NP
+        (NP (JJ different) (NNS problems))
+        (ADVP (RB namely)))
+      (, ,)
+      (SBAR (IN that)
+        (S
+          (NP (NN tax) (NN revenue))
+          (VP (VBZ is)
+            (ADVP (RB also))
+            (VP (VBN tied)
+              (PP (TO to)
+                (NP (NN deficit) (NN spending))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thus))
+    (NP (EX there))
+    (VP (VBP are)
+      (ADVP
+        (ADVP
+          (NP (DT no) (JJ quick) (NNS fixes))
+          (RB here))
+        (, ,)
+        (CC and)
+        (ADVP (RB certainly)))
+      (NP
+        (NP (NN none))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBP foist)
+              (NP (DT the) (NN problem))
+              (PRT (RP off))
+              (PP (IN on)
+                (NP (DT the) (NN judiciary))))))))
+    (. .)))
+

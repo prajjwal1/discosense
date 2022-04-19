@@ -1,0 +1,58 @@
+(ROOT
+  (S
+    (ADVP (RB here))
+    (NP (DT a) (NN comment))
+    (VP
+      (VP
+        (ADVP (RB long)
+          (PP (IN after)
+            (NP
+              (NP (DT the) (JJ first) (NN appearance))
+              (PP (IN of)
+                (NP
+                  (NP (DT this) (NN skin))
+                  (ADJP (RB well) (JJ i)))))))
+        (VBD used)
+        (NP (PRP it))
+        (PP (IN for)
+          (NP (NNS months))))
+      (CC and)
+      (VP
+        (ADVP (RB never))
+        (VBD got)
+        (ADJP (JJ tired))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN on)
+      (NP (DT the) (NN contrary)))
+    (S
+      (NP (FW i))
+      (ADVP (RB always))
+      (VP (VBD detected)
+        (NP (DT some) (JJ nice) (NNS details))
+        (S
+          (VP (TO to)
+            (VP (VB enjoy))))))
+    (CC and)
+    (S
+      (NP (NNS thegreenishcolours))
+      (VP (VBD helped)
+        (S
+          (VP (TO to)
+            (VP (VB make)
+              (NP
+                (NP (DT this)
+                  (ADJP
+                    (NP (DT a) (RB quite)))
+                  (NN one))
+                (, ,)
+                (ADJP (JJ easy)
+                  (S
+                    (VP (TO to)
+                      (VP (VB use)
+                        (PP (IN for)
+                          (NP (JJ everyday) (NNS purposes)))))))))))))
+    (. .)))
+

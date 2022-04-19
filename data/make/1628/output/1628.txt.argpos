@@ -1,0 +1,2 @@
+conn:before conn_POS:IN sent_pos:2 prev1:, prev1_POS:, with_prev1_full:,_before with_prev1_POS_full:,_IN prev2:hence prev2_POS:RB with_prev2_full:hence_before with_prev2_POS_full:RB_IN NA
+conn:in_particular conn_POS:RB_JJ sent_pos:0 NA

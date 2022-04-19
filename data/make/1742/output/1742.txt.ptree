@@ -1,0 +1,40 @@
+(ROOT
+  (S (CC but)
+    (PP (IN by)
+      (S
+        (VP (VBG analyzing)
+          (NP (DT the) (NN linkage))
+          (PP (IN in)
+            (NP (JJ applied) (NN motion))))))
+    (, ,)
+    (NP (NN learjet) (NNS engineers))
+    (VP (VBD learned)
+      (NP (JJR more))
+      (PP (IN about)
+        (NP (PRP$ its) (NN performance)))
+      (PP (IN under)
+        (NP (NN load))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (ADJP (JJ particular)))
+    (NP (DT the) (NN software) (NN program))
+    (ADVP (RB accurately))
+    (VP (VBD calculated)
+      (NP
+        (NP (DT the) (NNS linkages) (NN cable) (NN stretch))
+        (CC and)
+        (NP
+          (NP (DT the) (NN amount))
+          (PP (IN of)
+            (NP
+              (NP (NN pilot) (NN force))
+              (VP (VBN required)
+                (S
+                  (VP (TO to)
+                    (VP (VB move)
+                      (NP (PRP it)))))))))))
+    (. .)))
+

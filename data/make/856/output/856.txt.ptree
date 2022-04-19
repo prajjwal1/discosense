@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (S
+      (VP (TO to)
+        (VP (VB play)
+          (NP (JJ additional) (NNS messages)))))
+    (, ,)
+    (NP (DT the) (NN user))
+    (VP (MD must)
+      (VP (VB activate)
+        (NP (DT the) (NN play) (NN button))
+        (PP (IN for)
+          (NP (DT each) (NN message)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP (NN example)
+        (S
+          (VP (TO to)
+            (VP (VB play)
+              (NP (DT the) (JJ second) (NN message)))))))
+    (, ,)
+    (NP (DT the) (NN user))
+    (VP (MD would)
+      (VP (VB activate)
+        (NP (DT the) (NN play) (NN button))
+        (ADVP (RB twice))))
+    (. .)))
+

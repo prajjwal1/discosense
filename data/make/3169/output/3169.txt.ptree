@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (PP (IN at)
+      (NP
+        (ADJP (CD 8.5) (NN %))
+        (NN abv)))
+    (, ,)
+    (NP (PRP$ its))
+    (VP (RB not)
+      (S
+        (VP
+          (ADVP (RB too))
+          (VBG imposing) (, ,)
+          (ADVP (RB especially))
+          (PP (IN for)
+            (NP (DT a) (NN dubbel))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB nonetheless)
+      (NP (DT a) (NN 750s))
+      (ADVP (RB just))
+      (PP (IN about)
+        (NP (DT the) (JJ perfect) (NN size))))
+    (. .)))
+

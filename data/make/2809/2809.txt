@@ -1,0 +1,1 @@
+the hub located closest to the point of origin of a shipment will be referred to as the origin hub 32. similarly the local hub located closest to a parcels destination will be referred to as the destination hub 38.

@@ -1,0 +1,59 @@
+(ROOT
+  (S
+    (S
+      (NP (JJ ulysses) (NN grant))
+      (VP (VBD said)))
+    (, ,)
+    (S
+      (SBAR (IN if)
+        (S
+          (NP (PRP you))
+          (VP (VBP want)
+            (NP (DT a) (NN house)))))
+      (, ,)
+      (NP (PRP you))
+      (VP (MD can)
+        (VP (VB hire)
+          (NP (DT an) (NN architect)))))
+    (, ,)
+    (CC but)
+    (S
+      (NP
+        (NP (DT the) (NN man))
+        (PP (IN with)
+          (NP (DT the) (NN hammer))))
+      (VP (VBZ builds)
+        (NP (DT the) (NN home))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (JJ other) (NNS words)))
+    (NP (PRP you))
+    (VP (MD can)
+      (VP (VB design)
+        (S
+          (VP (VBG marketing)
+            (NP
+              (NP (DT all))
+              (SBAR
+                (S
+                  (NP (PRP you))
+                  (VP (VBP like)
+                    (SBAR (CC but)
+                      (S
+                        (NP (PRP it))
+                        (VP (VBZ is)
+                          (NP
+                            (NP (DT the) (JJ actual) (NN speaking))
+                            (PP (IN with)
+                              (NP
+                                (NP (NNS people))
+                                (SBAR
+                                  (WHNP (WDT that))
+                                  (S
+                                    (VP (VBZ sells)
+                                      (NP (NN equipment)))))))))))))))))))
+    (. .)))
+

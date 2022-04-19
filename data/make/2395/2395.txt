@@ -1,0 +1,1 @@
+the core network stores said received call identifier and identifies a respective radio access network for said leg of said call. thereafter the core network compares said call received identifier with stored call identifiers for call legs of calls via said identified radio access network.

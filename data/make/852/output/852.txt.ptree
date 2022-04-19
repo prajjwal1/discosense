@@ -1,0 +1,60 @@
+(ROOT
+  (S
+    (S
+      (NP (DT this) (NN year) (NN atlanta))
+      (VP (MD will)
+        (VP (VB face)
+          (NP (DT a)
+            (ADJP (RB much) (JJR tougher))
+            (NN schedule)))))
+    (, ,)
+    (CC and)
+    (S
+      (PP (IN in)
+        (NP (DT the) (NN nfl)))
+      (NP
+        (NP (DT the) (NN law))
+        (PP (IN of)
+          (NP (NNS averages))))
+      (VP (VBZ has)
+        (NP (JJR more) (NN leverage))
+        (PP (IN than) (IN in)
+          (NP
+            (NP (NN college))
+            (PP (IN from)
+              (NP (DT a) (NN win) (NN standpoint)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (JJ other) (NNS words)))
+    (S
+      (NP
+        (NP (JJS most) (NNS teams))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBP finish)
+              (NP (CD 13) (CD 3))))))
+      (VP (VBD did)
+        (VP (VB have)
+          (NP
+            (NP (DT a) (JJ little) (NN bit))
+            (PP (IN of)
+              (NP (NN luck)))))))
+    (, ,)
+    (CC and)
+    (S
+      (ADVP (RB even))
+      (NP (DT the)
+        (ADJP (RB very) (JJ good))
+        (NNS teams))
+      (VP (MD will)
+        (VP (VB finish)
+          (NP
+            (QP (CD 10) (CD 6)
+              (CC or)
+              (CD 11) (CD 5))))))
+    (. .)))
+

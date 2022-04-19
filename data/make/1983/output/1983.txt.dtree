@@ -1,0 +1,13 @@
+nsubj(have-2, i-1)
+xsubj(agree-4, i-1)
+root(ROOT-0, have-2)
+aux(agree-4, to-3)
+xcomp(have-2, agree-4)
+prep_with(agree-4, doobious-6)
+
+mark(for-2, although-1)
+root(ROOT-0, for-2)
+advmod(different-4, very-3)
+amod(reasons-5, different-4)
+pobj(for-2, reasons-5)
+

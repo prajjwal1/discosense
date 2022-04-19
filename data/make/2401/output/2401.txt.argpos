@@ -1,0 +1,5 @@
+conn:furthermore conn_POS:RB sent_pos:0 NA
+conn:and conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_and with_prev1_POS_full:,_CC prev2:there prev2_POS:RB with_prev2_full:there_and with_prev2_POS_full:RB_CC NA
+conn:once conn_POS:IN prev1:and prev1_POS:CC with_prev1_full:and_once with_prev1_POS_full:CC_IN prev2:, prev2_POS:, with_prev2_full:,_once with_prev2_POS_full:,_IN NA
+conn:in_sum conn_POS:IN_FW sent_pos:0 NA
+conn:because conn_POS:IN prev1:theory prev1_POS:NN with_prev1_full:theory_because with_prev1_POS_full:NN_IN prev2:reject prev2_POS:VB with_prev2_full:reject_because with_prev2_POS_full:VB_IN NA

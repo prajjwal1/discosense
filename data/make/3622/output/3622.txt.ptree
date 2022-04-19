@@ -1,0 +1,48 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (JJ several) (NNS municipalities)))
+    (, ,)
+    (S
+      (ADVP (RB however))
+      (, ,)
+      (NP (DT the) (NNS greens))
+      (VP (VBP cooperate)
+        (PP (IN with)
+          (NP
+            (ADJP (JJ liberal)
+              (CC and)
+              (JJ conservative))
+            (NNS parties)))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (DT the) (NN party))
+      (VP (VBZ does) (RB not)
+        (VP (VB define)
+          (NP (PRP itself))
+          (UCP (RB as)
+            (ADVP (RB left))
+            (, ,)
+            (CC nor)
+            (ADJP (JJ right))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB rather))
+    (NP (PRP they))
+    (VP (VBP place)
+      (NP (PRP themselves))
+      (PP (IN on)
+        (NP
+          (NP (CD one) (NN end))
+          (PP (IN of)
+            (NP
+              (NP (DT a) (NN scale))
+              (PP (IN between)
+                (NP (NN sustainability)
+                  (CC and)
+                  (NN growth))))))))
+    (. .)))
+

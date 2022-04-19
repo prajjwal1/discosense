@@ -1,0 +1,53 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP he))
+      (VP (VBZ is)
+        (NP
+          (NP (NN part))
+          (PP (IN of)
+            (NP
+              (NP (DT a) (JJ vast) (NN family))
+              (PP (IN of)
+                (NP
+                  (NP (NNS deities))
+                  (SBAR
+                    (S
+                      (NP (PRP he))
+                      (VP (VBZ is)
+                        (NP
+                          (NP (NN part))
+                          (PP (IN of)
+                            (NP
+                              (NP (DT a) (NN web))
+                              (PP (IN of)
+                                (NP (NNS relationships)
+                                  (CC and)
+                                  (NNS responsibilities))))))))))))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (FW i))
+      (VP (MD can) (RB not)
+        (ADVP (RB even))
+        (VP (VB begin)
+          (S
+            (VP (TO to)
+              (VP (VB comprehend)
+                (NP (PRP him))
+                (PP (IN outside)
+                  (PP (IN of)
+                    (NP (DT that) (NN web))))))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADVP (RB thus))
+    (NP (NN theoilogy))
+    (, ,)
+    (PP (IN from)
+      (NP
+        (NP (DT the) (JJ ancient) (NN greek))
+        (VP (VBZ meaninggods))))
+    (. .)))
+

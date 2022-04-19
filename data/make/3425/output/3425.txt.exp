@@ -1,0 +1,3 @@
+conn_lc:for_example conn:for_example conn_POS:IN_NN with_prev_full:,_for_example xxx£
+conn_lc:on_the_other_hand conn:on_the_other_hand conn_POS:IN_DT_JJ_NN xxx£
+conn_lc:also conn:also conn_POS:RB with_prev_full:are_also xxx£

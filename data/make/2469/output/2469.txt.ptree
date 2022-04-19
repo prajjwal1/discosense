@@ -1,0 +1,69 @@
+(ROOT
+  (S
+    (NP
+      (NP (NN ibrahim) (NN writesworse))
+      (, ,)
+      (ADJP (JJ offensive) (JJ jihad)))
+    (VP (VBZ is)
+      (NP
+        (NP (NN part)
+          (CC and)
+          (NN parcel))
+        (PP (IN of)
+          (NP (NN islam)))
+        (SBAR
+          (S
+            (NP (PRP it))
+            (VP (VBZ is)
+              (NP
+                (NP (DT no) (JJR less) (NN codified))
+                (PP (IN than) (, ,)
+                  (INTJ (VB say))
+                  (, ,)
+                  (NP
+                    (NP (NNS islams))
+                    (NP
+                      (NP (CD five) (NNS pillars))
+                      (, ,)
+                      (SBAR
+                        (WHNP (WDT which))
+                        (S
+                          (NP (DT no) (NN muslim))
+                          (VP (VBZ rejects)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN sum)))
+    (NP (PRP it))
+    (VP
+      (VP (VBZ is)
+        (ADVP (RB either)))
+      (CC or)
+      (VP
+        (VP (VB repudiate)
+          (NP (NN islam))
+          (ADVP (RB entirely)))
+        (, ,)
+        (CC or)
+        (VP (VB submit)
+          (PP (TO to)
+            (NP
+              (NP (DT the) (JJ whole) (NN palimony))
+              (PP (IN of)
+                (NP (NN irrationalism)))
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (VP (VBZ is)
+                    (NP
+                      (NP (NN islam))
+                      (, ,)
+                      (PP (VBG including)
+                        (NP
+                          (NP (DT the) (NN imperative))
+                          (PP (IN of)
+                            (NP (NN jihad))))))))))))))
+    (. .)))
+

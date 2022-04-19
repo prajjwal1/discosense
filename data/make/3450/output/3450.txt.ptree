@@ -1,0 +1,55 @@
+(ROOT
+  (S
+    (NP (FW i))
+    (VP (VBP encourage)
+      (NP
+        (NP (DT the) (NNS students))
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP (VBP share)
+              (S
+                (NP (DT these) (NNS ideas))
+                (VP (TO to)
+                  (VP (VB take)
+                    (NP (DT this) (NN discomfort))
+                    (PP (IN with)
+                      (S
+                        (VP (VBG forcing)
+                          (NP
+                            (NP (NNS students) (NN alcohol) (NN intake))
+                            (PP (IN into)
+                              (NP (DT all) (NNS situations)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB particularly))
+      (NP (FW i))
+      (VP (VBP hope)
+        (SBAR (IN that)
+          (S
+            (NP (PRP we))
+            (VP
+              (VP (MD will) (RB all)
+                (ADVP (RB consciously))
+                (VP (VB remind)
+                  (NP (PRP ourselves))
+                  (SBAR (IN that)
+                    (S
+                      (NP (RB not) (NN everybody))
+                      (VP (VBZ is)
+                        (ADJP (JJ able)
+                          (PP (TO to))))))))
+              (CC or)
+              (VP (VBZ wants)
+                (S
+                  (VP (TO to)
+                    (VP (VB drink)
+                      (NP (NN alcohol)))))))))))
+    (, ,)
+    (NP (PRP myself))
+    (VP (VBD included))
+    (. .)))
+

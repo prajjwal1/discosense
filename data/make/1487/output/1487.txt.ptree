@@ -1,0 +1,44 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNS frames))
+      (VP (VBG containing)
+        (NP (JJR higher) (NN frequency) (NNS components))))
+    (VP (VBP contribute)
+      (ADVP (RBR more))
+      (PP (TO to)
+        (NP
+          (NP (DT the) (NN perception))
+          (PP (IN of)
+            (NP (NN flicker))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP
+      (ADVP (RB hence))
+      (IN by)
+      (S
+        (VP (VBG forcing)
+          (NP
+            (NP (DT the) (NN use))
+            (PP (IN of)
+              (NP (JJR fewer) (NNS bits)
+                (S
+                  (VP (TO to)
+                    (VP (VB represent)
+                      (NP (JJR higher) (NN frequency) (NNS components)))))))))))
+    (, ,)
+    (NP
+      (NP (DT the) (NN magnitude))
+      (PP (IN of)
+        (NP (DT the) (JJR higher) (NN frequency) (NNS components))))
+    (VP (VBZ is)
+      (ADJP (JJ reduced))
+      (, ,)
+      (S
+        (ADVP (RB thereby))
+        (VP (VBG reducing)
+          (NP (NN flicker)))))
+    (. .)))
+

@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNS stands))
+      (PP (IN of)
+        (NP (JJ similar) (NN description))))
+    (VP (MD may)
+      (ADVP (RB still))
+      (VP (VB be)
+        (VP (VBN seen)
+          (PP (IN in)
+            (NP
+              (NP (DT the) (JJ high) (NN country))
+              (PP (IN of)
+                (NP (JJ yosemite) (JJ national) (NN park))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN by)
+      (NP (NN contrast)))
+    (NP (NN stand) (NN productivity))
+    (VP (VBZ is)
+      (ADJP (JJ low)
+        (PP (IN for)
+          (NP
+            (NP (JJ jeffrey) (NN pine))
+            (PP (IN on)
+              (NP (JJ ultramafic) (NNS soils)))))))
+    (. .)))
+

@@ -1,0 +1,2 @@
+conn:conversely conn_POS:RB sent_pos:0 NA
+conn:when conn_POS:WRB prev1:even prev1_POS:RB with_prev1_full:even_when with_prev1_POS_full:RB_WRB prev2:points prev2_POS:NNS with_prev2_full:points_when with_prev2_POS_full:NNS_WRB NA

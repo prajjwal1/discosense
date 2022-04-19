@@ -1,0 +1,54 @@
+(ROOT
+  (S
+    (NP (DT the) (NN rate))
+    (VP (VBD was)
+      (NP
+        (NP (CD 4) (NN %))
+        (PP (IN in)
+          (NP
+            (NP (NNS women))
+            (SBAR
+              (WHNP (WP who))
+              (S
+                (VP (VBD had)
+                  (VP (VBN tested)
+                    (ADVP (JJ negative)
+                      (CC and)
+                      (JJ just))
+                    (PP (IN under)
+                      (NP
+                        (NP (CD 3) (NN %))
+                        (PP (IN in)
+                          (NP
+                            (NP (DT those))
+                            (SBAR
+                              (WHNP (WP who))
+                              (S
+                                (VP (VBD had)
+                                  (ADVP (RB never))
+                                  (VP (VBN been)
+                                    (ADJP (JJ screened))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB similarly))
+    (NP
+      (NP (DT the) (JJ overall) (NN rate))
+      (PP (IN of)
+        (NP (JJ ectopic) (NN pregnancy))))
+    (VP (VBD was)
+      (NP
+        (NP (CD 2.3) (NN %))
+        (VP (VBG rising)
+          (PP (TO to)
+            (NP
+              (NP (CD 2.7) (NN %))
+              (PP (IN in)
+                (NP
+                  (NP (DT those) (NN testing))
+                  (ADJP (JJ positive)
+                    (PP (IN for)
+                      (NP (NN chlamydia)))))))))))
+    (. .)))
+

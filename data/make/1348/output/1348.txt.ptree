@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (NP (NN security) (NN researcher) (NNS andreas) (NN kurtz))
+    (VP (VBZ has)
+      (VP (VBN identified)
+        (NP
+          (NP (DT a) (NN vulnerability))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBZ leaves)
+                (NP
+                  (NP (NN email) (NNS attachments))
+                  (VP (VBN downloaded)
+                    (PP (IN by)
+                      (NP
+                        (NP (NN ios) (CD 7s) (NN mail) (NN app))
+                        (VP (VBN unprotected)
+                          (PP (IN by)
+                            (NP (NNS apples) (NNS data) (NN protection) (NNS technologies))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (JJ short) (NNS data)))
+    (NP (NN protection))
+    (VP (VBZ enhances)
+      (NP (DT the)
+        (ADJP (VBN built)
+          (PP (IN in)
+            (NP (NN hardware))))
+        (NN encryption))
+      (PP (IN by)
+        (S
+          (VP (VBG protecting)
+            (NP (DT the) (NN hardware) (NN encryption) (NNS keys))
+            (PP (IN with)
+              (NP (PRP$ your) (NN passcode)))))))
+    (. .)))
+

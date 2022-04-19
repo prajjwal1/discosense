@@ -1,0 +1,57 @@
+(ROOT
+  (S
+    (ADVP (RB certainly))
+    (, ,)
+    (SBAR (IN if)
+      (S
+        (VP (VBP youre)
+          (S
+            (VP (VBG looking)
+              (S
+                (VP (TO to)
+                  (VP (VB take)
+                    (PP (IN on)
+                      (NP (JJ external) (NN investment)
+                        (CC or)
+                        (NNS loans)))))))))))
+    (, ,)
+    (NP (NN youll))
+    (VP (VBP need)
+      (S
+        (VP (TO to)
+          (VP
+            (VP (VB have)
+              (NP
+                (NP (DT that))
+                (VP (VBN modelled)
+                  (ADVP (RB carefully)))))
+            (CC and)
+            (VP (VB be)
+              (VP (VBN prepared)
+                (S
+                  (VP (TO to)
+                    (VP (VB talk)
+                      (PP (IN through)
+                        (NP (PRP it)))
+                      (PP (IN in)
+                        (NP (JJ great) (NN detail))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB conversely))
+    (NP (DT this) (NN model))
+    (VP
+      (VP (MD will)
+        (ADVP (RB also))
+        (VP (VB drive)
+          (NP (NN pricing))))
+      (CC but)
+      (VP (VBZ thats)
+        (NP (NN something))
+        (ADVP (RB ill))
+        (VP (VB cover)
+          (PP (IN in)
+            (NP (DT a) (JJ future) (NN post))))))
+    (. .)))
+

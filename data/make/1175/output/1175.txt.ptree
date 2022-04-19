@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (NP (PRP we))
+    (ADVP (RB thus))
+    (VP (VBP conclude)
+      (SBAR (IN that)
+        (S
+          (NP (EX there))
+          (VP (VBD was)
+            (NP
+              (NP (JJ substantial) (NN compliance))
+              (PP (IN with)
+                (NP (DT the) (NN statute))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thus))
+    (NP (DT the) (NNS people))
+    (VP (VBP are)
+      (VP (VBN required)
+        (S
+          (VP (TO to)
+            (VP (VB have)
+              (NP (RB only) (JJ substantial) (NN compliance))
+              (PP (IN with)
+                (NP (NN cpl) (CD 400.21))))))))
+    (. .)))
+

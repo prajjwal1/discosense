@@ -1,0 +1,44 @@
+(ROOT
+  (S
+    (NP (JJ other) (NNS membranes))
+    (VP (VB utilize)
+      (NP (DT a) (JJ capillary) (NN action)
+        (S
+          (VP (TO to)
+            (VP (VB transport)
+              (NP (NN water))
+              (PP (IN from)
+                (NP
+                  (NP (CD one) (NN side))
+                  (PP (IN of)
+                    (NP (DT the) (NN membrane)))))
+              (PP (TO to)
+                (NP (DT the) (JJ other))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB consequently))
+    (NP (DT a) (NN water) (NN supply))
+    (VP (MD must)
+      (VP (VB be)
+        (VP (VBN provided)
+          (NP (DT that) (NNS supplies) (NN water))
+          (PP (TO to)
+            (NP
+              (NP (DT the) (NN water) (NN side))
+              (PP (IN of)
+                (NP (DT the) (NN membrane)))))
+          (S
+            (VP (TO to)
+              (VP (VB be)
+                (VP (VBN transported)
+                  (PP (IN by)
+                    (NP (JJ capillary) (NN action)))
+                  (PP (TO to)
+                    (NP
+                      (NP (DT the) (JJ chemical) (NN hydride) (NN side))
+                      (PP (IN of)
+                        (NP (DT the) (NN membrane))))))))))))
+    (. .)))
+

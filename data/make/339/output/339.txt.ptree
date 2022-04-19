@@ -1,0 +1,63 @@
+(ROOT
+  (S
+    (S
+      (NP (NNS adults))
+      (VP (VBP do) (RB not)
+        (VP (VB tend)
+          (S
+            (VP (TO to)
+              (VP (VB do)
+                (NP (DT this))))))))
+    (CC and)
+    (S
+      (NP (JJS most))
+      (VP (MD will)
+        (VP (VB go)
+          (PRT (RP on))
+          (S
+            (VP (TO to)
+              (VP (VB make)
+                (NP (DT a) (JJ full) (NN recovery)))))
+          (, ,)
+          (S
+            (ADVP (RB often))
+            (VP (VBG believing)
+              (SBAR
+                (S
+                  (NP (PRP they))
+                  (VP (VBP have)
+                    (ADVP (RB just))
+                    (VP (VBN had)
+                      (NP
+                        (NP (DT a) (JJ bad) (NN cough))
+                        (CC or)
+                        (NP (JJ cold))))))))))))
+    (. .)))
+
+(ROOT
+  (S (CC but)
+    (NP (DT the) (NN disease))
+    (VP (MD can)
+      (VP (VB be)
+        (ADJP (JJ fatal)
+          (PP (IN in)
+            (NP
+              (NP (NNS babies))
+              (SBAR
+                (WHNP (WP who))
+                (S
+                  (VP (MD can)
+                    (VP
+                      (VP (VB stop)
+                        (S
+                          (VP (VBG breathing)
+                            (PP (IN in)
+                              (NP (PRP$ their) (NN sleep))))))
+                      (CC or)
+                      (VP (VB develop)
+                        (NP
+                          (NP (NNS complications))
+                          (PP (JJ such) (IN as)
+                            (NP (NN pneumonia))))))))))))))
+    (. .)))
+

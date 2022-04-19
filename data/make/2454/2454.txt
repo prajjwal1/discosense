@@ -1,0 +1,1 @@
+the judgement or determination circuit jc issues an output signal based on the output of the third exclusive or circuit to the output circuit oc. consequently the output circuit oc produces ahighorlowoutput signal when all of the 4 bit readout signals from the main amplifiers ma 0 ma 3 arehighorlowlevel, respectively.

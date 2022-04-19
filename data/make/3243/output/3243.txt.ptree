@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (NP (PRP$ its))
+    (VP (VBP like)
+      (S
+        (VP (VBG having)
+          (NP
+            (NP
+              (NP (CD one) (NN spectrum))
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (VP (VBZ goes)
+                    (PP (IN from)
+                      (NP (CD 0) (CD 100)))))))
+            (, ,)
+            (CC and)
+            (NP
+              (NP (DT another))
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (VP (VBZ goes)
+                    (PP (IN from)
+                      (NP
+                        (QP (CD 20) (CD 80))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ overall) (NN doesnt))
+    (VP (VBP look)
+      (PP (IN like)
+        (NP
+          (NP (DT that) (JJ much))
+          (PP (IN of)
+            (NP (DT a) (NN difference))))))
+    (. .)))
+

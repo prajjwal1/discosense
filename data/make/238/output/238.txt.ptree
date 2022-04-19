@@ -1,0 +1,48 @@
+(ROOT
+  (S
+    (NP (PRP he))
+    (VP (VBD had)
+      (NP
+        (NP (NN gas)
+          (CC and)
+          (NN air))
+        (, ,)
+        (NP (DT the) (NNS works))
+        (CC and)
+        (NP (RB then)))
+      (PP (IN in)
+        (NP
+          (NP (DT the) (NN end))
+          (VP (VBN sent)
+            (NP (PRP him))
+            (PP (RP off)
+              (PP (TO to)
+                (NP (DT the) (JJ local) (NN shop))))
+            (S
+              (VP (TO to)
+                (VP (VB get)
+                  (NP (DT some) (NN gaviscon)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN because)
+      (FRAG
+        (SBAR
+          (WHPP (IN of)
+            (WHNP (WDT that)))
+          (S
+            (NP (FW i))
+            (ADVP (RB never))
+            (VP (VBP worry)
+              (CC and)
+              (VBP relaxing))))))
+    (VP (VBZ helps)
+      (S
+        (VP (TO to)
+          (VP (VB get)
+            (ADJP (JJ rid))
+            (PP (IN of)
+              (NP (PRP it)))))))
+    (. .)))
+

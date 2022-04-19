@@ -1,0 +1,24 @@
+(ROOT
+  (S
+    (NP (DT a)
+      (ADJP (JJ closed) (VBN ended))
+      (NN question))
+    (VP (MD can)
+      (VP (VB be)
+        (VP (VBN answered)
+          (PP (IN with)
+            (NP (DT a)
+              (NP (RB yes))
+              (CC or)
+              (NP (DT a) (RB no)))))))
+    (. .)))
+
+(ROOT
+  (S (IN for)
+    (NP (NN instance))
+    (VP (VBP do)
+      (NP (PRP you))
+      (PP (IN like)
+        (NP (DT this) (NN idea))))
+    (. .)))
+

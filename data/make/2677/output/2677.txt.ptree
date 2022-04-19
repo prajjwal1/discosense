@@ -1,0 +1,55 @@
+(ROOT
+  (SINV
+    (S
+      (NP (DT the) (NN judge))
+      (VP (MD may)
+        (VP (VB have)
+          (VP (VBN taken)
+            (NP
+              (NP (DT a) (JJR stronger) (NN stance))
+              (PP (IN against)
+                (NP (NN dynadot))))
+            (SBAR (IN because)
+              (S
+                (NP (NNS wikileakss) (NNS proprietors))
+                (VP (VBP werent)
+                  (ADJP (JJ present)))))))))
+    (, ,)
+    (VP (VBZ suggests))
+    (NP
+      (NP (NN steven) (NN aftergood))
+      (, ,)
+      (NP
+        (NP (NN head))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (NN project))
+            (PP (IN on)
+              (NP
+                (NP (NN government) (NN secrecy))
+                (PP (IN in)
+                  (NP (NN washington)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (ADVP (RB nevertheless))
+      (IN disabling)
+      (S
+        (NP (DT the) (NN site))
+        (VP (VBD was)
+          (NP
+            (NP (JJ adisproportionate) (NN response))
+            (, ,)
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (VBZ has)
+                  (VP (VBN heightened)
+                    (NP (JJ free) (NN speech) (NNS concerns))))))))))
+    (, ,)
+    (NP (PRP he))
+    (VP (VBZ says))
+    (. .)))
+

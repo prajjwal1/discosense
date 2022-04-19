@@ -1,0 +1,4 @@
+conn_lc:when conn:when conn_POS:WRB with_prev_full:especially_when xxx£
+conn_lc:as_a_result conn:as_a_result conn_POS:IN_DT_NN xxx£
+conn_lc:and conn:and conn_POS:CC with_prev_full:collectors_and xxx£
+conn_lc:consequently conn:consequently conn_POS:RB with_prev_full:,_consequently xxx£

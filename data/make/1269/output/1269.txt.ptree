@@ -1,0 +1,38 @@
+(ROOT
+  (S
+    (NP (DT the) (NNS participants))
+    (VP (VBD agreed)
+      (SBAR (IN that)
+        (S
+          (NP (PRP it))
+          (VP (VBZ is)
+            (ADJP
+              (ADVP (RB no) (RBR longer))
+              (JJ possible)
+              (S
+                (VP (TO to)
+                  (VP (VB act)
+                    (SBAR (RB as) (IN if)
+                      (S
+                        (NP (RB purely) (JJ scientific) (NNS values))
+                        (VP (VBD were)
+                          (ADJP (JJ adequate)
+                            (S
+                              (VP (TO to)
+                                (VP (VB set)
+                                  (NP (DT the) (NN research) (NN agenda)))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB instead))
+    (NP (NN public)
+      (CC and)
+      (NN stakeholder) (NN participation))
+    (VP (VBZ helps)
+      (S
+        (VP (TO to)
+          (VP (VB define)
+            (NP (NN research) (NNS priorities))))))
+    (. .)))
+

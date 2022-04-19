@@ -1,0 +1,52 @@
+(ROOT
+  (S
+    (NP (PRP we))
+    (VP (MD can)
+      (VP (VB be)
+        (ADJP (JJ certain))
+        (SBAR (IN that)
+          (S
+            (NP (PRP it))
+            (VP (MD will) (RB not)
+              (VP
+                (VP (VB be)
+                  (ADJP (JJ sarkozy)))
+                (CC and)
+                (VP (VB merkel)
+                  (SBAR
+                    (WHNP (WP who))
+                    (S
+                      (VP (MD will)
+                        (VP (VB be)
+                          (ADJP (VBG reassuring)))))))
+                (NP (PRP$ our) (JJ eastern)
+                  (CC and)
+                  (JJ central) (NN european) (NNS allies))))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (PP (IN in)
+      (NP (NN sum) (NN sarkozy)
+        (CC and)
+        (NN merkel)))
+    (VP (VBP are)
+      (VP (VBG taking)
+        (NP (DT the) (NN eu))
+        (PP (IN down)
+          (NP (DT the) (JJ wrong) (NN path)))))
+    (NP
+      (NP (DT a) (NN path))
+      (, ,)
+      (NP
+        (ADVP (RB moreover))
+        (, ,)
+        (SBAR
+          (WHPP (IN with)
+            (WHNP (WDT which)))
+          (S
+            (NP (JJ british) (JJ public) (NN opinion))
+            (VP (VBZ is)
+              (ADJP (RB deeply) (JJ uncomfortable)))))))
+    (. .)))
+

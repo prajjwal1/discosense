@@ -1,0 +1,23 @@
+(ROOT
+  (S
+    (NP (DT the) (NN decomposition) (NN rate))
+    (ADVP (RB then))
+    (VP (VBD remained)
+      (ADJP (RB roughly) (JJ constant))
+      (PP (IN for)
+        (NP (DT the) (JJ next) (CD 16) (NNS hours))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ overall) (NN testing))
+    (VP (VBD showed)
+      (SBAR (IN that)
+        (S
+          (NP (DT the) (JJ oxalate) (NN destruction) (NN rate))
+          (VP (VBD decreased)
+            (PP (IN by)
+              (NP
+                (QP (RB about) (CD 2.8))))))))
+    (. .)))
+

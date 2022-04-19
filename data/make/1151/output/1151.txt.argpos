@@ -1,0 +1,3 @@
+conn:as conn_POS:IN prev1:content prev1_POS:NN with_prev1_full:content_as with_prev1_POS_full:NN_IN prev2:copper prev2_POS:NN with_prev2_full:copper_as with_prev2_POS_full:NN_IN NA
+conn:if conn_POS:IN prev1:expected prev1_POS:VBN with_prev1_full:expected_if with_prev1_POS_full:VBN_IN prev2:be prev2_POS:VB with_prev2_full:be_if with_prev2_POS_full:VB_IN NA
+conn:otherwise conn_POS:RB sent_pos:0 NA

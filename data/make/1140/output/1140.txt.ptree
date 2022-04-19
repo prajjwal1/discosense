@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (NP (NN bangkok))
+    (VP (VBZ comes)
+      (PP (IN with)
+        (NP
+          (NP (DT a) (NN listener))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBZ generates)
+                (NP (DT a) (JJ midi) (NN file))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (JJ other) (NNS words)))
+    (NP (DT the) (NN chess) (NN game))
+    (VP (VBZ is)
+      (VP (VBN turned)
+        (PP (IN into)
+          (NP (NN music)))))
+    (. .)))
+

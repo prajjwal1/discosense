@@ -1,0 +1,61 @@
+(ROOT
+  (S
+    (S
+      (NP (DT some))
+      (VP (VBP say)
+        (SBAR (IN that)
+          (S
+            (NP (PRP they))
+            (VP (VBP are)
+              (ADJP
+                (ADJP (RB too) (JJ pliant))
+                (, ,)
+                (ADJP (JJ submissive))
+                (, ,)
+                (CC and)
+                (ADJP (JJ obedient))))))))
+    (NP (DT some))
+    (VP (VBP say)
+      (SBAR (IN that)
+        (S
+          (NP (PRP they))
+          (VP (VBP are)
+            (ADJP
+              (ADJP (RB too) (JJ antisocial))
+              (, ,)
+              (ADJP (JJ sulky))
+              (, ,)
+              (CC and)
+              (ADJP (JJ uncooperative)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (RB hence) (JJ poor) (NNS introverts))
+    (VP (VBP are)
+      (VP (VBN supposed)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (ADJP
+                (ADJP (RB utterly) (JJ bland)
+                  (CC and)
+                  (JJ devoid))
+                (PP (IN of)
+                  (NP
+                    (NP (NN individuality))
+                    (PRN (, ,)
+                      (ADVP (RB yet))
+                      (ADVP (RB also))
+                      (ADJP (JJ weirdos)))
+                    (, ,)
+                    (NP (NNS eccentrics))
+                    (, ,)
+                    (NP (NNS geeks))
+                    (, ,)
+                    (NP (JJ mass) (NNS murderers))
+                    (CC and)
+                    (NP (WP what)))))
+              (ADVP (RB not)))))))
+    (. .)))
+

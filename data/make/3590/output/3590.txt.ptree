@@ -1,0 +1,53 @@
+(ROOT
+  (S
+    (PP (IN within)
+      (NP
+        (NP (DT the) (NN framework))
+        (PP (IN of)
+          (NP (NN xr)))))
+    (, ,)
+    (S
+      (NP (NN virtuality))
+      (VP (VBZ is) (RB not)
+        (NP
+          (NP (DT the) (NN opposite))
+          (PP (IN of)
+            (NP (NN reality))))))
+    (CC and)
+    (S
+      (NP (JJ digital))
+      (VP (VBZ is) (RB not)
+        (NP
+          (NP (DT the) (NN opposite))
+          (PP (IN of)
+            (NP (JJ biological))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB rather))
+    (NP (NN xr))
+    (VP (VBZ envisions)
+      (NP
+        (NP (DT a)
+          (ADJP (RBR more) (JJ complex))
+          (NN relationship))
+        (PP (IN in)
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (ADVP (RB virtuality))
+              (VP (VBZ actualizes)
+                (NP (JJ real) (NNS effects))
+                (PP (TO to)
+                  (NP (DT the) (NN extent)))
+                (SBAR (IN that)
+                  (S
+                    (NP
+                      (NP (PRP$ our) (NN perception))
+                      (PP (IN of)
+                        (NP (JJ virtual) (NNS objects))))
+                    (VP (VBZ becomes)
+                      (ADJP (RB fully) (JJ real)))))))))))
+    (. .)))
+

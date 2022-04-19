@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (NN department))
+      (PP (IN of)
+        (NP (NN archaeology))))
+    (VP (VBZ has)
+      (VP (VBN found)
+        (NP
+          (NP (DT some))
+          (PP (IN of)
+            (NP
+              (NP
+                (NP (DT the) (JJS oldest) (NN evidence))
+                (PP (IN of)
+                  (NP (NN art))))
+              (CC and)
+              (NP
+                (NP (JJ abstract) (NN thought))
+                (PP (IN in)
+                  (NP (DT the) (NN world)))))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (ADVP (RB specifically))
+    (VP (VBD engrained))
+    (NP
+      (NP (JJ ostrich) (JJ eggshell) (NN water) (NNS containers))
+      (ADJP (VBN dated)
+        (PP (TO to)
+          (ADVP
+            (NP (CD 60,000) (NNS years))
+            (RB ago)))))
+    (. .)))
+

@@ -1,0 +1,5 @@
+conn:when conn_POS:WRB prev1:group prev1_POS:NN with_prev1_full:group_when with_prev1_POS_full:NN_WRB prev2:a prev2_POS:DT with_prev2_full:a_when with_prev2_POS_full:DT_WRB NA
+conn:also conn_POS:RB prev1:games prev1_POS:NNS with_prev1_full:games_also with_prev1_POS_full:NNS_RB prev2:older prev2_POS:JJR with_prev2_full:older_also with_prev2_POS_full:JJR_RB NA
+conn:on_the_other_hand conn_POS:IN_DT_JJ_NN sent_pos:0 NA
+conn:also conn_POS:RB prev1:games prev1_POS:NNS with_prev1_full:games_also with_prev1_POS_full:NNS_RB prev2:older prev2_POS:JJR with_prev2_full:older_also with_prev2_POS_full:JJR_RB NA
+conn:so conn_POS:IN prev1:downtime prev1_POS:NN with_prev1_full:downtime_so with_prev1_POS_full:NN_IN prev2:more prev2_POS:JJR with_prev2_full:more_so with_prev2_POS_full:JJR_IN NA

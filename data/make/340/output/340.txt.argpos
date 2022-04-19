@@ -1,0 +1,2 @@
+conn:thus conn_POS:RB prev1:and prev1_POS:CC with_prev1_full:and_thus with_prev1_POS_full:CC_RB prev2:project prev2_POS:NN with_prev2_full:project_thus with_prev2_POS_full:NN_RB NA
+conn:but conn_POS:CC sent_pos:0 NA

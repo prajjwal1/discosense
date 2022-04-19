@@ -1,0 +1,62 @@
+(ROOT
+  (S
+    (NP (DT this) (NN phenomenon))
+    (VP (VBZ means)
+      (SBAR (IN that)
+        (S
+          (NP (NNS organizations))
+          (VP (VBP have)
+            (NP
+              (NP (DT no) (NN choice))
+              (CC but)
+              (S
+                (VP (TO to)
+                  (VP (VB make)
+                    (ADJP (JJ sure))
+                    (SBAR (IN that)
+                      (S
+                        (NP (PRP they))
+                        (VP (VBP are)
+                          (VP
+                            (VP (VBG delivering)
+                              (PP (IN on)
+                                (NP (PRP$ their) (NNS promises))))
+                            (CC and)
+                            (VP (VBG living)
+                              (PRT (RP up))
+                              (PP (TO to)
+                                (NP (PRP$ their) (NNS customers) (NNS expectations))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB otherwise))
+    (SINV
+      (CONJP (RB not) (JJ only))
+      (MD will)
+      (NP (PRP they))
+      (VP (VB risk)
+        (S
+          (VP (VBG losing)
+            (NP (PRP$ their) (VBG existing) (NNS customers))))))
+    (, ,)
+    (CC but)
+    (S
+      (S
+        (VP (MD will)
+          (ADVP (RB also))
+          (VP (VB gain)
+            (NP (DT a) (NN reputation))
+            (SBAR (IN that)
+              (S
+                (NP (PRP they))
+                (VP (VBP dont)))))))
+      (VP
+        (VP (VBP keep)
+          (NP (PRP$ their) (NN word)))
+        (CC and)
+        (VP (VBP are)
+          (ADVP (RB therefore))
+          (ADJP (RB not) (JJ trustworthy)))))
+    (. .)))
+

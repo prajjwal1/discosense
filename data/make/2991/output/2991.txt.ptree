@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (CD 2012)))
+    (, ,)
+    (S
+      (NP (NNS dallas) (NNS police))
+      (VP (VBD recorded)
+        (NP (CD 12) (JJ intimate) (NN partner) (NNS murders))))
+    (, ,)
+    (CC and)
+    (S
+      (NP
+        (NP (CD six))
+        (PP (IN of)
+          (NP (DT the) (NNS victims))))
+      (VP (VBD were)
+        (NP (JJ black) (NNS women))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB overall))
+    (NP (DT the) (NN department))
+    (VP (VBD recorded)
+      (SBAR
+        (S
+          (NP (CD 13,324) (NN family) (NN violence))
+          (VP (VBZ offenses)
+            (NP
+              (NP (CD 7,366))
+              (PP (VBG involving)
+                (NP (NN african) (NNS americans))))))))
+    (. .)))
+

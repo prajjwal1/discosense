@@ -1,0 +1,59 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP we))
+      (VP (VBD found)
+        (SBAR (IN that)
+          (S
+            (NP
+              (NP (NNS hospitals))
+              (VP (VBG employing)
+                (NP
+                  (NP (DT a) (JJR greater) (NN number))
+                  (PP (IN of)
+                    (NP (NNS physicians))))))
+            (VP (VBD had)
+              (NP
+                (NP (JJR lower) (JJ medical) (NN malpractice) (NNS claims))
+                (SBAR
+                  (S
+                    (VP (VBZ costs)
+                      (ADVP (RB however)))))))))))
+    (, ,)
+    (NP
+      (NP (NNS hospitals))
+      (VP (VBG employing)
+        (NP
+          (NP (DT a) (JJR greater) (NN number))
+          (PP (IN of)
+            (NP (NN physician) (NNS residents))))))
+    (VP (VBD had)
+      (NP
+        (NP (JJR higher) (JJ medical) (NN malpractice) (NNS claims))
+        (NP (NNS costs))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP interestingly))
+      (SBAR
+        (S
+          (NP (PRP$ our) (NN study))
+          (VP (VBD found)
+            (SBAR (IN that)
+              (S
+                (NP
+                  (NP (DT the) (NN number))
+                  (PP (IN of)
+                    (NP (JJ employed) (NNS nurses))))
+                (VP (VBD did) (RB not)
+                  (VP (VB affect)
+                    (NP (DT the) (JJ medical) (NN malpractice))))))))))
+    (VP (VBZ claims)
+      (NP
+        (NP (NNS costs))
+        (PP (IN of)
+          (NP (DT the) (NN hospital)))))
+    (. .)))
+

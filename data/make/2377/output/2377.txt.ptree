@@ -1,0 +1,57 @@
+(ROOT
+  (S
+    (NP (JJ impulsebased) (NN simulation))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (NN departure))
+        (PP (IN from)
+          (NP
+            (NP (DT these) (NNS approaches))
+            (, ,)
+            (SBAR
+              (WHPP (IN in)
+                (WHNP (WDT that)))
+              (S
+                (NP (EX there))
+                (VP (VBP are)
+                  (NP (DT no) (JJ explicit) (NNS constraints)
+                    (S
+                      (VP (TO to)
+                        (VP (VB be)
+                          (VP (VBN maintained)
+                            (PP (IN at)
+                              (NP (NN contact) (NNS points)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (ADJP (RB rather) (DT all))
+        (NN contact) (NNS interactions))
+      (PP (IN between)
+        (NP (NNS bodies))))
+    (VP (VBP are)
+      (VP (VBN affected)
+        (PP (IN through)
+          (NP (NNS collisions)))
+        (S
+          (VP
+            (VP (VBG rolling))
+            (, ,)
+            (VP (VBG sliding))
+            (, ,)
+            (VP (VBG resting))
+            (, ,)
+            (CC and)
+            (VP (VBG colliding)
+              (NP
+                (NP (NN contact))
+                (SBAR
+                  (S
+                    (VP (VBP are) (RB all)
+                      (VP (VBN modeled)
+                        (PP (IN in)
+                          (NP (DT this) (NN way)))))))))))))
+    (. .)))
+

@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (JJS safest) (NN location))
+      (PP (IN for)
+        (NP (DT a) (NN car) (NN seat))))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (NN middle))
+        (PP (IN of)
+          (NP (DT the) (JJ rear) (NN seat)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB however))
+    (PP (IN in)
+      (NP (DT some) (NNS cars)))
+    (NP (PRP it))
+    (VP (MD may) (RB not)
+      (VP (VB be)
+        (ADJP (JJ possible)
+          (S
+            (VP (TO to)
+              (VP (VB secure)
+                (NP (DT a) (NN car) (NN seat))
+                (ADVP (RB tightly)
+                  (PP (IN in)
+                    (NP
+                      (NP (DT the) (NN middle))
+                      (, ,)
+                      (SBAR
+                        (WHPP (IN in)
+                          (WHNP (WDT which) (NN case)))
+                        (S
+                          (NP (DT the) (JJ rear) (NN side) (NN position))
+                          (VP (VBZ is)
+                            (NP (DT the) (JJS safest))))))))))))))
+    (. .)))
+

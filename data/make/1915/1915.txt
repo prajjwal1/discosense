@@ -1,0 +1,1 @@
+java serialization relies on a few mechanisms that are not available in compiled javascript, such as dynamic class loading and reflection. as a result gwt does not support standard java serialization.

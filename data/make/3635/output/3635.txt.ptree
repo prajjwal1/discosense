@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (NP (DT the) (NN commission))
+    (VP (VBZ does) (RB not)
+      (VP (VB manage)
+        (S
+          (NP (DT any) (NN land))
+          (NP (PRP itself)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB rather))
+    (NP (PRP it))
+    (VP (VBZ cooperates)
+      (PP (IN with)
+        (NP
+          (NP (NN government) (NNS agencies))
+          (PP (IN in)
+            (NP (PDT both) (DT the) (NN u.) (NN s.)
+              (CC and)
+              (NN canada)))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBP are)
+                (ADJP (JJ responsible)
+                  (PP (IN for)
+                    (NP (DT this) (NN land))))))))))
+    (. .)))
+

@@ -1,0 +1,2 @@
+conn:in_short conn_POS:IN_JJ sent_pos:0 NA
+conn:when conn_POS:WRB sent_pos:2 prev1:short prev1_POS:JJ with_prev1_full:short_when with_prev1_POS_full:JJ_WRB prev2:in prev2_POS:IN with_prev2_full:in_when with_prev2_POS_full:IN_WRB NA

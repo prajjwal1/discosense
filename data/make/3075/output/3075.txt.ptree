@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (NP (DT this))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (NN system))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBZ needs)
+              (SBAR
+                (S
+                  (NP (DT no) (NN star))
+                  (VP (VBP nut)
+                    (NP (JJ top) (NN cap) (NN assembly))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB instead))
+      (NP (DT a) (JJ threaded) (NN collar))
+      (VP (VBZ is)
+        (ADJP (JJ bonded)
+          (PP (TO to)
+            (NP
+              (NP (DT the) (NN outside))
+              (PP (IN of)
+                (NP (DT the) (NN steerer))))))))
+    (CC and)
+    (S
+      (NP (PRP you))
+      (VP (VBP adjust)
+        (NP
+          (NP (DT the) (JJ headset) (NN compression))
+          (PP (IN via)
+            (NP (DT the) (JJ quickset) (NN cap))))))
+    (. .)))
+

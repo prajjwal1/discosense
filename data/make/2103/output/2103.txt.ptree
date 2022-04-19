@@ -1,0 +1,64 @@
+(ROOT
+  (S
+    (NP (FW i))
+    (VP (VBP see)
+      (NP
+        (NP (DT this))
+        (PP (IN as)
+          (NP (DT a) (JJ western) (NN analogue))))
+      (PP (TO to)
+        (NP
+          (NP (DT the) (NN bikkhu))
+          (, ,)
+          (SBAR
+            (WHNP (WP who))
+            (S
+              (VP (VBZ practices)
+                (NP
+                  (NP (NN non))
+                  (VP (VBG clinging)
+                    (S
+                      (VP (TO to)
+                        (VP (VB equip)
+                          (NP (PRP him))
+                          (PP (IN for)
+                            (NP
+                              (NP (PRP$ his) (NN life))
+                              (PP (IN of)
+                                (S
+                                  (VP (VBG wandering)))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ interestingly) (DT the) (JJ bodhi) (NN tree))
+      (, ,)
+      (NP
+        (NP (DT the) (JJ sacred) (NN fig))
+        (PP (IN beneath)
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (NP (DT the) (NN buddha))
+              (VP (VBZ meditates))))))
+      (, ,))
+    (ADVP (RB also))
+    (VP (VBZ appears)
+      (PP (IN in)
+        (NP
+          (NP (NN genesis))
+          (, ,)
+          (SBAR
+            (WHADVP (WRB where))
+            (S
+              (NP (JJ genital) (NN covering) (NN fig))
+              (VP (VBZ leaves)
+                (VP (VB infuse)
+                  (NP (NN adam)
+                    (CC and)
+                    (NN eve))
+                  (PP (IN with)
+                    (NP (JJ new) (NN life))))))))))
+    (. .)))
+

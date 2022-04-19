@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (S
+      (NP (NNP stokes))
+      (VP (VBD appeared)
+        (PP (IN in)
+          (NP (DT a) (JJ minute) (NN maid) (NN commercial)))
+        (PP (IN with)
+          (NP (JJ other) (JJ olympic) (NNS hopefuls)))))
+    (CC and)
+    (S
+      (NP (PRP$ her) (NNS parents))
+      (VP (VBD accepted)
+        (NP (NN money))
+        (PP (IN from)
+          (NP
+            (NP (NN minute) (NN maid))
+            (, ,)
+            (CONJP (RB as) (RB well) (IN as))
+            (NP (DT a) (CD 12,000) (JJ annual) (NN stipend))))
+        (PP (IN from)
+          (NP (NN usgf)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB because)
+      (PP (IN of)
+        (NP
+          (NP (DT this))
+          (PP (RB because) (IN of)
+            (NP (DT this))))))
+    (NP (PRP she))
+    (VP (VBD was)
+      (ADJP (JJ ineligible)
+        (S
+          (VP (TO to)
+            (VP (VB complete)
+              (PP (IN in)
+                (NP (NN college) (NNS gymnastics))))))))
+    (. .)))
+

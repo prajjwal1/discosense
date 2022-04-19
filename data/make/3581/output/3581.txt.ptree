@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (NP (DT the) (NN fbi))
+    (VP (VBZ does) (RB not)
+      (VP (VB collect)
+        (NP (DT the) (NNS data) (PRP itself))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB rather))
+    (NP
+      (NP (NN law) (NN enforcement) (NNS agencies))
+      (PP (IN across)
+        (NP (DT the) (VBN united) (NNS states))))
+    (VP (VBP provide)
+      (NP (DT the) (NNS data))
+      (PP (TO to)
+        (NP
+          (NP (DT the) (NN fbi))
+          (, ,)
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (ADVP (RB then))
+              (VP (VBZ compiles)
+                (NP (DT the) (NNS reports))))))))
+    (. .)))
+

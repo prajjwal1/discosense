@@ -1,0 +1,4 @@
+conn:because conn_POS:IN prev1:, prev1_POS:, with_prev1_full:,_because with_prev1_POS_full:,_IN prev2:index prev2_POS:NN with_prev2_full:index_because with_prev2_POS_full:NN_IN NA
+conn:conversely conn_POS:RB sent_pos:0 NA
+conn:when conn_POS:WRB sent_pos:1 prev1:conversely prev1_POS:RB with_prev1_full:conversely_when with_prev1_POS_full:RB_WRB NA
+conn:since conn_POS:IN prev1:fall prev1_POS:VB with_prev1_full:fall_since with_prev1_POS_full:VB_IN prev2:should prev2_POS:MD with_prev2_full:should_since with_prev2_POS_full:MD_IN NA

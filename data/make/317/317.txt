@@ -1,0 +1,1 @@
+the timing at which the wobble signal falls is also defined by the output signal of the timing generator 335. in other words the detector 338 decides the type of the wobble signal by majority on a unit section basis.

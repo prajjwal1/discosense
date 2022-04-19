@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (NP
+      (NP (NN nothing))
+      (PP (IN in)
+        (NP
+          (NP (DT the) (NN notion))
+          (PP (IN of)
+            (NP
+              (NP (JJ digital) (NN computation))
+              (VP (VBN used)
+                (PP (IN by)
+                  (NP (NN computer) (NNS scientists)
+                    (CC and)
+                    (NN computability) (NNS theorists)))))))))
+    (VP (VBZ mandates)
+      (NP (PDT such) (DT a) (NN definition)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB conversely))
+    (NP
+      (NP (DT the) (NN processing))
+      (PP (IN of)
+        (NP (JJ non) (JJ natural) (NN information))))
+    (VP (VBP need) (RB not)
+      (VP (VB be)
+        (VP (VBN carried)
+          (PRT (RP out))
+          (PP (IN by)
+            (NP
+              (NP (NNS means))
+              (PP (IN of)
+                (NP (JJ digital) (NN computation))))))))
+    (. .)))
+

@@ -1,0 +1,5 @@
+conn:because conn_POS:IN prev1:, prev1_POS:, with_prev1_full:,_because with_prev1_POS_full:,_IN prev2:different prev2_POS:JJ with_prev2_full:different_because with_prev2_POS_full:JJ_IN NA
+conn:thus conn_POS:RB sent_pos:0 NA
+conn:because conn_POS:IN prev1:uncertainty prev1_POS:NN with_prev1_full:uncertainty_because with_prev1_POS_full:NN_IN prev2:more prev2_POS:JJR with_prev2_full:more_because with_prev2_POS_full:JJR_IN NA
+conn:and conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_and with_prev1_POS_full:,_CC prev2:change prev2_POS:NN with_prev2_full:change_and with_prev2_POS_full:NN_CC NA
+conn:because conn_POS:IN prev1:uncertainty prev1_POS:NN with_prev1_full:uncertainty_because with_prev1_POS_full:NN_IN prev2:lower prev2_POS:JJR with_prev2_full:lower_because with_prev2_POS_full:JJR_IN NA

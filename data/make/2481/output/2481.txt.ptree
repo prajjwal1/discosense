@@ -1,0 +1,45 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (JJ passband) (NNS edges))
+      (PP (IN of)
+        (NP (DT the) (JJ second) (NN filter)
+          (QP (CD 501) (CD 02)))))
+    (VP (VBP are)
+      (VP (VBN denoted)
+        (PP (IN by)
+          (NP
+            (NP (DT the) (CD 3) (NN db) (NNS points))
+            (PP (IN at)
+              (NP
+                (NP (CD 197) (NN hz))
+                (CC and)
+                (NP (CD 296) (NN hz))))))
+        (ADVP (RB respectively))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB similarly))
+    (NP
+      (NP (DT the) (NN beginning)
+        (CC and)
+        (NN end))
+      (PP (IN of)
+        (NP
+          (NP (DT the) (NN passband))
+          (PP (IN of)
+            (NP (DT the) (JJ third) (NN filter))))))
+    (VP (VBZ is)
+      (VP (VBN denoted)
+        (PP (IN by)
+          (NP
+            (NP (DT the) (CD 3) (NN db) (NNS points))
+            (PP (IN at)
+              (NP
+                (NP (CD 296) (NN hz))
+                (CC and)
+                (NP (CD 444) (NN hz))))))
+        (ADVP (RB respectively))))
+    (. .)))
+

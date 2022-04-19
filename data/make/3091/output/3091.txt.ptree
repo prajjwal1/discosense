@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (NP (NN dorton))
+    (VP
+      (VP (VBD had)
+        (VP (VBN been)
+          (VP
+            (ADVP (RB recently))
+            (VBG dealing)
+            (PP (IN with)
+              (NP (DT a) (NN foot) (NN infection))))))
+      (CC and)
+      (VP (VBD had)
+        (VP (VBN undergone)
+          (NP (DT some) (JJ preventive) (NN surgery)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP
+      (ADVP (RB however))
+      (IN on)
+      (NP (NN friday)))
+    (, ,)
+    (NP (NN november))
+    (VP (VBD 30th)
+      (SBAR
+        (S
+          (NP (PRP he))
+          (VP (VBD suffered)
+            (NP
+              (NP (DT a) (NN heart) (NN attack))
+              (SBAR
+                (WHNP (WDT which))
+                (S
+                  (VP (VBD claimed)
+                    (NP (PRP$ his) (NN life))))))))))
+    (. .)))
+

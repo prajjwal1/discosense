@@ -1,0 +1,1 @@
+in addition, this is also why the prioritizers produce and utilize a tuple. specifically a tuple allows the scheduler to compare two particular jobs by looking at each jobs tuple and then ordering the jobs appropriately.

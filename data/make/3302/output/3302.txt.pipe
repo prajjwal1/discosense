@@ -1,0 +1,4 @@
+Explicit|||144..156||nevertheless||1|nevertheless|||Comparison.Concession|||||||||||0..142|0|with the chip still in, i think there is some interference from the uno while the mini is being programmed, although i can be completely wrong||||||||157..241|1|it works, and i even managed to get the mini and uno working with a virtualwire link|||||||||||||
+Explicit|||167..170||and||1|and|||Expansion.Conjunction|||||||||||171..241|1|i even managed to get the mini and uno working with a virtualwire link||||||||144..165|1|nevertheless it works|||||||||||||
+Explicit|||72..77||while||0|while|||Temporal.Synchrony|||||||||||32..71|0|there is some interference from the uno||||||||78..142|0|the mini is being programmed, although i can be completely wrong|||||||||||||
+Explicit|||108..116||although||0|although|||Comparison.Contrast|||||||||||78..106|0|the mini is being programmed||||||||117..142|0|i can be completely wrong|||||||||||||

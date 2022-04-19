@@ -1,0 +1,47 @@
+(ROOT
+  (S
+    (NP (JJ good) (NNS questions))
+    (ADVP (RB ill))
+    (VP (VBP try)
+      (S
+        (VP (TO to)
+          (VP (VB get)
+            (ADVP (RB back)
+              (PP (TO to)
+                (NP (PRP you))))
+            (PP (IN on)
+              (NP (PRP them)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN although) (IN as)
+      (S
+        (VP (VBD mentioned))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ seems)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP
+              (QP (JJR more) (IN than) (DT a) (JJ few)))
+            (PP (IN in)
+              (NP
+                (NP (DT those) (NN comment) (FW sections) (FW i))
+                (VP (VBN mentioned)
+                  (ADVP (RBR earlier))))))
+          (VP (VBD were)
+            (VP (VBG talking)
+              (PP (IN of)
+                (NP
+                  (NP (DT some)
+                    (ADJP (RB highly) (JJ questionable))
+                    (NNS policies))
+                  (PP (IN of)
+                    (NP
+                      (NP (CD one) (NN sort))
+                      (CC or)
+                      (NP (DT another)))))))))))
+    (. .)))
+

@@ -1,0 +1,3 @@
+conn_lc:so conn:so conn_POS:IN with_prev_full:,_so xxx£
+conn_lc:if conn:if conn_POS:IN with_prev_full:so_if xxx£
+conn_lc:although conn:although conn_POS:IN xxx£

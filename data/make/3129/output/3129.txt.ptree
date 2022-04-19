@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (S
+      (NP (FW i))
+      (VP (VBP suppose)
+        (SBAR (IN if)
+          (S
+            (NP (PRP you))
+            (ADVP (RB really))
+            (VP (MD must)
+              (VP (VB smoke)))))))
+    (, ,)
+    (NP (DT this))
+    (VP (VBZ is)
+      (NP (DT a) (JJ healthier) (NN alternative))
+      (, ,)
+      (ADVP (RB clearly)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (SBAR (IN although)
+        (S
+          (NP (JJ i) (NN dont))
+          (VP (VBP believe)
+            (NP (DT these)
+              (X (SYM e))))))
+      (NP (NNS cigs))
+      (VP (VBP have)
+        (VP (VBN been)
+          (VP (VBN approved)
+            (PP (IN by)
+              (NP (DT the) (NN fda)))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (FW i))
+      (VP (MD could)
+        (VP (VB be)
+          (ADJP (JJ wrong)))))
+    (. .)))
+

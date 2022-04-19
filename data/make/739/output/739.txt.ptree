@@ -1,0 +1,70 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN specific)))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ has)
+      (NP
+        (NP
+          (NP (JJ adverse) (NNS effects))
+          (PP (IN on)
+            (NP (NN food) (NN supply))))
+        (, ,)
+        (NP
+          (NP (NNS prices))
+          (PP (IN of)
+            (NP (NNS foodgrains))))
+        (, ,)
+        (NP
+          (NP (NN cost))
+          (PP (IN of)
+            (NP (NN living) (, ,) (NN health)
+              (CC and)
+              (NN nutrition))))
+        (, ,)
+        (NP
+          (NP (NN poverty))
+          (, ,)
+          (NP (NN employment))
+          (, ,)
+          (NP (NN labour) (NN market))
+          (, ,)
+          (NP
+            (NP (NN land) (NN loss))
+            (PP (IN from)
+              (NP (NN agriculture))))
+          (CC and)
+          (NP (JJ foreign) (NN exchange) (NNS earnings)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN sum)))
+    (NP (PRP it))
+    (VP (VBD revealed)
+      (SBAR (IN that)
+        (S
+          (NP (DT the) (JJ agricultural) (NN crisis))
+          (VP (MD would)
+            (VP (VB be)
+              (VP (VBG affecting)
+                (NP
+                  (NP (DT a) (NN majority))
+                  (PP (IN of)
+                    (NP
+                      (NP
+                        (NP (DT the) (NNS people))
+                        (PP (IN in)
+                          (NP (NN india))))
+                      (CC and)
+                      (NP
+                        (NP (DT the) (NN economy))
+                        (PP (IN as)
+                          (NP
+                            (NP (DT a) (NN whole))
+                            (PP (IN in)
+                              (NP (DT the) (JJ long) (NN run)))))))))))))))
+    (. .)))
+

@@ -1,0 +1,2 @@
+conn:if conn_POS:IN sent_pos:1 prev1:otherwise prev1_POS:RB with_prev1_full:otherwise_if with_prev1_POS_full:RB_IN NA
+conn:and conn_POS:CC prev1:eaten prev1_POS:VBN with_prev1_full:eaten_and with_prev1_POS_full:VBN_CC prev2:get prev2_POS:VB with_prev2_full:get_and with_prev2_POS_full:VB_CC NA

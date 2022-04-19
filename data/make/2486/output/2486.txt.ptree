@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (VP
+      (ADVP (RB also))
+      (VB bear)
+      (PP (IN in)
+        (NP (NN mind)))
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (VBG purchasing) (JJ full) (NNS games))
+            (PP (IN via)
+              (NP (NN xbl) (DT a))))
+          (VP (VBZ ties)
+            (NP (DT that) (NN game))
+            (PP (TO to)
+              (NP (DT that) (JJ particular) (NN xbox)))
+            (SBAR (IN if)
+              (S
+                (NP (DT the) (JJ wrong) (NN gamertag))
+                (VP (VBZ is)
+                  (VP (VBN used)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP (NN example)))
+    (NP (FW i))
+    (VP (VBD purchased)
+      (NP
+        (NP (NNS telltales))
+        (VP (VBG walking)
+          (PRT (RP dead))
+          (NP (NN episode) (CD 1)))))
+    (. .)))
+

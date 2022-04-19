@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (NP (FW i))
+    (ADVP (RB also))
+    (VP (VBP know)
+      (SBAR (IN that)
+        (S
+          (NP (FW i))
+          (VP (MD can)
+            (ADVP (RB positively))
+            (VP (VB affect)
+              (NP (JJ many) (NNS people))
+              (PP (IN by)
+                (S
+                  (VP (VBG doing)
+                    (NP (PRP it))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN as)
+      (NP (DT a) (NN result)))
+    (NP (FW i))
+    (VP (VBP feel)
+      (ADJP (JJ obligated)
+        (S
+          (VP (TO to)
+            (VP
+              (ADVP (IN at) (JJS least))
+              (VB see)
+              (SBAR
+                (WHADJP (WRB how) (JJ deep))
+                (S
+                  (NP (DT the) (NN rabbit) (NN hole))
+                  (VP (VBZ goes)))))))))
+    (. .)))
+

@@ -1,0 +1,52 @@
+(ROOT
+  (S
+    (NP (PRP it))
+    (VP (MD would)
+      (VP (VB affect)
+        (NP
+          (NP (DT any) (NN business))
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (VP (VBZ is)
+                (VP (VBG doing)
+                  (NP (JJ sufficient) (NN business))
+                  (PP (IN with)
+                    (NP (DT the) (NN eurozone)
+                      (S
+                        (VP (TO to)
+                          (VP (VB justify)
+                            (S
+                              (VP (VBG having)
+                                (NP (DT a) (NN euro) (NN account))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (RB particularly) (NNS businesses))
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (VP (VBP are)
+            (VP (CC both)
+              (VP (VBG exporting)
+                (PP (TO to)))
+              (CC and)
+              (VP
+                (VP (VBG importing)
+                  (PP (IN from)
+                    (NP (DT the) (NN eurozone))))
+                (, ,)
+                (VP
+                  (ADVP (RB perhaps))
+                  (VBG importing)
+                  (NP (JJ raw) (NNS materials)
+                    (CC and)
+                    (NNS parts)))
+                (CC and)
+                (VP (VBG exporting))))))))
+    (VP (VBD finished)
+      (NP (NNS goods)))
+    (. .)))
+

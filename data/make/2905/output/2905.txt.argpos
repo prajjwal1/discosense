@@ -1,0 +1,2 @@
+conn:as_a_result conn_POS:IN_DT_NN sent_pos:0 NA
+conn:unless conn_POS:IN prev1:exports prev1_POS:NNS with_prev1_full:exports_unless with_prev1_POS_full:NNS_IN prev2:equal prev2_POS:VB with_prev2_full:equal_unless with_prev2_POS_full:VB_IN NA

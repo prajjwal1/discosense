@@ -1,0 +1,38 @@
+(ROOT
+  (S
+    (VP (VB take)
+      (NP (NNS apps))
+      (PP (IN like)
+        (NP
+          (NP (NNS spreadsheets))
+          (, ,)
+          (NP (NN vector) (JJ graphic) (NNS illustrators))
+          (, ,)
+          (CC and)
+          (NP (RB even) (NN word) (NNS processors)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP
+        (NP (JJ other) (NNS words))
+        (PP (IN by)
+          (S
+            (VP (VBG being)
+              (ADJP (JJ able)
+                (S
+                  (VP (TO to)
+                    (VP (VB attach)
+                      (NP (DT a) (NN mouse)))))))))))
+    (NP (DT the) (NN device))
+    (VP (MD can)
+      (VP (VB behave)
+        (NP (JJR more))
+        (PP (IN like)
+          (NP
+            (NP (DT a) (JJ traditional) (NN computer))
+            (PP (IN with)
+              (NP (JJ traditional) (NNS apps)))))))
+    (. .)))
+

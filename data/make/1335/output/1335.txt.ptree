@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (NP (DT the) (NN admission)
+      (CC and)
+      (NN scholarship) (NNS committees))
+    (VP (VBP are)
+      (ADJP (JJ interested)
+        (PP (IN in)
+          (NP
+            (NP (PRP$ your) (NNS comments))
+            (PP (VBG concerning)
+              (NP
+                (NP (DT the) (JJ applicants) (JJ intellectual) (NN ability))
+                (CC and)
+                (NP (JJ personal) (NN character))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (ADJP (JJ particular)))
+    (NP (PRP we))
+    (VP (MD would)
+      (VP (VB appreciate)
+        (NP
+          (NP (PRP$ your) (NN appraisal))
+          (PP (IN of)
+            (NP (DT the) (NNS candidates) (NN potential))))
+        (PP (IN for)
+          (NP
+            (NP (JJ intellectual) (NN growth))
+            (, ,)
+            (NP (NN honesty))
+            (, ,)
+            (NP (NN integrity))
+            (CC and)
+            (NP (JJ emotional) (NN stability))))))
+    (. .)))
+

@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (NP (DT this) (NN list))
+    (VP (VBP consist)
+      (PP (IN of)
+        (NP
+          (NP (NN enrollment) (NNS centres))
+          (PP (IN in)
+            (NP (JJ hyderabad) (NN district)))))
+      (ADVP (RB only)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB however))
+    (NP (PRP you))
+    (VP (MD can)
+      (ADVP (RB also))
+      (VP (VB search)
+        (SBAR (IN for)
+          (S
+            (NP (JJ other) (NN enrollment))
+            (VP (VBP centre)
+              (ADVP (RB nearby))
+              (NP (PRP you)))))))
+    (. .)))
+

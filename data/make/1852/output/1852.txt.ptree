@@ -1,0 +1,47 @@
+(ROOT
+  (S
+    (NP (NN facebook) (NN security))
+    (VP (VBZ relates)
+      (NP
+        (NP (DT this) (NN method))
+        (PP (IN in)
+          (NP
+            (NP (NNS situations))
+            (SBAR
+              (WHADVP (WRB where))
+              (S
+                (NP (PRP you))
+                (VP (VBP ask)
+                  (S
+                    (NP (PRP$ your) (VBN trusted) (NN neighbor))
+                    (VP (TO to)
+                      (VP (VB hold)
+                        (NP (NN unto))
+                        (NP (PRP$ your) (NN house) (NNS keys))
+                        (SBAR (IN while)
+                          (S
+                            (VP (VBP youre)
+                              (PRT (RP out)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN although)
+      (S
+        (NP (DT this) (NN feature))
+        (VP (VBD was) (RB not)
+          (VP
+            (ADVP (RB well))
+            (VBN received)
+            (PP (IN by)
+              (NP (JJS most) (NN facebook) (NNS users)))
+            (SBAR (IN because)
+              (S
+                (NP (PRP they))
+                (VP (VBP dont))))))))
+    (VP (VBP see)
+      (NP (DT this)
+        (ADJP (RB as) (JJR more))
+        (VBN secured) (NN facebook) (NN feature)))
+    (. .)))
+

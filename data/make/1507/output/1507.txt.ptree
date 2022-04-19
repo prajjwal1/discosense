@@ -1,0 +1,26 @@
+(ROOT
+  (S
+    (NP (NN hierarchy)
+      (CC and)
+      (NN status) (NNS differences))
+    (VP (VBD made)
+      (S
+        (NP (PRP it))
+        (ADJP (JJ difficult)
+          (PP (IN for)
+            (NP (JJR lower) (NN level) (NNS engineers))))
+        (S
+          (VP (TO to)
+            (VP (VB express)
+              (NP (PRP$ their) (NNS concerns)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN by)
+      (NP (NN contrast)))
+    (NP (JJ healthy) (NNS organizations))
+    (VP (VBZ foster)
+      (NP (JJ constructive) (NN conflict)))
+    (. .)))
+

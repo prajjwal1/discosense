@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (NNS users) (NNS tastes))
+        (PP (IN for)
+          (NP (NN syntax))))
+      (VP (VBP vary)
+        (ADVP (RB dramatically))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (JJS most) (NNS users))
+      (VP (VBP are)
+        (VP (VBG looking)
+          (PP (IN for)
+            (NP (DT a) (JJ common) (NN feature) (NN set))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (PP (RB because) (IN of)
+      (NP (DT this) (NN factory) (NN girl)))
+    (VP (VBZ supports))
+    (NP
+      (NP (NN syntax) (NNS layers))
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (VP (VBP provide)
+            (NP (JJ alternate) (NNS interfaces))))))
+    (. .)))
+

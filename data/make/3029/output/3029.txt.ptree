@@ -1,0 +1,56 @@
+(ROOT
+  (S
+    (NP
+      (NP (NN outlet) (NN receptacle) (NNS blocks))
+      (VP (VBG having)
+        (NP
+          (NP (DT a) (NN number))
+          (PP (IN of)
+            (NP (NNS receptacles))))))
+    (VP (VBD were)
+      (ADVP (RB first))
+      (VP (VBN formed)
+        (PP (IN as)
+          (NP
+            (NP (DT an) (JJ integral) (NN part))
+            (PP (IN of)
+              (NP (DT the) (NN junction) (NNS blocks)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thereafter))
+    (NP (PRP it))
+    (VP (VBD became)
+      (S
+        (VP
+          (VP (VBN known)
+            (S
+              (VP (TO to)
+                (VP (VB employ)
+                  (NP
+                    (NP (NNS receptacles))
+                    (SBAR
+                      (WHNP (WDT which))
+                      (S
+                        (VP (VBD were)
+                          (VP (VBN assembled)
+                            (SBAR (IN as)
+                              (S
+                                (NP (NNS devices))
+                                (VP
+                                  (VP (VBP separate)
+                                    (PP (IN from)
+                                      (NP (DT the) (NN junction) (NNS blocks))))
+                                  (, ,)
+                                  (CC but)
+                                  (VP (VBD were)
+                                    (ADJP (JJ mechanically)))))))))))))))
+          (CC and)
+          (VP
+            (ADVP (RB electrically))
+            (ADJP (JJ connectable))
+            (PP (TO to)
+              (NP (DT the) (NN junction) (NNS blocks)))))))
+    (. .)))
+

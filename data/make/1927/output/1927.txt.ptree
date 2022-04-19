@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (S
+      (VP (TO to)
+        (VP (VB dispense)
+          (NP
+            (NP (DT the) (VBN set) (NN dose))
+            (PP (IN of)
+              (NP (DT the) (JJ fluid) (JJ medicinal) (NN product)))))))
+    (, ,)
+    (NP (DT the) (NN user))
+    (VP (VBZ pushes)
+      (NP (DT the) (NN dose) (NN member) (CD 24))
+      (PP (IN in)
+        (NP (NN distal) (NN direction) (CD 14))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thereby))
+    (NP (DT a) (JJ bung) (CD 40))
+    (VP (VBZ is)
+      (ADJP (JJ advanced)
+        (PP (IN by)
+          (NP
+            (NP (NNS means))
+            (PP (IN of)
+              (NP (DT a) (NN piston) (NN rod)))))
+        (NP (CD 50)))
+      (PP (IN in)
+        (NP
+          (NP (DT an) (VBN assembled) (NN medicament) (NN cartridge))
+          (SBAR
+            (S
+              (NP
+                (NP (CD 32))
+                (CC and)
+                (NP (JJ medicinal) (NN product)))
+              (VP (VBZ is)
+                (ADJP (JJ dispensed))))))))
+    (. .)))
+

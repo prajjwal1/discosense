@@ -1,0 +1,47 @@
+(ROOT
+  (S
+    (ADVP (RB accordingly))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ reduces)
+      (NP (DT the) (NNS participants) (NN tax) (NN basis))
+      (PP (IN by)
+        (NP
+          (NP (DT the) (JJ initial) (NN default) (NN amount))
+          (PP (IN of)
+            (NP (CD 20,000)))))
+      (, ,)
+      (SBAR (RB so) (IN that)
+        (S
+          (NP
+            (NP (DT the) (NNS participants))
+            (VP (VBG remaining)
+              (NP
+                (NP (NN tax) (NN basis))
+                (PP (IN in)
+                  (NP (DT the) (NN plan))))))
+          (VP (VBZ is)
+            (NP (CD zero))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thereafter))
+    (NP
+      (NP (DT the) (NN amount))
+      (PP (IN of)
+        (NP (DT the) (JJ outstanding) (NN loan))))
+    (VP (VBZ is) (RB not)
+      (VP (VBN treated)
+        (PP (IN as)
+          (NP
+            (NP (NN part))
+            (PP (IN of)
+              (NP (DT the) (NN account) (NN balance)))))
+        (PP (IN for)
+          (NP
+            (NP (NNS purposes))
+            (PP (IN of)
+              (NP (NN section) (CD 72)))))))
+    (. .)))
+

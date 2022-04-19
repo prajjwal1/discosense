@@ -1,0 +1,49 @@
+(ROOT
+  (S
+    (ADVP (RB overall))
+    (, ,)
+    (S
+      (NP (DT the) (NNS critics))
+      (VP (VBD seemed)
+        (S
+          (VP (TO to)
+            (VP (VB appreciate)
+              (NP (NN african) (NN american)))))
+        (, ,)
+        (S
+          (VP (VB dance)
+            (NP (VBN related) (NNS values))
+            (PP (IN like)
+              (NP
+                (NP (JJ good) (NN rhythm))
+                (SBAR
+                  (WHNP (WDT which))
+                  (S
+                    (VP (VBD differed)
+                      (ADVP (RB positively))
+                      (PP (IN from)
+                        (NP (JJ white) (NNS dancers) (NN rhythm))))))))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP they))
+      (ADVP (RB occasionally))
+      (VP (VBD recognized)
+        (NP (DT the) (NN harlem) (NNS dancers))
+        (PP (IN as)
+          (NP (JJ rehearsed) (NNS dancers)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (JJ other) (NNS words)))
+    (NP (PRP they))
+    (VP (VBD were) (RB not)
+      (ADJP (JJ considered) (RB stereotypically)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (NP (JJ natural) (NNS dancers)))))))
+    (. .)))
+

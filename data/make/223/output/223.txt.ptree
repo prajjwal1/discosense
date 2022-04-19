@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (SBAR (IN in) (NN order)
+      (S
+        (VP (TO to)
+          (ADVP (RB capacitively))
+          (VP (VB connect)
+            (NP (DT the) (JJ helical) (NN antenna))
+            (PP (TO to)
+              (NP (DT the) (NN radiator)))
+            (ADVP (RB however))))))
+    (, ,)
+    (NP
+      (NP (DT the) (NN length))
+      (PP (IN of)
+        (NP (DT the) (NN radiator))))
+    (VP (MD must)
+      (VP (VB be)
+        (VP (VBN extended))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB consequently))
+    (NP
+      (NP (DT the) (NN length))
+      (PP (IN of)
+        (NP (DT the) (NN radiator) (NN antenna))))
+    (VP (VBZ becomes)
+      (ADJP (RB unnecessarily) (JJ long)))
+    (. .)))
+

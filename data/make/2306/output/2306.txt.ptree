@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNS spreadsheets))
+      (PP (IN like)
+        (NP (DT these))))
+    (VP (VBP are)
+      (ADVP (RB usually))
+      (VP
+        (ADVP (RB automatically))
+        (VBN generated)
+        (PP (IN by)
+          (NP
+            (NP (DT some) (NN kind))
+            (PP (IN of)
+              (NP (JJ pivoting) (NN program)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB because) (IN of)
+      (NP (DT that)))
+    (NP (PRP they))
+    (VP (VBP contain)
+      (NP
+        (NP (DT a) (VBG varying) (NN number))
+        (PP (IN of)
+          (NP
+            (NP (NNS columns))
+            (PP (IN with)
+              (NP
+                (NP (DT a) (NN dimension) (NN value))
+                (PP (IN in)
+                  (NP (DT the) (NN column) (NN header)))))))))
+    (. .)))
+

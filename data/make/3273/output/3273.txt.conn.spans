@@ -1,0 +1,5 @@
+0..3 0 but 3273.txt 0
+4..11;15..18 0 neither_nor 3273.txt 0
+46..48 0 as 3273.txt 0
+69..80 1 for_example 3273.txt 0
+128..130 1 as 3273.txt 0

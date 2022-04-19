@@ -1,0 +1,48 @@
+(ROOT
+  (S
+    (NP
+      (NP (VBN reduced) (NN h) (JJ 2s) (NN production))
+      (PP (IN in)
+        (NP (DT the) (NN brain))))
+    (VP (VBD was)
+      (VP (VBN observed)
+        (PP (IN in)
+          (NP
+            (NP (NNS patients))
+            (PP (IN with)
+              (NP (JJ alzheimers) (NN disease)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN on)
+      (NP
+        (NP (DT the) (JJ other) (NN hand) (NN excess))
+        (PP (IN of)
+          (NP (NN h)))))
+    (NP (NNS 2s))
+    (VP
+      (VP (MD may)
+        (VP (VB lead)
+          (PP (TO to)
+            (NP (JJ mental) (NN retardation)))
+          (PP (IN in)
+            (NP
+              (NP (NNS patients))
+              (PP (IN with)
+                (NP (NNS downs) (NN syndrome)))))))
+      (CC and)
+      (VP (MD may)
+        (VP (VB be)
+          (VP (VBN involved)
+            (PP (IN in)
+              (NP
+                (NP (DT the) (NNS pathogenesis))
+                (PP (IN of)
+                  (NP
+                    (NP (NN hypotension))
+                    (VP (VBN associated)
+                      (PP (IN with)
+                        (NP (JJ septic) (NN shock))))))))))))
+    (. .)))
+

@@ -1,0 +1,55 @@
+(ROOT
+  (S
+    (NP (PRP they))
+    (VP (VBP favor)
+      (NP (JJ military) (NN intervention))
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (PRP it))
+          (VP (VBZ comes)
+            (PP (TO to)
+              (S
+                (VP
+                  (VP (VBG stopping)
+                    (NP
+                      (NP (NN genocide))
+                      (PP (IN in)
+                        (NP (NN darfur)
+                          (CC or)
+                          (NN starvation))))
+                    (PP (IN in)
+                      (NP (NN somalia))))
+                  (CC or)
+                  (VP (VBG doing)
+                    (SBAR
+                      (WHNP (WDT whatever))
+                      (S
+                        (NP (PRP it))
+                        (VP (VBD was)
+                          (SBAR (IN that)
+                            (S
+                              (NP (NN president) (NN clinton))
+                              (VP (VBD did)
+                                (PP (IN in)
+                                  (NP (NNS haiti)))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (JJ other) (NNS words)))
+    (NP (PRP$ their) (NN objection))
+    (VP (VBP isnt)
+      (PP (TO to)
+        (NP
+          (NP (NN war))
+          (RRC
+            (ADVP (FW per) (FW se))
+            (NP (PRP$ its)
+              (NP
+                (PP (TO to)
+                  (NP (NNS wars)))
+                (DT that) (JJ advance) (NN u.) (NN s.) (NNS interests)))))))
+    (. .)))
+

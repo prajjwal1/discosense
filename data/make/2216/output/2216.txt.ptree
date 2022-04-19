@@ -1,0 +1,52 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (NN certification))
+      (PP (IN from)
+        (NP
+          (NP (DT the) (JJ local) (JJ civil) (NN registrar))
+          (PP (IN of)
+            (NP (JJ cebu) (NN city))))))
+    (VP (VBZ shows)
+      (SBAR (IN that)
+        (S
+          (NP (PRP he))
+          (VP (VBD married)
+            (NP (NN elizabeth))
+            (PP (IN on)
+              (NP (NNP december) (CD 19) (, ,) (CD 1971)))
+            (PP (IN at)
+              (NP
+                (NP (JJ cardials) (JJ private) (NN chapel))
+                (, ,)
+                (NP (JJ cebu) (NN city))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN on)
+      (NP (DT the) (JJ other) (NN hand)))
+    (NP
+      (NP (DT the) (NN certificate))
+      (PP (IN of)
+        (NP
+          (NP (NN marriage))
+          (PP (IN from)
+            (NP
+              (NP (DT the) (JJ deputy) (NN registrar))
+              (PP (IN of)
+                (NP (NNS marriages)))))))
+      (, ,)
+      (ADJP (JJ hong) (JJ kong))
+      (, ,))
+    (VP (VBZ proves)
+      (S
+        (NP (NNS respondents))
+        (ADJP (JJ subsequent) (NN marriage)
+          (PP (IN with)
+            (NP
+              (NP (NN lisa))
+              (PP (IN on)
+                (NP (NNP july) (CD 9) (, ,) (CD 1982))))))))
+    (. .)))
+

@@ -1,0 +1,21 @@
+(ROOT
+  (S
+    (NP (NN hasbro))
+    (VP (VBD took)
+      (NP (NN issue))
+      (PP (IN with)
+        (NP (PRP it)))
+      (PP (JJ due) (TO to)
+        (NP (NN copyright) (NN infringement))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB subsequently))
+    (NP (DT the) (NNS developers))
+    (VP (VBD changed)
+      (NP (DT the) (NN name))
+      (PP (TO to)
+        (NP (NNS lexulous))))
+    (. .)))
+

@@ -1,0 +1,58 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT a) (JJ recent) (NN set))
+      (PP (IN of)
+        (NP
+          (NP (NNS experiments))
+          (VP (VBG using)
+            (ADJP (JJ cyberball))))))
+    (VP (VBD demonstrated)
+      (SBAR (IN that)
+        (S
+          (NP (NN rejection) (NNS impairs))
+          (VP (MD will)
+            (VP
+              (NP (NN power)
+                (CC or)
+                (NN self) (NN regulation)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB specifically))
+    (NP
+      (NP (NNS people))
+      (SBAR
+        (WHNP (WP who))
+        (S
+          (VP (VBP are)
+            (VP (VBN rejected)))))
+      (SBAR
+        (S
+          (VP (VBP are)
+            (ADJP
+              (ADJP (RBR more) (JJ likely)
+                (S
+                  (VP (TO to)
+                    (VP (VB eat)
+                      (NP (NNS cookies))))))
+              (CC and)
+              (ADJP (RBR less) (JJ likely)
+                (S
+                  (VP (TO to)
+                    (VP (VB drink)
+                      (NP (DT an)
+                        (ADJP (JJ unpleasant) (NN tasting))
+                        (NN beverage))
+                      (SBAR (IN that)
+                        (S
+                          (NP (PRP they))
+                          (VP (VBP are)
+                            (VP (VBN told))))))))))))))
+    (VP (VBZ is)
+      (ADJP (JJ good)
+        (PP (IN for)
+          (NP (PRP them)))))
+    (. .)))
+

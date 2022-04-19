@@ -1,0 +1,53 @@
+(ROOT
+  (S
+    (NP (DT this))
+    (VP
+      (VP (VBD was)
+        (NP (DT a) (JJ horrible) (NN trade)))
+      (, ,)
+      (CC and)
+      (VP (VBD made)
+        (ADJP
+          (ADJP (JJR worse))
+          (PP (IN by)
+            (NP
+              (NP (DT the) (NN fact))
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (ADVP (RB pierzynsky))
+                  (VP (VBD was)
+                    (NP
+                      (NP (PDT such) (DT an) (VBG flaming) (NN asshole))
+                      (PP (TO to)
+                        (NP (NN compliment))))))))))
+        (PP (IN with)
+          (NP (PRP$ his) (JJ total) (NNS suckiness)))
+        (PP (IN as)
+          (NP (DT a) (NN player)))))
+    (. .)))
+
+(ROOT
+  (S (CC but)
+    (ADVP (RB seriously))
+    (, ,)
+    (SBAR (IN if)
+      (S
+        (NP (NN rob) (NN nen))
+        (VP (VBD had)
+          (VP (VBN been)
+            (ADJP (JJ able)
+              (S
+                (VP (TO to)
+                  (VP (VB come)
+                    (ADVP (RB back))))))))))
+    (, ,)
+    (VP (MD would)
+      (ADVP (PRP we))
+      (VP (VB be)
+        (VP (VBG whining)
+          (PP (IN about)
+            (NP (DT this)))
+          (ADVP (RB now)))))
+    (. .)))
+

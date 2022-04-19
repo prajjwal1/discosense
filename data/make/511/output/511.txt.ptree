@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (S
+      (NP (NN ive))
+      (VP (VBD removed)
+        (NP (PDT all) (DT the) (NNS screws))))
+    (CC but)
+    (S
+      (NP (DT the) (NNS covers))
+      (ADVP (RB still))
+      (VP (VBP wont)
+        (VP (VB come)
+          (PRT (RP off)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB therefore))
+    (NP (EX there))
+    (VP (MD must)
+      (VP (VB be)
+        (NP
+          (NP (DT a) (NN removal) (NN technique))
+          (ADJP (RB im) (JJ unaware))
+          (PP (IN of)
+            (NP (JJ cant) (NN figure) (RP out))))))
+    (. .)))
+

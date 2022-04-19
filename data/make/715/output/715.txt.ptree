@@ -1,0 +1,44 @@
+(ROOT
+  (S
+    (NP (PDT all) (DT the) (JJ important) (NNS genres))
+    (VP (VBD were)
+      (VP (VBN represented)
+        (ADVP (RB there))
+        (, ,)
+        (NP
+          (NP (DT some))
+          (PP (IN in)
+            (NP (JJ unequaled) (NN number))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (PP (IN in)
+        (NP (NN sum)))
+      (NP (EX there))
+      (VP (VBD was)
+        (PP (IN in)
+          (NP (NN cairo)))
+        (NP
+          (NP (DT a) (JJ veritable) (NN microcosm))
+          (PP (IN of)
+            (NP (JJ coptic) (NN art))))))
+    (, ,)
+    (NP (WDT which))
+    (, ,)
+    (S
+      (VP (VBG owing)
+        (PP (TO to)
+          (NP
+            (NP (DT the) (JJ enlightened) (NN administration))
+            (PP (IN of)
+              (NP (VBG succeeding) (NNS directors)))))))
+    (, ,)
+    (VP (VBZ has)
+      (VP (VBN become)
+        (NP (DT an)
+          (ADJP (RB increasingly) (JJ important))
+          (NN tourist) (NN attraction))))
+    (. .)))
+

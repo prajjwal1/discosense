@@ -1,0 +1,44 @@
+(ROOT
+  (S
+    (NP (FW i))
+    (VP (VBP love)
+      (NP
+        (ADVP
+          (NP (DT the) (NN close))
+          (RB up))
+        (NP
+          (NP (NNS shots))
+          (, ,)
+          (ADVP (RB especially)))
+        (PP (IN of)
+          (NP (DT the) (JJ delicate) (NN bow) (NN necklace)))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (ADVP (RB though))
+      (WHADVP (WRB when))
+      (S
+        (NP (PRP they))
+        (VP (VBP weer)
+          (S
+            (NP (DT all))
+            (VP (VBG holding)
+              (PRT (RP up))
+              (NP
+                (NP (DT the) (NNS pieces))
+                (PP (IN of)
+                  (NP (NN paper))))
+              (PP (IN with)
+                (NP (PRP$ their) (NNS labels))))))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBD was)
+      (ADJP (JJ hard)
+        (S
+          (VP (TO to)
+            (VP (VB read)
+              (NP (PRP them)))))))
+    (. .)))
+

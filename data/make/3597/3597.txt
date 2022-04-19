@@ -1,0 +1,1 @@
+the osi open source criteria focuses on the availability of the source code and the advantages of an unrestricted and community driven development model. yet many foss licenses, like the apache license, and all free software licenses allow commercial use of foss components.

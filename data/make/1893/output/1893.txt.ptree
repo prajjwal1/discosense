@@ -1,0 +1,58 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (JJ potential) (NN substitutability))
+      (PP (IN between)
+        (NP (JJ fiscal)
+          (CC and)
+          (JJ nonfiscal) (NNS constraints))))
+    (VP (VBZ keeps)
+      (NP (PRP us))
+      (PP (IN from)
+        (S
+          (VP (VBG claiming)
+            (SBAR (IN that)
+              (S
+                (NP (DT the) (JJ former))
+                (VP (VBP are)
+                  (PP (IN in)
+                    (NP (DT all) (NNS circumstances)))
+                  (ADJP (RB absolutely) (JJ essential)
+                    (PP (IN for)
+                      (S
+                        (VP (VBG keeping)
+                          (NP (NNS governments))
+                          (PP (IN within)
+                            (NP (JJ appropriate) (NNS limits))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB conversely))
+    (NP
+      (NP (DT the) (NN complementarity))
+      (PP (IN between)
+        (NP (JJ fiscal)
+          (CC and)
+          (JJ nonfiscal) (NNS constraints))))
+    (VP (VBZ keeps)
+      (NP (PRP us))
+      (PP (IN from)
+        (S
+          (VP (VBG extending)
+            (PP (TO to)
+              (NP (JJ wild) (NNS extremes)))
+            (NP
+              (NP (DT the) (NN argument))
+              (SBAR (IN that)
+                (S
+                  (NP (JJ fiscal) (NNS limits))
+                  (ADVP (RB alone))
+                  (VP (MD will)
+                    (VP (VB accomplish)
+                      (NP
+                        (NP (DT the) (NN purpose))
+                        (PP (IN of)
+                          (NP (VBG constraining) (NN leviathan)))))))))))))
+    (. .)))
+

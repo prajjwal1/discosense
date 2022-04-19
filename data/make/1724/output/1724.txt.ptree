@@ -1,0 +1,57 @@
+(ROOT
+  (S
+    (NP
+      (NP (JJ mary) (NN ann) (NN lynch))
+      (, ,)
+      (NP
+        (NP (NN government)
+          (CC and)
+          (NNS media) (NN counsel))
+        (PP (IN for)
+          (NP (JJ maines) (JJ judicial) (NN branch))))
+      (, ,))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP
+            (NP (DT the) (JJ judicial) (NN code))
+            (PP (IN of)
+              (NP (NN conduct))))
+          (VP (VBZ prohibits)
+            (NP (NNS judges))
+            (PP (IN from)
+              (S
+                (VP (VBG doing)
+                  (CC or)
+                  (VBG saying)
+                  (NP
+                    (NP (NN anything))
+                    (SBAR
+                      (WHNP (WDT that))
+                      (S
+                        (VP (MD would)
+                          (VP (VB affect)
+                            (ADVP (RB impartiality))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB because)
+      (PP (IN of)
+        (SBAR (IN that)
+          (S
+            (NP (NN lynch))
+            (VP (VBD said))))))
+    (, ,)
+    (NP (NNS mills))
+    (VP (MD would) (RB not)
+      (VP (VB be)
+        (VP (VBN interviewed)
+          (PP (IN for)
+            (NP
+              (NP (DT any) (NN story))
+              (VP (VBN related)
+                (PP (TO to)
+                  (NP (DT an) (JJ open) (NN case)))))))))
+    (. .)))
+

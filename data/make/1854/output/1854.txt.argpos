@@ -1,0 +1,2 @@
+conn:also conn_POS:RB prev1:has prev1_POS:VBZ with_prev1_full:has_also with_prev1_POS_full:VBZ_RB prev2:device prev2_POS:NN with_prev2_full:device_also with_prev2_POS_full:NN_RB NA
+conn:if conn_POS:IN prev1:, prev1_POS:, with_prev1_full:,_if with_prev1_POS_full:,_IN prev2:majority prev2_POS:NN with_prev2_full:majority_if with_prev2_POS_full:NN_IN NA

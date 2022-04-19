@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (NP (DT the) (JJ core) (NN network) (NNS stores))
+    (VP
+      (VP (VBD said)
+        (NP (JJ received) (NN call) (NN identifier)))
+      (CC and)
+      (VP (VBZ identifies)
+        (NP
+          (NP (DT a) (JJ respective) (NN radio) (NN access) (NN network))
+          (PP (IN for)
+            (NP
+              (NP (VBN said) (NN leg))
+              (PP (IN of)
+                (NP (VBN said) (NN call))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thereafter))
+    (NP (DT the) (NN core) (NN network))
+    (VP (VBZ compares)
+      (SBAR
+        (S
+          (VP (VBD said)
+            (SBAR
+              (S
+                (NP (NN call))
+                (VP (VBD received)
+                  (NP (NN identifier))
+                  (PP (IN with)
+                    (NP (JJ stored) (NN call) (NNS identifiers)))
+                  (PP (IN for)
+                    (NP
+                      (NP (NN call) (NNS legs))
+                      (PP (IN of)
+                        (NP
+                          (NP (NNS calls))
+                          (PP (IN via)
+                            (NP (VBN said) (JJ identified) (NN radio) (NN access) (NN network))))))))))))))
+    (. .)))
+

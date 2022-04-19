@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (SBAR (IN as)
+      (S
+        (NP
+          (NP (DT the) (JJ groupetto) (NN splintered))
+          (PP (IN on)
+            (NP
+              (NP (DT the) (JJ last) (NN climb))
+              (, ,)
+              (CC and)
+              (NP (NNS nibali))
+              (CC and)
+              (NP (DT the) (NN peloton)))))
+        (VP (VBD closed)
+          (PRT (RP in)))))
+    (, ,)
+    (NP (NN majka))
+    (VP (VBD covered)
+      (NP (DT the) (JJ last) (CD eight) (NNS kilometers))
+      (ADVP (RB alone)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ overall) (NNS nibali))
+    (VP (VBZ leads)
+      (VP
+        (VP (VB valverde)
+          (PP (IN by)
+            (NP (CD 437))))
+        (CC and)
+        (VP (VB bardet)
+          (PP (IN by)
+            (NP (CD 450))))))
+    (. .)))
+

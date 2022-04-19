@@ -1,0 +1,44 @@
+(ROOT
+  (S
+    (NP
+      (NP
+        (QP (RB approximately) (CD 70))
+        (NN %))
+      (PP (IN of)
+        (NP (DT the) (JJ 454) (JJ unique) (NNS sequences))))
+    (VP (VBD had)
+      (NP
+        (NP (DT a) (NN blat))
+        (CC or)
+        (NP
+          (NP (DT a) (NN blastn))
+          (VP (VBN hit)
+            (PP (TO to)
+              (NP (CD 21,064) (NN mtgi) (NNS sequences)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB similarly))
+    (NP
+      (NP (CD 3,960) (NNS sequences))
+      (SBAR
+        (WHNP (WDT that))
+        (S
+          (VP (VBD had)
+            (VP (VBN matches)
+              (PP (IN in)
+                (NP (DT the) (JJ comprehensive) (NN tigr) (NN protein) (NN database))))))))
+    (VP (MD could)
+      (VP (VB be)
+        (VP (VBN condensed)
+          (PP (IN into)
+            (NP
+              (NP (CD 3,144) (NNS clusters))
+              (VP (VBN based)
+                (PP (IN on)
+                  (NP
+                    (NP (PRP$ their) (JJ top) (NN protein))
+                    (VP (VBZ matches))))))))))
+    (. .)))
+

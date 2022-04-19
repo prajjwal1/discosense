@@ -1,0 +1,52 @@
+(ROOT
+  (S
+    (NP
+      (NP (JJS most) (NNS people))
+      (PP (IN in)
+        (NP (DT the) (NN north))))
+    (VP (VBP choose)
+      (NP
+        (NP (NN canvas) (NNS tents))
+        (VP (VBN made)
+          (PP (IN by)
+            (NP
+              (NP (NNS companies))
+              (PP (JJ such) (IN as)
+                (NP (NN snow) (NN trekker))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB however))
+      (PP (IN for)
+        (NP (PRP$ my) (NN system)))
+      (NP (FW i))
+      (VP (VBP use)
+        (S
+          (NP (DT an) (JJ old))
+          (VP (VB go)
+            (NP (JJ lite) (NNS shangri))
+            (SBAR
+              (S
+                (NP (DT la) (CD 3) (NN nylon) (NN shelterbecause) (NN rain))
+                (VP (VBZ is)
+                  (ADJP (RBR more) (JJ commonplace)
+                    (PP (IN than)
+                      (NP (NN snow))))
+                  (SBAR
+                    (WHADVP (WRB where))
+                    (S
+                      (NP (FW i))
+                      (VP (VBP live)
+                        (CC and)
+                        (VBP playthough)
+                        (NP (JJ freezing) (NNS temps))))))))))))
+    (CC and)
+    (S
+      (NP (NN snow))
+      (ADVP (RB usually))
+      (VP (VB accompany)
+        (NP (DT the) (NN rain))))
+    (. .)))
+

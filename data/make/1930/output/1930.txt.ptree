@@ -1,0 +1,45 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (DT the)
+        (UCP (JJ residential)
+          (CC and)
+          (JJ commercial))
+        (NNS sectors)))
+    (, ,)
+    (NP
+      (NP (NN heating)
+        (CC and)
+        (VBG cooling) (NN account))
+      (PP (IN for)
+        (NP
+          (NP
+            (QP (JJR more) (IN than) (CD 40))
+            (NN %))
+          (PP (IN of)
+            (NP (NN end))))))
+    (VP (VBP use)
+      (NP (NN energy) (NN demand)))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN as)
+      (NP (DT a) (NN result) (NN energy)))
+    (NP
+      (NP (NN consumption))
+      (PP (IN in)
+        (NP (DT those) (NNS sectors))))
+    (VP (MD can)
+      (VP (VB vary)
+        (ADVP (RB significantly))
+        (PP (IN from)
+          (NP (NN year)))
+        (PP (TO to)
+          (NP (NN year)))
+        (, ,)
+        (PP (VBG depending)
+          (PP (IN on)
+            (NP (JJ yearly) (JJ average) (NNS temperatures))))))
+    (. .)))
+

@@ -1,0 +1,1 @@
+this book is not specific to one brand or dialect of sql. rather it describes the core of the sql language and the differences among the most popular sql variations such as os 2, oracle, sybase, ingres, and dbase iv.

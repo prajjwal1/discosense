@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (NP (DT this))
+    (VP (VBZ differs)
+      (PP (IN from)
+        (NP
+          (NP (NNS spices))
+          (, ,)
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (VP (VBP are)
+                (VP (VBN drawn)
+                  (PP (IN from)
+                    (NP
+                      (NP (DT the) (NNS seeds))
+                      (, ,)
+                      (NP (NNS berries))
+                      (, ,)
+                      (NP (NN bark))
+                      (, ,)
+                      (CC or)
+                      (NP
+                        (NP (JJ other) (NNS parts))
+                        (PP (IN of)
+                          (NP (DT the) (NNS plants)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN although)
+      (FRAG
+        (PP (IN at)
+          (NP (NNS times)))))
+    (, ,)
+    (NP (JJ herbal) (NN medicine))
+    (VP (MD will)
+      (VP (VB make)
+        (NP
+          (NP (NN use))
+          (PP (IN of)
+            (NP (DT the) (NNS roots)
+              (CC and)
+              (NNS flowers))))))
+    (. .)))
+

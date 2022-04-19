@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (NP (NN wgn))
+    (VP (VBD did) (RB not)
+      (VP (VB keep)
+        (NP
+          (NP (JJ many) (NNS tapes))
+          (PP (IN of)
+            (NP (PRP$ its) (JJ local) (NNS productions)))
+          (, ,)
+          (PP (VBG including)
+            (NP
+              (NP (JJ garfield) (NN goose))
+              (CC and)
+              (NP (NNS friends)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (RB rather) (IN since)
+      (S
+        (NP
+          (NP (DT the) (NNS reels))
+          (PP (IN of)
+            (NP (NN videotape))))
+        (VP (VBD were)
+          (ADJP (RB very) (JJ costly)))))
+    (, ,)
+    (NP (PRP they))
+    (VP (VBD were)
+      (VP
+        (ADVP (RB thriftily))
+        (VBN recycled)))
+    (. .)))
+

@@ -1,0 +1,50 @@
+(ROOT
+  (S
+    (ADVP (RB ill))
+    (VP
+      (VP (VB take)
+        (NP (PRP it))
+        (PP (IN into)
+          (NP (DT the) (NN coin)
+            (CC and)
+            (NN jewelery) (NN store)))
+        (PP
+          (NP (DT a) (JJ few) (NNS blocks))
+          (IN from)
+          (NP (PRP$ my) (NN home)))
+        (PP (IN after)
+          (NP (NN school) (NN tomorrow))))
+      (CC and)
+      (VP (VB ask)
+        (NP (PRP them))
+        (SBAR (IN if)
+          (S
+            (NP (PRP they))
+            (VP (VBP know)
+              (NP
+                (NP (NN anything))
+                (PP (IN about)
+                  (NP (PRP it)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN although)
+      (S
+        (NP (PRP it))
+        (VP (VBZ seems)
+          (PP (IN like)
+            (NP (DT a) (NN coin)
+              (CC and)
+              (NN jewelery) (NN store))))))
+    (VP (MD may) (RB not)
+      (VP (VB have)
+        (NP
+          (NP (JJ much) (NN knowledge))
+          (PP (IN on)
+            (NP
+              (NP (NN something))
+              (PP (JJ such) (IN as)
+                (NP (DT this))))))))
+    (. .)))
+

@@ -1,0 +1,68 @@
+(ROOT
+  (S
+    (ADVP (RB moreover))
+    (, ,)
+    (NP (PRP they))
+    (VP
+      (VP (VBP view)
+        (NP (PRP themselves))
+        (PP (IN as)
+          (NP
+            (NP (JJ deserving))
+            (PP (IN of)
+              (NP
+                (NP (PDT all) (DT the) (NN goodness))
+                (, ,)
+                (NP
+                  (NP (NN glory)
+                    (CC and)
+                    (NN power))
+                  (PP (IN on)
+                    (NP (NN earth))))
+                (, ,))))))
+      (CC and)
+      (VP (VBP believe)
+        (SBAR (IN that)
+          (S
+            (NP (PRP they))
+            (VP (MD should)
+              (VP (VB attain)
+                (NP
+                  (NP (NN ownership))
+                  (PP (IN of)
+                    (NP
+                      (NP (DT the) (NN property))
+                      (PP (IN of)
+                        (NP (DT every) (NN non) (NN jew))))))
+                (, ,)
+                (PP (IN in)
+                  (NP (DT every) (NN way)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP
+      (ADVP (RB therefore))
+      (IN in)
+      (NP
+        (NP (DT every) (NN country))
+        (SBAR
+          (WHADVP (WRB where))
+          (S
+            (NP (PRP they))
+            (VP (VBP live))))))
+    (, ,)
+    (NP (PRP we))
+    (VP (VBP see)
+      (SBAR (IN that)
+        (S
+          (NP (PRP they))
+          (VP (VBP seek)
+            (S
+              (VP (TO to)
+                (VP (VB distinguish)
+                  (NP (PRP themselves))
+                  (PP (IN from)
+                    (NP (PRP$ its) (NN inhabitants))))))))))
+    (. .)))
+

@@ -1,0 +1,1 @@
+unfortunately, it still has some quirks, and is known to cause a performance hit on some systems. as a result wahoos most promising feature is disabled out of the box, and needs to be enabled by the user.

@@ -1,0 +1,50 @@
+(ROOT
+  (S
+    (NP
+      (NP (JJ average) (NN money) (NNS savings))
+      (PP (IN in)
+        (NP
+          (NP (NN excess))
+          (PP (IN of)
+            (NP
+              (NP (DT those))
+              (VP (VBN dictated)
+                (PP (IN by)
+                  (NP
+                    (NP (DT the) (NN cash))
+                    (PP (IN in)
+                      (NP (NN advance) (NN constraint)))))))))))
+    (VP (VBP are)
+      (ADJP (RB quite) (JJ small)
+        (PP (IN in)
+          (NP (DT these) (NNS economies))))
+      (, ,)
+      (PP (IN on)
+        (NP
+          (NP (DT the) (NN order))
+          (PP (IN of)
+            (NP
+              (NP (CD one) (NN percent))
+              (PP (IN of)
+                (NP (JJ annual) (NN gdp))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nonetheless))
+    (NP
+      (NP (NN adjustment))
+      (PP (IN of)
+        (NP (NN money) (NNS savings))))
+    (VP (VBZ is)
+      (NP
+        (NP (RB quite) (DT a) (JJ powerful) (NN instrument))
+        (PP (IN for)
+          (S
+            (VP (VBG smoothing)
+              (NP
+                (NP (DT the) (JJ marginal) (NN utility))
+                (PP (IN of)
+                  (NP (JJ private) (NN consumption) (NN inter) (NN temporally)))))))))
+    (. .)))
+

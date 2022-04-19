@@ -1,0 +1,3 @@
+Explicit|||94..102||in short||1|in short|||Expansion.Restatement|||||||||||0..92|0|if the nominee for speaker falls below this number then the house would be without a speaker||||||||103..251|1|if 16 house republicans abstain from voting for a nominee then he she would only receive 217 votes or 1 vote shy of the required votes to be elected|||||||||||||
+Explicit|||0..2;51..55||if then||0|if then|||Expansion.Conjunction|||||||||||3..26|0|the nominee for speaker||||||||27..50|0|falls below this number|||||||||||||
+Explicit|||103..105;161..165||if then||1|if then|||Expansion.Conjunction|||||||||||140..160|1|voting for a nominee||||||||135..160|1|from voting for a nominee|||||||||||||

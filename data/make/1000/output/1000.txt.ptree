@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP we))
+      (VP (VBP prefer)
+        (NP (NNS answers)
+          (CC and)
+          (NNS explanations))))
+    (, ,)
+    (CC and)
+    (S
+      (NP
+        (NP (DT the) (NN end))
+        (PP (IN of)
+          (NP (NN time))))
+      (VP (VBZ seems)
+        (ADJP (JJ short)
+          (PP (IN on)
+            (NP (DT both))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB consequently))
+    (NP (PRP you))
+    (VP (VBP opt)
+      (S (RB not)
+        (VP (TO to)
+          (VP (VB think)
+            (PP (IN about)
+              (NP (PRP it)))))))
+    (. .)))
+

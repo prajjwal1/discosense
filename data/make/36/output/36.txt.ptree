@@ -1,0 +1,51 @@
+(ROOT
+  (S
+    (NP (JJ chief) (NN niwot))
+    (VP (VBD was)
+      (VP (VBN noted)
+        (PP (IN for)
+          (NP (PRP$ his) (JJ nuanced) (NN ability)))
+        (S
+          (VP (TO to)
+            (VP (VB speak)
+              (NP
+                (NP (NN english))
+                (CONJP (RB as) (RB well) (IN as))
+                (NP (PRP$ his) (NN realization)))
+              (SBAR (IN that)
+                (S
+                  (NP (DT the) (NNS whites))
+                  (VP (VBD were)
+                    (VP (VBG going)
+                      (S
+                        (VP (TO to)
+                          (VP (VB be)
+                            (NP
+                              (NP (JJ permanent) (NNS residents))
+                              (PP (IN in)
+                                (NP (DT the) (NN west))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN because)
+      (S
+        (PP (IN of)
+          (NP (DT this)))
+        (NP (PRP he))
+        (VP (VBD worked)
+          (PP (IN for)
+            (NP (NN peace)))
+          (PP (IN with)
+            (NP (DT the) (NNS whites) (NN feeling))))))
+    (NP (DT the) (NN maintenance))
+    (VP (VBD was)
+      (NP
+        (NP (DT the) (JJ only) (NN way))
+        (PP (IN for)
+          (NP (PRP$ his) (NNS people)
+            (S
+              (VP (TO to)
+                (VP (VB survive))))))))
+    (. .)))
+

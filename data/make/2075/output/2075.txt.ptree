@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (NP (DT the) (NNS links))
+    (VP (VBP are)
+      (NP
+        (NP (JJ serial) (NNS links))
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP (DT the) (NN path))
+            (VP (VBZ is)
+              (NP (DT a) (JJ single) (NN bit) (JJ wide) (NN path)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB otherwise))
+    (NP (DT the) (NNS links))
+    (VP (VBP are)
+      (NP (JJ parallel) (NNS links)))
+    (. .)))
+

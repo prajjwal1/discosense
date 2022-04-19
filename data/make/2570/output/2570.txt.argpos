@@ -1,0 +1,3 @@
+conn:also conn_POS:RB sent_pos:2 prev1:is prev1_POS:VBZ with_prev1_full:is_also with_prev1_POS_full:VBZ_RB prev2:it prev2_POS:PRP with_prev2_full:it_also with_prev2_POS_full:PRP_RB NA
+conn:while conn_POS:IN prev1:clearly prev1_POS:RB with_prev1_full:clearly_while with_prev1_POS_full:RB_IN prev2:thinking prev2_POS:VBG with_prev2_full:thinking_while with_prev2_POS_full:VBG_IN NA
+conn:in_sum conn_POS:IN_NN sent_pos:0 NA

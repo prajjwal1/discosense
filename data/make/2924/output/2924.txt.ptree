@@ -1,0 +1,60 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP it))
+      (VP (VBZ is)
+        (VP (VBN said)
+          (PP (IN in)
+            (NP
+              (NP (DT the) (NN book))
+              (PP (IN of)
+                (NP (NN poetry)))))
+          (, ,)
+          (SBAR (IN although)
+            (S
+              (NP (DT the) (NN fish))
+              (VP
+                (VP (VB sink))
+                (CC and)
+                (VP (VB lie)
+                  (PP (IN at)
+                    (NP (DT the) (NN bottom))))))))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ is)
+      (ADVP (RB still))
+      (VP
+        (ADVP (RB quite) (RB clearly))
+        (VBN seen)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB therefore))
+    (NP (DT the) (JJ superior) (NN man))
+    (VP (VBZ examines)
+      (NP (PRP$ his) (NN heart))
+      (, ,)
+      (SBAR
+        (SBAR (IN that)
+          (S
+            (NP (EX there))
+            (VP (MD may)
+              (VP (VB be)
+                (ADJP (NN nothing) (JJ wrong))
+                (ADVP (RB there))))))
+        (, ,)
+        (CC and)
+        (SBAR (IN that)
+          (S
+            (NP (PRP he))
+            (VP (MD may)
+              (VP (VB have)
+                (NP
+                  (NP (DT no) (NN cause))
+                  (PP (IN for)
+                    (NP (NN dissatisfaction))))
+                (PP (IN with)
+                  (NP (PRP himself)))))))))
+    (. .)))
+

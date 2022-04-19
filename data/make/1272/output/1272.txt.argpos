@@ -1,0 +1,2 @@
+conn:nonetheless conn_POS:RB sent_pos:0 NA
+conn:when conn_POS:WRB prev1:media prev1_POS:NNS with_prev1_full:media_when with_prev1_POS_full:NNS_WRB prev2:contrast prev2_POS:NN with_prev2_full:contrast_when with_prev2_POS_full:NN_WRB NA

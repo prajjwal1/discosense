@@ -1,0 +1,2 @@
+conn:nevertheless conn_POS:RB sent_pos:0 NA
+conn:but conn_POS:CC prev1:stimulation prev1_POS:NN with_prev1_full:stimulation_but with_prev1_POS_full:NN_CC prev2:tnf prev2_POS:NN with_prev2_full:tnf_but with_prev2_POS_full:NN_CC NA

@@ -1,0 +1,2 @@
+conn:for_instance conn_POS:IN_NN sent_pos:0 NA
+conn:when conn_POS:WRB prev1:intense prev1_POS:JJ with_prev1_full:intense_when with_prev1_POS_full:JJ_WRB prev2:more prev2_POS:RBR with_prev2_full:more_when with_prev2_POS_full:RBR_WRB NA

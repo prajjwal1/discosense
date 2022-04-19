@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (NP (DT the)
+      (ADJP
+        (QP (IN at) (JJS least) (CD one)))
+      (NN pointer))
+    (VP (MD may)
+      (VP (VB be)
+        (NP
+          (NP (DT a) (JJ stack) (NN pointer))
+          (CC and)
+          (NP (DT a) (NN frame) (NN pointer)))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (ADVP (RB subsequently))
+      (WHADVP (WRB when))
+      (S
+        (NP
+          (NP (DT a) (JJ third) (NN function))
+          (VP (VBN written)
+            (PP (IN in)
+              (NP (DT the) (JJ first) (NN programming) (NN language)))))
+        (VP (VBZ is)
+          (VP (VBN called)))))
+    (, ,)
+    (NP (DT a) (NN data) (NN block))
+    (VP (MD may)
+      (VP (VB be)
+        (VP (VBN stored)
+          (PP (IN on)
+            (NP (DT the) (NN execution) (NN stack)))
+          (PP (IN before)
+            (NP
+              (NP (DT a) (JJ third) (NN frame))
+              (PP (IN for)
+                (NP (DT the) (JJ third) (NN function))))))))
+    (. .)))
+

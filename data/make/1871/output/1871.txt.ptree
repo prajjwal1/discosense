@@ -1,0 +1,45 @@
+(ROOT
+  (S
+    (SBAR (IN because)
+      (S
+        (NP (PRP they))
+        (VP (VBP dont))))
+    (VP (VBP have)
+      (S
+        (NP (DT the) (NNS guts))
+        (VP (TO to)
+          (VP
+            (ADVP (RB simply))
+            (VB say)
+            (NP
+              (NP (DT that) (JJ sacramento) (NN doesnt) (NN work))
+              (PP (IN for)
+                (NP (PRP them))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB instead))
+    (NP (PRP they))
+    (VP (VBP carry)
+      (PP (IN on)
+        (NP
+          (NP (DT the) (NN charade))
+          (PP (IN of)
+            (S
+              (VP (VBG looking)
+                (PP (IN for)
+                  (NP (DT a) (NN way)
+                    (S
+                      (VP (TO to)
+                        (VP (VB blame)
+                          (NP (NN sacramento))
+                          (PP (IN as)
+                            (NP
+                              (NP (DT a) (NN reason))
+                              (PP (IN for)
+                                (S
+                                  (VP (VBG relocating)
+                                    (NP (DT the) (NN team))))))))))))))))))
+    (. .)))
+

@@ -1,0 +1,54 @@
+(ROOT
+  (S
+    (NP (NNS feminists))
+    (VP (VBP argue)
+      (SBAR (IN that)
+        (S
+          (NP (DT this))
+          (VP
+            (VP (VBZ erases)
+              (NP
+                (NP (DT the) (NNS categories))
+                (PP (IN of)
+                  (NP (NN gender))))
+              (ADVP (RB altogether)))
+            (CC but)
+            (VP (VBZ does)
+              (NP (NN nothing))
+              (S
+                (VP (TO to)
+                  (VP (VB antagonize)
+                    (NP
+                      (NP (DT the) (NN power) (NNS dynamics))
+                      (VP (VBN reified)
+                        (PP (IN by)
+                          (NP (NN gender)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (JJ other) (NNS words)))
+    (NP
+      (NP (DT the) (NN fact))
+      (SBAR
+        (WHNP (WDT that) (NN gender))
+        (S
+          (VP (VBZ is)
+            (ADJP (RB socially) (VBN constructed))))))
+    (VP (VBZ does) (RB not)
+      (VP (VB undo)
+        (NP (DT the) (NN fact))
+        (SBAR (IN that)
+          (S
+            (NP (EX there))
+            (VP (VBP are)
+              (NP
+                (NP (NN strata))
+                (PP (IN of)
+                  (NP
+                    (NP (NN oppression))
+                    (PP (IN between)
+                      (NP (NNS genders)))))))))))
+    (. .)))
+

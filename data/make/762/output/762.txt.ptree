@@ -1,0 +1,49 @@
+(ROOT
+  (S
+    (NP
+      (NP (JJS most))
+      (PP (IN of)
+        (NP
+          (NP (DT the) (JJ big) (JJ rigid) (NNS airships))
+          (PP (IN of)
+            (NP (DT the) (NN past)))))
+      (, ,)
+      (PP (VBG including)
+        (NP (DT the) (NN hindenburg)))
+      (, ,))
+    (VP (VBD came)
+      (S
+        (VP (TO to)
+          (VP (VB grief)
+            (PP (IN in)
+              (NP (NNS explosions)
+                (CC or)
+                (NNS crashes)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN by)
+      (NP (NN contrast) (NN helium) (NNS blimps)))
+    (PP (IN like)
+      (NP (DT the) (JJ familiar) (NN goodyear) (NNS airships)))
+    (, ,)
+    (VP (VBP have)
+      (S
+        (NP
+          (NP (DT no) (JJ internal) (NNS skeletons))
+          (CC and)
+          (NP (PRP$ their) (JJ impermeable) (NNS skins)))
+        (VP (VBP are)
+          (VP (VBN supported)
+            (ADVP (RB entirely))
+            (PP (IN by)
+              (NP
+                (NP (DT the) (NN pressure))
+                (PP (IN of)
+                  (NP
+                    (NP (DT the) (JJ nonflammable) (NN gas))
+                    (PP (IN inside)
+                      (NP (PRP them)))))))))))
+    (. .)))
+

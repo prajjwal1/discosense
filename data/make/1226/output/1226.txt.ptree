@@ -1,0 +1,54 @@
+(ROOT
+  (S
+    (S
+      (NP (JJ foie) (NNS gras))
+      (VP (VBZ is)
+        (VP (VBN banned)
+          (PP (IN from)
+            (S
+              (VP (VBG being)
+                (VP (VBN produced)
+                  (PP (IN in)
+                    (NP (DT the) (NN uk))))))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (JJ many) (NNS shops)
+        (CC and)
+        (NNS restaurants))
+      (VP (VBP import)
+        (CC and)
+        (VBP sell)
+        (NP
+          (NP (PRP it))
+          (, ,)
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (VP (VBZ is) (RB not)
+                (VP (VBN prohibited))))))
+        (, ,)
+        (PP
+          (ADVP (RB particularly))
+          (IN during)
+          (NP (DT the) (JJ festive) (NN period)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB consequently))
+    (NP
+      (NP (NNS birds))
+      (ADVP (RB elsewhere)
+        (PP (IN in)
+          (NP (DT the) (NN world)))))
+    (VP (VBP are)
+      (VP (VBG suffering)
+        (S
+          (VP (TO to)
+            (VP (VB satisfy)
+              (NP (NN uk) (NN demand))
+              (PP (IN for)
+                (NP (JJ foie) (NNS gras))))))))
+    (. .)))
+

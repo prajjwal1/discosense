@@ -1,0 +1,1 @@
+in firefox i very often want to quickly enter a new url in the address field. therefore it would be very nice to be able to quickly jump to the url address field with a keyboard shortcut.

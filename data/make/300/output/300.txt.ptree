@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (ADVP (RB accordingly))
+    (, ,)
+    (NP (DT a) (NN need))
+    (VP (VBZ exists)
+      (PP (IN for)
+        (NP
+          (NP (DT a) (VBN simplified)
+            (QP (CC and)
+              (JJR more))
+            (JJ practical) (NN method))
+          (PP (IN of)
+            (S
+              (VP (VBG forming)
+                (NP (DT a) (JJ photoresist) (NN pattern))
+                (PP (IN for) (IN via)
+                  (NP
+                    (NP (NN formation))
+                    (PP (IN under)
+                      (NP (DT the) (CD 0.18) (NN run) (NN design) (NN rule)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB particularly))
+    (NP (DT a) (NN need))
+    (VP (VBZ exists)
+      (PP (IN for)
+        (NP
+          (NP (DT a) (NN method))
+          (VP (VBG allowing)
+            (NP
+              (NP (JJ precise) (JJ critical) (NN dimension) (NN control))
+              (VP (VBG using)
+                (NP
+                  (NP (JJ conventional) (JJ optical) (NN lithography) (NN equipment))
+                  (PP (JJ such) (IN as)
+                    (NP (DT an) (JJ inexpensive) (JJ i) (NN line) (NN lithography) (NN system))))))))))
+    (. .)))
+

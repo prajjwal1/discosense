@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT a) (JJ potential) (NN upgrade))
+      (PP (IN of)
+        (NP (JJ mexicos) (JJ sovereign) (NN rating))))
+    (VP (MD could)
+      (ADVP (RB positively))
+      (VP (VB affect)
+        (NP (JJ hsbc) (NN mexicos) (NNS idrs))
+        (SBAR (IN if)
+          (S
+            (NP (DT the) (NN parent))
+            (VP (VBZ remains)
+              (VP (VBN rated)
+                (PP (IN in)
+                  (NP (DT the) (NN aa) (NN category)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ conversely) (JJ further) (NNS downgrades))
+      (PP (IN of)
+        (NP (JJ hsbc) (NNS holdings) (NNS idrs))))
+    (VP (MD could)
+      (ADVP (RB potentially))
+      (VP
+        (ADVP (RB negatively))
+        (VB affect)
+        (NP
+          (NP (JJ hsbc) (NNS mexicos)
+            (NX
+              (NX (NN rating))
+              (CC and)))
+          (CC or)
+          (NP (NN rating) (NN outlook)))))
+    (. .)))
+

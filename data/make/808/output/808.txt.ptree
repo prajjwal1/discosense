@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (NP (NN barbara))
+    (VP (VBZ is)
+      (ADJP
+        (NP (CD 90) (NNS minutes))
+        (JJ late))
+      (S
+        (VP (TO to)
+          (VP (VB work)
+            (SBAR (IN because)
+              (S
+                (NP (PRP she))
+                (VP (VBD spent)
+                  (NP (DT the) (NN night))
+                  (PP (IN at)
+                    (NP (PRP$ her) (JJ boyfriends) (NN house))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB though))
+    (NP
+      (NP (NN im))
+      (ADJP (RB not) (JJ sure)))
+    (VP (VBZ thats)
+      (NP (PDT such) (DT a) (JJ bad) (NN thing))
+      (SBAR (IN as)
+        (S
+          (NP (PRP it))
+          (VP (VBZ seems)
+            (S
+              (VP (TO to)
+                (VP (VB have)
+                  (VP (VBN taken)
+                    (PRT (RP away))
+                    (NP
+                      (NP (DT a) (NN bit))
+                      (PP (IN of)
+                        (NP (DT the) (NN whine))))))))))))
+    (. .)))
+

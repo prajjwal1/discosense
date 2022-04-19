@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (NP (DT the) (JJ following) (NN section))
+    (VP (VBZ provides)
+      (NP
+        (NP (DT a) (JJ brief) (NN introduction))
+        (PP (IN of)
+          (NP
+            (NP (DT the)
+              (ADJP (RB currently) (VBN adopted))
+              (NN model))
+            (, ,)
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (VP (VBZ is)
+                  (ADVP (RB originally))
+                  (PP (IN for)
+                    (NP (DT the) (NN newtonian) (NN flow))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thereafter))
+    (NP (DT the) (NN scale))
+    (VP (VBZ shifts)
+      (PP
+        (PP (IN of)
+          (NP (DT the) (NN dissipation) (NN range)))
+        (CC and)
+        (PP (IN of)
+          (NP
+            (S
+              (NP (DT the) (JJ viscoelastic) (NN behavior))
+              (VP (VBP are)
+                (VP (VBN considered))))
+            (CC and)
+            (NP
+              (NP (DT the) (JJ present) (NN constitutive) (NN equation))
+              (CONJP (RB as) (RB well) (IN as))
+              (NP (DT the)))))))
+    (. .)))
+

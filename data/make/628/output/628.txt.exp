@@ -1,0 +1,2 @@
+conn_lc:if conn:if conn_POS:IN with_prev_full:even_if xxx£
+conn_lc:by_contrast conn:by_contrast conn_POS:IN_NN xxx£

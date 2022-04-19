@@ -1,0 +1,48 @@
+(ROOT
+  (S
+    (ADVP (RB consequently))
+    (, ,)
+    (NP (NN faith)
+      (CC and)
+      (NN love))
+    (VP (VBP are)
+      (ADVP (RB then))
+      (VP (VBG bonded)
+        (PRT (RP together))
+        (PP (IN for)
+          (NP (PRP him)))
+        (, ,)
+        (PP (IN like)
+          (NP (NN discernment)
+            (CC and)
+            (NN intention)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB conversely))
+    (NP (DT a) (NN person))
+    (VP (VBZ has)
+      (NP
+        (NP (NN hell))
+        (PP (IN within)
+          (NP (PRP himself))))
+      (PP (TO to)
+        (NP (DT the) (NN extent)))
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (JJ false) (NNS elements))
+            (VP (VBG belonging)
+              (PP (TO to)
+                (NP (PRP$ his) (NN discernment)))))
+          (VP (VBP are)
+            (ADJP (JJ bonded)
+              (PP (TO to)
+                (NP
+                  (NP (JJ evil) (NNS elements))
+                  (VP (VBG belonging)
+                    (PP (TO to)
+                      (NP (PRP$ his) (CD 31)))))))))))
+    (. .)))
+

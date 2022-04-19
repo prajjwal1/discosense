@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (NP (FW i))
+    (VP (VBP want)
+      (S
+        (VP (TO to)
+          (VP (VB stress)
+            (ADVP (RB again))
+            (SBAR (IN that)
+              (S
+                (NP
+                  (NP (JJ true) (NN harmony))
+                  (PP (IN among)
+                    (NP
+                      (NP (NNS brothers)
+                        (CC and)
+                        (NNS sisters))
+                      (PP (IN of)
+                        (NP (NN christ))))))
+                (VP (VBZ is) (RB not)
+                  (VP (VBN based)
+                    (PP (IN upon)
+                      (NP
+                        (NP (DT the) (NNS externals))
+                        (PP (IN of)
+                          (NP (DT the) (NN flesh)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB rather))
+    (NP (PRP it))
+    (VP (VBZ is)
+      (VP (VBN based)
+        (PP (IN upon)
+          (NP
+            (NP (DT the) (NNS internals)
+              (CC and)
+              (NNS eternals))
+            (PP (IN of)
+              (NP
+                (NP (DT the) (NN spirit))
+                (PP (IN in)
+                  (NP (PRP$ our) (JJ inner) (NN person)))))))))
+    (. .)))
+

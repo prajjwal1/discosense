@@ -1,0 +1,38 @@
+(ROOT
+  (S
+    (NP
+      (NP (NN moon) (NNS elves))
+      (PP (IN in)
+        (NP
+          (NP (DT the) (JJ ancient) (NN past))
+          (, ,)
+          (NP (DT the) (NN moon) (NNS elves)))))
+    (VP (VBD reveled)
+      (PP (IN in)
+        (NP (NN travel)
+          (CC and)
+          (NN exploration))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN as)
+      (NP
+        (NP (DT a) (NN result))
+        (SBAR (IN though)
+          (S
+            (NP (PRP they))
+            (VP (VBD were)
+              (NP
+                (NP (DT the) (JJS largest))
+                (PP (IN in)
+                  (NP (NN number)))))))))
+    (, ,)
+    (NP (PRP$ their) (NNS empires))
+    (VP (VBD were)
+      (NP (DT the) (JJ last)
+        (S
+          (VP (TO to)
+            (VP (VB rise))))))
+    (. .)))
+

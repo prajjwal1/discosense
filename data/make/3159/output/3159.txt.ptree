@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (NP
+      (NP (CD five) (JJ vertical) (JJ electrical) (NNS soundings))
+      (PP (IN in)
+        (NP (DT the) (JJ gravel) (NN bed))))
+    (VP (VBD were)
+      (VP (VBN carried)
+        (PRT (RP out))
+        (PP (IN in)
+          (S
+            (VP (MD may)
+              (VP (VB 2004)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN as)
+      (NP (DT a) (NN result)))
+    (NP
+      (NP (DT a) (JJ high) (NN contrast))
+      (PP (IN between)
+        (NP
+          (NP (JJ chemical) (NN sludge) (NN resistivity))
+          (, ,)
+          (NP (NN laterite))
+          (, ,)
+          (CC and)
+          (NP (DT the) (JJ local) (NN soil)))))
+    (VP (VBD was)
+      (ADJP (JJ observed))
+      (, ,)
+      (S
+        (VP (VBG enabling)
+          (NP
+            (NP
+              (NP (DT the) (NN execution))
+              (PP (IN of)
+                (NP (JJ new) (JJ detailed) (NNS surveys))))
+            (CC and)
+            (NP
+              (NP (JJ subsequent) (NN drilling))
+              (PP (IN of)
+                (NP (NN research) (NNS wells))))))))
+    (. .)))
+

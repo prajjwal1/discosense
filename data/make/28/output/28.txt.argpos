@@ -1,0 +1,3 @@
+conn:also conn_POS:RB prev1:process prev1_POS:NN with_prev1_full:process_also with_prev1_POS_full:NN_RB prev2:refund prev2_POS:NN with_prev2_full:refund_also with_prev2_POS_full:NN_RB NA
+conn:as_a_result conn_POS:IN_DT_NN sent_pos:0 NA
+conn:while conn_POS:IN prev1:down prev1_POS:RP with_prev1_full:down_while with_prev1_POS_full:RP_IN prev2:closing prev2_POS:VBG with_prev2_full:closing_while with_prev2_POS_full:VBG_IN NA

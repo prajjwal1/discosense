@@ -1,0 +1,47 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN effect)))
+    (, ,)
+    (NP (DT the) (JJ intermediate) (NN layer))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (NN dot) (NN product))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (NN character) (NN vector))
+            (PP (IN with)
+              (NP (NN subcluster) (NN weighting) (NNS vectors)))))
+        (S
+          (VP (TO to)
+            (VP (VB produce)
+              (NP (DT a) (NN subcluster) (NN vector)
+                (CC or)
+                (NN character) (NN feature) (NN vector)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thereafter))
+    (NP (DT the) (JJ final) (NN summing) (NN layer))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (NN dot) (NN product))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (NN subcluster) (NN vector))
+            (PP (IN with)
+              (NP (DT a) (NN weighting) (NN vector)))))
+        (S
+          (VP (TO to)
+            (VP (VB classify)
+              (NP
+                (NP (DT the) (NN subcluster) (NN vector))
+                (, ,)
+                (CC or)
+                (NP (NN feature) (NN vector))
+                (, ,))
+              (PP (IN into)
+                (NP (DT a) (NN character) (NN class))))))))
+    (. .)))
+

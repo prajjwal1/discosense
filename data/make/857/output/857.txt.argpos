@@ -1,0 +1,2 @@
+conn:if conn_POS:IN prev1:, prev1_POS:, with_prev1_full:,_if with_prev1_POS_full:,_IN prev2:dialogue prev2_POS:NN with_prev2_full:dialogue_if with_prev2_POS_full:NN_IN NA
+conn:on_the_other_hand conn_POS:IN_DT_JJ_NN sent_pos:0 NA

@@ -1,0 +1,58 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN addition)))
+    (, ,)
+    (NP (JJ thermal) (NN energy))
+    (VP (MD may)
+      (VP (VB be)
+        (VP (VBN generated)
+          (PP (IN in)
+            (NP (DT the) (JJ distal) (NN tip) (NN conductor)))
+          (, ,)
+          (S
+            (ADVP (RB thereby))
+            (VP
+              (ADVP (RBR further))
+              (VBG reducing)
+              (NP
+                (NP (DT the) (NN efficiency))
+                (PP (IN of)
+                  (NP
+                    (NP (NN rf) (NN energy) (NN transmission))
+                    (PP (TO to)
+                      (NP (DT the) (NN heart) (NN tissue)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB specifically))
+    (NP (DT the) (JJ thermal) (NN energy))
+    (VP (MD may)
+      (VP
+        (VP (VB dry)
+          (PRT (RP out)))
+        (CC or)
+        (VP (VB desiccate)
+          (NP (JJ adjacent) (NN blood)
+            (CC and)
+            (NNS tissues))
+          (, ,)
+          (S
+            (ADVP (RB thereby))
+            (VP (VBG creating)
+              (NP (DT a) (JJ high) (NN impedance))
+              (PP (IN at)
+                (NP
+                  (NP (DT the) (JJ conductive) (NN interface))
+                  (PP (IN between)
+                    (NP
+                      (NP (DT the) (NNS tissues)
+                        (S
+                          (VP (TO to)
+                            (VP (VB be)
+                              (VP (VBN treated))))))
+                      (CC and)
+                      (NP (DT the) (NN conductor)))))))))))
+    (. .)))
+

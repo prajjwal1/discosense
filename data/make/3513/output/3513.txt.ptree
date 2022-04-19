@@ -1,0 +1,47 @@
+(ROOT
+  (S
+    (NP
+      (NP (NN damage))
+      (PP (TO to)
+        (NP
+          (NP (DT the) (JJ anal) (NN sphincter))
+          (VP (VBN caused)
+            (PP (IN by)
+              (NP (NN episiotomy)))))))
+    (VP (MD can)
+      (VP (VB result)
+        (PP (IN in)
+          (NP (JJ faecal) (NN incontinence)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NN conversely) (CD one))
+      (PP (IN of)
+        (NP (DT the) (NNS reasons))))
+    (ADVP (RB episiotomy))
+    (VP (VBZ is)
+      (VP (VBN performed)
+        (SBAR
+          (S
+            (VP (VBZ is)
+              (S
+                (VP (TO to)
+                  (VP (VB prevent)
+                    (S
+                      (VP (VBG tearing)
+                        (PP (IN of)
+                          (NP
+                            (NP (DT the) (JJ anal) (NN sphincter))
+                            (, ,)
+                            (SBAR
+                              (WHNP (WDT which))
+                              (S
+                                (VP (VBZ is)
+                                  (ADVP (RB also))
+                                  (VP (VBN associated)
+                                    (PP (IN with)
+                                      (NP (JJ faecal) (NN incontinence)))))))))))))))))))
+    (. .)))
+

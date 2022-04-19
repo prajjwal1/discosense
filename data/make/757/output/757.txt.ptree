@@ -1,0 +1,61 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (JJ indias) (NN case)))
+    (, ,)
+    (NP
+      (NP (DT the) (JJ disputed) (NN status))
+      (PP (IN of)
+        (NP (NN kashmir))))
+    (VP (MD could)
+      (ADVP (RB someday))
+      (VP (VB prove)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (NP
+                (NP (DT a) (NN lightning) (NN rod))
+                (PP (IN for)
+                  (NP (JJ external) (NN criticism))))
+              (, ,)
+              (PP (RB especially) (IN with)
+                (NP
+                  (NP (DT the) (NNS regions) (NN record))
+                  (PP (IN of)
+                    (NP
+                      (NP (NN unrest))
+                      (CC and)
+                      (NP (VBN contested) (JJ political) (NN authority)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN sum)))
+    (NP (DT the) (NN ibsa) (NNS groups))
+    (VP (VBD confused)
+      (NP (NNS positions))
+      (PP (IN on)
+        (NP
+          (NP (DT the) (JJ arab) (NNS revolts))
+          (VP (VBN become)
+            (ADJP (RB somewhat) (JJ understandable))
+            (SBAR (IN once)
+              (S
+                (NP (PRP it))
+                (VP (VBZ is)
+                  (ADJP (JJ clear))
+                  (SBAR
+                    (WHADVP (WRB how))
+                    (S
+                      (NP (DT these) (NNS states))
+                      (VP (VBP are)
+                        (VP (VBN pulled)
+                          (PP (IN in)
+                            (S
+                              (VP (VBG contrasting)
+                                (NP (NNS directions))
+                                (PP (IN by)
+                                  (NP (JJ various) (NNS demands)))))))))))))))))
+    (. .)))
+

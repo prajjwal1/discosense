@@ -1,0 +1,63 @@
+(ROOT
+  (S
+    (PP (IN as)
+      (NP
+        (NP (NN part))
+        (PP (IN of)
+          (NP (DT that) (NN post)))))
+    (, ,)
+    (S
+      (NP (FW i))
+      (VP (VBD created)
+        (NP (DT a) (JJ non) (JJ scientific) (NN survey))
+        (PP (IN on)
+          (NP (DT the) (NN topic)))))
+    (CC and)
+    (S
+      (NP
+        (NP (DT the) (NNS results))
+        (PP (IN from)
+          (NP (CD 229) (NNS respondents))))
+      (VP (VBP are)
+        (VP (VBN broken)
+          (PRT (RP out))
+          (PP (IN in)
+            (NP (DT a) (NN graphic)))
+          (ADVP (RB below)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB interestingly))
+    (NP
+      (NP (DT the) (NN majority))
+      (PP (IN of)
+        (NP (NNS respondents))))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (S
+            (NP (PRP they))
+            (VP (VBP want)
+              (NP
+                (NP (NNS names))
+                (VP (VBN published)))))
+          (CC and)
+          (S
+            (ADVP (RB overwhelmingly))
+            (, ,)
+            (NP (NNS respondents))
+            (VP (VBD said)
+              (SBAR
+                (S
+                  (NP (PRP they))
+                  (VP (VBP want)
+                    (S
+                      (NP (DT the) (NN newspaper))
+                      (VP (TO to)
+                        (VP (VB follow)
+                          (NP (DT the) (NN case))
+                          (PP (TO to)
+                            (NP (PRP$ its) (NN conclusion))))))))))))))
+    (. .)))
+

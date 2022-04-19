@@ -1,0 +1,59 @@
+(ROOT
+  (SINV
+    (ADVP (RB then))
+    (VP (VBZ theres))
+    (NP
+      (NP (DT the) (NN problem))
+      (PP (IN of)
+        (SBAR
+          (WHADVP (WRB how))
+          (S
+            (NP
+              (NP (NN obama))
+              (VP (VBN framed)
+                (NP (DT the) (JJ 215) (NN program)
+                  (S
+                    (VP (TO to)
+                      (VP (VB begin)
+                        (PP (IN with))))))
+                (, ,)
+                (S
+                  (VP (VBG saying)
+                    (NP (PRP it))))))
+            (VP (VBP wasimportant)
+              (SBAR (IN that)
+                (S
+                  (NP
+                    (NP (DT the) (NN capability))
+                    (SBAR (IN that)
+                      (S
+                        (NP (DT this) (NN program))
+                        (VP (VBZ is)
+                          (VP (VBN designed)
+                            (S
+                              (VP (TO to)
+                                (VP (VB meet)))))))))
+                  (VP (VBZ is)
+                    (VP (VBN preserved))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB specifically))
+    (NP (PRP he))
+    (VP (VBD defended)
+      (NP (DT the) (NNS programs) (NN effectiveness))
+      (PP (IN by)
+        (S
+          (VP (VBG citing)
+            (NP
+              (NP (DT the) (NN case))
+              (PP (IN of)
+                (NP
+                  (NP
+                    (QP (CD 9) (CD 11))
+                    (NN hijacker))
+                  (VP (VBN khalid)
+                    (NP (NNP al) (NN mihdhar))))))))))
+    (. .)))
+

@@ -1,0 +1,2 @@
+conn:also conn_POS:RB prev1:may prev1_POS:MD with_prev1_full:may_also with_prev1_POS_full:MD_RB prev2:presence prev2_POS:NN with_prev2_full:presence_also with_prev2_POS_full:NN_RB NA
+conn:in_other_words conn_POS:IN_JJ_NNS sent_pos:0 NA

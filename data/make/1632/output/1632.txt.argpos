@@ -1,0 +1,2 @@
+conn:also conn_POS:RB sent_pos:1 prev1:respondent prev1_POS:NN with_prev1_full:respondent_also with_prev1_POS_full:NN_RB NA
+conn:as_a_result conn_POS:IN_DT_NN sent_pos:0 NA

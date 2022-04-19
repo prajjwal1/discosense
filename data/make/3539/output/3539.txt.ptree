@@ -1,0 +1,45 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (DT some) (NNS jurisdictions)))
+    (, ,)
+    (NP
+      (ADJP (RB privately) (VBN owned))
+      (NNS newspapers))
+    (VP (MD may)
+      (ADVP (RB also))
+      (VP (VB register)
+        (PP (IN with)
+          (NP (DT the) (JJ public) (NNS authorities)))
+        (SBAR (IN in) (NN order)
+          (S
+            (VP (TO to)
+              (VP (VB publish)
+                (NP (JJ public)
+                  (CC and)
+                  (JJ legal) (NNS notices))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB likewise))
+    (NP (DT a) (JJ private) (NN newspaper))
+    (VP (MD may)
+      (VP (VB be)
+        (VP (VBN designated)
+          (PP (IN by)
+            (NP
+              (NP (DT the) (NNS courts))
+              (PP (IN for)
+                (NP
+                  (NP (NN publication))
+                  (PP (IN of)
+                    (NP (JJ legal) (NNS notices)))
+                  (, ,)
+                  (PP (JJ such) (IN as)
+                    (NP
+                      (NP (NNS notices))
+                      (PP (IN of)
+                        (NP (JJ fictitious) (NN business) (NNS names))))))))))))
+    (. .)))
+

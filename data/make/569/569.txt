@@ -1,0 +1,1 @@
+by automatically correcting an erroneous entry or alerting an imputer of an erroneous entry, the resultant text of the worklog is less likely to include misspelled or mistaken information. thereby through operation of an embodiment of the present invention, a trouble ticket is created that is of improved readability to a reviewer.

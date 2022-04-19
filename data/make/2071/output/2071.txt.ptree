@@ -1,0 +1,62 @@
+(ROOT
+  (S
+    (NP
+      (NP (JJ rabbi) (JJ eric) (NN yoffie))
+      (, ,)
+      (NP
+        (NP (NN president))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (NN reform) (NNS movements) (NN union))
+            (PP (IN of)
+              (NP (JJ american) (NN hebrew) (NNS congregations))))))
+      (, ,))
+    (VP (VBD agreed)
+      (PP (IN with)
+        (NP (NNS others)))
+      (SBAR (IN that)
+        (S
+          (NP (NNS jews))
+          (VP (VBP tend)
+            (S
+              (VP (TO to)
+                (VP (VB define)
+                  (NP (PRP themselves))
+                  (PP (IN as)
+                    (NP
+                      (NP (DT a) (NNS people))
+                      (CONJP (RB rather) (IN than))
+                      (NP (DT a) (NN religion)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (ADVP (RB nonetheless))
+      (IN although)
+      (S
+        (NP (PRP he))
+        (VP (VBZ has)
+          (VP (VBN observed)
+            (NP
+              (NP (DT a) (NN resurgence))
+              (PP (IN of)
+                (NP (JJ jewish) (NN interest))))
+            (PP (IN in)
+              (NP (NN religion)))))))
+    (, ,)
+    (NP (PRP he))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (NNS synagogues))
+          (VP (VBP need)
+            (S
+              (VP (TO to)
+                (VP (VB do)
+                  (S
+                    (ADJP (RBR more) (JJ tomove))
+                    (NP (PRP it)))
+                  (ADVP (RB along)))))))))
+    (. .)))
+

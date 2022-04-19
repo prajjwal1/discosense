@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (JJ other) (NNS words)))
+    (, ,)
+    (NP (DT the) (NN goal))
+    (VP (VBZ is)
+      (S
+        (VP (TO to)
+          (VP (VB reproduce)
+            (ADVP
+              (ADVP (RB as) (RB accurately))
+              (PP (IN as)
+                (ADJP (JJ possible))))
+            (NP
+              (NP (DT the) (JJ cross) (NNS correlations))
+              (PP (IN in)
+                (NP (DT the) (NNS data))))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (PP
+      (ADVP (RB specifically))
+      (IN for)
+      (NP (DT the) (JJ fitting) (NN hyperplane)))
+    (, ,)
+    (NP
+      (NP (DT the) (JJ mean) (JJ square) (NN error))
+      (PP (IN in)
+        (NP (DT the)
+          (ADJP (RB off) (JJ diagonal))
+          (NNS components))))
+    (. .)))
+

@@ -1,0 +1,75 @@
+(ROOT
+  (S
+    (ADVP (RB conservatively))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ is)
+      (VP (VBN estimated)
+        (SBAR (IN that)
+          (S
+            (NP
+              (NP (DT the) (JJ average) (NN cost))
+              (PP (IN per)
+                (NP
+                  (NP (NN mile))
+                  (PP (IN for)
+                    (NP (DT a) (NN gasoline) (NN powered) (NN vehicle))))))
+            (VP (VBZ is)
+              (ADJP (JJ approximately)))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (CD 14))
+    (PP (IN per)
+      (NP (NN mile)))
+    (, ,)
+    (PP (VBG including)
+      (NP
+        (UCP (NN oil)
+          (CC and)
+          (JJ other))
+        (NNS fluids)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB conversely))
+    (NP
+      (NP (DT the) (NN cost))
+      (PP (IN per)
+        (NP
+          (NP (NN mile))
+          (PP (IN of)
+            (NP
+              (NP (DT a) (NN plug))
+              (PP (IN in)
+                (NP
+                  (NP (JJ electric) (NN vehicle))
+                  (PP (JJ such) (IN as)
+                    (NP (PRP ours))))))))))
+    (VP (VBZ is)
+      (ADJP (IN about)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (CD 07))
+      (PP (IN per)
+        (NP
+          (NP (NN mile))
+          (, ,)
+          (CC and)
+          (NP (DT this)))))
+    (VP (VBZ includes)
+      (NP
+        (NP (DT the) (NN cost))
+        (PP (IN of)
+          (NP
+            (NP (NN replacement) (NNS batteries))
+            (VP (VBN amortized)
+              (PP (IN over)
+                (NP (CD two) (NNS years))))))))
+    (. .)))
+

@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT a) (NN deficiency))
+      (PP (IN in)
+        (NP
+          (NP (DT a) (JJ vital) (NN hormone))
+          (PP (JJ such) (IN as)
+            (NP (NN growth) (NN hormone))))))
+    (VP (MD can)
+      (VP (VB lead)
+        (PP (TO to)
+          (NP
+            (ADJP (RB severely) (JJ stunted))
+            (NN growth)
+            (UCP
+              (PP (IN in)
+                (NP (NNS children)))
+              (CC and)
+              (ADVP (RB even)))
+            (NN dwarfism)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN by)
+      (NP (NN contrast)))
+    (NP (JJ excess) (NN growth) (NN hormone))
+    (VP (MD can)
+      (VP (VB lead)
+        (PP (TO to)
+          (NP
+            (NP (NN acromegaly)
+              (CC and)
+              (NN gigantism))
+            (CC or)
+            (NP (JJ excessive) (NN height))))))
+    (. .)))
+

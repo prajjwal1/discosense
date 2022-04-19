@@ -1,0 +1,1 @@
+on the contrary, the dom level 2 methods related to namespaces, identify attribute nodes by their namespaceuri and localname. because of this fundamental difference, mixing both sets of methods can lead to unpredictable results.

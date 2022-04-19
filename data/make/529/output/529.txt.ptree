@@ -1,0 +1,51 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (DT the) (NN west)))
+    (, ,)
+    (NP (PRP we))
+    (VP (VBP decorate)
+      (PP (IN for)
+        (NP (DT the) (NNS holidays)))
+      (PP (IN with)
+        (NP
+          (NP (NNS wreaths))
+          (, ,)
+          (NP (NNS greens))
+          (, ,)
+          (NP (NN holly))
+          (, ,)
+          (NP (NNS poinsettias))
+          (, ,)
+          (NP (NN mistletoe))
+          (, ,)
+          (NP (JJ red) (NNS berries))
+          (CC and)
+          (PP (IN of)
+            (NP (NN course)))
+          (NP
+            (NP (DT the) (NNS christmas))
+            (NP (NN tree))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB likewise))
+    (NP (EX there))
+    (VP (VBP are)
+      (NP
+        (NP (JJ many) (JJ traditional) (NNS plants)
+          (CC and)
+          (NNS flowers))
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (VBP are)
+              (VP (VBN used)
+                (PP (IN for)
+                  (S
+                    (VP (VBG decorating)
+                      (PP (IN during)
+                        (NP (DT the) (JJ chinese) (NNS holidays))))))))))))
+    (. .)))
+

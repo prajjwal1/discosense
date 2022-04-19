@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (ADVP (RB thereafter))
+    (, ,)
+    (S
+      (NP (DT a) (JJ conductive) (NN film)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (VP (VBN connected)
+                (PP (TO to)
+                  (NP
+                    (NP (DT the) (NN source) (NN region))
+                    (CC and)
+                    (NP (DT the) (NN drain) (NN region)))))))))
+      (VP (VBZ is)
+        (VP (VBN formed))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (DT the) (JJ conductive) (NN film))
+      (VP (VBZ is)
+        (ADVP (RB then))
+        (VP (VBN patterned))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thereby))
+    (NP
+      (NP (DT a) (NN source) (NN electrode))
+      (CC and)
+      (NP (DT a) (NN drain) (NN electrode)))
+    (VP (VBP are)
+      (VP (VBN formed)))
+    (. .)))
+

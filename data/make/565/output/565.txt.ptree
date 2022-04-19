@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (ADVP (RB yet))
+    (, ,)
+    (NP (PRP$ his) (NNS experiments))
+    (VP (VBP are)
+      (VP (VBN conducted)
+        (PP (IN by)
+          (NP (PRP himself)))
+        (PP (IN without)
+          (NP
+            (NP (DT the) (NN assistance))
+            (PP (IN of)
+              (NP (JJ other) (NNS scientists)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thereby))
+    (NP (DT both))
+    (VP
+      (VP (VBP obtain)
+        (NP (PRP$ their) (NN individuality)))
+      (CC and)
+      (VP (VBP oppose)
+        (NP (NN william) (NN h.) (NN whytes) (NN concern))))
+    (. .)))
+

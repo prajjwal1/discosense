@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (NP (PRP it))
+    (VP (MD would)
+      (VP (VB be)
+        (ADJP (JJ fantastic)
+          (S
+            (VP (TO to)
+              (VP (VB verify)
+                (NP
+                  (NP (DT some) (JJ such) (NN phi))
+                  (NP (DT this) (NN way)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN on)
+      (NP (DT the) (JJ other) (NN hand)))
+    (NP (EX there))
+    (VP (VBZ is)
+      (NP
+        (NP (DT no) (NN scenario))
+        (PP (IN for)
+          (S
+            (VP (VBG achieving)
+              (NP (NN anything))
+              (PP (IN like)
+                (NP (DT this))))))))
+    (. .)))
+

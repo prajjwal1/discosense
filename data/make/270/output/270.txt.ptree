@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (ADVP (RB thats))
+    (NP
+      (NP (DT all) (NN rock))
+      (PP (IN of)
+        (NP (NNS ages))))
+    (VP
+      (ADVP (RB really))
+      (VBD had)
+      (S
+        (VP (TO to)
+          (VP (VB do)
+            (VP
+              (VP (VB tap)
+                (PP (IN into)
+                  (NP (DT the) (NN nostalgia)))
+                (SBAR (IN that)
+                  (S
+                    (NP (NNS fuels))
+                    (VP (VBZ hair)
+                      (NP (NN metal) (NNS lovers))))))
+              (, ,)
+              (VP (VB crank)
+                (NP (PRP it))
+                (PRT (RP up)))
+              (CC and)
+              (VP (VB let)
+                (NP (DT the) (JJ good) (NNS times) (NN flow))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB instead))
+    (NP (PRP it))
+    (VP (VBZ tests)
+      (NP (PRP$ your) (NN patience)))
+    (. .)))
+

@@ -1,0 +1,49 @@
+(ROOT
+  (S
+    (S
+      (NP (NN elizabeth))
+      (VP (VBD was)
+        (NP
+          (ADJP (JJ englands) (JJS richest))
+          (NN widow))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP he))
+      (VP (VBD became)
+        (VP (VBN known)
+          (PP (IN as)
+            (NP (JJ golden) (NN neal))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nonetheless))
+    (NP (DT this) (JJ remarkable) (NN man))
+    (VP (VBD died)
+      (ADJP (JJ insolvent)
+        (PP (IN in)
+          (NP (CD 1699))))
+      (PP (IN after)
+        (NP
+          (NP (DT a) (JJ varied) (NN career))
+          (, ,)
+          (SBAR
+            (WHPP (IN during)
+              (WHNP (WDT which)))
+            (S
+              (NP (PRP he))
+              (VP
+                (VP (VBD exhausted)
+                  (NP (CD two) (NNS fortunes))
+                  (, ,)
+                  (ADVP (RB doubtless))
+                  (PP (IN through)
+                    (NP (NN gaming))))
+                (CC and)
+                (VP
+                  (ADVP (RB ill))
+                  (VBD founded)
+                  (NP (NNS speculations)))))))))
+    (. .)))
+

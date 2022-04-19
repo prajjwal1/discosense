@@ -1,0 +1,1 @@
+for certain designs with replicates at the levels of the predictor variables, the residual sum of squares can be further partitioned into meaningful parts which are relevant for testing hypotheses. specifically the residual sums of squares can be partitioned into lack of fit and pure error components.

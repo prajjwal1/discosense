@@ -1,0 +1,34 @@
+(ROOT
+  (FRAG (CC and)
+    (ADVP
+      (ADVP (RB whewell))
+      (SBAR
+        (WHNP (WP who))
+        (S
+          (ADVP (RB also))
+          (VP (VBP originated)
+            (SBAR
+              (S
+                (NP (DT the) (NNS words) (NN cathode)
+                  (CC and)
+                  (NN ion))
+                (VP (VBD spearheaded)
+                  (NP (JJ global) (NN research))
+                  (PP (IN with)
+                    (NP (PRP$ his) (NN work)))
+                  (PP (IN on)
+                    (NP (NNS tides)))))))))
+      (. .))))
+
+(ROOT
+  (S
+    (NP (JJ interestingly) (NN groundbreaking) (NN work))
+    (ADVP (RB often))
+    (VP (VBZ seems)
+      (S
+        (VP (TO to)
+          (VP (VB happen)
+            (PP (IN in)
+              (NP (NNS groups)))))))
+    (. .)))
+

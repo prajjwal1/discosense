@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (NP (PRP it))
+    (VP (VBZ is)
+      (NP
+        (NP (DT an) (JJ evolutionary) (NN enlightenment))
+        (, ,)
+        (NP
+          (NP (DT an)
+            (ADJP
+              (ADJP (RB ever) (JJ progressing))
+              (, ,)
+              (ADJP (RB ever) (JJ transcending))
+              (, ,))
+            (NN enlightenment))
+          (PP
+            (PP (IN in)
+              (NP (DT the) (JJ physical) (NN world)))
+            (, ,)
+            (CC and)
+            (PP (IN in)
+              (NP (DT the) (JJ physical) (NN body) (PRP itself)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN interestingly)
+      (NP (JJ evolutionary) (NNS enlightenmentis)))
+    (NP (DT the) (NN term) (NN andrew) (NNS cohens))
+    (VP (VBZ uses)
+      (S
+        (VP (TO to)
+          (VP (VB define)
+            (NP (PRP$ his) (JJ own) (NN teaching))))))
+    (. .)))
+

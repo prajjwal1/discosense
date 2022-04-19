@@ -1,0 +1,48 @@
+(ROOT
+  (S
+    (PP (IN within)
+      (NP (DT a) (NN population)))
+    (, ,)
+    (NP
+      (NP (NNS females))
+      (PP (IN with)
+        (NP (JJ atypical) (NNS blends))))
+    (VP (VBP are)
+      (ADJP (RBR less) (JJ attractive)
+        (PP (TO to)
+          (NP
+            (NP (NNS males))
+            (PP (IN than)
+              (NP
+                (NP (NNS females))
+                (PP (IN with)
+                  (NP (DT the) (JJ populations) (JJ common) (NN blend)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (ADJP (RB similarly) (JJ rare))
+        (NNS males))
+      (SBAR
+        (WHNP (WDT that))
+        (S
+          (VP (VBP respond)
+            (S
+              (VP (TO to)
+                (VP (VB atypical)
+                  (NP (NNS blends)))))))))
+    (VP (VBP are)
+      (VP (VBN expected)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (PP (IN at)
+                (NP (DT a) (NN disadvantage)))
+              (PP (IN in)
+                (S
+                  (VP (VBG finding)
+                    (NP (NNS mates))))))))))
+    (. .)))
+

@@ -1,0 +1,44 @@
+(ROOT
+  (S
+    (PP (IN despite)
+      (NP
+        (NP (DT that) (NN conclusion))
+        (PP (IN by)
+          (NP (DT the) (NN review) (NN team)))))
+    (, ,)
+    (NP (DT the) (NN bill))
+    (VP (VBZ does) (RB not)
+      (VP (VB suggest)
+        (SBAR (IN that)
+          (S
+            (NP (PRP we))
+            (VP (VBP are)
+              (VP (VBG starting)
+                (PP (IN with)
+                  (NP (DT an) (JJ entirely) (NN part) (NN time) (NN membership)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (PP (IN on)
+        (NP
+          (NP (DT the) (NN contrary))
+          (PP (IN under)
+            (NP (NN clause) (CD 50)))))
+      (NP (DT the) (NN law) (NN commission))
+      (VP (MD will)
+        (VP (VB have)
+          (NP (CD five) (NNS members)))))
+    (CC and)
+    (S
+      (NP (PRP$ my) (NN understanding))
+      (VP (VBZ is)
+        (SBAR (IN that)
+          (S
+            (NP (PRP they))
+            (VP (MD will)
+              (VP (VB be)
+                (NP (JJ full) (NN time) (NNS members))))))))
+    (. .)))
+

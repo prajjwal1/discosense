@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (S
+      (VP (TO to)
+        (VP (VB get)
+          (NP (JJ such) (NN information)))))
+    (, ,)
+    (NP
+      (NP (JJ objective) (NN assessment))
+      (VP (VBG using)
+        (NP (DT some) (NN quality) (NNS models))
+        (PP (IN on)
+          (NP
+            (NP (JJ collected) (NNS data))
+            (PP (IN from)
+              (NP (DT the) (NN quality) (NN assurance) (NNS activities)))))))
+    (VP (VBZ is)
+      (ADJP (JJ essential)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB consequently))
+    (NP (EX there))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (JJ powerful) (NN motive))
+        (PP (IN for)
+          (NP
+            (NP (JJ early) (NNS indicators))
+            (PP (IN of)
+              (NP (NN quality)))))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VB measure)
+              (NP (NN quality))
+              (ADVP (RB indirectly)))))))
+    (. .)))
+

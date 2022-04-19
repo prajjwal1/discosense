@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (NP (JJ only) (NNS brothers))
+    (VP (VBP jay)
+      (CC and)
+      (VBP mark)
+      (NP
+        (NP (JJ dupl) (NN ass) (JJ last))
+        (VP (VBN seen)
+          (S
+            (VP (VBG stuffing)
+              (NP (PRP$ their) (JJ puffy) (NN chair) (NN arent))))))
+      (S
+        (VP (VBG making)
+          (S
+            (NP (DT a) (NN horror))
+            (VP (VB pic)
+              (S
+                (NP (DT the) (NNS movies))
+                (ADJP (RB about) (RB as) (JJ scary)
+                  (PP (IN as)
+                    (NP (DT a) (NN shadow) (NN puppet))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB rather))
+    (NP (PRP$ its)
+      (NX
+        (NP (DT an) (NN indie))
+        (PP (IN about)
+          (NP (NNS indies)))))
+    (VP (VBD meta) (, ,)
+      (ADVP (RB right)))
+    (. .)))
+

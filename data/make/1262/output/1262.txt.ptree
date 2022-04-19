@@ -1,0 +1,26 @@
+(ROOT
+  (S
+    (SBAR (IN because)
+      (FRAG
+        (WHPP (IN of)
+          (WHNP (WDT that)))))
+    (, ,)
+    (NP (NN usc))
+    (VP (VBZ lacks)
+      (NP
+        (NP (NN talent)
+          (CC and)
+          (NN depth))
+        (PP (IN in)
+          (NP (DT some) (JJ key) (NNS areas)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB because) (IN of)
+      (NP (DT that)))
+    (NP (NN usc))
+    (VP (VBP isnt)
+      (NP (DT a) (JJR better) (NN team)))
+    (. .)))
+

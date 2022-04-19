@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (NP (DT this) (VBN estimated) (NN purchasing))
+    (VP (VBZ needs)
+      (SBAR
+        (S
+          (NP (NN module) (CD 140))
+          (VP (MD may)
+            (VP (VB match)
+              (S
+                (NP (DT the) (NNS rules))
+                (VP (VBG specifying)
+                  (SBAR
+                    (WHNP (WDT which) (NNS products))
+                    (S
+                      (NP (DT the) (NN user))
+                      (VP (MD will)
+                        (VP (VB buy)
+                          (PP (IN with)
+                            (NP (DT the) (NNS users) (NN purchasing) (NN history))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN as)
+      (NP (DT a) (NN result)))
+    (NP
+      (NP (DT a) (NN set))
+      (PP (IN of)
+        (NP
+          (NP (NNS products))
+          (SBAR (IN that)
+            (S
+              (NP (DT the) (NN user))
+              (VP (MD should)
+                (VP (VB consider)
+                  (NP (NN buying)))))))))
+    (VP (VBZ is)
+      (VP (VBN produced)))
+    (. .)))
+

@@ -1,0 +1,49 @@
+(ROOT
+  (S
+    (PP (IN at)
+      (NP (DT this) (NN time)))
+    (, ,)
+    (S
+      (NP (DT no) (NN pulse) (NN voltage))
+      (VP (VBZ is)
+        (VP (VBN applied)
+          (PP (TO to)
+            (NP (DT the) (JJ storing) (NN portion))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP
+        (NP (DT the) (NNS charges))
+        (VP (VBN stored)
+          (PP (IN in)
+            (PP (IN during)
+              (NP (NN exposure))))))
+      (VP (VBP are)
+        (VP (VBN held)
+          (PP (IN in)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thereby))
+    (NP
+      (NP
+        (NP (DT the) (NNS charges))
+        (VP (VBN stored)
+          (PP (IN in)
+            (NP (CD two) (NNS rows)))))
+      (, ,)
+      (NP (NN i.)
+        (UCP
+          (ADJP (JJ e.))
+          (CC and)
+          (PP (IN of)
+            (NP
+              (NP (DT the) (NN image))
+              (VP (VBG sensing)))))
+        (NN portion))
+      (, ,))
+    (VP (VBP are)
+      (VP (VBN added)))
+    (. .)))
+

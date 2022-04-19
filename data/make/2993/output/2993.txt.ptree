@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (S
+      (NP (JJ stony) (NN brooks) (NN glen))
+      (ADVP (RB whitney))
+      (VP (MD may)
+        (VP (VB be)
+          (NP (DT a) (NN math) (NN whiz)))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP he))
+      (VP (VBD had)
+        (NP
+          (NP (RB enough))
+          (PP (IN of)
+            (S
+              (VP (VBG being)
+                (NP (DT a) (JJ hedge) (NN fund) (NN manager))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB instead))
+    (VP (VB hes)
+      (S
+        (VP (VBG putting)
+          (NP (PRP$ his) (NN focus))
+          (PP (IN on)
+            (S
+              (VP (VBG creating)
+                (NP (NNS exhibitions)))))))
+      (SBAR (IN that)
+        (S
+          (NP (NN help) (NNS kids))
+          (ADVP (RB better))
+          (VP (VBP understand)
+            (NP (NN math))))))
+    (. .)))
+

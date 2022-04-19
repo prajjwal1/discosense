@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (S
+      (NP (PDT all) (DT these) (NN web) (NNS servers))
+      (VP (VBP point)
+        (PP (TO to)
+          (NP (DT the) (JJ same) (NN codebase)))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP they))
+      (ADVP (DT all))
+      (VP (VB reside)
+        (PP (IN in)
+          (NP (DT the) (JJ same) (JJ local) (NN area) (NN network)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN as)
+      (NP (DT a) (NN result)))
+    (NP (PRP they))
+    (VP (MD can)
+      (VP (VB access)
+        (NP
+          (NP (DT a) (NN file))
+          (VP (VBN stored)
+            (PP (RB somewhere) (IN in)
+              (NP
+                (NP (DT the) (JJ local) (NN area) (NN network))
+                (VP (VBG using)
+                  (NP (DT a) (NN unc) (NN path)))))))))
+    (. .)))
+

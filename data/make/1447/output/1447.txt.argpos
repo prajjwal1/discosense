@@ -1,0 +1,2 @@
+conn:also conn_POS:RB sent_pos:2 prev1:can prev1_POS:MD with_prev1_full:can_also with_prev1_POS_full:MD_RB prev2:they prev2_POS:PRP with_prev2_full:they_also with_prev2_POS_full:PRP_RB NA
+conn:as_a_result conn_POS:IN_DT_NN sent_pos:0 NA

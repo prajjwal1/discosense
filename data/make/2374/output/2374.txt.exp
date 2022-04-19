@@ -1,0 +1,3 @@
+conn_lc:additionally conn:additionally conn_POS:RB xxx£
+conn_lc:and conn:and conn_POS:CC with_prev_full:,_and xxx£
+conn_lc:if conn:if conn_POS:IN with_prev_full:remiss_if xxx£

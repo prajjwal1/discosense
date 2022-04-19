@@ -1,0 +1,45 @@
+(ROOT
+  (S
+    (NP (DT the) (NNS quickbooks) (NN data) (NN file))
+    (VP (VBD was)
+      (VP (VBN converted)
+        (PP (IN from)
+          (NP
+            (NP (DT a) (JJ quicken) (NN data) (NN file))
+            (VP (VBG containing)
+              (NP
+                (NP (DT a) (NN r) (NNS transactions))
+                (SBAR
+                  (WHNP (WDT that))
+                  (S
+                    (VP (VBD were)
+                      (VP (VBN recorded)
+                        (PP (IN without)
+                          (S
+                            (VP (VBG assigning)
+                              (NP (NN category))
+                              (PP (TO to)
+                                (NP (PRP them))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thus))
+    (NP (JJ uncategorized) (NN payment)
+      (CC and)
+      (NN invoice) (NNS amounts))
+    (VP (VBP appear)
+      (PRT (RP in))
+      (NP
+        (ADJP (JJ quickbooks)
+          (NP (JJ p) (NN l)))
+        (NNS reports))
+      (PP (IN as)
+        (NP
+          (NP (JJ uncategorized) (NNS expenses))
+          (CC and)
+          (NP (JJ uncategorized) (NN income))))
+      (, ,)
+      (ADVP (RB respectively)))
+    (. .)))
+

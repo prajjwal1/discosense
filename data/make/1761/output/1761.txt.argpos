@@ -1,0 +1,2 @@
+conn:rather conn_POS:RB sent_pos:0 NA
+conn:also conn_POS:RB prev1:who prev1_POS:WP with_prev1_full:who_also with_prev1_POS_full:WP_RB prev2:capitalist prev2_POS:NN with_prev2_full:capitalist_also with_prev2_POS_full:NN_RB NA

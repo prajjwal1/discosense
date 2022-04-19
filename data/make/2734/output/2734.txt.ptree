@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (NP (DT these) (JJ diverse) (NNS data))
+    (VP (VBZ sets)
+      (VP (VB cause)
+        (S
+          (NP (PRP us))
+          (VP (TO to)
+            (VP (VB rethink)
+              (NP
+                (NP (DT some))
+                (PP (IN of)
+                  (NP (DT the) (NN workhorse) (NNS algorithms))))
+              (PP (IN for)
+                (NP (NN data) (NN analysis))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB specifically))
+    (NP (DT the) (JJ traditional) (JJ binary) (NN response) (NN model))
+    (VP (VBZ leaves)
+      (NP (JJ much) (NN room))
+      (PP (IN for)
+        (NP
+          (NP (NN improvement))
+          (PP (IN in)
+            (SBAR
+              (WHADVP (WRB how))
+              (S
+                (NP (PRP it))
+                (VP (VBZ embraces)
+                  (NP (NN time)))))))))
+    (. .)))
+

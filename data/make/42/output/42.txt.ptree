@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (NN solution))
+      (PP (IN for)
+        (NP (DT that) (NN problem))))
+    (VP (VBZ needs)
+      (NP
+        (NP (NN generation))
+        (PP (IN of)
+          (NP
+            (NP (JJ divine) (NN knowledge))
+            (, ,)
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (VP (VBZ is)
+                  (ADJP (JJ impossible)
+                    (PP (IN for)
+                      (NP (DT the) (JJ human) (NN guru)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (ADVP (RB therefore))
+      (IN if)
+      (S
+        (NP (PRP you))
+        (VP (VBP get)
+          (ADJP (JJ satguru)))))
+    (NP (PRP you))
+    (VP (VBP are)
+      (ADJP (RB very) (JJ lucky)))
+    (. .)))
+

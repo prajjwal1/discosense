@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (NP (DT a) (JJ negative) (NN externality))
+    (VP (VBZ is)
+      (NP
+        (NP (DT any) (NN difference))
+        (PP (IN between)
+          (NP
+            (NP (DT the) (JJ private) (NN cost))
+            (PP (IN of)
+              (NP
+                (NP (DT an) (NN action)
+                  (CC or)
+                  (NN decision))
+                (PP (TO to)
+                  (NP
+                    (NP (DT an) (JJ economic) (NN agent))
+                    (CC and)
+                    (NP (DT the) (JJ social) (NN cost))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB conversely))
+    (NP (DT a) (JJ positive) (NN externality))
+    (VP (VBZ is)
+      (NP
+        (NP (DT any) (NN difference))
+        (PP (IN between)
+          (NP
+            (NP (DT the) (JJ private) (NN benefit))
+            (PP (IN of)
+              (NP
+                (NP (DT an) (NN action)
+                  (CC or)
+                  (NN decision))
+                (PP (TO to)
+                  (NP
+                    (NP (DT an) (JJ economic) (NN agent))
+                    (CC and)
+                    (NP (DT the) (JJ social) (NN benefit))))))))))
+    (. .)))
+

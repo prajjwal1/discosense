@@ -1,0 +1,38 @@
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB when))
+      (S
+        (NP (DT the) (NN cable))
+        (VP (VBD was)
+          (VP (VBN slackened)))))
+    (, ,)
+    (NP
+      (NP (NNS elements))
+      (PP (IN of)
+        (NP (DT the) (NN stairway))))
+    (VP
+      (VP (VBN loosened)
+        (PRT (RP up)))
+      (CC and)
+      (VP (VBN moved)
+        (ADVP (RB freely))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (ADVP (RB conversely))
+      (WHADVP (WRB when))
+      (S
+        (NP (DT the) (NN cable))
+        (VP (VBD was)
+          (ADJP (JJ tightened)))))
+    (, ,)
+    (NP (DT the) (NN staircase))
+    (VP (VBD appeared)
+      (ADJP (JJ solid)
+        (CC and)
+        (JJ stable)))
+    (. .)))
+

@@ -1,0 +1,50 @@
+(ROOT
+  (S
+    (ADVP (CC plus))
+    (, ,)
+    (NP
+      (NP (JJ several) (JJ twin) (NNS cities) (NNS acts))
+      (PP (VBG including)
+        (NP
+          (NP (DT the) (NNS replacements))
+          (, ,)
+          (NP (NN hsker) (NNS d))
+          (, ,)
+          (NP (NN soul) (NN asylum))
+          (, ,)
+          (CC and)
+          (NP
+            (NP (NNS babes))
+            (PP (IN in)
+              (NP (NN toyland)))))))
+    (VP (VBP get)
+      (NP (DT a) (NN nod)))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP
+        (NP (NN sum))
+        (NP (PRP$ its)
+          (NP
+            (NP (DT the) (JJS best) (NN way))
+            (PP (TO to)
+              (NP (NN paper)))))))
+    (NP
+      (NP (PRP$ your) (NNS walls))
+      (PP (IN with)
+        (NP (JJ michael) (NNS azerrads))))
+    (VP (VBP indie)
+      (SBAR
+        (S
+          (NP (NN rock) (NN history))
+          (VP (VBP tome)
+            (SBAR
+              (S
+                (NP (PRP$ our) (NN band))
+                (VP (MD could)
+                  (VP (VB be)
+                    (NP (PRP$ your) (NN life))))))))))
+    (. .)))
+

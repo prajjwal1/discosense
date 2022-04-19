@@ -1,0 +1,1 @@
+the e mail relay 46 is generally adapted to filter e mail received into the enterprise 32 by applying at least one policy to incoming messages. particularly the e mail relay 46 compares attributes of received e mail messages to attributes typical to spam messages.

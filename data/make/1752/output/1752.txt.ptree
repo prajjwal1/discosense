@@ -1,0 +1,38 @@
+(ROOT
+  (S
+    (PP (IN before)
+      (S
+        (VP (VBG exploring)
+          (NP (DT the) (JJ single) (NN wing))
+          (PP (IN with)
+            (NP (NNP regards)))
+          (PP (TO to)
+            (NP (CD 2008) (NN ut) (NN football))))))
+    (, ,)
+    (NP (DT a) (NN question))
+    (VP (MD must)
+      (ADVP (RB first))
+      (VP (VB be)
+        (VP (VBN answered)
+          (SBAR
+            (WHNP (WP what))
+            (S
+              (VP (VBZ is)
+                (NP (DT the) (JJ single) (NN wing))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (ADJP (JJ short)))
+    (NP (DT the) (JJ single) (NN wing))
+    (VP (VBD was)
+      (NP
+        (NP (DT the) (JJ dominant) (JJ offensive) (NN formation))
+        (PP (IN in)
+          (NP
+            (NP (DT the) (JJ first) (NN half))
+            (PP (IN of)
+              (NP (DT the) (JJ twentieth) (NN century)))))))
+    (. .)))
+

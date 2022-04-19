@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (NP (JJ cowens) (NN research))
+    (VP (VBD mapped)
+      (ADVP (RB nicely))
+      (PP (IN onto)
+        (NP
+          (NP (DT the) (NNS programs))
+          (SBAR
+            (S
+              (NP (PRP he))
+              (VP
+                (VP (VBD studied))
+                (CC and)
+                (VP (VBD implemented))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN contrast)))
+    (NP (DT the) (NN research))
+    (VP (VBD conducted)
+      (PP (IN by)
+        (NP (NN cowen)))
+      (SBAR (IN as)
+        (S
+          (NP (DT a) (JJ graduate) (NN student))
+          (VP (VBD was)
+            (ADJP (JJ different)
+              (PP (IN from)
+                (NP
+                  (NP (DT the) (NN research))
+                  (SBAR
+                    (S
+                      (NP (PRP he))
+                      (VP (VBD pursued)
+                        (ADVP (RB later))
+                        (PP (IN in)
+                          (NP (NN life)))))))))))))
+    (. .)))
+

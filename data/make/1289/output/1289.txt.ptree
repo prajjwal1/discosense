@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (NP
+      (NP (NN friend))
+      (, ,)
+      (NP (FW i)))
+    (VP (MD would)
+      (VP (VB like)
+        (NP (DT a) (JJ little) (NN message))
+        (PP (IN with)
+          (S
+            (NP (DT the) (NN request))
+            (VP (VBG saying)
+              (SBAR
+                (S
+                  (NP (PRP you))
+                  (VP (VBD added)
+                    (NP (PRP me))))))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (PP (RB because) (IN of)
+      (NP
+        (NP (DT this) (NN guide))
+        (CC or)
+        (NP
+          (NP (DT another) (NN one))
+          (PP (IN of)
+            (NP (PRP$ my) (NNS guides))))))
+    (. .)))
+

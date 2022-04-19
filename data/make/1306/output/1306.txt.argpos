@@ -1,0 +1,1 @@
+conn:when conn_POS:WRB prev1:most prev1_POS:JJS with_prev1_full:most_when with_prev1_POS_full:JJS_WRB prev2:suffers prev2_POS:VBZ with_prev2_full:suffers_when with_prev2_POS_full:VBZ_WRB NA

@@ -1,0 +1,49 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT the) (JJ baseline) (NN patient) (NN delay))
+        (VP (VBN identified)
+          (PP (IN by)
+            (NP (DT the) (NNS investigators)))))
+      (VP (VBD was)
+        (VP
+          (ADVP (JJR lower) (IN than))
+          (VBN expected))))
+    (CC and)
+    (S
+      (NP
+        (NP (DT the) (NN trend))
+        (PP (IN of)
+          (NP
+            (NP (VBG declining) (NN delay))
+            (PP (IN in)
+              (NP (DT the) (NN control) (NNS cities))))))
+      (VP (VBD was)
+        (ADJP
+          (ADJP (JJR larger))
+          (SBAR (IN than)
+            (S
+              (VP (VBN expected)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB subsequently))
+    (NP (DT the) (NN study))
+    (VP (VBD failed)
+      (S
+        (VP (TO to)
+          (VP (VB show)
+            (NP (JJ significant) (NNS reductions))
+            (PP (IN in)
+              (NP
+                (NP (DT this) (NN baseline))
+                (PP (IN in)
+                  (NP (NN response)))))
+            (PP (TO to)
+              (NP
+                (NP (DT the) (NN intervention) (NNS strategies))
+                (VP (VBN tested))))))))
+    (. .)))
+

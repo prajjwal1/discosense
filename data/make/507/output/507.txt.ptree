@@ -1,0 +1,56 @@
+(ROOT
+  (S
+    (NP
+      (NP (NN someone))
+      (SBAR
+        (WHNP (WP who))
+        (S
+          (VP
+            (VP (VBZ has)
+              (NP (JJ academic) (NNS skills)))
+            (CC but)
+            (VP (VBZ is)
+              (NP (DT a) (NN republican)))))))
+    (VP
+      (VP (MD would)
+        (ADVP (RB just))
+        (VP (VB have)
+          (NP (JJ enormous) (NNS opportunities))))
+      (CC and)
+      (VP (MD could)
+        (ADVP (RB easily))
+        (VP (VB become)
+          (NP (DT a) (JJ multi) (NN millionnaire)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN contrast)))
+    (NP
+      (NP (NNS academics))
+      (PP (IN on)
+        (NP (DT the) (NN left))))
+    (VP (MD would) (RB not)
+      (VP
+        (VP (VB be)
+          (ADJP (VB welcome)
+            (PP
+              (PP (IN in)
+                (NP (JJ corporate) (NNS boardrooms)))
+              (CC or)
+              (PP (IN at)
+                (NP
+                  (NP (DT a) (NN think) (NN tank))
+                  (VP (VBN funded)
+                    (PP (IN by)
+                      (NP (JJ richard) (NN mellon) (NN scaife)))))))))
+        (, ,)
+        (CC and)
+        (VP (VB wouldnt)
+          (VP (VB be)
+            (ADJP (JJ comfortable)
+              (PP (IN in)
+                (NP (PDT such) (DT a) (NN position))))))))
+    (. .)))
+

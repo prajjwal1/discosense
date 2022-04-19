@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (PP (IN amid)
+      (NP
+        (NP (JJ busy) (NNS lives))
+        (CC and)
+        (NP (JJ hectic) (NNS schedules))))
+    (, ,)
+    (NP (NNS families))
+    (VP (VBP continue)
+      (S
+        (VP (TO to)
+          (VP (VB seek)
+            (NP (NNS ways)
+              (S
+                (VP (TO to)
+                  (VP (VB simplify)
+                    (NP (PRP$ their) (NNS lives))
+                    (, ,)
+                    (ADVP (RB especially))))))
+            (PP (IN in)
+              (NP (DT the) (NN kitchen)))))))
+    (. .)))
+
+(ROOT
+  (S (CC but)
+    (NP (JJ simple) (NN doesnt))
+    (VP (VBP have)
+      (S
+        (VP (TO to)
+          (VP (VB mean)
+            (ADJP (JJ tasteless))))))
+    (. .)))
+

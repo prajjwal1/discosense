@@ -1,0 +1,1 @@
+out of the 74 multipliers required, 29 are for the image suppressor filter and 45 for the upsampled filter. by contrast in the previous ifir design, 78 of the 127 multipliers correspond to the image suppressor filter, while 49 correspond to the upsampled filter.

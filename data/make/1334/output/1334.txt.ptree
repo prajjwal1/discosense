@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (S
+      (NP (NNS prices))
+      (ADVP (RB here))
+      (VP (VBP are) (RB not)
+        (ADJP (RB as) (JJ high)
+          (PP (IN as)
+            (NP (NN market) (NN sheran))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP they))
+      (ADVP (RB still))
+      (VP (MD could) (RB not)
+        (VP (VB afford)
+          (NP
+            (NP (DT a) (NN room))
+            (CC or)
+            (RB even)
+            (NP (DT a) (NN meal))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB subsequently))
+    (NP (PRP they))
+    (VP (VBD spent)
+      (NP (DT the) (NN night))
+      (PP (IN in)
+        (NP (DT the) (NNS inns) (NN stable)))
+      (, ,)
+      (SBAR
+        (WHADVP (WRB where))
+        (S
+          (NP (PRP they))
+          (VP (VBD were)
+            (VP (VBN attacked)
+              (PP (IN by)
+                (NP (DT the) (JJ darkfriend) (NN mili) (NN skane))))))))
+    (. .)))
+

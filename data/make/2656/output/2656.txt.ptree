@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (VP (VB do) (RB not)
+      (VP (VB expect)
+        (NP (NN anyone))
+        (S
+          (VP (TO to)
+            (VP (VB stop)
+              (PP (IN for)
+                (NP (PRP you)))
+              (SBAR (RB just) (IN because)
+                (S
+                  (NP (PRP you))
+                  (VP (VBP come)
+                    (PP (IN from)
+                      (NP (DT the) (NN right)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB instead))
+    (NP
+      (NP (DT the) (NN vehicle))
+      (PP (IN on)
+        (NP (DT the) (JJ main) (NN road))))
+    (VP (VBZ takes)
+      (NP
+        (NP (NN right))
+        (PP (IN of)
+          (NP (NN way))))
+      (PP (IN over)
+        (NP
+          (NP (DT the) (NN vehicle))
+          (PP (IN on)
+            (NP (DT the) (JJR lesser) (NN road))))))
+    (. .)))
+

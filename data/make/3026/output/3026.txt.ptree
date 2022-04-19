@@ -1,0 +1,49 @@
+(ROOT
+  (S
+    (NP (JJ preoperative) (NN stress) (NN testing))
+    (VP (MD may)
+      (VP (VB help)
+        (VP (VB identify)
+          (NP
+            (NP (NNS subgroups))
+            (PP (IN of)
+              (NP
+                (NP (NNS patients))
+                (SBAR
+                  (WHNP (WDT that))
+                  (S
+                    (VP (MD would)
+                      (VP (VB benefit)
+                        (PP (IN from)
+                          (NP (NN blocker) (NN therapy)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB similarly))
+    (NP
+      (NP (NN evidence))
+      (PP (IN of)
+        (NP
+          (NP (JJ ischaemic) (NN heart) (NN disease))
+          (PP (IN on)
+            (NP (JJ preoperative) (NN testing))))))
+    (VP (MD may)
+      (VP (VB indicate)
+        (SBAR (IN that)
+          (S
+            (NP (DT a) (NN patient))
+            (VP (VBZ requires)
+              (NP
+                (NP (NN statin) (NN therapy))
+                (, ,)
+                (SBAR
+                  (WHNP (WDT which))
+                  (S
+                    (VP (VBZ is)
+                      (ADVP (RB also))
+                      (VP (VBN associated)
+                        (PP (IN with)
+                          (NP (VBN improved) (NN postoperative) (NNS outcomes)))))))))))))
+    (. .)))
+

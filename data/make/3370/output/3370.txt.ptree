@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (NP (FW i))
+    (VP (VBD wanted)
+      (S
+        (VP (TO to)
+          (VP (VB ask)
+            (NP (PRP you))
+            (PP (IN about)
+              (NP
+                (NP (DT the) (CD two) (NNS trains))
+                (SBAR
+                  (WHNP (WDT that))
+                  (S
+                    (VP (VBP seem)
+                      (S
+                        (VP (TO to)
+                          (VP (VB be)
+                            (VP (VBG rolling)
+                              (PRT (RP down))
+                              (NP
+                                (NP (DT the) (NNS tracks))
+                                (PP (IN on)
+                                  (NP (DT the) (NN hill)))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB specifically))
+    (NP (NN leader) (NN mcconnell))
+    (VP (VBZ has)
+      (VP (VBN laid)
+        (PRT (RP out))
+        (NP (DT an) (JJ elaborate) (NN plan))
+        (S
+          (VP (TO to)
+            (VP (VB raise)
+              (NP (DT the) (NN debt) (NN limit)))))))
+    (. .)))
+

@@ -1,0 +1,2 @@
+conn:thus conn_POS:RB sent_pos:0 NA
+conn:when conn_POS:WRB prev1:off prev1_POS:RP with_prev1_full:off_when with_prev1_POS_full:RP_WRB prev2:roll prev2_POS:VBP with_prev2_full:roll_when with_prev2_POS_full:VBP_WRB NA

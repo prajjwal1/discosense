@@ -1,0 +1,49 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP
+        (NP (NN comparison))
+        (PP (IN with)
+          (NP (JJ other) (NNS hosts)))))
+    (, ,)
+    (NP (NNS birds))
+    (VP (VBP appear)
+      (S
+        (VP (TO to)
+          (VP (VB be)
+            (ADJP (JJ infested)
+              (PP (IN with)
+                (NP (JJR fewer) (NNS ticks))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB conversely))
+    (NP (JJ migratory) (NN bird) (NN population) (NNS estimates))
+    (VP (VBP suggest)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (PRP$ their) (JJ actual) (NN contribution))
+            (PP (IN in)
+              (S
+                (VP
+                  (VP (VBG hosting))
+                  (, ,)
+                  (VP (VBG infecting))
+                  (, ,)
+                  (CC and)
+                  (VP (VBG disseminating)
+                    (NP (NNS ticks)))))))
+          (VP (MD may)
+            (VP (VB be)
+              (ADJP
+                (ADVP (IN at) (JJS least))
+                (RB as) (JJ important))
+              (PP (IN as)
+                (NP
+                  (NP (DT that))
+                  (PP (IN of)
+                    (NP (JJ other) (NNS hosts))))))))))
+    (. .)))
+

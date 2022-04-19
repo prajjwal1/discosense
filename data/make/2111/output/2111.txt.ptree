@@ -1,0 +1,50 @@
+(ROOT
+  (S
+    (NP (FW i))
+    (ADVP (RB ultimately))
+    (VP (VBD dropped)
+      (PRT (RP out))
+      (PP (IN of)
+        (NP
+          (NP (DT the) (NN school))
+          (PP (RB because) (IN of)
+            (NP (JJ overwhelming) (NN depression))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (ADVP (RB overall))
+      (IN if)
+      (S
+        (NP (PRP you))
+        (VP (VBP think)
+          (SBAR
+            (S
+              (NP (PRP you))
+              (VP (MD can)
+                (VP (VB survive)
+                  (PP (IN in)
+                    (NP
+                      (NP (DT a) (NN situation))
+                      (SBAR
+                        (WHPP (IN in)
+                          (WHNP (WDT which)
+                            (NP (DT all))))
+                        (S
+                          (NP (PRP you))
+                          (ADVP (RB ever))
+                          (VP (VBP do)
+                            (SBAR
+                              (S
+                                (VP (VBZ is)
+                                  (NP (NN study)))))))))))))))))
+    (, ,)
+    (NP (RB then) (NN bua))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (NN place))
+        (PP (IN for)
+          (NP (PRP you)))))
+    (. .)))
+

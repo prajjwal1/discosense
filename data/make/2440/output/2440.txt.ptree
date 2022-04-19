@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (S
+      (VP (VBG having)
+        (VP (VBD said)
+          (WHNP (WDT that)))))
+    (, ,)
+    (NP (JJ i) (NN dont))
+    (VP (VBP think)
+      (NP (PRP$ its)
+        (ADJP (JJ wrong)
+          (S
+            (VP (TO to)
+              (VP
+                (VP (VB spank)
+                  (NP (PRP$ your) (NN kid)))
+                (CC or)
+                (VP (VB wash)
+                  (NP (PRP$ your) (NNS kids) (NN mouth))
+                  (PRT (RP out))
+                  (PP (IN with)
+                    (NP (NN soap))))))))
+        (NN hotsauce)))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN although)
+      (S
+        (NP (FW i))
+        (VP (MD might)
+          (VP (VB have)
+            (NP
+              (NP (DT a) (NN problem))
+              (PP (IN with)
+                (NP (DT a) (NN child))))))))
+    (VP (VBP care)
+      (NP
+        (NP (NN provider))
+        (VP (VBG doing)
+          (NP (PRP it)))))
+    (. .)))
+

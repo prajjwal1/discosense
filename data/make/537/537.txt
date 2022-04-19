@@ -1,0 +1,1 @@
+this may result in loss of all rollback points. though this should not cause loss of configuration as the system applies the alternate ascii file maintained for such situations.

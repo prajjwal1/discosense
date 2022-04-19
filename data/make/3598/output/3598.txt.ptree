@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (NP (NN fish) (NNS species))
+    (VP (VBP tend)
+      (S
+        (VP (TO to)
+          (VP (VB fare)
+            (NP
+              (NP (JJR better) (JJ following) (NN reef) (NN disturbance))
+              (PP (IN than)
+                (NP (NN coral) (NNS species))))
+            (SBAR (IN as)
+              (S
+                (NP (NNS corals))
+                (VP (VBP show)
+                  (SBAR
+                    (S
+                      (NP (JJ limited) (NN recovery)
+                        (CC and)
+                        (NN reef) (NN fish) (NNS assemblages))
+                      (VP (VBP have)
+                        (VP (VBN shown)
+                          (NP (JJ little) (NN change))
+                          (PP (IN as)
+                            (NP
+                              (NP (DT a) (NN result))
+                              (PP (IN of)
+                                (NP (JJ short) (NN term) (NNS disturbances))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP
+        (NP (NN contrast) (NN fish) (NNS assemblages))
+        (PP (IN in)
+          (NP (NNS reefs)))))
+    (NP
+      (NP (DT that) (NN experience) (VBG bleaching) (NN exhibit))
+      (ADJP (RB potentially) (JJ damaging)))
+    (VP (VBZ changes))
+    (. .)))
+

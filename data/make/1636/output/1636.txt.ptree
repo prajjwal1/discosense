@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (NP (PRP$ its) (NN high))
+    (VP (NN time)
+      (SBAR (IN that)
+        (S
+          (NP (DT these) (NNS issues))
+          (VP (VBP are)
+            (VP
+              (VP (VBN named))
+              (CC and)
+              (VP
+                (NP (DT the) (JJ first) (NN step))
+                (PP (IN for)
+                  (NP
+                    (NP (DT the) (NN possibility))
+                    (PP (IN of)
+                      (NP (DT an) (JJ open) (NN discussion)))))))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (SBAR (IN although)
+      (S
+        (NP (DT that))
+        (VP (MD might)
+          (VP (VB be)
+            (NP (JJ wishful) (NN thinking))))))
+    (. .)))
+

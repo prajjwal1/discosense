@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (NP (PRP you))
+    (VP (MD might)
+      (VP (VB say)
+        (SBAR
+          (S
+            (NP (NN ehricke))
+            (VP (VBZ is)
+              (ADVP (RB merely))
+              (VP (VBG restating)
+                (NP (DT the) (JJ obvious) (NN fact))
+                (SBAR (IN that)
+                  (S
+                    (NP (JJ modern) (NN engineering))
+                    (VP (VBZ makes)
+                      (S
+                        (NP (NN spaceflight))
+                        (ADJP (JJ possible))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP
+      (ADVP (RB yet))
+      (IN by)
+      (S
+        (VP (VBG putting)
+          (NP (PRP it))
+          (PP (IN in)
+            (NP (DT this) (JJ biological) (NN perspective))))))
+    (, ,)
+    (NP (PRP he))
+    (VP (VBZ emphasizes)
+      (NP (DT the) (JJR deeper) (NN significance)))
+    (. .)))
+

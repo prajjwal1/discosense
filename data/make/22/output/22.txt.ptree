@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the)
+        (ADJP (JJS oldest) (VBN documented))
+        (NN language))
+      (, ,)
+      (NP (NN sumerian))
+      (, ,))
+    (VP (VBZ records)
+      (NP
+        (NP (DT a) (JJ distinctive) (NN sub) (NN language))
+        (VP
+          (ADVP (RB only))
+          (VBN used)
+          (PP (IN by)
+            (NP (JJ female) (NNS speakers))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB conversely))
+    (NP (JJ many) (JJ indigenous) (NN australian) (NNS languages))
+    (VP (VBP have)
+      (NP
+        (NP (JJ distinctive) (NNS registers))
+        (PP (IN with)
+          (NP
+            (NP (JJ limited) (NNS lexis))
+            (VP (VBN used)
+              (PP (IN by)
+                (NP
+                  (NP (NNS men))
+                  (PP (IN in)
+                    (NP
+                      (NP (DT the) (NN presence))
+                      (PP (IN of)
+                        (NP (PRP$ their) (NNS mothers)))))))
+              (PP (IN in)
+                (NP (NN law))))))))
+    (. .)))
+

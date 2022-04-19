@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (VP (VB hed)
+      (VP (VB be)
+        (ADJP (JJ delighted)
+          (S
+            (VP (TO to)
+              (VP (VB see)
+                (NP (PRP you))
+                (PP (IN over)
+                  (NP (RB there)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN although)
+      (FRAG
+        (VP (VB be)
+          (VP (VBN warned)))))
+    (, ,)
+    (VP (VB hes)
+      (NP
+        (NP (DT a) (NN man))
+        (PP (IN of)
+          (NP (JJ few) (NNS words))))
+      (NP (NN today)))
+    (. .)))
+

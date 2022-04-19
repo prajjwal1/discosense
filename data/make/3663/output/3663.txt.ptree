@@ -1,0 +1,57 @@
+(ROOT
+  (S
+    (S
+      (VP (VBG quoting)
+        (NP
+          (NP (NNS portions))
+          (PP (IN of)
+            (NP (DT a) (NN work)
+              (S
+                (VP (TO to)
+                  (VP (VB criticize)
+                    (NP (PRP it))))))))))
+    (, ,)
+    (ADVP (RB as)
+      (PP (IN in)
+        (NP (DT a) (NN book) (NN review))))
+    (, ,)
+    (VP (VBZ is)
+      (ADJP (JJ transformative)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB likewise))
+      (NP (NN parody))
+      (VP (VBZ is)
+        (ADJP (JJ transformative))
+        (S
+          (VP (VBG repurposing)
+            (NP (DT a) (NN work)
+              (S
+                (VP (TO to)
+                  (VP (VB mock)
+                    (S
+                      (NP (DT the) (NN work))
+                      (NP (PRP itself)))))))))))
+    (CC or)
+    (S
+      (NP
+        (NP (DT the) (NNS principles))
+        (SBAR
+          (S
+            (NP (DT the) (NN work))
+            (VP (VBZ represents)))))
+      (VP (VBZ serves)
+        (NP
+          (NP (DT a)
+            (ADJP (RB very) (JJ different))
+            (NN purpose))
+          (PP (IN from)
+            (NP
+              (NP (DT that))
+              (PP (IN of)
+                (NP (DT the) (JJ original) (NN work))))))))
+    (. .)))
+

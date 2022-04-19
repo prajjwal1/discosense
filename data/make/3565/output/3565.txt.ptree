@@ -1,0 +1,48 @@
+(ROOT
+  (S
+    (SBAR (IN although)
+      (S
+        (NP (NNS technocentrics))
+        (VP (MD may)
+          (VP (VB accept)
+            (SBAR (IN that)
+              (S
+                (NP (JJ environmental) (NNS problems))
+                (VP (VBP exist))))))))
+    (, ,)
+    (NP (PRP they))
+    (VP (VBP do) (RB not)
+      (VP (VB see)
+        (NP (PRP them))
+        (PP (IN as)
+          (NP (NNS problems)))
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (VP (VBN solved)
+                (PP (IN by)
+                  (NP
+                    (NP (DT a) (NN reduction))
+                    (PP (IN in)
+                      (NP (NN industry)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB rather))
+    (NP (JJ environmental) (NNS problems))
+    (VP (VBP are)
+      (VP (VBN seen)
+        (PP (IN as)
+          (NP (NNS problems)))
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (VP (VBN solved)
+                (S
+                  (VP (VBG using)
+                    (NP (NN science)
+                      (CC and)
+                      (NN technology))))))))))
+    (. .)))
+

@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (ADVP (RB now))
+    (NP (DT a) (NNS persons) (NN blood) (NNS relations))
+    (VP (VBP are)
+      (ADJP (JJ separate)
+        (PP (IN from)
+          (NP (CD one) (DT another)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB therefore))
+    (NP (PRP it))
+    (VP (VBZ does) (RB not)
+      (VP (VB follow) (, ,)
+        (SBAR (IN if)
+          (S
+            (NP (DT a) (JJ certain) (NN woman))
+            (VP (VB be)
+              (VP (VBN married)
+                (PP (TO to)
+                  (NP (DT a) (JJ certain) (NN man)))))))
+        (, ,)
+        (SBAR (IN that)
+          (S
+            (NP (PRP she))
+            (VP (VBZ is)
+              (ADVP (RB therefore))
+              (VP (VBN connected)
+                (PP (IN with)
+                  (NP (PDT all) (PRP$ his) (NN kindred)))))))))
+    (. .)))
+

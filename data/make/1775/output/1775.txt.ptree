@@ -1,0 +1,38 @@
+(ROOT
+  (S
+    (NP (EX there))
+    (VP (VBZ has)
+      (VP (VBN been)
+        (NP
+          (NP (DT a) (NN lot))
+          (PP (IN of)
+            (NP (NN talk))))
+        (PP (IN in)
+          (NP
+            (NP
+              (NP (DT the) (JJ digital) (NNS media) (NN trade) (NN press))
+              (PP (IN about)
+                (NP (JJ native) (NN advertising))))
+            (CC and)
+            (NP
+              (NP (DT the) (NNS opportunities))
+              (PP (IN for)
+                (NP (NNS advertisers))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB yet))
+    (NP (RB much) (RBR less))
+    (VP (VBZ has)
+      (VP (VBN been)
+        (VP (VBN written)
+          (PP (IN about)
+            (NP
+              (NP (DT the) (NNS opportunities)
+                (CC and)
+                (NNS implications))
+              (PP (IN for)
+                (NP (JJ digital) (NNS publishers))))))))
+    (. .)))
+

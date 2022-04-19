@@ -1,0 +1,24 @@
+(ROOT
+  (S
+    (NP
+      (NP (JJ statistical) (NNS assumptions))
+      (PP (IN of)
+        (NP
+          (NP (JJ normal) (NN distribution))
+          (CONJP (RB as) (RB well) (IN as))
+          (NP (NN homogeneity)))))
+    (VP (VBD were)
+      (VP (VBN met)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB hence))
+    (NP (DT the) (NN manipulation))
+    (VP (VBZ seems)
+      (S
+        (VP (TO to)
+          (VP (VB be)
+            (ADJP (JJ effective))))))
+    (. .)))
+

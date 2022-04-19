@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (VP (VB optimize)
+      (S
+        (NP (PRP$ your) (NN stance))
+        (ADJP (JJ such)))
+      (SBAR (IN that)
+        (S
+          (NP (PRP you))
+          (VP (VB reduce)
+            (NP (DT the) (NN extension) (NN factor))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP
+        (NP (NN instance))
+        (PP (IN in)
+          (NP (DT a) (NN cave)))))
+    (NP (PRP you))
+    (VP (MD can)
+      (VP (VB turn)
+        (PRT (RP around))
+        (S
+          (VP (TO to)
+            (VP (VB face)
+              (PRT (RP out))
+              (PP (RB instead) (IN of)
+                (S
+                  (VP (VBG craning)
+                    (NP (PRP$ your) (NN neck)
+                      (S
+                        (VP (TO to)
+                          (VP (VB look)
+                            (ADVP (RB up)
+                              (CC and)
+                              (RB back))))))))))))))
+    (. .)))
+

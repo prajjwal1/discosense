@@ -1,0 +1,52 @@
+(ROOT
+  (S
+    (NP (DT the) (JJ open) (NN loop) (NN technique))
+    (VP (VBZ uses)
+      (PP (IN on)
+        (NP (NN line) (JJ transient) (NN stability) (NN assessment)))
+      (SBAR (IN in) (NN order)
+        (S
+          (VP (TO to)
+            (VP (VB adapt)
+              (NP
+                (NP (DT the) (NNS settings))
+                (PP (IN of)
+                  (NP (JJ automatic) (NN system) (NN protection) (NNS schemes))))
+              (PP (TO to)
+                (NP (DT the) (JJ current) (VBG operating) (NNS conditions))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN on)
+      (NP (DT the) (JJ other) (NN hand)))
+    (NP (DT the) (VBN closed) (NN loop) (NN technique))
+    (VP (VBZ uses)
+      (NP
+        (NP (NNS measurements))
+        (PP (IN in)
+          (NP (NN order)))
+        (S
+          (VP (TO to)
+            (VP (VB design)
+              (CC and)
+              (VB trigger)
+              (NP (NNS countermeasures))))))
+      (, ,)
+      (SBAR (IN after)
+        (S
+          (NP (DT the) (NN contingency))
+          (VP (VBZ has)
+            (ADVP (RB actually))
+            (VP (VBN happened)))))
+      (, ,)
+      (ADVP (RB then))
+      (S
+        (VP (TO to)
+          (VP (VB continue)
+            (NP
+              (NP (NN monitoring))
+              (PP (IN in)
+                (NP (DT a) (VBN closed) (NN loop) (NN fashion))))))))
+    (. .)))
+

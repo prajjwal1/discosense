@@ -1,0 +1,67 @@
+(ROOT
+  (S
+    (PP (IN from)
+      (NP (DT this) (NN perspective)))
+    (, ,)
+    (NP
+      (NP (DT the)
+        (ADJP (RBS most) (JJ appropriate))
+        (NN way))
+      (SBAR
+        (S
+          (VP (TO to)
+            (VP (VB respond)
+              (PP (TO to)
+                (NP (NN someone)))
+              (PP (IN like)
+                (NP (NN steele))))))))
+    (VP (VBZ is)
+      (S
+        (VP (TO to)
+          (VP (VB present)
+            (NP (PRP$ their) (JJ own) (NN case))
+            (PP (IN in)
+              (NP
+                (NP
+                  (ADJP (JJ full)
+                    (CC and)
+                    (JJ forceful))
+                  (NNS terms))
+                (, ,)
+                (SBAR (IN as)
+                  (S
+                    (ADVP (RB indeed))
+                    (VP (VBD was)
+                      (VP (VBG happening)
+                        (PP (IN at)
+                          (NP (NN wollongong)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP
+        (NP (JJ short))
+        (PP (IN in)
+          (NP (DT a) (JJ free) (NN society)))))
+    (NP
+      (NP (DT the) (NN response))
+      (PP (TO to)
+        (NP
+          (ADJP (JJ false)
+            (CC and)
+            (JJ damaging))
+          (NN speech))))
+    (VP (MD should)
+      (VP (VB be)
+        (NP (JJR more) (NN speech))
+        (, ,)
+        (ADVP (RB not)
+          (NP (DT an) (NN attempt)))
+        (S
+          (VP (TO to)
+            (VP (VB shut)
+              (PRT (RP up))
+              (NP (DT the) (NN speaker)))))))
+    (. .)))
+

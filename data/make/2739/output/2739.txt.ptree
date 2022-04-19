@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (ADVP (RB however))
+    (, ,)
+    (NP (DT this) (NN instability))
+    (VP (VBZ is) (RB not)
+      (NP
+        (NP (DT the) (JJ primary) (NN agent))
+        (PP (IN of)
+          (NP (NN explosion)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB rather))
+    (NP (PRP it))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (JJ acoustic) (NN power))
+        (RRC
+          (RRC
+            (VP (VBN generated)
+              (PP (IN in)
+                (NP (DT the) (JJ inner) (JJ turbulent) (NN region)))))
+          (CC and)
+          (RRC
+            (ADVP (RBS most) (RB importantly)
+              (PP (IN by)
+                (NP
+                  (NP (DT the) (NN excitation))
+                  (CC and)
+                  (NP (JJ sonic) (NNS damping)))))
+            (PP (IN of)
+              (NP (JJ core) (NN g) (NN mode) (NNS oscillations)))))))
+    (. .)))
+

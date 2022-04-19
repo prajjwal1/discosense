@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (NP (NN ive))
+    (VP (VBD kept)
+      (SBAR
+        (S
+          (NP (DT the) (NN load))
+          (VP
+            (VP (VBD tarped))
+            (, ,)
+            (CC but)
+            (VP (VBD discovered)
+              (SBAR (IN that)
+                (S
+                  (NP (DT the) (NN tarp))
+                  (VP (VBD was)
+                    (ADVP (RB almost))
+                    (VP (VBN eaten)
+                      (PP (IN through) (IN from)
+                        (NP
+                          (NP (DT the) (NNS bacteria))
+                          (PP (IN in)
+                            (NP (DT the) (NN load))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (RB hence) (DT the) (JJ whole) (NN load))
+    (VP (VBD was)
+      (ADJP (RB completely) (JJ soaked)
+        (SBAR
+          (S
+            (VP (VBD weighed)
+              (SBAR
+                (ADVP (JJ triple))
+                (WHNP (WP what))
+                (S
+                  (NP (PRP it))
+                  (ADVP (RB usually))
+                  (VP (VBZ does)))))))))
+    (. .)))
+

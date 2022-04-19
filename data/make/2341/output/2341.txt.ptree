@@ -1,0 +1,44 @@
+(ROOT
+  (S
+    (PP
+      (ADVP (RBR further))
+      (IN unlike)
+      (NP
+        (NP (DT the) (NNS starbucks)
+          (CC and)
+          (NNS caribous))
+        (PP (IN of)
+          (NP (DT the) (NN world)))))
+    (, ,)
+    (NP (EX there))
+    (VP (VBP are) (RB not)
+      (NP
+        (NP
+          (QP (CD seventeen) (CD million))
+          (NNS choices))
+        (PP (IN on)
+          (NP (DT the) (NN menu)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB rather))
+    (NP (NNS zuzus))
+    (VP (VBZ focuses)
+      (PP (IN on)
+        (NP
+          (NP
+            (NP
+              (QP (DT a) (NN dozen))
+              (JJ loose) (NN leaf) (NNS teas))
+            (PP (IN from)
+              (NP (RB around) (DT the) (NN world)))
+            (, ,)
+            (VP (VBP pour)
+              (PRT (RP over))
+              (NP (NN intelligentsia) (NN coffee)))
+            (, ,))
+          (CC and)
+          (NP (DT a) (JJ few) (NNS nibbles)))))
+    (. .)))
+

@@ -1,0 +1,55 @@
+(ROOT
+  (S
+    (NP (DT some) (NNS people))
+    (VP (MD may)
+      (VP (VB have)
+        (NP
+          (NP (DT a) (NN reaction))
+          (VP (VBN called)
+            (NP
+              (NP (NN serotonin) (NN syndrome))
+              (, ,)
+              (SBAR
+                (WHNP (WDT which))
+                (S
+                  (VP (MD can)
+                    (VP (VB be)
+                      (NP
+                        (NP (NN life))
+                        (VP (VBG threatening))))))))))
+        (, ,)
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP (PRP they))
+            (VP (VBP use)
+              (NP (NN axert)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (ADJP (JJ particular)))
+    (NP (DT this) (NN reaction))
+    (VP (MD may)
+      (VP (VB occur)
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP (PRP they))
+            (VP (VBP use)
+              (NP (NN axert))
+              (ADVP (RB together))
+              (PP (IN with)
+                (NP
+                  (NP (JJ certain) (NNS types))
+                  (PP (IN of)
+                    (NP
+                      (NP (NNS antidepressants))
+                      (VP (VBN known)
+                        (PP (IN as)
+                          (NP (NNS ssris)
+                            (CC or)
+                            (NNS snris)))))))))))))
+    (. .)))
+

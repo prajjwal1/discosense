@@ -1,0 +1,43 @@
+(ROOT
+  (S (CC but)
+    (NP (NN fish)
+      (CC and)
+      (NN game) (NN commissioner) (NNP frank) (NNP rue))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (DT the) (JJ federal) (NN government))
+          (VP (VBZ is)
+            (ADJP (JJ unlikely)
+              (S
+                (VP (TO to)
+                  (VP (VB spend)
+                    (NP (DT the) (NN money))
+                    (SBAR (IN if)
+                      (S
+                        (NP (DT the) (NN state))
+                        (VP (VBZ lays)
+                          (PRT (RP off))
+                          (NP (NNS researchers)
+                            (S
+                              (VP (TO to)
+                                (VP (VB do)
+                                  (NP (DT the) (NN work)))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB overall))
+    (NP (DT the) (NN house) (NN finance) (NN plan))
+    (VP (VBZ cuts)
+      (NP
+        (QP (CD 2.2) (CD million)))
+      (PP (IN from)
+        (NP
+          (NP (JJ knowles) (NN request))
+          (PP (IN for)
+            (NP (NN fish)
+              (CC and)
+              (NN game) (NN funding))))))
+    (. .)))
+

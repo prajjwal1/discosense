@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (NP (PRP it))
+    (VP (VBZ does) (RB not)
+      (VP (VB constitute)
+        (NP (JJ prior) (NN art))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN contrast) (NN document)))
+    (VP (VBZ is)
+      (NP (JJ prior) (NN art))
+      (SBAR (IN as)
+        (S
+          (VP (VBZ regards)
+            (NP
+              (NP (DT the) (NN method))
+              (VP (VBG being)
+                (VP (VBN carried)
+                  (PRT (RP out))
+                  (PP (IN with)
+                    (NP (NN seq) (NN id) (NN no.))))))))))
+    (NP
+      (NP (CD 2))
+      (CC or)
+      (NP (NN no.) (CD 3)))
+    (. .)))
+

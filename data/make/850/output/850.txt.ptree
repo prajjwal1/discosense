@@ -1,0 +1,51 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (NNS differences))
+      (PP (IN between)
+        (NP (NNS baptists)
+          (CC and)
+          (NNS mennonites))))
+    (VP (VBP are)
+      (ADVP (RB thus))
+      (NP
+        (NP (NN part))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (JJR larger) (NN distinction))
+            (PP (IN between)
+              (NP (DT the)
+                (ADJP (JJ evangelical)
+                  (CC and)
+                  (JJ anabaptist))
+                (NNS traditions)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nevertheless))
+    (NP
+      (NP (DT the) (JJ close) (NNS ties)
+        (CC and)
+        (NNS similarities))
+      (PP (IN between)
+        (NP (DT the) (CD two) (NNS groups))))
+    (VP (VBP have)
+      (VP (VBN generated)
+        (NP (DT a) (JJ long) (NN debate))
+        (PP (IN among)
+          (NP (NNS baptists)))
+        (, ,)
+        (PP (RB particularly) (IN in)
+          (NP (DT the) (VBN united) (NNS states)))
+        (, ,)
+        (PP (IN over)
+          (SBAR (IN whether)
+            (S
+              (NP (NNS baptists))
+              (VP (VBP are)
+                (NP (NNS anabaptists)
+                  (CC or)
+                  (NNS protestants))))))))
+    (. .)))
+

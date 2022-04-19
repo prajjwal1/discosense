@@ -1,0 +1,1 @@
+when i try to install software updates using thesoftware updategui, i am asked for the root password. although i can su in a terminal, the password is not recognized as correct in the gui prompt.

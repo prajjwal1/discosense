@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (NP (NN abraham))
+    (VP (VBD longed)
+      (PP (IN for)
+        (NP (DT an) (NN earth) (NN run)))
+      (PP (IN after)
+        (NP (NNS gods) (NN order)))
+      (, ,)
+      (SBAR
+        (WHADVP (WRB where))
+        (S
+          (NP (NNS people))
+          (VP (MD would)
+            (VP (VB dwell)
+              (ADVP (RB together))
+              (PP (IN in)
+                (NP (NN peace) (, ,) (NN harmony) (, ,) (NN blessing) (, ,) (NN beauty)
+                  (CC and)
+                  (NN liberty))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB because) (IN of)
+      (NP (DT that) (NN hope)))
+    (NP (PRP he))
+    (VP (VBD was)
+      (ADJP (JJ content)
+        (S
+          (VP (TO to)
+            (VP (VB dwell)
+              (NP (PRP$ his) (JJ whole) (NN life))
+              (PP (IN in)
+                (NP (NNS tents)))
+              (, ,)
+              (S
+                (VP (VBG looking)
+                  (PP (IN for)
+                    (NP (NNS gods) (NN fulfillment))))))))))
+    (. .)))
+

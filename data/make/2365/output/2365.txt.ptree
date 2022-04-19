@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN construction)))
+    (, ,)
+    (NP (DT the) (NN interconnecting))
+    (VP (VBP pile)
+      (PP (IN than)
+        (NP
+          (NP (DT that))
+          (PP (IN of)
+            (NP (DT the) (CD two) (NN fabric) (NNS layers))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB particularly))
+    (SBAR (IN in) (NN order)
+      (S
+        (VP (TO to)
+          (VP (VB render)
+            (S
+              (NP (DT the) (JJ interconnecting) (NN pile) (NN yarn))
+              (ADJP (JJ resilient)))))))
+    (, ,)
+    (NP (DT the) (NN yarn))
+    (VP (MD may)
+      (VP (VB be)
+        (VP (VBN made)
+          (PP (IN of)
+            (NP
+              (NP (DT a)
+                (ADJP (JJ resilient))
+                (NN material))
+              (PP (JJ such) (IN as)
+                (NP (NN monofilament)
+                  (CC or)
+                  (NN multifilament) (NN polyester) (, ,) (NNS nylon) (, ,) (FW etc.))))))))
+    (. .)))
+

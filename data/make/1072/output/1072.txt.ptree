@@ -1,0 +1,44 @@
+(ROOT
+  (S
+    (NP (DT this) (NN project))
+    (VP (VBZ examines)
+      (NP
+        (NP (DT the) (JJ political) (NN background))
+        (PP (IN of)
+          (NP
+            (NP (PDT such) (DT a) (NN paradigm))
+            (PP (IN as)
+              (NP (JJ social) (NN policy)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (ADJP (JJ particular)))
+    (NP (PRP it))
+    (VP (VBZ asks)
+      (SBAR
+        (WHPP (TO to)
+          (WHNP (WDT what) (NN extent)))
+        (S
+          (NP (JJ social) (NN policy))
+          (VP (VBZ has)
+            (VP (VBN played)
+              (NP
+                (NP
+                  (NP (DT a) (NN role))
+                  (PP (IN in)
+                    (NP (NN nation) (NN building) (NNS efforts))))
+                (, ,)
+                (CC and)
+                (NP
+                  (NP (NN mobilization))
+                  (PP (IN of)
+                    (NP (JJ political) (NN support)))))
+              (PP (IN for)
+                (NP
+                  (NP (DT the) (NN regime))
+                  (PP (IN in)
+                    (NP (NN power))))))))))
+    (. .)))
+

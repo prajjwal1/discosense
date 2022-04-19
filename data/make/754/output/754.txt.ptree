@@ -1,0 +1,59 @@
+(ROOT
+  (S
+    (S
+      (ADVP (RB occasionally))
+      (NP (DT the) (JJ authors) (JJ political) (NNS biases))
+      (VP (VBP come)
+        (PP (IN into)
+          (NP
+            (NP (NN play))
+            (SBAR
+              (S
+                (S
+                  (NP (PRP they))
+                  (VP (VBP are)
+                    (ADJP (JJ obvious))))
+                (CC and)
+                (S
+                  (NP (EX there))
+                  (VP (VBP are)
+                    (NP (JJ unsupported) (NNS generalizations))))))))))
+    (, ,)
+    (CC but)
+    (S
+      (PP (IN for)
+        (NP (DT the) (JJS most) (NN part)))
+      (NP (PRP they))
+      (VP (VBP appear)
+        (S
+          (VP (TO to)
+            (VP (VB take)
+              (NP (DT an) (JJ objective) (NN approach)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP
+        (NP (NN sum))
+        (SBAR (IN if)
+          (S
+            (NP (PRP you))
+            (VP (VBP want)
+              (S
+                (VP (TO to)
+                  (VP
+                    (VP (VB go)
+                      (PP (IN beyond)
+                        (NP (DT the) (JJ usual) (NN canal) (NN narrative))))
+                    (, ,)
+                    (CC and)
+                    (VP (VB spend)
+                      (NP (DT some) (NN time) (NN thinking)))))))))))
+    (, ,)
+    (ADVP (RB then))
+    (VP (VB go)
+      (PP (IN for)
+        (NP (PRP it))))
+    (. .)))
+

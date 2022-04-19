@@ -1,0 +1,51 @@
+(ROOT
+  (S
+    (ADVP (RB however))
+    (S
+      (NP
+        (NP (DT the) (NN excitement))
+        (PP (IN of)
+          (NP (DT the) (NN situation))))
+      (VP (VBD overcame)
+        (NP (DT the) (NN professor))))
+    (CC and)
+    (S
+      (NP (PRP he))
+      (VP (VBD took)
+        (NP (DT the) (NN stone))
+        (SBAR (IN while)
+          (S
+            (NP (DT the) (NNS others))
+            (VP (VBP werent)
+              (S
+                (VP (VBG looking))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB because) (IN of)
+      (NP (DT this)))
+    (NP (PRP they))
+    (VP (VBD were)
+      (VP (VBN driven)
+        (PP (TO to)
+          (NP
+            (NP (DT the) (JJS deepest) (NN part))
+            (PP (IN of)
+              (NP (DT the) (NNS ruins)))))
+        (PP (IN by)
+          (NP
+            (NP (NNS cofagrigus))
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (VP (VBD was)
+                  (SBAR
+                    (WHADJP (RB just) (WP what))
+                    (S
+                      (NP (PRP he))
+                      (VP (VBD had)
+                        (VP (VBN hoped)
+                          (PP (IN for)))))))))))))
+    (. .)))
+

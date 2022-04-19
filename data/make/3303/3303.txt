@@ -1,0 +1,1 @@
+on the one hand, the image acquisition speed is relatively slow for large fields of view because of the need to scan the sample in order to retrieve an image. on the other hand it can be very fast for smaller fields of view recordings with up to 80 frames per second have been shown.

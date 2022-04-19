@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (NP (DT this))
+    (VP (MD should)
+      (VP (VB be)
+        (ADJP (JJ possible))
+        (PP (RB because) (IN of)
+          (NP
+            (NP
+              (NP (DT the) (JJ implicit) (NN nature))
+              (PP (IN of)
+                (NP (NN coupling))))
+            (CC and)
+            (NP
+              (NP (RB hence) (DT no) (NN barrier))
+              (PP (IN on)
+                (NP (NN timescale))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN although)
+      (S
+        (NP (DT the) (NN non))
+        (VP (VBZ linear)
+          (NP (JJ outer) (NNS iterations)))))
+    (VP (MD may)
+      (VP (VB put)
+        (NP (DT a) (NN cap))
+        (PP (IN on)
+          (NP (NN cfl)))))
+    (. .)))
+

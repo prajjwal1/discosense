@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (NP (PRP we))
+    (VP (VBP show)
+      (SBAR (IN that)
+        (S
+          (NP (DT this) (NN algebra) (NN representation))
+          (VP (MD can)
+            (VP
+              (VP (VB be)
+                (VP (VBN defined)
+                  (PP (IN on)
+                    (NP
+                      (NP (DT the) (JJ sole) (NN basis))
+                      (PP (IN of)
+                        (NP
+                          (NP (DT a) (NN quantization) (NN map))
+                          (PP (IN of)
+                            (NP (DT the) (JJ classical) (NN poisson) (NN algebra)))))))))
+              (, ,)
+              (CC and)
+              (VP (VB identify)
+                (NP (DT the) (NNS conditions))
+                (PP (IN for)
+                  (NP (PRP$ its) (NN existence)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (JJ particular) (DT the) (JJ corresponding) (NN non)))
+    (NP
+      (NP (JJ commutative) (NN star) (NN product))
+      (VP (VBN carried)
+        (PP (IN by)
+          (NP (DT this) (NN representation)))))
+    (VP (VBZ is)
+      (VP (VBN obtained)
+        (ADVP (RB directly))
+        (PP (IN from)
+          (NP
+            (NP (DT the) (NN quantization) (NN map))
+            (PP (IN via)
+              (NP (NN deformation) (NN quantization)))))))
+    (. .)))
+

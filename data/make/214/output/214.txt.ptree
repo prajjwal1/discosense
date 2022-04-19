@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (ADVP (RB moreover))
+    (, ,)
+    (NP (NN honda) (NNS engines))
+    (VP (VBP meet)
+      (S
+        (NP (DT the) (JJ new) (NN carb))
+        (VP (VB exhaust)
+          (CC and)
+          (VB evaporative)
+          (NP (NNS emissions) (NNS requirements))
+          (PP (IN without)
+            (NP
+              (NP (DT the) (NN use))
+              (PP (IN of)
+                (NP (DT a) (JJ catalytic) (NN converter))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN as)
+      (NP (DT a) (NN result)))
+    (NP
+      (NP (DT the) (JJ overall) (NN emission) (NNS levels))
+      (PP (IN from)
+        (NP (NN honda) (NNS engines))))
+    (VP (VBP have)
+      (VP (VBN been)
+        (VP (VBN reduced)
+          (PP (IN by)
+            (NP
+              (QP (JJR more) (IN than) (CD 32)))
+            (NP
+              (NP (NN percent))
+              (IN as)))
+          (PP (VBN compared)
+            (PP (TO to)
+              (NP (CD 1995)))))))
+    (. .)))
+

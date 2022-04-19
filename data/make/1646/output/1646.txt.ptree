@@ -1,0 +1,56 @@
+(ROOT
+  (S
+    (NP (DT a) (JJ recent) (NN rasmussen) (NN poll))
+    (VP (VBD showed)
+      (NP (NN mccain))
+      (ADVP (RB up)
+        (NP (CD 8) (NN %)))
+      (PP (IN in)
+        (NP
+          (NP (NN florida))
+          (, ,)
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (VP (VBZ is)
+                (ADJP
+                  (ADJP (RB far) (RBR more) (JJ consistent))
+                  (PP (IN with)
+                    (NP
+                      (NP (DT the) (JJ south) (NN florida) (NN poll))
+                      (PP (IN than)
+                        (NP (DT a) (JJ quinnipiac) (NN survey))))))
+                (S
+                  (VP (VBG showing)
+                    (NP (NN obama))
+                    (PRT (RP up))
+                    (PP (IN by)
+                      (NP
+                        (NP (CD 4) (NN %))
+                        (PP (IN in)
+                          (NP (NN florida)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB similarly))
+      (NP (NN rasmussen))
+      (VP (VBZ has)
+        (VP (VBN obama)
+          (PRT (RP up))
+          (NP (CD 4) (NN %))
+          (PP (IN in)
+            (NP (NN pennsylvana))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (NN quinnipiac))
+      (VP (VBD had)
+        (VP (VBN obama)
+          (PRT (RP up))
+          (NP (CD 12) (NN %))
+          (PP (IN in)
+            (NP (DT the) (NN state))))))
+    (. .)))
+

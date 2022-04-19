@@ -1,0 +1,24 @@
+(ROOT
+  (S
+    (NP (FW i))
+    (VP (VBP am)
+      (ADJP (JJ mature)
+        (PP (IN for)
+          (NP
+            (NP (PRP$ my) (NN age))
+            (, ,)
+            (NP (PRP$ its)
+              (QP (RB really) (CD 12)))
+            (, ,)
+            (CC and)
+            (NP (NN love) (NN comedy))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB though))
+    (NP (NN horror))
+    (VP (VBZ is)
+      (NP (PRP$ my) (JJ favorite) (NN genre)))
+    (. .)))
+

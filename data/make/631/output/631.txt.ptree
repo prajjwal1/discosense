@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (S
+      (ADJP (JJ similar)
+        (PP (TO to)
+          (NP (DT the) (VBG underwriting) (NN process)))))
+    (, ,)
+    (NP (NNS carriers))
+    (VP (VBP need)
+      (S
+        (VP (TO to)
+          (VP (VB evaluate)
+            (NP (PRP$ their) (JJ overall) (VBG operating) (NN model))
+            (PP (IN as)
+              (NP
+                (NP (NN part))
+                (PP (IN of)
+                  (S
+                    (VP (VBG developing)
+                      (NP (DT an) (VBG underwriting) (NN technology) (NN solution)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB particularly))
+    (NP (NNS carriers))
+    (VP (VBP need)
+      (S
+        (VP (TO to)
+          (VP (VB know)
+            (SBAR
+              (WHADVP (WRB how) (RB well))
+              (S
+                (NP (PRP$ their) (NN authority) (NN structure))
+                (VP (MD can)
+                  (VP (VB contribute)
+                    (PP (TO to)
+                      (NP (NN business) (NN improvement)))))))))))
+    (. .)))
+

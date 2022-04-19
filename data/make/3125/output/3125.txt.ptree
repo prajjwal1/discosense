@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (NP (PRP$ its))
+    (ADVP (RB still))
+    (PP (IN like)
+      (NP (DT a) (NN dream)))
+    (NP (PRP we))
+    (VP (VBP have)
+      (NP (DT no) (NNS kids)))
+    (. .)))
+
+(ROOT
+  (S (CC but)
+    (S
+      (VP (VBG watching)
+        (S
+          (NP (PRP you))
+          (NP (PRP we)))))
+    (VP (VBP see)
+      (NP (PRP$ your) (NN heart)))
+    (. .)))
+

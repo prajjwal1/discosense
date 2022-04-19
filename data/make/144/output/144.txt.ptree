@@ -1,0 +1,49 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNS languages))
+      (VP (VBN changed) (, ,)
+        (PP (IN with)
+          (S
+            (NP (DT many))
+            (VP (VBG becoming)
+              (NP
+                (ADJP (JJ extinct)
+                  (NP
+                    (NP (NNS crafts))
+                    (, ,)
+                    (NP (NNS skills))))
+                (NN everything)))))))
+    (VP (VBD was)
+      (VP (VBN gone)))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN sum)))
+    (NP
+      (NP (DT the) (NNS lives))
+      (PP (IN of)
+        (NP (NNS aboriginals))))
+    (VP (VBD had)
+      (VP (VBN been)
+        (NP
+          (NP (NNP revolutionized))
+          (, ,)
+          (RRC
+            (ADVP (RB mostly))
+            (PP (IN by)
+              (NP (JJ outside) (NNS forces)))))
+        (PRN (CC but)
+          (ADVP (RB also)))
+        (, ,)
+        (PP (TO to)
+          (NP (DT a)
+            (ADJP (RB very) (JJ minor))
+            (NN extent)))
+        (, ,)
+        (PP (IN from)
+          (NP (IN within)))))
+    (. .)))
+

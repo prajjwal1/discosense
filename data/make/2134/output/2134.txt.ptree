@@ -1,0 +1,60 @@
+(ROOT
+  (S
+    (NP (DT the) (NN reason))
+    (VP (VBD stemmed)
+      (PP (IN from)
+        (NP (JJ political) (NNS ones)))
+      (PP (IN from)
+        (NP (JJ southern) (NN italy)))
+      (, ,)
+      (SBAR
+        (WHADVP (WRB where))
+        (S
+          (NP (DT the) (NNS priests))
+          (ADVP (RB often))
+          (VP (VBD worked)
+            (PP (IN in)
+              (NP (NNS cahoots)))
+            (PP (IN with)
+              (NP (DT the) (NNS landowners)))
+            (, ,)
+            (PP (IN for)
+              (SBAR
+                (WHNP (WP whom))
+                (S
+                  (NP
+                    (NP
+                      (ADJP (RB very) (JJ poor))
+                      (NNS sicilians))
+                    (CC and)
+                    (NP (JJ southern) (NNS italians)))
+                  (VP (VBD had)
+                    (PP (TO to)
+                      (NP (NN slave)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB consequently))
+    (NP (JJ male) (NNS italians))
+    (VP (VBD came)
+      (S
+        (VP (TO to)
+          (VP (VB see)
+            (NP (NNS priests))
+            (PP (IN as)
+              (NP
+                (NP (DT the) (JJ bad) (NNS guys))
+                (, ,)
+                (NP
+                  (NP (DT a) (NN view))
+                  (SBAR
+                    (S
+                      (NP (PRP they))
+                      (VP (VBD carried)
+                        (PP (IN with)
+                          (NP (PRP them)))
+                        (PP (TO to)
+                          (NP (NN america)))))))))))))
+    (. .)))
+

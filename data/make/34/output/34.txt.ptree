@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (NP
+      (NP (NN coolio))
+      (SBAR
+        (S
+          (NP
+            (NP (PRP$ its))
+            (VP (VBN been)
+              (NP
+                (NP (DT a) (NN while))
+                (PP (IN since)
+                  (NP (FW i))))))
+          (VP (VBP collate)
+            (NP (DT this) (NN list)
+              (CC and)
+              (JJ many) (JJR more) (JJ new) (NNS tools))))))
+    (VP (VBP have)
+      (VP (VBN come)
+        (CC and)
+        (VBN gone)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nonetheless))
+    (PP
+      (NP (NNS thanks))
+      (IN for)
+      (S
+        (VP (VBG giving)
+          (NP (NNS others)))))
+    (NP (VBP the))
+    (VP (VBZ heads)
+      (PRT (RP up)))
+    (. .)))
+

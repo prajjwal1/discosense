@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (NP (PRP they))
+    (VP
+      (VP (VBD rose)
+        (ADVP (RB often))
+        (PP (TO to)
+          (NP (NN distinction))))
+      (, ,)
+      (CC and)
+      (VP (VBD held)
+        (NP (JJ important) (NNS offices))
+        (PP (IN in)
+          (NP (DT the) (NN state)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB hence))
+    (NP (DT the) (NN word))
+    (VP (VBZ is)
+      (ADVP (RB sometimes))
+      (VP (VBN used)
+        (PP (IN with)
+          (NP (NN reference)))
+        (PP (TO to)
+          (NP
+            (NP (PDT such) (DT an) (NN officer))
+            (PP (IN of)
+              (NP
+                (NP (NN state))
+                (, ,)
+                (NP (NN act) (CD 827))))))))
+    (. .)))
+

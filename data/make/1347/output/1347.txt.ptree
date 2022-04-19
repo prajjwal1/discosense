@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (NP (PRP it))
+    (VP (VBD fell)
+      (PP (RB not) (IN within)
+        (NP (JJ arbaces) (NNS plans)))
+      (S
+        (VP (TO to)
+          (VP (VB show)
+            (NP (PRP himself))
+            (ADVP
+              (ADVP (RB too) (RB often))
+              (PP (TO to)
+                (NP (PRP$ his) (NN ward))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB consequently))
+    (NP (PRP it))
+    (VP (VBD was)
+      (NP (DT some) (NN time))
+      (SBAR (IN before)
+        (S
+          (NP (PRP he))
+          (VP (VBD became)
+            (ADJP (JJ aware))
+            (PP (IN of)
+              (NP
+                (NP (DT the) (NN warmth))
+                (PP (IN of)
+                  (NP
+                    (NP (DT the) (NN friendship))
+                    (SBAR
+                      (WHNP (WDT that))
+                      (S
+                        (VP (VBD was)
+                          (VP (VBG growing)
+                            (PRT (RP up))
+                            (PP (IN between)
+                              (NP
+                                (NP (NN ione))
+                                (CC and)
+                                (NP (DT the) (JJ handsome) (NN greek))))))))))))))))
+    (. .)))
+

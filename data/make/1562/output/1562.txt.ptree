@@ -1,0 +1,58 @@
+(ROOT
+  (SINV (CC nor)
+    (VBZ is)
+    (NP (PRP it))
+    (NP
+      (NP (DT any) (NN disparagement))
+      (PP (TO to)
+        (NP (NN liberty)))
+      (, ,)
+      (SBAR (IN that)
+        (S
+          (NP (JJ such))
+          (VP
+            (VP (VBZ is))
+            (, ,)
+            (CC and)
+            (VP (VBZ ought)
+              (S
+                (VP (TO to)
+                  (VP (VB be)
+                    (NP (DT the) (NN case))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN on)
+      (NP (DT the) (NN contrary)))
+    (NP
+      (NP (PRP$ its) (JJS greatest) (NN praise))
+      (NP (PRP$ its) (JJ proudest) (NN distinction)))
+    (VP (VBZ is) (, ,)
+      (SBAR (IN that)
+        (S
+          (NP (DT an)
+            (ADJP (RB all) (JJ wise))
+            (NN providence))
+          (VP (VBZ has)
+            (VP (VBN reserved)
+              (NP (PRP it))))))
+      (, ,)
+      (SBAR (IN as)
+        (S
+          (NP
+            (NP (DT the) (NN noblest))
+            (CC and)
+            (NP (JJS highest)))
+          (VP (VB reward)
+            (PP (IN for)
+              (NP
+                (NP (DT the) (NN development))
+                (PP (IN of)
+                  (NP (PRP$ our) (NNS faculties)))
+                (, ,)
+                (ADJP (JJ moral)
+                  (CC and)
+                  (JJ intellectual))))))))
+    (. .)))
+

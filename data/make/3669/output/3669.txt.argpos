@@ -1,0 +1,2 @@
+conn:additionally conn_POS:RB sent_pos:0 NA
+conn:also conn_POS:RB prev1:helicopters prev1_POS:NNS with_prev1_full:helicopters_also with_prev1_POS_full:NNS_RB prev2:whirlwind prev2_POS:NN with_prev2_full:whirlwind_also with_prev2_POS_full:NN_RB NA

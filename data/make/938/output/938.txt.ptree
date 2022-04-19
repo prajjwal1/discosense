@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (CD 1941)))
+    (NP (PRP he))
+    (VP (VBD was)
+      (VP (VBN fired)
+        (PP (IN from)
+          (NP (DT a) (NN teaching) (NN post)))
+        (PP (IN at)
+          (NP
+            (NP (DT the) (JJ kansas) (NN city) (NN art) (NN institute))
+            (PP (IN for)
+              (NP (JJ homophobic) (NNS remarks)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nevertheless))
+    (NP (PRP he))
+    (VP (VBD was)
+      (VP (VBN considered)
+        (NP
+          (NP (CD one))
+          (PP (IN of)
+            (NP
+              (NP (DT the)
+                (ADJP (RBS most) (JJ important))
+                (NNS artists))
+              (PP (IN in)
+                (NP (NN america))))))
+        (PP (IN during)
+          (NP (DT the) (CD 1930s)
+            (CC and)
+            (CD 40s)))))
+    (. .)))
+

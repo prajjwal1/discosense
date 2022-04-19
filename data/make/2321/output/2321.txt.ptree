@@ -1,0 +1,48 @@
+(ROOT
+  (S
+    (NP (JJ secondary) (NNS outcomes))
+    (VP (VBD included)
+      (NP
+        (NP
+          (NP (JJ temporal) (NNS changes))
+          (PP (IN in)
+            (NP (NN asthma) (NN medication) (NNS prescriptions))))
+        (, ,)
+        (NP
+          (NP (DT the) (NN frequency))
+          (PP (IN of)
+            (NP (JJ asthma) (JJ related) (NN emergency) (NN room) (NNS visits))))
+        (, ,)
+        (CC and)
+        (NP (NN asthma) (VBN related) (NNS hospitalizations))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN contrast)))
+    (NP (EX there))
+    (VP (VBD were)
+      (NP
+        (NP (DT no) (JJ significant) (NNS reductions))
+        (PP (IN in)
+          (NP
+            (NP (DT these) (NNS outcomes))
+            (PP (IN in)
+              (NP
+                (NP (NNS children))
+                (PP (IN with)
+                  (NP (NN asthma)))))))
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP (VBD did) (RB not)
+              (VP (VB undergo)
+                (PP (IN at) (IN over)
+                  (NP (DT an) (NN overlapping)
+                    (S
+                      (VP (VB follow)
+                        (PRT (RP up))
+                        (NP (NN period))))))))))))
+    (. .)))
+

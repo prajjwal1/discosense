@@ -1,0 +1,47 @@
+(ROOT
+  (S
+    (PP (RB instead) (IN of)
+      (S
+        (VP (VBG changing)
+          (NP
+            (NP
+              (NP (DT the) (NN time))
+              (VP (VBN spent)
+                (S
+                  (VP (VBG working)
+                    (PRT (RP out))))))
+            (CC or)
+            (NP
+              (NP (DT the) (NNS calories))
+              (VP (VBN consumed)))))))
+    (, ,)
+    (ADVP (RB maybe))
+    (VP (VBP try)
+      (NP
+        (NP (DT a) (JJ different) (NN form))
+        (PP (IN of)
+          (NP (NN exercise))))
+      (ADVP (DT all) (RB together)))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP
+        (NP (NN instance))
+        (PP (RB instead) (IN of)
+          (S
+            (VP (VBG using)
+              (NP (NN weight) (NNS machines)))))))
+    (, ,)
+    (NP
+      (NP (NN use) (JJ free) (NNS weights))
+      (PP (IN for)
+        (NP (DT the) (NN extraeffortit))))
+    (VP (VBZ takes)
+      (S
+        (VP (TO to)
+          (VP (VB stabilize)
+            (NP (DT the) (NNS weights))))))
+    (. .)))
+

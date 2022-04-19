@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN addition)))
+    (, ,)
+    (PP (IN as)
+      (NP (DT an) (NN implementation) (NN mode)))
+    (, ,)
+    (NP
+      (NP (DT the) (JJ upper) (NN surface))
+      (PP (IN of)
+        (NP (DT the) (NN resin) (NN layer))))
+    (VP (VBZ is)
+      (VP (VBN disposed)
+        (PP (IN at)
+          (NP
+            (NP (DT a) (JJR lower) (NN position))
+            (PP (IN than)
+              (NP
+                (NP (DT the) (JJ upper) (NN surface))
+                (PP (IN of)
+                  (NP (DT the) (JJ burying) (NNS layers)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thereby))
+    (NP (DT a) (VBG floating) (NN wiring))
+    (VP (VBZ is)
+      (VP (VBN disposed)
+        (PP (IN over)
+          (NP (DT the) (NN groove)))))
+    (. .)))
+

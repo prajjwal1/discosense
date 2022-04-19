@@ -1,0 +1,51 @@
+(ROOT
+  (S
+    (PP (IN for)
+      (NP (NN instance)))
+    (, ,)
+    (NP (NN owiro))
+    (VP (VBD explained)
+      (SBAR (IN that)
+        (S
+          (PP (RB instead) (IN of)
+            (S
+              (VP
+                (VP (VBG exporting)
+                  (NP (NN cotton)))
+                (CC and)
+                (VP (VBG importing)
+                  (NP (NNS goods))))))
+          (, ,)
+          (NP (NNS textiles))
+          (VP (MD could)
+            (VP (VB be)
+              (VP (VBN produced)
+                (ADVP (RB directly))
+                (PP (IN in)
+                  (NP (NN africa)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB likewise))
+    (PP (RB instead) (IN of)
+      (S
+        (VP (VBG importing)
+          (NP (NN pineapple) (NN juice))
+          (PP (IN from)
+            (NP
+              (NP (NN brazil))
+              (, ,)
+              (NP (NN juice) (NNS factories)))))))
+    (VP (MD could)
+      (VP (VB be)
+        (VP (VBN built)
+          (PP (IN in)
+            (NP (NN africa)))
+          (, ,)
+          (S
+            (ADVP (RB thus))
+            (VP (VBG creating)
+              (NP (JJR more) (NNS jobs)))))))
+    (. .)))
+

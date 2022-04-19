@@ -1,0 +1,54 @@
+(ROOT
+  (S
+    (S
+      (NP (DT some) (NNS people))
+      (VP (VBD were)
+        (VP (VBG complaining)
+          (SBAR (IN that)
+            (S
+              (NP (FW i))
+              (VP (VBD had)
+                (NP
+                  (NP (DT a) (NN driver))
+                  (VP (VBG working)))))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP
+        (NP (DT no) (NN ci) (NN qe) (NN gl))
+        (, ,)
+        (SBAR (IN so)
+          (S
+            (NP (FW i))
+            (VP (VBD thought)
+              (S
+                (VP (TO to)
+                  (VP (VB put)
+                    (NP (PRP$ my) (NN foot))
+                    (PP (IN in)
+                      (NP (PRP$ their) (NN mouth)))))))))
+        (, ,))
+      (VP (VBZ thats)
+        (NP (DT all))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (ADVP (RB otherwise))
+    (VP (VBP do)
+      (SBAR (IN as)
+        (S
+          (NP (PRP you))
+          (VP (VBP see)))))
+    (NP
+      (NP (NN fit))
+      (, ,)
+      (NP
+        (NP (FW i) (FW appreciate) (NN mods) (NN attention))
+        (SBAR
+          (S
+            (VP (TO to)
+              (VP (VB reduce)
+                (NP (NN clutter))))))))
+    (. .)))
+

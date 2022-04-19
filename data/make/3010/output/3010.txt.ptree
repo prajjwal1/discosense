@@ -1,0 +1,60 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP he))
+      (VP (VBD had) (RB not)))
+    (, ,)
+    (S
+      (ADVP (RB however))
+      (, ,)
+      (NP
+        (NP (DT the) (NN consolation))
+        (PP (IN of)
+          (S
+            (VP (VBG seeing)
+              (NP
+                (NP (NN mrs.) (NN headway))
+                (VP (VBN punished)
+                  (PP (IN for)
+                    (NP (PRP her)))))))))
+      (VP (VBZ rudeness)
+        (S
+          (NP (PRP she))
+          (ADJP (JJ wasnt)
+            (PP (IN in)
+              (NP
+                (NP (DT the) (JJS least))
+                (VP (VBN neglected))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN on)
+      (NP
+        (NP (DT the) (NN contrary))
+        (PP (IN in)
+          (NP
+            (NP (DT the) (NN part))
+            (PP (IN of)
+              (NP
+                (NP (DT the) (NN room))
+                (SBAR
+                  (WHADVP (WRB where))
+                  (S
+                    (NP (PRP she))
+                    (VP (VBD sat))))))))))
+    (NP (DT the) (NN group))
+    (VP
+      (VP (VBD was)
+        (ADJP (JJ denser)))
+      (CC and)
+      (VP
+        (ADVP (RB repeatedly))
+        (VBD broke)
+        (PP (IN into)
+          (NP
+            (NP (NNS gusts))
+            (PP (IN of)
+              (NP (JJ unanimous) (NN laughter)))))))
+    (. .)))
+

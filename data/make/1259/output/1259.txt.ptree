@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (S
+      (VP (VBG conflating)
+        (NP
+          (NP (DT the) (CD two) (NNS types))
+          (PP (IN of)
+            (NP (NNS cepheids))))))
+    (VP (VBD had)
+      (VP (VBN introduced)
+        (NP
+          (NP (NNS errors))
+          (PP (IN in)
+            (NP (NNS distances))))
+        (PP (TO to)
+          (NP (JJ nearby) (NNS galaxies)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP (NN example) (NNS baades)))
+    (NP (NNS corrections))
+    (VP (VBD increased)
+      (NP (DT the) (JJ known) (NN distance))
+      (PP (TO to)
+        (NP (DT the) (NN andromeda) (NN galaxy)))
+      (PP (IN by)
+        (NP
+          (NP (DT a) (NN factor))
+          (PP (IN of)
+            (NP (CD four))))))
+    (. .)))
+

@@ -1,0 +1,44 @@
+(ROOT
+  (S (CC and)
+    (ADVP (RB then)
+      (PP (IN in)
+        (NP
+          (NP (DT the) (NNS classes))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBP werent)
+                (NP (NN review))))))))
+    (, ,)
+    (NP (FW i))
+    (VP (VBP feel)
+      (SBAR (IN that)
+        (S
+          (NP (FW i))
+          (VP (VBP have)
+            (ADVP (RB actually))
+            (VP (VBN learned)
+              (S
+                (ADJP (RB very) (JJ little))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP (NN instance) (NN spending)))
+    (NP (DT a) (NN semester))
+    (PP (IN in)
+      (S
+        (NP (NN engineering) (NN class))
+        (VP (VBG learning)
+          (SBAR
+            (WHADVP (WRB how))
+            (S
+              (VP (TO to)
+                (VP (VB write)
+                  (NP (DT a) (JJ proper) (NN memo) (NN doesnt)))))))))
+    (VP (VBP count)
+      (PP (IN for)
+        (NP (PRP me))))
+    (. .)))
+

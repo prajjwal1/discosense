@@ -1,0 +1,56 @@
+(ROOT
+  (S
+    (NP (PRP it))
+    (VP (VBZ is)
+      (ADJP (JJ unclear))
+      (SBAR (IN whether)
+        (S
+          (NP (DT the) (NNS mormaers))
+          (VP (VBD were)
+            (ADVP (RB originally))
+            (NP
+              (NP
+                (NP (JJ former) (NNS kings))
+                (, ,)
+                (NP (JJ royal) (NNS officials))
+                (, ,)
+                (CC or)
+                (NP (JJ local) (NNS nobles)))
+              (, ,)
+              (CC or)
+              (NP
+                (NP (DT some) (NN combination))
+                (PP (IN of)
+                  (NP (DT these)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB likewise))
+    (NP
+      (NP (DT the) (JJ pictish) (NNS shires)
+        (CC and)
+        (NNS thanages))
+      (, ,)
+      (NP
+        (NP (NNS traces))
+        (PP (IN of)
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (VP (VBP are)
+                (VP (VBN found)
+                  (PP (IN in)
+                    (NP (JJ later) (NNS times)))))))))
+      (, ,))
+    (VP (VBP are)
+      (VP (VBN thought)
+        (S
+          (VP (TO to)
+            (VP (VB have)
+              (VP (VBN been)
+                (VP (VBN adopted)
+                  (PP (IN from)
+                    (NP (PRP$ their) (JJ southern) (NNS neighbours))))))))))
+    (. .)))
+

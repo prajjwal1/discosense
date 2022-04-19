@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (NP (PRP she))
+    (ADVP (RB then))
+    (VP (VBD worked)
+      (PP (IN as)
+        (NP (DT a) (JJ personal) (NN fitness) (NN trainer)))
+      (PP (IN with)
+        (NP (JJ several) (NNS companies))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB subsequently))
+    (NP (PRP she))
+    (VP
+      (VP (VBD worked)
+        (PP (IN with)
+          (NP (DT a) (JJ bodybuilding) (NN supplement) (NN company)))
+        (, ,)
+        (PP (IN in)
+          (NP (NN trade) (NNS shows))))
+      (, ,)
+      (CC and)
+      (VP (VBD made)
+        (NP (JJ personal) (NNS appearances))))
+    (. .)))
+

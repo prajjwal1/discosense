@@ -1,0 +1,26 @@
+(ROOT
+  (S
+    (PP (IN within)
+      (NP (DT this) (NN cuisine)))
+    (, ,)
+    (NP
+      (NP (NNS ingredients))
+      (PP (IN in)
+        (NP (NN european) (NNS dishes))))
+    (VP (VBP are)
+      (VP (VBN replaced)
+        (CC or)
+        (VBN complemented)
+        (PP (IN by)
+          (NP (NN asian) (NNS ingredients)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ conversely) (NN european) (NNS ingredients))
+    (VP (VBP are)
+      (VP (VBN used)
+        (PP (IN in)
+          (NP (NN asian) (NNS dishes)))))
+    (. .)))
+

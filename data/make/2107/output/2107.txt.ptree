@@ -1,0 +1,63 @@
+(ROOT
+  (S
+    (PP (IN over)
+      (NP (NN regulationcame)))
+    (PP (IN in)
+      (NP (JJ fourth) (NN place)))
+    (, ,)
+    (VP (VBD picked)
+      (PP (IN by)
+        (NP
+          (NP (CD 35) (NN %))
+          (PP (IN of)
+            (NP (JJ small) (NNS businesses)))))
+      (, ,)
+      (PP (IN as)
+        (NP
+          (NP (PRP$ their) (JJ top) (NN challenge))
+          (PP (IN in)
+            (NP
+              (NP (DT the) (NN poll))
+              (PP (IN by)
+                (NP
+                  (NP (DT the) (NN chamber))
+                  (, ,)
+                  (SBAR (WP$ whose)
+                    (S
+                      (NP (JJ political) (NNS contributions))
+                      (VP (VBP tend)
+                        (S
+                          (VP (TO to)
+                            (VP (VB go)
+                              (PP (TO to)
+                                (NP (NNS republicans))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB conversely))
+    (NP (DT a) (JJ different) (JJ national) (NN poll))
+    (VP
+      (ADVP (IN out)
+        (NP (DT this) (NN week))
+        (PP (IN by)
+          (NP
+            (NP (DT the) (NN advocacy) (NN group))
+            (NP (DT the) (JJ small) (NN business) (NN majority)))))
+      (VBD found)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP
+              (QP (RB only) (CD 13))
+              (NN %))
+            (PP (IN of)
+              (NP (JJ small) (NNS businesses))))
+          (VP (VBD said)
+            (SBAR
+              (S
+                (NP (JJ new) (NNS regulations))
+                (VP (VBD were)
+                  (NP (PRP$ their) (JJS biggest) (NN concern)))))))))
+    (. .)))
+

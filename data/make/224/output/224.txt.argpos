@@ -1,0 +1,1 @@
+conn:indeed conn_POS:RB prev1:economy prev1_POS:NN with_prev1_full:economy_indeed with_prev1_POS_full:NN_RB prev2:its prev2_POS:PRP$ with_prev2_full:its_indeed with_prev2_POS_full:PRP$_RB NA

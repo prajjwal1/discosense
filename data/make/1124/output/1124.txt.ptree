@@ -1,0 +1,49 @@
+(ROOT
+  (S
+    (ADVP (RB generally))
+    (, ,)
+    (NP
+      (NP (JJ hepatic) (NN ppar))
+      (PP (IN of)
+        (NP (NN mppar) (NNS mice))))
+    (VP (VBD was)
+      (ADVP (RBR more) (RB strongly))
+      (VP (VBN activated)
+        (PP (IN than)
+          (NP
+            (NP (DT that))
+            (PP (IN of)
+              (NP (NN hppar) (NNS mice)))))
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP
+              (NP (JJ several) (NN target) (NNS genes))
+              (PP (VBG involving)
+                (NP
+                  (NP (NN oxidation))
+                  (PP (IN of)
+                    (NP (JJ fatty) (NNS acids))))))
+            (VP (VBD were)
+              (VP (VBN evaluated)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VBG interestingly)
+        (NP (DT all) (NNS plasticizers))
+        (ADVP (RB also))))
+    (VP (VBN activated)
+      (NP (JJ hepatic) (NN constitutive))
+      (PP
+        (ADVP
+          (NP (JJ androstane) (NN receptor))
+          (RBR more))
+        (IN in)
+        (NP (NN hppar) (NNS mice)))
+      (PP (IN than)
+        (PP (IN in)
+          (NP (NN mppar) (NNS mice)))))
+    (. .)))
+

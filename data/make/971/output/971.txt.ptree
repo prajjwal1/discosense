@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (ADVP (RB just))
+    (VP (VB store)
+      (SBAR
+        (WHNP (WP what))
+        (S
+          (NP (DT the) (NN user))
+          (VP (VBD entered)
+            (ADVP (RB exactly))
+            (SBAR (IN as)
+              (S
+                (NP (PRP it))
+                (VP (VBD was)
+                  (VP (VBN entered)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB otherwise))
+    (NP (PRP you))
+    (VP (VBP start)
+      (S
+        (VP
+          (VP (VBG getting)
+            (PP (IN into)
+              (NP
+                (NP (DT this) (NN issue))
+                (PP (IN of)
+                  (SBAR
+                    (WHNP (WP who))
+                    (S
+                      (VP (VBD converted)
+                        (VP
+                          (FRAG
+                            (WHADVP (WRB where)))))))))))
+          (CC and)
+          (VP (VBG worrying)
+            (NP
+              (QP (RB about) (JJ double)))))))
+    (. .)))
+

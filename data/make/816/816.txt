@@ -1,0 +1,1 @@
+problem is that i have not been able to find a proper driver for video card and without native resolution screen looks blurred. because of that i have not been able to use puppy.

@@ -1,0 +1,63 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (DT the) (NN world) (NN today)))
+    (, ,)
+    (NP (VBN united) (NNS states))
+    (VP (VBZ needs)
+      (NP (NNS allies))
+      (SBAR (RB so) (IN that)
+        (S
+          (SBAR (RB just)
+            (S
+              (VP (VBP incase)
+                (SBAR
+                  (S
+                    (NP (DT any) (NN calamity)
+                      (CC or)
+                      (NN disaster))
+                    (VP (VBZ hits)
+                      (NP (DT the) (NN country))))))))
+          (, ,)
+          (NP (PRP it))
+          (VP (MD can)
+            (ADVP (RB easily))
+            (VP (VB receive)
+              (NP (NN help)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP
+        (NP (NN instance))
+        (NP
+          (NP (DT the) (NN earthquake))
+          (NP
+            (NP (DT that) (NN stroke) (NN haiti))
+            (ADVP (RB recently))))))
+    (, ,)
+    (NP
+      (NP (DT a) (NN lot))
+      (PP (IN of)
+        (NP
+          (NP (NNS people))
+          (CONJP (RB as) (RB well) (IN as))
+          (NP (NNS countries)))))
+    (VP (VBD fled)
+      (PP (TO to)
+        (NP (NNS haiti)))
+      (S
+        (VP (TO to)
+          (VP (VB help)
+            (PP (IN with)
+              (NP
+                (NP (DT the) (NN crisis))
+                (SBAR
+                  (WHNP (WDT that))
+                  (S
+                    (VP (VBZ is)
+                      (PP (VBG including)
+                        (NP (NN america))))))))))))
+    (. .)))
+

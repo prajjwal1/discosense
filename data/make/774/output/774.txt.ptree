@@ -1,0 +1,50 @@
+(ROOT
+  (S
+    (S
+      (ADJP (JJ true)
+        (PP (TO to)
+          (NP
+            (NP (RB much))
+            (PP (IN of)
+              (NP
+                (NP (DT the) (JJ swedish) (NN model))
+                (PP (IN of)
+                  (NP (JJ public) (NNS services)))))))))
+    (, ,)
+    (NP (DT the) (NN co) (NN ops))
+    (VP (VBD were)
+      (NP
+        (NP (NN price))
+        (VP
+          (VP (VBN controlled)
+            (PP (IN until)
+              (NP (CD 1973))))
+          (CC and)
+          (VP (VBN subsidised)
+            (PP (IN until)
+              (NP (CD 1990))))
+          (, ,)
+          (S
+            (ADVP (RB gradually))
+            (VP (VBG being)
+              (VP (VBN built)
+                (PRT (RP up))
+                (PP (IN before)
+                  (S
+                    (VP (VBG being)
+                      (VP (VBN exposed)
+                        (PP (TO to)
+                          (NP (NN market) (NNS forces)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN by)
+      (NP (NN contrast)))
+    (NP (DT the) (NN uk))
+    (VP (VBZ has)
+      (NP (DT a)
+        (ADJP (RB much) (JJR smaller))
+        (NN coop) (NN sector)))
+    (. .)))
+

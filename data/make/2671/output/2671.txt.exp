@@ -1,0 +1,2 @@
+conn_lc:also conn:also conn_POS:RB with_prev_full:not_also xxx£
+conn_lc:otherwise conn:otherwise conn_POS:RB xxx£

@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (ADVP (RB however))
+    (, ,)
+    (PP (IN after)
+      (NP
+        (NP (PRP$ his) (NN discussion))
+        (PP (IN with)
+          (NP (NN benson)))))
+    (, ,)
+    (NP (NNS goss))
+    (VP (VBD agreed)
+      (S
+        (VP (TO to)
+          (VP (VB resume)
+            (NP (PRP$ his) (NNS dealings))
+            (PP (IN with)
+              (NP (JJ western)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thereafter))
+    (NP (NN ball) (NN marketing))
+    (VP (VBD began)
+      (S
+        (VP (TO to)
+          (VP (VB sell)
+            (S
+              (VP (TO to)
+                (VP (VB western)
+                  (NP
+                    (NP (DT a) (NN petroleum) (NN product))
+                    (SBAR
+                      (WHNP (WDT that))
+                      (S
+                        (VP (VBD was)
+                          (VP (VBN identified)
+                            (PP (IN as)
+                              (NP (JJ crude) (NN oil)))))))))))))))
+    (. .)))
+

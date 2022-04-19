@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (NP (DT the) (JJ foreign) (NN minister))
+    (, ,)
+    (ADVP (RB however))
+    (, ,)
+    (VP (VBD did) (RB not)
+      (VP (VB mention)
+        (NP
+          (NP (NN arecognition))
+          (PP (IN of)
+            (NP
+              (NP (DT the) (NN state))
+              (PP (IN of)
+                (NP (NN israel))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN on)
+      (NP (DT the) (NN contrary)))
+    (NP (PRP he))
+    (VP (VBD tried)
+      (S
+        (VP (TO to)
+          (VP (VB evade)
+            (NP
+              (NP (DT the) (JJ clear) (NN cut) (NN question))
+              (PP (IN of)
+                (NP (DT the) (NN interviewer))))))))
+    (. .)))
+

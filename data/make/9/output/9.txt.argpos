@@ -1,0 +1,2 @@
+conn:if conn_POS:IN sent_pos:1 prev1:otherwise prev1_POS:RB with_prev1_full:otherwise_if with_prev1_POS_full:RB_IN NA
+conn:while conn_POS:IN prev1:it prev1_POS:PRP with_prev1_full:it_while with_prev1_POS_full:PRP_IN prev2:fuel prev2_POS:VB with_prev2_full:fuel_while with_prev2_POS_full:VB_IN NA

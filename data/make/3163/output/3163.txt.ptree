@@ -1,0 +1,68 @@
+(ROOT
+  (S (RB not)
+    (SBAR (RB only)
+      (S
+        (NP (PRP it))
+        (VP (VBZ is)
+          (ADJP (RB generally) (JJR cheaper))
+          (S
+            (VP (TO to)
+              (VP (VB prevent)
+                (NP (NN disease)))))
+          (SBAR (IN than)
+            (S
+              (VP (TO to)
+                (VP (VB cure)
+                  (NP (PRP it)))))))))
+    (, ,)
+    (NP
+      (NP (NN prevention))
+      (PP (IN of)
+        (NP
+          (ADJP (JJ contagious))
+          (NNS diseases))))
+    (VP (VBZ has)
+      (NP (JJ enormous) (NN spillover) (NNS effects)))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN by)
+      (NP
+        (NP (NN contrast))
+        (PP (IN in)
+          (NP (DT the) (JJ private) (NN marketplace)))))
+    (, ,)
+    (NP (NNS hmos))
+    (VP (VBP compete)
+      (PP (IN in)
+        (NP
+          (ADJP (JJ destructive)
+            (CC or)
+            (JJ counterproductive))
+          (NNS ways)))
+      (PP (IN through)
+        (NP
+          (NP
+            (NP (DT the) (NN clientele))
+            (SBAR
+              (S
+                (NP (PRP they))
+                (VP (VBP seek)
+                  (S
+                    (VP (TO to)
+                      (VP (VB include)
+                        (CC or)
+                        (VB exclude))))))))
+          (, ,)
+          (NP
+            (NP (DT the) (NN amount))
+            (PP (IN of)
+              (NP
+                (NP (NN service))
+                (VP (VBN delivered)))))
+          (, ,)
+          (CC or)
+          (NP (NN advertising)))))
+    (. .)))
+

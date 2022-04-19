@@ -1,0 +1,5 @@
+conn_lc:when conn:when conn_POS:WRB with_prev_full:worse_when xxx£
+conn_lc:and conn:and conn_POS:CC with_prev_full:concentrated_and xxx£
+conn_lc:by_contrast conn:by_contrast conn_POS:IN_NN xxx£
+conn_lc:when conn:when conn_POS:WRB with_prev_full:gain_when xxx£
+conn_lc:or conn:or conn_POS:CC with_prev_full:and_or xxx£

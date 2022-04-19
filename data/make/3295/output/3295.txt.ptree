@@ -1,0 +1,38 @@
+(ROOT
+  (S
+    (SBAR (IN if)
+      (S
+        (NP (NN aggression))
+        (VP (VBZ persists))))
+    (, ,)
+    (NP (DT the) (NN separation))
+    (VP (MD can)
+      (VP (VB be)
+        (VP (VBN done)
+          (PP (IN for)
+            (NP (JJ several) (NNS weeks)))
+          (PP (IN until)
+            (NP (NN aggression) (NNS subsides))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP
+      (ADVP (RB conversely))
+      (IN in)
+      (NP
+        (NP (NN case))
+        (PP (IN of)
+          (NP (JJ excessive) (JJ maternal) (NN behavior)))))
+    (, ,)
+    (NP (DT the) (NN bitch))
+    (VP (MD should)
+      (VP (VB be)
+        (VP (VBN separated)
+          (PP (IN from)
+            (NP
+              (NP (DT the) (VBN stolen) (NNS puppies))
+              (CC and)
+              (NP (PRP$ their) (JJ actual) (NN mother)))))))
+    (. .)))
+

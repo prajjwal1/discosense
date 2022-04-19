@@ -1,0 +1,24 @@
+(ROOT
+  (S
+    (ADVP (RB thereby))
+    (, ,)
+    (NP
+      (NP (DT the) (JJ random) (NN access) (NN process))
+      (CC or)
+      (NP (DT the) (JJ like)))
+    (VP (MD can)
+      (VP (VB be)
+        (VP (VBN facilitated))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thereby))
+    (NP (DT the) (NN control) (NN circuit) (CD 11) (NN preliminarily))
+    (VP (VBZ secures)
+      (NP
+        (NP (DT a) (NN region))
+        (PP (IN for)
+          (NP (VBG recording) (JJ such) (NN data) (NN thereon)))))
+    (. .)))
+

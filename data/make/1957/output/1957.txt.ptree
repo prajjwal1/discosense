@@ -1,0 +1,52 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (NNS students))
+      (, ,)
+      (SBAR
+        (WHNP (WP who))
+        (S
+          (VP (VBP are)
+            (VP (VBG appearing)
+              (PP (IN for)
+                (NP (DT the) (NN test)))))))
+      (, ,))
+    (VP (MD will)
+      (VP (VB be)
+        (VP (VBN awarded)
+          (NP (NNS certificates))
+          (PP (IN by)
+            (NP (DT the) (NN cbse)))
+          (, ,)
+          (PP (IN through)
+            (NP
+              (NP (PRP$ its) (JJ joint) (NN collaboration))
+              (PP (IN with)
+                (NP (DT the) (JJ concerned) (JJ educational) (NNS institutions)))
+              (, ,)
+              (VP (VBG indicating)
+                (NP (DT the) (JJ percentile) (NN mark))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB hence))
+    (NP (PRP it))
+    (VP (VBP doesnt)
+      (VP (VB involve)
+        (NP
+          (NP (DT any) (NN memory))
+          (VP (VBN based)
+            (NP
+              (NP (NNS questions))
+              (, ,)
+              (NP
+                (NP
+                  (ADJP (JJ similar)
+                    (PP (TO to)
+                      (NP (DT the) (JJ final) (NN board) (NN examination))))
+                  (NN question) (NNS papers))
+                (PP (IN of)
+                  (NP (DT the) (CD 10) (NN th) (NN standard)))))))))
+    (. .)))
+

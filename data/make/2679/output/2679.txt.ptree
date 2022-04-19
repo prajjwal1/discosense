@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (NP
+      (NP (JJ liberal) (NNS critics))
+      (PP (IN of)
+        (NP
+          (NP (NN anasian) (NN concept))
+          (PP (IN of)
+            (NP (NN human))))))
+    (VP (VBD rightstend)
+      (S
+        (VP (TO to)
+          (VP (VB downplay)
+            (NP
+              (NP (DT the) (NN importance))
+              (PP (IN of)
+                (S
+                  (VP (VBG substantiating)
+                    (CC and)
+                    (VBG determining)
+                    (NP
+                      (NP (DT the) (NN scope))
+                      (PP (IN of)
+                        (NP (JJ international) (NN human) (NNS rights) (NN law))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB instead))
+    (NP (PRP they))
+    (VP (VBP have)
+      (VP (VBN devoted)
+        (NP (PRP$ their) (NNS efforts))
+        (PP (TO to)
+          (S
+            (VP (VBG refuting)
+              (NP (JJ asian) (NNS states) (NNS claims))
+              (PP (IN against)
+                (NP (JJ universal) (JJ human) (NNS rights))))))))
+    (. .)))
+

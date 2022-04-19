@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (DT an) (NN editorial)))
+    (NP (NN today))
+    (, ,)
+    (NP (DT the) (NN boston) (NN globe))
+    (VP (VBD wrote)
+      (SBAR (IN that)
+        (S
+          (NP (NN judge) (NN otooleought))
+          (VP (TO to)
+            (VP (VB lift)
+              (NP (PRP it)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB instead))
+    (NP (DT the) (NN judge))
+    (VP
+      (VP (VBD continued)
+        (NP (DT the) (NN hearing))
+        (PP (IN until)
+          (NP (NN tuesday))))
+      (, ,)
+      (CC and)
+      (VP (VBD left)
+        (NP (DT the) (JJ temporary) (NN restraining) (NN order))
+        (PP (IN in)
+          (NP (NN place)))))
+    (. .)))
+

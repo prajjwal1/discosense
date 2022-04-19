@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (ADVP (RB far) (RB too))
+    (NP (JJ many) (NNS individuals))
+    (VP (VBP do) (RB not)
+      (ADVP (RB fully))
+      (VP (VB understand)
+        (NP
+          (NP (DT the) (NN risk))
+          (PP (IN of)
+            (S
+              (VP (VBG becoming)
+                (VP (VBN disabled)
+                  (PP (IN during)
+                    (NP (PRP$ their) (VBG working) (NNS years))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB consequently))
+    (NP (PRP they))
+    (VP
+      (VP
+        (ADVP (RB often))
+        (VBP undervalue)
+        (NP (NNP and)))
+      (CC or)
+      (VP (VBP do) (RB not)
+        (ADVP (RB fully))
+        (VP (VB appreciate)
+          (NP
+            (NP (DT the) (NN benefit))
+            (PP (IN of)
+              (NP (NN disability) (NN coverage)))))))
+    (. .)))
+

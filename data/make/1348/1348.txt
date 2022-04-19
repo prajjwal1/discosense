@@ -1,0 +1,1 @@
+security researcher andreas kurtz has identified a vulnerability that leaves email attachments downloaded by ios 7s mail app unprotected by apples data protection technologies. in short data protection enhances the built in hardware encryption by protecting the hardware encryption keys with your passcode.

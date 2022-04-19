@@ -1,0 +1,1 @@
+one thing that i felt was annoying is the requirement to use ghc head. because of that a lot of packages required updates and fixes.

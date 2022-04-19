@@ -1,0 +1,1 @@
+conn:and conn_POS:CC prev1:ldl prev1_POS:NN with_prev1_full:ldl_and with_prev1_POS_full:NN_CC prev2:lower prev2_POS:JJR with_prev2_full:lower_and with_prev2_POS_full:JJR_CC NA

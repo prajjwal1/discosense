@@ -1,0 +1,3 @@
+conn:by_contrast conn_POS:IN_NN sent_pos:0 NA
+conn:because conn_POS:IN prev1:physicians prev1_POS:NNS with_prev1_full:physicians_because with_prev1_POS_full:NNS_IN prev2:us prev2_POS:PRP with_prev2_full:us_because with_prev2_POS_full:PRP_IN NA
+conn:as_a_result conn_POS:IN_DT_NN sent_pos:0 NA

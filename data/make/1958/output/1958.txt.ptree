@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (S
+      (NP (FW i))
+      (VP (MD can)
+        (VP (VB tell)
+          (NP (PRP you))
+          (NP
+            (NP (FW i))
+            (VP (VBN unsubbed)
+              (SBAR (IN because)
+                (S
+                  (NP (PRP they))
+                  (VP (VBD said)
+                    (SBAR
+                      (S
+                        (NP (PRP they))
+                        (VP (VBD fixed)
+                          (NP (NN xyz) (NNS bugs))
+                          (PP (IN on)
+                            (PP (IN like)
+                              (NP (CD 3) (JJ different) (NN patch) (NNS notes)))))))))))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (NN xyz) (NNS bugs))
+      (VP (VBD were)
+        (ADVP (RB still))
+        (ADVP (RB there))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB specifically))
+    (NP (FW i))
+    (VP (VBP am)
+      (VP (VBG talking)
+        (PP (IN about)
+          (NP (DT the) (NNS puzzleboss)))))
+    (. .)))
+

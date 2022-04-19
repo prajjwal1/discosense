@@ -1,0 +1,1 @@
+conn:when conn_POS:WRB sent_pos:-3 prev1:inside prev1_POS:NN with_prev1_full:inside_when with_prev1_POS_full:NN_WRB prev2:green prev2_POS:JJ with_prev2_full:green_when with_prev2_POS_full:JJ_WRB NA

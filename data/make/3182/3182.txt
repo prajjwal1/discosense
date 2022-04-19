@@ -1,0 +1,1 @@
+the first and second pmos transistors pm 1 and pm 2 are basically later then the first and second nmos transistors nm 1 and nm 2 in operation rate. thereby output rates of the differential output signals vo and vo become faster.

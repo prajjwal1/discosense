@@ -1,0 +1,67 @@
+(ROOT
+  (S
+    (S
+      (S
+        (NP (JJ large) (NNS retailers))
+        (VP (VBP are)
+          (VP (VBG using)
+            (S
+              (NP (NN audience) (NN segmentation)
+                (CC and)
+                (JJ other) (NNS means))
+              (VP (TO to)
+                (VP (VB provide)
+                  (NP (JJ general) (NN product) (NNS recommendations))))))))
+      (, ,)
+      (CC but)
+      (S
+        (NP (DT the) (NNS results))
+        (VP (VBP are)
+          (ADJP (JJ ratherunimaginative)
+            (CC and)
+            (JJ undifferentiated)))))
+    (, ,)
+    (NP (NN wibidata))
+    (VP (VBD said)
+      (PP (IN in)
+        (NP (PRP$ its) (NN announcement))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP
+        (NP (NN contrast) (NN wibiretail))
+        (SBAR
+          (S
+            (VP (MD can)
+              (VP (VB help)
+                (S
+                  (NP (NNS retailers))
+                  (VP (VB go)
+                    (ADVP (RB much) (RBR further))))))))
+        (, ,)
+        (PP (JJ such) (IN as)
+          (NP
+            (NP (JJ throughintent) (JJ awaree) (NN commerce) (NNS applications))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (MD can)
+                  (VP (VB figure)
+                    (PRT (RP out))
+                    (SBAR
+                      (WHNP (WP who))
+                      (S
+                        (NP (DT an) (NN individual))
+                        (VP (VBZ is)
+                          (VP (VBG shopping)
+                            (PP (IN for))))))))))))
+        (, ,)
+        (PP (JJ such) (IN as)
+          (NP (PRP$ their) (NN spouse)))))
+    (, ,)
+    (NP (NN wibidata))
+    (VP (VBD said))
+    (. .)))
+

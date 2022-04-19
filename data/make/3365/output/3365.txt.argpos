@@ -1,0 +1,4 @@
+conn:and conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_and with_prev1_POS_full:,_CC prev2:churches prev2_POS:NNS with_prev2_full:churches_and with_prev2_POS_full:NNS_CC NA
+conn:so conn_POS:IN prev1:, prev1_POS:, with_prev1_full:,_so with_prev1_POS_full:,_IN prev2:echo prev2_POS:NN with_prev2_full:echo_so with_prev2_POS_full:NN_IN NA
+conn:by_contrast conn_POS:IN_NN sent_pos:0 NA
+conn:so conn_POS:IN prev1:, prev1_POS:, with_prev1_full:,_so with_prev1_POS_full:,_IN prev2:socializing prev2_POS:VBG with_prev2_full:socializing_so with_prev2_POS_full:VBG_IN NA

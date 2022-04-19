@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (SBAR (IN if)
+      (S
+        (NP (PRP you))
+        (VP (MD can)
+          (VP (VB tell)
+            (SBAR
+              (WHNP (WP what))
+              (S
+                (NP (PRP$ your) (JJ kids) (JJ natural) (NN wake) (NN time))
+                (VP (VBZ is))))))))
+    (, ,)
+    (VP (VB use)
+      (NP (DT that)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB otherwise))
+    (VP
+      (VP (VB pick)
+        (NP (DT a) (NN time))
+        (PP (RB somewhere) (IN in)
+          (NP
+            (NP (DT that) (NN window))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (VBZ works)
+                  (NP
+                    (NP (JJS best))
+                    (PP (IN for)
+                      (NP (PRP$ your) (NN family))))))))))
+      (CC and)
+      (VP (VB make)
+        (SBAR (IN that)
+          (S
+            (NP (PRP$ your) (NN official))
+            (VP (VBP wake)
+              (NP (NN time)))))))
+    (. .)))
+

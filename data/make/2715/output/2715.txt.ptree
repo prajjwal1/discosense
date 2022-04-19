@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (ADVP (RB however))
+    (, ,)
+    (PP (IN for)
+      (NP
+        (NP (JJ pure) (NN ag))
+        (CC or)
+        (NP
+          (NP (DT an) (NN ag))
+          (VP (VBN based)
+            (NP (NN alloy))
+            (S
+              (VP (VBG having)
+                (NP (DT a) (JJ high) (NN reflectivity))))))))
+    (, ,)
+    (NP (NNS atoms))
+    (VP (VBP tend)
+      (S
+        (VP (TO to)
+          (VP (VB move)
+            (ADVP (RB even))
+            (PP (IN with)
+              (NP (DT a) (JJ low) (NN temperature) (NN heating)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB particularly))
+    (NP (NNS atoms))
+    (VP (VBP tend)
+      (S
+        (VP (TO to)
+          (VP (VB be)
+            (VP (VBN aggregated)
+              (ADVP (RB readily))
+              (PP (IN in)
+                (NP (DT a) (JJ wet) (NN atmosphere))))))))
+    (. .)))
+

@@ -1,0 +1,2 @@
+conn:if conn_POS:IN sent_pos:0 NA
+conn:and conn_POS:CC prev1:distributed prev1_POS:VBN with_prev1_full:distributed_and with_prev1_POS_full:VBN_CC prev2:evenly prev2_POS:RB with_prev2_full:evenly_and with_prev2_POS_full:RB_CC NA

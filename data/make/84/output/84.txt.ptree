@@ -1,0 +1,55 @@
+(ROOT
+  (S
+    (NP
+      (NP (JJS most))
+      (PP (IN of)
+        (NP (PRP us))))
+    (VP (VBP deal)
+      (PP (IN with)
+        (NP
+          (NP (NNS misreadings))
+          (, ,)
+          (NP (NNS errors))
+          (, ,)
+          (CC and)
+          (NP (JJ honest) (NNS mistakes))))
+      (PP (IN by)
+        (NP
+          (NP (NNS indexers))
+          (NP (DT every) (NN day)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB because) (IN of)
+      (NP
+        (NP (DT that))
+        (VP (VBG seeing)
+          (SBAR
+            (WHADVP (WRB how))
+            (S
+              (NP (NNS things))
+              (VP (MD can)
+                (VP (VB be)
+                  (VP (VBN read)
+                    (ADVP (RB incorrectly))))))))))
+    (, ,)
+    (NP (FW i))
+    (VP (VBP think)
+      (SBAR
+        (S
+          (VP (VBZ is)
+            (NP
+              (NP (DT an) (NN advantage))
+              (PP (TO to)
+                (NP
+                  (NP (DT any) (NN genealogist))
+                  (SBAR
+                    (WHNP (WP who))
+                    (S
+                      (VP (VBZ uses)
+                        (NP (JJ digital) (NNS indexes))
+                        (PP (TO to)
+                          (NP (NNS records)))))))))))))
+    (. .)))
+

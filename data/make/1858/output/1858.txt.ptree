@@ -1,0 +1,65 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (NN extent))
+      (PP (IN of)
+        (NP (DT the) (JJ recoil) (NN movement))))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (NN function))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (NN amount))
+            (PP (IN of)
+              (NP
+                (NP (NN power))
+                (VP (VBN required)
+                  (S
+                    (VP (TO to)
+                      (VP (VB drive)
+                        (NP
+                          (NP (DT the) (JJS largest) (NN fastener))
+                          (PP (IN in)
+                            (NP
+                              (NP (DT the) (NN range))
+                              (PP (IN of)
+                                (NP (NN fastener) (NNS sizes)))))
+                          (SBAR
+                            (WHNP (WDT which))
+                            (S
+                              (NP (DT the) (NN tool))
+                              (VP (VBZ accommodates)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB consequently))
+    (NP
+      (NP
+        (NP (DT the) (NNS tools))
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (VBP accommodate)
+              (NP (DT the) (JJS largest) (NNS fasteners))))))
+      (, ,)
+      (PP (JJ such) (IN as)
+        (NP (JJ large) (NNS nails)))
+      (, ,))
+    (VP (VBP present)
+      (NP
+        (NP (DT a) (NN situation))
+        (SBAR
+          (WHPP (IN in)
+            (WHNP (WDT which)))
+          (S
+            (NP
+              (NP (DT the) (JJS greatest) (NN amount))
+              (PP (IN of)
+                (NP (NN recoil))))
+            (VP (MD must)
+              (VP (VB be)
+                (VP (VBN dealt)
+                  (PP (IN with)))))))))
+    (. .)))
+

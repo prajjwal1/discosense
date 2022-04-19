@@ -1,0 +1,59 @@
+(ROOT
+  (S
+    (PP (IN for)
+      (NP (NN example)))
+    (, ,)
+    (NP
+      (NP (DT the) (JJ final) (NN storage) (NN budget))
+      (PP (IN for)
+        (NP (DT a) (NN project))))
+    (VP (MD could)
+      (VP (VB be)
+        (VP (VBN separated)
+          (PP (IN into)
+            (NP
+              (NP (DT a) (NN hardware) (NN budget))
+              (, ,)
+              (NP (NN software) (NN budget))
+              (, ,)
+              (CC and)
+              (NP (NNS services) (NN budget))))
+          (PP (IN by)
+            (S
+              (VP (VBG using)
+                (NP (DT a) (NN rule) (NN set))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (PP (IN for)
+        (NP (NN example)))
+      (NP (DT the) (JJ final) (NN storage) (NN budget))
+      (VP (MD could)
+        (VP (VB be)
+          (VP (VBN allocated)
+            (SBAR
+              (S
+                (NP
+                  (NP (CD 60) (NN %))
+                  (PP (IN of)
+                    (NP (DT the) (JJ final) (NN storage) (NN budget))))
+                (VP (VBZ is)
+                  (PP (IN for)
+                    (NP (NN hardware))))))))))
+    (PRN (, ,)
+      (S
+        (NP (CD 20) (NN %))
+        (VP (VBZ is)
+          (PP (IN for)
+            (NP (NN software)))))
+      (, ,))
+    (CC and)
+    (S
+      (NP (CD 20) (NN %))
+      (VP (VBZ is)
+        (PP (IN for)
+          (NP (NNS services)))))
+    (. .)))
+

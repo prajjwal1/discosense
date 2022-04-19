@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (NP (DT that))
+    (VP (VBZ is)
+      (SBAR
+        (WHNP (WP what))
+        (S
+          (NP (DT the) (NN military))
+          (VP (VBZ has)
+            (VP (VBN done)
+              (PP (IN for)
+                (NP (NN cardassia))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB because) (IN of)
+      (NP (DT that)))
+    (NP (PRP$ my) (NN daughter))
+    (VP (MD will)
+      (ADVP (RB never))
+      (VP (VB have)
+        (S
+          (VP (TO to)
+            (VP (VB worry)
+              (PP (IN about)
+                (S
+                  (VP (VBG going)
+                    (ADJP (JJ hungry))))))))))
+    (. .)))
+

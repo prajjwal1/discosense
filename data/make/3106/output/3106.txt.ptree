@@ -1,0 +1,70 @@
+(ROOT
+  (S
+    (SBAR (IN if)
+      (S
+        (NP (DT the) (NN price) (NN spread))
+        (VP (VBZ is)
+          (ADJP (JJ big) (RB enough)))))
+    (, ,)
+    (NP
+      (NP (DT the) (NN rental))
+      (PP
+        (PP (IN of)
+          (NP (DT the) (NNS tankers)))
+        (, ,)
+        (CC or)
+        (PP (IN of)
+          (NP (NN storage) (NNS tanks)))
+        (, ,)))
+    (VP (MD can)
+      (VP (VB be)
+        (VP
+          (ADVP (RBR more) (IN than))
+          (VBN made)
+          (PRT (RP up))
+          (PP (IN for))
+          (, ,)
+          (PP (VBN provided)
+            (SBAR (IN that)
+              (S
+                (NP (NN risk) (JJ free) (NN interest) (NNS rates))
+                (VP (VBP are)
+                  (VP (VBN kept)
+                    (S
+                      (ADJP (JJ low)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (RB interestingly) (IN if)
+      (FRAG
+        (NP
+          (NP (DT the) (NNS powers))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VB be)
+                (VP
+                  (ADVP (RB really))
+                  (VBN wanted)
+                  (S
+                    (VP (TO to)
+                      (VP (VB drive)
+                        (PRT (RP down))
+                        (NP
+                          (NP (JJ crude) (NN oil) (NNS prices))
+                          (PP (IN in)
+                            (NP (DT a) (JJ meaningful) (NN way))))))))))))))
+    (, ,)
+    (NP (EX there))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a)
+          (ADJP (RBR more) (JJ effective))
+          (NN way))
+        (ADVP (RB just))
+        (S
+          (VP (VB raise)
+            (NP (JJ short) (NN term) (NN interest) (NNS rates))))))
+    (. .)))
+

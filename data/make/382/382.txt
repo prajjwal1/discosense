@@ -1,0 +1,1 @@
+for instance, you can upload your worksheets on dropbox storage and manipulate your files using saaspose cells. similarly you can perform a variety of operations on your pdf files, presentations, documents and images uploaded on dropbox storage.

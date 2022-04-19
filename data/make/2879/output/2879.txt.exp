@@ -1,0 +1,3 @@
+conn_lc:also conn:also conn_POS:RB with_prev_full:method_also xxx£
+conn_lc:thereby conn:thereby conn_POS:RB xxx£
+conn_lc:when conn:when conn_POS:WRB with_prev_full:thereby_when xxx£

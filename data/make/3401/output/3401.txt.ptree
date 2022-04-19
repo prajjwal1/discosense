@@ -1,0 +1,49 @@
+(ROOT
+  (S
+    (ADVP (RB furthermore))
+    (, ,)
+    (NP
+      (NP (DT the) (JJ direct) (JJ current) (NN voltage) (NN regulator))
+      (NP (CD 24)))
+    (VP (MD can)
+      (VP (VB be)
+        (VP
+          (ADVP (RB so))
+          (VBN implemented)
+          (SBAR (IN that)
+            (S
+              (NP (PRP it))
+              (VP (MD can)
+                (VP (VB provide)
+                  (NP
+                    (NP
+                      (UCP
+                        (ADJP (JJ different))
+                        (CC but)
+                        (ADVP (RB respectively)))
+                      (JJ constant) (NN release) (NN voltages))
+                    (PP (IN for)
+                      (NP (JJ different) (NNS brakes))))
+                  (PP (IN in)
+                    (NP
+                      (NP (JJ different) (NNS types))
+                      (PP (IN of)
+                        (NP (NN wind) (NNS turbines))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thereby))
+    (NP
+      (NP (DT the) (JJ driving) (NN device) (CD 1))
+      (PP (VBG according)
+        (PP (TO to)
+          (NP (DT the) (JJ present) (NN invention)))))
+    (VP (MD can)
+      (VP (VB be)
+        (UCP
+          (ADJP (JJ applicable) (RB widely))
+          (CC and)
+          (ADVP (RB economically)))))
+    (. .)))
+

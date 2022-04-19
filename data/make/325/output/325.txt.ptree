@@ -1,0 +1,38 @@
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB when))
+      (S
+        (NP
+          (NP (NNS co2))
+          (PP (IN in)
+            (NP (DT the) (JJ terrestrial) (NN atmosphere))))
+        (VP (VBZ has)
+          (VP (VBN reached)))))
+    (VP (VBZ densities)
+      (NP (DT this)
+        (ADJP (JJ high)
+          (PP (IN in)
+            (NP
+              (NP (DT the) (NN past))
+              (, ,)
+              (NP
+                (NP (NN life))
+                (VP (VBN flourished))))))
+        (NN abundantly)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB consequently))
+    (NP (PRP we))
+    (VP (MD can) (RB not)
+      (VP (VB consider)
+        (NP
+          (NP (PDT such) (DT a) (JJ high) (NN concentration))
+          (PP (IN of)
+            (NP (JJ atmospheric) (NNS co2))))
+        (PP (IN as)
+          (NP (NN pollution)))))
+    (. .)))
+

@@ -1,0 +1,57 @@
+(ROOT
+  (S
+    (ADVP (RB obviously))
+    (, ,)
+    (SBAR (IN if)
+      (S
+        (NP (PRP you))
+        (VP
+          (VP (VB drive)
+            (NP (DT a) (CD two) (NN seater)))
+          (CC and)
+          (VP (VB have)
+            (NP (DT an) (VBG expanding) (NN family))))))
+    (, ,)
+    (NP (PRP it))
+    (ADVP (RB only))
+    (VP (VBZ makes)
+      (NP (NN sense))
+      (S
+        (VP (TO to)
+          (VP (VB buy)
+            (NP (DT a) (JJ new) (NN car))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (ADVP (RB similarly))
+      (IN if)
+      (S
+        (NP
+          (NP (NN youve))
+          (VP (VBN been)
+            (VP (VBG driving)
+              (NP (DT a) (JJ mini) (NN van)))))
+        (VP (TO to)
+          (VP (VB haul)
+            (PRT (RP around))
+            (NP
+              (NP (NNS children))
+              (SBAR
+                (WHNP (WP who))
+                (S
+                  (VP (VBP are)
+                    (ADVP (RB now))
+                    (VP (VBN moved)
+                      (PRT (RP out))
+                      (PP (IN of)
+                        (NP (PRP$ your) (NN home))))))))))))
+    (, ,)
+    (NP (DT a) (JJ new) (NN car))
+    (VP (MD could)
+      (VP (VB be)
+        (PP (IN in)
+          (NP (PRP$ your) (JJ near) (NN future)))))
+    (. .)))
+

@@ -1,0 +1,25 @@
+(ROOT
+  (S (CC and)
+    (NP
+      (NP (FW i))
+      (PP (IN like)
+        (NP
+          (NP (DT this) (NN cuz))
+          (SBAR
+            (S
+              (NP (DT this))
+              (VP (VBZ is)
+                (ADJP (RB so) (RB not) (JJ cheesecake))))))))
+    (VP (VBP like))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB rather))
+    (NP
+      (NP (PRP$ its) (JJ like) (JJ tart) (NN yogurt) (NN ice) (NN cream))
+      (PP (IN on)
+        (NP (DT a) (JJ crumbly) (NN cookie))))
+    (VP (VBP base))
+    (. .)))
+

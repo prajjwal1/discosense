@@ -1,0 +1,49 @@
+(ROOT
+  (S
+    (S
+      (NP (EX there))
+      (VP (VBZ is)
+        (NP
+          (NP (DT this) (NN convention))
+          (PP (IN of)
+            (S
+              (VP (VBG referring)
+                (PP (TO to)
+                  (NP
+                    (NP (DT the) (JJ taney) (NN court))
+                    (, ,)
+                    (NP
+                      (NP (DT the) (JJ marshall) (NN court))
+                      (, ,)
+                      (NP (DT the) (NN fuller) (NN court)))))))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (DT a) (JJ chief) (NN justice))
+      (VP (VBZ has)
+        (NP
+          (NP (DT the) (JJ same) (NN vote))
+          (SBAR (IN that)
+            (S
+              (NP (NN everyone) (RB else))
+              (VP (VBZ has)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN as)
+      (NP (DT a) (NN result)))
+    (NP (DT the) (JJ chiefs) (NN ability)
+      (S
+        (VP (TO to)
+          (VP (VB get)
+            (NP (DT the) (NN court)
+              (S
+                (VP (TO to)
+                  (VP (VB do)
+                    (NP (NN something))))))))))
+    (VP (VBZ is)
+      (ADVP (RB really))
+      (ADJP (RB quite) (JJ restrained)))
+    (. .)))
+

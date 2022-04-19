@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (ADVP (RB additionally))
+    (, ,)
+    (NP
+      (NP (JJ royal) (NN navy) (NNS minesweepers))
+      (CC and)
+      (NP (JJ royal) (NN air) (NN force) (NN whirlwind) (NNS helicopters)))
+    (ADVP (RB also))
+    (VP (VBD arrived)
+      (PP (IN at)
+        (S
+          (VP (VBG hong)
+            (NP (NN kong)))))
+      (, ,)
+      (PP (IN with)
+        (NP
+          (NP (DT the) (NN latter))
+          (VP (VBG coordinating)
+            (PP (IN with)
+              (NP (DT the) (JJ marine) (NN police)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB overall))
+    (NP (DT the) (VBG sinking) (NNS ships))
+    (VP (VBD resulted)
+      (PP (IN in)
+        (NP
+          (NP (CD 110) (NNS fatalities))
+          (, ,)
+          (CONJP (RB as) (RB well) (IN as))
+          (NP (CD 300) (NNS injuries)))))
+    (. .)))
+

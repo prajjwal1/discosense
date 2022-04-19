@@ -1,0 +1,55 @@
+(ROOT
+  (S
+    (PP (TO to)
+      (NP
+        (NP (DT the) (NN extent))
+        (SBAR (IN that)
+          (S
+            (NP
+              (NP (DT an) (NN obsession))
+              (PP (IN with)
+                (NP (NN something))))
+            (VP (VBZ impacts)
+              (NP (PRP$ your) (NN ability)
+                (S
+                  (VP (TO to)
+                    (VP (VB live)
+                      (NP (DT a) (JJ balanced) (NN life))
+                      (ADVP (RB then)))))))))))
+    (NP
+      (NP (DT some) (NN form))
+      (PP (IN of)
+        (NP (NN counselling))))
+    (VP (MD would)
+      (VP (VB be)
+        (ADJP (JJ useful))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP
+      (ADVP
+        (ADVP (RB however))
+        (RB as) (RB long))
+      (SBAR (IN as)
+        (S
+          (NP (PRP$ your) (NN obsession) (NN doesnt))
+          (VP
+            (VP (VBP involve)
+              (NP (JJ criminal) (NN behaviour)))
+            (, ,)
+            (CC or)
+            (VP (VBZ causes)
+              (NP (JJR wider) (NNS problems)))))))
+    (NP (JJ i) (NN dont))
+    (VP (VBP see)
+      (NP (PRP it))
+      (PP (IN as)
+        (S
+          (VP (VBG being)
+            (NP
+              (NP (DT a) (NN problem))
+              (PP (IN for)
+                (NP (DT the) (NN state))))))))
+    (. .)))
+

@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN fact)))
+    (, ,)
+    (NP (JJ i) (NN havent))
+    (VP (VBD tried)
+      (NP (PRP it))
+      (PP (IN except)
+        (PP (IN for)
+          (NP (NNS spices)
+            (CC and)
+            (NN ginger) (NN garlic))))
+      (SBAR (IN so)
+        (S
+          (NP (PRP you))
+          (VP (MD could)
+            (VP (VB give)
+              (NP (PRP it))
+              (NP (DT a) (NN shot)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB otherwise))
+      (VP
+        (ADVP (RB just))
+        (VB chop)
+        (PP
+          (ADVP (RB finely))
+          (IN by)
+          (NP (NN hand)))))
+    (, ,)
+    (NP (DT that))
+    (VP (MD should)
+      (VP (VB work)
+        (ADVP (RB too))))
+    (. .)))
+

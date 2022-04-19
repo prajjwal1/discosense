@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (ADVP (RB furthermore))
+    (, ,)
+    (NP (DT the) (JJ central) (NN control) (NN device))
+    (VP (VBZ is)
+      (VP (VBN connected)
+        (PP (TO to)
+          (NP
+            (NP (DT a) (NN control) (NN system))
+            (PP (IN for)
+              (NP
+                (NP (DT the) (NN apron))
+                (PP (IN of)
+                  (NP (DT an) (NN airport)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thereby))
+    (NP
+      (NP (JJ relevant) (NNS data))
+      (PP (VBG regarding)
+        (NP
+          (NP (DT the) (NN status))
+          (PP (IN of)
+            (NP (DT the) (NN apron)))))
+      (, ,)
+      (PP (IN for)
+        (NP (NN example)))
+      (, ,))
+    (VP (VBP are)
+      (VP (VBN incorporated)
+        (PP (IN into)
+          (NP (DT the) (VBG docking) (NN guidance) (NN system)))))
+    (. .)))
+

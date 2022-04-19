@@ -1,0 +1,49 @@
+(ROOT
+  (S
+    (SBAR (IN because)
+      (S
+        (NP (DT the) (NN breach))
+        (VP (MD would)
+          (VP (VB produce)
+            (S
+              (NP (NNS damages))
+              (ADJP
+                (ADJP (JJ uncertain)
+                  (PP (IN in)
+                    (NP (NN amount))))
+                (CC and)
+                (ADJP (JJ difficult)
+                  (S
+                    (VP (TO to)
+                      (VP (VB prove)))))))))))
+    (, ,)
+    (NP (PRP we))
+    (VP (MD can) (RB not)
+      (VP (VB say)
+        (SBAR (IN that)
+          (S
+            (NP (DT the) (NN provision))
+            (VP (VBD was)
+              (ADJP (RB inherently) (JJ arbitrary)
+                (CC or)
+                (JJ unreasonable)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN as)
+      (NP (DT a) (NN result)))
+    (NP (PRP we))
+    (VP
+      (VP (VBP determine)
+        (SBAR (IN that)
+          (S
+            (NP (DT the) (JJ liquidated) (NNS damages) (NN provision))
+            (VP (VBD was) (RB not)
+              (NP (DT a) (NN penalty))))))
+      (CC and)
+      (VP (MD will)
+        (VP (VB be)
+          (VP (VBN enforced)))))
+    (. .)))
+

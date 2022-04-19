@@ -1,0 +1,49 @@
+(ROOT
+  (S
+    (NP (PRP$ our) (JJ main) (NN analysis))
+    (VP (JJ integrated)
+      (S
+        (NP (DT the) (JJ environmental) (NNS characteristics))
+        (ADJP (JJ salient)
+          (PP (TO to)
+            (S
+              (VP (VBG walking)
+                (PP (IN within)
+                  (NP
+                    (NP (DT a) (NN tpb) (NN model))
+                    (SBAR
+                      (WHNP (WDT that))
+                      (S
+                        (ADVP (RB also))
+                        (VP (VBD included)
+                          (S
+                            (NP (DT a) (NN planning))
+                            (VP (VB construct))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB overall))
+    (NP (DT this) (VBN integrated) (NN model))
+    (VP (VBD explained)
+      (NP
+        (NP (CD 25) (NN %))
+        (PP (IN of)
+          (NP (DT the) (NN variance))))
+      (PP (IN in)
+        (S
+          (VP (VBG walking)
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (VP (VBZ is)
+                  (ADJP (JJ similar)
+                    (PP (TO to)
+                      (NP
+                        (NP (JJ basic) (NN tpb))
+                        (CC and)
+                        (NP (NN pa)
+                          (CC and)
+                          (JJ prior) (VBG walking) (NN research))))))))))))
+    (. .)))
+

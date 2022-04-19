@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (NP (DT this))
+    (VP (MD might)
+      (VP (VB be)
+        (ADJP (RB highly) (JJ relevant)
+          (PP (IN in)
+            (NP (DT a) (NN response)
+              (S
+                (VP (TO to)
+                  (VP (VB e.)
+                    (NP
+                      (NP (NN g.) (JJ mechanical) (NN injury))
+                      (PP (IN of)
+                        (NP
+                          (NP (DT the) (NN skin))
+                          (CC and)
+                          (NP (VBN wound) (NN repair)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nevertheless))
+    (NP
+      (NP (DT a) (VBN deregulated) (NN expression))
+      (PP (IN of)
+        (NP (NN il) (CD 1))))
+    (VP (VBZ seems)
+      (S
+        (VP (TO to)
+          (VP (VB promote)
+            (NP (DT an) (JJ inflammatory) (NN skin) (NN phenotype) (NN e.) (NN g.))
+            (PP (IN by)
+              (NP
+                (NP (NN attraction))
+                (PP (IN of)
+                  (NP (JJ inflammatory) (NNS cells)))))))))
+    (. .)))
+

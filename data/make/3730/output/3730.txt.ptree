@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT this) (NN mapping))
+      (PP (IN from)
+        (NP
+          (NP (JJ continuous) (NNS maps))
+          (PP (TO to)
+            (NP (NN group) (NNS homomorphisms))))))
+    (VP (VBZ is)
+      (ADJP (JJ compatible)
+        (PP (IN with)
+          (NP
+            (NP (NN composition))
+            (PP (IN of)
+              (NP (NNS maps)
+                (CC and)
+                (NN identity) (NNS morphisms)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (JJ other) (NNS words)))
+    (NP (PRP we))
+    (VP (VBP have)
+      (NP
+        (NP (DT a) (NN functor))
+        (PP (IN from)
+          (NP
+            (NP (DT the) (NN category))
+            (PP (IN of)
+              (NP
+                (NP (JJ topological) (NNS spaces))
+                (PP (IN with)
+                  (NP (NN base) (NN point))))))))
+      (PP (TO to)
+        (NP
+          (NP (DT the) (NN category))
+          (PP (IN of)
+            (NP (NNS groups))))))
+    (. .)))
+

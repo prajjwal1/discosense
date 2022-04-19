@@ -1,0 +1,26 @@
+(ROOT
+  (S
+    (NP (DT the) (NN area))
+    (VP (VBZ gets)
+      (NP
+        (NP (DT a) (NN bit) (NN noisy))
+        (PP (IN in)
+          (NP (DT the) (NN morning)
+            (CC and)
+            (NN day) (NN time)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN on)
+      (NP (DT the) (NN contrary)))
+    (NP (PRP it))
+    (VP (VBZ has)
+      (NP
+        (NP (DT a)
+          (ADJP (RB very) (JJ low))
+          (JJ pedestrian) (NN traffic))
+        (PP (IN at)
+          (NP (NN dark)))))
+    (. .)))
+

@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (S
+      (NP (NN zahir))
+      (VP (VBD refused)))
+    (CC and)
+    (S
+      (NP (DT the) (CD two))
+      (VP (VBD entered)
+        (PP (IN into)
+          (NP
+            (NP (DT an) (JJ armed) (NN conflict))
+            (, ,)
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (NP (NN zahir))
+                (VP (VBD won))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nonetheless))
+    (NP (NN zahir))
+    (VP
+      (VP (VBD pardoned)
+        (NP (NN ali)))
+      (CC and)
+      (VP
+        (ADVP (RB ultimately))
+        (VBD ceded)
+        (NP (DT the) (NN village))
+        (PP (TO to)
+          (NP (PRP him)))))
+    (. .)))
+

@@ -1,0 +1,50 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (JJ coming) (NN war))
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (NP (PRP he))
+          (VP (VBZ admits)
+            (SBAR
+              (S
+                (VP (MD will)
+                  (VP (VB engulf)
+                    (PP (RB not)
+                      (PP (RB just)
+                        (ADVP
+                          (NP (DT the) (NN middle))
+                          (RB east)))
+                      (, ,)
+                      (CC but)
+                      (PP
+                        (NP (NNS regions))))
+                    (ADVP (RB far) (IN beyond)))))))))
+      (, ,))
+    (VP (VBZ is) (, ,)
+      (PP
+        (PP (IN for)
+          (NP (PRP him)))
+        (CC and)
+        (PP (IN for)
+          (NP (JJS most) (NNS israelis))))
+      (, ,)
+      (ADJP (RB seemingly) (JJ unavoidable)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP interestingly))
+    (ADVP (RB there))
+    (VP (VBZ seems)
+      (S
+        (VP (TO to)
+          (VP (VB be)
+            (NP
+              (NP (DT no) (NN problem))
+              (PP (IN with)
+                (NP (DT a) (JJ nuclear) (NN israel))))))))
+    (. .)))
+

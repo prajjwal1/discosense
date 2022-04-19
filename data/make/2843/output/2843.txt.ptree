@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (NP (NNP versa))
+    (VP (VBD had)
+      (NP
+        (NP (DT a) (JJ commercial) (JJ general) (NN liability) (NN insurance) (NN policy))
+        (CC and)
+        (NP (JJ aself) (JJ insured) (NN retention) (NN endorsement)))
+      (PP (IN with)
+        (NP (CD gulf) (NNS underwriters) (NN insurance) (NN company))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB because) (IN of)
+      (NP (DT this) (NN policy)))
+    (, ,)
+    (NP (NNS burris))
+    (VP (VBD sued)
+      (SBAR
+        (S
+          (NP
+            (NP (NN gulf))
+            (PP (IN for)
+              (NP (DT the) (NN policy))))
+          (VP (VBZ limits)
+            (SBAR
+              (S
+                (NP (PRP they))
+                (VP (VBD had)
+                  (PP (IN in)
+                    (NP
+                      (NP (NN coverage))
+                      (PP (IN for)
+                        (NP (NNP versa))))))))))))
+    (. .)))
+

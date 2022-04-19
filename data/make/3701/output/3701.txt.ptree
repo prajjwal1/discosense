@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (NP
+      (NP (NN none))
+      (PP (IN of)
+        (NP
+          (NP (DT those))
+          (VP (VBN granted)
+            (ADVP (RB clemency))))))
+    (VP (VBD were)
+      (VP (VBN convicted)
+        (PP (IN in)
+          (NP
+            (NP (DT any))
+            (PP (IN of)
+              (NP (DT the) (JJ actual) (NNS bombings)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB rather))
+    (NP (PRP they))
+    (VP (VBD had)
+      (VP (VBN been)
+        (VP (VBN convicted)
+          (PP (IN on)
+            (NP
+              (NP (DT a) (NN variety))
+              (PP (IN of)
+                (NP
+                  (NP (NNS charges))
+                  (VP (VBG ranging)
+                    (PP (IN from)
+                      (NP (NN bomb) (NN making)
+                        (CC and)
+                        (NN conspiracy)))
+                    (PP (TO to)
+                      (NP (JJ armed) (NN robbery)
+                        (CC and)
+                        (NN firearms) (NNS violations)))))))))))
+    (. .)))
+

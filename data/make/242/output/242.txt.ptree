@@ -1,0 +1,47 @@
+(ROOT
+  (S
+    (NP (PRP they))
+    (VP (VBP become)
+      (NP
+        (NP (NN part))
+        (PP (IN of)
+          (NP (DT a) (NNS multimedia) (NN narrative))))
+      (, ,)
+      (SBAR
+        (ADVP (RB now))
+        (IN that)
+        (S
+          (NP (NNS journalists))
+          (VP
+            (VP
+              (ADVP (RB no) (RB longer))
+              (VBP need)
+              (S
+                (VP (TO to)
+                  (VP (VB pick)
+                    (NP (CD one) (NN medium))))))
+            (CC but)
+            (VP (MD can)
+              (VP (VB work)
+                (PP (IN in)
+                  (NP (PRP them))
+                  (ADVP (DT all)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (RB in) (JJ short))
+    (VP
+      (VP (VBD were) (RB not)
+        (VP (VBG using)
+          (NP (NNS cameras))
+          (S
+            (VP (TO to)
+              (VP (VB make)
+                (NP (NN tv))
+                (PP (IN with)
+                  (NP (PDT all) (PRP$ its) (NNS trappings))))))))
+      (CC and)
+      (VP (VBZ orthodoxies)))
+    (. .)))
+

@@ -1,0 +1,46 @@
+(ROOT
+  (S (CC but)
+    (NP (DT the) (NN plan))
+    (VP (VBD was)
+      (VP (VBN vetoed)
+        (PP (IN by)
+          (NP
+            (NP (DT the) (JJ local) (JJ historic) (NN district) (NN commission))
+            (, ,)
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (VP (VBD wanted)
+                  (NP
+                    (NP (DT a) (NN delineation))
+                    (PP (IN between)
+                      (NP
+                        (NP (DT the) (JJ new)
+                          (CC and)
+                          (JJ old) (NNS portions))
+                        (PP (IN of)
+                          (NP (DT the) (NN facade)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB instead))
+    (NP (DT the) (NN couple))
+    (VP (VBD went)
+      (PP (IN with)
+        (NP
+          (NP (DT an) (JJ open) (NN deck))
+          (CC and)
+          (NP (DT a) (JJ juliet) (NN balcony))))
+      (PP (IN above)
+        (NP
+          (NP (NNS thats))
+          (VP (VBN bordered)
+            (PP (IN with)
+              (NP
+                (NP (DT the) (JJ same) (JJ cypress) (NN reproduction) (NN gingerbread) (NN railing))
+                (VP (VBN used)
+                  (PP (IN on)
+                    (NP (DT the) (NN porch))))))))))
+    (. .)))
+

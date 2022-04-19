@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (NP (DT the) (NNS hypothesis))
+    (VP (VBZ assumes)
+      (SBAR (IN that)
+        (S
+          (NP (JJ disorganized) (NN regeneration))
+          (VP (VBZ occurs)
+            (PP (IN at)
+              (NP
+                (NP (DT the) (NN site))
+                (PP (IN of)
+                  (NP (DT the) (NN lesion)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN on)
+      (NP (DT the) (NN contrary)))
+    (NP
+      (NP (JJ recent) (NN research))
+      (PP (IN by)
+        (NP (NN choi)
+          (CC and)
+          (NN raisman))))
+    (VP (VBZ has)
+      (VP (VBN provided)
+        (NP
+          (NP (DT a) (JJR more) (JJ thorough) (NN understanding))
+          (PP (IN of)
+            (NP (NNS synkinesis))))
+        (PP (IN through)
+          (NP (JJ aberrant) (JJ axonal) (NN regeneration)))))
+    (. .)))
+

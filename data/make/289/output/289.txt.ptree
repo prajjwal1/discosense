@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (ADVP (RB historically))
+    (, ,)
+    (NP (DT the) (NN supervisor))
+    (VP (VBD was)
+      (VP (VBN inundated)
+        (PP (IN with)
+          (NP (NN information)))
+        (PP (IN on)
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (VP (TO to)
+                (VP (VB base)
+                  (NP (NN process) (NNS changes)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB subsequently))
+    (NP
+      (NP (DT a) (NN change))
+      (PP (IN in)
+        (NP (NN philosophy))))
+    (VP (VBD limited)
+      (NP (DT the) (NN control) (NNS parameters))
+      (PP (TO to)
+        (NP (DT the)
+          (ADJP (RBS most) (JJ relevant))
+          (NNS variables))))
+    (. .)))
+

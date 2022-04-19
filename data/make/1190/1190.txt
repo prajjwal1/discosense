@@ -1,0 +1,1 @@
+this allows an engine to be swapped with one having different printing characteristics. similarly print head wipers are subject to wear and tear.

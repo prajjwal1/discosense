@@ -1,0 +1,1 @@
+agreed, this is not a convenient way of discovering group membership, particularly if you have a large number of recipients. nevertheless from a security standpoint, this does mean theres no hiding of group membership.

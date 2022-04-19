@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (S
+      (NP (JJ first) (NN step))
+      (VP (VBZ is)
+        (S
+          (VP (TO to)
+            (VP (VB convert)
+              (NP (DT those) (NNS prices))
+              (PP (IN into)
+                (NP (NN something))))))))
+    (NP (PRP you))
+    (VP (MD can)
+      (VP (VB compare)
+        (PP (IN on)
+          (NP (JJ equal) (NN footing)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB however))
+    (NP (EX there))
+    (VP (VBP are)
+      (NP
+        (NP (DT a) (NN couple))
+        (PP (IN of)
+          (NP (JJ other) (NNS things)))
+        (S
+          (VP (TO to)
+            (VP (VB consider))))))
+    (. .)))
+

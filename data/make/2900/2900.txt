@@ -1,0 +1,1 @@
+from that point on, all messages sent from that country code to his handset can be translated. conversely the originating subscriber can register so that all messages originating from him, destined to specific country codes may be translated.

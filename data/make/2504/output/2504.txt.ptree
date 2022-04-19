@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (NP (DT the) (JJ present) (NN invention))
+    (VP (VBZ is)
+      (NP
+        (NP (DT an) (NN insulation) (NN composition))
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (VBZ combines)
+              (SBAR
+                (S
+                  (NP (NNS advantages))
+                  (VP
+                    (VP (VBD found)
+                      (ADVP (RB individually))
+                      (PP (IN in)
+                        (NP (JJ different) (NNS products))))
+                    (CC but)
+                    (VP
+                      (ADVP (RB not) (RB previously))
+                      (VBD found)
+                      (PRT (RP together))
+                      (PP (IN in)
+                        (NP (DT a) (JJ single) (NN product))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP (NN example)))
+    (NP (DT the) (JJ present) (NN composition))
+    (VP (MD can)
+      (VP (VB be)
+        (VP (VBN used)
+          (PP
+            (PP (IN as)
+              (NP
+                (NP (DT a) (JJ wet) (NN spray) (NN insulation))
+                (PP (IN for)
+                  (NP (NN fireproof) (NNS requirements)))))
+            (CONJP (RB as) (RB well) (IN as))
+            (PP (IN for)
+              (NP (JJ sound) (NN absorption)))))))
+    (. .)))
+

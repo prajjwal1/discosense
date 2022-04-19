@@ -1,0 +1,18 @@
+poss(drawings-3, your-1)
+nn(drawings-3, eye-2)
+nsubj(show-4, drawings-3)
+root(ROOT-0, show-4)
+advmod(much-6, so-5)
+advmod(show-4, much-6)
+
+prep_in(show-4, particular-2)
+nsubj(show-4, they-3)
+root(ROOT-0, show-4)
+poss(enthusiasm-6, your-5)
+dobj(show-4, enthusiasm-6)
+prepc_for(show-4, drawing-8)
+dobj(drawing-8, them-9)
+det(place-13, the-11)
+amod(place-13, first-12)
+prep_in(drawing-8, place-13)
+

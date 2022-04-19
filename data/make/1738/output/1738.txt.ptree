@@ -1,0 +1,44 @@
+(ROOT
+  (S
+    (ADVP (RB unfortunately))
+    (, ,)
+    (NP
+      (NP (NN dr.) (JJ fred) (NN holcombe))
+      (, ,)
+      (SBAR
+        (WHNP (WP who))
+        (S
+          (VP (VBD planted)
+            (NP (DT the) (NN seed))
+            (PP (IN for)
+              (NP (DT this) (NN exhibition))))))
+      (, ,))
+    (VP (VBD passed)
+      (PRT (RP away))
+      (PP (IN in)
+        (NP (NN november) (CD 2000))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nonetheless))
+    (NP (PRP he))
+    (VP (VBD taught)
+      (SBAR
+        (S
+          (NP (PRP$ his) (NN son))
+          (ADVP (RB much)
+            (PP (IN about)
+              (NP (NN lgw)
+                (CC and)
+                (NN joe))))
+          (VP (VBZ has)
+            (VP (VBN continued)
+              (NP (PRP$ his) (NNS fathers) (NN vision))
+              (PP (IN with)
+                (NP
+                  (NP (PRP$ his) (NNS fathers) (NN spirit))
+                  (CC and)
+                  (NP (JJ keen) (NN interest)))))))))
+    (. .)))
+

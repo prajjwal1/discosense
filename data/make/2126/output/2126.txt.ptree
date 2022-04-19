@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (NP (FW i))
+    (ADVP (RB fully))
+    (VP (VBP understand)
+      (NP (PRP$ its)
+        (ADJP (RB not) (JJ easy)
+          (S
+            (VP (TO to)
+              (VP (VB get)
+                (ADVP (RB inside))
+                (PP (TO to)
+                  (NP (PRP$ your) (NN soul)))
+                (SBAR
+                  (WHADVP (WRB when))
+                  (S
+                    (NP (PRP you))
+                    (VP (VBP are)
+                      (ADVP (RB still))
+                      (VP (VBN caught)
+                        (PRT (RP up))
+                        (PP (IN in))))))))))
+        (NN love)))
+    (. .)))
+
+(ROOT
+  (FRAG (CC but)
+    (NP
+      (NP (PRP$ its))
+      (SBAR
+        (WHNP (WP what))
+        (S
+          (NP (PRP we))
+          (VP (VBP need)
+            (S
+              (VP (TO to)
+                (VP (VB do))))))))
+    (. .)))
+

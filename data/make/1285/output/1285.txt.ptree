@@ -1,0 +1,56 @@
+(ROOT
+  (S
+    (PP (RB not)
+      (PP (IN of)
+        (NP
+          (NP (PRP$ their) (NN technology))
+          (, ,)
+          (NP (PRP$ their) (NN engineering)))))
+    (, ,)
+    (NP (PRP$ their) (NN art))
+    (ADVP (DT all) (IN on))
+    (VP (VBP display)
+      (PP (IN at)
+        (NP (DT the) (NN exposition) (NN nor)))
+      (SBAR
+        (SBAR
+          (WHADVP (WRB how))
+          (S
+            (VP (TO to)
+              (VP (VB dress)))))
+        (CC and)
+        (SBAR
+          (WHADVP (WRB how))
+          (S
+            (VP (TO to)
+              (VP (VB behave)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB rather))
+    (NP (PRP he))
+    (VP (VBD learned)
+      (PP (IN of)
+        (NP
+          (NP (DT the) (NNS mechanisms))
+          (PP (IN of)
+            (NP (NN power)))
+          (, ,)
+          (PP (IN of)
+            (NP (NN deception)))
+          (, ,)
+          (PP (IN of)
+            (NP
+              (NP (DT a) (JJ feigned) (NN aggression))
+              (SBAR
+                (WHNP (WDT which))
+                (S
+                  (VP (VBZ is)
+                    (ADVP (RB merely))
+                    (NP
+                      (NP (DT a) (NN mask))
+                      (PP (IN for)
+                        (NP (JJ real) (NN violence))))))))))))
+    (. .)))
+

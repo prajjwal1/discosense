@@ -1,0 +1,52 @@
+(ROOT
+  (S
+    (SBAR (IN once)
+      (S
+        (NP
+          (NP (DT a) (JJ key) (NN ingredient))
+          (PP (IN in)
+            (NP (NN biodiesel))))
+        (VP (VBD supplied)
+          (PP (TO to)
+            (NP (DT the) (NN west))))))
+    (, ,)
+    (NP (PRP it))
+    (ADVP (RB later))
+    (VP (VBD became)
+      (SBAR
+        (S
+          (VP (VBD shunned)
+            (SBAR (IN as)
+              (S
+                (NP (NNS details))
+                (VP (VBD emerged)
+                  (SBAR (IN that)
+                    (S
+                      (NP (JJ tropical) (NN rain) (NN forest))
+                      (VP (VBD was)
+                        (VP (VBG being)
+                          (VP (VBN decimated)
+                            (S
+                              (VP (TO to)
+                                (VP (VB make)
+                                  (NP (NN way))
+                                  (PP (IN for)
+                                    (NP (NN palm) (NN oil) (NNS plantations))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (RB as) (DT a) (NN result) (NN greenpeace))
+    (VP (VBZ has)
+      (VP (VBN carried)
+        (PRT (RP out))
+        (NP (DT a) (JJ major) (NN campaign))
+        (S
+          (VP (TO to)
+            (VP (VB slow)
+              (NP
+                (NP (DT the) (NN development))
+                (PP (IN of)
+                  (NP (DT the) (NN palm) (NN oil) (NN industry)))))))))
+    (. .)))
+

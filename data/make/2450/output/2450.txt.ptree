@@ -1,0 +1,51 @@
+(ROOT
+  (S
+    (NP (PRP it))
+    (ADVP (RB also))
+    (VP (VBZ illustrates)
+      (NP (DT the) (NNS risks))
+      (PP (IN for)
+        (NP (DT the) (NN president)))
+      (SBAR (IN as)
+        (S
+          (NP (NNS democrats))
+          (VP (VBP press)
+            (S
+              (NP (PRP him))
+              (VP (TO to)
+                (VP (VB do)
+                  (SBAR
+                    (WHNP (WP what))
+                    (S
+                      (NP (DT no) (JJ other))
+                      (VP (VBZ has)
+                        (VP
+                          (PP (IN before)
+                            (NP (JJ back) (JJ gay) (NN marriage))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB yet))
+    (NP (NN obama))
+    (VP (VBD appeared)
+      (ADJP (JJ ready)
+        (S
+          (VP (TO to)
+            (VP (VB add)
+              (NP (PRP$ his) (NN voice))
+              (PP (TO to)
+                (NP
+                  (NP (DT this) (NNS weeks) (NN debate))
+                  (PP (IN in)
+                    (NP
+                      (NP (DT a) (JJ wednesday) (NN afternoon) (NN interview))
+                      (PP (IN with)
+                        (NP (NN abc) (NN news)))))))))))
+      (SBAR (IN that)
+        (S
+          (NP (DT the) (JJ white) (NN house))
+          (ADVP (RB hastily))
+          (VP (VBD arranged)))))
+    (. .)))
+

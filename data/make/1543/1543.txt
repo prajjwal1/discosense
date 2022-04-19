@@ -1,0 +1,1 @@
+in addition, the data set can include various scans of the tissue sample taken under different conditions and or sample preparations. specifically the database may include scans taken at different levels of resolution of different areas of the sample.

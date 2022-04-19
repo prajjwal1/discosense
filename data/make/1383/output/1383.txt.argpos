@@ -1,0 +1,2 @@
+conn:if conn_POS:IN prev1:, prev1_POS:, with_prev1_full:,_if with_prev1_POS_full:,_IN prev2:say prev2_POS:VB with_prev2_full:say_if with_prev2_POS_full:VB_IN NA
+conn:if conn_POS:IN sent_pos:2 prev1:short prev1_POS:RB with_prev1_full:short_if with_prev1_POS_full:RB_IN prev2:in prev2_POS:IN with_prev2_full:in_if with_prev2_POS_full:IN_IN NA

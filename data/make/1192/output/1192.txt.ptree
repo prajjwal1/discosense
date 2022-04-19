@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (PP (IN on)
+      (NP (DT the) (NN caribbean)
+        (CC and)
+        (NN indian) (NN ocean) (NN network)))
+    (, ,)
+    (NP (NN traffic))
+    (VP (VBD was)
+      (ADJP (RB virtually) (JJ stable)
+        (PP (IN for)
+          (NP (NN capacity))))
+      (ADVP (RB down)
+        (PP (IN by)
+          (NP (CD 3.2) (NN %)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN as)
+      (NP (DT a) (NN result)))
+    (NP (DT the) (NN load) (NN factor))
+    (VP (VBD gained)
+      (NP (CD 2.3) (NNS points))
+      (PP (TO to)
+        (NP (CD 80.9) (NN %))))
+    (. .)))
+

@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (NP (NN tara))
+    (VP (VBD bagged)
+      (NP (DT a) (NN scholarship))
+      (PP (TO to)
+        (NP
+          (NP (DT the) (VBN united) (NN world) (NN college))
+          (PP (IN of)
+            (NP
+              (NP (DT the) (NN adriatic))
+              (PP (IN in)
+                (NP (NN italy)))))
+          (S
+            (VP (TO to)
+              (VP (VB pursue)
+                (NP (PRP$ her) (JJ international) (NN baccalaureate))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thereafter))
+    (NP (PRP she))
+    (VP (VBD did)
+      (NP (PRP$ her) (NN b.) (NN sc))
+      (PP (IN in)
+        (NP (NN management)))
+      (PP (IN at)
+        (NP
+          (NP (DT the) (NN london) (NN school))
+          (PP (IN of)
+            (NP (NNS economics))))))
+    (. .)))
+

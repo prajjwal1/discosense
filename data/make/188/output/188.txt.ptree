@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (S
+      (VP (VB note)
+        (NP
+          (NP (RB not) (DT all) (NNS people))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBP suffer)
+                (PP (IN from)
+                  (NP (NN night) (NNS sweats)))))))))
+    (VP (VBP have)
+      (NP (DT a) (VBG varying) (NN body) (NN temperature)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB therefore))
+    (NP (PRP you))
+    (VP (MD will)
+      (VP (VB look)
+        (PP (IN at)
+          (NP
+            (NP (DT the) (VBG cooling) (NN cycle))
+            (PP (IN with)
+              (NP
+                (NP (DT that))
+                (PP (IN in)
+                  (NP (NN mind)))))))))
+    (. .)))
+

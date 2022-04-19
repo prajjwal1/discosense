@@ -1,0 +1,55 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (JJ teeters) (NN commitment))
+        (PP (TO to)
+          (NP (NN quality))))
+      (VP (VBZ is)
+        (PP (IN amongst)
+          (NP (PRP$ our) (JJ top) (NN core) (NNS values)))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (DT that) (NN commitment))
+      (VP (VBZ has)
+        (VP (VBN been)
+          (VP (VBG unwavering)
+            (SBAR (IN since)
+              (S
+                (NP (NN roger) (NN teeter))
+                (VP (VBD started)
+                  (NP (PRP$ our) (NN company))
+                  (PP (IN in)
+                    (NP (CD 1981))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB because) (IN of)
+      (NP (DT this) (NN commitment)))
+    (, ,)
+    (NP (NN teeter))
+    (VP (VBZ volunteers)
+      (NP
+        (NP (DT all))
+        (PP (IN of)
+          (NP (PRP$ their) (NNS products)
+            (S
+              (VP (TO to)
+                (VP (VB be)
+                  (VP (VBN tested)
+                    (PP (IN by)
+                      (NP (NN ul)))
+                    (PP (TO to)
+                      (NP (DT the) (NN specification) (NN specific)))
+                    (S
+                      (VP (TO to)
+                        (VP (VB inversion)
+                          (NP (NNS tables))
+                          (SBAR (IN that)
+                            (S
+                              (NP (NN ul))
+                              (VP (VBD created)))))))))))))))
+    (. .)))
+

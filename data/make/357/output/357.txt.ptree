@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (NP (JJ moderate) (NN walking))
+    (VP (VBZ is)
+      (PP (IN about)
+        (NP
+          (NP (CD 3-4) (NNS miles))
+          (PP (IN per)
+            (NP (NN hour))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP
+      (ADVP (RB yet) (RB even))
+      (PP (IN with)
+        (NP (DT that) (NN activity) (NN level))))
+    (, ,)
+    (S
+      (NP (DT the) (VBG walking) (NN group))
+      (VP (VBD showed)
+        (NP (JJ significant) (NNS improvements))
+        (PP (IN in)
+          (NP
+            (NP (NN insulin) (NN resistance))
+            (CC and)
+            (NP (JJR lower) (NN ldl))))))
+    (CC and)
+    (S
+      (NP (DT those) (NNS changes))
+      (VP (VBD were) (RB not)
+        (VP (VBN related)
+          (PP (TO to)
+            (NP (NN weight) (NN loss))))))
+    (. .)))
+

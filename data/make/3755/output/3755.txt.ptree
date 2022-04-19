@@ -1,0 +1,53 @@
+(ROOT
+  (S
+    (NP (NNS pipes))
+    (VP (VBD obtained)
+      (NP
+        (NP (PRP$ his) (NN bachelor))
+        (PP (IN of)
+          (NP (NNS arts))))
+      (PP (IN in)
+        (NP (CD 1906))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB thereafter))
+      (NP (PRP he))
+      (VP (VBD remained)
+        (PP (IN at)
+          (NP (NN w)))
+        (NP (NN l))
+        (S
+          (VP (TO to)
+            (VP (VB study)
+              (NP (NN law)))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP he))
+      (VP (VBD transferred)
+        (S
+          (VP (TO to)
+            (VP (VB tulane)
+              (NP (NN university))
+              (PP (IN in)
+                (NP
+                  (NP (JJ new) (NNS orleans))
+                  (, ,)
+                  (SBAR
+                    (WHADVP (WRB where))
+                    (S
+                      (NP (PRP he))
+                      (VP (VBD received)
+                        (NP (DT the) (NN ll))))))))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NN b.) (NN degree))
+    (PP (IN in)
+      (NP (CD 1910)))
+    (. .)))
+

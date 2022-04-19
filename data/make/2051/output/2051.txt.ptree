@@ -1,0 +1,57 @@
+(ROOT
+  (S
+    (SBAR (IN if)
+      (S
+        (NP (DT a) (NN character))
+        (VP (VBZ is)
+          (ADJP (RB naturally) (JJ shy)
+            (PP (IN in)
+              (NP (DT the) (JJ original) (NN medium)))))))
+    (, ,)
+    (NP (PRP it))
+    (VP (MD can)
+      (VP (VB be)
+        (ADJP (JJ difficult)
+          (S
+            (VP (TO to)
+              (VP (VB bring)
+                (NP (PRP them))
+                (PP (IN into)
+                  (NP
+                    (NP (DT the) (NN spotlight))
+                    (PP (IN in)
+                      (NP (DT a) (NN fan) (NN work)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN as)
+      (NP (DT a) (NN result)))
+    (NP (NNS authors))
+    (ADVP (RB often))
+    (VP (VB give)
+      (S
+        (NP (PRP them))
+        (VP (VBN buried)
+          (NP
+            (NP (JJ tsun) (NN tsun) (NNS characteristics))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (VBP emerge)
+                  (PP (IN in)
+                    (NP (NN response)))))))
+          (PP (TO to)
+            (NP (DT a) (JJ key) (NN point)))
+          (, ,)
+          (S
+            (VP (VBG giving)
+              (NP (DT the) (NN player))
+              (NP
+                (NP (DT a) (NN backbone)
+                  (CC and)
+                  (NN respect))
+                (PP (IN from)
+                  (NP (NNS others)))))))))
+    (. .)))
+

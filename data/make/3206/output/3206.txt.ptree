@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (NP (DT an) (NN organization))
+    (VP (MD may)
+      (VP (VB choose)
+        (S
+          (VP (TO to)
+            (VP (VB buy)
+              (CC or)
+              (VB lease)
+              (NP
+                (NP
+                  (ADJP (RB externally) (JJ developed))
+                  (NN software))
+                (PP (IN for)
+                  (NP
+                    (NP (DT a) (NN variety))
+                    (PP (IN of)
+                      (NP (NNS reasons)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP (NN example)))
+    (S
+      (VP
+        (VP (VBG buying))
+        (CC or)
+        (VP (VBG leasing)
+          (PRT (RP off))
+          (NP (DT the) (NN shelf) (NN software)))))
+    (VP (VBZ eliminates)
+      (NP (NN risk))
+      (PP (IN about)
+        (NP
+          (NP (NN system) (NNS capabilities))
+          (CC and)
+          (NP (DT the) (NN completion) (NN date)))))
+    (. .)))
+

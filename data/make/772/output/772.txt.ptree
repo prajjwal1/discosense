@@ -1,0 +1,47 @@
+(ROOT
+  (S
+    (NP (PRP you))
+    (ADVP (RB really))
+    (VP (MD cant)
+      (VP (VB go)
+        (NP
+          (ADJP (JJ wrong)
+            (PP (IN with)
+              (NP
+                (NP (JJS most))
+                (PP (IN of)
+                  (NP (DT the) (NN regenerist))))))
+          (NNS serums)
+          (CC or)
+          (NNS moisturizers))
+        (ADVP
+          (ADVP (RB as) (RB long))
+          (SBAR (IN as)
+            (S
+              (NP (PRP you))
+              (VP (VB keep)
+                (S
+                  (NP (PRP$ your) (NNS expectations))
+                  (ADJP (JJ realistic)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB otherwise))
+    (NP (DT this) (NN fragrance) (JJ free) (NN serum))
+    (VP (VBZ is)
+      (NP
+        (NP (DT an) (JJ excellent) (NN option))
+        (PP (IN for)
+          (NP
+            (NP
+              (NP (NN use))
+              (PP (IN around)
+                (NP (DT the) (NNS eyes))))
+            (CC or)
+            (NP
+              (NP (RB anywhere))
+              (PP (IN on)
+                (NP (DT the) (NN face))))))))
+    (. .)))
+

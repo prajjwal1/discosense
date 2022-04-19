@@ -1,0 +1,2 @@
+conn:until conn_POS:IN prev1:week prev1_POS:NN with_prev1_full:week_until with_prev1_POS_full:NN_IN prev2:each prev2_POS:DT with_prev2_full:each_until with_prev2_POS_full:DT_IN NA
+conn:thereafter conn_POS:RB sent_pos:0 NA

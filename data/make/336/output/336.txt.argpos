@@ -1,0 +1,2 @@
+conn:after conn_POS:IN prev1:flee prev1_POS:VB with_prev1_full:flee_after with_prev1_POS_full:VB_IN prev2:better prev2_POS:RBR with_prev2_full:better_after with_prev2_POS_full:RBR_IN NA
+conn:in_contrast conn_POS:IN_NN sent_pos:0 NA

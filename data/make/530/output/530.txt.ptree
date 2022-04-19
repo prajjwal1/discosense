@@ -1,0 +1,32 @@
+(ROOT
+  (SQ (VBD did)
+    (NP (PRP you))
+    (VP (VB try)
+      (S
+        (VP (VBG looking)
+          (PRT (RP up))
+          (NP (NN compatibility) (NNS issues))
+          (PP (IN with)
+            (NP (JJ certain) (NNS games))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP (NN instance)))
+    (NP
+      (NP (DT a) (NN lot))
+      (PP (IN of)
+        (NP (NN nvidia))))
+    (VP (VBZ gpus)
+      (NP (JJ dont) (NN work))
+      (PP (IN with)
+        (NP (NN league)))
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (PRP they))
+          (VP (VBP do)
+            (NP (DT a) (JJ certain) (NN upgrade))))))
+    (. .)))
+

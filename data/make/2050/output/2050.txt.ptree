@@ -1,0 +1,54 @@
+(ROOT
+  (S
+    (SBAR (IN since)
+      (S
+        (NP (RB so) (JJ many) (NNS errors))
+        (VP (VBP are)
+          (VP (VBG creeping)
+            (PP (IN into)
+              (NP (VBN published) (NNS documents)))))))
+    (, ,)
+    (NP (PRP we))
+    (VP (VBD wanted)
+      (S
+        (VP (TO to)
+          (VP (VB find)
+            (PRT (RP out))
+            (SBAR (IN if)
+              (S
+                (NP (DT this))
+                (VP (VBZ is)
+                  (VP (VBN caused)
+                    (PP (IN by)
+                      (NP
+                        (NP (NN confusion))
+                        (SBAR
+                          (WHPP (IN over)
+                            (WHNP (WDT which)))
+                          (S
+                            (NP (NNS words))
+                            (VP (MD should)
+                              (VP (VB be)
+                                (ADJP (JJ lowercase))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (ADJP (JJ particular)))
+    (NP (PRP we))
+    (VP (VBD wanted)
+      (S
+        (VP (TO to)
+          (VP (VB find)
+            (PRT (RP out))
+            (SBAR (IN if)
+              (S
+                (NP (DT the) (NNS inconsistencies))
+                (VP (VBD were)
+                  (VP (VBN caused)
+                    (PP (IN by)
+                      (NP (JJ different) (NNS preferences)))
+                    (PP (IN for))))))))))
+    (. .)))
+

@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (ADVP (RB often))
+    (NP (EX there))
+    (VP (VBZ has)
+      (VP (VBN been)
+        (NP
+          (NP (DT no) (JJ intelligent) (NN child) (NN study))
+          (PP (CC either)
+            (S
+              (VP (VBG preceding)
+                (CC or)
+                (VBG accompanying)
+                (NP
+                  (NP (DT the) (JJ childs) (NN advent))
+                  (PP (IN in)
+                    (NP (DT the) (NN home))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB consequently))
+    (NP (DT the) (NN parent))
+    (VP (VBZ does) (RB not)
+      (VP (VB know)
+        (SBAR
+          (SBAR
+            (WHNP (WP what))
+            (S
+              (VP (TO to)
+                (VP (VB look)
+                  (PP (IN for))))))
+          (CC or)
+          (SBAR
+            (WHADVP (WRB when))
+            (S
+              (VP (TO to)
+                (VP (VB look)
+                  (PP (IN for)
+                    (NP (PRP it))))))))))
+    (. .)))
+

@@ -1,0 +1,62 @@
+(ROOT
+  (S
+    (NP (NNS proposals))
+    (VP (VBD addressed)
+      (SBAR
+        (S
+          (NP (DT both) (JJ local) (NN poverty)
+            (CC and)
+            (NN climate) (NN change))
+          (VP
+            (VP (VBZ challenges))
+            (, ,)
+            (CC and)
+            (VP (VBD offered)
+              (NP
+                (NP (DT a) (JJ wide) (NN range))
+                (PP (IN of)
+                  (NP (NNS approaches))))
+              (S
+                (VP (TO to)
+                  (VP (VB render)
+                    (S
+                      (NP (JJ local) (NN development))
+                      (ADJP (RBR more) (JJ resilient)
+                        (PP (TO to)
+                          (NP (JJ current) (NN climate) (NN variability)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB therefore))
+    (VP
+      (VP (VB support)
+        (PP (TO to)
+          (NP (NN community)))
+        (PP (VBN based)
+          (SBAR
+            (S
+              (S
+                (NP (NN adaptation))
+                (VP (MD should)
+                  (VP (VB exploit)
+                    (NP (PRP$ its) (JJ strong) (JJ local) (NN grounding)))))
+              (CC and)
+              (S
+                (NP
+                  (NP (NNS synergies))
+                  (PP (IN with)
+                    (NP (NN development) (NN help))))
+                (VP (VBP connect)
+                  (NP (JJ local) (NNS initiatives))
+                  (PP (TO to)
+                    (NP (JJR higher) (NNS levels)))))))))
+      (CC and)
+      (VP (VB use)
+        (NP (JJ complementary) (NNS approaches))
+        (S
+          (VP (TO to)
+            (VP (VB address)
+              (NP (NN policy) (NNS issues)))))))
+    (. .)))
+

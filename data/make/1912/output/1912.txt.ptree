@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (NP (JJ peak) (JJ propulsive) (NN efficiency))
+    (VP (MD can)
+      (VP (VB be)
+        (VP (VBN obtained)
+          (PP (IN by)
+            (S
+              (VP (VBG adjusting)
+                (NP (DT these) (NNS parameters))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (RB particularly)
+      (WHADVP (WRB when))
+      (S
+        (NP (NN input) (NN power) (NN coefficient))
+        (VP (VBZ is)
+          (NP
+            (QP (JJR less) (IN than) (CD 2.8))))))
+    (, ,)
+    (NP (DT the) (JJ rigid) (NN tail))
+    (VP (VBZ generates)
+      (NP
+        (NP (JJR larger) (NN thrust) (NN force))
+        (CC and)
+        (NP (JJR higher) (JJ propulsive) (NN efficiency)))
+      (PP (IN than)
+        (NP (JJ flexible) (NN tail))))
+    (. .)))
+

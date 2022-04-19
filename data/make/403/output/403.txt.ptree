@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (SBAR (IN if)
+      (S
+        (NP (NN anyone))
+        (VP (VBZ has)
+          (NP
+            (NP (DT any) (JJ practical) (NNS solutions))
+            (PP (TO to)
+              (NP (DT these) (NNS problems)))))))
+    (, ,)
+    (S
+      (INTJ (VB please))
+      (VP (VB let)
+        (NP (PRP me))))
+    (VP (VBP know))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB otherwise))
+    (VP (VB im)
+      (ADVP (RB back))
+      (PP (TO to)
+        (S
+          (VP (VBG using)
+            (NP
+              (NP (JJ nape) (NNS physics))
+              (CC and)
+              (NP
+                (NP (PRP$ my) (JJ own) (JJ proprietary) (NN image) (NN management))
+                (PP (IN for)
+                  (NP (NN conjurer)))))))))
+    (. .)))
+

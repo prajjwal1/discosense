@@ -1,0 +1,52 @@
+(ROOT
+  (S
+    (SBAR (IN as)
+      (S
+        (NP (PRP you))
+        (VP (MD can)
+          (VP (VB imagine)
+            (S
+              (VP (VBG heating)
+                (NP (DT a) (JJ solar) (NN storage) (NN tank))
+                (PP (IN with)
+                  (NP
+                    (NP (NN oil)
+                      (CC or)
+                      (NN gas))
+                    (CC or)
+                    (NP (JJ electric))))))))))
+    (VP (VBZ is)
+      (ADJP (JJ counterproductive))
+      (SBAR (IN since)
+        (S
+          (NP (NN heat) (NN exchange))
+          (VP (VBZ depends)
+            (PP (IN on)
+              (NP
+                (NP (DT a) (NN difference))
+                (PP (IN in)
+                  (NP (NN temperature)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (JJ other) (NNS words)))
+    (SBAR (IN if)
+      (S
+        (NP (DT a) (JJ fossil) (NN fuel) (NN dhw) (NN tank))
+        (VP (VBZ contains))))
+    (NP
+      (NP (JJ hot) (NN water))
+      (PP (IN than)
+        (NP
+          (NP (RB little))
+          (CC or)
+          (NP (DT no) (JJ hot) (NN water)))))
+    (VP (MD will)
+      (VP (VB be)
+        (VP (VBN collected)
+          (PP (IN from)
+            (NP (NN sunlight))))))
+    (. .)))
+

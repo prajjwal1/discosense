@@ -1,0 +1,45 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT a) (JJ solid) (NN piece))
+        (PP (IN of)
+          (NP (NN metal))))
+      (VP (MD would)
+        (VP (VB prevent)
+          (NP (DT any) (NNS particles))
+          (PP (IN from)
+            (S
+              (VP (VBG entering)
+                (NP (DT the) (NN engine))))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP it))
+      (VP (VBP wouldnt)
+        (VP (VB flow)
+          (NP (DT any) (NN air))
+          (ADVP (IN at) (DT all)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN on)
+      (NP (DT the) (JJ other) (NN hand)))
+    (S
+      (NP
+        (NP (DT the) (NN screen))
+        (VP (VBN used)
+          (PP (IN on)
+            (NP (DT a) (NN window) (NN screen)))))
+      (VP (MD will)
+        (VP (VB flow)
+          (ADVP (RB well)))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (NN wont))
+      (VP (VBP filter)
+        (ADVP (RB well) (IN at) (DT all))))
+    (. .)))
+

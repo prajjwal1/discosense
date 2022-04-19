@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (ADVP (RBR more) (RB importantly))
+    (, ,)
+    (NP (NN water) (NN extraction))
+    (VP (VBZ does) (RB not)
+      (VP (VB contain)
+        (NP
+          (NP (DT any))
+          (PP (IN of)
+            (NP (DT the) (JJ important) (NNS cannabinoids))))
+        (SBAR (IN as)
+          (S
+            (NP (PRP they))
+            (VP (VBP cling)
+              (PP (TO to)
+                (NP
+                  (NP (DT the) (JJ fatty) (NNS acids))
+                  (PP (IN of)
+                    (NP
+                      (NP (DT the) (NN plant))
+                      (, ,)
+                      (SBAR
+                        (WHNP (WDT which))
+                        (S
+                          (VP (VBP are) (RB not)
+                            (VP (VBN dissolved)
+                              (PP (IN in)
+                                (NP (NN water) (NN extraction))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (RB yet) (JJ cold))
+    (VP (VBD pressed)
+      (SBAR
+        (S
+          (NP (NN hemp) (NN juice))
+          (VP (VBZ does)
+            (VP (VB contain)
+              (NP (DT the) (JJ valuable) (NNS cannabinoids)))))))
+    (. .)))
+

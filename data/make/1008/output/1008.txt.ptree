@@ -1,0 +1,49 @@
+(ROOT
+  (S
+    (SBAR (RB even) (IN though)
+      (S
+        (NP (PRP$ their) (NNS minds)
+          (CC and)
+          (NNS motives))
+        (VP (VBP are)
+          (ADJP (RB quite) (JJ alien)
+            (PP (TO to)
+              (NP (JJS most) (NNS humanoids)))))))
+    (, ,)
+    (NP (NNS seugathi))
+    (VP (VBP are)
+      (VP (VBN known)
+        (S
+          (VP (TO to)
+            (VP (VB have)
+              (NP
+                (NP (DT a)
+                  (ADJP (RB very) (JJ human))
+                  (JJ like) (NN trait))
+                (SBAR
+                  (S
+                    (NP (PRP they))
+                    (VP (VBP keep)
+                      (NP (NNS pets)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB specifically))
+    (NP (PRP they))
+    (VP (VBP make)
+      (NP
+        (NP (NNS pets))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (NN eel))
+            (PP (IN like)
+              (NP (NNS olaggi))))))
+      (, ,)
+      (S
+        (VP (VBG keeping)
+          (NP (PRP them))
+          (PP (IN in)
+            (NP (JJ large) (NNS numbers))))))
+    (. .)))
+

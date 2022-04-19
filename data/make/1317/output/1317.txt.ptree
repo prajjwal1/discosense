@@ -1,0 +1,64 @@
+(ROOT
+  (S
+    (NP (NN mark))
+    (VP (VBZ compares)
+      (NP
+        (NP
+          (LST (LS 3))
+          (VBN d) (NN printing))
+        (CC and)
+        (NP (NN hand)
+          (UCP
+            (NP (JJ crafted) (NN design))
+            (CC and)
+            (PP (IN in)
+              (S
+                (VP (VBG doing)
+                  (SBAR (IN so)
+                    (S
+                      (VP (VBZ articulates)
+                        (NP (PRP$ his) (NN anxiety))
+                        (PP (IN about)
+                          (SBAR
+                            (WHADVP (WRB how))
+                            (S
+                              (NP
+                                (NP (JJ widespread) (NN access))
+                                (PP (TO to)
+                                  (NP (JJ desktop) (NN fabrication) (NNS technologies))))
+                              (VP (MD may)
+                                (VP (VB increase)
+                                  (NP (DT the) (JJ disposable) (NN object))))))))))))))
+          (NN mentality))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB similarly))
+    (NP (NN ron))
+    (VP (VBZ focuses)
+      (PP (IN on)
+        (SBAR
+          (WHADVP (WRB how))
+          (S
+            (NP
+              (NP (DT the) (JJ virtual) (NN object))
+              (SBAR
+                (S
+                  (NP (PRP he))
+                  (VP (VBD created)
+                    (PP (IN at)
+                      (NP (DT the) (NN workshop)))))))
+            (VP (VBD was)
+              (ADJP (JJ enough)
+                (SBAR
+                  (S
+                    (NP (PRP he))
+                    (VP (VBD liked)
+                      (NP (PRP$ its) (JJ virtual) (NN form))
+                      (PP (IN without)
+                        (S
+                          (VP (VBG needing)
+                            (NP (DT a) (JJ physical) (NN version))))))))))))))
+    (. .)))
+

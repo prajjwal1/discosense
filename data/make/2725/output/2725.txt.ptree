@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (NP
+      (NP
+        (QP (IN at) (CD 334))
+        (DT the) (NN fujifilm) (NN finepix))
+      (ADJP (JJ sl)
+        (NP (CD 1000))))
+    (VP (VBZ is) (RB not)
+      (NP (DT a) (JJ cheap) (JJ compact) (NN camera)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB however))
+    (NP (DT the)
+      (ADJP (CD 50) (NN x))
+      (JJ optical) (NN zoom))
+    (VP (VBZ is)
+      (ADVP (RB currently))
+      (ADJP (JJ untouched)
+        (CC and)
+        (JJ thats))
+      (PP (IN worth)
+        (NP (DT a) (NN premium))))
+    (. .)))
+

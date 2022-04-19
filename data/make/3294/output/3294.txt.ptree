@@ -1,0 +1,49 @@
+(ROOT
+  (S
+    (NP
+      (NP (NN chicana) (NNS writers))
+      (, ,)
+      (VP
+        (ADVP (RB already))
+        (VBN marginalized)
+        (PP (IN by)
+          (NP
+            (NP (NN virtue))
+            (PP (IN of)
+              (NP (PRP$ their) (NN ethnicity)
+                (CC and)
+                (NN gender))))))
+      (, ,))
+    (VP (VBP risk)
+      (NP (JJ further) (NN marginalization))
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (PRP they))
+          (VP (VBP choose)
+            (S
+              (VP (TO to)
+                (VP (VB use)
+                  (NP (JJ experimental) (NNS forms)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nonetheless))
+    (NP (DT the) (NN decision)
+      (S
+        (VP (TO to)
+          (VP (VB break)
+            (PP (IN from)
+              (NP (JJ traditional) (NNS genres)))))))
+    (VP (VBZ is)
+      (ADVP (RB often))
+      (NP
+        (NP (DT another) (NN strategy))
+        (PP (IN of)
+          (NP
+            (NP (NN resistance))
+            (PP (IN for)
+              (NP (DT these) (NNS writers)))))))
+    (. .)))
+

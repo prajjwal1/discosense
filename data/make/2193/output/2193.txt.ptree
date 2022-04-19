@@ -1,0 +1,48 @@
+(ROOT
+  (S
+    (NP (DT the) (NN workshop))
+    (VP (VBZ intends)
+      (S
+        (VP (TO to)
+          (VP (VB provide)
+            (NP (DT a) (NN platform)
+              (S
+                (VP
+                  (VP (TO to)
+                    (VP (VB enable)
+                      (NP (JJ such) (NN cross) (NN fertilization))))
+                  (, ,)
+                  (VP (TO to)
+                    (VP
+                      (ADVP (RB ultimately))
+                      (VB speed)
+                      (PRT (RP up))
+                      (NP
+                        (NP (DT the) (NN development))
+                        (PP (IN of)
+                          (NP (DT the) (NN field))))))
+                  (CC and)
+                  (VP (TO to)
+                    (VP (VB foster)
+                      (NP
+                        (NP (JJ rich) (NN interdisciplinary) (NN work))
+                        (PP (IN in)
+                          (NP (DT the) (NN future)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB particularly))
+    (NP
+      (NP (NN co) (NN location))
+      (PP (IN with)
+        (NP (DT the) (JJ cyber) (JJ physical) (NNS systems))))
+    (NP (NN week))
+    (VP (MD will)
+      (VP (VB be)
+        (NP
+          (NP (DT an) (NN asset))
+          (PP (IN in)
+            (NP (DT this) (NN regard))))))
+    (. .)))
+

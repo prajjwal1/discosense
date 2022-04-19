@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (NNS discrepancies))
+      (PP (IN between)
+        (NP (DT the) (NNS methods) (NN utilized))))
+    (VP (VBP have)
+      (VP (VBN been)
+        (VP
+          (ADVP (RB extensively))
+          (VBN examined)
+          (PP (IN in)
+            (NP (DT the) (VBG preceding) (NN section))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (JJ other) (NNS words)))
+    (NP
+      (NP (DT the) (JJ effective) (NN energy) (NN density))
+      (PP (IN of)
+        (NP
+          (NP (DT the) (NNS batteries))
+          (PP (IN during)
+            (NP (DT these) (NNS experiments))))))
+    (VP (VBD was)
+      (PP (IN in)
+        (NP (NN fact)))
+      (NP
+        (NP
+          (QP (RB approximately) (PDT half)))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (NNS manufacturers))
+            (VP (VBN estimated)
+              (NP (CD 30) (NN wh) (NN kg)))))))
+    (. .)))
+

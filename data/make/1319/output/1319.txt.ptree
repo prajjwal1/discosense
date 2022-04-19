@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (PP (VBG according)
+      (PP (TO to)
+        (NP (DT the) (NN county) (NNS clerks) (NN office))))
+    (, ,)
+    (NP (NN antonovich))
+    (VP (VBD received)
+      (NP
+        (NP (CD 94,049) (NNS votes))
+        (, ,)
+        (CC or)
+        (NP (CD 78.97) (NN percent))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ conversely) (NN hinze))
+      (, ,)
+      (SBAR
+        (WHNP (WP who))
+        (S
+          (VP (VBD ran)
+            (PP (IN under)
+              (NP (DT the) (NN party)))
+            (PP (IN for)
+              (NP (NN socialism)
+                (CC and)
+                (NN liberation) (NN ticket))))))
+      (, ,))
+    (VP (VBD garnered)
+      (NP
+        (NP (CD 25,047) (NNS votes))
+        (, ,)
+        (NP
+          (QP (CC or)
+            (CD 21.03))
+          (NN percent))))
+    (. .)))
+

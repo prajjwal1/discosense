@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (JJ large) (NNS doses)))
+    (NP (DT the) (NN kidney))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (NN target) (NN organ))
+        (PP (IN for)
+          (NP
+            (NP (DT the) (JJ acute) (NN chemical) (NN toxicity))
+            (PP (IN of)
+              (NP (DT this) (NN metal))))))
+      (, ,)
+      (S
+        (VP (VBG producing)
+          (NP
+            (ADJP (RB potentially) (JJ lethal))
+            (JJ tubular) (NNS necrosis)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN contrast)))
+    (NP
+      (NP (JJ chronic) (JJ low) (NN dose) (NN exposure))
+      (PP (TO to)
+        (NP (JJ depleted) (NN uranium))))
+    (VP (MD may) (RB not)
+      (VP (VB produce)
+        (NP
+          (NP (DT a)
+            (ADJP (JJ clear)
+              (CC and)
+              (JJ defined))
+            (NN set))
+          (PP (IN of)
+            (NP (NNS symptoms))))))
+    (. .)))
+

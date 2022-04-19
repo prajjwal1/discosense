@@ -1,0 +1,50 @@
+(ROOT
+  (S
+    (SBAR (IN whether)
+      (S
+        (NP
+          (QP (CC or)
+            (RB not))
+          (NNS i))
+        (VP (VBD made)
+          (S
+            (NP (DT the) (NN distinction))
+            (ADJP (JJ clear))))))
+    (, ,)
+    (NP (FW i))
+    (VP (VBP think)
+      (SBAR (IN that)
+        (S
+          (S
+            (VP (VBZ is)
+              (NP
+                (NP (DT the) (CD two) (NNS kinds))
+                (PP (IN of)
+                  (NP (JJ difficult) (FW i))))))
+          (VP (VBP am)
+            (VP (VBG trying)
+              (S
+                (VP (TO to)
+                  (VP (VB describe)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB though))
+    (NP (FW i))
+    (VP (VBP think)
+      (SBAR
+        (S
+          (NP (PRP we))
+          (VP (MD would)
+            (VP (VB disagree)
+              (PRT (RP over))
+              (SBAR
+                (WHNP (WDT which))
+                (S
+                  (NP (NNS elements))
+                  (VP (VBP belong)
+                    (PP (TO to)
+                      (NP (WDT which)))))))))))
+    (. .)))
+

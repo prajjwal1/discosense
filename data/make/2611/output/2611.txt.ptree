@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (NP (DT this) (NN report))
+    (VP (VBZ replaces)
+      (VP (VB read)
+        (NP (JJ only) (NN access))
+        (PP (TO to)
+          (NP
+            (NP (VBN submitted) (NN application) (NNS data))
+            (CC and)
+            (NP (DT the) (NN application) (NN detail) (NN report))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (JJ other) (NNS words)))
+    (NP (PRP you))
+    (VP (MD can)
+      (ADVP (RB no) (RB longer))
+      (VP (VB navigate)
+        (PP (TO to)
+          (NP
+            (NP (NNS pages))
+            (PP (IN within)
+              (NP (NN epsap)
+                (CC and)
+                (NN view) (NN application) (NNS data)))))
+        (PP (IN after)
+          (NP (DT the) (JJ final) (NN submittal)))))
+    (. .)))
+

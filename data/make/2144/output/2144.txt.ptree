@@ -1,0 +1,44 @@
+(ROOT
+  (S
+    (NP (NNS chalabi))
+    (VP (VBD was)
+      (VP (VBN banned)
+        (PP (IN from)
+          (NP (DT those) (JJ frequent) (NNS visits)))
+        (S
+          (VP (TO to)
+            (VP (VB cia)
+              (NP (NN hq))
+              (PP (IN at)
+                (NP
+                  (NP (NN langley))
+                  (, ,)
+                  (NP (NN virginia)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nonetheless))
+    (NP (NNS chalabi))
+    (VP (VBD was)
+      (ADVP (RB doggedly))
+      (VP (VBN determined)
+        (PP (IN in)
+          (NP
+            (NP (CD 1998) (NN congress))
+            (VP (VBN passed)
+              (NP (DT the) (JJ iraqi) (NN liberation) (NN act))
+              (S
+                (VP (VBG making)
+                  (S
+                    (NP (PRP it))
+                    (VP (VB american)
+                      (NP
+                        (NP (NN law) (NN thatregime))
+                        (VP (VBN changewould)
+                          (S
+                            (VP (VB happen)
+                              (PP (IN in)
+                                (NP (NNP iraq))))))))))))))))
+    (. .)))
+

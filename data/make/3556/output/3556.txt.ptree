@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (NN chance))
+      (SBAR (IN that)
+        (S
+          (NP (DT a) (JJ positive) (NN test))
+          (ADVP (RB accurately))
+          (VP (VBZ indicates)
+            (NP (DT an) (NN hiv) (NN infection))))))
+    (VP (VBZ increases)
+      (PP (IN as)
+        (NP
+          (NP (DT the) (NN prevalence)
+            (CC or)
+            (NN rate))
+          (PP (IN of)
+            (NP
+              (NP (NN hiv) (NN infection) (NNS increases))
+              (PP (IN in)
+                (NP (DT the) (NN population))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB conversely))
+    (NP (DT the) (JJ negative) (JJ predictive) (NN value))
+    (VP (MD will)
+      (VP (VB decrease)
+        (SBAR (IN as)
+          (S
+            (NP (DT the) (NN hiv) (NN prevalence))
+            (VP (VBZ rises))))))
+    (. .)))
+

@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (NP (PRP we))
+    (VP (VBP have)
+      (NP (JJ several) (NN contact) (NNS lists))
+      (SBAR (IN that)
+        (S
+          (NP (PRP we))
+          (VP (VBP maintain)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP (NN example)))
+    (NP (PRP we))
+    (VP (VBP have)
+      (NP
+        (NP (NNS lists))
+        (PP (IN for)
+          (NP (DT all) (JJ 9th) (NN grade) (NNS parents)))
+        (, ,)
+        (NP (DT all) (JJ 10th) (NN grade) (NNS parents))
+        (, ,)
+        (CC and)
+        (ADVP (RB so) (RB on))))
+    (. .)))
+

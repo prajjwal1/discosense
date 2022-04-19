@@ -1,0 +1,1 @@
+conn:and conn_POS:CC prev1:estimated prev1_POS:VBN with_prev1_full:estimated_and with_prev1_POS_full:VBN_CC prev2:previously prev2_POS:RB with_prev2_full:previously_and with_prev2_POS_full:RB_CC NA

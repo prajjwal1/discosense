@@ -1,0 +1,63 @@
+(ROOT
+  (S
+    (PP (IN for)
+      (NP (NN example)))
+    (, ,)
+    (ADVP (RB generally))
+    (, ,)
+    (NP (NN papr))
+    (VP (MD may)
+      (VP (VB become)
+        (NP (JJR smaller))
+        (SBAR (IN as)
+          (S
+            (NP
+              (NP (DT the) (NN number))
+              (PP (IN of)
+                (NP
+                  (NP (NNS carriers))
+                  (PP (IN for)
+                    (NP (DT the) (NN signal)
+                      (S
+                        (VP (TO to)
+                          (VP (VB be)
+                            (VP
+                              (ADVP (RB wirelessly))
+                              (VBN transmitted))))))))))
+            (VP (VBZ becomes)
+              (ADJP (JJR smaller)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (RB hence) (DT the) (NN threshold) (NN value))
+      (SBAR
+        (S
+          (NP (NN controller) (CD 71))
+          (VP (VBZ increases)
+            (NP
+              (NP (DT the) (NN threshold) (NN value))
+              (PP (IN of)
+                (NP
+                  (NP (DT the) (NN amplitude))
+                  (VP (VBG determining)
+                    (NP
+                      (NP (NN section) (CD 22))
+                      (PP (IN as)
+                        (NP
+                          (NP (DT the) (NN number))
+                          (PP (IN of)
+                            (NP (NNS carriers))))))
+                    (PP (IN for)
+                      (NP (DT the) (NN signal)))
+                    (S
+                      (VP (TO to)
+                        (VP (VB be)
+                          (VP
+                            (ADVP (RB wirelessly))
+                            (VBN transmitted)))))))))))))
+    (VP (VBZ becomes)
+      (ADJP (JJR smaller)))
+    (. .)))
+

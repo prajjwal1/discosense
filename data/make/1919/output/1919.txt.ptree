@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (NP
+      (NP (JJ smart) (NN grid))
+      (, ,)
+      (VP (VBN equipped)
+        (PP (IN with)
+          (NP (JJ modern) (NN communication) (NNS infrastructures))))
+      (, ,))
+    (VP (VBZ is)
+      (ADJP (JJ subject)
+        (PP (TO to)
+          (NP (JJ possible) (NN cyber) (NNS attacks)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (ADJP (RB particularly) (JJ false))
+        (NN report) (NNS attacks))
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (VP (VBP replace)
+            (NP (DT the) (NN sensor) (NNS reports))
+            (PP (IN with)
+              (NP (NN fraud) (NNS ones)))))))
+    (VP (MD may)
+      (VP (VB cause)
+        (NP
+          (NP
+            (NP (DT the) (NN instability))
+            (PP (IN of)
+              (NP (DT the) (JJ whole) (NN power) (NN grid))))
+          (CC or)
+          (NP
+            (NP (RB even) (NN result))
+            (PP (IN in)
+              (NP (DT a) (JJ large) (NN area) (NN blackout)))))))
+    (. .)))
+

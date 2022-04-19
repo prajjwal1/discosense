@@ -1,0 +1,52 @@
+(ROOT
+  (S
+    (S
+      (PP (IN in)
+        (NP (JJ early) (NN american) (NN fiction)))
+      (, ,)
+      (NP (NN washington) (NNS irvings))
+      (VP (VBP rip)
+        (SBAR
+          (S
+            (NP (NNP van) (NNP winkle))
+            (VP (VBZ represents)
+              (NP
+                (NP (DT the)
+                  (ADJP (JJS best) (VBN known))
+                  (NN characterization))
+                (PP (IN of)
+                  (NP
+                    (NP (DT this) (JJ transcendent) (NN desire))
+                    (PP (IN for)
+                      (NP
+                        (NP (NNS states))
+                        (PP (IN of)
+                          (NP (NNS timelessness)))))))))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (EX there))
+      (VP (VBP are)
+        (NP (JJ many) (NNS others))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (PP (IN in)
+        (NP (JJ short) (NNS rains)))
+      (NP (JJ riverbound) (NNS lowlifes))
+      (VP (VBP exist)
+        (ADVP (IN outside)
+          (PP (IN of)
+            (NP (NN time))))
+        (ADVP (RB consequently))))
+    (NP (PRP they))
+    (VP (VBP are) (, ,)
+      (PP (IN for)
+        (NP (NN twain)))
+      (, ,)
+      (ADVP (RB literally)
+        (NP (NNS nobodies))))
+    (. .)))
+

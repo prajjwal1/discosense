@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB when))
+      (S
+        (NP (PRP they))
+        (VP (VBD attempted)
+          (S
+            (VP (TO to)
+              (VP (VB climb)
+                (NP (DT that) (NN hill)))))
+          (, ,)
+          (PP (IN through)
+            (NP (DT the) (JJ legal) (NN process))))))
+    (, ,)
+    (NP (PRP it))
+    (ADVP (RB probably))
+    (VP (VBP didnt)
+      (VP (VB sit)
+        (ADVP (RB too) (RB well))
+        (PP (IN with)
+          (NP (DT the) (NN commish)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (PP (IN in)
+        (NP (NN sum)))
+      (NP (FW i))
+      (VP (VBD did) (RB not)
+        (VP (VB make)
+          (NP (PRP$ my) (NNS determinations))
+          (ADVP (RB here))
+          (ADVP (RB lightly)))))
+    (, ,)
+    (NP (NN goodell))
+    (VP (VBD wrote))
+    (. .)))
+

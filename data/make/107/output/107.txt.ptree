@@ -1,0 +1,38 @@
+(ROOT
+  (S
+    (NP (NNS macrumors))
+    (VP (VBZ points)
+      (PRT (RP out))
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (DT the) (JJ ipad) (CD 2))
+            (, ,)
+            (NP (CD 4)))
+          (VP (VBZ has)
+            (VP (VBN been)
+              (VP (VBN used)
+                (PP (IN as)
+                  (NP
+                    (NP (DT a) (NN test) (NN bed))
+                    (PP (IN for)
+                      (NP (JJ next) (NN generation) (NN chip) (NNS processes)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN contrast)))
+    (NP
+      (NP (DT the) (JJ ipad) (CD 3))
+      (NP (DT a) (CD 5) (NNS x)))
+    (VP (VBZ continues)
+      (S
+        (VP (TO to)
+          (VP (VB be)
+            (VP (VBN produced)
+              (S
+                (VP (VBG using)
+                  (NP (DT a) (CD 45) (NN nm) (NN process)))))))))
+    (. .)))
+

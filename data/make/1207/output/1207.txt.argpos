@@ -1,0 +1,3 @@
+conn:since conn_POS:IN sent_pos:2 prev1:, prev1_POS:, with_prev1_full:,_since with_prev1_POS_full:,_IN prev2:further prev2_POS:RB with_prev2_full:further_since with_prev2_POS_full:RB_IN NA
+conn:therefore conn_POS:RB sent_pos:0 NA
+conn:since conn_POS:IN prev1:, prev1_POS:, with_prev1_full:,_since with_prev1_POS_full:,_IN prev2:themselves prev2_POS:PRP with_prev2_full:themselves_since with_prev2_POS_full:PRP_IN NA

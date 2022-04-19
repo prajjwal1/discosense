@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (NP (FW i))
+    (VP (VBD was)
+      (PP (IN in)
+        (NP (DT a) (JJ french) (NN reading) (NN club)))
+      (SBAR
+        (WHADVP (WRB where))
+        (S
+          (NP (NNS people))
+          (VP (VBD hated)
+            (NP (DT the) (NN book) (NN madame))
+            (ADVP (RB bovary))
+            (PP (IN because)
+              (NP
+                (NP (NN emma) (NN bovary))
+                (SBAR
+                  (S
+                    (NP (PRP herself))
+                    (VP (VBD was)
+                      (ADJP (RB so) (JJ unlikeable)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN though)
+      (FRAG
+        (ADVP (RB personally))))
+    (, ,)
+    (NP (FW i))
+    (VP (VBP dont)
+      (NP (NN dislike) (NN piper)))
+    (. .)))
+

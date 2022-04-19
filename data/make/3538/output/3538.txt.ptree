@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT some))
+      (PP (IN of)
+        (NP (DT the) (JJ other) (NNS threats))))
+    (VP (VBP include)
+      (NP
+        (NP (NNS floods))
+        (, ,)
+        (NP (NNS fires))
+        (CC and)
+        (NP
+          (NP (DT the) (NN possibility))
+          (PP (IN of)
+            (NP
+              (NP (NNS epidemics))
+              (CC and)
+              (NP (JJ natural) (NNS calamities)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nonetheless))
+    (NP (NN gir))
+    (VP
+      (ADVP (RB nonetheless))
+      (VBZ remains)
+      (NP (DT the)
+        (ADJP (RBS most) (JJ promising))
+        (JJ long) (NN term))
+      (S
+        (VP (VB preserve)
+          (PP (IN for)
+            (NP (PRP them))))))
+    (. .)))
+

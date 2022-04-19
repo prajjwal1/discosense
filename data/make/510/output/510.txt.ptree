@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (NP (FW i))
+    (VP
+      (VP (VBP love)
+        (NP (NNS cookies)))
+      (, ,)
+      (CC but)
+      (VP (VBP im)
+        (NP
+          (NP (RB not) (DT a) (NN fan))
+          (PP (IN of)
+            (NP (NN cookie) (NN cutter) (NN style))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (ADVP (RB conversely))
+      (IN if)
+      (S
+        (NP (PRP you))
+        (VP (VBP limit)
+          (NP (PRP$ your) (NN dining) (NN table))
+          (PP (TO to)
+            (NP (DT a) (JJ single) (NN color))))))
+    (, ,)
+    (NP (PRP you))
+    (VP (MD can)
+      (VP (VB provide)
+        (NP (DT a) (JJ calming) (NN oasis))
+        (PP (IN amid)
+          (NP (DT the) (NN holiday) (NNS craziness)))))
+    (. .)))
+

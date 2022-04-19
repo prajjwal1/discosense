@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (NP (NNP wvsu))
+    (VP (VBZ is)
+      (VP (VBN accredited)
+        (PP (IN by)
+          (NP
+            (NP (DT the) (VBG accrediting) (NN agency))
+            (PP (IN of)
+              (NP
+                (NP (JJ chartered) (NNS colleges)
+                  (CC and)
+                  (NNS universities))
+                (PP (IN in)
+                  (NP (DT the) (NNS philippines)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB hence))
+    (NP (NN aaccup) (NN accreditation))
+    (VP (VBZ is)
+      (NP
+        (NP (DT an)
+          (ADJP (RB internationally) (VBN recognized))
+          (NN sign))
+        (PP (IN of)
+          (NP (NN quality)))))
+    (. .)))
+

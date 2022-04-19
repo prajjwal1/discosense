@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (ADVP (RB yet))
+    (NP (PRP he))
+    (VP
+      (VP (VBD had)
+        (VP (VBN brought)
+          (NP (PRP$ his) (JJ own) (NN colony))
+          (NP (CD 49))
+          (PP (IN over)
+            (PP (TO to)
+              (NP (JJ galbas) (NN side))))))
+      (, ,)
+      (CC and)
+      (VP
+        (PP (IN by)
+          (NP (DT this) (NN service)))
+        (VBD had)
+        (VP (VBN secured)
+          (NP (DT a) (NN procuratorship)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB therefore))
+    (NP (DT the) (NNS leaders))
+    (VP (VBD set)
+      (S
+        (VP (TO to)
+          (VP (VB work)
+            (S
+              (VP (TO to)
+                (VP (VB stir)
+                  (PRT (RP up))
+                  (NP (DT the) (NN discontented))
+                  (PP (IN throughout)
+                    (NP (DT the) (JJ entire) (NN empire))))))))))
+    (. .)))
+

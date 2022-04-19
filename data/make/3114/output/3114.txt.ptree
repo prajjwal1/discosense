@@ -1,0 +1,64 @@
+(ROOT
+  (S
+    (S
+      (ADJP (JJ similar)
+        (PP (TO to)
+          (NP (JJ other) (NNS studies)))))
+    (, ,)
+    (NP (NNS boys))
+    (VP (VBD were)
+      (ADJP
+        (NP (CD four) (NNS times))
+        (RB as) (JJ likely))
+      (S
+        (VP (TO to)
+          (VP (VB have)
+            (VP (VBN asd)
+              (SBAR (IN as)
+                (S
+                  (NP
+                    (NP (NNS girls))
+                    (CC and)
+                    (NP (JJ white) (NNS children)))
+                  (VP (VBD were)
+                    (ADJP (RBR more) (JJ likely)
+                      (S
+                        (VP (TO to)
+                          (VP (VB be)
+                            (VP (VBN affected)
+                              (PP (IN than)
+                                (NP (JJ black)
+                                  (CC or)
+                                  (JJ multi) (JJ racial) (NNS children))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB interestingly))
+    (NP
+      (NP
+        (QP (RB nearly) (CD 40))
+        (NN percent))
+      (PP (IN of)
+        (NP
+          (NP (NNS children))
+          (SBAR
+            (WHNP (WP who))
+            (S
+              (VP (VBD had)
+                (VP (VBN been)
+                  (VP (VBN diagnosed)
+                    (PP (IN with)
+                      (NP
+                        (NP (NN asd))
+                        (PP (IN in)
+                          (NP (DT the) (NN past)))))))))))))
+    (ADVP (RB no) (RB longer))
+    (VP (VBD had)
+      (NP (DT the) (NN disorder))
+      (, ,)
+      (PP (VBG according)
+        (PP (TO to)
+          (NP (PRP$ their) (NNS parents)))))
+    (. .)))
+

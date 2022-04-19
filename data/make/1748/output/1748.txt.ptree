@@ -1,0 +1,59 @@
+(ROOT
+  (S
+    (NP (DT the) (NNS layoffs))
+    (VP (VBP are)
+      (ADJP (JJ consistent)
+        (PP (IN with)
+          (NP
+            (NP
+              (NP (JJ novells) (VBN renewed) (NN focus))
+              (PP (IN on)
+                (NP (PRP$ its) (NN partner) (NN channel))))
+            (, ,)
+            (CONJP (RB as) (RB well) (IN as))
+            (NP
+              (NP (DT a) (NN recognition))
+              (SBAR (IN that)
+                (S
+                  (NP (JJ empty) (NNS offices))
+                  (VP (VBP arent)
+                    (ADJP (JJ conducive)
+                      (PP (TO to)
+                        (NP (JJ corporate) (NNS profits))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (PP (IN in)
+        (NP (NN sum)))
+      (NP (DT this))
+      (VP (VBZ is)
+        (NP
+          (NP
+            (ADJP (RB very) (JJ bad))
+            (NN news))
+          (PP (IN for)
+            (NP
+              (NP (DT the) (NNS employees))
+              (SBAR
+                (WHNP (WP who))
+                (S
+                  (VP (MD will)
+                    (VP (VB lose)
+                      (NP (PRP$ their) (NNS jobs)))))))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP it))
+      (VP (VBZ sounds)
+        (PP (IN like)
+          (NP
+            (NP (DT the) (JJ right) (NN thing))
+            (PP (IN for)
+              (NP (NN novell)))))
+        (S
+          (VP (TO to)
+            (VP (VB do))))))
+    (. .)))
+

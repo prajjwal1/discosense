@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (NP
+      (NP (NN lack))
+      (PP (IN of)
+        (NP (DT an) (NN education))))
+    (ADVP (RB severely))
+    (VP (VBZ restricts)
+      (NP (DT a) (JJ womans) (NN access))
+      (PP (TO to)
+        (NP (NN information)
+          (CC and)
+          (NNS opportunities))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (ADVP (RB conversely))
+    (VP (VBG increasing)
+      (NP (NNS womens)
+        (CC and)
+        (NNS girls))
+      (NP (JJ educational) (NN attainment)))
+    (VP (VBZ benefits))
+    (NP
+      (NP (DT both) (NNS individuals))
+      (CC and)
+      (NP (JJ future) (NNS generations)))
+    (. .)))
+

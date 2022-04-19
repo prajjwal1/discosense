@@ -1,0 +1,3 @@
+conn:so conn_POS:IN sent_pos:0 NA
+conn:as_long_as conn_POS:RB_RB_IN prev1:needles prev1_POS:NNS with_prev1_full:needles_as_long_as with_prev1_POS_full:NNS_RB_RB_IN prev2:the prev2_POS:DT with_prev2_full:the_as_long_as with_prev2_POS_full:DT_RB_RB_IN NA
+conn:nevertheless conn_POS:RB sent_pos:0 NA

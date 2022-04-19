@@ -1,0 +1,3 @@
+conn:as_if conn_POS:RB_IN prev1:prick prev1_POS:NN with_prev1_full:prick_as_if with_prev1_POS_full:NN_RB_IN prev2:his prev2_POS:PRP$ with_prev2_full:his_as_if with_prev2_POS_full:PRP$_RB_IN NA
+conn:although conn_POS:IN sent_pos:0 NA
+conn:as conn_POS:IN prev1:it prev1_POS:PRP with_prev1_full:it_as with_prev1_POS_full:PRP_IN prev2:sucking prev2_POS:VBG with_prev2_full:sucking_as with_prev2_POS_full:VBG_IN NA

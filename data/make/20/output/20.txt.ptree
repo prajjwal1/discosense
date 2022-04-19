@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP
+        (NP (NNS terms))
+        (PP (IN of)
+          (NP (NN plant) (NN species) (NN diversity)))))
+    (NP (EX there))
+    (VP (VBP are)
+      (PP (IN over)
+        (NP
+          (NP (CD 3,800) (NNS species))
+          (PP (IN of)
+            (S
+              (VP (VBG flowering)
+                (NP
+                  (NP (NNS plants))
+                  (SBAR
+                    (WHPP (IN of)
+                      (WHNP (WDT which)))
+                    (S
+                      (NP (CD 23) (NN percent))
+                      (VP (VBP are)
+                        (ADJP (JJ endemic))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB similarly))
+    (NP (DT a) (JJ rich) (JJ faunal) (NN diversity))
+    (VP (VBZ exists)
+      (PP (IN with)
+        (NP (JJ high) (NN endeminism))))
+    (. .)))
+

@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (NP (PRP he))
+    (VP (VBD was)
+      (ADVP (RB never))
+      (VP (VBN signed)
+        (PP (IN by)
+          (NP (DT an) (NN nfl) (NN team)))
+        (NP (DT this) (NN year))
+        (PP (IN after)
+          (S
+            (VP (VBG being)
+              (VP (VBN cut)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB similarly))
+    (NP (NN neal) (RB just))
+    (VP (VBZ seems)
+      (S
+        (VP (TO to)
+          (VP (VB have)
+            (NP
+              (NP (CD one) (NN injury))
+              (SBAR
+                (S
+                  (VP (VBP pop)
+                    (PRT (RP up))
+                    (PP (IN after)
+                      (NP (DT another)))
+                    (, ,)
+                    (ADJP (JJ frustrating)
+                      (SBAR
+                        (S
+                          (NP
+                            (NP (DT the) (JJ young) (NN man))
+                            (PP (IN in)
+                              (NP (DT the) (JJ same) (NN way) (NN harrell))))
+                          (VP (VBD was)))))))))))))
+    (. .)))
+

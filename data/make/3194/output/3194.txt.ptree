@@ -1,0 +1,39 @@
+(ROOT
+  (S (CC but)
+    (SBAR (IN if)
+      (S
+        (NP (PRP you))
+        (VP (VBP do))))
+    (, ,)
+    (NP (PRP you))
+    (VP (VBP need)
+      (S
+        (VP (TO to)
+          (VP (VB know)
+            (SBAR (IN that)
+              (S
+                (NP
+                  (NP (NN impairment))
+                  (PP (TO to)
+                    (NP (DT the) (JJS slightest) (NN degree))))
+                (VP (VBZ is)
+                  (ADJP (JJ illegal)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (S
+        (NP (JJ other) (NNS words))
+        (VP (VBG operating)
+          (NP (DT a) (NN boat) (NN while)))))
+    (NP (NNP intoxicated))
+    (VP (VBZ is)
+      (ADJP (RB as) (JJ illegal)
+        (PP (IN as)
+          (S
+            (VP (VBG driving)
+              (NP (DT a) (NN car))
+              (ADVP (NN drunk)))))))
+    (. .)))
+

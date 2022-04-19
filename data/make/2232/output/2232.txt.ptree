@@ -1,0 +1,60 @@
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (JJ first))
+        (PP (IN of)
+          (NP
+            (NP (DT all))
+            (, ,)
+            (NP
+              (NP (DT the) (NN question))
+              (PP (IN on)
+                (NP
+                  (NP (DT the) (NN growth) (NNS rates))
+                  (PP (IN by)
+                    (NP (NN end) (NNS markets)))))))))
+      (, ,)
+      (NP
+        (NP (DT the) (NN guidance))
+        (SBAR (IN that)
+          (S
+            (NP (PRP you))
+            (VP (VBD provided)
+              (PP (IN on)
+                (NP (PRP$ your) (JJ previous) (NNS earnings) (NNS calls)))
+              (PP (IN for)
+                (NP (JJ individual) (NN end) (NNS markets)))))))
+      (, ,))
+    (VP (VBZ does)
+      (SBAR
+        (S
+          (NP (DT this) (NN outlook))
+          (ADVP (RB still))
+          (VP (VBP stand)))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (PP (IN in)
+      (NP
+        (NP (JJ particular) (NN youre))
+        (VP (VBG looking)
+          (PP (IN for)
+            (NP (DT the) (NN consumer) (NN segment)))
+          (S
+            (VP (TO to)
+              (VP (VB be)
+                (UCP
+                  (ADVP (RB down)
+                    (NP (CD 10) (NN %)))
+                  (CC but)
+                  (PP (IN for)
+                    (NP (DT the) (JJ peripheral) (NN segment)
+                      (S
+                        (VP (TO to)
+                          (VP (VB be)
+                            (NP
+                              (QP (IN up) (IN around) (CD 15) (NN %)))))))))))))))
+    (. .)))
+

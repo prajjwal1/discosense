@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (NP (JJ future) (NNS orders))
+    (VP (VBD were)
+      (ADVP (NN way) (IN up)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB however))
+    (NP (JJ nike) (NN stock))
+    (VP (VBZ is)
+      (ADVP (RB down)
+        (NP (CD 3) (NN %))
+        (PP (IN in)
+          (NP (NN pre) (NN market))))
+      (VP (VBG trading)
+        (SBAR (IN as)
+          (S
+            (NP (DT the) (NN company))
+            (VP (VBZ says)
+              (SBAR
+                (S
+                  (NP
+                    (NP (DT a) (JJR stronger) (NN dollar))
+                    (CC and)
+                    (NP (JJR weaker) (NNS currencies)))
+                  (VP (MD will)
+                    (VP (VB be)
+                      (NP
+                        (NP (DT a) (JJ big)
+                          (CC and)
+                          (JJ continuing) (NN hit))
+                        (PP (TO to)
+                          (NP
+                            (NP (DT the) (JJ bottom) (NN line))
+                            (NP (DT this) (NN year))))))))))))))
+    (. .)))
+

@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (SBAR (IN in) (NN order)
+      (S
+        (VP (TO to)
+          (VP (VB connect)
+            (PP
+              (PP (TO to)
+                (NP (DT these) (NNS offices)))
+              (CC and)
+              (PP (TO to)
+                (NP (JJ foreign) (NNS clients))))))))
+    (, ,)
+    (NP (JJ reliable) (JJ international) (NN connection))
+    (VP (VBZ is)
+      (VP (VBN required)
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (VBZ is)
+              (ADJP (JJ available)
+                (PP (IN at)
+                  (NP (JJ affordable) (NNS rates)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (RB hence) (NN telepresence))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (JJ reliable) (NN option))
+        (PP (IN for)
+          (NP
+            (NP (NNS organizations))
+            (PP (IN for)
+              (NP
+                (NP (JJR better) (NN connectivity))
+                (CC and)
+                (NP (NN reliability))))))))
+    (. .)))
+

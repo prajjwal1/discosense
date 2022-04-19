@@ -1,0 +1,58 @@
+(ROOT
+  (S
+    (SBAR (IN while)
+      (S
+        (NP (DT the) (NNS scouts))
+        (VP (VBP claim)
+          (S
+            (VP (TO to)
+              (VP (VB be)
+                (NP (DT a) (NN family) (NN organization))
+                (, ,)
+                (SBAR (IN for)
+                  (S
+                    (NP (PRP us))
+                    (ADVP (RB there))
+                    (VP (VBP are)
+                      (NP
+                        (NP (CD two) (NNS options))
+                        (PP (IN for)
+                          (S
+                            (VP (VBG having)
+                              (S
+                                (NP (DT a) (NN family))
+                                (VP (VB hide)
+                                  (NP (DT the) (NNS people)))))))))))))))))
+    (NP (PRP we))
+    (VP (VBP love)
+      (CC or)
+      (VBP leave)
+      (NP (NNS scouting)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (PP (RB because) (IN of)
+        (NP (DT this) (RB not) (JJ only) (NN can)))
+      (NP (PRP$ my) (CD co) (NNS workers) (RB not))
+      (VP (VBP know)
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (NP (FW i))
+            (VP (VBP am))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP
+        (NP (JJ many))
+        (PP (IN of)
+          (NP (PRP$ my) (NNS friends)
+            (CC and)
+            (NNS neighbors))))
+      (ADVP (RB also))
+      (VP (VBP do) (RB not)
+        (VP (VB know))))
+    (. .)))
+

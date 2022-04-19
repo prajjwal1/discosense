@@ -1,0 +1,2 @@
+conn:by_contrast conn_POS:IN_NN sent_pos:0 NA
+conn:because conn_POS:IN prev1:humanity prev1_POS:NN with_prev1_full:humanity_because with_prev1_POS_full:NN_IN prev2:by prev2_POS:IN with_prev2_full:by_because with_prev2_POS_full:IN_IN NA

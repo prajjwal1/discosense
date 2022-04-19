@@ -1,0 +1,63 @@
+(ROOT
+  (S (CC but)
+    (NP (DT that))
+    (VP
+      (VP (VBZ assumes)
+        (SBAR (IN that)
+          (S
+            (NP
+              (NP (DT the) (NN idea))
+              (PP (IN of)
+                (NP
+                  (NP (NN fidelity))
+                  (PP (IN in)
+                    (NP (NN marriage))))))
+            (VP (VBZ is) (RB not)
+              (NP (NN something)
+                (S
+                  (VP (TO to)
+                    (VP (VB be)
+                      (VP (VBN negotiated)
+                        (CC or)
+                        (VBN reimagined))))))))))
+      (CC or)
+      (VP (VBD redefined)
+        (SBAR (RB just) (IN like)
+          (S
+            (NP (NN marriage))
+            (VP (MD would)
+              (VP (VB be)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (JJ other) (NNS words)))
+    (NP (NNS women))
+    (VP (MD can)
+      (VP (VB be)
+        (NP
+          (NP (DT the) (NNS breadwinners))
+          (CC and)
+          (NP
+            (NP (DT the) (NN mom))
+            (PP (IN at)
+              (NP (DT the) (JJ same) (NN time)))))
+        (, ,)
+        (S
+          (ADJP (RB so) (RB too))
+          (SBAR
+            (SINV (MD can)
+              (NP (DT the) (JJ gay) (NN person))
+              (VP (VB be)
+                (VP
+                  (VP (VBN married)
+                    (CC and)
+                    (VBN commited))
+                  (CC and)
+                  (VP
+                    (ADVP (RB also))
+                    (PP (RB out) (IN on)
+                      (NP (DT the) (NN scene)))))))))))
+    (. .)))
+

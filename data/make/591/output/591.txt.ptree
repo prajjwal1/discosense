@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (NP (DT the) (NN analysis))
+    (VP (VBD was)
+      (VP (VBN confined)
+        (PP (TO to)
+          (S
+            (VP (VBG pooling)
+              (NP (DT both) (NN aspirin) (NNS groups)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB consequently))
+    (NP (DT these) (NNS findings))
+    (VP (VBP are)
+      (ADJP (JJ difficult)
+        (S
+          (VP (TO to)
+            (VP (VB interpret))))))
+    (. .)))
+

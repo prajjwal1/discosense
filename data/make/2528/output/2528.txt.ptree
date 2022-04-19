@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (NP (DT the) (NN longhammer))
+    (VP (VBZ swings)
+      (PP
+        (ADVP
+          (NP (CD 33.3) (NN %))
+          (RBR faster))
+        (IN than)
+        (NP (DT a) (JJ normal) (NN warhammer)))
+      (, ,)
+      (S
+        (VP (VBG surpassing)
+          (NP
+            (NP (RB even) (NNS greatswords))
+            (PP (IN in)
+              (NP (NN speed)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB because)
+      (PP (IN of)
+        (SBAR (IN that)
+          (S
+            (NP (PRP it))
+            (VP (VBZ has)
+              (NP
+                (NP (DT a) (NN dps))
+                (SBAR
+                  (WHNP (WDT that))
+                  (S
+                    (VP (VBZ surpasses)
+                      (ADVP (RB even)))))))))))
+    (NP (DT a)
+      (ADJP (RB mighty) (JJ daedric))
+      (NN warhammer))
+    (VP (VBP read)
+      (ADVP (RB here))
+      (PP (IN for)
+        (NP (JJR more) (NNS details))))
+    (. .)))
+

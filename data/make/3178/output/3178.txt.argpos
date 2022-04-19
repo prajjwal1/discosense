@@ -1,0 +1,2 @@
+conn:while conn_POS:IN sent_pos:0 NA
+conn:therefore conn_POS:RB prev1:not prev1_POS:RB with_prev1_full:not_therefore with_prev1_POS_full:RB_RB prev2:need prev2_POS:VBP with_prev2_full:need_therefore with_prev2_POS_full:VBP_RB NA

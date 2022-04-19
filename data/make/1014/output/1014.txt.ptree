@@ -1,0 +1,26 @@
+(ROOT
+  (S
+    (PP (IN as)
+      (NP (DT a) (NN result)))
+    (, ,)
+    (NP (PRP he))
+    (VP (VBD finished)
+      (PP (IN with)
+        (NP (JJ rank) (CD 23))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB consequently))
+    (NP
+      (NP (DT the) (JJ first) (NN appeal) (NN body))
+      (VP (VBN composed)
+        (PP (IN of)
+          (NP (DT the) (CD three) (NN fim) (NNS stewards)))))
+    (VP (VBD quashed)
+      (NP
+        (NP (DT the) (NN decision))
+        (PP (IN of)
+          (NP (DT the) (NN race) (NN direction)))))
+    (. .)))
+

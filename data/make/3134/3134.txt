@@ -1,0 +1,1 @@
+for example, the simplest waveform is the one with only the fundamental, and no added harmonics. yet removing harmonics from the square wave produces a more complicated picture.

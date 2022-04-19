@@ -1,0 +1,41 @@
+(ROOT
+  (SINV
+    (SBAR (IN if)
+      (S
+        (NP (PRP they))
+        (VP (VBP have)
+          (VP (VBN been)
+            (VP (VBN elected)
+              (PP (RB because) (IN of)
+                (NP
+                  (NP (PRP$ their) (NN honesty))
+                  (CC and)
+                  (NP (PRP$ their) (NN patriotism))))
+              (, ,)
+              (ADVP (RB then)))))))
+    (VBZ does)
+    (NP (DT this))
+    (VP (VB mean)
+      (SBAR (IN that)
+        (S
+          (NP (DT the) (JJ entire) (NN society))
+          (VP (VBZ is)
+            (ADJP (JJ honest))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADVP (IN on)
+      (NP (DT the) (NN contrary)))
+    (SBAR (WP what) (IN if)
+      (S
+        (NP
+          (NP (CD one))
+          (PP (IN of)
+            (NP (DT the) (NNS politicians))))
+        (VP (VBZ is)
+          (ADJP (JJ corrupt)
+            (CC and)
+            (JJ unscrupulous))))
+      (. .))))
+

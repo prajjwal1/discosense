@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (PP (IN for)
+      (NP
+        (NP (DT the) (NN arrondissement))
+        (PP (IN of)
+          (NP (NNS brussels)))))
+    (, ,)
+    (NP (NNS documents))
+    (VP (MD could)
+      (VP (VB be)
+        (VP (VBN requested)
+          (PP (IN in)
+            (NP (NN dutch))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP
+      (ADVP (RB nonetheless))
+      (IN by)
+      (NP (CD 1900) (JJS most) (JJ large) (NN flemish) (NNS cities)))
+    (, ,)
+    (NP
+      (NP
+        (NP (NNS cities))
+        (PP (IN along)
+          (NP (DT the) (NN language) (NN border))))
+      (, ,)
+      (CC and)
+      (NP
+        (NP (DT the) (NNS municipalities))
+        (PP (IN of)
+          (NP (DT the) (JJ brussels) (JJ metropolitan) (NN area)))))
+    (VP (VBD were)
+      (ADVP (RB still))
+      (VP (VBN administered)
+        (PP (IN in)
+          (NP (NNP french)))))
+    (. .)))
+

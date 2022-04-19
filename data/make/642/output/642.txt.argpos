@@ -1,0 +1,2 @@
+conn:consequently conn_POS:RB sent_pos:0 NA
+conn:or conn_POS:CC prev1:for prev1_POS:IN with_prev1_full:for_or with_prev1_POS_full:IN_CC prev2:look prev2_POS:VB with_prev2_full:look_or with_prev2_POS_full:VB_CC NA

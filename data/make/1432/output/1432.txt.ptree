@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (NP
+      (NP (PRP$ our) (NN experience))
+      (PP (IN with)
+        (NP (NN patriot) (NN energy))))
+    (VP (VBD was) (RB not)
+      (NP
+        (NP (JJ high) (NN pressure))
+        (PP (IN like)
+          (NP (JJ many) (NNS others)))
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP (VBP have)
+              (VP (VBN approached)
+                (NP (PRP us))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB rather))
+    (NP (PRP it))
+    (VP (VBD was)
+      (NP
+        (NP (DT a) (NN consultative))
+        (CC and)
+        (NP (JJ informational) (NN approach))))
+    (. .)))
+

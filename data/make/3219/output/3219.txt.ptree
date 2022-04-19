@@ -1,0 +1,45 @@
+(ROOT
+  (S
+    (NP (DT a) (NN check) (NN dam))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (JJ small) (NN dam))
+        (VP (VBN designed)
+          (S
+            (VP (TO to)
+              (VP
+                (VP (VB reduce)
+                  (NP (NN flow) (NN velocity)))
+                (CC and)
+                (VP (VB control)
+                  (NP (NN soil) (NN erosion)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB conversely))
+    (NP (DT a) (NN wing) (NN dam))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (NN structure))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (ADVP (RB only) (RB partly))
+            (VP (VBZ restricts)
+              (NP (DT a) (NN waterway))
+              (, ,)
+              (S
+                (VP (VBG creating)
+                  (NP
+                    (NP (DT a) (JJR faster) (NN channel))
+                    (SBAR
+                      (WHNP (WDT that))
+                      (S
+                        (VP (VBZ resists)
+                          (NP
+                            (NP (DT the) (NN accumulation))
+                            (PP (IN of)
+                              (NP (NN sediment)))))))))))))))
+    (. .)))
+

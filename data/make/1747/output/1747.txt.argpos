@@ -1,0 +1,2 @@
+conn:however conn_POS:RB sent_pos:0 NA
+conn:if conn_POS:IN prev1:out prev1_POS:RP with_prev1_full:out_if with_prev1_POS_full:RP_IN prev2:found prev2_POS:VBN with_prev2_full:found_if with_prev2_POS_full:VBN_IN NA

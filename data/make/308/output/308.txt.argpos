@@ -1,0 +1,3 @@
+conn:since conn_POS:IN sent_pos:0 NA
+conn:if conn_POS:IN sent_pos:1 prev1:otherwise prev1_POS:RB with_prev1_full:otherwise_if with_prev1_POS_full:RB_IN NA
+conn:and conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_and with_prev1_POS_full:,_CC prev2:money prev2_POS:NN with_prev2_full:money_and with_prev2_POS_full:NN_CC NA

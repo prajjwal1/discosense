@@ -1,0 +1,53 @@
+(ROOT
+  (S
+    (S
+      (VP (VBP note)
+        (SBAR (IN that)
+          (S
+            (NP (DT these) (NNS manuals))
+            (ADVP (RB only))
+            (VP (VBP provide)
+              (NP
+                (ADJP (RB relatively) (JJ basic))
+                (NNS instructions))
+              (PP (IN for)
+                (S
+                  (VP (VBG operating)
+                    (S
+                      (NP (DT the) (NN device))
+                      (NP (PRP itself)))))))))))
+    (, ,) (IN so)
+    (S
+      (NP (PRP you))
+      (VP (MD may)
+        (VP (VB want)
+          (S
+            (VP (TO to)
+              (VP (VB check)
+                (PRT (RP out))
+                (NP
+                  (NP (DT some))
+                  (PP (IN of)
+                    (NP (PRP$ our) (NNS tutorials))))
+                (PP (IN for)
+                  (NP (JJR more) (JJ detailed) (NN information)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (ADJP (JJ particular)))
+    (NP
+      (NP (PRP$ our) (JJ beginnners) (NN guide))
+      (PP (TO to)
+        (S
+          (VP (VBG filling)
+            (NP (PRP$ your) (NN ipod))))))
+    (VP (VBZ is)
+      (NP (DT a) (JJ good) (NN place)
+        (S
+          (VP (TO to)
+            (VP (VB get)
+              (VP (VBN started)))))))
+    (. .)))
+

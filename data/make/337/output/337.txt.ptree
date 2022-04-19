@@ -1,0 +1,49 @@
+(ROOT
+  (S
+    (S
+      (VP (VBN granted)))
+    (, ,)
+    (S
+      (VP (VBG being)
+        (VP (VBN returned)
+          (PP (IN like)
+            (NP
+              (NP (DT a) (NN pair))
+              (PP (IN of)
+                (NP (JJ unwanted) (NNS shoes))))))))
+    (VP (VBZ is)
+      (ADJP (RB far) (RBR less) (JJ brutal))
+      (SBAR (IN that)
+        (S
+          (S
+            (VP (VBG being)
+              (VP (VBN chopped)
+                (PP (IN into)
+                  (NP (NNS pieces))))))
+          (CC and)
+          (S
+            (VP (VBN stored)
+              (PP (IN in)
+                (NP (JJ mummys) (NN basement) (NN freezer))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nevertheless))
+    (NP
+      (NP (DT the) (NN pain)
+        (CC and)
+        (NN shame))
+      (PP (IN of)
+        (S (RB not)
+          (VP (VBG being)
+            (VP (VBN wanted)
+              (S (RB not)
+                (VP (VBG being)
+                  (ADJP (JJ good) (RB enough))))))))
+      (, ,))
+    (VP (VBZ is)
+      (ADVP (RB deeply))
+      (VP (VBN felt)))
+    (. .)))
+

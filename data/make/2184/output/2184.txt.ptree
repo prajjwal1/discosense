@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (NP (PRP you))
+    (VP (MD can)
+      (VP (VB use)
+        (NP (DT the) (JJ opatch) (NN utility))
+        (PP (TO to)
+          (NP (NN patch) (JJ multiple) (JJ oracle) (NN dbs)))
+        (PP (IN from)
+          (NP (DT a) (JJ central) (NN location)))))
+    (. .)))
+
+(ROOT
+  (S (CC but)
+    (S
+      (ADVP (RB sometimes))
+      (NP (DT that))
+      (VP (VBZ works)))
+    (CC and)
+    (S
+      (ADVP (RB sometimes))
+      (NP (PRP it))
+      (VP (VBP doesnt)))
+    (, ,)
+    (PP (VBN based)
+      (PP (IN on)
+        (NP
+          (NP (DT the) (NN complexity))
+          (PP (IN of)
+            (NP (DT those) (NN db) (NNS setups))))))
+    (. .)))
+

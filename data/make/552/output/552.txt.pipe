@@ -1,0 +1,2 @@
+Explicit|||0..2||if||0|if|||Contingency.Condition|||||||||||45..114|0|sun cluster software halts the node and fencesthe node from the disks||||||||3..43|0|that set of nodes does not form a quorum|||||||||||||
+Explicit|||116..120||thus||1|thus|||Contingency.Cause|||||||||||0..114|0|if that set of nodes does not form a quorum, sun cluster software halts the node and fencesthe node from the disks||||||||121..184|1|sun cluster software prevents the node from accessing the disks|||||||||||||

@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (ADVP (RB consequently))
+    (, ,)
+    (NP
+      (NP (DT all) (NN entanglement))
+      (PP (IN by)
+        (NP (PRP$ its) (JJ very) (NN nature))))
+    (VP (VBZ stretches)
+      (PP (IN through)
+        (NP (NN time)))
+      (PP (IN before)
+        (S
+          (VP (VBG manifesting)
+            (PP (IN in)
+              (NP (NN space)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thereby))
+    (NP
+      (NP (DT the) (NN definition))
+      (PP (IN of)
+        (NP (NN entanglement))))
+    (VP (MD must)
+      (VP (VB include)
+        (NP (NN time))
+        (PP (IN for)
+          (NP (DT the) (NN concept)
+            (S
+              (VP (TO to)
+                (VP (VB be)
+                  (ADJP (JJ accurate)))))))))
+    (. .)))
+

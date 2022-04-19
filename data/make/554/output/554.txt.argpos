@@ -1,0 +1,2 @@
+conn:in_sum conn_POS:IN_NN sent_pos:0 NA
+conn:because conn_POS:IN prev1:area prev1_POS:NN with_prev1_full:area_because with_prev1_POS_full:NN_IN prev2:metro prev2_POS:NN with_prev2_full:metro_because with_prev2_POS_full:NN_IN NA

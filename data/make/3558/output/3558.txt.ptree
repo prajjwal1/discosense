@@ -1,0 +1,49 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (NNS proceedings))
+      (PP (IN of)
+        (NP (DT both) (NNS councils))))
+    (VP (VBD were)
+      (VP (VBN reported)
+        (PP (TO to)
+          (NP
+            (NP (DT the) (NN emperor))
+            (, ,)
+            (SBAR
+              (WHNP (WP who))
+              (S
+                (VP (VBD decided)
+                  (ADVP (RB ultimately))
+                  (S
+                    (VP (TO to)
+                      (VP (VB depose)
+                        (NP (NN cyril) (, ,) (NN memnon)
+                          (CC and)
+                          (NNS nestorius))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nonetheless))
+    (NP (DT the) (NN orthodox))
+    (VP (VBP accept)
+      (NP (JJ cyrils) (NN group))
+      (PP (IN as)
+        (S
+          (VP (VBG being)
+            (NP
+              (NP (DT the) (JJ legitimate) (NN council))
+              (SBAR (IN because)
+                (S
+                  (NP (PRP it))
+                  (VP (VBD maintained)
+                    (NP (DT the) (JJ same) (NN teaching))
+                    (SBAR (IN that)
+                      (S
+                        (NP (DT the) (NN church))
+                        (VP (VBZ has)
+                          (ADVP (RB always))
+                          (VP (VBN taught)))))))))))))
+    (. .)))
+

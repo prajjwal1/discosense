@@ -1,0 +1,45 @@
+(ROOT
+  (S
+    (NP (NN base))
+    (VP (VBZ is)
+      (NP (DT a) (JJ comprehensive) (NN database) (NN server)
+        (S
+          (VP (TO to)
+            (VP (VB manage)
+              (NP
+                (NP (DT the) (JJ massive) (NNS amounts))
+                (PP (IN of)
+                  (NP
+                    (NP (NNS data))
+                    (VP (VBN generated)
+                      (PP (IN by)
+                        (NP (JJ microarray) (NN analysis))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (ADJP (JJ short)))
+    (NP (PRP it))
+    (VP
+      (VP (VBZ manages)
+        (NP
+          (NP (JJ biomaterial) (NN information))
+          (, ,)
+          (NP (JJ raw) (NNS data))
+          (CC and)
+          (NP (NNS images))))
+      (, ,)
+      (CC and)
+      (VP
+        (VP (VBZ provides)
+          (ADJP (JJ integrated)))
+        (CC and)
+        (VP (VBP plug)
+          (PP (IN in)
+            (ADJP (JJ able))))
+        (NP (NN normalization) (, ,) (NN data) (NN viewing)
+          (CC and)
+          (NN analysis) (NNS tools))))
+    (. .)))
+

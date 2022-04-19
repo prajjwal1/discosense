@@ -1,0 +1,45 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (NN congress))
+      (CC and)
+      (NP
+        (NP (DT the) (NNS headlines))
+        (PP (IN at)
+          (NP (DT the) (NN time)))))
+    (VP (VBD followed)
+      (NP (JJ cold) (NN war) (NN ideology))
+      (PP (IN in)
+        (NP (NN lockstep))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN by)
+      (NP
+        (NP (NN contrast))
+        (PP (IN during)
+          (NP (DT the) (CD 1962) (NN missile) (NN crisis)))))
+    (, ,)
+    (NP (DT the) (NNS kennedys))
+    (VP (VBD found)
+      (S
+        (NP (PRP it))
+        (ADJP (JJ possible)
+          (S
+            (VP (TO to)
+              (VP (VB negotiate)
+                (ADVP (RB directly)))))))
+      (, ,)
+      (FRAG (IN if)
+        (ADVP (RB confidentially)))
+      (, ,)
+      (PP (IN with)
+        (NP (DT the)
+          (ADJP (JJ long)
+            (S
+              (VP (VBG serving)
+                (NP (JJ soviet) (NN ambassador)))))
+          (, ,) (JJ anatoly) (NN dobryin))))
+    (. .)))
+

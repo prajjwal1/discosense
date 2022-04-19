@@ -1,0 +1,18 @@
+amod(assumptions-2, statistical-1)
+nsubjpass(met-11, assumptions-2)
+amod(distribution-5, normal-4)
+prep_of(assumptions-2, distribution-5)
+prep_of(assumptions-2, homogeneity-9)
+conj_and(distribution-5, homogeneity-9)
+auxpass(met-11, were-10)
+root(ROOT-0, met-11)
+
+advmod(seems-4, hence-1)
+det(manipulation-3, the-2)
+nsubj(seems-4, manipulation-3)
+xsubj(effective-7, manipulation-3)
+root(ROOT-0, seems-4)
+aux(effective-7, to-5)
+cop(effective-7, be-6)
+xcomp(seems-4, effective-7)
+

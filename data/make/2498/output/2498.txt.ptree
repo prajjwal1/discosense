@@ -1,0 +1,50 @@
+(ROOT
+  (S
+    (NP (DT this))
+    (VP (VBZ is)
+      (ADJP (RB especially) (JJ true)
+        (PP (IN in)
+          (NP
+            (NP (DT the) (CD 1944) (NN viennaeroica))
+            (, ,)
+            (NP
+              (NP (DT the) (CD 1943) (NN berlin))
+              (ADJP (JJ fourth)
+                (CC and)
+                (JJ fifths)))
+            (, ,)
+            (CC and)
+            (NP
+              (NP (DT a) (CD 1942) (NN berlin) (NN ninth))
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (VP (VBZ pushes)
+                    (NP (JJ beethovens) (JJ radical) (NNS contours))
+                    (PP (TO to)
+                      (NP (PRP$ their) (JJ expressive) (NNS limits)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN by)
+      (NP (NN contrast)))
+    (NP (DT this) (CD 1944))
+    (VP (VBZ pastoralepaints)
+      (NP
+        (NP (DT a)
+          (ADJP (RBR more) (JJ foreboding))
+          (, ,)
+          (ADJP (JJ lugubrious) (JJ outdoor))
+          (NN landscape))
+        (PP (IN than)
+          (NP (DT the) (JJ conductors)
+            (ADJP (RB equally) (JJ heavy))
+            (ADJP
+              (ADJP (JJ gaited))
+              (, ,)
+              (CC but)
+              (ADJP (JJR more)))
+            (JJ flowing) (NN post) (NN war) (NN vienna) (NN commercial) (NN recording)))))
+    (. .)))
+

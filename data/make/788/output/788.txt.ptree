@@ -1,0 +1,62 @@
+(ROOT
+  (S
+    (NP (PRP they))
+    (VP (VBP are)
+      (ADJP (JJ necessary))
+      (, ,)
+      (ADVP (RB however))
+      (, ,)
+      (S
+        (VP (TO to)
+          (VP (VB permit)
+            (NP (DT the) (NN police)
+              (S
+                (VP (TO to)
+                  (VP
+                    (VP (VB deal)
+                      (PP (IN with)
+                        (NP
+                          (NP (NNS persons))
+                          (SBAR
+                            (WHNP (WP who))
+                            (S
+                              (VP (VBP advocate)))))))
+                    (CC or)
+                    (VP (VB promote)
+                      (NP
+                        (NP (DT the) (JJ violent) (NN overthow))
+                        (PP (IN of)
+                          (NP (PRP$ our) (JJ democratic) (NN system)))))))))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (PP (IN in)
+      (NP (JJ short) (FW i)))
+    (VP (VBD assure)
+      (NP (PRP you))
+      (SBAR
+        (SBAR (IN that)
+          (S
+            (NP (DT the) (NN government))
+            (VP (VBZ recognizes)
+              (NP (PRP$ its) (JJ grave) (NNS responsibilities))
+              (PP (IN in)
+                (S
+                  (VP (VBG interfering)
+                    (PP (IN in)
+                      (NP (JJ certain) (NNS cases)))
+                    (PP (IN with)
+                      (NP (JJ civil) (NNS liberties)))))))))
+        (, ,)
+        (CC and)
+        (SBAR (IN that)
+          (S
+            (NP (PRP it))
+            (VP (VBZ remains)
+              (ADJP (JJ answerable)
+                (PP (TO to)
+                  (NP (DT the) (NN peoplefor)))))))))
+    (NP (PRP$ its) (NNS actions))
+    (. .)))
+

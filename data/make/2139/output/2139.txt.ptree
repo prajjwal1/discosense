@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (NP (NN ive))
+    (VP (VBD hugged)
+      (NP
+        (NP (PRP$ my) (CD three) (JJ young) (NNS daughters))
+        (ADJP
+          (ADJP (JJR longer) (, ,) (JJR tighter)
+            (CC and)
+            (JJR more))
+          (ADVP (RB often)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB because) (IN of)
+      (NP (DT this) (JJ unprecedented) (NN tragedy)))
+    (, ,)
+    (NP (FW i))
+    (VP (VBP am)
+      (ADJP (JJ thankful)
+        (PP (IN for)
+          (NP
+            (NP (PRP them))
+            (, ,)
+            (NP
+              (NP (PRP$ their) (NN health))
+              (, ,)
+              (NP (PRP$ their) (NNS uniqueness)))))))
+    (. .)))
+

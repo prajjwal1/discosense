@@ -1,0 +1,47 @@
+(ROOT
+  (S
+    (ADVP (RB rather))
+    (, ,)
+    (NP (PRP he))
+    (VP
+      (VP (VBD rebuked)
+        (NP (PRP them))
+        (PP (IN for)
+          (NP (PRP$ their) (NN unbelief))))
+      (CC and)
+      (VP (VBD showed)
+        (S
+          (NP (PRP them))
+          (NP
+            (NP (DT the) (NN truth))
+            (PP (IN from)
+              (NP (DT the) (JJ authoritative) (NNS scriptures)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP
+        (NP (NN contrast))
+        (SBAR
+          (WHNP (WP what))
+          (S
+            (VP (VBP dr.)
+              (ADJP (JJ waltke)))))))
+    (, ,)
+    (S
+      (NP (NN dr.))
+      (VP (VBP falk)))
+    (, ,)
+    (CC and)
+    (S
+      (NP (NNS biologos))
+      (VP (VBP are)
+        (VP (VBG doing)
+          (SBAR
+            (S
+              (VP (VBZ is)
+                (ADVP (RB exactly))
+                (NP (DT the) (NN opposite))))))))
+    (. .)))
+

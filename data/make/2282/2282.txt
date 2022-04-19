@@ -1,0 +1,1 @@
+yes, they could but for some reason they are not. because of that you are bound to the adapters shipped with monolog.

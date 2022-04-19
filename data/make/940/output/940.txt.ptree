@@ -1,0 +1,54 @@
+(ROOT
+  (S
+    (NP (JJ independent) (NN certification))
+    (VP (VBZ is)
+      (VP (VBN sustained)
+        (PP (IN by)
+          (NP
+            (NP
+              (ADJP (JJ technical)
+                (CC and)
+                (JJ bureaucratic))
+              (NNS mechanisms))
+            (, ,)
+            (VP (VBN sanctioned)
+              (PP (IN by)
+                (NP
+                  (NP (JJ international) (NNS organizations))
+                  (CC and)
+                  (NP
+                    (NP (JJ multilateral) (NNS agencies))
+                    (SBAR
+                      (WHNP (WP$ whose) (NN power) (NNS structures))
+                      (S
+                        (VP (VBP encourage)
+                          (NP
+                            (NP (DT the) (NN production))
+                            (PP (IN of)
+                              (NP
+                                (NP (NNS rules)
+                                  (CC and)
+                                  (NNS systems))
+                                (PP (IN of)
+                                  (NP (NN enforcement)))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN by)
+      (NP (NN contrast)))
+    (NP
+      (NP (JJ local) (NN food) (NNS movements))
+      (CC and)
+      (NP (JJ civil) (NN society) (NNS initiatives)))
+    (VP (VBP point)
+      (PP (TO to)
+        (NP
+          (NP (DT the) (NN emergence))
+          (PP (IN of)
+            (NP
+              (NP (JJ alternative) (, ,) (JJ participatory) (NNS forms))
+              (PP (IN of)
+                (NP (NN ecolabeling))))))))
+    (. .)))
+

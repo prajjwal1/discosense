@@ -1,0 +1,55 @@
+(ROOT
+  (FRAG
+    (FRAG
+      (NP (NN im))
+      (ADJP (JJ happy)
+        (S
+          (VP (TO to)
+            (VP (VB give)
+              (NP (PRP it)))))))
+    (, ,)
+    (CC but)
+    (SBAR
+      (WHADVP (WRB when))
+      (S
+        (VP (VBZ ireviewphones)
+          (SBAR
+            (S
+              (NP (FW i))
+              (VP (VBP am)
+                (ADVP (RB typically))
+                (VP (VBG looking)
+                  (PP (IN at)
+                    (NP (PRP it)))
+                  (PP (IN from)
+                    (NP
+                      (NP (JJR more))
+                      (PP (IN of)
+                        (NP (DT a) (JJ strategic) (NN angle))))))))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (SBAR (IN in)
+      (S
+        (NP (JJ other) (NNS words))
+        (VP (VBP im)
+          (S
+            (VP (VBG trying)
+              (PP (TO to)
+                (NP (NN determinehow))))))))
+    (VBZ does)
+    (NP (DT this) (NN help))
+    (VP (VB hurt)
+      (NP
+        (NP (DT the) (NN vendor) (NN carrier))
+        (, ,)
+        (RRC
+          (NP
+            (ADJP (JJ notis)
+              (NP (DT this) (DT a) (JJ good)))
+            (NN phone))
+          (, ,)
+          (ADVP (FW per) (FW se)))))
+    (. .)))
+

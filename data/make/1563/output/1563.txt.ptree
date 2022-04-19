@@ -1,0 +1,44 @@
+(ROOT
+  (S
+    (S
+      (ADVP (RB then))
+      (NP (PRP she))
+      (VP (VBZ meets)
+        (NP (NN aidan) (NN oconnell))))
+    (, ,)
+    (NP (DT an) (NN infuriatingly))
+    (VP (VBD laid)
+      (PRT (RP back))
+      (NP
+        (NP (NN shifter))
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP (VBZ represents)
+              (NP
+                (NP (NN everything))
+                (SBAR
+                  (S
+                    (NP (PRP she))
+                    (VP (VBP doesnt)
+                      (VP (VB want)))))))))))
+    (. .)))
+
+(ROOT
+  (S (CC yet)
+    (SBAR
+      (X (DT the) (JJR more))
+      (S
+        (NP (PRP he))
+        (VP (VBZ pursues)
+          (NP (PRP her)))))
+    (, ,)
+    (X (DT the) (JJR more))
+    (NP (PRP she))
+    (VP (VBZ craves)
+      (NP
+        (NP (DT a) (NN future))
+        (PP (IN with)
+          (NP (PRP him)))))
+    (. .)))
+

@@ -1,0 +1,25 @@
+(ROOT
+  (S (RB then)
+    (VP (VB find)
+      (NP
+        (NP (DT the) (NN home) (NNS cities))
+        (PP (IN of)
+          (NP (CD three) (JJ famous) (NN declaration) (NNS signers)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP (NN example)))
+    (NP (PRP you))
+    (VP (MD could)
+      (VP (VB pick)
+        (NP
+          (NP (NN roger) (NN sherman))
+          (, ,)
+          (NP (NN john) (NN hancock))
+          (, ,)
+          (CC and)
+          (NP (JJ thomas) (NN jefferson)))))
+    (. .)))
+

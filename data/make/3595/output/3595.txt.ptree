@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (NP (NN cap) (NNS members))
+    (VP
+      (VP (VBP are)
+        (NP (NNS civilians)))
+      (CC and)
+      (VP (VBP are) (RB not)
+        (VP (VBN paid)
+          (PP (IN by)
+            (NP
+              (NP (DT the) (VBN united) (NNS states) (NN government))
+              (PP (IN for)
+                (NP (PRP$ their) (NN service))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB rather))
+    (NP (NNS members))
+    (VP
+      (VP (VBP are)
+        (ADJP (JJ responsible)
+          (PP (IN for)
+            (S
+              (VP (VBG paying)
+                (NP (JJ annual) (NN membership) (NNS fees)))))))
+      (, ,)
+      (CC and)
+      (VP (MD must)
+        (VP (VB pay)
+          (PP (IN for)
+            (NP (PRP$ their) (JJ own) (NNS uniforms)
+              (CC and)
+              (JJ other) (VBN related) (NNS expenses))))))
+    (. .)))
+

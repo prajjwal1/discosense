@@ -1,0 +1,57 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP
+        (NP (NN order))
+        (PP (IN for)
+          (NP (JJ online) (NNS retailers)))
+        (S
+          (VP (TO to)
+            (VP
+              (VP (VB enhance)
+                (NP (NN customer) (NN loyalty)))
+              (CC and)
+              (VP (VB create)
+                (NP (NN return) (NNS shoppers))))))))
+    (, ,)
+    (NP (PRP they))
+    (VP (VBP have)
+      (S
+        (VP (TO to)
+          (VP (VB focus)
+            (PP (IN on)
+              (S
+                (VP (VBG enhancing)
+                  (NP
+                    (NP (NN customer) (NNS perceptions))
+                    (PP (IN of)
+                      (NP (PRP$ their) (NNS trustworthiness)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP (NN instance)))
+    (NP (DT this))
+    (VP (MD can)
+      (VP (VB be)
+        (VP (VBN accomplished)
+          (PP (IN by)
+            (S
+              (VP
+                (VP (VBG associating)
+                  (PP (IN with)
+                    (NP (DT the) (JJR better) (NN business) (NN bureau))))
+                (CC or)
+                (VP (VBG providing)
+                  (NP (NN assurance))
+                  (SBAR (IN that)
+                    (S
+                      (NP
+                        (NP (JJ personal))
+                        (CC and)
+                        (NP (NN credit) (NN card) (NN information)))
+                      (VP (VBZ is)
+                        (ADJP (JJ secure))))))))))))
+    (. .)))
+

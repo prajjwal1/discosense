@@ -1,0 +1,49 @@
+(ROOT
+  (S
+    (SBAR (IN if)
+      (S
+        (NP (DT the) (NN web) (NN app))
+        (VP (VBZ is)
+          (ADVP (RB only))
+          (VP (VBN allowed)
+            (S
+              (VP (TO to)
+                (VP (VB run)
+                  (NP
+                    (QP (DT a) (JJ few) (NN dozen))
+                    (JJ stored) (NNS procedures)))))))))
+    (, ,)
+    (ADVP (RB then))
+    (NP (EX there))
+    (VP (VBP are)
+      (ADVP (RB practically))
+      (NP
+        (NP (DT no) (NN attack) (NNS vectors))
+        (PP (IN from)
+          (NP (DT an) (JJ exploited) (NN website)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN on)
+      (NP
+        (NP (DT the) (JJ other) (NN hand))
+        (SBAR (IN if)
+          (S
+            (NP (PRP it))
+            (VP (MD can)
+              (VP (VB run)
+                (NP
+                  (ADJP (JJ arbitrary))
+                  (NNS queries))))))))
+    (, ,)
+    (NP (RB then))
+    (VP (VBP youre)
+      (S
+        (VP (VBG going)
+          (S
+            (VP (TO to)
+              (VP (VB have)
+                (NP (NNS problems))))))))
+    (. .)))
+

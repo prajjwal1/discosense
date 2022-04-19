@@ -1,0 +1,53 @@
+(ROOT
+  (S
+    (ADVP (RB certainly))
+    (, ,)
+    (NP
+      (NP (NNS technologies))
+      (PP (IN with)
+        (NP (JJ short) (JJ scan) (NNS times))))
+    (VP (VBP are)
+      (ADJP (RBR less) (JJ susceptible)
+        (S
+          (VP (TO to)
+            (VP (VB subject)
+              (NP (NN movement) (NNS problems)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP
+      (ADVP (RB thus))
+      (IN for)
+      (NP
+        (NP (NNS subjects))
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP (VBP have)
+              (NP
+                (NP (NN difficulty))
+                (VP (VBG sitting)
+                  (ADVP (RB still)))))))))
+    (, ,)
+    (NP
+      (NP (JJ quick) (JJ optical) (NNS methods))
+      (, ,)
+      (NP (NN bioimpedance))
+      (, ,)
+      (CC and)
+      (NP (JJ anthropometric) (NNS measurements)))
+    (VP (VBP are)
+      (VP (VBN preferred)
+        (PP (IN over)
+          (NP
+            (NP (NN contact) (NNS probes))
+            (, ,)
+            (NP (NN water) (NN displacement))
+            (, ,)
+            (NP (NN casting) (NN water) (NN displacement))
+            (, ,)
+            (CC and)
+            (NP (NN laser) (NNS scanning))))))
+    (. .)))
+

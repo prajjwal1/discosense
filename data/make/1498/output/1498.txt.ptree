@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT each))
+      (PP (IN of)
+        (NP
+          (NP (DT the) (CD four) (NNS channels))
+          (PP (IN in)
+            (NP (DT each) (NN elastomer))))))
+    (VP (VBZ has)
+      (NP
+        (NP (RB only) (CD one) (NN inlet))
+        (CC and)
+        (NP (CD one) (NN outlet))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (ADVP (RB thus))
+      (IN if)
+      (S
+        (NP (DT the) (NN fluid))
+        (VP (VBZ reaches)
+          (NP (DT the) (NN outlet)))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ indicates)
+      (SBAR (IN that)
+        (S
+          (NP (DT the) (NN fluid))
+          (VP (VBZ has)
+            (VP (VBN reached)
+              (NP
+                (NP (DT every) (NN point))
+                (PP (IN in)
+                  (NP (DT the) (NN channel)))))))))
+    (. .)))
+

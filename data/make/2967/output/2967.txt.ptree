@@ -1,0 +1,50 @@
+(ROOT
+  (S
+    (NP (DT the) (JJ virginia) (JJ public) (NN access) (NN project))
+    (VP
+      (VP (VBZ has)
+        (VP (VBN been)
+          (VP (VBG working)
+            (NP
+              (NP
+                (ADJP (JJ hard)
+                  (PP (TO to)
+                    (NP (NN slice)
+                      (CC and)
+                      (NNS dice))))
+                (NN finance) (NNS reports))
+              (VP (VBN submitted)
+                (PP (IN by)
+                  (NP (DT the) (NNS campaigns)))
+                (NP (NN yesterday)))))))
+      (CC and)
+      (VP (VBZ has)
+        (ADVP (RB already))
+        (VP (VBN reported)
+          (NP (DT some)
+            (ADJP (RB very) (JJ interesting))
+            (NNS findings)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP (NN instance)))
+    (NP (EX there))
+    (VP (VBP are)
+      (NP
+        (NP (CD 87) (NNS people)
+          (CC and)
+          (NNS organizations))
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP (VBD contributed)
+              (NP
+                (NP (DT a) (NN total))
+                (PP (IN of)
+                  (NP
+                    (QP (RB almost) (CD 504,000)))))
+              (PP (TO to)
+                (NP (JJ democratic) (NN gov.))))))))))
+

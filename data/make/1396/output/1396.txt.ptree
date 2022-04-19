@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (JJS most))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (NN energy))
+            (PP (IN in)
+              (NP (DT the) (NN gasoline))))))
+      (VP (VBZ is)
+        (VP (VBN converted)
+          (PP (IN into)
+            (NP (NN heat))))))
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBZ is)
+        (NP
+          (NP (DT the) (NN job))
+          (PP (IN of)
+            (NP
+              (NP (DT the) (VBG cooling) (NN system))
+              (PP (TO to)
+                (NP
+                  (NP (NN care))
+                  (PP (IN of)
+                    (NP (DT that) (NN heat))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB therefore))
+    (NP (DT the) (VBG cooling) (NN system))
+    (VP (VBZ is)
+      (NP
+        (NP (RB quite) (DT an) (JJ important) (NN part))
+        (PP (IN of)
+          (NP (DT the) (NN vehicle)))))
+    (. .)))
+

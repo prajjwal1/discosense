@@ -1,0 +1,56 @@
+(ROOT
+  (S
+    (NP (EX there))
+    (VP (VBP are)
+      (ADVP (RB even))
+      (NP
+        (NP (DT those))
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP (VBP claim)
+              (S
+                (VP (TO to)
+                  (VP (VB be)
+                    (ADJP (JJ able)
+                      (S
+                        (VP (TO to)
+                          (VP (VB fix)
+                            (NP (DT the) (NN problem))
+                            (SBAR (IN though)
+                              (S
+                                (NP
+                                  (NP (JJS most))
+                                  (PP (IN of)
+                                    (NP
+                                      (NP (DT the) (NN engineering) (NNS analyses) (NN ive))
+                                      (VP (VBN seen)))))
+                                (VP (VBP say)
+                                  (S
+                                    (NP (NNS thats))
+                                    (ADJP (JJ impossible))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB interestingly))
+    (NP
+      (NP (JJS most))
+      (PP (IN of)
+        (NP (NN therepairsare))))
+    (VP (VBD warranted)
+      (PP (IN for)
+        (NP (CD 90) (NNS days)))
+      (NP (CD 6) (NNS months))
+      (, ,)
+      (S
+        (VP (VBG meaning)
+          (NP (DT the) (JJ repairers) (NN arent))
+          (S
+            (VP (VBG backing)
+              (PRT (RP up))
+              (NP (NNS words))
+              (PP (IN with)
+                (NP (NNS funds))))))))
+    (. .)))
+

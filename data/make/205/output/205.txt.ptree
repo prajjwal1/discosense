@@ -1,0 +1,34 @@
+(ROOT
+  (S (CC but)
+    (NP (NN alan) (NN wong))
+    (ADVP (RB also))
+    (VP (VBZ runs)
+      (NP
+        (NP (DT a)
+          (ADJP (JJR lesser) (VBN known))
+          (NN restaurant))
+        (, ,)
+        (NP (DT the) (NN pineapple) (NN room))
+        (, ,)
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (VBZ is)
+              (ADVP (RB nicely))
+              (VP (VBN hidden)
+                (PRT (RP away))
+                (PP (IN inside)
+                  (NP (NN ala) (NN moana) (NN mall)))))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (PP
+      (ADVP (RB specifically))
+      (IN inside)
+      (NP
+        (NP (DT the) (JJ womens) (NN department))
+        (PP (IN in)
+          (NP (DT the) (NNS macys)))))
+    (. .)))
+

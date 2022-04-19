@@ -1,0 +1,18 @@
+amod(stock-2, less-1)
+nsubj(good-9, stock-2)
+prep_than(stock-2, dabs-4)
+prep(dabs-4, but-5)
+poss(prices-7, their-6)
+pobj(but-5, prices-7)
+cop(good-9, are-8)
+root(ROOT-0, good-9)
+
+advmod(got-3, specifically-1)
+nsubj(got-3, theyve-2)
+root(ROOT-0, got-3)
+det(prices-6, the-4)
+amod(prices-6, best-5)
+dobj(got-3, prices-6)
+nn(xps-9, athlon-8)
+prep_on(got-3, xps-9)
+

@@ -1,0 +1,44 @@
+(ROOT
+  (S
+    (ADVP (RB effectively))
+    (, ,)
+    (NP (DT the) (NN wire) (NN command))
+    (VP (VBZ is)
+      (VP (VBN called)
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP (PRP you))
+            (VP
+              (VP (VB click)
+                (NP
+                  (NP (DT the) (JJ anchor) (NN point))
+                  (PP (IN of)
+                    (NP (DT a) (NN wire) (NN stub)))))
+              (CC and)
+              (VP (VB drag)
+                (NP (PRP it))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP (NN example)))
+    (NP (CD three) (NNS wires))
+    (VP (VBP are)
+      (VP (VBN stretched)
+        (PP (IN from)
+          (NP
+            (NP (DT the) (JJ free) (NN end))
+            (PP (IN towards)
+              (NP
+                (NP (DT the) (NN right))
+                (, ,)
+                (NP (NN top))
+                (, ,)
+                (CC and)
+                (NP (JJ bottom) (NNS directions))))))
+        (, ,)
+        (ADVP (RB respectively))))
+    (. .)))
+

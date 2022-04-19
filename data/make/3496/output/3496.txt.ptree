@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (NP
+      (NP (NN bbc) (NN spotlight))
+      (SBAR
+        (S
+          (VP (VBZ is)
+            (VP (VBN broadcast)
+              (PP (IN from)
+                (NP (NN plymouth)
+                  (CC and)
+                  (NN itv))))))))
+    (ADVP (RB westcountry))
+    (VP (VBZ is)
+      (VP (VBN broadcast)
+        (PP (IN from)
+          (NP (NN bristol)))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN although)
+      (S
+        (NP (DT both) (NNS services))
+        (VP (VBP do))))
+    (VP (VBP have)
+      (NP
+        (NP (NNS newsrooms))
+        (PP (IN in)
+          (NP (NN exeter)))))
+    (. .)))
+

@@ -1,0 +1,2 @@
+conn:though conn_POS:IN sent_pos:1 prev1:interestingly prev1_POS:VBG with_prev1_full:interestingly_though with_prev1_POS_full:VBG_IN NA
+conn:if conn_POS:IN prev1:andfor prev1_POS:NN with_prev1_full:andfor_if with_prev1_POS_full:NN_IN prev2:distinct prev2_POS:JJ with_prev2_full:distinct_if with_prev2_POS_full:JJ_IN NA

@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (S
+      (ADVP
+        (ADVP (IN at) (JJS least))
+        (SBAR (IN after)
+          (S
+            (NP (PRP he))
+            (VP (VBD left)))))
+      (, ,)
+      (NP (NN donen))
+      (VP (VBD was)
+        (PP (IN in)
+          (NP (DT a) (NN position)
+            (S
+              (VP (TO to)
+                (VP (VB pick)
+                  (PRT (RP up))
+                  (NP (DT the) (NNS reigns)))))))))
+    (CC and)
+    (S
+      (NP (PRP we))
+      (ADVP (IN at) (JJS least))
+      (VP (VBD got)
+        (S
+          (VP (TO to)
+            (VP (VB see)
+              (NP
+                (NP (DT the) (NN film))
+                (CC and)
+                (NP
+                  (NP (JJS most))
+                  (PP (IN of)
+                    (NP (JJ barrys) (NN vision))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB though))
+    (NP (PRP$ its) (NN quite))
+    (VP (VBP clear))
+    (. .)))
+

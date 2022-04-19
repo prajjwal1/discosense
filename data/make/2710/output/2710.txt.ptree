@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (ADVP (RB first))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ is)
+      (ADJP (JJ necessary)
+        (S
+          (VP (TO to)
+            (VP (VB eliminate)
+              (NP (DT any) (NN possibility))
+              (SBAR (IN that)
+                (S
+                  (NP
+                    (NP (NNS parasites))
+                    (, ,)
+                    (ADJP (RB particularly) (JJ fleas))
+                    (, ,))
+                  (VP (VBP are)
+                    (VP (VBG causing)
+                      (NP (DT the) (NN dog))
+                      (PP (TO to)
+                        (NP (NN itch))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB likewise))
+    (NP (DT the) (NN veterinarian))
+    (VP (MD should)
+      (ADVP (RB also))
+      (VP (VB look)
+        (PP (IN for)
+          (NP
+            (NP (NNS signs))
+            (PP (IN of)
+              (NP (NN skin) (NNS infections)))))))
+    (. .)))
+

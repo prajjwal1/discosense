@@ -1,0 +1,53 @@
+(ROOT
+  (S
+    (NP (NN brother))
+    (VP (VBP mckinley)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBD was)
+            (PP (RB not)
+              (NP
+                (NP (PRP$ my) (NN intention)
+                  (S
+                    (VP (TO to)
+                      (VP (VB suggest)
+                        (SBAR (IN that)
+                          (S
+                            (NP (NNS james) (NNS sanders))
+                            (VP (VBD was)
+                              (NP
+                                (NP (DT the) (JJ only) (NN person))
+                                (ADJP (JJ responsible)
+                                  (PP (IN for)
+                                    (NP (DT the) (NN creation))))))))))))
+                (CC and)
+                (CC or)
+                (NP
+                  (NP (VBN continued) (NN success))
+                  (PP (IN of)
+                    (NP (DT the) (NNS farmers) (NN market))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN on)
+      (NP (DT the) (NN contrary)))
+    (NP (FW i))
+    (VP (VBP know)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (PRP you))
+            (CC and)
+            (NP (PRP$ your) (NN wife)))
+          (VP (VBP have)
+            (VP (VBN been)
+              (NP
+                (NP (DT the) (NN backbone))
+                (PP (IN of)
+                  (NP (DT the) (NN institution))))
+              (PP (IN from)
+                (NP (PRP$ its) (NN inception))))))))
+    (. .)))
+

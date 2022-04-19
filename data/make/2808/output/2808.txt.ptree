@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (NP (EX there))
+    (VP (VBD was)
+      (NP (DT no) (NN celebration)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB instead))
+    (NP (DT a) (JJ local) (NN woman))
+    (VP
+      (ADVP (RB quickly))
+      (VBD locked)
+      (NP (DT a) (JJ rusty) (JJ red) (NN door))
+      (PP (IN behind)
+        (NP
+          (NP (NN sheelan))
+          (, ,)
+          (SBAR
+            (WHNP (WP who))
+            (S
+              (VP (VBD looked)
+                (ADJP (VBN bewildered)
+                  (SBAR
+                    (WHADVP (WRB when))
+                    (S
+                      (NP (PRP$ her) (NN mother))
+                      (VP (VBD ordered)
+                        (NP (DT the) (NN girl)
+                          (S
+                            (VP (TO to)
+                              (VP (VB remove)
+                                (NP (PRP$ her) (NNS underpants))))))))))))))))
+    (. .)))
+

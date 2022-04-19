@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (NN dragon))
+      (PP (IN of)
+        (NP (DT the) (NN mother))))
+    (VP (VBD was)
+      (ADJP (JJ present)
+        (PP (IN in)
+          (NP (DT an) (NN assault))))
+      (PP (TO to)
+        (NP (DT the) (NN village))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB however))
+    (NP (DT that) (NN dragon))
+    (VP (VBZ is)
+      (NP
+        (NP (NN member))
+        (PP (IN of)
+          (NP
+            (NP (DT a) (NN nest))
+            (, ,)
+            (SBAR
+              (WHADVP (WRB where))
+              (S
+                (NP (DT the) (NN king))
+                (VP (VBZ is)
+                  (NP (DT a) (JJ good) (NN guy)))))))))
+    (. .)))
+

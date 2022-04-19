@@ -1,0 +1,54 @@
+(ROOT
+  (S
+    (ADVP (RB thus))
+    (, ,)
+    (NP (PRP they))
+    (VP (VBP agree)
+      (SBAR
+        (SBAR (IN that)
+          (S
+            (NP (NN leadership))
+            (VP (VBZ is)
+              (ADVP (RB primarily))
+              (NP
+                (NP (DT a) (NN quality))
+                (PP (IN of)
+                  (NP (DT an) (NN individual)))))))
+        (CC and)
+        (SBAR (IN that)
+          (S
+            (NP (DT some) (NNS people))
+            (VP (VBP are)
+              (ADVP (RB pre))
+              (VP (VBN dispositioned)
+                (S
+                  (VP (TO to)
+                    (VP (VB be)
+                      (NP (DT a) (NN leader))
+                      (SBAR (IN whereas)
+                        (S
+                          (NP (NNS others))
+                          (VP (VBP are)
+                            (VP (VBN born)
+                              (S
+                                (VP (TO to)
+                                  (VP (VB follow)
+                                    (NP (DT these) (NNS leaders))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN contrast)))
+    (NP (NN situationist) (NNS researchers))
+    (VP (VBP believe)
+      (SBAR (IN that)
+        (S
+          (NP (JJ social) (NN behavior))
+          (VP (VBZ is)
+            (NP
+              (NP (DT a) (NN product))
+              (PP (IN of)
+                (NP (NN society))))))))
+    (. .)))
+

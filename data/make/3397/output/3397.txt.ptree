@@ -1,0 +1,38 @@
+(ROOT
+  (S
+    (NP
+      (ADJP (RB long) (JJ overdue)
+        (PP (IN for)
+          (NP (DT the) (JJ original) (JJ due) (NN date))))
+      (NNS i))
+    (VP (VBD had)
+      (VP
+        (VP (VBN set))
+        (, ,)
+        (CC or)
+        (VP
+          (PP (IN as)
+            (NP (DT a) (JJ good) (JJ april) (NNS fools) (NN prank))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP
+      (ADVP (RB nonetheless))
+      (IN after)
+      (S
+        (VP
+          (VP
+            (ADVP (RB much))
+            (VBG fooling)
+            (PRT (RP around)))
+          (CC and)
+          (VP (VBG debugging)))))
+    (, ,)
+    (NP (PRP$ my) (JJ dramatic) (JJ comedic) (NN parody))
+    (VP (MD can)
+      (ADVP (RB finally))
+      (VP (VB go)
+        (ADVP (RB live))))
+    (. .)))
+

@@ -1,0 +1,2 @@
+conn:also conn_POS:RB sent_pos:-3 prev1:have prev1_POS:VBP with_prev1_full:have_also with_prev1_POS_full:VBP_RB prev2:system prev2_POS:NN with_prev2_full:system_also with_prev2_POS_full:NN_RB NA
+conn:in_sum conn_POS:IN_NN sent_pos:0 NA

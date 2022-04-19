@@ -1,0 +1,3 @@
+conn:in_sum conn_POS:IN_NN sent_pos:0 NA
+conn:and conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_and with_prev1_POS_full:,_CC prev2:makes prev2_POS:VBZ with_prev2_full:makes_and with_prev2_POS_full:VBZ_CC NA
+conn:as conn_POS:IN prev1:weeks prev1_POS:NNS with_prev1_full:weeks_as with_prev1_POS_full:NNS_IN prev2:two prev2_POS:CD with_prev2_full:two_as with_prev2_POS_full:CD_IN NA

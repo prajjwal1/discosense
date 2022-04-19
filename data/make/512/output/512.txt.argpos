@@ -1,0 +1,2 @@
+conn:when conn_POS:WRB prev1:vacations prev1_POS:NNS with_prev1_full:vacations_when with_prev1_POS_full:NNS_WRB prev2:many prev2_POS:JJ with_prev2_full:many_when with_prev2_POS_full:JJ_WRB NA
+conn:for_instance conn_POS:IN_NN sent_pos:0 NA

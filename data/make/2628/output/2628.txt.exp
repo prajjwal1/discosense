@@ -1,0 +1,3 @@
+conn_lc:and conn:and conn_POS:CC with_prev_full:life_and xxx£
+conn_lc:for_instance conn:for_instance conn_POS:IN_NN xxx£
+conn_lc:when conn:when conn_POS:WRB with_prev_full:around_when xxx£

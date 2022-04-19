@@ -1,0 +1,35 @@
+(ROOT
+  (S (CC but)
+    (NP
+      (NP (DT any) (JJ reforming) (NN spirit))
+      (VP (VBN left)
+        (PP (IN in)
+          (NP (DT that) (NN movement)))))
+    (ADVP (RB officially))
+    (VP (VBD breathed)
+      (NP (PRP$ its) (JJ last))
+      (NP (DT this) (NN week)))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP
+        (NP (JJ particular) (NN one) (NN grover) (NN norquist))
+        (, ,)
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP (VBZ has)
+              (VP (VBN sought)
+                (S
+                  (NP (DT a) (NN government))
+                  (ADJP (RB so) (JJ small)))))))))
+    (NP (PRP he))
+    (VP (MD could)
+      (VP (VB drown)
+        (NP (PRP it))
+        (PP (IN in)
+          (NP (DT a) (NN bathtub)))))
+    (. .)))
+

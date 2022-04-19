@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (NP (PRP it))
+    (VP (MD should)
+      (VP (VB be)
+        (VP (VBN noted) (, ,)
+          (ADVP (RB however))
+          (, ,)
+          (SBAR (IN that)
+            (S
+              (NP (DT the) (NN differential))
+              (VP (VBZ equations)
+                (SBAR (IN that)
+                  (S
+                    (VP (MD can)
+                      (VP (VB be)
+                        (VP
+                          (ADVP (RB explicitly))
+                          (VBN solved)
+                          (NP
+                            (NP (NN form))
+                            (PP (CC but)
+                              (NP (DT a) (JJ small) (NN minority)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thus))
+    (NP (JJS most) (NNS functions))
+    (VP (MD must)
+      (VP (VB be)
+        (VP (VBN studied)
+          (PP (IN by)
+            (NP (JJ indirect) (NNS methods))))))
+    (. .)))
+

@@ -1,0 +1,4 @@
+conn_lc:but conn:but conn_POS:CC with_prev_full:,_but xxx£
+conn_lc:before conn:before conn_POS:IN with_prev_full:temperature_before xxx£
+conn_lc:thereafter conn:thereafter conn_POS:RB xxx£
+conn_lc:however conn:however conn_POS:RB with_prev_full:thereafter_however xxx£

@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (NP (DT a)
+      (ADJP (RB very) (RB highly) (JJ turbocharged))
+      (VBG racing) (NN engine))
+    (VP (VBZ has)
+      (S
+        (VP (TO to)
+          (VP (VB operate)
+            (NP (DT a)
+              (ADJP (RB relatively) (JJ low))
+              (NN compression) (NN ratio)))))
+      (, ,)
+      (PP (IN on)
+        (NP
+          (NP (DT the) (NN order))
+          (PP (IN of)
+            (NP (CD 7))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN by)
+      (NP (NN contrast)))
+    (NP (DT a) (NN normally))
+    (VP (VBD aspirated)
+      (SBAR
+        (S
+          (NP (VBG racing) (NNS engines))
+          (ADVP (RB usually))
+          (VP (VBP have)
+            (NP (NN piston) (NN compression) (NNS ratios))
+            (PP (IN on)
+              (NP
+                (NP (DT the) (NN order))
+                (PP (IN of)
+                  (NP (CD 12)))))))))
+    (. .)))
+

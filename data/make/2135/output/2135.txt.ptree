@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (NP (DT the) (NN authentication) (NNS services))
+    (VP (MD would)
+      (ADVP (RB likely))
+      (VP (VB offer)
+        (NP
+          (NP (DT the) (JJS greatest) (NN return))
+          (PP (IN on)
+            (NP (NN investment))))
+        (SBAR (IN if)
+          (S
+            (VP (VBN used)
+              (PP (IN for)
+                (NP (JJ general) (NN consumer) (NNS applications))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB hence))
+    (NP (PRP they))
+    (VP (MD may)
+      (VP (VB be)
+        (VP (VBN bundled)
+          (PP (IN with)
+            (NP (JJ generic) (NNS services)))
+          (PP
+            (PP (IN by)
+              (NP (NN telecommunications) (NNS companies)))
+            (CC or)
+            (PP (IN as)
+              (NP
+                (NP (JJ joint) (NNS ventures))
+                (PP (IN with)
+                  (NP (JJ commercial)
+                    (CC or)
+                    (JJ governmental) (NNS organizations))))))
+          (PP (IN within)
+            (NP (DT the) (NN health) (NN care) (NN industry))))))
+    (. .)))
+

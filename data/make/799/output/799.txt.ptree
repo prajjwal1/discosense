@@ -1,0 +1,49 @@
+(ROOT
+  (S
+    (PP (IN as)
+      (NP (DT a) (NN child)))
+    (NP (FW i))
+    (VP (VBD was)
+      (VP
+        (VP (VBN privileged)
+          (S
+            (VP (TO to)
+              (VP (VB learn)
+                (NP (NN braille))))))
+        (CC and)
+        (VP (VBN encouraged)
+          (S
+            (VP (TO to)
+              (VP (VB use)
+                (NP (PRP it))
+                (PP (IN as)
+                  (NP (DT a) (NN tool)
+                    (S
+                      (VP (TO to)
+                        (VP (VB succeed)
+                          (PP (IN in)
+                            (NP (NN school)
+                              (CC and)
+                              (NN life))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN on)
+      (NP (DT the) (JJ other) (NN hand)))
+    (NP (PRP$ my) (JJ younger) (NN brother))
+    (VP (VBD was)
+      (VP (VBN denied)
+        (NP (DT this) (NN opportunity))
+        (SBAR (IN because)
+          (S
+            (NP (PRP he))
+            (VP (VBD had)
+              (NP (RB just) (JJ enough) (NN vision))
+              (S
+                (VP (TO to)
+                  (VP (VB get)
+                    (PP (IN by)
+                      (NP (NN reading) (NN print)))))))))))
+    (. .)))
+

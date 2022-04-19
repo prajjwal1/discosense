@@ -1,0 +1,48 @@
+(ROOT
+  (S
+    (PP (IN between)
+      (NP (CD 1983)
+        (CC and)
+        (CD 1996)))
+    (, ,)
+    (NP (NNS pounds))
+    (VP (VBD watched)
+      (SBAR
+        (S
+          (NP (CD two) (NN cloud) (NN forest))
+          (VP (VBD lizard)
+            (SBAR
+              (S
+                (NP (NNS species))
+                (VP (VBP vanish)
+                  (PP (IN from)
+                    (NP (PRP$ his) (NN study) (NN site))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN contrast)))
+    (NP
+      (NP (DT a) (JJ third) (NN species))
+      (SBAR
+        (WHNP (WDT that))
+        (S
+          (ADVP (RB also))
+          (VP (VBZ lives)
+            (PP (IN in)
+              (NP (DT the) (NN drier) (NN forest) (NN downslope)))))))
+    (VP (VBD continued)
+      (S
+        (VP (TO to)
+          (VP (VB flourish)
+            (PP (IN in)
+              (NP
+                (NP (DT the) (NN cloud) (NN forest))
+                (, ,) (RB possibly) (RB even)
+                (NP
+                  (NP (VBG increasing))
+                  (PP (IN in)
+                    (NP (NN number))))))))))
+    (. .)))
+

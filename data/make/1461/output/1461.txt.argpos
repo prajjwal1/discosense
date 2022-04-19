@@ -1,0 +1,2 @@
+conn:though conn_POS:IN prev1:, prev1_POS:, with_prev1_full:,_though with_prev1_POS_full:,_IN prev2:copyright prev2_POS:NN with_prev2_full:copyright_though with_prev2_POS_full:NN_IN NA
+conn:and conn_POS:CC prev1:villain prev1_POS:NN with_prev1_full:villain_and with_prev1_POS_full:NN_CC prev2:the prev2_POS:DT with_prev2_full:the_and with_prev2_POS_full:DT_CC NA

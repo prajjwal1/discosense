@@ -1,0 +1,49 @@
+(ROOT
+  (S
+    (NP (PRP it))
+    (VP (MD might)
+      (ADVP (RB very) (RB well))
+      (VP (VB be)
+        (NP (DT a) (NN glitch))
+        (SBAR (IN though)
+          (S (, ,)
+            (SBAR (IN because)
+              (FRAG (IN if)
+                (NP (JJ youre) (NN playing) (NN evil))))
+            (, ,)
+            (VP (VBP youre)
+              (PP (IN in) (IN for)
+                (NP
+                  (NP (DT a)
+                    (ADJP (RB very) (JJ tough))
+                    (NN fight))
+                  (, ,)
+                  (VP (VBN followed)
+                    (PP (IN by)
+                      (NP
+                        (NP (DT another) (NN one))
+                        (PP (IN against)
+                          (NP (DT the) (NN draracle)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN contrast)))
+    (NP (DT the) (JJ final) (NN boss))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (NN wizard))
+        (PP (IN but)
+          (SBAR
+            (WHNP (WP who))
+            (S
+              (VP (VBZ is)
+                (ADVP (RB also))
+                (PP (RB not)
+                  (NP
+                    (NP (RB even) (PDT half) (DT the) (NN threat))
+                    (PP (IN of)
+                      (NP (DT a) (JJ single) (NN giant)))))))))))
+    (. .)))
+

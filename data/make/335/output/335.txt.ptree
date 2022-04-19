@@ -1,0 +1,49 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP$ my) (NN mom))
+      (VP (VBZ is)
+        (NP (DT an) (JJ accomplished)
+          (ADJP (JJ energetic) (JJ amazing))
+          (NN woman))))
+    (CC and)
+    (S
+      (SBAR (IN for)
+        (S
+          (NP (PRP her))
+          (VP (TO to)
+            (VP (VB go)
+              (PP (IN from)
+                (SBAR
+                  (WHNP (WDT that))
+                  (S
+                    (VP (TO to)
+                      (VP (VB completely)
+                        (NP (NN bed) (NN ridden))
+                        (PP (IN in)
+                          (NP (CD 24) (NNS hours))))))))))))
+      (VP (VBZ is)
+        (NP (DT a) (NN shock))
+        (PP (TO to)
+          (NP (PRP$ her) (NN system)
+            (CC and)
+            (NN mine)))
+        (ADVP (RB too))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (ADVP (RB subsequently))
+    (ADJP (JJ steve))
+    (VP (MD will)
+      (VP (VB be)
+        (NP (DT the) (JJ main) (JJ dremel) (NN master))))
+    (NP (DT this) (NN weekend)
+      (SBAR (IN so)
+        (S
+          (NP (FW i))
+          (VP (MD can)
+            (VP (VB help)
+              (NP (PRP$ my) (NN mom)))))))
+    (. .)))
+

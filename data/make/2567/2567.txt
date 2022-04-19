@@ -1,0 +1,1 @@
+for 1 d systems, rosenbrock introduced the well known definition of strict system equivalence, using a polynomial matrix description setting. subsequently rosenbrocks strict system equivalence was generalized by fuhrmann for pmds not necessarily having the same size.

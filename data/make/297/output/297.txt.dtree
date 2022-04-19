@@ -1,0 +1,11 @@
+root(ROOT-0, accommodates-1)
+vmod(accommodates-1, differing-2)
+vmod(differing-2, picking-3)
+dobj(picking-3, styles-4)
+
+advmod(great-5, overall-1)
+det(tone-3, the-2)
+nsubj(great-5, tone-3)
+cop(great-5, is-4)
+root(ROOT-0, great-5)
+

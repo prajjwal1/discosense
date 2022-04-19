@@ -1,0 +1,58 @@
+(ROOT
+  (S
+    (S
+      (NP (DT the) (NNS agreements))
+      (VP (VBD reached)
+        (PP (IN between)
+          (NP (NN israel)))))
+    (CC and)
+    (S
+      (NP (DT the) (NNS palestinians))
+      (VP (VBP contain)
+        (NP (DT no) (NN prohibition))
+        (PP
+          (ADVP (RB whatsoever))
+          (IN on)
+          (NP
+            (NP (DT the) (NN building)
+              (CC or)
+              (NN expansion))
+            (PP (IN of)
+              (NP (NNS settlements)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN on)
+      (NP (DT the) (NN contrary)))
+    (NP (PRP it))
+    (VP (VBZ is)
+      (ADVP (RB specifically))
+      (VP (VBN provided)
+        (SBAR (IN that)
+          (S
+            (NP
+              (NP (DT the) (NN issue))
+              (PP (IN of)
+                (NP (NNS settlements))))
+            (VP (VBZ is)
+              (VP (VBN reserved)
+                (PP (IN for)
+                  (NP
+                    (NP (JJ permanent) (NN status) (NNS negotiations))
+                    (, ,)
+                    (SBAR
+                      (WHNP (WDT which))
+                      (S
+                        (VP (VBP are)
+                          (S
+                            (VP (TO to)
+                              (VP (VB take)
+                                (NP (NN place))
+                                (PP (IN in)
+                                  (NP
+                                    (NP (DT the) (JJ concluding) (NN stage))
+                                    (PP (IN of)
+                                      (NP (DT the) (NN peace) (NNS talks)))))))))))))))))))
+    (. .)))
+

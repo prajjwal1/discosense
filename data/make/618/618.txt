@@ -1,0 +1,1 @@
+incidentally, in the dynamic ram having a memory capacity of a large scale of 64 mbit class or more, power consumption is large. particularly when the data is refreshed, the quantity of the data to be refreshed is huge, and the power consumption is increased.

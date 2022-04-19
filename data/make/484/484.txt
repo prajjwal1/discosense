@@ -1,0 +1,1 @@
+the compressed mode frame is transmitted at a higher transmission power than the frame in normal transmission. consequently transmission quality can be maintained even in frame transmission in compressed mode.

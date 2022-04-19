@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (NP (NN scaffolding))
+    (ADVP (RB also))
+    (VP (VBP have)
+      (NP (JJ other) (NNS functions)))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP (NN example)))
+    (NP (PRP it))
+    (VP (MD can)
+      (VP (VB be)
+        (VP (VBN used)
+          (PP (IN in)
+            (NP
+              (NP (DT the) (NN area))
+              (PP (IN of)
+                (NP
+                  (NP (NN advertisement))
+                  (, ,)
+                  (NP (NN bridge))
+                  (, ,)
+                  (NP (NN mine))
+                  (CC and)
+                  (NP (RB so) (RB on)))))))))
+    (. .)))
+

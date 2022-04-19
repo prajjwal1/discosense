@@ -1,0 +1,52 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (JJ fourth) (NN link))
+      (PP (IN between)
+        (NP (NN chemistry)
+          (CC and)
+          (NN lithography))))
+    (VP (VBZ concerns)
+      (S
+        (NP (DT the) (NNS principles))
+        (VP (VBG governing)
+          (NP
+            (NP (DT the) (JJ chemical) (NNS transformations))
+            (VP (VBN utilized)
+              (PP (IN in)
+                (NP
+                  (NP (NN process) (NN integration) (NNS schemes))
+                  (SBAR
+                    (WHNP (WDT that))
+                    (S
+                      (VP (VBP are)
+                        (NP
+                          (NP (NN part))
+                          (PP (IN of)
+                            (NP
+                              (NP (DT the) (NN implementation))
+                              (PP (IN of)
+                                (NP
+                                  (NP (NN lithography))
+                                  (PP (IN in)
+                                    (NP (NN ic) (NN device) (NN fabrication))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nonetheless))
+    (NP (DT the) (NN emphasis))
+    (VP (VBZ is)
+      (ADJP (RB predominantly) (VBN placed)
+        (PP (IN on)
+          (NP
+            (NP (NNS applications))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (VBP have)
+                  (VP (VBN relevance)
+                    (PP (IN in)
+                      (NP (DT the) (NN semiconductor) (NN industry)))))))))))
+    (. .)))
+

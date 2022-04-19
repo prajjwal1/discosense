@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (NP (PRP us) (NNS women))
+    (VP
+      (VP (MD should) (RB not)
+        (ADVP (RB only))
+        (VP (VB submit)
+          (PP (TO to)
+            (NP (NNS men)))))
+      (, ,)
+      (CC but)
+      (VP (VBP do)
+        (NP (PRP it))
+        (ADVP (RB willingly))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (PP (IN for)
+      (NP (NN example)))
+    (VP (VBP id)
+      (VP (VB be)
+        (ADJP (RB perfectly) (JJ fine))
+        (S
+          (VP (VBG scrubbing)
+            (NP (DT the) (NN floor))))
+        (SBAR (IN while)
+          (S
+            (NP (PRP$ my) (NN husband))
+            (VP (VBD relaxed)
+              (PP (IN on)
+                (NP (DT the) (NN couch))))))))
+    (S
+      (VP (VBG doing)
+        (NP (NN nothing))))
+    (. .)))
+

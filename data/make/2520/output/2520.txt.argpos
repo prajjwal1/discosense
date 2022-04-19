@@ -1,0 +1,3 @@
+conn:when conn_POS:WRB prev1:question prev1_POS:NN with_prev1_full:question_when with_prev1_POS_full:NN_WRB prev2:important prev2_POS:JJ with_prev2_full:important_when with_prev2_POS_full:JJ_WRB NA
+conn:for_example conn_POS:IN_NN sent_pos:0 NA
+conn:if conn_POS:IN sent_pos:2 prev1:example prev1_POS:NN with_prev1_full:example_if with_prev1_POS_full:NN_IN prev2:for prev2_POS:IN with_prev2_full:for_if with_prev2_POS_full:IN_IN NA

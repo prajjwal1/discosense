@@ -1,0 +1,2 @@
+conn:likewise conn_POS:RB sent_pos:0 NA
+conn:or conn_POS:CC prev1:itself prev1_POS:PRP with_prev1_full:itself_or with_prev1_POS_full:PRP_CC prev2:work prev2_POS:NN with_prev2_full:work_or with_prev2_POS_full:NN_CC NA

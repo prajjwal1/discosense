@@ -1,0 +1,45 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (NN fed))
+      (, ,)
+      (PP (IN in)
+        (NP
+          (NP (NN recognition))
+          (PP (IN of)
+            (NP (DT this) (NN responsibility)))))
+      (, ,))
+    (VP (VBZ has)
+      (VP (VBN set)
+        (NP
+          (NP (DT a) (NN target))
+          (PP (IN for)
+            (NP (JJ low) (NN inflation) (CD 2) (NN percent)))
+          (PP (IN per)
+            (NP (NN year))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (JJ other) (NNS words)))
+    (NP (EX there))
+    (VP (VBZ is)
+      (ADVP (RB no) (RB longer))
+      (NP
+        (NP (DT a) (NN battle))
+        (PP (IN over)
+          (NP
+            (NP (DT the) (NNS causes))
+            (PP (IN of)
+              (NP (NN inflation)
+                (CC and)
+                (NN responsibility)))))
+        (PP (IN for)
+          (S
+            (VP (VBG keeping)
+              (S
+                (NP (NN inflation))
+                (ADJP (JJ low))))))))
+    (. .)))
+

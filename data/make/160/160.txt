@@ -1,0 +1,1 @@
+the model of real delta sigma modulator was derived. consequently modulator coefficients were optimized.

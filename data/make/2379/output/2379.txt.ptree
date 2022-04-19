@@ -1,0 +1,38 @@
+(ROOT
+  (S
+    (NP (NN ibm))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBZ plans)
+            (S
+              (VP (TO to)
+                (VP (VB support)
+                  (NP
+                    (QP (RB about) (CD 200) (CD million))
+                    (NNS users))
+                  (PP (IN by)
+                    (NP
+                      (NP (DT the) (NN end))
+                      (PP (IN of)
+                        (NP (CD 2012)))))
+                  (SBAR (IN as)
+                    (S
+                      (NP (NNS clients))
+                      (VP (VBP shift)
+                        (NP (JJ core) (NNS applications)
+                          (CC and)
+                          (NNS processes))
+                        (PP (TO to)
+                          (NP (DT the) (NN ibm) (NN smartcloud)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB specifically))
+    (NP (NN ibm))
+    (VP (VBZ is)
+      (VP (VBG launching)))
+    (. .)))
+

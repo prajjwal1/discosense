@@ -1,0 +1,24 @@
+(ROOT
+  (S
+    (NP (PRP he))
+    (VP (VBD did) (RB not)
+      (PRN (, ,)
+        (ADVP (RB however))
+        (, ,))
+      (VP (VB offer)
+        (NP
+          (NP (DT any) (JJ factual) (NN support))
+          (PP (IN for)
+            (NP (DT these) (NNS allegations))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB rather))
+    (NP (PRP he))
+    (VP
+      (ADVP (RB merely))
+      (VBD made)
+      (NP (JJ broad) (NN conclusory) (NNS statements)))
+    (. .)))
+

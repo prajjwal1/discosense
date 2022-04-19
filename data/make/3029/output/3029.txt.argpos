@@ -1,0 +1,2 @@
+conn:thereafter conn_POS:RB sent_pos:0 NA
+conn:as conn_POS:IN prev1:assembled prev1_POS:VBN with_prev1_full:assembled_as with_prev1_POS_full:VBN_IN prev2:were prev2_POS:VBD with_prev2_full:were_as with_prev2_POS_full:VBD_IN NA

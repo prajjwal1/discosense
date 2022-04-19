@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (ADVP (RB perhaps))
+    (NP (DT the) (NN dream))
+    (VP (VBZ is)
+      (VP (VBG giving)
+        (NP (PRP you))
+        (NP
+          (NP (DT a) (NN poke))
+          (CC or)
+          (NP (DT a) (NN nudge)
+            (S
+              (VP (TO to)
+                (VP (VB move)
+                  (ADVP (RB forward)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thus))
+    (NP (DT the) (NN dream))
+    (VP (MD may)
+      (VP (VB be)
+        (NP
+          (NP (DT a) (NN pun))
+          (PP (IN on)
+            (S
+              (VP (VBG being)
+                (ADJP (JJ pokey)
+                  (CC or)
+                  (JJ slow))))))))
+    (. .)))
+

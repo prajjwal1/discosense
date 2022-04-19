@@ -1,0 +1,48 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (CD 1832)))
+    (, ,)
+    (NP
+      (NP (NN king) (NN kamehameha) (NN iii))
+      (, ,)
+      (VP (VBN brought)
+        (NP (JJ spanish) (NNS cowboys))
+        (PP (IN from)
+          (NP (NN california)))
+        (S
+          (VP (TO to)
+            (VP (VB train))))))
+    (VP (VBZ hawaiians)
+      (PP (IN in)
+        (NP
+          (NP (NN horse)
+            (CC and)
+            (NNS cattle))
+          (VP (VBG handling)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN as)
+      (NP (DT a) (NN result)))
+    (NP
+      (NP (DT the) (JJ colorful) (NN dress))
+      (, ,)
+      (NP (NN singing) (NN style))
+      (, ,)
+      (CC and)
+      (NP (NN horse) (NN gear)))
+    (VP (VBP are)
+      (ADJP
+        (ADJP (RBR more) (RB closely) (JJ akin))
+        (PP (TO to)
+          (NP (DT the) (NNP spanish) (NN tradition))))
+      (PP (IN than)
+        (PP (TO to)
+          (NP
+            (NP (DT that))
+            (PP (IN of)
+              (NP (DT the) (NN american) (NN west)))))))
+    (. .)))
+

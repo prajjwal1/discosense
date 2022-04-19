@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (NP
+      (NP (JJ current) (NNS densities))
+      (PP (IN of)
+        (NP
+          (NP
+            (QP (CD ten) (NNS times)))
+          (NP (DT the) (NN child) (NN langmuir) (NN spacecharge) (NN limit)))))
+    (VP (VBD were)
+      (VP (VBN achieved)
+        (PP (IN under)
+          (NP (NN xuv) (NN irradiation)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (JJ particular) (NN ion)))
+    (NP (NNS currents))
+    (VP (VBD increased)
+      (PP (IN by) (IN over)
+        (NP
+          (NP (DT a) (NN factor))
+          (PP (IN of)
+            (NP (CD 3)))))
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (CD 12) (NN mj))
+          (VP (VBP cm)
+            (SBAR
+              (S
+                (NP
+                  (NP (CD 2))
+                  (PP (IN of)
+                    (NP (NN xuv) (NN radiation))))
+                (VP (VBD was)
+                  (VP (VBN used)))))))))
+    (. .)))
+

@@ -1,0 +1,57 @@
+(ROOT
+  (S
+    (NP (PRP it))
+    (VP (VBZ seems)
+      (SBAR (IN that)
+        (S
+          (NP (NNS characters))
+          (ADVP (RB normally))
+          (VP (VBD described)
+            (SBAR (IN as)
+              (S
+                (NP (NNS thieves))
+                (VP (VBD rogues)
+                  (SBAR
+                    (S
+                      (NP (NNS rangers)
+                        (CC and)
+                        (NNS barbarians))
+                      (VP (MD should)
+                        (VP (VB be)
+                          (NP
+                            (NP (DT the) (NNS ones))
+                            (SBAR
+                              (WHNP (WP who))
+                              (S
+                                (VP (VBP have)
+                                  (NP (DT the) (JJS highest) (JJ common) (NN sense)))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN by)
+      (NP (NN contrast)))
+    (NP (NNS clerics)
+      (CC and)
+      (NNS priests))
+    (VP (MD would)
+      (VP (VB need)
+        (S
+          (VP (TO to)
+            (VP (VB have)
+              (NP (DT a) (JJ decent) (NN charisma) (NN score))
+              (S
+                (VP (TO to)
+                  (VP
+                    (VP (VB manage)
+                      (NP (DT a) (NN temple)))
+                    (, ,)
+                    (VP (VB deliver)
+                      (NP (NNS sermons)))
+                    (CC and)
+                    (VP (VB attract)
+                      (NP (NNS followers))
+                      (PP (TO to)
+                        (NP (PRP$ their) (NN deity))))))))))))
+    (. .)))
+

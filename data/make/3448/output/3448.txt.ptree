@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (NP (DT the) (JJ random) (NNS effects) (NN model))
+    (VP (VBZ does) (RB not)
+      (ADVP (RB necessarily))
+      (VP (VB eliminate)
+        (NP
+          (NP (DT the) (NN problem))
+          (PP (IN of)
+            (NP (NN heterogeneity))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (RB particularly) (IN if)
+      (S
+        (NP (EX there))
+        (VP (VBZ is)
+          (NP
+            (NP (JJ significant) (NN proportion))
+            (PP (IN of)
+              (NP
+                (NP (NNS studies))
+                (SBAR
+                  (WHNP (WDT that))
+                  (S
+                    (VP (VBP differ)
+                      (PP (IN in)
+                        (NP (NN treatment) (NN effect)
+                          (CC and)
+                          (NN direction)))
+                      (S
+                        (VP (VBG combining)
+                          (NP (PRP them)))))))))))))
+    (VP (MD could)
+      (VP (VB lead)
+        (PP (TO to)
+          (NP (JJ misleading) (NNS conclusions)))))
+    (. .)))
+

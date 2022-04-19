@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (DT a) (JJ loose) (NN ball) (NN situation)))
+    (, ,)
+    (NP (NNS players))
+    (VP (VBP are)
+      (ADVP (RB often))
+      (VP (VBG fighting)
+        (PP (IN for)
+          (NP (NN possession)))
+        (PP (IN with)
+          (NP
+            (NP (NNS bodies))
+            (VP (VBG covering)
+              (NP (PRP it)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB because)
+      (PP (IN of)
+        (SBAR (IN that)
+          (S
+            (NP (NN possession))
+            (VP (VBZ is)
+              (VP (VBN decided)
+                (ADVP (RB once))))))))
+    (NP (DT the) (NN scrum))
+    (VP (VBZ is)
+      (VP (VBN cleared)))
+    (. .)))
+

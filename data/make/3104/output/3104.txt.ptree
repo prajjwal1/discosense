@@ -1,0 +1,38 @@
+(ROOT
+  (S
+    (NP (PRP it))
+    (VP (VBZ is)
+      (ADJP (JJ tricky)
+        (S
+          (VP (TO to)
+            (VP (VB get)
+              (S
+                (VP (TO to)
+                  (VP (VB find)
+                    (SBAR (IN as)
+                      (S
+                        (NP (PRP it))
+                        (VP (VBZ is)
+                          (ADVP (RB also))
+                          (ADVP
+                            (NP (DT a) (NN foot))
+                            (RB down)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nonetheless))
+    (NP (PRP you))
+    (VP (MD can)
+      (VP (VB get)
+        (PP (TO to)
+          (NP (PRP it)))
+        (PP (IN without)
+          (S
+            (VP (VBG removing)
+              (NP
+                (NP (DT any))
+                (PP (IN of)
+                  (NP (DT the) (NNS components)))))))))
+    (. .)))
+

@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (ADVP (RB finally))
+    (, ,)
+    (NP (NNS monkeys))
+    (VP (VBD did) (RB not)
+      (VP (VB compensate)
+        (PP (IN for)
+          (NP
+            (NP (NN deprivation))
+            (VP (VBN experienced)
+              (PP
+                (NP (CD one) (NN day))
+                (IN by)
+                (S
+                  (VP (VBG increasing)
+                    (NP (PRP$ their) (NN food) (NN intake))
+                    (NP (DT the) (JJ following) (NN day))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN sum)))
+    (NP (DT these) (NNS results))
+    (VP (VBP indicate)
+      (SBAR (IN that)
+        (S
+          (PP (IN under)
+            (NP (DT these) (NNS conditions)))
+          (, ,)
+          (NP (DT the) (NNS rhesus) (NN monkey))
+          (VP (VBZ does) (RB not)
+            (VP (VB regulate)
+              (NP (PRP$ its) (NN food) (NN intake))
+              (ADVP
+                (ADVP (RB as) (RB accurately))
+                (SBAR (IN as)
+                  (S
+                    (ADVP (RB previously))
+                    (VP (VBD reported))))))))))
+    (. .)))
+

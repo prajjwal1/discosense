@@ -1,0 +1,2 @@
+conn:however conn_POS:RB sent_pos:0 NA
+conn:also conn_POS:RB sent_pos:2 prev1:we prev1_POS:PRP with_prev1_full:we_also with_prev1_POS_full:PRP_RB prev2:however prev2_POS:RB with_prev2_full:however_also with_prev2_POS_full:RB_RB NA

@@ -1,0 +1,48 @@
+(ROOT
+  (S
+    (SBAR (IN if)
+      (S
+        (NP (PRP$ your) (JJ landlords) (JJ rental) (NN request))
+        (VP (VBZ is)
+          (PP (IN in)
+            (NP
+              (NP (NN violation))
+              (PP (IN of)
+                (NP (DT these) (NNS regulations))))))))
+    (, ,)
+    (NP (PRP you))
+    (VP (MD may)
+      (VP (VB be)
+        (ADJP (JJ able)
+          (S
+            (VP (TO to)
+              (VP (VB renew)
+                (PP (IN at)
+                  (NP (DT a) (JJR better) (NN rate)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN in)
+      (S
+        (NP (NN sum))
+        (ADVP (RB always))
+        (VP (VBP make)
+          (ADJP (JJ sure)))))
+    (NP (PRP$ your) (NN lease) (NN agreement))
+    (VP (VBZ specifies)
+      (SBAR
+        (S
+          (NP
+            (NP (DT the) (NN length))
+            (PP (IN of)
+              (NP
+                (NP (PRP$ your) (NN lease))
+                (CC and)
+                (NP (DT the) (JJ consistent) (JJ monthly) (NN rent) (NN youll)))))
+          (VP (VBP have)
+            (S
+              (VP (TO to)
+                (VP (VB pay))))))))
+    (. .)))
+

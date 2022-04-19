@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (NP (JJ michael) (NN chaney))
+    (VP (VBZ has)
+      (VP (VBN rebutted)
+        (NP (NN union) (NNS claims))
+        (SBAR (IN that)
+          (S
+            (NP
+              (NP (DT the) (NN use))
+              (PP (IN of)
+                (NP (JJ floating) (JJ liquid) (JJ natural) (NN gas) (NN extraction) (NN technology))))
+            (VP (MD will)
+              (VP (VB cost)
+                (NP (NN australian) (NNS jobs))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB instead))
+    (NP (PRP he))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (NN perth))
+          (VP (VBD had)
+            (NP (DT the) (NN opportunity)
+              (S
+                (VP (TO to)
+                  (VP (VB be)
+                    (PP (IN at)
+                      (NP
+                        (NP (DT the) (NN epicentre))
+                        (PP (IN of)
+                          (NP (VBG flng) (NN technology) (NN development)))))))))))))
+    (. .)))
+

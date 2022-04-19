@@ -1,0 +1,38 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (NNS lessons))
+      (PP (IN from)
+        (NP (DT this) (NN experiment))))
+    (VP (VBP build)
+      (PP (IN on)
+        (NP
+          (NP (NNS insights))
+          (PP (IN from)
+            (NP (JJ public) (NN engagement)))))
+      (PP (IN with)
+        (NP
+          (NP (DT the) (NNS biosciences))
+          (CC and)
+          (NP (NN biotechnology)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (ADJP (JJ particular)))
+    (NP (PRP we))
+    (VP (VBP see)
+      (NP
+        (NP (DT the) (NN importance))
+        (PP (IN of)
+          (NP
+            (NP (NNS questions))
+            (PP (IN of)
+              (NP (NN context)
+                (CC and)
+                (NN purpose))))))
+      (PP (IN for)
+        (NP (JJ scientific) (NN research))))
+    (. .)))
+

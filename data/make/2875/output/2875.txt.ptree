@@ -1,0 +1,50 @@
+(ROOT
+  (SINV
+    (S
+      (NP (DT the) (JJ ascending) (NN willingness)
+        (S
+          (VP (TO to)
+            (VP (VB utilise)
+              (NP (JJ outside) (NN expertise))))))
+      (VP (VBZ is)
+        (VP
+          (ADVP (RB increasingly))
+          (VBN associated)
+          (PP (IN with)
+            (NP (DT the) (NN need)))
+          (S
+            (VP (TO to)
+              (VP (VB adopt)
+                (NP
+                  (ADJP (RBR more) (JJ advanced))
+                  (NNS technologies))))))))
+    (, ,)
+    (VP (VBZ says))
+    (NP (NN frost) (NN sullivan) (NN market) (NN analyst) (NNP mili) (NNP shah))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP (NN instance)))
+    (NP
+      (NP (JJ old) (NN german) (NNS utilities))
+      (PP (IN in)
+        (NP
+          (NP (PRP$ their) (NN quest))
+          (PP (IN for)
+            (NP (JJ operational) (NN efficiency))))))
+    (VP (VBP are)
+      (VP (VBG rebuilding)
+        (NP (PRP$ their) (VBG ageing) (NN infrastructure))
+        (PP (IN for)
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (NP (NN outsourcing))
+              (VP (VBZ is)
+                (VP (VBG emerging)
+                  (PP (IN as)
+                    (NP (DT the) (JJ favourable) (NN solution))))))))))
+    (. .)))
+

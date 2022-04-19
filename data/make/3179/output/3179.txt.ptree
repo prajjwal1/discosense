@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (S
+      (NP (DT these) (NNS conflicts))
+      (VP (VBP have)
+        (ADVP (RBR less))
+        (S
+          (VP (TO to)
+            (VP (VB do)
+              (PP (IN with)
+                (NP (NN iran))))))))
+    (CC and)
+    (S
+      (NP (DT the) (NN sunni) (NN shiite))
+      (VP (VBP divide)
+        (SBAR (IN than)
+          (S
+            (ADVP (RB widely))
+            (VP (VBD believed))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB rather))
+    (NP (PRP they))
+    (VP (VBP represent)
+      (NP
+        (NP (DT a) (NN fracturing))
+        (PP (IN of)
+          (NP
+            (NP (JJ washingtons) (NN sunni) (NNS allies))
+            (PP (IN in)
+              (NP
+                (NP (DT the) (NN middle))
+                (ADVP (JJ east))))))))
+    (. .)))
+

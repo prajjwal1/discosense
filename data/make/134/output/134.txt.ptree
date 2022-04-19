@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NNS markets)))
+    (, ,)
+    (NP (DT an) (JJ excess) (NN supply))
+    (VP (VBZ is)
+      (ADJP (JJ easy)
+        (S
+          (VP (TO to)
+            (VP (VB detect)
+              (SBAR
+                (S
+                  (NP (NNS prices))
+                  (VP (VBP are)
+                    (ADJP (JJ low))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (ADJP (RB conversely) (JJ high))
+      (NNS prices))
+    (VP (VBP indicate)
+      (NP
+        (NP (DT a) (NN supply) (NN shortage))
+        (, ,) (RB not)
+        (NP (DT an) (NN excess))))
+    (. .)))
+

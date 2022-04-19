@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (NP (PRP$ its)
+      (ADJP
+        (ADJP (RB now) (JJ 2012))
+        (CC and)
+        (PRN (, ,)
+          (ADVP
+            (NP (CD two) (NNS years))
+            (RB later))
+          (, ,))
+        (ADJP (JJ moores)))
+      (NN law))
+    (VP (VBZ is)
+      (VP (VBG holding)
+        (NP (NN firm))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (PP (IN on)
+        (NP (DT the) (JJ other) (NN hand)))
+      (NP (EX there))
+      (VP (VBZ has)
+        (VP (VBN been)
+          (NP
+            (NP (DT a) (JJ fair) (NN amount))
+            (PP (IN of)
+              (NP (NN consolidation)))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP
+        (NP (DT a) (NN shift))
+        (PP (TO to)
+          (NP (NNS fabless)
+            (CC and)
+            (NN asset))))
+      (VP (VBP lite)
+        (NP (NN business) (NNS models))))
+    (. .)))
+

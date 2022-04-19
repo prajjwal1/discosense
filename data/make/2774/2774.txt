@@ -1,0 +1,1 @@
+in this step, in order to prevent damage due to the etch back, the etch back is stopped at the silicon nitride film 135. thereby it is possible to suppress dark current in the pixel section 10 due to etch back damage.

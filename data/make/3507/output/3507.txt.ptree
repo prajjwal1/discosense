@@ -1,0 +1,45 @@
+(ROOT
+  (S
+    (NP (PRP it))
+    (VP (VBZ is)
+      (NP
+        (NP (NN part))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (JJ cross) (NNS timbers) (NN region))
+            (SBAR
+              (S
+                (NP (DT this) (NN region))
+                (VP (VBZ is)
+                  (NP
+                    (NP (DT a) (NN boundary))
+                    (PP (IN between)
+                      (NP
+                        (NP (DT the)
+                          (ADJP
+                            (ADVP (RBR more) (RB heavily))
+                            (JJ forested))
+                          (JJ eastern) (NNS parts))
+                        (CC and)
+                        (NP
+                          (NP (DT the) (JJ rolling) (NNS hills)
+                            (CC and)
+                            (NNS prairies))
+                          (PP (IN of)
+                            (NP (DT the) (JJ central) (NN part))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB specifically))
+    (NP (DT the) (NN city))
+    (VP (VBZ is)
+      (NP
+        (NP (NN part))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (JJ grand) (NN prairie) (NN ecoregion))
+            (PP (IN within)
+              (NP (DT the) (JJ cross) (NNS timbers)))))))
+    (. .)))
+

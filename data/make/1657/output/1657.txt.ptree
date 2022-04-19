@@ -1,0 +1,31 @@
+(ROOT
+  (NP
+    (NP
+      (NP (NN department))
+      (, ,)
+      (NP (DT the) (NN bda))
+      (CC and)
+      (NP (DT the) (NN cda)))
+    (ADJP (JJ due)
+      (PP (TO to)
+        (NP
+          (NP (JJ stiff) (NN resistance))
+          (PP (IN from)
+            (NP (DT the) (JJ concerned) (NNS authorities))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB particularly))
+    (NP (DT the) (NN bda))
+    (VP (VBD was)
+      (VP (VBG resisting)
+        (NP
+          (NP (DT the) (NN demand))
+          (PP (IN for)
+            (NP
+              (NP (NN production))
+              (PP (IN of)
+                (NP (DT the) (NNS records))))))))
+    (. .)))
+

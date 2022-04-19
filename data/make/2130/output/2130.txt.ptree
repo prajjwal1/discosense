@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (NP (PRP it))
+    (VP (MD would)
+      (VP (VB be)
+        (ADJP (RB as) (JJ useful)
+          (PP (IN as)
+            (NP
+              (NP
+                (ADJP (RB newly) (JJ minted))
+                (NNS mbas))
+              (VP (VBG trying)
+                (S
+                  (VP (TO to)
+                    (VP (VB apply)
+                      (NP (JJ black) (NNS scholes))
+                      (PP (TO to)
+                        (NP (VBN fixed) (NN income) (NNS instruments))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB instead))
+    (NP (FW i))
+    (VP (MD will)
+      (VP (VB make)
+        (NP
+          (NP (JJ explicit) (PRP$ its) (NNS assumptions))
+          (CC and)
+          (NP (NNS oversights)))))
+    (. .)))
+

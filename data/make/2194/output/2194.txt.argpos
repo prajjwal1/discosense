@@ -1,0 +1,2 @@
+conn:in_fact conn_POS:IN_NN prev1:, prev1_POS:, with_prev1_full:,_in_fact with_prev1_POS_full:,_IN_NN prev2:not prev2_POS:RB with_prev2_full:not_in_fact with_prev2_POS_full:RB_IN_NN NA
+conn:on_the_contrary conn_POS:IN_DT_NN sent_pos:0 NA

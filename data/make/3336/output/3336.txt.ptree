@@ -1,0 +1,56 @@
+(ROOT
+  (S
+    (NP (PRP you))
+    (ADVP (RB also))
+    (VP
+      (VP (VBD said)
+        (SBAR (IN that)
+          (S
+            (NP (NNS spirits))
+            (VP (MD can)
+              (ADVP (RB also))
+              (VP (VB be)
+                (ADJP
+                  (ADJP (JJ positive))
+                  (CC and)
+                  (ADJP (RB not) (JJ negative))))))))
+      (, ,)
+      (CC and)
+      (VP (VBD asked) (, ,)
+        (SBARQ
+          (WHADVP (WRB why))
+          (SQ (MD must)
+            (NP (PRP they))
+            (ADVP (RB only))
+            (VP (VB be)
+              (ADJP (JJ negative)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB however))
+    (NP (PRP$ your) (NN question))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (NN rhetoric) (NN fallacy))
+        (SBAR
+          (S
+            (NP (PRP$ your) (NN question) (NN doesnt))
+            (VP (VBP prove)
+              (SBAR (IN that)
+                (S
+                  (NP
+                    (NP (NNS spirits))
+                    (VP (VBG communicating)
+                      (PP (IN in)
+                        (NP
+                          (NP (DT a) (NN way))
+                          (VP (VBN forbidden)
+                            (PP (IN by)
+                              (NP (DT the) (NN bible))))))))
+                  (VP (VBP wont)
+                    (ADVP (RB always))
+                    (VP (VB be)
+                      (ADJP (JJ negative)))))))))))
+    (. .)))
+

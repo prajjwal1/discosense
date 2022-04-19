@@ -1,0 +1,52 @@
+(ROOT
+  (S
+    (NP (FW i))
+    (VP (VBP think)
+      (SBAR (IN that)
+        (S
+          (NP (PRP$ my) (JJ favorite) (NN character))
+          (VP (VBD was)
+            (ADVP (RB probably))
+            (ADJP (JJ steve))
+            (, ,)
+            (SBAR (IN because)
+              (S
+                (NP (PRP he))
+                (VP (VBD was)
+                  (NP
+                    (NP (PDT such) (DT a) (JJ good) (NN man))
+                    (SBAR
+                      (WHNP (WP who))
+                      (S
+                        (VP (VBD was)
+                          (ADJP (JJ wise)
+                            (CC and)
+                            (JJ patient)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB overall))
+    (NP (DT a)
+      (ADJP (RB very) (JJ enjoyable)))
+    (VP (VBP read)
+      (SBAR (IN that)
+        (S
+          (NP (FW i))
+          (VP (VBD was)
+            (ADJP (JJ able)
+              (S
+                (VP (TO to)
+                  (VP
+                    (ADVP (RB really))
+                    (VB get)
+                    (PP (IN into)
+                      (PP (IN without)
+                        (S
+                          (VP (VBG having)
+                            (VP (VBN read)
+                              (NP (DT the) (JJ first) (CD two))
+                              (PP (IN in)
+                                (NP (DT the) (NN series))))))))))))))))
+    (. .)))
+

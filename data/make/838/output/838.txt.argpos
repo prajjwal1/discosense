@@ -1,0 +1,2 @@
+conn:when conn_POS:WRB prev1:outflows prev1_POS:NNS with_prev1_full:outflows_when with_prev1_POS_full:NNS_WRB prev2:capital prev2_POS:NN with_prev2_full:capital_when with_prev2_POS_full:NN_WRB NA
+conn:for_instance conn_POS:IN_NN sent_pos:0 NA

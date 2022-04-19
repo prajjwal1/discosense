@@ -1,0 +1,3 @@
+conn_lc:since conn:since conn_POS:IN xxx£
+conn_lc:in_sum conn:in_sum conn_POS:IN_NN xxx£
+conn_lc:when conn:when conn_POS:WRB with_prev_full:greater_when xxx£

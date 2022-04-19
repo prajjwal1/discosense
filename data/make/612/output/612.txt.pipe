@@ -1,0 +1,2 @@
+Explicit|||0..2;45..49||if then||0|if then|||Expansion.Conjunction|||||||||||3..43|0|your source directory has subdirectories||||||||3..43;50..133|0|your source directory has subdirectories you should specify your include paths relative to the root of your source directory|||||||||||||
+Explicit|||147..149;189..193||if then||1|if then|||Expansion.Conjunction|||||||||||194..205|1|source code||||||||206..213|1|in sets|||||||||||||

@@ -1,0 +1,57 @@
+(ROOT
+  (S
+    (NP
+      (NP (NN camera))
+      (SBAR
+        (S
+          (NP (PRP we))
+          (VP (VBD found)
+            (SBAR (IN that)
+              (S
+                (NP (DT the) (NN galaxy) (CD tabs) (CD 2s) (CD 8) (NN mp) (NN rear) (NN camera))
+                (VP (VBD took)
+                  (S
+                    (NP (DT some))
+                    (ADJP (RB reasonably) (JJ sharp))))))))))
+    (VP (VBZ snaps) (, ,)
+      (ADVP (RB even))
+      (PP (IN in)
+        (NP (JJ low) (NN light))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB likewise))
+    (NP
+      (NP (DT the) (CD 2) (NN k) (NN video))
+      (SBAR
+        (S
+          (NP (PRP we))
+          (VP (VBD recorded)))))
+    (VP (VBD looked)
+      (ADJP (JJ clean)
+        (CC and)
+        (JJ clear))
+      (, ,)
+      (SBAR (IN although)
+        (S
+          (NP
+            (NP (DT the) (JJ real) (NN test))
+            (PP (IN of)
+              (NP (DT this) (NN camera))))
+          (VP (MD will)
+            (VP (VB be)
+              (SBAR
+                (WHADVP (WRB how))
+                (S
+                  (NP (NNS stills)
+                    (CC and)
+                    (NNS videos))
+                  (VP (VBP look)
+                    (PP (IN on)
+                      (NP
+                        (NP (DT a) (JJR larger) (NN laptop))
+                        (CC or)
+                        (NP (JJ desktop) (NN screen))))))))))))
+    (. .)))
+

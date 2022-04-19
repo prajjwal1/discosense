@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (JJ free) (NN practice)))
+    (NP (DT this) (NN morning))
+    (, ,)
+    (NP (JJ mattias) (NN ekstrm))
+    (VP
+      (VP (VBZ has)
+        (VP (VBN destroyed)
+          (NP (PRP$ his) (NN splitter))))
+      (CC and)
+      (VP (VBD had)
+        (S
+          (VP (TO to)
+            (VP (VB use)
+              (NP (DT a) (JJ new) (NN one))
+              (PP (IN in)
+                (S
+                  (VP (VBG qualifying)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB because) (IN of)
+      (NP (DT that)))
+    (NP (PRP$ his) (NN car))
+    (VP (VBD was) (RB not)
+      (ADJP (RB as) (JJ good)
+        (PP (IN as)
+          (ADVP (RB before)))))
+    (. .)))
+

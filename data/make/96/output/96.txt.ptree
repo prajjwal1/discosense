@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (ADVP (RB luckily))
+    (, ,)
+    (VP (VBZ theres)
+      (NP
+        (NP (RB plenty))
+        (PP (IN of)
+          (NP (JJ middle) (NN ground)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP (NN instance)))
+    (NP (PRP you))
+    (VP (MD can)
+      (VP (VB choose)
+        (S
+          (NP (DT a) (VBN trusted) (NN circle))
+          (VP (TO to)
+            (VP (VB bounce)
+              (NP (PRP$ your) (NNS ideas))
+              (PRT (RP off))
+              (PP (IN of)))))))
+    (. .)))
+

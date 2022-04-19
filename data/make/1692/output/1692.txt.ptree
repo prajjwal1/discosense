@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (SBAR (IN if)
+      (S
+        (NP
+          (NP (DT the) (NNS scores))
+          (PP (IN in)
+            (NP
+              (NP (PRP$ our) (NN group))
+              (PP (IN of)
+                (NP (NNS data))))))
+        (VP (VBP are)
+          (VP (VBN spread)
+            (PRT (RP out))))))
+    (, ,)
+    (NP (DT the) (NN variance))
+    (VP (MD will)
+      (VP (VB be)
+        (NP (DT a) (JJ large) (NN number))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (ADVP (RB conversely))
+      (IN if)
+      (S
+        (NP (DT the) (NNS scores))
+        (VP (VBP are)
+          (VP (VBN spread)
+            (ADVP (RB closely))
+            (PP (IN around)
+              (NP (DT the) (NN mean)))))))
+    (, ,)
+    (NP (DT the) (NN variance))
+    (VP (MD will)
+      (VP (VB be)
+        (NP (DT a) (JJR smaller) (NN number))))
+    (. .)))
+

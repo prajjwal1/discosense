@@ -1,0 +1,52 @@
+(ROOT
+  (S
+    (S
+      (NP (NN pearson))
+      (VP (VBD told)
+        (NP
+          (NP (NN nhl.com) (NN hes))
+          (VP (VBN been)
+            (VP (VBG skating)
+              (PP (IN since)
+                (NP
+                  (NP (DT the) (NN beginning))
+                  (PP (IN of)
+                    (NP (DT the) (NN month))))))))))
+    (, ,)
+    (CC and)
+    (S
+      (SBAR (IN while)
+        (FRAG
+          (ADJP (RB hes) (JJ close)
+            (PP (TO to)
+              (NP (CD 100) (NN percent) (NNS healed))))))
+      (, ,)
+      (NP
+        (NP (NN hes))
+        (VP
+          (ADVP (RB still))
+          (VBG doing)
+          (NP (NN strengthening)
+            (CC and)
+            (NN balance))))
+      (VP (VBP work)
+        (PP (IN in)
+          (NP (PRP$ his) (NN leg)))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (PP (RB because) (IN of)
+      (NP (DT that) (NN pearson)))
+    (VP (MD will)
+      (VP (VB sit)
+        (PRT (RP out))
+        (NP (DT the) (NN jumping)
+          (CC and)
+          (NN bike))))
+    (NP
+      (NP (NNS portions))
+      (PP (IN of)
+        (NP (DT the) (NN fitness) (NN testing))))
+    (. .)))
+

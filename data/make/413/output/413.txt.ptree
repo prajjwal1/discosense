@@ -1,0 +1,58 @@
+(ROOT
+  (S
+    (NP (PRP it))
+    (VP (VBZ is)
+      (VP (VBG starting)
+        (PP (IN from)
+          (NP (DT these) (NNS configurations)))
+        (SBAR (IN that)
+          (S
+            (NP (PRP it))
+            (VP (VBZ makes)
+              (NP (NN sense))
+              (S
+                (VP (TO to)
+                  (VP (VB begin)
+                    (S
+                      (VP (TO to)
+                        (VP (VB talk)
+                          (PP (IN about)
+                            (NP
+                              (NP (JJ different) (NNS ways))
+                              (PP (IN of)
+                                (S
+                                  (VP
+                                    (VP (VBG living))
+                                    (, ,)
+                                    (VP (VBG relating))
+                                    (CC and)
+                                    (VP (VBG loving)
+                                      (SBAR
+                                        (WHNP (WDT which))
+                                        (S
+                                          (VP (MD may)
+                                            (CC or)
+                                            (MD may) (RB not)
+                                            (VP (VB be)
+                                              (ADJP (JJ healthy)
+                                                (CC or)
+                                                (JJ pathological)))))))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (JJ other) (NNS words)))
+    (NP (JJ ethical) (NNS issues))
+    (ADVP (RB only))
+    (VP (VBP arise)
+      (ADVP (IN in) (DT the))
+      (SBAR
+        (WHADVP (WRB how))
+        (S
+          (NP (DT this) (NN configuration))
+          (VP (VBZ is)
+            (VP (VBN lived)
+              (PRT (RP out)))))))
+    (. .)))
+

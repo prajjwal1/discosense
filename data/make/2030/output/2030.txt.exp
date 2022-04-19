@@ -1,0 +1,3 @@
+conn_lc:thus conn:thus conn_POS:RB with_prev_full:and_thus xxx£
+conn_lc:nonetheless conn:nonetheless conn_POS:RB xxx£
+conn_lc:because conn:because conn_POS:IN with_prev_full:true_because xxx£

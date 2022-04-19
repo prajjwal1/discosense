@@ -1,0 +1,14 @@
+det(didnt-4, a-1)
+det(express-3, a-2)
+amod(didnt-4, express-3)
+nsubj(begin-5, didnt-4)
+root(ROOT-0, begin-5)
+det(carrier-9, a-7)
+amod(carrier-9, refrigerated-8)
+prep_as(begin-5, carrier-9)
+
+advmod(evolved-3, rather-1)
+nsubj(evolved-3, it-2)
+root(ROOT-0, evolved-3)
+prep_into(evolved-3, it-5)
+

@@ -1,0 +1,55 @@
+(ROOT
+  (S
+    (NP (NNS mosaics))
+    (VP (VBP are)
+      (ADVP (RB often))
+      (VP (VBN used)
+        (PP (IN in)
+          (NP (NN architecture)))
+        (PP (IN by)
+          (S
+            (VP
+              (VP (VBG implementing)
+                (NP
+                  (NP (DT the) (NN use))
+                  (PP (IN of)
+                    (NP (JJ geometric) (NNS shapes)))))
+              (CC and)
+              (VP (VBG accenting)
+                (PP (IN with)
+                  (NP (NN gold)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN though)
+      (S
+        (NP
+          (NP (DT the) (NNS displays))
+          (PP (IN of)
+            (NP (DT some) (NN artwork))))
+        (VP (MD can)
+          (VP (VB be)
+            (VP (VBN seen)
+              (PP (IN on)
+                (NP (NNS buildings)
+                  (CC and)
+                  (NN architecture))))))))
+    (, ,)
+    (NP (PRP one))
+    (VP (MD could)
+      (VP (VB find)
+        (NP
+          (NP (JJ many) (NNS sources))
+          (PP (IN of)
+            (NP (NN art))))
+        (PP (IN in)
+          (NP
+            (NP (CD one) (NN place))
+            (PP (IN in)
+              (NP
+                (NP (DT the) (JJ bardo) (NN museum))
+                (PP (IN in)
+                  (NP (NNS tunis)))))))))
+    (. .)))
+

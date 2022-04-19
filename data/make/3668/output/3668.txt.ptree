@@ -1,0 +1,48 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT a) (NN paragraph)
+        (CC or)
+        (NN page))
+      (PP (IN of)
+        (NP
+          (NP (NN text))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBZ is)
+                (ADJP
+                  (ADJP (RBR more) (JJ dense))
+                  (CC or)
+                  (ADJP (JJR bolder)))))))))
+    (VP (MD will)
+      (VP (VB have)
+        (NP (DT an) (JJ overall) (NN blacker) (NN effect))
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (VP (VBN viewed)
+              (PP (IN as)
+                (NP (DT a) (NN whole))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB likewise))
+    (NP
+      (NP (DT a) (NN finer) (NN font))
+      (CC or)
+      (NP (JJR less) (JJ dense) (NN text)))
+    (VP (MD will)
+      (VP (VB have)
+        (NP
+          (NP
+            (ADJP (RBR more) (JJ white))
+            (NN space))
+          (, ,)
+          (VP (VBG making)
+            (NP
+              (NP (DT the) (JJ overall) (NN effect))
+              (ADJP (RBR less) (JJ dark)))))))
+    (. .)))
+

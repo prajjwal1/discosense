@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (NN timing))
+      (SBAR
+        (WHPP (IN at)
+          (WHNP (WDT which)))
+        (S
+          (NP (DT the) (JJ wobble) (NN signal))
+          (VP (VBZ falls)))))
+    (VP (VBZ is)
+      (ADVP (RB also))
+      (VP (VBN defined)
+        (PP (IN by)
+          (NP
+            (NP (DT the) (NN output) (NN signal))
+            (PP (IN of)
+              (NP (DT the) (NN timing) (NN generator) (NN 335)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (JJ other) (NNS words)))
+    (NP (DT the) (NN detector) (NN 338))
+    (VP (VBZ decides)
+      (NP
+        (NP (DT the) (NN type))
+        (PP (IN of)
+          (NP (DT the) (JJ wobble) (NN signal))))
+      (PP (IN by)
+        (NP
+          (NP (NN majority))
+          (PP (IN on)
+            (NP (DT a) (NN unit) (NN section) (NN basis))))))
+    (. .)))
+

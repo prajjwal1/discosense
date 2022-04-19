@@ -1,0 +1,5 @@
+conn:if conn_POS:IN prev1:dataset prev1_POS:NN with_prev1_full:dataset_if with_prev1_POS_full:NN_IN prev2:a prev2_POS:DT with_prev2_full:a_if with_prev2_POS_full:DT_IN NA
+conn:after conn_POS:IN prev1:data prev1_POS:NNS with_prev1_full:data_after with_prev1_POS_full:NNS_IN prev2:through prev2_POS:IN with_prev2_full:through_after with_prev2_POS_full:IN_IN NA
+conn:or conn_POS:CC prev1:it prev1_POS:PRP with_prev1_full:it_or with_prev1_POS_full:PRP_CC prev2:retrieving prev2_POS:VBG with_prev2_full:retrieving_or with_prev2_POS_full:VBG_CC NA
+conn:if conn_POS:IN prev1:or prev1_POS:CC with_prev1_full:or_if with_prev1_POS_full:CC_IN prev2:it prev2_POS:PRP with_prev2_full:it_if with_prev2_POS_full:PRP_IN NA
+conn:in_contrast conn_POS:IN_NN sent_pos:0 NA

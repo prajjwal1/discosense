@@ -1,0 +1,47 @@
+(ROOT
+  (S
+    (ADVP (RBR more) (IN than) (RB often))
+    (, ,)
+    (NP
+      (NP (JJ tight) (NNS muscles))
+      (PP (IN around)
+        (NP (DT the) (NN core))))
+    (VP (VBP prevent)
+      (NP (DT the) (NN core)
+        (CC and)
+        (NN hip) (NNS muscles))
+      (PP (IN from)
+        (NP (NN firing)))
+      (ADVP (RB properly)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB therefore))
+      (NP (PRP one))
+      (VP (MD must)
+        (VP (VB provide)
+          (NP (DT the) (NNS tools))
+          (S
+            (VP (TO to)
+              (VP (VB improve)
+                (NP (JJ tight) (NNS muscles)))))
+          (, ,)
+          (S
+            (VP (VBG inhibiting)
+              (NP (DT the) (JJ strong)))))))
+    (, ,)
+    (CC or)
+    (S
+      (NP (PRP you))
+      (VP (MD will)
+        (VP (VB be)
+          (VP (VBN stuck)
+            (S
+              (VP (VBG hammering)
+                (NP (DT a) (JJ square) (NN block))
+                (PP (IN into)
+                  (NP (DT a) (NN circle) (NN hole)))))))))
+    (. .)))
+

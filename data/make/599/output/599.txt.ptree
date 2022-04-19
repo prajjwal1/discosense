@@ -1,0 +1,55 @@
+(ROOT
+  (S
+    (PP (IN from)
+      (NP (RB there)))
+    (, ,)
+    (NP (PRP you))
+    (VP (MD can)
+      (VP (VB get)
+        (NP
+          (NP
+            (NP (DT the) (JJ full) (NN suite))
+            (PP (IN of)
+              (NP (NN twitter) (NNS tools))))
+          (CONJP (RB instead) (IN of))
+          (NP (RB just) (NN post)
+            (CC or)
+            (NN retweet)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP
+        (ADVP (RB likewise))
+        (VBG tapping)
+        (SBAR
+          (S
+            (NP (JJ someones) (NN facebook) (NN post))
+            (VP (MD will)
+              (VP (VB open)
+                (NP (DT the) (NN app))))))))
+    (, ,)
+    (S
+      (VP (VBG giving)
+        (NP (PRP you))
+        (NP (DT a)
+          (ADJP (RB non) (VBN crippled))
+          (NN experience)
+          (SBAR (IN since)
+            (S
+              (NP (PRP you))
+              (VP (VBP have)
+                (NP (NN access)
+                  (S
+                    (VP (TO to)
+                      (VP (VB like)))))))))))
+    (, ,)
+    (VP (VBZ comments)
+      (NP
+        (NP
+          (QP (CC and)
+            (JJR more)))
+        (ADVP (RB directly))))
+    (. .)))
+

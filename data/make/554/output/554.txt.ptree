@@ -1,0 +1,60 @@
+(ROOT
+  (S
+    (ADVP (RB yet))
+    (NP (DT the) (NN mta) (NN toll) (NNS increases))
+    (VP (VBD spared)
+      (SBAR
+        (S
+          (NP (DT the) (JJ intercounty) (NN connector)
+            (CC and)
+            (NN gasoline) (NNS taxes))
+          (VP (VBP tend)
+            (S
+              (VP (TO to)
+                (VP (VB come)
+                  (ADVP (RB down) (RBR harder))
+                  (PP (IN on)
+                    (NP
+                      (NP (JJ rural) (NNS residents))
+                      (SBAR
+                        (WHNP (WP who))
+                        (S
+                          (VP (VBP have)
+                            (S
+                              (VP (TO to)
+                                (VP (VB drive)
+                                  (ADVP (RB farther))
+                                  (PP (TO to)
+                                    (NP (NN work)
+                                      (CC and)
+                                      (NN shopping))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN sum)))
+    (NP (PRP they))
+    (VP (VBP tend)
+      (S
+        (VP (TO to)
+          (VP (VB serve)
+            (PP (IN as)
+              (NP
+                (NP (DT a) (NN wealth) (NN transfer))
+                (PP (IN from)
+                  (NP (JJ rural)))))
+            (PP
+              (PP (TO to)
+                (NP (JJ urban) (NNS dwellers)))
+              (, ,) (RB particularly)
+              (PP (IN in)
+                (NP (DT the) (NN washington) (NN metro) (NN area))))
+            (SBAR (IN because)
+              (S
+                (NP (DT the) (NN icc) (NNS tolls))
+                (VP (VBD did) (RB not)
+                  (VP (VB go)
+                    (PRT (RP up))))))))))
+    (. .)))
+

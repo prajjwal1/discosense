@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (NP (JJ cliffs) (JJ natural) (NNS resources))
+    (VP (VBZ incs)
+      (NP (NNS earnings))
+      (SBAR (IN before)
+        (S
+          (NP
+            (NP (NN depreciation)
+              (CC and)
+              (NN amortization))
+            (PP (IN for)
+              (NP (DT the) (JJ trailing) (CD twelve) (NNS months)))
+            (VP (VBN ended)
+              (PP (IN in)
+                (NP (NNP sep.) (CD 2015)))))
+          (VP (VBD was)
+            (NP (CD 9,282) (NN mil))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB therefore))
+    (NP (JJ cliffs) (JJ natural) (NNS resources))
+    (VP (VBZ incs)
+      (SBAR
+        (S
+          (NP
+            (NP (NN ev) (NN ebitda) (NN ratio))
+            (PP (IN for)
+              (NP (NN today))))
+          (VP (VBZ is)
+            (NP (CD 0.39))))))
+    (. .)))
+

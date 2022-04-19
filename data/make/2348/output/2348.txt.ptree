@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (NP (DT this))
+    (VP (VBD was)
+      (ADVP (RB also))
+      (VP (VBN observed)
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (S
+              (VP (VBG comparing)
+                (NP (DT the) (JJ lentiviral) (NN vector))))
+            (VP (VBD based) (RB nt)
+              (VP (VB assay)
+                (PP (IN with)
+                  (NP (DT a) (JJ classical) (NN plaque) (NN neutralization) (NN assay)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB similarly))
+    (NP
+      (NP (DT the) (NN antibody) (NNS dilutions))
+      (SBAR
+        (WHPP (IN for)
+          (WHNP (WDT which)))
+        (S
+          (NP (DT the) (NN infectivity))
+          (VP (VBD was)
+            (VP (VBN inhibited)
+              (PP (IN by)
+                (NP (CD 50) (NN %))))))))
+    (VP (VBD were)
+      (ADJP (JJ different)
+        (PP (IN for)
+          (NP
+            (NP (DT each) (NN sample))
+            (VP (VBG comparing)
+              (NP (PRP$ our) (NN vrp))
+              (PP (VBN based)
+                (PP
+                  (ADVP (RB assay))
+                  (IN with)
+                  (NP (DT a) (NN plaque) (NN neutralization) (NN assay)))))))))
+    (. .)))
+

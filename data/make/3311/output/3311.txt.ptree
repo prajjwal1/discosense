@@ -1,0 +1,45 @@
+(ROOT
+  (SINV
+    (PP (IN by)
+      (NP (DT the) (NN time) (NN page)))
+    (VP (VBD was))
+    (NP
+      (NP (CD 4))
+      (, ,)
+      (NP
+        (NP (NN lilta))
+        (SBAR
+          (S
+            (VP
+              (VP (VBD had)
+                (VP
+                  (ADVP (RB already))
+                  (VBN evolved)
+                  (PP (IN into)
+                    (NP (NN leafeon)))))
+              (, ,)
+              (CC and)
+              (VP (VBD had)
+                (VP (VBN developed)
+                  (NP
+                    (NP (DT a) (RB very) (JJ protective) (NN nature))
+                    (PP (IN over)
+                      (NP (NN page)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB because) (IN of)
+      (NP (DT this)))
+    (NP (PRP it))
+    (VP (VBD was)
+      (NP (DT a) (JJ natural) (NN choice)
+        (S
+          (VP (TO to)
+            (VP (VB bring)
+              (NP (PRP him))
+              (PRT (RP along))
+              (PP (IN on)
+                (NP (DT the) (NN journey))))))))
+    (. .)))
+

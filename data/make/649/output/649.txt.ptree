@@ -1,0 +1,53 @@
+(ROOT
+  (S
+    (NP (PRP they))
+    (VP
+      (VP (VBD came)
+        (PP (TO to)
+          (NP (DT all) (NNS events)))
+        (, ,)
+        (PP (VBG including)
+          (PP (TO to)
+            (NP
+              (NP (DT the) (NN side) (NN event))
+              (PP (IN on)
+                (NP
+                  (NP (DT the) (NN situation))
+                  (PP (IN of)
+                    (NP
+                      (NP (NN roma))
+                      (PP (IN in)
+                        (NP (NN italy)))))))))))
+      (, ,)
+      (CC and)
+      (VP (VBD responded)
+        (ADVP (RB politely))
+        (PP (TO to)
+          (NP
+            (NP (DT the) (NNS issues))
+            (VP (VBN raised))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (PP (IN in)
+      (NP (JJ particular) (JJ italian) (NNS authorities)))
+    (VP (VBD claimed))
+    (SBAR (IN that)
+      (S
+        (NP
+          (NP (NNS manifestations))
+          (PP (IN of)
+            (NP
+              (NP (NN racism))
+              (PP (IN against)
+                (NP (NN roma))))))
+        (VP (VBD had)
+          (VP (VBN been)
+            (VP
+              (ADVP (RB widely))
+              (VBN condemned)
+              (PP (IN in)
+                (NP (NN italy))))))))
+    (. .)))
+

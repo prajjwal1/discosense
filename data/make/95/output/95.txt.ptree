@@ -1,0 +1,48 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP$ our) (NN study))
+      (VP (VBZ is) (RB not)
+        (NP (DT a) (JJ clinical) (NN trial))))
+    (, ,)
+    (CC and)
+    (S
+      (NP
+        (NP (DT this) (NN lack))
+        (PP (IN of)
+          (NP (NN uniformity))))
+      (VP (MD may)
+        (VP (VB have)
+          (NP
+            (NP (DT a) (JJ significant) (NN unaccounted))
+            (PP (IN for)
+              (NP (NN effect))))
+          (PP (IN on)
+            (NP
+              (NP (DT the) (NN interpretation))
+              (PP (IN of)
+                (NP (PRP$ our) (NNS results))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB instead))
+    (NP (DT each) (NN physician))
+    (VP (VBZ administered)
+      (NP (DT the) (JJ appropriate) (NN hcv) (NN therapy) (NN regimen))
+      (PP (VBG according)
+        (PP (TO to)
+          (NP (PRP$ his)
+            (NP
+              (NP (PRP$ her) (NNS criteria))
+              (CC and)
+              (NP
+                (ADVP (IN by))
+                (NP (JJ following)
+                  (NX
+                    (NX (JJ local))
+                    (CC and)))
+                (CC or)
+                (NP (JJ international) (NNS guidelines))))))))
+    (. .)))
+

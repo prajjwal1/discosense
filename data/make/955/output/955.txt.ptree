@@ -1,0 +1,42 @@
+(ROOT
+  (FRAG
+    (ADVP (RB however))
+    (, ,)
+    (PP (IN at)
+      (NP
+        (NP (JJ subsequent) (NNS timepoints))
+        (, ,)
+        (PP (IN with)
+          (NP
+            (NP (DT the) (NN progress))
+            (PP (IN of)
+              (NP
+                (NP (DT the) (NNS hydrolysis))
+                (PP (IN of)
+                  (NP (NN psom)))))
+            (NP
+              (NP (DT the) (NN cellulase))
+              (VP
+                (VP (VBN detached)
+                  (PP (IN from)
+                    (NP
+                      (NP (DT the) (NN surface))
+                      (PP (IN of)
+                        (NP (NN psom)
+                          (CC and)
+                          (NN insoluble) (NNS materials))))))
+                (CC and)
+                (VP (VBN released)
+                  (S
+                    (VP (TO to)
+                      (VP (VB supernatant)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN as)
+      (NP (DT a) (NN result)))
+    (NP (DT the) (JJ cellulase) (NN activity))
+    (VP (VBD recovered))
+    (. .)))
+

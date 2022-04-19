@@ -1,0 +1,3 @@
+conn_lc:therefore conn:therefore conn_POS:RB xxx£
+conn_lc:on_the_contrary conn:on_the_contrary conn_POS:IN_DT_NN xxx£
+conn_lc:but conn:but conn_POS:CC with_prev_full:,_but xxx£

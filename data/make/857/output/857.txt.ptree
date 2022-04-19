@@ -1,0 +1,45 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (NN dialogue))
+      (, ,)
+      (SBAR (IN if)
+        (S
+          (NP (PRP you))
+          (VP (VBP read)
+            (NP (PRP it))
+            (ADVP (RB aloud)))))
+      (, ,))
+    (VP (VBZ feels)
+      (ADJP
+        (NP (DT a) (RB bit))
+        (JJ clumsy)
+        (PP (TO to)
+          (NP (PRP$ my) (NN ear)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN on)
+      (NP (DT the) (JJ other) (NN hand) (NN theme)))
+    (, ,)
+    (NP
+      (NP (DT no) (NN surprise))
+      (VP (VBG coming)
+        (PP (IN from)
+          (NP
+            (NP (DT a) (NN poet))
+            (VP (VBN interested)
+              (PP (IN in)
+                (NP (NN epic) (NN fantasy))))))))
+    (, ,)
+    (VP (VBZ is)
+      (NP
+        (NP (DT another) (NN place))
+        (SBAR
+          (S
+            (NP (DT the) (NN book))
+            (VP (VBZ comes)
+              (ADVP (RB off) (RB well)))))))
+    (. .)))
+

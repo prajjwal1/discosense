@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (NP (PRP he))
+    (VP
+      (VP (VBD got)
+        (ADJP (JJ sick)
+          (PP (IN at)
+            (NP (CD 7) (NNS weeks))))
+        (PP (IN with)
+          (NP (NN rsv))))
+      (CC and)
+      (VP (VBD required)
+        (S
+          (NP (NN hospitalization))
+          (ADJP (JJ due)
+            (PP (TO to)
+              (NP (PRP$ his) (JJ nasal) (NNS passageways))))
+          (S
+            (VP (VBG needing)
+              (NP
+                (NP (NNS lots))
+                (PP (IN of)
+                  (NP (NN suctioning)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB interestingly))
+    (NP (PRP he))
+    (VP (VBD had)
+      (NP
+        (ADJP (RB very) (JJ little))
+        (NN lung) (NNS problems)))
+    (. .)))
+

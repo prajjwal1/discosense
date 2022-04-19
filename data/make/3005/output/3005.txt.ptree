@@ -1,0 +1,45 @@
+(ROOT
+  (S
+    (NP (PRP we))
+    (VP (MD will)
+      (ADVP (RB eventually))
+      (VP (VB experience)
+        (NP (DT a) (RB nearly) (JJ vertical) (NN rise))
+        (PP (IN for)
+          (NP
+            (NP (JJ several) (NNS equitysectors))
+            (, ,)
+            (SBAR (IN as)
+              (S
+                (ADVP (RB often))
+                (VP (VBZ occurs)
+                  (PP (IN near)
+                    (NP
+                      (NP (DT the) (NN end))
+                      (PP (IN of)
+                        (NP (DT any) (JJ extended) (NN rally))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB however))
+    (NP (JJ financial) (NNS markets))
+    (ADVP (RB first))
+    (VP (VBP have)
+      (S
+        (VP (TO to)
+          (VP (VB experience)
+            (NP
+              (NP (DT a) (JJ meaningful) (NN correction))
+              (PP (IN of)
+                (ADVP (RB probably))))
+            (PP (IN about)
+              (NP
+                (NP (CD one) (NN sixth))
+                (PP (IN for)
+                  (NP
+                    (NP (JJ general) (NN equity) (NNS indices))
+                    (PP (JJ such) (IN as)
+                      (NP (JJ thes) (NN p) (CD 500) (NN index)))))))))))
+    (. .)))
+

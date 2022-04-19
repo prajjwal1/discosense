@@ -1,0 +1,73 @@
+(ROOT
+  (S
+    (S
+      (NP (FW i))
+      (VP (VBP remember)
+        (S
+          (VP (VBG thinking)
+            (S
+              (ADVP (RB then))
+              (, ,)
+              (SBAR (IN as)
+                (S
+                  (NP (FW i))
+                  (VP (VBD thought)
+                    (NP (DT this) (NN morning) (NN reading))
+                    (PP (IN about)
+                      (NP (DT the) (JJ benedictine) (NNS sisters))))))
+              (, ,)
+              (NP (FW i))
+              (VP (VBP try)
+                (S
+                  (VP (TO to)
+                    (VP (VB be)
+                      (NP (DT a) (NN christian)))))))))))
+    (CC but)
+    (S
+      (NP (FW i))
+      (VP (VBP have)
+        (NP
+          (NP (DT a) (JJ long) (, ,) (JJ long) (NN way))
+          (SBAR
+            (S
+              (VP (TO to)
+                (VP (VB go))))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADVP (RB yet))
+    (SBAR
+      (WHNP (WP who))
+      (S
+        (VP (MD can)
+          (VP (VB deny)
+            (SBAR (IN that)
+              (S
+                (NP (DT this))
+                (VP (VBZ is)
+                  (NP
+                    (NP
+                      (NP (DT the) (JJ very) (NN essence))
+                      (PP (IN of)
+                        (NP (PRP$ our) (NN faith))))
+                    (, ,)
+                    (NP (DT the) (NN power)
+                      (S
+                        (VP (TO to)
+                          (VP (VB forgive)))))
+                    (, ,)
+                    (NP
+                      (NP (DT the)
+                        (ADJP (RBS most) (JJ awesome))
+                        (NN power))
+                      (PP (IN in)
+                        (NP
+                          (NP (DT the) (NN world))
+                          (SBAR (IN because)
+                            (S
+                              (NP (PRP it))
+                              (VP (VBZ transcends)
+                                (NP (DT the) (NN world))))))))))))))))
+    (. .)))
+

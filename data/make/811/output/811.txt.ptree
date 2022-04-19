@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (DT the) (JJ first) (NN step)))
+    (NP (PRP we))
+    (VP (VBP systematise)
+      (NP
+        (NP (JJ different) (NNS courses))
+        (PP (IN of)
+          (NP (DT the) (VBG working) (NN day)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thereby))
+    (NP
+      (NP (CD four) (NNS categories))
+      (PP (IN of)
+        (NP (JJ working) (NN time) (NNS patterns))))
+    (VP (VBD emerged))
+    (. .)))
+

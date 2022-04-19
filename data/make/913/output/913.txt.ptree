@@ -1,0 +1,38 @@
+(ROOT
+  (S
+    (VP (VB do)
+      (NP (PDT all) (DT the) (NN good))
+      (SBAR
+        (S
+          (NP (PRP you))
+          (ADVP (RB possibly))
+          (VP (MD can)
+            (PP (TO to)
+              (NP
+                (NP (DT the) (NNS bodies)
+                  (CC and)
+                  (NNS souls))
+                (PP (IN of)
+                  (NP (NNS men)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (ADJP (RB particularly) (JJ thou))
+        (NN shalt))
+      (PP (IN in)
+        (NP (NN anywise))))
+    (VP
+      (VP (VBP reprove)
+        (NP (NN thy) (NN neighbour)))
+      (, ,)
+      (CC and)
+      (RB not)
+      (VP (VBP suffer)
+        (NP (NN sin))
+        (PP (IN upon)
+          (NP (PRP him)))))
+    (. .)))
+

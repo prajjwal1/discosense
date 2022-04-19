@@ -1,0 +1,1 @@
+conn:if conn_POS:IN prev1:initiative prev1_POS:NN with_prev1_full:initiative_if with_prev1_POS_full:NN_IN prev2:its prev2_POS:PRP$ with_prev2_full:its_if with_prev2_POS_full:PRP$_IN NA

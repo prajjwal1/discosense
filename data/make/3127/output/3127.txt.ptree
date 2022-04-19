@@ -1,0 +1,53 @@
+(ROOT
+  (S
+    (CONJP (RB not) (JJ only))
+    (SINV (MD can)
+      (NP (PRP we))
+      (VP (VB trust)
+        (PP (IN in)
+          (NP (NN scripture)))))
+    (, ,)
+    (S
+      (NP (PRP we))
+      (VP (MD can)
+        (VP
+          (VP (VB love))
+          (CC and)
+          (VP (VB obey)
+            (NP (PRP it))
+            (ADVP (RB wholeheartedly))
+            (, ,)
+            (PP (IN without)
+              (NP
+                (NP (NN fear))
+                (PP (IN of)
+                  (S
+                    (NP (PRP it))
+                    (VP (VBG leading)
+                      (NP (PRP us))
+                      (ADVP (RB astray)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB hence))
+    (NP (PRP it))
+    (VP (VBZ follows)
+      (SBAR
+        (S
+          (NP (PRP we))
+          (VP (MD can)
+            (ADVP (RB also))
+            (VP
+              (VP (VB believe)
+                (PRT (RP in)))
+              (CC and)
+              (VP (VB trust)
+                (SBAR
+                  (WHNP (WP what))
+                  (S
+                    (NP (DT the) (NN psalmist))
+                    (VP (VBZ says)
+                      (ADVP (RB here)))))))))))
+    (. .)))
+

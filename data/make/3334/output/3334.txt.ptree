@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (NP
+      (NP (JJ forty) (NN percent))
+      (PP (IN of)
+        (NP (NN survey) (NNS respondents))))
+    (VP (VBP expect)
+      (NP (NN growth))
+      (S
+        (VP (TO to)
+          (VP (VB be)
+            (VP (VBN led)
+              (PP (IN by)
+                (NP
+                  (NP (NNS sales))
+                  (PP (IN of)
+                    (NP (NN aluminum) (NNS boats)))))
+              (, ,)
+              (PP (VBN followed)
+                (PP (IN by)
+                  (NP (NN recreation) (NNS boats)))))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (PP (IN by)
+      (NP
+        (NP (NN contrast) (NNS boats))
+        (PP (IN of)
+          (NP (CD 30) (NNS feet)
+            (QP (CC or)
+              (JJR more))))))
+    (VP (VBD were))
+    (NP
+      (NP (DT the) (JJS strongest) (VBG selling) (NN segment))
+      (PP (IN during)
+        (NP (DT the) (NNS markets) (NN peak)))
+      (PP (IN in)
+        (NP (CD 2007))))
+    (. .)))
+

@@ -1,0 +1,53 @@
+(ROOT
+  (S
+    (NP (DT these) (NNS variations))
+    (VP (MD may) (RB not)
+      (VP (VB be)
+        (VP
+          (ADVP (RB fully))
+          (VBN reflected)
+          (PP (IN by)
+            (NP
+              (NP (DT the) (NN nutrition) (NNS data) (NN system))
+              (, ,)
+              (SBAR
+                (WHNP (WDT which))
+                (S
+                  (VP (VBZ has)
+                    (NP
+                      (NP (JJ limited) (NNS options))
+                      (PP (IN for)
+                        (NP
+                          (NP (NNS cuts))
+                          (PP (IN of)
+                            (NP
+                              (NP (JJ red) (NN meat))
+                              (CC and)
+                              (NP (JJ different) (JJ external) (JJ fat) (NNS widths)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thus))
+    (NP
+      (NP (NNS limitations))
+      (ADJP (JJ inherent)
+        (PP (IN in)
+          (NP
+            (NP (DT the) (NNS methods))
+            (ADJP (JJ available)
+              (PP (IN for)
+                (NP
+                  (NP (NN collection))
+                  (PP (IN of)
+                    (NP
+                      (NP (JJ dietary) (NNS data))
+                      (PP (IN from)
+                        (NP (JJ free) (NN living) (NNS subjects))))))))))))
+    (VP (MD may)
+      (VP (VB explain)
+        (S
+          (NP (DT the) (NNS differences))
+          (ADJP (JJ observed)))))
+    (. .)))
+

@@ -1,0 +1,38 @@
+(ROOT
+  (S (CC but)
+    (PRN (, ,)
+      (S
+        (VP (VB correct)
+          (NP (PRP me))
+          (SBAR (IN if)
+            (S
+              (VP (VBP im)
+                (ADJP (JJ wrong)))))))
+      (, ,))
+    (NP
+      (NP (DT the) (JJ last) (NN thing))
+      (SBAR
+        (S
+          (NP (PRP you))
+          (VP (VBP want)))))
+    (VP (VBZ is)
+      (ADJP
+        (ADJP (JJ kevin) (JJ garnett))
+        (PP (IN with)
+          (NP (JJR more) (NN motivation))))
+      (S
+        (VP (TO to)
+          (VP (VB win))))
+      (, ,)
+      (ADVP (RB right)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB otherwise))
+    (VP (VB youd)
+      (VP (VB be)
+        (PP (IN in)
+          (NP (JJ truh) (NN bull)))))
+    (. .)))
+

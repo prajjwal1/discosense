@@ -1,0 +1,51 @@
+(ROOT
+  (S
+    (SBAR (IN while)
+      (S
+        (NP (DT this))
+        (VP (MD may)
+          (VP (VB be)
+            (ADJP (JJ true)
+              (PP (IN for)
+                (NP
+                  (NP (DT a) (NN handful))
+                  (PP (IN of)
+                    (NP (NNS publishers))))))))))
+    (, ,)
+    (NP (DT this))
+    (ADVP (RB hardly))
+    (VP (VBZ applies)
+      (PP (TO to)
+        (NP
+          (NP (DT the) (NN industry))
+          (PP (IN as)
+            (NP (DT a) (NN whole))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP (NN instance)))
+    (NP (DT the) (JJ american) (JJ psychological) (NN association))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (JJS largest) (NN publisher))
+        (PP (IN of)
+          (NP
+            (NP (JJ behavioral) (NN science) (NN research))
+            (CC and)
+            (NP (NNS applications)))))
+      (, ,)
+      (PP (IN with)
+        (NP
+          (NP (CD 37))
+          (PP (IN of)
+            (NP
+              (NP (DT the) (JJ premier) (JJ scholarly) (NNS journals))
+              (PP (IN in)
+                (NP
+                  (NP (DT the) (NN field))
+                  (PP (IN of)
+                    (NP (NN psychology))))))))))
+    (. .)))
+

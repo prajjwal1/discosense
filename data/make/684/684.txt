@@ -1,0 +1,1 @@
+this does come with a caveat, which is that the spatial distribution of rainfall is very variable at the local scale, which this instrument does not resolve. nonetheless it does provide a really interesting indication of the rainfall distribution.

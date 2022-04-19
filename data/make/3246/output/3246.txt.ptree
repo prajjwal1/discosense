@@ -1,0 +1,49 @@
+(ROOT
+  (SINV
+    (S
+      (NP (NN introduction) (NN geography) (NN science))
+      (VP (VBZ is)
+        (NP
+          (NP (CD one))
+          (PP (IN of)
+            (NP
+              (NP (DT the)
+                (ADJP (RBS most) (JJ important))
+                (NNS sciences))
+              (PP (IN in)
+                (NP
+                  (NP (DT the) (NN world))
+                  (SBAR
+                    (WHNP (WDT which))
+                    (S
+                      (VP (VBN related)
+                        (PP (TO to)
+                          (NP (JJ many) (NNS elements)))))))))))))
+    (VP (VBP include))
+    (NP
+      (NP (NNS people))
+      (, ,)
+      (NP
+        (NP (NNS animals) (, ,) (NNS plants) (, ,) (NN water) (, ,) (NN air)
+          (CC and)
+          (NNS connections))
+        (PP (IN between)
+          (NP
+            (NP (DT all))
+            (PP (IN of)
+              (NP (DT these) (NNS elements)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (RB as) (DT a) (NN result) (NN gis))
+    (VP (VBZ is)
+      (NP
+        (NP (CD one))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (NNS branches))
+            (PP (IN of)
+              (NP (JJ geographic) (NN science)))))))
+    (. .)))
+

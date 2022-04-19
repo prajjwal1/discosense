@@ -1,0 +1,47 @@
+(ROOT
+  (S
+    (NP (DT a) (NN crowbar))
+    (VP (VBZ is)
+      (ADVP (RB ideally))
+      (VP (VBN suited)
+        (PP (IN for)
+          (NP (JJ breaking) (NNS things)))
+        (, ,)
+        (PP (IN because)
+          (NP
+            (NP (PRP$ its)
+              (ADJP (DT a) (JJ heavy))
+              (NN tool))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (VBZ gains)
+                  (NP (DT a) (JJ tremendous) (NN benefit))
+                  (PP (IN from)
+                    (NP
+                      (NP (NN leverage))
+                      (SBAR
+                        (S
+                          (NP (DT a) (NN kunai))
+                          (VP (VBZ does) (RB not)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (RB though) (IN if)
+      (S
+        (NP (PRP you))
+        (VP (VBD rigged)
+          (PRT (RP up))
+          (NP (DT a)
+            (ADJP (JJ complicated) (JJ pulley))
+            (NN system)))))
+    (, ,)
+    (NP (PRP you))
+    (VP (MD could)
+      (VP (VB put)
+        (NP (DT some) (JJ astounding) (NN force))
+        (PP (IN onto)
+          (NP (DT a) (NN kunai)))))
+    (. .)))
+

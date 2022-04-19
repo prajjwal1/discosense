@@ -1,0 +1,2 @@
+conn:conversely conn_POS:RB sent_pos:0 NA
+conn:so_that conn_POS:RB_IN prev1:register prev1_POS:VB with_prev1_full:register_so_that with_prev1_POS_full:VB_RB_IN prev2:can prev2_POS:MD with_prev2_full:can_so_that with_prev2_POS_full:MD_RB_IN NA

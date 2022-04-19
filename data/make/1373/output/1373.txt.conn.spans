@@ -1,0 +1,3 @@
+0..12 0 for_instance 1373.txt 0
+101..105 0 when 1373.txt 0
+190..193 1 and 1373.txt 0

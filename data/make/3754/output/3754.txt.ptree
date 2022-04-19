@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (PP (IN for)
+      (NP (JJ several) (NNS years)))
+    (NP (JJ white))
+    (VP (VBD practiced)
+      (NP (NN law))
+      (ADVP (RB sporadically))
+      (PP (IN with)
+        (NP
+          (NP (DT the) (NN firm))
+          (PP (IN of)
+            (NP
+              (NP (NNS ross))
+              (, ,)
+              (NP (NN dixon) (NN masback)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thereafter)
+      (PP (IN for)
+        (NP (RB just) (IN over) (DT a) (NN year))))
+    (, ,)
+    (NP (JJ white))
+    (VP (VBD worked)
+      (PP (IN as)
+        (NP (DT a) (JJ legal) (NN business) (NN consultant)))
+      (PP (IN for)
+        (NP
+          (NP (DT the) (NN accounting))
+          (CC and)
+          (NP (VBG consulting) (NN firm) (NN arthur) (NN andersen)))))
+    (. .)))
+

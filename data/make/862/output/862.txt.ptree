@@ -1,0 +1,52 @@
+(ROOT
+  (S (CC and)
+    (PP (IN for)
+      (NP
+        (NP (DT those))
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP (VBP recognize)
+              (NP (DT these) (NNS similarities)))))))
+    (, ,)
+    (NP (PRP they))
+    (ADVP (DT all))
+    (VP (MD can)
+      (ADVP (RB easily))
+      (VP
+        (VP (VB come)
+          (ADVP (RB together)))
+        (CC and)
+        (VP
+          (NP (NN worship) (NN god))
+          (PP (IN in)
+            (NP (NN unity))))
+        (, ,)
+        (CC and)
+        (VP (VB respect)
+          (S
+            (NP (PRP one))
+            (NP
+              (NP (DT another))
+              (CC and)
+              (NP (PRP$ their) (NNS traditions)))))))
+    (. .)))
+
+(ROOT
+  (S (RB yet)
+    (S
+      (VP (TO to)
+        (VP
+          (ADVP (RB actually))
+          (VB find)
+          (NP
+            (NP (DT this) (NN kind))
+            (PP (IN of)
+              (NP
+                (NP (DT a) (NN situation))
+                (PP (IN with)
+                  (NP (JJ mutual) (NN respect)))))))))
+    (VP (VBZ seems)
+      (ADJP (RB quite) (JJ rare)))
+    (. .)))
+

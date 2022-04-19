@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (NP (EX there))
+    (VP (VBP arent)
+      (S
+        (NP (JJ many) (NNS stars))
+        (VP (TO to)
+          (VP (VB talk)
+            (PRT (RP about))
+            (SBAR (IN as)
+              (S
+                (NP
+                  (NP (DT the) (JJ entire) (NN onus))
+                  (PP (IN of)
+                    (NP (DT the) (NN film))))
+                (VP (VBZ is)
+                  (SBAR
+                    (WHADVP (WRB how))
+                    (S
+                      (NP (DT the) (NNS directors))
+                      (VP (VBN framed)
+                        (NP (PRP it))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB yet))
+    (NP (EX there))
+    (VP (VBP are)
+      (NP
+        (NP (NNS actors))
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP (VBP have)
+              (S
+                (VP (TO to)
+                  (VP (VB be)
+                    (VP (VBN mentioned))))))))))
+    (. .)))
+

@@ -1,0 +1,64 @@
+(ROOT
+  (S
+    (NP (PRP he))
+    (VP (VBZ makes)
+      (NP (DT a) (JJ compelling) (NN argument))
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (DT some))
+            (PP (IN of)
+              (NP
+                (NP (PRP$ our)
+                  (ADJP (RBS most) (JJ common))
+                  (JJ vices) (NNS rudeness))
+                (, ,)
+                (NP (NN gossip) (, ,) (NN snobbery) (, ,) (JJ tasteless) (NN humor))
+                (, ,)
+                (CC and)
+                (NP
+                  (ADJP (JJ disrespect)
+                    (PP (IN for)
+                      (NP (NNS others))))
+                  (NNS beliefs)))))
+          (ADVP (RB often))
+          (VP
+            (VP (VB have)
+              (NP (JJ hidden) (NNS virtues)))
+            (CC or)
+            (VP (VB serve)
+              (NP
+                (ADJP (JJ unappreciated)
+                  (CC but)
+                  (JJ valuable))
+                (NNS purposes)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP (NN instance)))
+    (NP (EX there))
+    (VP (VBP are)
+      (NP
+        (NP (NNS times))
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP (NNS rudeness))
+            (VP (MD may)
+              (VP (VB be)
+                (ADJP (JJ necessary)
+                  (S
+                    (VP
+                      (VP (TO to)
+                        (VP (VB help)
+                          (NP (NN someone))
+                          (PP (IN with)
+                            (NP (DT a) (NN problem)))))
+                      (CC or)
+                      (VP (TO to)
+                        (VP (VB convey)
+                          (NP (DT an) (JJ important) (NN message)))))))))))))
+    (. .)))
+

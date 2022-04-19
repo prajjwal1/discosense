@@ -1,0 +1,45 @@
+(ROOT
+  (S
+    (ADVP (RB moreover))
+    (, ,)
+    (NP
+      (NP (DT the) (NN recurrence))
+      (PP (IN of)
+        (NP (NN avian) (NN flu))))
+    (VP (VBZ continues)
+      (S
+        (VP (TO to)
+          (VP (VB be)
+            (NP (DT a) (NN concern))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB nevertheless))
+      (VP (VBN driven)
+        (PP (IN by)
+          (NP (PRP$ its) (NNS initiatives)))))
+    (, ,)
+    (NP (DT the) (NN company))
+    (VP (VBZ expects)
+      (S
+        (VP (TO to)
+          (VP
+            (VP (VB bounce)
+              (PRT (RP back))
+              (PP (IN in)
+                (NP (CD 2014))))
+            (CC and)
+            (VP (VB register)
+              (NP
+                (NP (DT a)
+                  (ADJP (CD 20) (NN %))
+                  (NN increase))
+                (PP (IN in)
+                  (NP
+                    (NP (NNS earnings))
+                    (PP (IN per)
+                      (NP (NN share)))))))))))
+    (. .)))
+

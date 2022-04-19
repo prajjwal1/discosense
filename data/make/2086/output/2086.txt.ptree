@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (PP (IN during)
+      (NP (DT the) (NN mean)
+        (S
+          (VP (VB follow)
+            (PRT (RP up))
+            (NP
+              (NP (NN period))
+              (PP (IN of)
+                (NP
+                  (QP (CD 28.8) (CD 16.1))
+                  (NNS months))))))))
+    (, ,)
+    (NP (CD 23) (JJ adverse) (NN cv) (NNS events))
+    (VP (VBD occurred))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (RB particularly) (DT the) (NN presence))
+      (PP (IN of)
+        (NP (JJ carotid) (NN plaque))))
+    (VP (VBD was)
+      (NP
+        (NP (DT a) (JJ powerful) (NN predictor))
+        (PP (IN of)
+          (NP (JJ adverse) (NN cv) (NNS outcomes)))))
+    (. .)))
+

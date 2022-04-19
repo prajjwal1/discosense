@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (NP (NN potato))
+    (VP (VBP head)
+      (SBAR
+        (S
+          (NP (PRP he))
+          (VP (VBZ does)
+            (VP (VB change)
+              (NP
+                (NP (PRP$ his) (NN face))
+                (, ,)
+                (NP (NN body))
+                (, ,)
+                (CC and)
+                (NP (NNS accessories)))
+              (ADVP (RB often) (RB enough)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN though)
+      (S
+        (VP (VBP hes)
+          (NP (RB not) (DT a))
+          (ADVP (RB now)))))
+    (NP (PRP you))
+    (VP (MD can)
+      (VP (VB collect)
+        (CC and)
+        (VB build)
+        (NP
+          (NP (PRP$ your) (JJ own) (NN doctor))
+          (SBAR
+            (WHNP (WP who))
+            (S
+              (VP (VBZ micro)
+                (NP (NN figure) (NN collection))))))))
+    (. .)))
+

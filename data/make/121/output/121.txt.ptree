@@ -1,0 +1,65 @@
+(ROOT
+  (S (CC and)
+    (SBAR (IN while)
+      (S
+        (NP (DT some) (NN tolkien) (NNS fans)
+          (CC and)
+          (NN non) (NNS fans))
+        (VP (VBD were)
+          (ADJP (VBN upset)
+            (PP (IN by)
+              (SBAR
+                (WHADVP (WRB how))
+                (S
+                  (NP (PRP he))
+                  (VP (VBD interpreted)
+                    (NP (DT the) (NN book))
+                    (, ,)
+                    (S
+                      (VP (VBG watching)
+                        (NP
+                          (NP (DT the) (NN hobbit))
+                          (CC and)
+                          (NP
+                            (NP (DT the) (NN fall))
+                            (PP (IN of)
+                              (NP
+                                (NP (DT the) (NN necromancer))
+                                (PP (IN on)
+                                  (NP (DT the) (NN screen)))))))))))))))))
+    (VP (VBZ is)
+      (ADVP (RB still))
+      (NP (DT an) (JJ exciting) (NN prospect)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB likewise))
+    (SBAR (RB even) (IN though)
+      (S
+        (NP (NN jackson))
+        (VP (VBD made)
+          (NP (DT some) (JJ distasteful) (NNS changes))
+          (PP (TO to)
+            (NP
+              (NP (DT the) (NN lord))
+              (PP (IN of)
+                (NP (DT the) (NNS rings))))))))
+    (, ,)
+    (NP (DT those) (NNS films))
+    (VP (VBP are)
+      (ADVP (RB still))
+      (NP
+        (NP (JJ excellent) (NNS depictions))
+        (PP (IN of)
+          (NP (CD one)))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (JJS greatest) (NNS pieces))
+            (PP (IN of)
+              (S
+                (VP (VBG writing)
+                  (PP (IN in)
+                    (NP (JJ english) (NN literature))))))))))
+    (. .)))
+

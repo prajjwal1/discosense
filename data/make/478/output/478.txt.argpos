@@ -1,0 +1,2 @@
+conn:when conn_POS:WRB prev1:how prev1_POS:WRB with_prev1_full:how_when with_prev1_POS_full:WRB_WRB prev2:know prev2_POS:VBP with_prev2_full:know_when with_prev2_POS_full:VBP_WRB NA
+conn:likewise conn_POS:RB sent_pos:0 NA

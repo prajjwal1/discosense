@@ -1,0 +1,50 @@
+(ROOT
+  (S
+    (SBAR (RB as) (IN if)
+      (S
+        (NP (DT the) (CD two) (NNS teams))
+        (VP (VBD represented)
+          (NP (JJ opposite) (NNS genders))
+          (PP (IN at)
+            (NP (DT a) (JJ middle) (NN school) (NN dance))))))
+    (, ,)
+    (NP (EX there))
+    (VP
+      (VP (VBD was)
+        (ADVP (RB reportedly)))
+      (, ,)
+      (NP
+        (NP (DT no) (NN contact))
+        (PP (IN at)
+          (NP (DT all)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB yet))
+    (PP (IN with)
+      (NP
+        (NP (PDT all) (DT these) (NNS complications))
+        (, ,)
+        (NP (NN progress))))
+    (NP (DT the) (NNS parties))
+    (VP (VBD were)
+      (ADVP (RB still))
+      (ADJP (JJ able)
+        (S
+          (VP
+            (VP (TO to)
+              (VP (VB agree)
+                (PP (IN on)
+                  (NP
+                    (NP (DT a) (JJ common) (NN framework))
+                    (PP (IN for)
+                      (NP (DT the) (NNS talks)))))))
+            (, ,)
+            (CC and)
+            (VP (TO to)
+              (VP (VB commit)
+                (PP (TO to)
+                  (NP (JJ further) (NNS negotiations)))))))))
+    (. .)))
+

@@ -1,0 +1,23 @@
+(ROOT
+  (S
+    (NP (DT this))
+    (VP (VBD gave)
+      (NP (DT the) (NNS unions))
+      (NP
+        (ADJP (RBR more) (JJ political))
+        (NN power))
+      (PP (IN than)
+        (PP (IN in)
+          (NP (DT any) (JJ other) (NN country)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB conversely))
+    (NP (DT the) (NN labour) (NNS partys) (NN strength))
+    (VP (VBD was)
+      (VP (VBN based)
+        (PP (IN on)
+          (NP (DT the) (NNS unions)))))
+    (. .)))
+

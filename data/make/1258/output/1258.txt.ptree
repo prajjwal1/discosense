@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (NP (NN minnesota) (NNS statutes))
+    (VP (VBZ requires)
+      (NP
+        (NP (JJ nutrient) (NN analysis))
+        (PP (IN of)
+          (NP (NN specialty) (NNS fertilizers)))
+        (S (RB not)
+          (VP (TO to)
+            (VP
+              (VP (VB exceed))
+              (CC or)
+              (VP (VB be)
+                (PP (IN below)
+                  (NP (DT this) (NN amount)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB therefore))
+      (VP (TO to)
+        (VP (VB be)
+          (VP (VBN labeled)
+            (NP (CD 0) (NN %))
+            (ADVP (RB phosphate))))))
+    (, ,)
+    (NP (DT a) (NN lawn) (NN fertilizer))
+    (VP (MD can) (RB not)
+      (VP (VB contain)
+        (NP
+          (NP
+            (QP (JJR more) (IN than) (CD 0.67))
+            (NN %))
+          (ADJP (JJ phosphate)
+            (PP (IN by)
+              (NP (NN weight)))))))
+    (. .)))
+

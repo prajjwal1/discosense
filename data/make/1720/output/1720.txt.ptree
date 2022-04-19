@@ -1,0 +1,50 @@
+(ROOT
+  (S
+    (S
+      (NP (JJS most) (NN disc) (NN shaped) (NNS fossils))
+      (VP (VBD decomposed)
+        (SBAR (IN before)
+          (S
+            (NP (DT the) (VBG overlying) (NN sediment))
+            (VP (VBD was)
+              (VP (VBN cemented)))))))
+    (, ,)
+    (NP (NN whereupon) (NNS ash)
+      (CC or)
+      (NN sand))
+    (VP (VBD slumped)
+      (PRT (RP in))
+      (S
+        (VP (TO to)
+          (VP (VB fill)
+            (NP (DT the) (NN void)))))
+      (, ,)
+      (S
+        (VP (VBG leaving)
+          (NP
+            (NP (DT a) (NN cast))
+            (PP (IN of)
+              (NP (DT the) (NNS organisms) (NN underside)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (ADJP (RB conversely) (JJ quilted))
+        (NNS fossils))
+      (VP (VBD tended)
+        (S
+          (VP (TO to)
+            (VP (VB decompose)
+              (PP (IN after)
+                (NP
+                  (NP (DT the) (NN cementation))
+                  (PP (IN of)
+                    (NP (DT the) (JJ overlying) (NN sediment)))))
+              (ADVP (RB hence)))))))
+    (NP (PRP$ their) (JJ upper) (NNS surfaces))
+    (VP (VBP are)
+      (VP (VBN preserved)))
+    (. .)))
+

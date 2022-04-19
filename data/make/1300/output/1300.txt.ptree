@@ -1,0 +1,38 @@
+(ROOT
+  (S (CC and)
+    (SBAR
+      (WHADVP (WRB when))
+      (S
+        (NP (DT the) (JJ real) (NNS balances))
+        (VP (VBP have)
+          (VP (VBN reached)
+            (PP (JJ such)
+              (NP (DT a) (JJ low) (NN level)))))))
+    (, ,)
+    (NP (PRP they))
+    (VP (VBP continue)
+      (S
+        (VP (TO to)
+          (VP (VB decline)
+            (PP (VBG according)
+              (PP (TO to)
+                (NP
+                  (NP (DT the) (NN difference) (NN equation))
+                  (PP (IN in)
+                    (NP
+                      (NP (JJ real) (NNS balances))
+                      (, ,)
+                      (NP (NN equation)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (RB hence) (DT the) (JJ initial) (NN price) (NN level))
+      (ADVP (IN at)))
+    (VP (MD will)
+      (VP (VB be)
+        (ADJP (RB uniquely) (JJ pinned))
+        (ADVP (RB down) (IN at))))
+    (. .)))
+

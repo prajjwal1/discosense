@@ -1,0 +1,38 @@
+(ROOT
+  (S
+    (ADVP (RB however))
+    (, ,)
+    (NP (DT the) (JJ usual) (NN caveat))
+    (VP (VBZ applies)
+      (ADVP (RB here))
+      (VP (VB avoid)
+        (NP (DT the) (JJ centre) (NN position))
+        (PP (IN as)
+          (NP (PRP$ its)
+            (ADJP
+              (ADJP (RB poorly) (VBN padded))
+              (CC and)
+              (ADJP (JJ uncomfortable)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP
+      (ADVP (RB likewise))
+      (IN at)
+      (NP (CD 14.8) (JJ cubic) (NNS feet)))
+    (, ,)
+    (NP (DT the) (NN trunk))
+    (VP (VBZ is)
+      (ADJP
+        (ADVP (RBR more) (IN than))
+        (JJ capable)
+        (PP (IN of)
+          (S
+            (VP (VBG accommodating)
+              (NP
+                (NP (DT a) (NN family) (NN amount))
+                (PP (IN of)
+                  (NP (NN luggage)))))))))
+    (. .)))
+

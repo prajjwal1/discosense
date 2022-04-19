@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (ADVP (RB well))
+    (NP (NNP lets))
+    (VP (VBP say)
+      (SBAR (IN that)
+        (S
+          (NP (CD 10))
+          (VP (VBZ is)
+            (NP (DT the) (NN symbol))
+            (ADVP (RB often))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN though) (IN if)
+      (S
+        (VP (VBZ i)
+          (NP
+            (NP (NN type) (CD 10))
+            (PP (IN in)
+              (NP (DT a) (NN forum)))))))
+    (NP (PRP you))
+    (VP (VBP dont)
+      (SBAR
+        (SBAR
+          (S
+            (VP (VBP know)
+              (SBAR (IN if)
+                (S
+                  (NP (FW i))
+                  (VP (VBP mean)
+                    (NP
+                      (NP (DT the) (NN symbol))
+                      (CC or)
+                      (NP (DT the) (NN meaning)))))))))
+        (, ,)
+        (CC but)
+        (SBAR (IN in)
+          (S
+            (NP (DT any) (NN case))
+            (VP (VBZ lets)
+              (VP (VB make)
+                (NP (DT the) (NN difference))))))))
+    (. .)))
+

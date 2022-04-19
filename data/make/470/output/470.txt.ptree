@@ -1,0 +1,54 @@
+(ROOT
+  (S
+    (PP (IN for)
+      (NP
+        (NP (JJ certain) (NNS designs))
+        (PP (IN with)
+          (NP
+            (NP (NNS replicates))
+            (PP (IN at)
+              (NP
+                (NP (DT the) (NNS levels))
+                (PP (IN of)
+                  (NP (DT the) (NN predictor) (NNS variables)))))))))
+    (, ,)
+    (NP
+      (NP (DT the) (JJ residual) (NN sum))
+      (PP (IN of)
+        (NP (NNS squares))))
+    (VP (MD can)
+      (VP (VB be)
+        (VP (RBR further) (VBN partitioned)
+          (PP (IN into)
+            (NP
+              (NP (JJ meaningful) (NNS parts))
+              (SBAR
+                (WHNP (WDT which))
+                (S
+                  (VP (VBP are)
+                    (ADJP (JJ relevant)
+                      (PP (IN for)
+                        (S
+                          (VP (VBG testing)
+                            (NP (NNS hypotheses))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB specifically))
+    (NP
+      (NP (DT the) (JJ residual) (NNS sums))
+      (PP (IN of)
+        (NP (NNS squares))))
+    (VP (MD can)
+      (VP (VB be)
+        (VP (VBN partitioned)
+          (PP (IN into)
+            (NP
+              (NP (NN lack))
+              (PP (IN of)
+                (NP (NN fit)
+                  (CC and)
+                  (JJ pure) (NN error) (NNS components))))))))
+    (. .)))
+

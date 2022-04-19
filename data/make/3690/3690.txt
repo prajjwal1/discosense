@@ -1,0 +1,1 @@
+individual members of a struct or class may be made const even if the class is not. conversely the mutable keyword allows a class member to be changed even if an object was instantiated as const.

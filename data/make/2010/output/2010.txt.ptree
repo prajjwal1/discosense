@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (NP (DT those) (NNS incompatibilities))
+    (VP (VBD seemed)
+      (ADJP (JJ justified))
+      (PP (IN at)
+        (NP (DT the) (NN time)))
+      (, ,)
+      (SBAR (IN although)
+        (S
+          (NP (PRP they))
+          (VP (VBP seem)
+            (ADJP
+              (ADJP (RB so) (RB obviously) (JJ unnecessary))
+              (CC and)
+              (ADJP (JJ foolish))
+              (ADVP (RB now)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (ADJP (JJ short)))
+    (NP (PRP we))
+    (VP (VBZ botched)
+      (NP (PRP$ our) (NN opportunity)
+        (S
+          (VP (TO to)
+            (VP (VB fix)
+              (NP (DT the) (NN problem) (NN right)))))))
+    (. .)))
+

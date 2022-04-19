@@ -1,0 +1,57 @@
+(ROOT
+  (S
+    (NP (FW i))
+    (VP (VBP guess)
+      (NP (PRP$ its))
+      (PP (IN like)
+        (NP (DT a) (NN sandwich)))
+      (SBAR
+        (SBAR
+          (S
+            (NP (FW i))
+            (VP (VBP make)
+              (NP (DT a)
+                (ADJP (RB damn) (JJ good))
+                (NN sandwich)))))
+        (CC but)
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP (NN somebody) (RB else))
+            (VP (VBZ makes)
+              (NP
+                (NP (DT a) (NN sandwich))
+                (PP (IN for)
+                  (NP
+                    (NP (PRP me))
+                    (, ,)
+                    (NP (PRP$ its)
+                      (ADJP (RB just) (JJR better))
+                      (NN somehow))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nevertheless))
+    (NP (DT this))
+    (VP (VBD gave)
+      (NP (PRP me))
+      (NP (DT a) (JJ good) (NN excuse)
+        (S
+          (VP
+            (VP (TO to)
+              (VP (VB make)
+                (NP (DT a) (JJ few) (JJR more) (NN zipper) (NNS pouches))))
+            (, ,)
+            (CC and)
+            (VP (TO to)
+              (VP (VB try)
+                (PRT (RP out))
+                (NP (JJ other) (NNS tutorials))
+                (SBAR (IN that)
+                  (S
+                    (NP (FW i))
+                    (VP (VBD was)
+                      (VP (VBG curious) (IN about)))))))))))
+    (. .)))
+

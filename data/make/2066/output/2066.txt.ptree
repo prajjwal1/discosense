@@ -1,0 +1,49 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP
+        (NP (NN addition))
+        (PP (TO to)
+          (NP (NN trade) (NN liberalization)))))
+    (, ,)
+    (NP (JJ other) (NNS factors))
+    (VP (VBP have)
+      (VP (VBN contributed)
+        (PP (TO to)
+          (NP
+            (NP (DT the) (JJ strong) (NN growth))
+            (PP (IN of)
+              (NP
+                (NP (JJ red) (NN meat) (NN production))
+                (PP (IN in)
+                  (NP (NN canada)))))))
+        (PP (IN since)
+          (NP
+            (NP (DT the) (NN end))
+            (PP (IN of)
+              (NP (DT the) (NNS 1980s)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (ADJP (JJ particular)))
+    (NP
+      (NP (DT the) (NNS outbreaks))
+      (PP (IN of)
+        (NP
+          (NP (NN foot)
+            (CC and)
+            (NN mouth) (NN disease))
+          (PP
+            (PP (IN in)
+              (NP (NN taiwan)))
+            (CC and)
+            (PP (IN in)
+              (NP (JJ south) (NN korea)))))))
+    (VP (VBD eliminated)
+      (NP (CD two) (NNS competitors))
+      (PP (IN in)
+        (NP (DT the) (JJ japanese) (NN market))))
+    (. .)))
+

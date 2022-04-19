@@ -1,0 +1,2 @@
+conn:because conn_POS:IN sent_pos:0 NA
+conn:and conn_POS:CC prev1:abilities prev1_POS:NNS with_prev1_full:abilities_and with_prev1_POS_full:NNS_CC prev2:his prev2_POS:PRP$ with_prev2_full:his_and with_prev2_POS_full:PRP$_CC NA

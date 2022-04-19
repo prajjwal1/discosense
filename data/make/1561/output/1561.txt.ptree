@@ -1,0 +1,38 @@
+(ROOT
+  (S
+    (NP (DT a) (JJ single) (NN context))
+    (VP (MD may)
+      (VP (VB include)
+        (NP
+          (NP (JJ several) (JJ physical) (NNS processors))
+          (, ,)
+          (CC or)
+          (NP
+            (QP (RB just) (CD one))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (ADJP (RB conversely) (JJ different))
+        (NNS contexts))
+      (VP (VBP do) (RB not)
+        (VP (VB have)
+          (S
+            (VP (TO to)
+              (VP (VB be)
+                (PP (IN on)
+                  (NP
+                    (NP (JJ separate) (NNS computers))
+                    (PP (IN for)
+                      (NP (NN example)))))))))))
+    (, ,)
+    (NP (DT a) (CD 32) (NN node) (NN smp) (NN machine))
+    (VP (MD could)
+      (VP (VB have)
+        (NP
+          (QP (IN up) (TO to) (CD 32))
+          (JJ separate) (NNS contexts))))
+    (. .)))
+

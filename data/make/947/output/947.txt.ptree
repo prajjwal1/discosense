@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (VP (VB be)
+      (VP (VBN assured)
+        (SBAR (IN that)
+          (S
+            (NP (DT the) (NNS sizegenetics) (NN device))
+            (VP (VBZ is)
+              (NP
+                (NP
+                  (NP (DT a) (NN doctor))
+                  (VP (VBN approved)))
+                (, ,) (RB clinically)
+                (NP (VBN proven) (JJ medical) (NN device))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB therefore))
+    (NP (PRP it))
+    (VP (VBZ is)
+      (ADJP (RB absolutely) (JJ safe))
+      (S
+        (VP (TO to)
+          (VP (VB use)))))
+    (. .)))
+

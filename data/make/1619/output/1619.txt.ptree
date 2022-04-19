@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (NP (FW i))
+    (VP
+      (VP (VBP am)
+        (NP (DT a) (NN pot) (NN smoker)))
+      (CC and)
+      (VP (VBD did)
+        (VP (VB alot)
+          (NP
+            (NP
+              (QP (JJR more) (IN than) (CD pot)))
+            (PP (IN in)
+              (NP (PRP$ my) (JJ early) (NNS years)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB because) (IN of)
+      (NP
+        (NP (DT this) (FW i))
+        (VP (VBN started)
+          (S
+            (VP (VBG working)
+              (PP (IN with)
+                (NP
+                  (NP (NNS kids))
+                  (PP (RB because) (IN of)
+                    (NP (DT the) (NN drug) (NN problem))))))))))
+    (NP (PRP we))
+    (VP (VBP have))
+    (. .)))
+

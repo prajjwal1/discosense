@@ -1,0 +1,51 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP
+        (NP (NNS countries))
+        (PP (IN with)
+          (NP (JJ limited) (NN revenue) (NN generation) (NN capacity)))))
+    (, ,)
+    (NP
+      (NP (VBG growing) (NN interest))
+      (CC and)
+      (NP (JJ principal) (NNS payments)))
+    (VP (MD may)
+      (VP (VB squeeze)
+        (NP
+          (NP (NNS governments) (NN budget)
+            (CC and)
+            (NN crowd))
+          (PP (IN out)
+            (NP
+              (NP (JJ other) (NNS expenditures))
+              (ADJP (RB much) (VBN needed)))))
+        (PP (IN by)
+          (NP (DT the) (JJ poor)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN sum)))
+    (NP (PRP it))
+    (VP (VBZ is)
+      (ADJP (JJ difficult)
+        (S
+          (VP (TO to)
+            (VP (VB predict)
+              (NP
+                (NP (DT the) (JJ net) (NNS effects))
+                (PP (IN of)
+                  (NP
+                    (NP (DT the) (JJ current) (NN increase))
+                    (PP (IN in)
+                      (NP (NN debt))))))
+              (PP (IN in)
+                (NP (NN dr)))
+              (PP (IN on)
+                (NP (NN poverty)
+                  (CC and)
+                  (NN inequality))))))))
+    (. .)))
+

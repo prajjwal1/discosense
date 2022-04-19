@@ -1,0 +1,3 @@
+conn:and conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_and with_prev1_POS_full:,_CC prev2:creeks prev2_POS:NNS with_prev2_full:creeks_and with_prev2_POS_full:NNS_CC NA
+conn:so conn_POS:IN prev1:, prev1_POS:, with_prev1_full:,_so with_prev1_POS_full:,_IN prev2:eggs prev2_POS:NNS with_prev2_full:eggs_so with_prev2_POS_full:NNS_IN NA
+conn:although conn_POS:IN prev1:, prev1_POS:, with_prev1_full:,_although with_prev1_POS_full:,_IN prev2:breed prev2_POS:NN with_prev2_full:breed_although with_prev2_POS_full:NN_IN NA

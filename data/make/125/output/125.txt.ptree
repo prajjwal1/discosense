@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (ADVP (RB however))
+    (, ,)
+    (NP (JJ current) (NN back) (NN immobilizing) (NN rescue))
+    (VP (VBZ harnesses)
+      (NP (JJ present) (NNS complications)
+        (CC and)
+        (NNS hazards)))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP (NN example)))
+    (NP
+      (NP (VBG existing) (NNS harnesses))
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (VP (VBD were)
+            (VP (VBN designed)
+              (PP (IN for)
+                (NP
+                  (NP (NN use))
+                  (PP (IN on)
+                    (NP (NN land)))))))))
+      (, ,))
+    (VP (VBP do) (RB not)
+      (VP
+        (VP (VB float))
+        (CC and)
+        (VP (VB become)
+          (ADVP (RBR heavier))
+          (SBAR
+            (WHADVP (WRB when))
+            (S
+              (ADJP (JJ wet)))))))
+    (. .)))
+

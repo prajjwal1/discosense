@@ -1,0 +1,57 @@
+(ROOT
+  (S
+    (NP (PRP it))
+    (VP (VBZ assumes)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (DT the) (NN path))
+            (SBAR
+              (S
+                (NP (DT a) (NN bullet))
+                (VP (VBZ takes)
+                  (PP (IN through)
+                    (NP (DT the) (JJ human) (NN body)))))))
+          (VP (VBZ is)
+            (ADJP (RB even) (RB remotely)
+              (PP (IN under)
+                (NP
+                  (NP (DT the) (NN control))
+                  (PP (IN of)
+                    (NP (DT the) (NN sd) (NN shooter))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN on)
+      (NP (DT the) (NN contrary)))
+    (NP (FW i))
+    (VP (VBP think)
+      (SBAR (IN that)
+        (S
+          (NP (RB so) (JJ many) (JJ random) (NNS factors))
+          (VP (VBP are)
+            (VP (VBN involved)
+              (SBAR (IN that)
+                (S
+                  (NP
+                    (NP (NN shot) (NN placement))
+                    (PP (IN at)
+                      (NP
+                        (NP (DT the) (NN level))
+                        (SBAR
+                          (WHADVP (WRB where))
+                          (S
+                            (NP (NN lead))
+                            (VP (VBZ meets)
+                              (NP (NN flesh))))))))
+                  (VP (VBZ is)
+                    (VP (VBN determined)
+                      (PP
+                        (ADVP (RBR more)
+                          (PP (IN by)
+                            (NP (NN luck))))
+                        (IN than) (IN by)
+                        (NP (NN skill))))))))))))
+    (. .)))
+

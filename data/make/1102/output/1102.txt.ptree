@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (NP (NNS designers))
+    (VP (VBP are)
+      (VP (VBN confronted)
+        (PP (IN with)
+          (NP (JJ high) (NN time)))
+        (PP (TO to)
+          (NP
+            (NP (NN market) (NN pressure))
+            (CC and)
+            (NP
+              (NP (DT an) (VBG increasing) (NN demand))
+              (PP (IN for)
+                (NP (JJ computational) (NN power))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN as)
+      (NP (DT a) (NN result)))
+    (NP (PRP they))
+    (VP (VBP are)
+      (VP (VBN required)
+        (S
+          (VP (TO to)
+            (VP (VB identify)
+              (ADVP
+                (ADVP (RB as) (RB early))
+                (PP (IN as)
+                  (ADJP (JJ possible))))
+              (NP
+                (NP (DT the) (NN quality))
+                (PP (IN of)
+                  (NP
+                    (NP (DT a) (NN specification))
+                    (PP (IN for)
+                      (NP (DT an) (VBN intended) (NN technology)))))))))))
+    (. .)))
+

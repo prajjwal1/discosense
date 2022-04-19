@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (S
+      (NP (DT no) (NN one))
+      (VP (VBD came)
+        (S
+          (VP (TO to)
+            (VP (VB refill)
+              (NP (PRP$ our) (NNS glasses))
+              (PP (IN on)
+                (NP (PRP$ their) (JJ own))))))))
+    (CC and)
+    (S
+      (NP (DT no) (NN pitcher))
+      (VP (VBD was)
+        (VP (VBN left)
+          (PP (IN at)
+            (NP (DT the) (NN table))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB instead))
+    (NP (PRP we))
+    (VP (VBD had)
+      (S
+        (VP (TO to)
+          (VP
+            (VP (VB seek)
+              (NP (NN staff)))
+            (CC and)
+            (VP (VB ask)
+              (NP (PRP them))
+              (PP (IN for)
+                (NP (NN water))))))))
+    (. .)))
+

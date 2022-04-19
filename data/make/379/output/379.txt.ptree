@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (NP (FW i))
+    (VP
+      (VP (VBP think)
+        (NP (NN hes))
+        (S
+          (VP (VBG doing)
+            (NP (DT a)
+              (ADJP (RB pretty) (JJ good))
+              (NN job)))))
+      (CC and)
+      (VP (VBZ deserves)
+        (NP (DT this))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN although)
+      (S
+        (NP (PRP it))
+        (VP (VBP wouldnt)
+          (VP (VB hurt)
+            (NP (PRP$ my) (NNS feelings))
+            (ADVP
+              (NP (CD one))
+              (RB bit))
+            (SBAR (IN if)
+              (S
+                (NP (PRP he))
+                (VP (MD would)
+                  (VP (VB see)
+                    (S
+                      (NP (NNS musgraves))
+                      (ADJP (JJ inept)))))))))))
+    (VP (VBP play)
+      (S
+        (VP (VBG calling))))
+    (. .)))
+

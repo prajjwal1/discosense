@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (NP (DT the) (NN trunk))
+    (VP (VBD was)
+      (ADJP (RB pretty) (JJ sad)
+        (PP (IN as)
+          (NP
+            (NP (RB well) (CD two) (JJ small) (NNS suitcases))
+            (VP
+              (ADVP (RB quickly))
+              (VBN filled)
+              (S
+                (NP (PRP$ its) (CD 7.1) (JJ cubic) (NN foot) (NN capacity)))
+              (, ,)
+              (S
+                (VP (VBG relegating)
+                  (NP (JJR smaller) (NNS bags))
+                  (PP (TO to)
+                    (NP (DT the)
+                      (ADJP (RB already) (JJ full))
+                      (NN passenger) (NN compartment))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB overall))
+    (NP (DT the) (NN beetle))
+    (VP (VBD was)
+      (NP (DT a) (JJ charming) (NN weekend) (NN companion)))
+    (. .)))
+

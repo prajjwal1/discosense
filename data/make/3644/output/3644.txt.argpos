@@ -1,0 +1,2 @@
+conn:while conn_POS:IN prev1:, prev1_POS:, with_prev1_full:,_while with_prev1_POS_full:,_IN prev2:mice prev2_POS:NNS with_prev2_full:mice_while with_prev2_POS_full:NNS_IN NA
+conn:also conn_POS:RB prev1:they prev1_POS:PRP with_prev1_full:they_also with_prev1_POS_full:PRP_RB prev2:while prev2_POS:IN with_prev2_full:while_also with_prev2_POS_full:IN_RB NA

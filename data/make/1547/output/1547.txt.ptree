@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (ADVP (RB however))
+    (, ,)
+    (NP (RBS most) (JJ daily) (NN tracking) (NNS apps))
+    (ADVP (RB only))
+    (VP (VBZ provideyes)
+      (NP (NN notracking) (, ,) (NN i.) (NN e.))
+      (SBAR (IN whether)
+        (S
+          (NP (PRP you))
+          (VP
+            (VP (VBD did)
+              (NP (NN something)))
+            (CC or)
+            (VP (RB not)
+              (PP (IN on)
+                (NP (DT a) (VBN given) (NN day))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN contrast) (NN traxitall)))
+    (, ,)
+    (PP (IN with)
+      (NP (PRP$ its) (JJ patented) (, ,)
+        (ADJP
+          (QP (CD three) (CD fold)))
+        (NN tracking) (NN system)))
+    (, ,)
+    (VP (VBZ gives)
+      (NP (PRP you))
+      (NP
+        (NP (CD two) (JJ additional) (NNS types))
+        (PP (IN of)
+          (NP (NN tracking)))))
+    (. .)))
+

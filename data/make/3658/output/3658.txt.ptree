@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (NP (NNS wuji))
+    (VP (VBD was)
+      (VP
+        (VP (VBN drawn)
+          (PP (IN in)
+            (NP (JJ complete) (NN confusion))))
+        (CC and)
+        (VP (VBN hated)
+          (NP (PRP$ his) (NN self))
+          (PP (IN as)
+            (NP
+              (NP (DT the) (NN son))
+              (PP (IN of)
+                (NP (NN yue) (NN longxuan))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN although)
+      (S
+        (NP (DT the) (JJ last) (NN episode))
+        (VP (VBD showed)
+          (SBAR (IN that)
+            (S
+              (NP (PRP he))
+              (VP (VBD accepted)
+                (NP (DT the) (NN fact))
+                (ADVP (CC but))))))))
+    (NP (PRP he))
+    (ADVP (RB still))
+    (VP (VBD chose)
+      (NP (DT the) (JJ right) (NN path))
+      (PP (RB instead) (IN of)
+        (S
+          (VP (VBG joining)
+            (NP (PRP$ his) (NN father))
+            (PP (IN in)
+              (NP (PRP$ his) (JJ evil) (NN reign)))))))
+    (. .)))
+

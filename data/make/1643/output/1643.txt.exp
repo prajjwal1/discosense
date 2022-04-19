@@ -1,0 +1,3 @@
+conn_lc:however conn:however conn_POS:RB xxx£
+conn_lc:and conn:and conn_POS:CC with_prev_full:,_and xxx£
+conn_lc:meantime conn:meantime conn_POS:NN with_prev_full:the_meantime xxx£

@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (NP (PRP we))
+    (ADVP (RB jam))
+    (VP (VBD packed)
+      (NP (DT each) (NN level))
+      (PP (IN with)
+        (NP
+          (NP (NN epic) (NN mob) (NNS bosses))
+          (, ,)
+          (NP (JJ intense) (NNS obstacles))
+          (, ,)
+          (CC and)
+          (NP (JJ extensive) (NN weaponry))))
+      (S
+        (VP (TO to)
+          (VP (VB locate)
+            (CC and)
+            (VB utilize)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB because) (IN of)
+      (NP (DT this) (NN load)))
+    (NP (NN time))
+    (VP (MD can)
+      (ADVP (RB often))
+      (VP (VB take)
+        (NP (DT a) (NN while))))
+    (. .)))
+

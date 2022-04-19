@@ -1,0 +1,17 @@
+csubj(one-4, seeing-1)
+dobj(seeing-1, her-2)
+cop(one-4, was-3)
+root(ROOT-0, one-4)
+det(highlights-7, the-6)
+prep_of(one-4, highlights-7)
+det(film-10, the-9)
+prep_of(highlights-7, film-10)
+
+amod(cast-5, overall-1)
+det(cast-5, a-2)
+advmod(talented-4, very-3)
+amod(cast-5, talented-4)
+root(ROOT-0, cast-5)
+advmod(wasted-7, virtually-6)
+amod(cast-5, wasted-7)
+

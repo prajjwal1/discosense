@@ -1,0 +1,4 @@
+conn:if conn_POS:IN sent_pos:2 prev1:asked prev1_POS:VBD with_prev1_full:asked_if with_prev1_POS_full:VBD_IN prev2:i prev2_POS:FW with_prev2_full:i_if with_prev2_POS_full:FW_IN NA
+conn:and conn_POS:CC prev1:now prev1_POS:RB with_prev1_full:now_and with_prev1_POS_full:RB_CC prev2:euphoria prev2_POS:NN with_prev2_full:euphoria_and with_prev2_POS_full:NN_CC NA
+conn:in_other_words conn_POS:IN_JJ_NNS sent_pos:0 NA
+conn:later conn_POS:RB sent_pos:-2 prev1:maybe prev1_POS:RB with_prev1_full:maybe_later with_prev1_POS_full:RB_RB prev2:but prev2_POS:CC with_prev2_full:but_later with_prev2_POS_full:CC_RB NA

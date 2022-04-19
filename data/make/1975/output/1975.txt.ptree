@@ -1,0 +1,57 @@
+(ROOT
+  (S
+    (PP (IN for)
+      (NP (DT another)))
+    (, ,)
+    (NP (DT the) (JJ autolite) (NNS threads))
+    (VP (VBP start)
+      (PP (IN with)
+        (NP
+          (NP (DT a) (NN taper))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBZ makes)
+                (S
+                  (NP (PRP them))
+                  (ADJP (RB much) (JJR easier))
+                  (S
+                    (VP (TO to)
+                      (VP (VB start)
+                        (PP (IN in)
+                          (NP (DT the) (NN cylinder)))
+                        (S
+                          (VP (VB spark)
+                            (NP (NN plug) (NN boss))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB subsequently))
+    (NP (FW i))
+    (VP (VBD learned)
+      (SBAR (IN that)
+        (S
+          (NP (DT the) (JJ autolite) (NNS plugs))
+          (VP (JJ incorporated)
+            (NP
+              (NP (DT a) (NN fired))
+              (PP (IN in)
+                (NP
+                  (NP (JJ sealed) (NN resistor) (NN assembly))
+                  (SBAR
+                    (WHNP (WDT that))
+                    (S
+                      (VP (VBD solved)
+                        (NP
+                          (NP (DT the) (NN problem))
+                          (PP (IN of)
+                            (NP (JJ high) (NN resistance) (NNS plugs)))
+                          (SBAR
+                            (WHNP (WDT that))
+                            (S
+                              (ADVP (RB long))
+                              (VP (VBD plagued)
+                                (NP (NNS champions))))))))))))))))
+    (. .)))
+

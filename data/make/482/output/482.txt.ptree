@@ -1,0 +1,45 @@
+(ROOT
+  (S
+    (ADVP (RB however))
+    (, ,)
+    (NP (DT the) (NN roof) (NN door) (NNS devices) (NN hitherto))
+    (VP (VBD proposed)
+      (SBAR
+        (S
+          (VP (VBP have)
+            (VP (VBN failed)
+              (S
+                (VP
+                  (CONJP (RB not) (JJ only))
+                  (VP (TO to)
+                    (VP (VB achieve)
+                      (NP
+                        (NP (JJR shorter) (NN assembly) (NN time))
+                        (CC and)
+                        (ADVP (RB thus))
+                        (NP (JJ reduced) (NN production) (NN cost)))))
+                  (CONJP (CC but)
+                    (RB also))
+                  (VP (TO to)
+                    (VP (VB exhibit)
+                      (ADVP (RB satisfactorily))
+                      (NP (JJ smoothed) (NN operation)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB particularly) (IN in)
+      (NP
+        (NP (DT the) (NN roof) (NN door) (NN device))
+        (VP (VBN disclosed)
+          (PP (IN by)
+            (NP (DT the) (NN publication))))))
+    (, ,)
+    (NP (DT a) (JJ separate) (NN latch) (NN device))
+    (VP (VBZ is)
+      (VP (VBN used)
+        (PRT (RP along))
+        (PP (IN with)
+          (NP (DT a) (NN roof) (NN door) (VBG operating) (NN device)))))
+    (. .)))
+

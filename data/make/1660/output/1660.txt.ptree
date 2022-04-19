@@ -1,0 +1,50 @@
+(ROOT
+  (S
+    (NP (DT the) (NN reason) (NN i) (NN dont))
+    (ADVP (RB always))
+    (VP (VBP use)
+      (S
+        (VP (VB create)
+          (SBAR
+            (S
+              (NP (NN toc))
+              (VP (VBZ is)
+                (SBAR (IN that)
+                  (S
+                    (NP (JJ i) (NN dont))
+                    (ADVP (RB always))
+                    (VP (VBP want)
+                      (S
+                        (NP (DT the) (NN text))
+                        (VP (TO to)
+                          (VP (VB be)
+                            (NP
+                              (NP (DT the) (JJ same))
+                              (PP (IN for)
+                                (NP
+                                  (NP (DT the) (NN note))
+                                  (CC and)
+                                  (NP (DT the) (NN link)))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (PP (IN for)
+        (NP (NN example)))
+      (NP (FW i))
+      (VP (MD might)
+        (VP (VB want)
+          (VP (VB want)
+            (NP (DT the) (NN chapter) (NN title))
+            (S
+              (VP (TO to)
+                (VP (VB be)
+                  (NP (DT all) (JJ upper) (NN case)))))))))
+    (, ,)
+    (FRAG (CC but)
+      (RB not)
+      (PP (IN in)
+        (NP (DT the) (NN index))))
+    (. .)))
+

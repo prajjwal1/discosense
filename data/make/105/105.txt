@@ -1,0 +1,1 @@
+not only is there the capex cost of buying and the opex cost of hosting the server, keeping exchange operational requires quite a bit of expertise and patching. in other words youll waste a lot of money on paying your administrator who has to divide his attention between the exchange server and many other it tasks.

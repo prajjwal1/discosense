@@ -1,0 +1,55 @@
+(ROOT
+  (S
+    (NP (JJ herbal) (NNS schools))
+    (VP (VBP are)
+      (VP (VBG seeing)
+        (NP
+          (NP
+            (NP
+              (NP (DT an) (NN uptick))
+              (PP (IN in)
+                (NP (NNS people))))
+            (ADJP (JJ interested)
+              (PP (IN in)
+                (NP (JJ grandmas) (JJ old) (NN fashioned) (NNS remedies))))
+            (, ,)
+            (PP (JJ such) (IN as)
+              (NP (JJ elderberry) (NN cough) (NNS drops))))
+          (, ,)
+          (CC or)
+          (NP
+            (NP (JJ herbal) (NN heating) (NNS packs))
+            (PP (IN for)
+              (NP (JJ joint) (NN pain)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB likewise))
+    (NP (PRP$ my) (NN mother))
+    (VP (MD would)
+      (VP (VB be)
+        (ADJP (JJ proud)
+          (S
+            (VP (TO to)
+              (VP (VB know)
+                (SBAR
+                  (S
+                    (NP (FW i))
+                    (VP (VBD listened)
+                      (SBAR
+                        (WHADVP (WRB when))
+                        (S
+                          (NP (PRP she))
+                          (VP (VBD told)
+                            (NP (PRP me))
+                            (SBAR (IN that)
+                              (S
+                                (NP
+                                  (NP (DT a) (NN glass))
+                                  (PP (IN of)
+                                    (NP (JJ peppermint) (NN tea))))
+                                (VP (VBZ relieves)
+                                  (NP (DT a) (NN stomach) (NN ache)))))))))))))))))
+    (. .)))
+

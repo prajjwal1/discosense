@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (VP (VBZ is)
+      (S
+        (VP (TO to)
+          (VP
+            (ADVP (RB reliably))
+            (VB deliver)
+            (NP
+              (NP (NNS packets))
+              (PP (IN from)
+                (NP (PRP$ their) (NNS sources))))
+            (PP (TO to)
+              (NP (PRP$ their) (NNS destinations)))
+            (PP (IN within)
+              (NP (JJ acceptable) (NN time) (NNS delays)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thus))
+    (NP
+      (NP (DT an) (JJ important) (NN performance) (NN measure))
+      (PP (IN of)
+        (NP (DT a) (NN packet) (NN network))))
+    (VP (VBZ is)
+      (NP
+        (NP (PRP$ its) (JJ throughput) (NN rate))
+        (PP (IN in)
+          (NP
+            (NP (NNS packets))
+            (VP (VBN delivered)
+              (PP (IN per)
+                (NP (NN second))))))))
+    (. .)))
+

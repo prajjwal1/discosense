@@ -1,0 +1,1 @@
+the actual finder target spots are not used for high resolution information due to the critical nature of the finder spots in the label finding process. therefore the total large cells available for high resolution encoding is 119 plus 24 or 143 total.

@@ -1,0 +1,47 @@
+(ROOT
+  (S
+    (NP (PRP it))
+    (VP (VBD was)
+      (NP (NN mine)
+        (S
+          (VP (TO to)
+            (VP (VB drive)
+              (PP (IN through)
+                (NP
+                  (NP (DT the) (JJ fourth))
+                  (PP (IN of)
+                    (NP (JJ july) (NN weekend)))))
+              (, ,)
+              (SBAR (RB even) (IN though)
+                (S
+                  (NP (NNS civilians))
+                  (VP (VBP werent)
+                    (ADJP (JJ able)
+                      (S
+                        (VP (TO to)
+                          (VP (VB take)
+                            (NP
+                              (NP (NN delivery))
+                              (PP (IN of)
+                                (NP (DT the)
+                                  (ADJP (RB much) (JJ heralded))
+                                  (JJ new) (NN roadster))))
+                            (PP (IN until)
+                              (PP (IN after)
+                                (NP (DT the) (NN holiday))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S (RB thus)
+    (NP
+      (NP (PRP$ my) (NN miata) (NN experience))
+      (ADVP (RB back)))
+    (ADVP (RB then))
+    (VP (VBD was)
+      (NP (DT a)
+        (ADJP (RB very) (JJ singular)
+          (CC and)
+          (JJ exclusive))
+        (NN one)))
+    (. .)))
+

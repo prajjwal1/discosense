@@ -1,0 +1,50 @@
+(ROOT
+  (S
+    (NP (NN ive))
+    (VP
+      (VP (VBD read)
+        (NP (JJ random) (NNS volumes))
+        (PP (IN since)
+          (NP (RB then))))
+      (, ,)
+      (CC and)
+      (VP (VBP have)
+        (VP (VBN liked)
+          (NP (DT some) (JJR more))
+          (PP (IN than)
+            (NP (NNS others))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB though))
+      (NP
+        (NP (DT this) (JJ last) (NN half))
+        (, ,)
+        (PP (IN with)
+          (NP (DT the) (NN ninja) (NN war)))
+        (, ,))
+      (VP (VBZ has)
+        (VP (VBN felt)
+          (ADVP (RBR more))
+          (PP (IN like)
+            (NP
+              (NP (DT the) (NN beginning))
+              (PP (IN of)
+                (NP (DT the) (NN series)))))
+          (, ,)
+          (PP (IN with)
+            (NP
+              (NP (JJR more) (NN action))
+              (CC and)
+              (NP (JJR less) (NN emo)))))))
+    (, ,) (IN so)
+    (S
+      (NP (PRP$ my) (NN enjoyment))
+      (VP (VBZ has)
+        (VP (VBN gone)
+          (PRT (RP back))
+          (ADVP (RB up) (RB so)))))
+    (. .)))
+

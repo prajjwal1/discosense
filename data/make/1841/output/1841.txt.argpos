@@ -1,0 +1,2 @@
+conn:if conn_POS:IN prev1:them prev1_POS:PRP with_prev1_full:them_if with_prev1_POS_full:PRP_IN prev2:ask prev2_POS:VB with_prev2_full:ask_if with_prev2_POS_full:VB_IN NA
+conn:although conn_POS:IN sent_pos:0 NA

@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (NP (DT these))
+    (VP (VBP are)
+      (NP
+        (NP (JJ fake) (NNS viruses))
+        (SBAR
+          (S
+            (NP (PRP they))
+            (VP (VBP dont)
+              (ADVP (RB actually))
+              (VP
+                (VP (VB cause)
+                  (NP (DT any) (NN harm)))
+                (CC or)
+                (VP (VB replicate)
+                  (NP (PRP themselves)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB instead))
+    (NP
+      (NP (DT the) (NNS creators))
+      (PP (IN of)
+        (NP (DT these) (NNS viruses))))
+    (VP (VBP hope)
+      (SBAR (IN that)
+        (S
+          (NP (NNS people)
+            (CC and)
+            (NNS media) (NNS companies))
+          (VP (VBP treat)
+            (NP (DT the) (NN hoax))
+            (SBAR (RB as) (IN if)
+              (S
+                (NP (PRP it))
+                (VP (VBD were)
+                  (NP (DT the) (JJ real) (NN deal)))))))))
+    (. .)))
+

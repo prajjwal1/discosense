@@ -1,0 +1,44 @@
+(ROOT
+  (S
+    (NP (DT an) (JJ additional) (JJ fifty) (NNS members))
+    (VP (VBD were)
+      (VP (VBN added)
+        (PP (IN in)
+          (NP (CD 1739)))
+        (, ,)
+        (SBAR (IN while)
+          (S
+            (NP (DT another) (JJ twenty) (CD two) (NNS people))
+            (VP (VBD were)
+              (VP (VBN verified)
+                (PP (IN as)
+                  (ADJP (JJ regenerate)
+                    (CC and)
+                    (JJ able)))
+                (S
+                  (VP (TO to)
+                    (VP (VB participate)
+                      (PP (IN in)
+                        (NP
+                          (NP (NN communion))
+                          (PP (IN in)
+                            (NP (CD 1741)))))
+                      (PP (IN in)
+                        (NP (DT the) (JJ new) (NN brunswick) (NN church))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN sum)))
+    (NP (PRP he))
+    (VP (VBD gained)
+      (NP (CD 180) (JJ new) (NNS converts))
+      (PP (IN in)
+        (NP
+          (NP (DT the) (NN raritan))
+          (CC and)
+          (NP (JJ new) (NN brunswick) (NNS churches))))
+      (ADVP (RB alone)))
+    (. .)))
+

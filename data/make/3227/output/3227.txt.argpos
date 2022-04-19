@@ -1,0 +1,2 @@
+conn:however conn_POS:RB sent_pos:2 prev1:, prev1_POS:, with_prev1_full:,_however with_prev1_POS_full:,_RB prev2:eventually prev2_POS:RB with_prev2_full:eventually_however with_prev2_POS_full:RB_RB NA
+conn:then conn_POS:RB prev1:, prev1_POS:, with_prev1_full:,_then with_prev1_POS_full:,_RB prev2:attend prev2_POS:VB with_prev2_full:attend_then with_prev2_POS_full:VB_RB NA

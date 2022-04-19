@@ -1,0 +1,54 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (JJ first) (NNS laws))
+      (PP (IN of)
+        (NP (DT the) (JJ new) (NN government))))
+    (VP (VBD tended)
+      (S
+        (VP (TO to)
+          (VP (VB follow)
+            (NP
+              (NP (DT the) (NN virginian) (NNS models))
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (VP (VBD had)
+                    (VP (VBN influenced)
+                      (NP (JJ previous) (NN nova) (NN scotian) (NNS administrations)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (ADJP (RB similarly)
+        (PP (IN in)
+          (S
+            (VP (VBG establishing)
+              (NP
+                (NP (DT a) (NN system))
+                (PP (IN of)
+                  (NP (NNS courts))))))))
+      (NNS cornwallis))
+    (VP
+      (VP (VBD turned)
+        (PP (TO to)
+          (NP (NN virginian) (NNS examples))))
+      (CC and)
+      (VP (VBD erected)
+        (NP (DT a) (JJ general) (NN court))
+        (S
+          (VP (TO to)
+            (VP (VB deal)
+              (PP (IN with)
+                (NP
+                  (NP (JJ major) (NNS offences))
+                  (CC and)
+                  (NP (DT a) (NN county) (NN court))))
+              (S
+                (VP (TO to)
+                  (VP (VB deal)
+                    (PP (IN with)
+                      (NP (JJ minor) (NNS offences)))))))))))
+    (. .)))
+

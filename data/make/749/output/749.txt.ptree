@@ -1,0 +1,53 @@
+(ROOT
+  (S
+    (S
+      (NP (FW analysis) (FW i) (NN wasnt))
+      (VP (VBG expecting)
+        (NP (RB much))
+        (PRT (RP out))
+        (PP (IN of)
+          (NP (NN egyptian) (NN ball)))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP it))
+      (ADVP (RB certainly))
+      (VP
+        (VP (VBP doesnt)
+          (VP (VB expand)
+            (NP (DT the) (NN genre))))
+        (CC or)
+        (VP (VBP claim)
+          (S
+            (VP (TO to)
+              (VP (VB be)
+                (NP
+                  (NP (DT the) (NN end))
+                  (PP
+                    (ADVP (DT all))
+                    (IN of)
+                    (NP
+                      (NP (NN brick))
+                      (VP (VBG busting)
+                        (NP (NNS games))))))))))))
+    (. .)))
+
+(ROOT
+  (S (CC but)
+    (SBAR
+      (WHNP (WP what))
+      (S
+        (NP (PRP it))
+        (VP (VBZ does)
+          (VP (VB manage)
+            (S
+              (VP (TO to)
+                (VP (VB do))))))))
+    (VP (VBZ is)
+      (VP (VB create)
+        (NP
+          (NP (DT a) (JJ strangely) (NN fun) (NN game))
+          (PP (IN of)
+            (NP (NN destruction))))))
+    (. .)))
+

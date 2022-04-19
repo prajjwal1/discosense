@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (NP (DT this))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (NN thinking))
+        (SBAR
+          (S
+            (NP (PRP he))
+            (VP (VBZ ascribes)
+              (PP (TO to)
+                (NP (NNS democrats))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB instead))
+      (NP (PRP he))
+      (VP (VBD said)))
+    (, ,)
+    (NP (NNS republicans))
+    (VP (VBP are)
+      (VP (VBG fighting)
+        (S
+          (NP
+            (NP (DT a) (NN war))
+            (PP (IN for)
+              (NP (NN womento))))
+          (VP (VB be)
+            (VP (VBN empowered)
+              (S
+                (VP (TO to)
+                  (VP (VB be)
+                    (NP (NN something) (JJ other))
+                    (PP (IN than)
+                      (NP
+                        (NP (NNS victims))
+                        (PP (IN of)
+                          (NP (PRP$ their) (NN gender)))))))))))))
+    (. .)))
+

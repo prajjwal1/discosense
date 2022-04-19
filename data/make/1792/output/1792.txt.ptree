@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (S
+      (VP (VBG running)
+        (PP (IN around)
+          (S
+            (VP (VBG shooting)
+              (NP (NN stuff) (NNS sounds))
+              (PP (IN like)
+                (NP (NN fun)))
+              (PP (TO to)
+                (NP (PRP me))))))))
+    (, ,)
+    (NP (FW i))
+    (VP (VBD wanted)
+      (S
+        (VP (TO to)
+          (VP (VB join)
+            (NP (DT the) (VBN armed) (NNS aervices))
+            (SBAR
+              (WHADVP (WRB when))
+              (S
+                (NP (FW i))
+                (VP (VBD was)
+                  (NP (JJR younger)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN on)
+      (NP (DT the) (JJ other) (NN hand)))
+    (NP (PRP you))
+    (VP (VBP do)
+      (VP (VB face)
+        (NP (DT a)
+          (ADJP (JJ moral)
+            (CC and)
+            (JJ ethical))
+          (NN choice))))
+    (. .)))
+

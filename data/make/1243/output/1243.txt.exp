@@ -1,0 +1,4 @@
+conn_lc:nevertheless conn:nevertheless conn_POS:RB xxx£
+conn_lc:if conn:if conn_POS:IN with_prev_full:desired_if xxx£
+conn_lc:thereafter conn:thereafter conn_POS:RB xxx£
+conn_lc:but conn:but conn_POS:CC with_prev_full:,_but xxx£

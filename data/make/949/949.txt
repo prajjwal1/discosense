@@ -1,0 +1,1 @@
+during the course of the day, the amount of leading reactive current in the line is typically decreased by the removal of inductive loads from the line. consequently the leading reactive current added to the line by the capacitor bank drives the line current in the leading direction.

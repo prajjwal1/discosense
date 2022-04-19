@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (PP
+      (ADVP (RB especially))
+      (IN on)
+      (NP (JJ public) (NNS networks)))
+    (, ,)
+    (NP (NN information))
+    (VP (MD can)
+      (VP
+        (VP (VB be)
+          (VP (VBN grabbed)
+            (PP (IN during)
+              (NP (NN transmission)))))
+        (, ,) (RB then)
+        (VP (VB be)
+          (VP (VBN decrypted)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB because) (IN of)
+      (NP (DT this)))
+    (NP (NNS people))
+    (VP (MD could)
+      (ADVP (RB potentially))
+      (VP (VB acquire)
+        (NP (PRP$ your) (NNS usernames)
+          (CC and)
+          (NNS passwords))
+        (PP (IN without)
+          (NP
+            (ADJP (RB too) (JJ much))
+            (NN trouble)))))
+    (. .)))
+

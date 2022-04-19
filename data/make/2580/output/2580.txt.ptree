@@ -1,0 +1,59 @@
+(ROOT
+  (S
+    (NP (EX there))
+    (VP (VBP are)
+      (NP
+        (NP (JJ valid) (NN performance) (NNS reasons))
+        (PP (IN for)
+          (S
+            (VP (VBG using)
+              (NP (NN goto))
+              (PP (IN in)
+                (NP
+                  (NP (SYM c))
+                  (SBAR
+                    (S
+                      (NP (PRP it))
+                      (VP
+                        (VP (VBZ compiles)
+                          (PRT (RP down))
+                          (PP (TO to)
+                            (NP (DT a) (JJ single) (NN instruction))))
+                        (CC and)
+                        (VP (VBZ is)
+                          (NP (DT the) (JJ nicest) (NN way))
+                          (S
+                            (VP (TO to)
+                              (VP (VB build)
+                                (NP (DT a) (NN state) (NN machine))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN on)
+      (NP (DT the) (JJ other) (NN hand)))
+    (S
+      (VP (VBG using)
+        (NP (NN goto))
+        (PP (IN in)
+          (NP (NN perl)))))
+    (VP (VBZ is)
+      (ADJP (RB very) (JJ slow)
+        (SBAR
+          (S
+            (NP (DT the) (NN interpreter))
+            (VP (VBZ has)
+              (S
+                (VP (TO to)
+                  (VP (VB walk)
+                    (PRT (RP up)
+                      (CC and)
+                      (RP down))
+                    (NP (DT the) (NN optree)
+                      (S
+                        (VP (TO to)
+                          (VP (VB look)
+                            (PP (IN for)
+                              (NP (DT the) (NN label)))))))))))))))
+    (. .)))
+

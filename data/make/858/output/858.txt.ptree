@@ -1,0 +1,51 @@
+(ROOT
+  (S
+    (PP (VBG according)
+      (PP (TO to)
+        (NP (DT the) (NN invention))))
+    (NP (PRP it))
+    (VP (VBZ is)
+      (ADJP (JJ possible)
+        (S
+          (VP (TO to)
+            (VP (VB use)
+              (NP
+                (ADJP (JJR more)
+                  (CC or)
+                  (JJR fewer))
+                (NNS frames))
+              (NP (CD 27)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP
+        (NP (NN example))
+        (SBAR
+          (S
+            (NP
+              (NP (DT a) (JJR taller) (NN frame))
+              (NP (CD 27)))
+            (VP (MD might)
+              (VP (VB be)
+                (VP (VBN used))))))
+        (, ,)
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (VBZ has)
+              (NP
+                (NP (DT the) (JJ same) (NN height))
+                (PP (IN as)
+                  (NP (DT the) (NNS frames)))))))))
+    (NP (CD 27))
+    (VP (VBD arranged)
+      (NP (CD one))
+      (PP (IN on)
+        (NP
+          (NP (NN top))
+          (PP (IN of)
+            (NP (DT another))))))
+    (. .)))
+

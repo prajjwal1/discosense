@@ -1,0 +1,54 @@
+(ROOT
+  (S
+    (NP (PRP it))
+    (ADVP (RB also))
+    (ADVP (RB largely))
+    (VP (VBD perceived)
+      (NP (JJ japans) (JJ national) (NNS characteristics))
+      (PP (IN in)
+        (NP (JJ negative) (JJ cultural) (NNS terms))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (VP (VBG interestingly)
+      (NP (DT this) (NN tendency)
+        (S
+          (VP (TO to)
+            (VP (VB explain)
+              (NP (NN defeat))
+              (PP (IN in)
+                (S
+                  (VP (VBG denigrating)
+                    (ADVP (RB terminology))))))))))
+    (VP (VBD was)
+      (PP (IN in)
+        (NP
+          (NP (JJ complete) (NN contrast))
+          (PP (TO to)
+            (NP
+              (NP (JJS most))
+              (PP (IN of)
+                (NP (NNS japans))))))))
+    (NP
+      (NP (JJ wartime) (NN propaganda))
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (VP (VBD emphasized)
+            (NP
+              (NP
+                (NP (JJ japanese) (NN strength))
+                (, ,)
+                (ADVP (RB purity)))
+              (, ,)
+              (CC and)
+              (NP
+                (NP (NNS uniqueness))
+                (PP (IN in)
+                  (NP (NN comparison)))))
+            (PP (TO to)
+              (NP (JJ western) (NNS weaknesses)))))))
+    (. .)))
+

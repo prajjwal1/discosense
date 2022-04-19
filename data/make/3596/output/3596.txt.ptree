@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (NP (DT the) (JJ international) (NN component))
+    (VP (MD would)
+      (VP (VB preside)
+        (CC and)
+        (VB coordinate)
+        (NP (DT the) (NN mechanism))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (JJ other) (NNS words)))
+    (NP (DT the) (NNS negotiators))
+    (VP (VBD asked)
+      (NP
+        (NP (DT the) (VBN united) (NNS nations) (NN security) (NN council))
+        (SBAR
+          (S
+            (VP (TO to)
+              (VP (VB create)
+                (NP (PDT such) (DT a) (JJ political) (NN mission))
+                (PP (IN with)
+                  (NP
+                    (NP (JJ unarmed) (NNS observers))
+                    (PP (IN for)
+                      (NP (DT a) (JJ renewable) (CD 12) (NN month) (NN period)))))))))))
+    (. .)))
+

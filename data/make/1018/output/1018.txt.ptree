@@ -1,0 +1,47 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN addition)))
+    (, ,)
+    (NP (DT the) (NN transmittance))
+    (VP (MD can)
+      (VP (VB be)
+        (VP (VBN switched)
+          (PP (IN between)
+            (NP
+              (NP (DT the) (JJ left) (NN eye) (NN shutter))
+              (CC and)
+              (NP (DT the) (JJ right) (NN eye) (NN shutter))))
+          (PP (IN during)
+            (NP (DT the) (JJ write) (NN period))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB consequently))
+    (NP
+      (NP (DT the) (NN duty) (NN cycle))
+      (SBAR
+        (WHNP (WDT that))
+        (S
+          (VP (VBZ is)
+            (NP
+              (NP (DT the) (NN ratio))
+              (PP (IN of)
+                (NP
+                  (NP (DT a) (NN display) (NN period))
+                  (PP (IN in)
+                    (NP (CD one) (NN frame) (NN period))))))))))
+    (VP (MD can)
+      (VP (VB be)
+        (VP (VBN made)
+          (ADVP (RBR higher))
+          (PP (IN than)
+            (NP
+              (NP (DT that))
+              (PP (IN in)
+                (NP (DT a) (JJ conventional) (NN display) (NN device)))))
+          (PP (IN without)
+            (NP (JJ cross) (NN talk))))))
+    (. .)))
+

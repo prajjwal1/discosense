@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (NP (DT the) (NNS seahawks))
+    (VP (VBP wear)
+      (NP
+        (ADJP (RB entirely) (JJ blue))
+        (NNS uniforms)))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN by)
+      (NP (NN contrast)))
+    (NP (JJS most) (NNS teams))
+    (VP (VBP wear)
+      (NP
+        (NP (NNS uniforms))
+        (SBAR
+          (WHNP (WP$ whose)
+            (NP
+              (NP (NNS pants))
+              (CC and)
+              (NP (NNS jerseys))))
+          (S
+            (VP (VBP are)
+              (NP (JJ different) (NNS colors)))))))
+    (. .)))
+

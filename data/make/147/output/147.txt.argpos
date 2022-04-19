@@ -1,0 +1,2 @@
+conn:in_turn conn_POS:IN_NN sent_pos:2 prev1:, prev1_POS:, with_prev1_full:,_in_turn with_prev1_POS_full:,_IN_NN prev2:she prev2_POS:PRP with_prev2_full:she_in_turn with_prev2_POS_full:PRP_IN_NN NA
+conn:while conn_POS:IN prev1:, prev1_POS:, with_prev1_full:,_while with_prev1_POS_full:,_IN prev2:us prev2_POS:PRP with_prev2_full:us_while with_prev2_POS_full:PRP_IN NA

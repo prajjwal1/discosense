@@ -1,0 +1,2 @@
+conn:also conn_POS:RB sent_pos:2 prev1:should prev1_POS:MD with_prev1_full:should_also with_prev1_POS_full:MD_RB prev2:ti prev2_POS:NN with_prev2_full:ti_also with_prev2_POS_full:NN_RB NA
+conn:also conn_POS:RB prev1:but prev1_POS:CC with_prev1_full:but_also with_prev1_POS_full:CC_RB prev2:, prev2_POS:, with_prev2_full:,_also with_prev2_POS_full:,_RB NA

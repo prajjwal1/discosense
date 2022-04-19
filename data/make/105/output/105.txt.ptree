@@ -1,0 +1,66 @@
+(ROOT
+  (S
+    (SBAR (RB not)
+      (S
+        (ADVP (RB only))
+        (VP (VBZ is)
+          (ADVP (RB there))
+          (NP
+            (NP
+              (NP (DT the) (NN capex) (NN cost))
+              (PP (IN of)
+                (NP (NN buying))))
+            (CC and)
+            (NP
+              (NP (DT the) (NN opex) (NN cost))
+              (PP (IN of)
+                (S
+                  (VP (VBG hosting)
+                    (NP (DT the) (NN server))))))))))
+    (, ,)
+    (NP
+      (NP (VBG keeping) (NN exchange))
+      (ADJP (JJ operational)))
+    (VP (VBZ requires)
+      (NP
+        (NP (RB quite) (DT a) (NN bit))
+        (PP (IN of)
+          (NP (NN expertise)
+            (CC and)
+            (NN patching)))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (PP (IN in)
+      (NP (JJ other) (NNS words)))
+    (VP (VBP youll)
+      (NP (NN waste)))
+    (NP
+      (NP (DT a) (NN lot))
+      (PP (IN of)
+        (NP
+          (NP (NN money))
+          (PP (IN on)
+            (S
+              (VP (VBG paying)
+                (NP
+                  (NP (PRP$ your) (NN administrator))
+                  (SBAR
+                    (WHNP (WP who))
+                    (S
+                      (VP (VBZ has)
+                        (S
+                          (VP (TO to)
+                            (VP (VB divide)
+                              (NP (PRP$ his) (NN attention))
+                              (PP (IN between)
+                                (NP
+                                  (NP (DT the) (NN exchange) (NN server))
+                                  (CC and)
+                                  (NP (JJ many)
+                                    (ADJP (JJ other)
+                                      (NP (PRP it)))
+                                    (NNS tasks)))))))))))))))))
+    (. .)))
+

@@ -1,0 +1,53 @@
+(ROOT
+  (S
+    (NP (NN tobin))
+    (VP (VBD said)
+      (SBAR (IN that)
+        (S
+          (SBAR (IN for)
+            (S
+              (NP (DT every) (NN job))
+              (VP (VBD generated))))
+          (, ,)
+          (NP (DT the) (NN state))
+          (VP (VBZ realizes)
+            (NP
+              (NP (CD 1,000))
+              (PP (IN in)
+                (NP (NN revenue))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB thus))
+      (NP (CD 100,000) (NNS jobs))
+      (VP (VBZ means)
+        (NP
+          (NP
+            (QP (CD 100) (CD million)))
+          (, ,)
+          (PP (CC plus)
+            (NP
+              (NP (DT the) (NNS savings))
+              (PP (IN from)
+                (NP
+                  (NP (DT those)
+                    (ADJP (RB newly) (JJ hired))
+                    (NNS people))
+                  (VP (VBG getting)
+                    (PRT (RP off))
+                    (PP (IN of)
+                      (NP
+                        (NP (NN state) (NN assistance) (NNS programs))
+                        (PP (JJ such) (IN as)
+                          (NP (NNS ahcccs)))))))))))))
+    (, ,)
+    (NP (DT the) (NNS states) (NN health))
+    (VP (VBP care)
+      (NP
+        (NP (NN system))
+        (PP (IN for)
+          (NP (JJ low) (NN income) (NNS residents)))))
+    (. .)))
+

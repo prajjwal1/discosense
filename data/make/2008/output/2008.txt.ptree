@@ -1,0 +1,64 @@
+(ROOT
+  (S
+    (NP (PRP it))
+    (VP (VBD was)
+      (VP (VBN created)
+        (S
+          (VP (TO to)
+            (VP
+              (VP (VB generate))
+              (CC and)
+              (VP (VB assess)
+                (ADVP (RB internally))
+                (PP (IN for)
+                  (NP
+                    (NP (NNS nasas))
+                    (ADJP (RBS most) (JJ senior)))))
+              (NP
+                (NP (NN leadership) (JJ innovative) (NNS concepts)
+                  (CC and)
+                  (NNS options))
+                (SBAR
+                  (WHNP (WDT that))
+                  (S
+                    (VP (VBD merged)
+                      (NP (JJ human)
+                        (CC and)
+                        (JJ robotic) (NN space) (NN exploration)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB specifically))
+    (NP (DT the) (NN team))
+    (VP (VBD developed)
+      (NP
+        (NP (NNS options))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (MD could)
+              (VP (VB achieve)
+                (NP
+                  (NP (JJ major) (JJ scientific) (NNS goals))
+                  (PP (IN over)
+                    (NP (DT the) (JJ subsequent) (CD 20) (NNS years))))
+                (S
+                  (VP
+                    (VP (VBG using)
+                      (NP (JJ advanced) (NNS technologies)))
+                    (CC and)
+                    (VP (VBG taking)
+                      (NP
+                        (NP (NN advantage))
+                        (PP (IN of)
+                          (NP (DT the) (NNS capabilities))))
+                      (SBAR (IN that)
+                        (S
+                          (NP (NNS astronauts))
+                          (VP (VBD made)
+                            (ADJP (JJ available))
+                            (PP (IN on)
+                              (NP (NN site)))))))))))))))
+    (. .)))
+

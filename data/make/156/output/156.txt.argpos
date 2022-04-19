@@ -1,0 +1,2 @@
+conn:when conn_POS:WRB prev1:automatically prev1_POS:RB with_prev1_full:automatically_when with_prev1_POS_full:RB_WRB prev2:happens prev2_POS:VBZ with_prev2_full:happens_when with_prev2_POS_full:VBZ_WRB NA
+conn:on_the_other_hand conn_POS:IN_DT_JJ_NN sent_pos:0 NA

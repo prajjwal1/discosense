@@ -1,0 +1,53 @@
+(ROOT
+  (S
+    (PP (VBG according)
+      (PP (TO to)
+        (NP (DT a) (CD two) (NN sentence))))
+    (NP
+      (NP (NN statement))
+      (PP (IN at)
+        (NP (DT this) (NN time) (NN walmart))))
+    (VP (VBZ has)
+      (VP (VBN made)
+        (NP (DT the) (NN business) (NN decision))
+        (S (RB not)
+          (VP (TO to)
+            (VP (VB sell)
+              (NP (NN preven)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP
+      (ADVP (RB however))
+      (IN in)
+      (NP
+        (NP (DT the) (NN interest))
+        (PP (IN of)
+          (S
+            (VP (VBG serving)
+              (CC and)
+              (VBG meeting)
+              (NP
+                (NP (DT the) (NNS needs))
+                (PP (IN of)
+                  (NP (PRP$ our) (NNS customers)))))))))
+    (, ,)
+    (NP (PRP$ our) (NNS pharmacists))
+    (VP (MD will)
+      (VP (VB refer)
+        (NP
+          (NP (DT any) (NN request))
+          (PP (IN for)
+            (NP (DT this) (NN product))))
+        (PP (TO to)
+          (NP
+            (NP (DT a) (NN pharmacy))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (VBZ does)
+                  (VP (VB carry)
+                    (NP (PRP it))))))))))
+    (. .)))
+

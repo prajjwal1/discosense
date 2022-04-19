@@ -1,0 +1,50 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT a)
+        (ADJP (RB particularly) (JJ simple))
+        (JJ constructional) (NN design))
+      (PP (IN of)
+        (NP (DT the) (NN bracket))))
+    (VP (MD can)
+      (VP (VB be)
+        (VP (VBN realized)
+          (PP (IN by)
+            (NP
+              (NP (DT the) (NN support) (NN surface))
+              (VP (VBG being)
+                (VP (VBN formed)
+                  (PP (IN by)
+                    (NP
+                      (NP (DT an) (JJ angled) (NN portion))
+                      (VP (VBN provided)
+                        (PP (IN at)
+                          (NP
+                            (NP (DT the) (NN edge))
+                            (PP (IN of)
+                              (NP (DT the) (NN base) (NN plate)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thereby))
+    (NP (DT the) (NN support) (NN surface))
+    (VP (MD can)
+      (VP (VB be)
+        (VP (VBN formed)
+          (PP (IN in)
+            (NP (DT a) (NN cost) (JJ neutral) (NN manner)))
+          (PP (IN while)
+            (S
+              (VP (VBG manufacturing)
+                (S
+                  (NP
+                    (NP (DT the) (NN bracket))
+                    (PP (IN via)
+                      (NP
+                        (NP (DT the) (NN shaping))
+                        (PP (IN of)
+                          (NP (DT the) (NN base) (NN plate))))))
+                  (NP (PRP itself)))))))))
+    (. .)))
+

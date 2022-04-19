@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (ADVP (RB here))
+    (, ,)
+    (NP (DT the) (JJ generated) (JJ secondary) (NN object))
+    (VP (VBZ is)
+      (VP (VBN characterized)
+        (PP (IN in)
+          (SBAR (IN that)
+            (S
+              (NP (DT the) (JJ secondary) (NN object))
+              (VP (VBZ has)
+                (NP
+                  (NP (DT the) (NN number))
+                  (PP (IN of)
+                    (NP
+                      (NP (NNS steps))
+                      (PP (IN in)
+                        (NP
+                          (NP (DT the) (NN object) (NN code))
+                          (, ,)
+                          (SBAR
+                            (WHNP (WDT which))
+                            (S
+                              (VP (VBZ is)
+                                (ADJP
+                                  (ADJP (JJR smaller))
+                                  (PP (IN than)
+                                    (NP (DT the) (JJ primary) (NN object))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thus))
+    (NP
+      (NP (DT the) (NN throughput))
+      (PP (IN of)
+        (NP (DT the) (NN processor))))
+    (VP (VBZ is)
+      (VP (VBN improved)))
+    (. .)))
+

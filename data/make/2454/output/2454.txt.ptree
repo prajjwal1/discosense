@@ -1,0 +1,48 @@
+(ROOT
+  (S
+    (NP (DT the) (NN judgement)
+      (CC or)
+      (NN determination) (NN circuit) (NN jc))
+    (VP (VBZ issues)
+      (NP (DT an) (NN output) (NN signal))
+      (PP (VBN based)
+        (PP (IN on)
+          (NP
+            (NP
+              (NP (DT the) (NN output))
+              (PP (IN of)
+                (NP (DT the) (JJ third) (JJ exclusive))))
+            (CC or)
+            (NP
+              (NP (NN circuit))
+              (PP (TO to)
+                (NP (DT the) (NN output) (NN circuit) (NN oc))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB consequently))
+    (NP (DT the) (NN output) (NN circuit) (NN oc))
+    (VP (VBZ produces)
+      (NP
+        (NP (JJ ahighorlowoutput) (NN signal))
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP
+              (NP (DT all))
+              (PP (IN of)
+                (NP
+                  (NP (DT the)
+                    (ADJP (CD 4) (NN bit) (JJ readout))
+                    (NNS signals))
+                  (PP (IN from)
+                    (NP (DT the) (JJ main) (NNS amplifiers))))))
+            (VP (VBP ma)
+              (NP
+                (NP (CD 0) (NN ma))
+                (ADJP (CD 3) (JJ arehighorlowlevel)))
+              (, ,)
+              (ADVP (RB respectively)))))))
+    (. .)))
+

@@ -1,0 +1,49 @@
+(ROOT
+  (S
+    (ADVP (RB eventually))
+    (, ,)
+    (S
+      (ADVP (RB however))
+      (, ,)
+      (NP (PRP he))
+      (VP (VBD announced)
+        (SBAR (IN that) (IN as)
+          (S
+            (NP (DT the) (NN king))
+            (VP (MD would) (RB not)
+              (VP (VB attend)))))))
+    (, ,) (RB then)
+    (S
+      (NP (DT neither))
+      (VP (MD would)
+        (VP
+          (NP (PRP he)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB instead)
+      (PP (IN with)
+        (NP
+          (NP (DT the) (JJ reluctant) (NN agreement))
+          (PP (IN of)
+            (NP (PRP$ his) (NN cabinet))))))
+    (, ,)
+    (NP (NNP de) (NNP valera))
+    (VP (VBD nominated)
+      (NP
+        (NP (DT a) (NN team))
+        (PP (IN of)
+          (NP
+            (NP (NNS delegates))
+            (VP (VBN headed)
+              (PP (IN by)
+                (NP (NN arthur) (NN griffith)))
+              (, ,)
+              (PP (IN with)
+                (NP
+                  (NP (NNS collins))
+                  (PP (IN as)
+                    (NP (PRP$ his) (NN deputy))))))))))
+    (. .)))
+

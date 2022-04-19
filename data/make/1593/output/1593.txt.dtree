@@ -1,0 +1,13 @@
+nsubj(visible-6, both-1)
+prep_of(both-1, these-3)
+cop(visible-6, are-4)
+advmod(visible-6, very-5)
+root(ROOT-0, visible-6)
+
+amod(entrepreneurship-3, conversely-1)
+amod(entrepreneurship-3, corporate-2)
+nsubj(involves-5, entrepreneurship-3)
+advmod(involves-5, commonly-4)
+root(ROOT-0, involves-5)
+dobj(involves-5, neither-6)
+

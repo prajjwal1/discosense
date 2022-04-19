@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (NP (NN hamlin))
+    (VP (VBD won)
+      (SBAR
+        (S
+          (NP (DT the) (NN race)
+            (CC and)
+            (NN johnson))
+          (VP (VBD finished)
+            (NP
+              (NP (JJ ninth))
+              (PP (IN in)
+                (NP
+                  (NP (DT a) (NN car))
+                  (SBAR
+                    (WHNP (WDT which))
+                    (S
+                      (VP (VBD was)
+                        (ADVP (RB clearly))
+                        (ADVP (RB not) (RB up)
+                          (PP (TO to)
+                            (S
+                              (VP (VBG winning)
+                                (NP (DT the) (NN race))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN as)
+      (NP (DT a) (NN result)))
+    (NP (PRP he))
+    (VP (VBD surrendered)
+      (SBAR
+        (S
+          (NP (DT the) (NNS points))
+          (VP (VBP lead)
+            (S
+              (VP (TO to)
+                (VP (VB hamlin))))))))
+    (. .)))
+

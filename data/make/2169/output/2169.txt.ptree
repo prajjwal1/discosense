@@ -1,0 +1,44 @@
+(ROOT
+  (S
+    (ADVP (RB now))
+    (, ,)
+    (VP (VBG having)
+      (NP (JJ infinite) (NN ammo))
+      (PP (IN in)
+        (NP (DT a) (NN horror) (NN game))))
+    (VP (VBZ is) (RB not)
+      (NP (DT a) (JJ good) (NN thing))
+      (ADVP (IN at) (DT all))
+      (SBAR (IN because)
+        (S
+          (NP (PRP it))
+          (VP (VBZ ruins)
+            (NP (DT the) (NN experience))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB however))
+    (NP
+      (NP (NN resident))
+      (ADJP (JJ evil)
+        (NP (CD 6))))
+    (VP (VBZ is)
+      (ADJP (RB so) (RB much) (JJR more))
+      (SBAR
+        (S
+          (NP
+            (NP (DT an) (NN action) (NN game))
+            (CONJP (RB rather) (IN than))
+            (NP
+              (NP (DT a) (NN horror) (NN game))
+              (, ,)
+              (ADVP (RB so))))
+          (VP (VBP feel)
+            (ADJP (JJ free)
+              (S
+                (VP (TO to)
+                  (VP (VB purchase)
+                    (NP (DT these) (NNS skills))))))))))
+    (. .)))
+

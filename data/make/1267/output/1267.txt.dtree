@@ -1,0 +1,13 @@
+root(ROOT-0, rewards-1)
+advmod(rewards-1, just-2)
+prepc_for(rewards-1, choosing-4)
+aux(shop-6, to-5)
+xcomp(choosing-4, shop-6)
+prep_with(shop-6, rameys-8)
+
+root(ROOT-0, in-1)
+amod(something-4, other-2)
+nn(something-4, words-3)
+pobj(in-1, something-4)
+prep_for(something-4, nothing-6)
+

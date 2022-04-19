@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (NP (EX there))
+    (VP (VBZ is)
+      (NP
+        (NP (DT no) (NN evidence))
+        (PP (IN of)
+          (NP
+            (NP (DT any))
+            (PP (IN of)
+              (NP
+                (NP (DT the) (NNS things) (NNS people) (NN claim))
+                (SBAR
+                  (S
+                    (VP (MD might)
+                      (VP (VB be)
+                        (VP (VBG causing)
+                          (NP (NN autism)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB though))
+    (NP
+      (NP (DT a) (NN lot))
+      (PP (IN of)
+        (NP (NNS people))))
+    (VP (VBP are)
+      (VP (VBG grasping)
+        (PP (IN at)
+          (NP (NNS straws)))
+        (, ,)
+        (PP (IN for)
+          (NP
+            (NP (DT some) (NN sort))
+            (PP (IN of)
+              (NP (NN answer)))))))
+    (. .)))
+

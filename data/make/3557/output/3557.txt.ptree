@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (NP (PRP it))
+    (VP (VBD was)
+      (NP
+        (NP (DT an) (JJ expensive) (NN luxury) (NN car))
+        (PP (IN with)
+          (NP
+            (ADJP (RB very) (JJ low))
+            (NN fuel) (NN economy))))
+      (PP (IN by)
+        (NP (NNP spanish) (NNS standards))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nonetheless))
+    (NP (PRP it))
+    (VP (VBD was)
+      (VP (VBN considered)
+        (NP
+          (NP (DT an) (JJ economic) (NN car))
+          (PP (IN for)
+            (NP (PRP$ its) (NN size))))
+        (PP (IN in)
+          (NP
+            (NP (DT those) (JJ few) (NNS markets))
+            (SBAR
+              (WHPP (TO to)
+                (WHNP (WDT which)))
+              (S
+                (NP (PRP it))
+                (VP (VBD was)
+                  (VP (VBN exported)))))))))
+    (. .)))
+

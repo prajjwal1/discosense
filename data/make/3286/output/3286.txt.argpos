@@ -1,0 +1,5 @@
+conn:likewise conn_POS:RB sent_pos:0 NA
+conn:as conn_POS:IN sent_pos:2 prev1:, prev1_POS:, with_prev1_full:,_as with_prev1_POS_full:,_IN prev2:likewise prev2_POS:RB with_prev2_full:likewise_as with_prev2_POS_full:RB_IN NA
+conn:and conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_and with_prev1_POS_full:,_CC prev2:emerge prev2_POS:VB with_prev2_full:emerge_and with_prev2_POS_full:VB_CC NA
+conn:or conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_or with_prev1_POS_full:,_CC prev2:questioned prev2_POS:VBN with_prev2_full:questioned_or with_prev2_POS_full:VBN_CC NA
+conn:therefore conn_POS:RB sent_pos:0 NA

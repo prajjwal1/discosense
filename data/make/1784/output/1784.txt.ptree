@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (NP
+      (NP (NN iran))
+      (, ,)
+      (NP
+        (NP (NN north) (NN korea))
+        (, ,)
+        (NP (NN syria))))
+    (VP (VBP are) (RB all)
+      (NP (JJ sovereign) (NNS states))
+      (SBAR (IN that)
+        (S
+          (NP (NN fact) (NN hasnt))
+          (VP
+            (VP (VBZ moderated)
+              (NP (PRP$ their) (NNS regimes)))
+            (CC or)
+            (VP (VBD turned)
+              (NP (PRP them))
+              (PP (IN into)
+                (NP (NNS peacemakers))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN on)
+      (NP (DT the) (NN contrary)))
+    (NP (PRP they))
+    (VP (VBP have)
+      (NP
+        (NP (JJ real) (JJ sovereign) (NN power))
+        (PP (IN with)
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (VP (TO to)
+                (VP (VB pursue)
+                  (NP (PRP$ their) (JJ terrible) (NNS agendas)))))))))
+    (. .)))
+

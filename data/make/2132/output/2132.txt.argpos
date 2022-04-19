@@ -1,0 +1,2 @@
+conn:also conn_POS:RB prev1:may prev1_POS:MD with_prev1_full:may_also with_prev1_POS_full:MD_RB prev2:gpas prev2_POS:NNS with_prev2_full:gpas_also with_prev2_POS_full:NNS_RB NA
+conn:before conn_POS:IN prev1:program prev1_POS:NN with_prev1_full:program_before with_prev1_POS_full:NN_IN prev2:mpm prev2_POS:NN with_prev2_full:mpm_before with_prev2_POS_full:NN_IN NA

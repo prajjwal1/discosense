@@ -1,0 +1,70 @@
+(ROOT
+  (S
+    (NP
+      (NP (NN perry))
+      (, ,)
+      (SBAR
+        (WHNP (WP who))
+        (S
+          (VP (VBD revealed)
+            (SBAR
+              (S
+                (NP (PRP she))
+                (VP (VBD wrote)
+                  (NP (DT the) (NN song))
+                  (ADVP (RB back))
+                  (PP (IN in)
+                    (NP (NN march)))))))))
+      (, ,))
+    (VP (VBZ is)
+      (VP (VBG following)
+        (PRT (RP up))
+        (NP
+          (NP (PRP$ her)
+            (ADJP (RB hugely) (JJ successful))
+            (NN album))
+          (, ,)
+          (NP (JJ teenage) (NN dream))
+          (, ,)
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (VP (VBD gave)
+                (NP
+                  (ADJP (JJ perry)
+                    (NP (CD five)))
+                  (NN number))
+                (NP
+                  (QP (CD one) (CD singles)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB yet))
+    (NP (PRP it))
+    (VP (VBZ seems)
+      (SBAR (RB as) (IN if)
+        (S
+          (NP (NN perry))
+          (VP (VBZ is)
+            (VP (VBG picking)
+              (ADVP
+                (ADVP (RB up) (RB right))
+                (SBAR
+                  (WHADVP (WRB where))
+                  (S
+                    (NP (PRP she))
+                    (VP (VBD left)
+                      (PRT (RP off))
+                      (PP (IN with)
+                        (NP (NN roar)))))))
+              (S
+                (VP (VBG giving)
+                  (NP (PRP her))
+                  (NP (DT the) (JJS biggest)
+                    (NP
+                      (NP (JJ digital) (NN song) (NNS sales))
+                      (PP (IN of)
+                        (NP (PRP$ her) (NN career))))))))))))
+    (. .)))
+

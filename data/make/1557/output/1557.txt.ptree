@@ -1,0 +1,60 @@
+(ROOT
+  (S
+    (SBAR (IN if)
+      (S
+        (PP (VBN compared)
+          (PP (IN with)
+            (NP
+              (NP (NN basile))
+              (, ,)
+              (NP (NN perrault))
+              (, ,)
+              (CC or)
+              (NP (PRP$ their) (JJ own) (NNS contemporaries)))))
+        (, ,)
+        (NP (FW i))
+        (VP (VBP think)
+          (NP (DT the) (NNS grimms)))))
+    (VP (VBP represent)
+      (NP
+        (NP (DT the) (NN beginning))
+        (PP (IN of)
+          (NP
+            (NP
+              (NP (JJ ethnographic) (NN folklore))
+              (NP (DT an)
+                (ADJP (JJ imperfect))
+                (NN beginning)))
+            (, ,)
+            (CC but)
+            (NP
+              (NP (CD one))
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (VP (VBZ is)
+                    (ADVP (RB still))
+                    (ADJP (JJ worthy)
+                      (PP (IN of)
+                        (NP (NN attention))))))))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (PP (IN in)
+      (NP (JJ short) (FW i)))
+    (VP (MD would)
+      (VP (VB stand)
+        (PP (IN by)
+          (NP (PRP$ my) (NN argument) (NN use)))))
+    (NP
+      (NP (DT the) (NNS grimms))
+      (, ,)
+      (SBAR (CC but)
+        (S
+          (VP (VBP use)
+            (NP (PRP them))
+            (PP (IN with)
+              (NP (NN caution)))))))
+    (. .)))
+

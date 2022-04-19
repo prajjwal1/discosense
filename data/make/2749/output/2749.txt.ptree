@@ -1,0 +1,48 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (NN enthusiasm))
+        (PP (IN for)
+          (NP (NN science))))
+      (VP (VBD was)
+        (ADJP (JJ high)
+          (PP (IN among)
+            (NP
+              (NP (NNS philosophers))
+              (SBAR
+                (WHADVP (WRB when))
+                (S
+                  (NP (JJ significant) (JJ scientific) (NNS results))
+                  (VP (VBD were)
+                    (ADVP (RB mostly))
+                    (NP (DT a) (NN promise))))))))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBD declined)
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (DT that) (NN promise))
+          (VP (VBD became)
+            (NP (DT an) (JJ undeniable) (NN reality))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP
+      (ADVP (RB nevertheless))
+      (IN as) (IN with)
+      (NP
+        (NP (DT the) (NN decline))
+        (PP (IN of)
+          (NP (DT any) (NN fashion)))))
+    (, ,)
+    (NP
+      (NP (RB even) (DT the) (NN revolt))
+      (PP (IN against)
+        (NP (JJ scientific) (NN rationality))))
+    (VP (VBZ has)
+      (NP (DT some) (JJ reasonable) (NNS grounds)))
+    (. .)))
+

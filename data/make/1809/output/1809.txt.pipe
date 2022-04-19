@@ -1,0 +1,3 @@
+Explicit|||0..2||if||0|if|||Contingency.Condition|||||||||||32..58|0|the password must be wrong||||||||3..30|0|the program returns failure|||||||||||||
+Explicit|||124..133||otherwise||1|otherwise|||Expansion.Alternative|||||||||||0..122|0|if the program returns failure, the password must be wrong, so qmail popup reports that and waits for a different password||||||||134..219|1|the program is presumed to have finished the pop 3 conversation, so qmail popup exits|||||||||||||
+Explicit|||60..62||so||0|so|||Contingency.Cause|||||||||||0..58|0|if the program returns failure, the password must be wrong||||||||63..122|0|qmail popup reports that and waits for a different password|||||||||||||

@@ -1,0 +1,51 @@
+(ROOT
+  (S
+    (NP (DT each))
+    (VP (VBZ has)
+      (NP (PRP$ its) (NNS strengths)
+        (CC and)
+        (NNS weaknesses))
+      (, ,)
+      (ADVP (RB just)
+        (PP (IN like)
+          (NP
+            (NP (DT the) (NNS editors))
+            (SBAR
+              (WHNP (WP who))
+              (S
+                (VP (VBD built)
+                  (NP (PRP them)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB because) (IN of)
+      (NP
+        (NP (DT this))
+        (SBAR (IN if)
+          (S
+            (NP (PRP you))
+            (VP (VBP delete)
+              (NP (DT a) (NN system)))))))
+    (, ,)
+    (NP (NN dont))
+    (VP (VB be)
+      (VP (VBN surprised)
+        (SBAR (IN if)
+          (S
+            (NP
+              (NP (DT the) (NNS editors))
+              (PP (IN of)
+                (NP (PRP it))))
+            (VP (VBP do) (RB not)
+              (VP (VB switch)
+                (PRT (RP over))
+                (PP (TO to)
+                  (S
+                    (VP (VBG developing)
+                      (NP
+                        (NP (CD one))
+                        (PP (IN of)
+                          (NP (DT the) (JJ other) (NNS systems)))))))))))))
+    (. .)))
+

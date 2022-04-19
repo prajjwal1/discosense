@@ -1,0 +1,51 @@
+(ROOT
+  (SINV (CC yet)
+    (ADVP (RB still))
+    (VP (VBD was))
+    (NP
+      (NP (DT that) (NN fear))
+      (PP (IN of)
+        (NP (PRP$ her) (NN naysay)))
+      (NP
+        (NP (VBG lurking))
+        (PP (IN in)
+          (NP
+            (NP (PRP$ his) (NN heart))
+            (, ,)
+            (SBAR (IN if)
+              (S
+                (NP (PRP he))
+                (VP
+                  (VP (MD should)
+                    (VP (VB kiss)
+                      (NP (PRP her))))
+                  (, ,)
+                  (CC or)
+                  (VP (VBZ caress)
+                    (NP (PRP her))))))))
+        (, ,)
+        (PP (IN as)
+          (NP
+            (NP (DT a) (NN man))
+            (PP (IN with)
+              (NP (DT a) (NN maid)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB therefore))
+    (NP (PRP he))
+    (VP (VBD forbore) (, ,)
+      (SBAR (IN though)
+        (S
+          (NP
+            (NP (NN desire))
+            (PP (IN of)
+              (NP (PRP her))))
+          (VP (VBD tormented)
+            (NP (PRP him))
+            (ADVP (RB grievously))
+            (PP (IN at)
+              (NP (NNS whiles)))))))
+    (. .)))
+

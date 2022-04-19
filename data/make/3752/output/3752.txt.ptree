@@ -1,0 +1,24 @@
+(ROOT
+  (S
+    (NP (JJ cooglers) (NN film))
+    (VP (VBZ does)
+      (NP (NN nothing))
+      (S
+        (VP (TO to)
+          (VP (VB break)
+            (NP (DT the) (NN mold))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB rather))
+    (NP (PRP it))
+    (VP (VBZ shows)
+      (SBAR (IN that)
+        (S
+          (NP (DT the) (NN mold))
+          (VP (VBZ exists)
+            (PP (IN for)
+              (NP (DT a) (NN reason)))))))
+    (. .)))
+

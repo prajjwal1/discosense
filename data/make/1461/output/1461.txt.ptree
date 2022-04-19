@@ -1,0 +1,64 @@
+(ROOT
+  (S
+    (NP
+      (NP (NN note))
+      (SBAR
+        (WHADVP (WRB how))
+        (S
+          (NP (DT the) (NN music))
+          (VP (VBZ is)
+            (ADJP (JJ evocative)
+              (PP (IN of)
+                (NP (DT the) (NNS originals)))
+              (PP (IN without)
+                (S
+                  (VP (VBG infringing)
+                    (PP (IN on)
+                      (NP (DT the) (NN copyright)))))))
+            (, ,)
+            (SBAR (IN though)
+              (S
+                (NP (FW i))
+                (VP (VBP doubt)
+                  (NP (NN anyone)))))))))
+    (VP (MD would)
+      (VP (VB be)
+        (ADJP (RB so) (JJ crass))
+        (SBAR (IN as)
+          (S
+            (VP (TO to)
+              (VP (VB sue)
+                (NP (JJ sesame) (NN street))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB interestingly))
+      (NP (DT this) (NN parody))
+      (VP (VBD featured)
+        (NP (DT a) (NN woman))
+        (PP (IN as)
+          (NP (DT the) (NN villain)))))
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBD got)
+        (NP (PRP me))
+        (PP (TO to)
+          (S
+            (VP (VBG wondering)
+              (SBAR (IN if)
+                (S
+                  (NP
+                    (NP (DT any))
+                    (PP (IN of)
+                      (NP
+                        (NP (DT the) (NNS villains))
+                        (PP (IN in)
+                          (NP (DT the) (NN bond) (NNS films))))))
+                  (VP (VBD had)
+                    (VP (VBN been)
+                      (NP (NNS women)))))))))))
+    (. .)))
+

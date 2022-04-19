@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (NP (PRP it))
+    (VP (VBP doesnt)
+      (VP (VB show)
+        (NP
+          (NP (JJ fancy) (NNS cars))
+          (, ,)
+          (CC or)
+          (NP
+            (NP (NNS lots))
+            (PP (IN of)
+              (NP (JJ pro) (NNS racers)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB instead))
+    (NP (RB just)
+      (NP (DT a) (JJ simple) (NN car))
+      (, ,)
+      (CC and)
+      (NP (DT the)))
+    (VP (VBP love)
+      (NP (PRP$ his) (NN owner) (NNS shares))
+      (PP (IN with)
+        (NP (PRP it))))
+    (. .)))
+

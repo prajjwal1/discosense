@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (NP (JJ positive) (NN engagement) (NNS activities))
+    (VP (VBP support)
+      (SBAR
+        (S
+          (NP
+            (NP (JJ childrens) (NN adaptive) (NN development))
+            (CC and)
+            (NP (JJ new) (NNS parents)))
+          (VP (VBP are)
+            (VP (VBN encouraged)
+              (S
+                (VP (TO to)
+                  (VP (VB be)
+                    (ADJP (RB highly) (VBN engaged)
+                      (PP (IN with)
+                        (NP (NNS infants))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB yet))
+      (NP (NNS fathers) (NN engagement))
+      (VP (VBZ is)
+        (ADJP (RB widely) (JJ understudied))))
+    (CC and)
+    (S
+      (NP (JJ maternal) (NN engagement) (NN quantity))
+      (VP (VBZ is)
+        (ADVP (RB frequently))
+        (VP (VBN overlooked))))
+    (. .)))
+

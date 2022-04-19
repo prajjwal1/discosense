@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (S
+      (NP (NNS words))
+      (VP (VBN taken)
+        (PRT (RP down))
+        (PP (IN during)
+          (NP
+            (NP (DT the) (NN course))
+            (PP (IN of)
+              (NP (NN debate)))))))
+    (, ,)
+    (NP (NN exception))
+    (VP (VBD was)
+      (VP (VBN taken)
+        (PP (TO to)
+          (NP
+            (NP (JJ certain) (NNS words))
+            (VP (VBN used)
+              (PP (IN in)
+                (NP (NN debate))))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (S
+      (S
+        (ADVP (RB subsequently))
+        (NP (JJ unanimous) (NN consent))
+        (VP (VBD was)
+          (VP (VBN granted)
+            (S
+              (VP (TO to)
+                (VP (VB withdraw)
+                  (NP (DT the) (NNS words))))))))
+      (CC and)
+      (S
+        (NP (DT the) (NN house))
+        (VP (VBD resumed)
+          (NP (NN debate))
+          (PP (IN on)
+            (NP (NN h.) (NN r.))))))))
+

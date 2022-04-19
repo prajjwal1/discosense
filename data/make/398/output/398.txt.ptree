@@ -1,0 +1,45 @@
+(ROOT
+  (S
+    (NP (FW i))
+    (ADVP (RB once))
+    (VP (VBD used)
+      (SBAR
+        (S
+          (NP
+            (NP (NN facebook))
+            (CC and)
+            (NP (FW i)))
+          (ADVP (RB always))
+          (VP (VBD got)
+            (ADJP (JJ sad))
+            (SBAR
+              (WHADVP (WRB when))
+              (S
+                (NP (FW i))
+                (VP (VBD saw)
+                  (NP (JJ other) (NNS people))
+                  (PP (IN with)
+                    (NP (JJ social) (NNS lives))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB yet))
+    (NP (PRP it))
+    (VP (VBD took)
+      (NP (PRP me))
+      (NP (DT a) (NN year))
+      (S
+        (VP (TO to)
+          (VP (VB deactivate)
+            (SBAR (IN because)
+              (S
+                (NP (FW i))
+                (VP (VBD felt)
+                  (VP (VBN compelled)
+                    (S
+                      (VP (TO to)
+                        (VP (VB login)
+                          (NP (NN everyday)))))))))))))
+    (. .)))
+

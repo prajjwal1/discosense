@@ -1,0 +1,44 @@
+(ROOT
+  (S
+    (NP (DT this) (NN underfunding))
+    (VP (VBP wont)
+      (VP (VB be)
+        (VP (VBN felt)
+          (PP (IN in)
+            (NP
+              (NP (DT a) (JJ big) (NN bang))
+              (CONJP (CC but)
+                (RB as))
+              (NP
+                (NP (DT a) (JJ continuous) (NN burden))
+                (PP (IN for)
+                  (NP (NNS years))))))
+          (S
+            (VP (TO to)
+              (VP (VB come)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (ADVP (RB nonetheless))
+      (IN because)
+      (S
+        (NP (NNS governments))
+        (VP (VBP are)
+          (VP (VBN required)
+            (S
+              (VP (TO to)
+                (VP (VB make)
+                  (VP (VB catch)
+                    (PRT (RP up))
+                    (NP (NNS payments))
+                    (PP (TO to)
+                      (NP (DT those) (NNS funds)))))))))))
+    (, ,)
+    (NP (DT the) (NN pension) (NN problem))
+    (VP (VBZ is)
+      (NP (VBG worsening)
+        (NP (DT the) (JJ current) (NN budget) (NN squeeze))))
+    (. .)))
+

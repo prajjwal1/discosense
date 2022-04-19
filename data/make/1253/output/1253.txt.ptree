@@ -1,0 +1,38 @@
+(ROOT
+  (S
+    (NP (DT every) (NNS mercedes) (NN benz))
+    (VP (VBZ has)
+      (NP
+        (NP (DT a) (JJ unique) (NN sound))
+        (PP (VBN based)
+          (PP (IN on)
+            (NP
+              (NP (DT the) (NN set)
+                (PRT (RP up)))
+              (PP (IN of)
+                (NP
+                  (NP (PRP$ its) (NN engine))
+                  (, ,)
+                  (NP (NN transmission))
+                  (CC and)
+                  (NP (JJ exhaust) (NN system)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (JJ particular) (NNS exhaust)))
+    (NP (NNS notes))
+    (VP (VBP are)
+      (ADJP (VBN tuned)
+        (S
+          (VP (TO to)
+            (VP (VB give)
+              (NP
+                (NP (NN model) (NNS families))
+                (CC and)
+                (RB even)
+                (NP (JJ specific) (NNS vehicles)))
+              (NP (PRP$ their) (JJ own) (JJ individual) (NN character)))))))
+    (. .)))
+

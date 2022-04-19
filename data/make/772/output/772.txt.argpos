@@ -1,0 +1,2 @@
+conn:as_long_as conn_POS:RB_RB_IN prev1:moisturizers prev1_POS:NNS with_prev1_full:moisturizers_as_long_as with_prev1_POS_full:NNS_RB_RB_IN prev2:or prev2_POS:CC with_prev2_full:or_as_long_as with_prev2_POS_full:CC_RB_RB_IN NA
+conn:otherwise conn_POS:RB sent_pos:0 NA

@@ -1,0 +1,45 @@
+(ROOT
+  (S
+    (SBAR (IN if)
+      (S
+        (VP (VBZ theres)
+          (NP (DT any) (NN way)
+            (S
+              (VP (TO to)
+                (VP (VB share)
+                  (NP (PRP$ my) (NNS thoughts))
+                  (PP (IN with)
+                    (NP
+                      (NP (DT those))
+                      (SBAR
+                        (WHNP (WP who))
+                        (S
+                          (ADVP (RB actually))
+                          (VP (VBP think)
+                            (PP (IN about)
+                              (NP (DT the) (NNS things)))
+                            (PP (IN behind)
+                              (S
+                                (VP (VBG betting))))))))))))))))
+    (, ,)
+    (NP (FW i))
+    (VP (MD will)
+      (ADVP (RB gladly))
+      (VP (VB stay)
+        (PP (IN in)
+          (NP (NN contact)))
+        (PP (IN with)
+          (NP (PRP you)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (ADJP (RB otherwise) (JJ good))
+        (NN luck))
+      (PP (IN with)
+        (NP (PRP$ your) (NN search) (IN for))))
+    (VP (VBZ answers))
+    (. .)))
+

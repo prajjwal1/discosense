@@ -1,0 +1,15 @@
+nsubj(took-2, hasbro-1)
+root(ROOT-0, took-2)
+dobj(took-2, issue-3)
+prep_with(took-2, it-5)
+nn(infringement-9, copyright-8)
+prep_due_to(took-2, infringement-9)
+
+advmod(changed-4, subsequently-1)
+det(developers-3, the-2)
+nsubj(changed-4, developers-3)
+root(ROOT-0, changed-4)
+det(name-6, the-5)
+dobj(changed-4, name-6)
+prep_to(changed-4, lexulous-8)
+

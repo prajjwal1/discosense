@@ -1,0 +1,33 @@
+(ROOT
+  (FRAG (RB even)
+    (PP (IN on)
+      (NP
+        (NP (JJ major) (JJ commercial) (NN distribution) (NNS channels))
+        (PP (IN in)
+          (NP (JJ primary) (NNS markets)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB consequently))
+      (NP (PRP they))
+      (VP (VBP are)
+        (ADVP (RB also))
+        (ADJP (VBN entitled)
+          (PP (TO to)
+            (NP
+              (NP (DT a) (JJR larger) (NN percentage))
+              (PP (IN of)
+                (NP
+                  (NP (NN income) (NNS streams))
+                  (VP (VBN generated)
+                    (PP (IN by)
+                      (NP (NN content)))))))))))
+    (NP (PRP they))
+    (VP (VBP have)
+      (VP (VBN helped)
+        (S
+          (VP (VB create)))))
+    (. .)))
+

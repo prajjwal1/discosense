@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (ADVP (RB however))
+    (, ,)
+    (NP (PRP$ my) (NN argument))
+    (VP (VBZ is)
+      (ADJP (RB entirely) (RB non) (JJ emotional)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (PP (IN on)
+        (NP (DT the) (NN contrary)))
+      (NP (PRP it))
+      (VP (VBZ lies)
+        (ADVP (RB entirely))
+        (PP (IN within)
+          (NP
+            (NP (DT the) (NN realm))
+            (PP (IN of)
+              (NP
+                (NP (NN reason))
+                (VP (VBN faced)
+                  (PP (IN with)
+                    (NP
+                      (NP (DT a) (NN choice))
+                      (PP (IN between)
+                        (NP (NN pain)
+                          (CC and)
+                          (NN oblivion))))))))))))
+    (, ,) (RB then)
+    (S
+      (NP (DT the) (JJ rational) (NN thing)
+        (S
+          (VP (TO to)
+            (VP (VB do)))))
+      (VP (VBZ is)
+        (VP (VB choose)
+          (NP (NN oblivion)))))
+    (. .)))
+

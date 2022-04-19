@@ -1,0 +1,1 @@
+im fairly certain that im not the first person to want to render code depending on a date time. however if there are no ready made solutions, do you have any clues as to how to architect a mechanism to allowcontent ownersto maintain these partials without programmer involvement.

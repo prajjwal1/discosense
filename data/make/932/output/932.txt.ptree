@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (NP (DT this) (NN error) (NN code))
+    (VP (VBZ means)
+      (SBAR (IN that) (, ,)
+        (S
+          (S
+            (PP (IN in)
+              (NP (DT some) (NNS cases) (NNS applications)))
+            (, ,)
+            (NP (DT a) (NN check))
+            (VP (MD will)
+              (VP (VB be)
+                (VP (VBN made)
+                  (PP (IN for)
+                    (NP (DT that) (JJ specific) (NN error) (NN code)))))))
+          (CC and)
+          (S
+            (NP (DT the) (JJ same) (NN operation))
+            (VP (VBD attempted)
+              (ADVP (RB again) (RB transparently))
+              (PP (TO to)
+                (NP (DT the) (NN user))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nevertheless))
+    (NP (RB not) (DT all) (NNS operations))
+    (VP (MD can)
+      (VP (VB be)
+        (VP (NN redone))))
+    (. .)))
+

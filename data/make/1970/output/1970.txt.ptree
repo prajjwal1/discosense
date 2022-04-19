@@ -1,0 +1,47 @@
+(ROOT
+  (S
+    (SBAR (IN if)
+      (S
+        (NP
+          (NP (DT the) (NN size))
+          (PP (IN of)
+            (NP (DT the) (JJ current) (NN frame))))
+        (VP (VBZ is) (RB not)
+          (ADJP
+            (ADJP (JJR smaller))
+            (PP (IN than)
+              (NP (DT the) (NN target) (NN size)))))))
+    (, ,)
+    (NP
+      (NP (NN processing))
+      (PP (IN of)
+        (NP
+          (NP (DT the) (JJ current) (NN p) (NN frame))
+          (PP (IN by)
+            (NP (JJ primary) (JJ open) (NN loop) (NN rate) (NN control) (NNP 202))))))
+    (VP (VBZ is)
+      (ADJP (JJ complete)))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (ADVP (RB thus))
+      (IN if)
+      (S
+        (NP
+          (NP (DT the) (NN size))
+          (PP (IN of)
+            (NP (DT the) (JJ current) (NN p) (NN frame))))
+        (VP (VBZ is)
+          (ADJP (JJ equal)
+            (PP (TO to)
+              (NP (DT the) (NN target) (NN size)))))))
+    (, ,)
+    (NP (CD 114))
+    (VP (VBZ is) (RB not)
+      (VP (VBN adjusted)
+        (PP (IN by)
+          (NP (JJ primary) (JJ open) (NN loop) (NN rate) (NN control) (NNP 202)))))
+    (. .)))
+

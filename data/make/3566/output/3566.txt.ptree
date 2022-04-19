@@ -1,0 +1,35 @@
+(ROOT
+  (NP
+    (NP (DT this) (NN action) (NNS arms))
+    (NP (DT the) (JJ anti) (NN handling) (NN device))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thereafter))
+    (NP (DT any) (NN attempt)
+      (S
+        (VP (TO to)
+          (VP (VB disarm)
+            (NP (DT the) (NN mine))
+            (PP (IN by)
+              (S
+                (VP (VBG unscrewing)
+                  (NP (DT the) (NN pressure) (NN plate))
+                  (S
+                    (VP (TO to)
+                      (VP (VB remove)
+                        (NP (DT the) (NN fuze))))))))))))
+    (VP (MD will)
+      (ADVP (RB automatically))
+      (VP (VB release)
+        (NP (DT the) (NN spring))
+        (NP
+          (NP (JJ loaded) (NN firing) (NN pin))
+          (PP (IN inside)
+            (NP (PRP it)))
+          (, ,)
+          (VP (VBG triggering)
+            (NP (NN detonation))))))
+    (. .)))
+

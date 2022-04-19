@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT another) (JJ possible) (NN alternative))
+      (PP (TO to)
+        (NP (DT the) (JJ above))))
+    (VP (VBD described)
+      (SBAR
+        (S
+          (NP
+            (NP (NN method)
+              (CC and)
+              (NN apparatus))
+            (VP (VBG using)
+              (NP (JJ digital) (NN image) (NNS data))))
+          (VP (VBZ is)
+            (S
+              (VP (TO to)
+                (VP (VB utilize)
+                  (NP (JJ analog) (NN video) (NNS images)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP (NN example)))
+    (NP
+      (NP (NN baseline) (NN imagery))
+      (PP (IN of)
+        (NP (DT a) (NNS persons) (NN skin))))
+    (VP (MD could)
+      (VP (VB be)
+        (VP (VBN recorded)
+          (PP (IN on)
+            (NP (NN videotape))))))
+    (. .)))
+

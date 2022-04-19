@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (S
+      (NP (NN problem))
+      (VP (VBZ is)
+        (SBAR (IN that)
+          (S
+            (NP (FW i))
+            (VP (VBP have) (RB not)
+              (VP (VBN been)
+                (ADJP (JJ able)
+                  (S
+                    (VP (TO to)
+                      (VP (VB find)
+                        (NP
+                          (NP (DT a) (JJ proper) (NN driver))
+                          (PP (IN for)
+                            (NP (JJ video) (NN card))))))))))))))
+    (CC and)
+    (S
+      (PP (IN without)
+        (NP (JJ native) (NN resolution)))
+      (NP (NN screen) (NNS looks))
+      (VP (VBD blurred)))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB because) (IN of)
+      (NP (DT that)))
+    (NP (FW i))
+    (VP (VBP have) (RB not)
+      (VP (VBN been)
+        (ADJP (JJ able)
+          (S
+            (VP (TO to)
+              (VP (VB use)
+                (ADVP (RB puppy))))))))
+    (. .)))
+

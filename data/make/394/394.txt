@@ -1,0 +1,1 @@
+if interleaving is specified, split the first string in the argument list into individual format lines and add a terminating newline. otherwise treat the entire string as a single line.

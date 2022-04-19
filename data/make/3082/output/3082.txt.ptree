@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (ADVP (RB however))
+    (, ,)
+    (VP (RB not) (VBG providing)
+      (NP (NN maintenance))
+      (PP (TO to)
+        (NP
+          (NP (NN device))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBZ needs)
+                (NP (PRP it))))))))
+    (VP (MD can)
+      (ADVP (RB also))
+      (VP (VB be)
+        (ADJP (JJ costly))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP (NN instance)))
+    (NP
+      (NP (DT a) (NN gaming) (NN platform))
+      (PP (IN with)
+        (NP
+          (NP (DT a) (JJ faulty) (NN bill) (NN acceptor))
+          (PP (IN with)
+            (NP (DT a) (JJ high) (NN rejection) (NN rate))))))
+    (VP (MD can)
+      (VP (VB lead)
+        (PP (TO to)
+          (NP (VBN lost) (NNS revenues)))))
+    (. .)))
+

@@ -1,0 +1,2 @@
+conn:consequently conn_POS:RB sent_pos:0 NA
+conn:however conn_POS:RB prev1:operatively prev1_POS:RB with_prev1_full:operatively_however with_prev1_POS_full:RB_RB prev2:post prev2_POS:NN with_prev2_full:post_however with_prev2_POS_full:NN_RB NA

@@ -1,0 +1,53 @@
+(ROOT
+  (S
+    (ADVP (RB yet))
+    (NP (DT the) (JJ operative) (NN standard))
+    (VP (VBZ is) (RB not)
+      (SBAR
+        (SBAR (IN whether)
+          (S
+            (NP (NN ortega))
+            (VP (VBZ has)
+              (VP (VBN put)
+                (PRT (RP forth))
+                (NP (DT a) (JJ plausible) (NN narrative))))))
+        (, ,)
+        (CC or)
+        (SBAR (IN whether)
+          (S
+            (NP (PRP we))
+            (VP (VBP are)
+              (ADVP (RBR more))
+              (VP (VBN persuaded)
+                (PP (IN by)
+                  (NP
+                    (NP (JJ ortegas) (NN account))
+                    (PP (IN of)
+                      (NP (DT the) (NNS facts)))))
+                (PP (IN than)
+                  (PP (IN by)
+                    (NP (JJ appellees) (NN version))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB rather))
+    (NP (PRP we))
+    (VP (VBP ask)
+      (SBAR (IN whether)
+        (S
+          (NP (DT the) (NN plan) (NN administrator))
+          (VP (VBD had)
+            (NP
+              (NP (NN evidence))
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (VP (VBZ is)
+                    (ADJP (RB reasonably) (JJ sufficient))
+                    (S
+                      (VP (TO to)
+                        (VP (VB support)
+                          (NP (PRP$ its) (NN determination)))))))))))))
+    (. .)))
+

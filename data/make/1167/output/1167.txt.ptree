@@ -1,0 +1,48 @@
+(ROOT
+  (S
+    (PP (IN as)
+      (NP
+        (NP (DT a) (NN faculty) (NN member))
+        (PP (IN at)
+          (NP (JJ oregon) (NN state) (NN university)))))
+    (, ,)
+    (NP (PRP he))
+    (VP (VBD taught)
+      (NP
+        (NP (DT both) (NN graduate))
+        (CC and)
+        (NP (JJ undergraduate) (NNS students)))
+      (PP (IN while)
+        (S
+          (VP (VBG conducting)
+            (NP (NN research))
+            (PP (IN on)
+              (NP
+                (NP (JJ international) (NN agriculture))
+                (CC and)
+                (NP (JJ rural) (NN development))))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADVP (RB subsequently))
+    (NP
+      (NP (DT the) (JJ ford) (NN foundation))
+      (VP (VBN employed)
+        (NP (PRP him))
+        (PP (IN as)
+          (NP (DT a) (NN project) (NN specialist)))
+        (PP (IN with)
+          (NP (NNS responsibilities)))
+        (PP (IN for)
+          (S
+            (VP (VBG directing)
+              (NP (NN research))
+              (PP (IN on)
+                (NP (JJ agricultural) (NN policy)
+                  (CC and)
+                  (NN production)))
+              (PP (IN in)
+                (NP (NN egypt))))))))
+    (. .)))
+

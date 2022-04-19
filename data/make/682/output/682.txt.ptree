@@ -1,0 +1,53 @@
+(ROOT
+  (S
+    (NP (NN correction) (NNS officers))
+    (VP (VBP know)
+      (SBAR
+        (SBAR
+          (WHADVP (WRB where))
+          (S
+            (NP (DT these) (NNS areas))
+            (VP (VBP are))))
+        (CC and)
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBZ is)
+              (SBAR
+                (WHADVP (WRB where))
+                (S
+                  (NP (NN abuse))
+                  (ADVP (RB often))
+                  (VP (VBZ takes)
+                    (NP (NN place))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP (NN instance)))
+    (NP
+      (NP (DT the) (NN assault))
+      (PP (IN of)
+        (NP (JJ andre) (NN lane)))
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (VP (VBD was)
+            (ADVP (RB recently))
+            (VP (VBN reported)
+              (PP (IN in)
+                (NP (DT the) (JJ new) (NN york) (NNS times)))))))
+      (, ,))
+    (VP (VBD occurred)
+      (PP (IN in)
+        (NP (DT the) (JJ mental) (NN health) (NN clinic)))
+      (SBAR
+        (WHADVP (WRB where))
+        (S
+          (NP (EX there))
+          (VP (VBP are)
+            (NP (DT no) (NNS cameras))))))
+    (. .)))
+

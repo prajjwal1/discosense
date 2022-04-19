@@ -1,0 +1,47 @@
+(ROOT
+  (S
+    (PP (TO to)
+      (NP (PRP them)))
+    (, ,)
+    (NP (CD 8) (NNS dollars))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (NN lot))
+        (PP (IN of)
+          (NP (NN money)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB because) (IN of)
+      (NP (DT this)))
+    (NP (PRP they))
+    (ADVP (RB also))
+    (VP (VBP tend)
+      (S
+        (VP (TO to)
+          (VP (VB overwork)
+            (NP
+              (NP (PRP themselves))
+              (, ,)
+              (SBAR
+                (WHNP (WDT which))
+                (S
+                  (PP (IN in)
+                    (NP (PRP$ my) (NN opinion)))
+                  (VP (VBZ leads)
+                    (PP (TO to)
+                      (NP
+                        (NP (DT a) (NN lack))
+                        (PP (IN of)
+                          (NP (NN pride)))))
+                    (PP (IN in)
+                      (NP
+                        (NP (NN workmanship))
+                        (, ,)
+                        (NP
+                          (NP (NN quantity))
+                          (PP (IN over)
+                            (NP (NN quality))))))))))))))
+    (. .)))
+

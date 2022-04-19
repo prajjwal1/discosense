@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (S
+      (NP (DT the) (NNS glasses))
+      (ADJP (JJ subject)
+        (PP (TO to)
+          (NP
+            (NP (NN corrosion))
+            (VP (VBN become)
+              (S
+                (ADJP (JJ opaque))))))))
+    (CC and)
+    (S
+      (NP (DT that))
+      (VP (VBZ does) (RB not)
+        (VP (VB allow)
+          (NP (DT the) (NN printing) (NN recording)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN on)
+      (NP
+        (NP (DT the) (JJ other) (NN hand))
+        (ADVP (RB sometimes))))
+    (NP (EX there))
+    (VP (VBZ is)
+      (NP
+        (NP (DT no) (NN printing))
+        (VP (VBN left)
+          (SBAR (IN if)
+            (S
+              (NP
+                (NP (DT the) (JJ original) (NN heating) (NN process))
+                (PP (IN on)
+                  (NP (DT the) (NN furnace))))
+              (VP (VBD was)
+                (ADJP (JJ incorrect))))))))
+    (. .)))
+

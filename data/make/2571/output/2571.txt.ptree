@@ -1,0 +1,51 @@
+(ROOT
+  (S
+    (S
+      (ADJP (RB even) (RBR more) (JJ important)))
+    (, ,)
+    (NP (DT this) (NN paper))
+    (VP (VBZ explains)
+      (SBAR
+        (WHADVP (WRB how))
+        (S
+          (NP
+            (NP (DT these) (NNS investments))
+            (PP (IN in)
+              (NP (JJ private) (JJ ordering) (NNS mechanisms))))
+          (VP (VBP reflect)
+            (NP
+              (NP (JJ fundamental) (NN copyright) (NN policy))
+              (, ,)
+              (ADVP (RB as)
+                (NP (JJ copyright) (NNS secures))
+                (PP (TO to)
+                  (NP (DT both) (NNS authors)
+                    (CC and)
+                    (NNS publishers))))
+              (NP
+                (NP (DT the) (NNS fruits))
+                (PP (IN of)
+                  (NP (PRP$ their) (JJ productive) (NNS labors)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN sum)))
+    (NP (NN copyright))
+    (VP (VBZ spurs)
+      (S
+        (NP (DT both) (NNS authors))
+        (VP (TO to)
+          (VP (VB invest)
+            (PP (IN in)
+              (NP (JJ new) (NNS works)
+                (CC and)
+                (NNS publishers)))
+            (S
+              (VP (TO to)
+                (VP (VB invest)
+                  (PP (IN in)
+                    (NP (JJ innovative) (, ,) (JJ private) (JJ ordering) (NNS mechanisms))))))))))
+    (. .)))
+

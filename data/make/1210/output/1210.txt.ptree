@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (PP (IN over)
+      (NP (DT the) (JJ long) (NN term)))
+    (NP (DT the) (JJR higher) (NN productivity))
+    (VP (VBZ is)
+      (VP (VBN translated)
+        (PP (IN into)
+          (NP
+            (NP (JJR higher) (NNS wages))
+            (CC and)
+            (NP (NN wealth))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN contrast)))
+    (NP
+      (NP (DT the) (NNS arguments))
+      (SBAR
+        (WHNP (WDT that))
+        (S
+          (VP (VBP oppose)
+            (NP (NN trade))))))
+    (VP (VBP are)
+      (ADJP (JJ nationalistic)
+        (CC and)
+        (JJ emotional)))
+    (. .)))
+

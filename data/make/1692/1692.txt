@@ -1,0 +1,1 @@
+if the scores in our group of data are spread out, the variance will be a large number. conversely if the scores are spread closely around the mean, the variance will be a smaller number.

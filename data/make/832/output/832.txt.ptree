@@ -1,0 +1,50 @@
+(ROOT
+  (S
+    (NP (FW i))
+    (VP (VBP see)
+      (S
+        (NP
+          (NP (DT no) (JJ positive) (NN value))
+          (CC or)
+          (NP (JJ logical) (NN reason)))
+        (VP (TO to)
+          (VP (VB give)
+            (NP (NN credence))
+            (PP (TO to)
+              (NP
+                (NP (DT a) (NN position))
+                (SBAR
+                  (S
+                    (NP (FW i))
+                    (VP (VBP find)
+                      (PP (IN without)
+                        (NP (NN evidence)
+                          (CC or)
+                          (NN substance))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN on)
+      (NP (DT the) (NN contrary)))
+    (NP (FW i))
+    (VP (VBP find)
+      (NP (JJ negative) (NN value))
+      (PP (IN in)
+        (NP (PDT such) (DT a) (NN proposition)))
+      (, ,)
+      (SBAR (IN because)
+        (S
+          (NP (EX there))
+          (VP (VBP are)
+            (ADVP (RB always))
+            (NP
+              (NP (JJ infinite) (JJ possible) (NNS positions))
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (VP (MD can) (RB not)
+                    (VP (VB be)
+                      (VP (VBN disproven)))))))))))
+    (. .)))
+

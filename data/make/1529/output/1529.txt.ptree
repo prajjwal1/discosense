@@ -1,0 +1,61 @@
+(ROOT
+  (S
+    (S
+      (NP (FW i))
+      (VP (VBP work)
+        (PP (IN on)
+          (NP (NN checkpoint)))))
+    (, ,) (IN so)
+    (S
+      (NP (JJS most) (NNS times) (NNS passengers))
+      (VP (MD will)
+        (VP (VB want)
+          (S
+            (VP (TO to)
+              (VP
+                (ADVP (RB re))
+                (VB pack)
+                (NP
+                  (NP (DT the) (NN bag))
+                  (ADVP (PRP themselves))
+                  (SBAR
+                    (WHNP (WDT which))
+                    (S
+                      (VP (VBZ is)
+                        (ADJP (JJ fine)
+                          (PP (IN with)
+                            (NP (PRP me))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB however))
+      (NP (NN ive))
+      (VP (VBD had)
+        (S
+          (NP (DT a) (JJ few) (NNS passengers))
+          (VP (VB tell)
+            (NP (PRP me))))
+        (SBAR (IN that)
+          (S
+            (NP (PRP they))
+            (VP (MD would)
+              (VP (VB like)
+                (S
+                  (NP (PRP me))
+                  (VP (TO to)
+                    (VP
+                      (ADVP (RB re))
+                      (VB pack)
+                      (NP (DT the) (NN bag)))))))))))
+    (, ,)
+    (ADVP (RB again))
+    (S
+      (NP (DT this))
+      (VP (VBZ is)
+        (ADJP (JJ fine)
+          (PP (IN with)
+            (NP (PRP me))))))
+    (. .)))
+

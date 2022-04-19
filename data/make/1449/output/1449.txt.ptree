@@ -1,0 +1,38 @@
+(ROOT
+  (S
+    (NP (FW i))
+    (VP (VBD found)
+      (NP (PRP$ your) (NNS dvds))
+      (S
+        (VP (TO to)
+          (VP (VB be)
+            (ADJP (JJ informative)
+              (CC and)
+              (JJ full))
+            (PP (IN of)
+              (NP (JJ photographic) (NNS insights)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (ADJP (RB particularly) (JJ certain))
+        (NNS aspects))
+      (PP (IN of)
+        (S
+          (VP (VBG photographing)
+            (CC and)
+            (VBG visiting)
+            (NP (NN death) (NN valley))))))
+    (VP (VBP are)
+      (ADJP (JJ clear)
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBD were)
+              (ADVP
+                (NP (DT a) (NN mystery))
+                (IN before)))))))
+    (. .)))
+

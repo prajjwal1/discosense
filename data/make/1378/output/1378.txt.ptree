@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (NP (FW en))
+    (VP (VBZ has)
+      (VP (VBN submitted)
+        (SBAR
+          (SBAR (IN that)
+            (S
+              (NP (NNS shipyards))
+              (VP (VBP are)
+                (NP (DT a) (JJ complex) (NN undertaking)))))
+          (CC and)
+          (SBAR (IN that)
+            (S
+              (NP (JJ civil) (NN activity))
+              (VP (VBZ is)
+                (ADJP (JJ necessary)
+                  (PP (IN for)
+                    (NP
+                      (NP (DT the) (NN viability))
+                      (PP (IN of)
+                        (NP (DT the) (JJ main) (, ,) (JJ military) (NN activity))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB consequently))
+    (NP
+      (NP (DT a) (JJ total) (NN stoppage))
+      (PP (IN of)
+        (NP
+          (NP (DT the) (JJ civil) (NN activity))
+          (PP (IN of)
+            (NP (DT the) (NNS shipyards))))))
+    (VP (MD would)
+      (VP (VB endanger)
+        (NP
+          (NP (DT the) (NN continuation))
+          (PP (IN of)
+            (NP (JJ military) (NN production))))))
+    (. .)))
+

@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (S
+      (SBAR (IN if)
+        (S
+          (NP (DT the) (NN program))
+          (VP (VBZ returns)
+            (NP (NN failure)))))
+      (, ,)
+      (NP (DT the) (NN password))
+      (VP (MD must)
+        (VP (VB be)
+          (ADJP (JJ wrong)))))
+    (, ,) (IN so)
+    (S
+      (NP (JJ qmail) (NN popup))
+      (VP
+        (VP (VBZ reports)
+          (NP (DT that)))
+        (CC and)
+        (VP (VBZ waits)
+          (PP (IN for)
+            (NP (DT a) (JJ different) (NN password))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB otherwise))
+    (NP (DT the) (NN program))
+    (VP (VBZ is)
+      (VP (VBN presumed)
+        (S
+          (VP (TO to)
+            (VP (VB have)
+              (VP (VBN finished)
+                (NP
+                  (NP (DT the)
+                    (ADJP (JJ pop)
+                      (NP (CD 3)))
+                    (NN conversation))
+                  (, ,)
+                  (NP
+                    (ADJP (RB so) (JJ qmail))
+                    (NN popup) (NNS exits)))))))))
+    (. .)))
+

@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (RB maybe) (DT a) (NN tad) (NN squishy))
+        (PP (IN in)
+          (NP
+            (NP (DT the) (NNS corners))
+            (PP (IN after)
+              (NP (FW i))))))
+      (VP (VBD removed)
+        (NP (DT the) (NN swaybar))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (FW i))
+      (VP (VBP like)
+        (NP (PRP it))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN although)
+      (S
+        (NP (FW i))
+        (VP (VBP dont))))
+    (VP (VBP have)
+      (NP
+        (NP
+          (QP (RB nearly) (RB as) (JJ much))
+          (NN weight))
+        (ADVP (RB up) (RB front))))
+    (. .)))
+

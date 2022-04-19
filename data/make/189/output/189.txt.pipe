@@ -1,0 +1,1 @@
+Explicit|||77..91||in other words||1|in other words|||Expansion.Restatement|||||||||||0..75|0|the most important feature is that the warnings pragma has a lexical effect||||||||92..242|1|rather than enabling warnings for the entire program unilaterally, some files and blocks can request stricter or looser warning categories than others|||||||||||||

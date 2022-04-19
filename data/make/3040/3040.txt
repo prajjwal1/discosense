@@ -1,0 +1,1 @@
+if these coordinates are the same, the tagged component is considered to be installed and the model is updated to reflect this. conversely if the coordinates are different, the tagged component is considered uninstalled and the model is updated to that effect.

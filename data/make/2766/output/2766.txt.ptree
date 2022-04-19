@@ -1,0 +1,49 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP us))
+      (VP (VB patent)
+        (NP
+          (NP (NNS expirations))
+          (PP (IN of)
+            (NP
+              (NP (NN cymbalta))
+              (PP (IN in)
+                (NP (NN december) (CD 2013))))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (JJ evista) (DT this) (JJ coming) (NN march))
+      (VP (VBP are)
+        (VP (VBG going)
+          (S
+            (VP (TO to)
+              (VP (VB leave)
+                (NP (NNS bruises))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (PP (IN as)
+        (NP (DT a) (NN result)))
+      (NP (DT the) (NN company))
+      (VP (VBZ is)
+        (VP (VBG expecting)
+          (NP (NN revenue))
+          (PP (IN for)
+            (NP (CD 2014)))
+          (S
+            (VP (TO to)
+              (VP (VB fall)
+                (NP
+                  (QP (IN between) (CD 19.2)
+                    (CC and)
+                    (CD 19.8) (CD billion)))))))))
+    (, ,)
+    (NP (DT a) (NN level))
+    (VP (RB not) (VBN seen)
+      (PP (IN in)
+        (NP (IN over) (CD 5) (NNS years))))
+    (. .)))
+

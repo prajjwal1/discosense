@@ -1,0 +1,53 @@
+(ROOT
+  (S
+    (NP (PRP he))
+    (ADVP (RB also))
+    (VP (VBD painted)
+      (NP
+        (NP (DT some) (NN river))
+        (CC and)
+        (NP
+          (NP (JJ coastal) (NNS landscapes))
+          (PP (IN of)
+            (NP (NN devon)
+              (CC and)
+              (NN cornwall))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN by)
+      (NP (NN contrast)))
+    (NP
+      (NP (PRP$ his) (JJ contemporary))
+      (PP (IN from)
+        (NP (NN surrey))))
+    (VP (VBD painted)
+      (NP (JJ streams) (, ,) (NNS marshes)
+        (CC and)
+        (NNS lakes))
+      (PP (IN near)
+        (NP (PRP$ his) (NN home)))
+      (PP
+        (PP (IN in)
+          (NP (NN surrey)))
+        (CC and)
+        (PP (IN in)
+          (NP (NNS wales))))
+      (, ,)
+      (ADVP (RB often)
+        (PP
+          (PP (IN near)
+            (NP
+              (NP (JJ dense) (NNS thickets))
+              (PP (IN of)
+                (NP (NNS trees)))))
+          (, ,)
+          (CC and)
+          (PP (IN with)
+            (NP
+              (NP (NNS hills))
+              (PP (IN in)
+                (NP (DT the) (NN background))))))))
+    (. .)))
+

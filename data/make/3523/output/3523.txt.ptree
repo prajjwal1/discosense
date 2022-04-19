@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (NP
+      (NP (NN side) (NNS effects))
+      (PP (IN in)
+        (NP (NNS men))))
+    (VP (VBP include)
+      (NP
+        (NP (NN breast) (NN tenderness)
+          (CC and)
+          (NN enlargement))
+        (, ,)
+        (NP (NN feminization))
+        (, ,)
+        (NP (JJ sexual) (NN dysfunction))
+        (, ,)
+        (CC and)
+        (NP (JJ hot) (NNS flashes))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB conversely))
+    (NP (DT the) (NN drug))
+    (VP
+      (VP (VBZ has)
+        (NP (JJR fewer) (NN side) (NNS effects)))
+      (CC and)
+      (VP (VBZ is)
+        (ADVP (RBR better))
+        (VP (VBN tolerated)
+          (PP (IN in)
+            (NP (NNS women))))))
+    (. .)))
+

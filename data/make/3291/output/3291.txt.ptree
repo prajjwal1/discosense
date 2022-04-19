@@ -1,0 +1,36 @@
+(ROOT
+  (S (CC and)
+    (VP
+      (ADVP (RB then))
+      (VB develop)
+      (NP
+        (NP (DT a) (NN system))
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (MD can)
+              (VP (VB learn)
+                (PP (IN from)
+                  (NP (DT those) (NN training) (NNS examples)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (JJ other) (NNS words)))
+    (NP (DT the) (JJ neural) (NN network))
+    (VP (VBZ uses)
+      (S
+        (NP (DT the) (NNS examples))
+        (VP (TO to)
+          (VP
+            (ADVP (RB automatically))
+            (VB infer)
+            (NP
+              (NP (NNS rules))
+              (PP (IN for)
+                (S
+                  (VP (VBG recognizing)
+                    (NP (JJ handwritten) (NNS digits))))))))))
+    (. .)))
+

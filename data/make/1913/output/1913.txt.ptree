@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (NP (JJ small) (NNS businesses))
+    (VP (MD would)
+      (VP (VB exist)
+        (ADVP (RB only))
+        (PP (IN at)
+          (NP
+            (NP (DT the) (NN pleasure))
+            (PP (IN of)
+              (NP (DT the) (JJ big) (, ,)
+                (ADJP (JJ subject)
+                  (PP (TO to)))
+                (NNS licenses)))))
+        (S
+          (VP (VBG limiting)
+            (NP (PRP$ their) (NN activity))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (ADJP (JJ short)))
+    (NP
+      (NP (DT the) (JJ real) (JJ economic) (NN power))
+      (PP (IN of)
+        (NP (DT the) (NN country))))
+    (VP (MD would)
+      (VP (VB lie)
+        (PP (IN in)
+          (NP
+            (NP (DT the) (NNS hands))
+            (PP (IN of)
+              (NP (DT the) (JJ corporate) (NNS socialists)))))
+        (PP (IN by)
+          (NP
+            (NP (NNS mergers))
+            (CC and)
+            (NP (JJ other) (NNS means))))))
+    (. .)))
+

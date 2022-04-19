@@ -1,0 +1,2 @@
+conn:indeed conn_POS:RB prev1:is prev1_POS:VBZ with_prev1_full:is_indeed with_prev1_POS_full:VBZ_RB prev2:this prev2_POS:DT with_prev2_full:this_indeed with_prev2_POS_full:DT_RB NA
+conn:in_sum conn_POS:IN_NN sent_pos:0 NA

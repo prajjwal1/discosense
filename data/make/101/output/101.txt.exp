@@ -1,0 +1,4 @@
+conn_lc:moreover conn:moreover conn_POS:RB xxx£
+conn_lc:in_sum conn:in_sum conn_POS:IN_NN xxx£
+conn_lc:before conn:before conn_POS:IN with_prev_full:challenges_before xxx£
+conn_lc:when conn:when conn_POS:WRB with_prev_full:particularly_when xxx£

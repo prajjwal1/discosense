@@ -1,0 +1,1 @@
+among the three approaches, less than 0.1% of in hospital death records had more than one match with vital statistics files. likewise those duplicate matches were defined as incorrect links.

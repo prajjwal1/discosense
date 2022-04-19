@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT this))
+      (PP (IN in)
+        (NP (NN turn))))
+    (VP (VBZ deconstructs)
+      (NP
+        (NP (DT the) (JJ ethnic) (NN identity))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (NN country))
+            (SBAR
+              (WHADVP (WRB where))
+              (S
+                (NP (DT the) (JJ ethnic) (NN food))
+                (VP (VBZ belongs))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (RB hence) (DT the) (NN authenticity))
+      (PP (IN of)
+        (NP
+          (NP (DT a) (JJ countrys) (JJ ethnic) (NN cuisine))
+          (CC and)
+          (NP (PRP$ its) (JJ ethnic) (NN identity)))))
+    (VP (MD will)
+      (VP (VB be)
+        (VP (VBN preserved)
+          (SBAR (IN if)
+            (S
+              (NP (PRP$ its) (JJ ethnic) (NN food))
+              (VP (VBD were) (RB not)
+                (VP (VBN brought)
+                  (ADVP (RB overseas)))))))))
+    (. .)))
+

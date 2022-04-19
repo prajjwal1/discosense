@@ -1,0 +1,2 @@
+conn:if conn_POS:IN prev1:wondering prev1_POS:VBG with_prev1_full:wondering_if with_prev1_POS_full:VBG_IN prev2:left prev2_POS:VBD with_prev2_full:left_if with_prev2_POS_full:VBD_IN NA
+conn:in_short conn_POS:IN_JJ sent_pos:0 NA

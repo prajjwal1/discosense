@@ -1,0 +1,1 @@
+each infected individual has her his own infective period. in particular we assume the infective period, and the stop time, to follow exponential distributions, with the same parameter values adopted in and reported in table 1.

@@ -1,0 +1,38 @@
+(ROOT
+  (S
+    (ADVP (RB instead))
+    (, ,)
+    (NP (NN terumune))
+    (VP (VBD decided)
+      (SBAR (IN that)
+        (S
+          (NP (PRP$ his) (NN blood))
+          (VP (VBD related)
+            (SBAR
+              (S
+                (NP
+                  (NP (NN son) (NN yamabiko))
+                  (, ,)
+                  (VP (VBN born)
+                    (PP (IN after)
+                      (NP (JJ masamunes) (NN arrival))))
+                  (, ,))
+                (VP (MD would)
+                  (VP (VB become)
+                    (NP (NN leader))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thereafter))
+    (NP (JJ masamune) (NNS banished))
+    (VP
+      (VP (VBP terumune))
+      (CC and)
+      (VP (VBD took)
+        (NP
+          (NP (NN control))
+          (PP (IN of)
+            (NP (DT the) (NN clan))))))
+    (. .)))
+

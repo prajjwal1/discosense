@@ -1,0 +1,18 @@
+(ROOT
+  (S
+    (NP (NNS fellowes))
+    (VP (VBZ offers)
+      (NP (JJ several) (NN alternative) (NNS options)))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN though)
+      (NP (DT the)
+        (ADJP (RBS most) (JJ popular))))
+    (ADVP (RB though))
+    (, ,)
+    (VP (VBZ is)
+      (NP (DT the) (NN ki) (NN program)))
+    (. .)))
+

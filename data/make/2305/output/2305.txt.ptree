@@ -1,0 +1,67 @@
+(ROOT
+  (S
+    (NP (NNS genetics))
+    (VP (VBZ is)
+      (NP
+        (NP (DT an) (JJ excellent) (NN journal))
+        (SBAR
+          (S
+            (NP (PRP$ its) (NNS editors)
+              (CC and)
+              (NNS reviewers))
+            (VP (VBP are)
+              (NP
+                (NP (JJ top) (NNS notch))
+                (CC and)
+                (NP
+                  (ADJP
+                    (ADJP (JJ durrett))
+                    (CC and)
+                    (ADJP (JJ schmidt)
+                      (SBAR
+                        (S
+                          (NP (PRP themselves))
+                          (VP (VBP are)
+                            (ADJP (JJ fine)))))))
+                  (NNS researchers))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (RB yet) (IN as)
+      (S
+        (NP (FW i))
+        (VP (VBP show)
+          (ADJP (JJ above))
+          (, ,)
+          (SBAR
+            (WHADVP (WRB when))
+            (S
+              (NP
+                (NP (JJ simple) (NNS mistakes))
+                (PP (IN in)
+                  (NP
+                    (NP (DT the) (NN application))
+                    (PP (IN of)
+                      (NP
+                        (NP (PRP$ their) (NN model))
+                        (PP (TO to)
+                          (NP (NN malaria))))))))
+              (VP (VBP are)
+                (VP (VBN corrected))))))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ agrees)
+      (ADVP (RB closely))
+      (PP (IN with)
+        (NP
+          (NP (JJ empirical) (NNS results))
+          (VP (VBN reported)
+            (PP (IN from)
+              (NP (DT the) (NN field)))
+            (SBAR (IN that)
+              (S
+                (NP (FW i))
+                (VP (VBD cited))))))))
+    (. .)))
+

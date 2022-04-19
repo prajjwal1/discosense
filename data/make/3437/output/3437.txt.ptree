@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (NP (PRP he))
+    (VP (VBD finished)
+      (NP (DT the) (NN game))
+      (PP (IN with)
+        (NP
+          (NP
+            (NP (CD 22) (NNS points))
+            (PP (IN on)
+              (NP
+                (QP (CD 8) (CD 16))
+                (NN shooting))))
+          (CC and)
+          (NP
+            (NP
+              (QP (CD 6) (CD 8)))
+            (PP (IN from)
+              (NP (DT the) (NN line))))))
+      (, ,)
+      (S
+        (VP (VBG adding)
+          (NP
+            (NP
+              (QP (CD 8) (CD assists)
+                (CC and)
+                (CD 3) (CD steals)))
+            (PP (IN against)
+              (NP
+                (QP (RB just) (CD 3))
+                (NNS turnovers)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (JJ other) (NNS words)))
+    (NP (DT a) (NN star))
+    (VP (VBZ is)
+      (VP (VBN born)))
+    (. .)))
+

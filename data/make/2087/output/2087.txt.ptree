@@ -1,0 +1,52 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP
+        (NP (DT the) (NN case))
+        (SBAR
+          (WHADVP (WRB where))
+          (S
+            (NP (NN nickel))
+            (VP (VBZ is)
+              (VP (VBN introduced)
+                (PP (IN into)
+                  (NP (DT the) (JJ amorphous) (NN silicon) (NN film)))))))))
+    (, ,)
+    (NP (NN crystal) (NNS cores))
+    (VP (VBP are)
+      (VP (VBN formed)
+        (PP (IN in)
+          (NP
+            (NP (DT a) (NN nickel))
+            (VP (VBN introduced)
+              (NP (NN region))
+              (S
+                (VP (TO to)
+                  (VP (VB cause)
+                    (NP
+                      (NP (DT the) (NN crystallization))
+                      (PP (IN of)
+                        (NP (DT the) (JJ amorphous) (NN silicon) (NN film))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thereafter))
+    (NP
+      (NP (DT the) (NN crystallization) (NNS proceeds))
+      (PP (IN toward)
+        (NP (DT a) (JJ peripheral) (NN nickel) (NN non))))
+    (VP (VBD introduced)
+      (NP (NN region))
+      (PP (IN in)
+        (NP
+          (NP (DT a) (JJ radial) (NN shape))
+          (PP (IN with)
+            (NP (NN respect)))))
+      (PP (TO to)
+        (NP
+          (NP (DT the) (JJ respective) (NN crystal) (NNS cores))
+          (PP (IN along)
+            (NP (DT the) (JJ substrate) (NN surface))))))
+    (. .)))
+

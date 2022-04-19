@@ -1,0 +1,55 @@
+(ROOT
+  (S
+    (ADVP (RB however))
+    (, ,)
+    (SBAR (IN since)
+      (S
+        (NP (PRP they))
+        (VP (VBP have)
+          (VP (VBN factored)
+            (PP (IN in)
+              (NP (NN time)))))))
+    (NP (DT this))
+    (VP (MD should)
+      (VP (VB be)
+        (VP (VBN reflected)
+          (PP (IN in)
+            (NP
+              (NP (NN price))
+              (SBAR
+                (S
+                  (NP (PRP they))
+                  (VP (VBP quote)))))))))
+    (. .)))
+
+(ROOT
+  (S (CC but)
+    (S
+      (ADVP (RB then))
+      (NP (NN competition))
+      (VP (VBZ kicks)
+        (PRT (RP in))))
+    (CC and)
+    (S
+      (NP (PRP we))
+      (ADVP (DT all))
+      (VP (VBP have)
+        (S
+          (VP (TO to)
+            (VP (VB do)
+              (SBAR
+                (WHNP (WP what))
+                (S
+                  (NP (PRP we))
+                  (VP (VBP need)
+                    (S
+                      (VP (TO to)
+                        (VP (VB do)
+                          (S
+                            (VP (TO to)
+                              (VP (VB get)
+                                (NP
+                                  (NP (DT a) (NN deal))
+                                  (VP (VBN done)))))))))))))))))
+    (. .)))
+

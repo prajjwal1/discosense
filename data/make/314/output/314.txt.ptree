@@ -1,0 +1,57 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (DT the) (NN recording)))
+    (, ,)
+    (PP (IN after)
+      (S
+        (VP (VBG telling)
+          (NP (NNS investigators))
+          (PP (IN about)
+            (NP
+              (NP
+                (NP (PRP$ her) (NN life))
+                (PP (IN in)
+                  (NP (NN san) (NN francisco))))
+              (CC and)
+              (NP
+                (NP (PRP$ her) (NN marriage))
+                (PP (TO to)
+                  (NP (JJ richard) (NNS sullens)))))))))
+    (, ,)
+    (NP (PRP she))
+    (VP (VBD told)
+      (NP (NN calderon))
+      (SBAR (IN that)
+        (S
+          (NP (PRP she))
+          (VP (VBD thought)
+            (SBAR
+              (S
+                (NP (NNS sullens))
+                (VP (VBD was)
+                  (NP (DT the) (NN devil)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB because)
+      (PP (IN of)
+        (SBAR (IN that)
+          (S
+            (NP (PRP she))
+            (VP
+              (VP (VBD took)
+                (NP (PRP$ her) (NN daughter)))
+              (CC and)
+              (VP (VBD ran)
+                (PRT (RP away))
+                (PP (IN from)
+                  (NP (NN home)))))))))
+    (, ,)
+    (NP (NN virgil))
+    (VP (VBD said)
+      (PP (IN in)
+        (NP (DT the) (NN recording))))
+    (. .)))
+

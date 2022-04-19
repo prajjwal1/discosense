@@ -1,0 +1,3 @@
+conn:therefore conn_POS:RB sent_pos:0 NA
+conn:on_the_contrary conn_POS:IN_DT_NN sent_pos:0 NA
+conn:but conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_but with_prev1_POS_full:,_CC prev2:done prev2_POS:VBN with_prev2_full:done_but with_prev2_POS_full:VBN_CC NA

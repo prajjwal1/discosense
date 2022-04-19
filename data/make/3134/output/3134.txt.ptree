@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (PP (IN for)
+      (NP (NN example)))
+    (, ,)
+    (NP (DT the) (JJS simplest) (NN waveform))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (NN one))
+        (PP (IN with)
+          (NP
+            (NP (RB only) (DT the) (JJ fundamental))
+            (, ,)
+            (CC and)
+            (NP (DT no) (VBN added) (NNS harmonics))))))
+    (. .)))
+
+(ROOT
+  (S (RB yet)
+    (S
+      (VP (VBG removing)
+        (NP (NNS harmonics))
+        (PP (IN from)
+          (NP (DT the) (JJ square) (NN wave)))))
+    (VP (VBZ produces)
+      (NP (DT a)
+        (ADJP (RBR more) (JJ complicated))
+        (NN picture)))
+    (. .)))
+

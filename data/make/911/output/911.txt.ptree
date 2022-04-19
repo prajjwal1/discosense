@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (NP (PRP he))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP
+            (NP (DT the) (NN antenna))
+            (SBAR
+              (S
+                (NP (PRP he))
+                (VP (VBD designed)))))
+          (VP (VBD was)
+            (VP (VBN used)
+              (PP (IN by)
+                (NP
+                  (QP (JJR more) (IN than) (CD 100) (CD million))
+                  (NNS handsets))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB interestingly))
+    (NP (PRP he))
+    (VP (VBD told)
+      (NP (PRP me))
+      (SBAR
+        (S
+          (NP (PRP he))
+          (VP (VBD was)
+            (VP (VBG using)
+              (NP
+                (QP (CD ie) (CD 3))
+                (NX
+                  (NP (SYM d))
+                  (PP (IN on)
+                    (NP (PRP it))))))))))
+    (. .)))
+

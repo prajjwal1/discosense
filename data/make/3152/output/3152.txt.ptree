@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN addition)))
+    (, ,)
+    (NP
+      (NP (DT the) (NN void) (NN space))
+      (PP (IN between)
+        (NP
+          (NP (DT the) (NNS chips))
+          (PP (IN in)
+            (NP (DT the) (JJ preferred) (NN embodiment))))))
+    (VP (VBD amounted)
+      (PP (TO to)
+        (NP
+          (QP (RB approximately) (CD 61))
+          (NN %))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB therefore))
+    (NP
+      (NP (DT the) (JJ total) (NN void) (NN space))
+      (PP (IN in)
+        (NP (DT the) (NN conveyor))))
+    (VP (VBD amounted)
+      (PP (TO to)
+        (NP
+          (QP (RB approximately) (CD 83) (NN %) (TO to) (CD 88) (NN %)))))
+    (. .)))
+

@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (SBAR (IN while)
+      (S
+        (NP
+          (NP (DT the) (NN occasion))
+          (PP (IN of)
+            (NP (DT the) (NN poem))))
+        (VP (VBD was)
+          (NP
+            (NP (DT the) (NN knighting))
+            (PP (IN of)
+              (NP (NN john) (NN salusbury)))))))
+    (, ,)
+    (NP (DT the) (NN work))
+    (VP (VBP need) (RB not)
+      (ADVP (RB therefore))
+      (VP (VB be)
+        (ADJP (JJ occasional))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (ADJP (RB rather) (JJ shakespeare))
+    (VP (VBZ sets)
+      (PRT (RP out))
+      (S
+        (VP (TO to)
+          (VP (VB demonstrate)
+            (NP (DT the) (JJ various) (NNS paradoxes))))))
+    (SBAR (IN that)
+      (S
+        (NP (NN love))
+        (VP (VBZ embodies))))
+    (. .)))
+

@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (S
+      (NP (FW i))
+      (VP (VBP think)
+        (S
+          (NP (PRP$ its))
+          (ADJP (RB extremely) (JJ accurate)))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (FW i))
+      (VP (VBD won)
+        (NP (PRP it))
+        (PP (IN for)
+          (NP
+            (NP
+              (QP (JJR less) (IN than)
+                (NP (WP what)))
+              (NNS i))
+            (VP (VBN paid)
+              (PP (IN for)
+                (NP (PRP$ my) (NN sussex) (NN scope)))
+              (PP (IN without)
+                (NP (DT the) (NNS feet))))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (SBAR (IN although)
+      (S
+        (NP (DT the) (NN sussex) (NN scope))
+        (VP (VBD was)
+          (PP (IN in)
+            (NP (NN mint) (NN condition))))))
+    (. .)))
+

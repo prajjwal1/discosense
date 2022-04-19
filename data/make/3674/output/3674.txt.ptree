@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (NP (JJR warmer) (NNS climates))
+    (VP (MD could)
+      (VP (VB lead)
+        (PP (TO to)
+          (NP
+            (NP (DT an) (NN increase))
+            (PP (IN in)
+              (NP
+                (NP (NN time))
+                (VP (VBN spent)
+                  (S
+                    (VP
+                      (VP (VBG finding)
+                        (NP (NNS mates)))
+                      (, ,)
+                      (VP (VBG laying)
+                        (NP (NNS eggs)))
+                      (, ,)
+                      (CC and)
+                      (VP (VBG collecting)
+                        (NP (NN nectar))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (ADJP (RB conversely) (RBR more) (JJ frequent))
+        (NNS droughts))
+      (VP (VBN associated)
+        (PP (IN with)
+          (NP (NN climate) (NN change)))))
+    (VP (MD would)
+      (VP
+        (VP (VB decrease)
+          (NP (NN egg) (NN survival)))
+        (CC and)
+        (VP (VB lead)
+          (PP (TO to)
+            (NP (NN habitat)
+              (CC and)
+              (NN host) (NN plant) (NN destruction))))))
+    (. .)))
+

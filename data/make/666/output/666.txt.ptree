@@ -1,0 +1,49 @@
+(ROOT
+  (S
+    (PP (IN like)
+      (NP (DT the) (NN incentive)
+        (S
+          (VP (TO to)
+            (VP (VB cheat)
+              (PP (IN on)
+                (NP (DT a) (JJ collusive) (NN agreement)))
+              (PP (IN by)
+                (S
+                  (VP (VBG expanding)
+                    (NP (NNS sales))))))))))
+    (, ,)
+    (NP (DT a) (NN distributor))
+    (VP (MD would)
+      (VP (VB find)
+        (S
+          (NP (PRP it))
+          (ADJP (RBR more) (JJ profitable)
+            (PP (TO to)
+              (NP
+                (NP (NN contract))
+                (PP (IN with)
+                  (NP (DT a) (JJ rival) (NN manufacturer)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (ADVP (RB conversely))
+      (WHADVP (WRB where))
+      (S
+        (NP (EX there))
+        (VP (VBP are)
+          (NP
+            (NP (JJ significant) (NNS economies))
+            (PP (IN of)
+              (NP
+                (NP (NN scale))
+                (PP (IN in)
+                  (NP (VBG manufacturing)))))))))
+    (, ,)
+    (NP (DT the) (NN potential))
+    (VP (VBZ exists)
+      (PP (IN for)
+        (NP (DT a) (JJ stable) (, ,) (JJ exclusionary) (NN distribution) (NN arrangement))))
+    (. .)))
+

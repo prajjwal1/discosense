@@ -1,0 +1,2 @@
+conn:when conn_POS:WRB prev1:, prev1_POS:, with_prev1_full:,_when with_prev1_POS_full:,_WRB prev2:previously prev2_POS:RB with_prev2_full:previously_when with_prev2_POS_full:RB_WRB NA
+conn:thus conn_POS:RB sent_pos:0 NA

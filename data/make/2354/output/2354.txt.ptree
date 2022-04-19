@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (NP (DT a) (NNS microsofts) (NN surface) (NN rt))
+    (VP (VBZ runs)
+      (NP
+        (NP (NNS windows) (NN rt))
+        (, ,)
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP
+              (VP (VBZ looks)
+                (PP (IN like)
+                  (NP
+                    (QP (CD windows) (CD 8)))))
+              (CC but)
+              (VP (VBZ behaves)
+                (ADVP (RB slightly) (RB differently))
+                (PP (IN in)
+                  (NP
+                    (ADJP (RB often) (JJ unexpected))
+                    (NNS ways)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (PP (IN for)
+        (NP (NN example)))
+      (NP (DT the) (NN surface) (NN rt))
+      (VP (VBZ includes)
+        (NP (DT a) (JJ traditional) (NNS windows) (NN desktop))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP it))
+      (ADVP (RB cant))
+      (VP (VB run)
+        (NP (JJ traditional) (NNS windows))
+        (NP (JJ desktop) (NNS programs))))
+    (. .)))
+

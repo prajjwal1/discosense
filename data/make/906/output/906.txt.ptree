@@ -1,0 +1,57 @@
+(ROOT
+  (S
+    (S
+      (VP (VBG using)
+        (SBAR
+          (WHNP (WP what))
+          (S
+            (VP (VBZ is)
+              (VP (VBN known)
+                (PP (IN as)
+                  (NP
+                    (NP (NNS claytronics))
+                    (, ,)
+                    (SBAR
+                      (WHNP (WDT which))
+                      (S
+                        (VP (VBZ is)
+                          (ADVP (RB basically))
+                          (NP
+                            (NP (DT a) (NN form))
+                            (PP (IN of)
+                              (NP (NN nanotechnology)))))))))))))))
+    (, ,)
+    (NP (JJ tiny) (JJ little) (NNS robots))
+    (VP (VBP create)
+      (NP
+        (NP (DT any) (NNS forms))
+        (PP (RB out) (IN of)
+          (NP (JJ moldable) (NN mass))))
+      (SBAR (IN that)
+        (S
+          (NP (DT the) (NN user))
+          (VP (VBZ desires)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP
+        (NP (NN instance))
+        (SBAR (IN if)
+          (S
+            (NP (PRP you))
+            (ADVP (RB suddenly))
+            (VP (VBD needed)
+              (NP (DT an) (JJ extra) (NN cutting) (NN board)))))))
+    (, ,)
+    (NP (PRP you))
+    (VP (MD would)
+      (ADVP (RB literally))
+      (VP (VB pull)
+        (NP (CD one))
+        (PRT (RP out))
+        (PP (IN from)
+          (NP (DT the) (NN wall)))))
+    (. .)))
+

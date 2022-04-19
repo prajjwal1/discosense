@@ -1,0 +1,38 @@
+(ROOT
+  (S
+    (PP (IN on)
+      (NP (DT the) (CD one) (NN hand)))
+    (, ,)
+    (NP (PRP$ his) (NN work))
+    (VP (VBZ is)
+      (SBAR (IN that)
+        (S
+          (PP (IN of)
+            (NP (DT a) (JJ traditional) (NN nineteenth) (NN century) (NN sculptor)))
+          (NP
+            (NP (DT the) (JJ historical) (NN subject) (NN matter))
+            (CC and)
+            (NP
+              (NP (PRP$ its) (NN translation))
+              (PP (IN into)
+                (NP (JJ monumental) (NN narrative) (NN sculpture)))))
+          (VP (VBP are)
+            (NP
+              (NP (JJ conventional) (NNS practices))
+              (PP (IN of)
+                (NP (PRP$ his) (NN time))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN on)
+      (NP (DT the) (JJ other) (NN hand)))
+    (NP (PRP$ his) (NN work))
+    (VP (VBZ points)
+      (PP (IN in)
+        (NP
+          (NP (DT a) (JJ new) (NN direction))
+          (PP (IN for)
+            (NP (NN sculpture))))))
+    (. .)))
+

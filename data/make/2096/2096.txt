@@ -1,0 +1,1 @@
+he builds to last, taking care to weave unit tests into his work, but is also capable of making trade offs with an eye for speed of implementation. in particular jeremy shines at working remotely.

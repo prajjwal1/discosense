@@ -1,0 +1,38 @@
+(ROOT
+  (S
+    (NP
+      (NP (NN processing))
+      (PP (IN of)
+        (NP (NN image) (NNS edges))))
+    (VP (VBZ plays)
+      (NP (DT a)
+        (ADJP (RB very) (JJ important))
+        (NN role))
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (PRP it))
+          (VP (VBZ comes)
+            (PP (TO to)
+              (S
+                (VP (VBG achieving)
+                  (NP (DT a) (JJ high) (NN quality) (NN image)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (RB particularly) (DT the) (NN processing) (NN quality))
+      (PP (IN of)
+        (NP
+          (NP (JJ high) (NN contrast) (NN image) (NNS edges))
+          (PP (IN of)
+            (NP (NNS pictures)
+              (CC or)
+              (NNS texts))))))
+    (VP (VBZ is)
+      (ADJP (JJ crucial)
+        (PP (TO to)
+          (NP (NN image) (NN quality)))))
+    (. .)))
+

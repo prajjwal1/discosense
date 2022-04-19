@@ -1,0 +1,1 @@
+this automation eliminates the human error of accidentally omitting accounts from being worked, failing to comply with client requirement, and or following an inefficient collection strategy. in particular the filter step 150 and strategy application step 160 may be automatically executed such that strategies are implemented and improved efficiently and quickly.

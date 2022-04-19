@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (ADVP (RB personally))
+    (, ,)
+    (NP (FW i))
+    (VP (VBP hope)
+      (SBAR
+        (S
+          (NP
+            (NP (CD one))
+            (PP (IN of)
+              (NP (DT the) (JJ side) (NN yard) (NNS patios))))
+          (VP (VBZ spawns)
+            (SBAR
+              (S
+                (NP
+                  (NP (DT a) (NN coffee) (NN bar))
+                  (PP (IN with)
+                    (NP (DT an) (NN oasis))))
+                (VP (VBP feel)
+                  (PP (RB instead) (IN of)
+                    (NP
+                      (NP (DT the) (JJ new) (JJ normal) (NN planted) (NN curbside))
+                      (PP (IN on)
+                        (NP (DT a) (JJ busy) (NN street) (NN fac) (NN ing) (NN traffic))))))))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (PP (IN in)
+      (NP (NN sum) (JJ good) (NN architecture)))
+    (VP (VBZ requires)
+      (NP (CD three) (NNS things)))
+    (NP
+      (NP (DT a) (JJ good) (NN architect))
+      (, ,)
+      (NP
+        (NP (DT a) (JJ good) (NN cli) (NN ent))
+        (, ,)
+        (CC and)
+        (NP (DT a) (JJ good) (NN budget))))
+    (. .)))
+

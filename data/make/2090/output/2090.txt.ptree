@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP you))
+      (VP (VBP see)
+        (ADJP (JJ jovie))))
+    (, ,)
+    (NP (DT the) (NN problem))
+    (VP (VBZ has)
+      (ADVP (RB never))
+      (VP (VBN been)
+        (ADJP (RB about) (JJ messaging))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB rather))
+    (NP (DT the) (NN problem))
+    (VP (VBD was)
+      (NP (DT the) (NN msm) (NNS media))
+      (SBAR (IN that)
+        (S
+          (NP (DT either))
+          (VP (VBD refused)
+            (S
+              (VP (TO to)
+                (VP (VB transmit)
+                  (NP
+                    (NP (DT the) (NN message))
+                    (CC or)
+                    (NP
+                      (ADJP (RB totally) (JJ distorted))
+                      (DT the) (NN message))))))))))
+    (. .)))
+

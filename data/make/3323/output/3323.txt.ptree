@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (NP
+      (NP
+        (QP (JJR more) (IN than) (CD 70))
+        (NN percent))
+      (PP (IN of)
+        (NP (NNS homicides))))
+    (VP (VBP go)
+      (ADJP (JJ unsolved)))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN by)
+      (NP (NN contrast)))
+    (NP (NN fbi) (NNS figures))
+    (VP (VBP show)
+      (SBAR
+        (S
+          (NP
+            (NP (CD two) (NNS thirds))
+            (PP (IN of)
+              (NP (NN u.) (NN s.) (NNS murders))))
+          (VP (VBD were)
+            (VP (VBN solved)
+              (PP (IN in)
+                (NP
+                  (NP (CD 2009))
+                  (, ,)
+                  (NP
+                    (NP (DT the) (JJS latest) (NN year))
+                    (PP (IN with)
+                      (NP (JJ full) (NNS data)))))))))))
+    (. .)))
+

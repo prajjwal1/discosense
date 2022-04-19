@@ -1,0 +1,60 @@
+(ROOT
+  (S
+    (PP (IN with)
+      (NP
+        (NP (DT the) (NN help))
+        (PP (IN of)
+          (NP (NN press)))))
+    (, ,)
+    (NP
+      (NP (JJ low) (NN level) (NN eupatrid))
+      (CC and)
+      (NP (VBN educated) (JJ middle) (NN class)))
+    (VP (VBD had)
+      (NP (DT the) (NN opportunity)
+        (S
+          (VP (TO to)
+            (VP (VB possess)
+              (NP (PRP them)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB thereby))
+      (NP (NNS books))
+      (VP (VBD lost)
+        (NP
+          (NP (PRP$ their) (NN property))
+          (PP (IN of)
+            (S
+              (VP (VBG being)
+                (NP (JJ single) (NNS copies))))))))
+    (, ,)
+    (CC and)
+    (S
+      (SBAR (IN in) (NN order)
+        (S
+          (VP (TO to)
+            (VP (VB protect)
+              (NP (PRP them))
+              (PP (IN from)
+                (S
+                  (VP
+                    (VP (VBG being)
+                      (VP (VBN stolen)))
+                    (CC and)
+                    (VP (VBG being)
+                      (VP (VBN lost))))))))))
+      (, ,)
+      (NP
+        (NP (NN necessity))
+        (PP (IN of)
+          (NP
+            (NP (DT a) (JJ specific) (NN sign))
+            (PP (IN of)
+              (NP (NN property))))))
+      (VP (VBZ is)
+        (VP (VBN born))))
+    (. .)))
+

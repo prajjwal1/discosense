@@ -1,0 +1,45 @@
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB when))
+      (S
+        (VP (VBG using)
+          (NP (DT the) (NN gel)))))
+    (, ,)
+    (NP
+      (ADJP (RB too) (JJ much))
+      (NN glue))
+    (VP (MD will)
+      (VP (VB weaken)
+        (NP (DT the) (VBG resulting) (NN bond))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP
+        (ADVP (RB likewise))
+        (VBG applying)
+        (NP
+          (NP (RB too) (RB little))
+          (PP (IN of)
+            (NP (DT the) (JJ thin) (JJ super) (NN glue))))))
+    (VP (MD will)
+      (VP (VB result)
+        (PP (IN in)
+          (NP
+            (NP (RB almost) (DT no) (NN glue))
+            (VP
+              (ADVP (IN at) (DT all))
+              (VP (VBG remaining)
+                (PP (IN in)
+                  (NP (DT a) (NN wood) (NN joint))))
+              (, ,)
+              (VP (VBG causing)
+                (NP
+                  (NP (DT a) (JJ weak) (NN bond))
+                  (CC or)
+                  (NP (DT no) (NN bond)))
+                (ADVP (IN at) (DT all))))))))
+    (. .)))
+

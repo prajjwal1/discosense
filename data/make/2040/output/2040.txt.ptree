@@ -1,0 +1,58 @@
+(ROOT
+  (S
+    (S
+      (PP (IN in)
+        (NP (DT the) (NN book) (PRP itself)))
+      (, ,)
+      (NP (DT these) (NNS sections))
+      (VP (VBD were)
+        (ADVP (RB probably))
+        (VP
+          (ADVP (RB clearly))
+          (VBN marked)
+          (PP (IN off)
+            (NP (JJ separate) (NNS paragraphs))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP they))
+      (VP (VBP tend)
+        (S
+          (VP (TO to)
+            (VP (VB blend)
+              (ADVP (RB together))
+              (ADVP (RB here))
+              (, ,)
+              (PP (IN despite)
+                (NP
+                  (NP (DT the) (NN fact))
+                  (SBAR (IN that)
+                    (S
+                      (NP (PRP they))
+                      (VP (VBP are)
+                        (VP (VBN numbered))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB nonetheless))
+      (NP (DT this))
+      (VP (VBZ is)
+        (NP
+          (NP (DT a) (JJ valuable) (JJ quick) (NN listen))
+          (PP (IN for)
+            (NP
+              (NP (NN anyone))
+              (VP (VBN concerned)
+                (PP (IN with)
+                  (NP (PRP$ their) (NN job)))))))))
+    (CC and)
+    (S
+      (NP (DT that))
+      (VP (VBZ is)
+        (ADVP (RB just))
+        (PP (IN about)
+          (NP (NN everyone)))))
+    (. .)))
+

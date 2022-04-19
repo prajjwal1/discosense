@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (ADVP (RB later))
+    (, ,)
+    (PP (IN as)
+      (NP
+        (NP (DT a) (NN party))
+        (PP (TO to)
+          (NP (JJ evidentiary) (NNS hearings)))))
+    (, ,)
+    (NP (NN rate) (NN counsel) (NN cross))
+    (VP (VBZ examines)
+      (S
+        (NP (DT the) (JJ utilitys) (NNS witnesses)
+          (CC and)
+          (NN submits) (NN evidence))
+        (VP (TO to)
+          (VP (VB support)
+            (NP (DT the) (NNS divisions) (NN position))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADVP (RB subsequently))
+    (SBAR (IN if)
+      (S
+        (FRAG (JJ necessary))
+        (, ,)
+        (NP (NN rate) (NN counsel))
+        (VP (MD will)
+          (VP (VB seek)
+            (NP
+              (NP (DT a) (JJR better) (NN outcome))
+              (PP (IN for)
+                (NP (NNS ratepayers))))
+            (, ,)
+            (PP (IN by)
+              (NP
+                (NP (DT an) (NN appeal))
+                (PP (IN in)
+                  (NP
+                    (NP (DT the) (JJ appropriate) (NN state))
+                    (CC or)
+                    (NP (JJ federal) (NN court))))))))))
+    (. .)))
+

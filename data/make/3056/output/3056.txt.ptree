@@ -1,0 +1,51 @@
+(ROOT
+  (S
+    (SBAR (IN while)
+      (S
+        (NP
+          (NP (DT the) (JJ vast) (NN majority))
+          (PP (IN of)
+            (NP (DT these) (NNS contractors))))
+        (VP (VBP are)
+          (ADJP (JJ legitimate)))))
+    (, ,)
+    (NP
+      (NP (DT the) (NN fbi))
+      (CC and)
+      (NP (PRP$ its) (NNS partners)))
+    (VP (VBP have)
+      (ADVP (RB also))
+      (VP (VBN seen)
+        (NP
+          (NP (DT the) (NN emergence))
+          (PP (IN of)
+            (S
+              (VP
+                (ADJP (JJ complex)
+                  (CC and)
+                  (JJ wide))
+                (VBG ranging)
+                (NP (NN contractor) (NN fraud) (NNS schemes))
+                (PP (IN in)
+                  (NP (NNP iraq) (, ,) (NNS afghanistan) (, ,)
+                    (CC and)
+                    (NN kuwait)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB specifically))
+    (NP
+      (NP (DT the) (NN majority))
+      (PP (IN of)
+        (NP (JJ international) (NN contract) (NN corruption) (NN task) (NN force) (NNS investigations))))
+    (VP (VBP involve)
+      (SBAR
+        (S
+          (NP (CD two) (JJ principal) (NNS characters))
+          (VP (VBP u.)
+            (NP (NN s.) (NN contracting) (NNS officers)
+              (CC and)
+              (NN government) (NNS contractors))))))
+    (. .)))
+

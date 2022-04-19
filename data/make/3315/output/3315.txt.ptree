@@ -1,0 +1,55 @@
+(ROOT
+  (S
+    (PP (IN despite)
+      (S
+        (VP (VBG being)
+          (VP (VBN established)
+            (PP (IN as)
+              (NP
+                (NP (DT a) (NN scientist))
+                (PP (IN in)
+                  (NP (JJ later) (NNS episodes)))))))))
+    (, ,)
+    (NP (NNP sandy))
+    (VP (VBZ is)
+      (ADJP (JJ oblivious)
+        (PP (TO to)
+          (NP (DT the) (JJ basic) (NN fact))))
+      (SBAR (IN that)
+        (S
+          (NP (NN sea) (NNS creatures))
+          (VP (MD can) (RB not)
+            (VP (VB survive)
+              (PP (IN without)
+                (NP
+                  (NP (NN water))
+                  (PP (IN in)
+                    (NP (PRP$ her) (JJ first) (NN appearance))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN although)
+      (S
+        (NP (PRP it))
+        (VP (MD may)
+          (VP (VB be)
+            (PP (IN because)
+              (NP (NN spongebob)))))))
+    (VP (VBD told)
+      (NP (PRP her))
+      (SBAR (IN that)
+        (S
+          (NP (PRP he))
+          (VP (VBZ likes)
+            (NP (NN air))
+            (S
+              (VP (RB not) (VBG knowing)
+                (SBAR (IN that)
+                  (S
+                    (NP (PRP she))
+                    (VP (VBD meant)
+                      (PP (IN without)
+                        (NP (NN water))))))))))))
+    (. .)))
+

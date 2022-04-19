@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP
+        (NP (DT the) (NN case))
+        (PP (IN of)
+          (NP (NN brant)))))
+    (, ,)
+    (ADVP (RB perhaps))
+    (NP (PRP she))
+    (VP (VBD was)
+      (VP (VBG helping)
+        (S
+          (VP (VB protect)
+            (NP (DT the) (NN country))
+            (PP (IN from)
+              (NP (DT an) (NNS arms) (NN dealer)))))))
+    (. .)))
+
+(ROOT
+  (S (CC but)
+    (NP (PRP it))
+    (VP (VBD had)
+      (NP
+        (NP (DT a) (JJ huge) (JJ psychological) (NN toll))
+        (PP (IN on)
+          (NP (PRP her)))))
+    (. .)))
+

@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (SBAR (IN after)
+      (S
+        (NP (FW i))
+        (VP (VBP write)
+          (NP (DT a) (NN story)))))
+    (NP (FW i))
+    (ADVP (RB usually))
+    (VP (VBP want)
+      (S
+        (VP (TO to)
+          (VP
+            (VP (VB be)
+              (VP (VBN done)
+                (PP (IN with)
+                  (NP (PRP it)))))
+            (CC and)
+            (VP (VB start)
+              (S
+                (VP (VBG working)
+                  (PP (IN on)
+                    (NP (NN something) (JJ new))))))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (PP (RB because) (IN of)
+      (NP (DT that) (FW i)))
+    (VP (VBP procrastinate))
+    (NP (DT a) (NN lot)
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (PRP it))
+          (VP (VBZ comes)
+            (PP (TO to)
+              (NP (DT the) (JJ proofreading) (NN editing) (NN process)))))))
+    (. .)))
+

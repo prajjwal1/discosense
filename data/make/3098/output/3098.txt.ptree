@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (VP (VB be)
+      (ADJP (JJ aware)
+        (PP (IN of)
+          (SBAR (IN whether)
+            (S
+              (NP (PRP you))
+              (VP (VBP are)
+                (VP (VBG dealing)
+                  (PP (IN with)
+                    (NP (NNS rates)
+                      (CC or)
+                      (NNS numbers))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB similarly))
+    (VP (VB be)
+      (ADJP (JJ aware)
+        (PP (IN of)
+          (SBAR (IN whether)
+            (S
+              (NP (PRP you))
+              (VP (VBP are)
+                (VP (VBG dealing)
+                  (PP (IN with)
+                    (NP (NNS rates)
+                      (CC or)
+                      (NNS scores))))))))))
+    (. .)))
+

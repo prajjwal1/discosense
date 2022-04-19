@@ -1,0 +1,53 @@
+(ROOT
+  (S
+    (NP
+      (NP (NN skipper) (NN olivier) (NNS backes))
+      (CC and)
+      (NP (NN crewmember) (JJ matthieu) (NN vandame)))
+    (VP (VBD took)
+      (NP (JJ top) (NNS honors))
+      (PP (IN in)
+        (NP
+          (NP (DT a) (NN talent) (NN rife) (NN fleet))
+          (PP (IN of)
+            (NP
+              (NP (CD 115) (NNS boats))
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (VP (VBN gathered)
+                    (PP (IN from)
+                      (PP (IN around)
+                        (NP (DT the) (NN world))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB interestingly))
+    (NP (DT this))
+    (VP (VBZ is)
+      (ADJP (JJ backes) (RB second)
+        (SBAR
+          (X (SYM f))
+          (S
+            (NP (CD 18) (NN world) (NN championship))
+            (VP (VBP win)
+              (PP (IN in)
+                (NP (CD three) (NNS years)))
+              (, ,)
+              (S
+                (VP (VBG making)
+                  (S
+                    (NP (PRP him))
+                    (NP
+                      (NP (CD one))
+                      (PP (IN of)
+                        (NP
+                          (NP (DT the) (JJS fastest) (NNS skippers))
+                          (ADVP (RB afloat)
+                            (PP (IN in)
+                              (NP (DT this)
+                                (ADJP (JJ hyper) (JJ competitive))
+                                (NN class)))))))))))))))
+    (. .)))
+

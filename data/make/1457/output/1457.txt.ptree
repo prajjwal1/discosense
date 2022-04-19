@@ -1,0 +1,53 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP
+        (NP (NN light))
+        (PP (IN of)
+          (NP (DT the) (NN foregoing)))))
+    (, ,)
+    (NP (DT the) (NN trial) (NN chamber))
+    (VP (VBZ holds)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (JJ good) (NN cause))
+            (VP (VBG justifying)
+              (NP
+                (NP (NN withdrawal))
+                (PP (IN of)
+                  (NP (NN counsel))))))
+          (VP (VBZ has) (RB not)
+            (VP (VBN been)
+              (VP (VBN established)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN on)
+      (NP (DT the) (NN contrary)))
+    (NP (DT the) (NN trial) (NN chamber))
+    (VP (VBZ remains)
+      (PP (IN of)
+        (NP (DT the) (NN view)))
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (DT the) (NN presence))
+            (PP (IN of)
+              (NP (JJ assigned) (NN counsel))))
+          (VP (VBZ is)
+            (ADJP (JJ essential)
+              (S
+                (VP (TO to)
+                  (VP (VB ensure)
+                    (NP
+                      (NP (DT the)
+                        (ADJP (JJ fair)
+                          (CC and)
+                          (JJ expeditious))
+                        (NN conduct))
+                      (PP (IN of)
+                        (NP (DT the) (NNS proceedings))))))))))))
+    (. .)))
+

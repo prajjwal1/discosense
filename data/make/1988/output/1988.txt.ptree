@@ -1,0 +1,60 @@
+(ROOT
+  (S
+    (PP (IN under)
+      (NP (DT these) (NNS guidelines)))
+    (, ,)
+    (NP
+      (NP (DT a) (NN legislator))
+      (SBAR
+        (WHNP (WP who))
+        (S
+          (VP (VBZ participates)
+            (PP (IN in)
+              (NP (DT a) (JJ legitimate) (NN speaking) (NN engagement)))))))
+    (VP (MD may)
+      (VP (VB receive)
+        (PP (IN from)
+          (NP
+            (NP (DT the) (NN sponsor) (NNS expenses))
+            (ADJP (JJ necessary)
+              (PP (TO to)
+                (S
+                  (VP (VBG making)
+                    (NP
+                      (NP (DT the) (NN speech))
+                      (, ,)
+                      (PP (VBG including)
+                        (NP
+                          (NP (NN transportation))
+                          (PP (TO to)
+                            (CC and)
+                            (IN from)
+                            (NP (DT the) (NN site))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN on)
+      (NP
+        (NP (DT the) (JJ other) (NN hand))
+        (SBAR (IN if)
+          (S
+            (NP (DT a) (NN legislator))
+            (VP (VBZ is) (RB not)
+              (NP
+                (NP (DT a) (JJ scheduled) (NN speaker))
+                (CONJP (CC but)
+                  (RB merely))
+                (NP
+                  (NP (DT a) (NN member))
+                  (PP (IN of)
+                    (NP (DT the) (NN audience))))))))))
+    (, ,)
+    (NP (DT the) (NN travel) (NNS expenses))
+    (VP (MD may) (RB not)
+      (VP (VB be)
+        (VP (VBN pald)
+          (PP (IN by)
+            (NP (DT the) (NN sponsor))))))
+    (. .)))
+

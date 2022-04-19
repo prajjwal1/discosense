@@ -1,0 +1,3 @@
+conn_lc:once conn:once conn_POS:IN xxx£
+conn_lc:later conn:later conn_POS:RB with_prev_full:it_later xxx£
+conn_lc:as conn:as conn_POS:IN with_prev_full:shunned_as xxx£

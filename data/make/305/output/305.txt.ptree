@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (NP
+      (NP (JJ huge) (NN price) (NNS increases))
+      (PP (IN from)
+        (NP (CD 2005) (CD 2008))))
+    (VP (VBD produced)
+      (NP (RB only) (DT a) (JJ few) (NN percent) (NN increase))
+      (PP (IN in)
+        (NP
+          (NP (DT the) (NN quantity))
+          (VP (VBN supplied)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (ADJP (RB similarly) (JJ huge))
+        (NN price) (NNS decreases))
+      (PP (IN from)
+        (NP
+          (NP (DT the) (NN beginning))
+          (PP (IN of)
+            (NP
+              (NP (CD 2008))
+              (PP (TO to)
+                (NP
+                  (NP (DT the) (NN end))
+                  (PP (IN of)
+                    (NP (DT that) (NN year))))))))))
+    (VP (VBD produced)
+      (NP (RB only) (JJ tiny) (NNS decreases))
+      (PP (IN in)
+        (NP (NN oil) (NN supply))))
+    (. .)))
+

@@ -1,0 +1,44 @@
+(ROOT
+  (S
+    (NP (EX there))
+    (VP (VBP are)
+      (NP
+        (NP (JJ many)
+          (ADJP (JJ medical) (, ,) (JJ cultural)
+            (CC and)
+            (JJ humanitarian))
+          (NNS reasons))
+        (SBAR
+          (S
+            (VP (TO to)
+              (VP (VB preserve)
+                (NP (DT these) (NNS links))))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (PP (RB because) (IN of)
+      (NP
+        (NP (DT that) (NN im))
+        (PP (IN against)
+          (S
+            (VP
+              (VP (VBG turning)
+                (NP (NN birth) (NNS certificates))
+                (PP (IN into)
+                  (NP (NN ownership) (NNS reciepts))))
+              (, ,)
+              (VP (VBG reflecting)
+                (NP
+                  (NP (DT a) (JJ legal) (NN composition))
+                  (PP (IN of)
+                    (NP (NN parenthood)))))
+              (CC and)
+              (VP
+                (ADVP (RB completely))
+                (VBG dissolving)
+                (NP (DT the) (JJ biological)
+                  (CC and)
+                  (JJ cultural) (NN reality))))))))
+    (. .)))
+

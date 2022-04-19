@@ -1,0 +1,1 @@
+moreover, the personal digital assistant 100 configures the handwriting recognition device 106 to receive user input handwriting stroke data oriented according to display mode 2. thus the user can use the stylus to stroke a character in an orientation aligned with the display orientation 102 on the handwriting recognition device 106.

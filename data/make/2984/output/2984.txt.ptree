@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (ADVP (RB usually))
+    (PRN (, ,)
+      (S
+        (NP (PRP he))
+        (VP (VBZ argues)))
+      (, ,))
+    (NP (PRP we))
+    (VP (VBP project)
+      (NP (NN agency))
+      (PP (TO to)
+        (NP (NN nature) (NNS insofar)))
+      (SBAR (IN as)
+        (S
+          (NP (EX there))
+          (VP (VBZ is)
+            (NP
+              (NP (DT some) (NN kind))
+              (PP (IN of)
+                (NP (JJ economic) (NN interest))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP
+      (ADVP (RB hence))
+      (IN for)
+      (NP (NN instance)))
+    (, ,)
+    (NP (NN richard))
+    (VP (VBZ dawkinss)
+      (NP (DT the) (JJ selfish) (NN gene)))
+    (. .)))
+

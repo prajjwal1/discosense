@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (JJ dietary) (NNS data))
+      (PP (IN from)
+        (NP (DT the) (JJ different) (NNS days))))
+    (VP (MD could)
+      (VP (VB affect)
+        (NP (JJ actual) (NN dietary) (NN intake))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thus))
+    (NP
+      (NP (CD 8) (NNS days))
+      (PP (RB out) (IN of)
+        (NP (DT all) (NNS days))))
+    (VP (VBD were)
+      (ADVP (RB randomly))
+      (VP (VBN selected)
+        (PP (IN through)
+          (NP
+            (NP (DT the) (NN survey) (JJ select) (NN procedure))
+            (VP (VBG using)
+              (NP (NN sas)))))))
+    (. .)))
+

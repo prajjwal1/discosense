@@ -1,0 +1,4 @@
+conn:if conn_POS:IN prev1:life prev1_POS:NN with_prev1_full:life_if with_prev1_POS_full:NN_IN prev2:battery prev2_POS:NN with_prev2_full:battery_if with_prev2_POS_full:NN_IN NA
+conn:also conn_POS:RB prev1:youve prev1_POS:NN with_prev1_full:youve_also with_prev1_POS_full:NN_RB prev2:if prev2_POS:IN with_prev2_full:if_also with_prev2_POS_full:IN_RB NA
+conn:in_other_words conn_POS:IN_JJ_NNS sent_pos:0 NA
+conn:if conn_POS:IN prev1:out prev1_POS:RP with_prev1_full:out_if with_prev1_POS_full:RP_IN prev2:figuring prev2_POS:VBG with_prev2_full:figuring_if with_prev2_POS_full:VBG_IN NA

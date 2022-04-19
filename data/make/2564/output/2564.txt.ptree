@@ -1,0 +1,59 @@
+(ROOT
+  (S
+    (PP (IN on)
+      (NP
+        (NP (NN top))
+        (PP (IN of)
+          (NP (DT the) (JJ pcie) (NN bus)))))
+    (NP (EX there))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (NN dma) (NN engine))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBZ makes)
+              (S
+                (NP (PRP it))
+                (ADJP (JJ possible)
+                  (PP (IN for)
+                    (NP (DT a) (NN nic)
+                      (S
+                        (VP (TO to)
+                          (VP (VB read)
+                            (CC and)
+                            (VB write)
+                            (PP (IN from)
+                              (PP (TO to)
+                                (NP (NN host) (NN memory))))
+                            (PP (IN without)
+                              (S
+                                (VP (VBG using)
+                                  (NP (DT a) (NN cpu)))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP
+        (NP (JJ other) (NNS words))
+        (SBAR (IN while)
+          (S
+            (NP (DT the) (NN nic))
+            (VP (VBZ is)
+              (ADJP (JJ active)))))))
+    (, ,)
+    (NP (PRP it))
+    (VP (MD will)
+      (ADVP (RB always))
+      (VP (VB read)
+        (CC and)
+        (VB write)
+        (NP (NNS packets))
+        (PP (IN on)
+          (NP (PRP$ its) (JJ own)))
+        (, ,)
+        (PP (IN with)
+          (NP (JJ minimal) (NN cpu) (NN intervention)))))
+    (. .)))
+

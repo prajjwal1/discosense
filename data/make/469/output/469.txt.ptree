@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (S
+      (SBAR (IN if)
+        (S
+          (NP (NNS mobiles))
+          (VP (VBD were)
+            (NP
+              (NP (DT the) (NN cause))
+              (PP (IN of)
+                (NP (DT the) (NN increase)))))))
+      (, ,)
+      (NP (NN youd))
+      (VP (VBP expect)
+        (NP
+          (NP (DT a)
+            (ADJP (RB very) (JJ high))
+            (NN number))
+          (PP (IN of)
+            (NP (VBG roving) (NN wire) (NNS taps))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (DT the) (NN report))
+      (VP (VBZ lists)
+        (NP (RB only) (DT a) (JJ tiny) (NN number))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB likewise))
+    (NP (JJ online) (NNS accounts))
+    (VP (VBP are)
+      (NP
+        (NP (DT a) (JJ poor) (NN explanation))
+        (SBAR (IN since)
+          (S
+            (NP (NN wiretap) (NNS orders))
+            (VP (MD can)
+              (VP (VB cover)
+                (NP (JJ multiple) (NNS technologies))))))))
+    (. .)))
+

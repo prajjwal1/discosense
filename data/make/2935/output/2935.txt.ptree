@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (NP (PRP we))
+    (VP (VBD took)
+      (NP
+        (NP (NN apartment) (CD 6))
+        (, ,)
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (VBD had)
+              (NP
+                (NP (DT a)
+                  (ADJP (RBR more) (JJ restricted))
+                  (NN view))
+                (PP (IN of)
+                  (NP (DT the) (NN beach)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nonetheless))
+    (NP (PRP it))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (JJ lovely) (NN apartment) (NN spacious))
+        (, ,)
+        (ADJP
+          (ADJP (RB well) (JJ equipped))
+          (, ,)
+          (ADJP (RB tastefully) (VBN decorated))
+          (CC and)
+          (ADJP (RB very) (JJ new)))))
+    (. .)))
+

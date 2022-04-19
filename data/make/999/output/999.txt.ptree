@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (ADVP (RB now))
+    (, ,)
+    (PP (IN for)
+      (NP
+        (NP (DT those))
+        (PP (IN of)
+          (NP (PRP you)))
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP (VBP havent)
+              (VP (VB read)
+                (NP (DT the) (JJ first) (CD two) (NNS books))
+                (ADVP (RB yet))))))))
+    (, ,)
+    (NP (PRP you))
+    (VP (MD may)
+      (VP (VB want)
+        (S
+          (VP (TO to)
+            (VP (VB stop)
+              (ADVP (RB here)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB instead))
+    (VP
+      (VP (VB go)
+        (ADVP (RB back)))
+      (CC and)
+      (VP (VB read)
+        (NP
+          (NP (PRP$ my)
+            (ADJP (RB mostly) (JJ spoiler))
+            (JJ free) (NN review))
+          (PP (IN of)
+            (NP (DT those))))))
+    (. .)))
+

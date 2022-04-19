@@ -1,0 +1,1 @@
+by uploading a file with the same name as an existing file, that includes an underscore followed by a dot, it is possible to bypass the file renaming mitigation in place. for instance by uploading a file twice with the name.

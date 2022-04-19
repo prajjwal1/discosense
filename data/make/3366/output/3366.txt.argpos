@@ -1,0 +1,3 @@
+conn:and conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_and with_prev1_POS_full:,_CC prev2:philosophy prev2_POS:NN with_prev2_full:philosophy_and with_prev2_POS_full:NN_CC NA
+conn:and conn_POS:CC prev1:game prev1_POS:NN with_prev1_full:game_and with_prev1_POS_full:NN_CC prev2:a prev2_POS:DT with_prev2_full:a_and with_prev2_POS_full:DT_CC NA
+conn:if conn_POS:IN prev1:and prev1_POS:CC with_prev1_full:and_if with_prev1_POS_full:CC_IN prev2:game prev2_POS:NN with_prev2_full:game_if with_prev2_POS_full:NN_IN NA

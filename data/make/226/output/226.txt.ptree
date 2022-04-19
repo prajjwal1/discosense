@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (NP
+      (NP (NN geoff))
+      (SBAR (IN if)
+        (S
+          (VP (VBP have)
+            (NP (DT a)
+              (ADJP (RB really) (JJ strong))
+              (NN site)
+              (CC or)
+              (NN blog))))))
+    (, ,)
+    (ADVP (JJ great))
+    (, ,)
+    (VP (VBZ theres)
+      (NP (PRP$ your) (NN reach)))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (ADVP (RB likewise))
+      (IN if)
+      (S
+        (NP (PRP you))
+        (VP (VBP have)
+          (NP (DT a) (JJ strong) (JJ social) (NN presence)))))
+    (, ,)
+    (NP (PRP you))
+    (VP (MD can)
+      (VP (VB leverage)
+        (SBAR (IN that)
+          (S
+            (VP (TO to)
+              (VP (VB get)
+                (S
+                  (NP (NNS people))
+                  (VP (TO to)
+                    (VP (VB see)
+                      (NP (PRP$ your) (NN content)))))))))))
+    (. .)))
+

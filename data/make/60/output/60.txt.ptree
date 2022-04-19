@@ -1,0 +1,56 @@
+(ROOT
+  (S
+    (NP (DT both) (NN voldemort)
+      (CC and)
+      (NN hitler))
+    (VP
+      (VP (VBD developed)
+        (NP
+          (NP (NNS abilities))
+          (PP (IN of)
+            (NP (NN persuasion)
+              (CC and)
+              (NN manipulation))))
+        (PP (IN during)
+          (NP (PRP$ their) (NNS childhoods))))
+      (CC and)
+      (VP (VBD carried)
+        (NP (PRP them))
+        (PP (TO to)
+          (NP (PRP$ their) (NN adulthood)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thus))
+    (NP (DT neither))
+    (VP (MD can)
+      (VP (VB be)
+        (VP (VBN considered)
+          (S
+            (ADJP (JJ unintelligent)))
+          (, ,)
+          (SBAR (IN because)
+            (S
+              (NP (DT both))
+              (, ,)
+              (PP (IN at)
+                (NP (DT a) (JJ young) (NN age)))
+              (, ,)
+              (VP (VBD knew)
+                (SBAR
+                  (WHADVP (WRB how))
+                  (S
+                    (VP (TO to)
+                      (VP (VB manipulate)
+                        (S
+                          (NP (NNS others))
+                          (VP (TO to)
+                            (VP (VB get)
+                              (SBAR
+                                (WHNP (WP what))
+                                (S
+                                  (NP (PRP they))
+                                  (VP (VBP want)))))))))))))))))
+    (. .)))
+

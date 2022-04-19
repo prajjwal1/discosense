@@ -1,0 +1,2 @@
+conn:but conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_but with_prev1_POS_full:,_CC prev2:me prev2_POS:PRP with_prev2_full:me_but with_prev2_POS_full:PRP_CC NA
+conn:otherwise conn_POS:RB sent_pos:0 NA

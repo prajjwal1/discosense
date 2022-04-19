@@ -1,0 +1,55 @@
+(ROOT
+  (S
+    (NP (PRP they))
+    (VP (VBP need)
+      (NP
+        (NP (NN something))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP
+              (VP (VBZ stands)
+                (PRT (RP out)))
+              (, ,)
+              (VP (VBZ is)
+                (ADJP (JJ unique)))
+              (, ,)
+              (CC and)
+              (VP (VBZ is)
+                (NP
+                  (NP (NN head)
+                    (CC and)
+                    (NNS shoulders))
+                  (PP (IN above)
+                    (NP (DT the) (JJ average) (NN flower))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB though))
+    (S
+      (NP
+        (NP (DT the) (NN lack))
+        (PP (IN of)
+          (NP
+            (NP
+              (ADJP (JJ transparency)
+                (CC and)
+                (JJ needless))
+              (NNS intermediaries))
+            (PP (IN in)
+              (NP (DT this) (JJ archaic) (NN system))))))
+      (VP (VBZ drives)
+        (NP (NNS prices))
+        (PRT (RP up))))
+    (CC and)
+    (S
+      (NP (JJ unique) (NNS products))
+      (ADVP (RB never))
+      (VP (VBP see)
+        (NP
+          (NP (DT the) (NN inside))
+          (PP (IN of)
+            (NP (JJ local) (JJ wholesale) (NNS coolers))))))
+    (. .)))
+

@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (NN stew))
+      (SBAR
+        (S
+          (NP (PRP she))
+          (VP (VBZ makes)
+            (ADVP (RB here))))))
+    (, ,)
+    (ADVP (RB however))
+    (, ,)
+    (VP (VBZ is)
+      (ADJP (RB quite) (JJ different))
+      (SBAR (IN because)
+        (S
+          (NP (PRP$ my) (NN mother))
+          (ADVP (RB typically))
+          (VP (VBP doesnt)
+            (NP
+              (NP (NN stock) (NN vinegar))
+              (PP (IN in)
+                (NP (PRP$ her) (NN kitchen))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB instead)
+      (ADJP (JJ dark)))
+    (, ,)
+    (S
+      (NP (JJ sweet) (NN soy) (NN sauce))
+      (VP (VBZ is)
+        (NP (DT the) (JJ main) (NN ingredient))))
+    (CC but)
+    (S
+      (NP (DT the) (NN result))
+      (VP (MD can)
+        (VP (VB be)
+          (ADJP (RB just) (RB as) (JJ satisfying)))))
+    (. .)))
+

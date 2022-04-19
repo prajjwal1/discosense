@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT a) (VBG growing) (NN trend))
+      (PP (IN on)
+        (NP (DT the) (NN web))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (NN moment))
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP (DT a) (JJ video) (NN content))
+            (VP
+              (VP (VBZ takes)
+                (PRT (RP over)))
+              (CC or)
+              (VP (VBZ replaces)
+                (NP
+                  (NP (DT a) (NN medium))
+                  (SBAR
+                    (WHNP (WDT which))
+                    (S
+                      (VP (VBZ conveys)
+                        (NP (NN information))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP (NN instance)))
+    (NP (DT a) (JJ video) (NN interview))
+    (VP (VBZ takes)
+      (NP
+        (NP (DT the) (NN place))
+        (PP (IN of)
+          (NP (DT a) (VBN written) (NN interview)))))
+    (. .)))
+

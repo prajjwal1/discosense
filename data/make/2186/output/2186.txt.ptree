@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (NP (DT the) (NN usa))
+    (VP (VBZ sees)
+      (NP
+        (NP (NN britain))
+        (PP (IN as)
+          (NP (DT a) (JJ useful) (NN link))))
+      (PP (IN into)
+        (NP (NN europe))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB conversely))
+    (NP (DT the) (NN eu))
+    (VP (VBZ sees)
+      (NP (NN britain))
+      (PP (IN as)
+        (NP
+          (NP (DT a) (JJ useful) (NN link))
+          (PP (IN with)
+            (NP (DT the) (PRP us))))))
+    (. .)))
+

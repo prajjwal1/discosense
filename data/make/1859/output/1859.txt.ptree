@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (NP (PRP$ your) (NN eye) (NNS drawings))
+    (VP (VBP show)
+      (ADVP (RB so) (RB much)))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (ADJP (JJ particular)))
+    (NP (PRP they))
+    (VP (VBP show)
+      (NP (PRP$ your) (NN enthusiasm))
+      (PP (IN for)
+        (S
+          (VP (VBG drawing)
+            (NP (PRP them))
+            (PP (IN in)
+              (NP (DT the) (JJ first) (NN place)))))))
+    (. .)))
+

@@ -1,0 +1,44 @@
+(ROOT
+  (S
+    (NP (PRP he))
+    (VP (VBZ agrees)
+      (PP (IN with)
+        (NP (PRP$ yours)
+          (ADJP (RB truly) (DT that))
+          (NNS theres)))
+      (NP
+        (NP (RB almost) (NN nothing))
+        (PP (IN in)
+          (NP
+            (NP (DT this) (NN story))
+            (SBAR (IN that)
+              (S
+                (NP (NN anybody))
+                (VP (MD could)
+                  (VP (VB want)
+                    (S
+                      (VP (TO to)
+                        (VP (VB sing)
+                          (PRT (RP about)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP
+      (ADVP (RB yet))
+      (IN in)
+      (NP
+        (NP (PRP$ his) (JJ typical) (NN fairness))
+        (PP (IN toward)
+          (NP (NN talent)))))
+    (, ,)
+    (NP (PRP he))
+    (VP (MD can)
+      (ADVP (RB still))
+      (VP (VB appreciate)
+        (NP
+          (NP (DT the) (NNS gifts))
+          (PP (IN of)
+            (NP (DT the) (NNS shows) (NN creator) (NN stephen) (NN dolginoff))))))
+    (. .)))
+

@@ -1,0 +1,1 @@
+the fail safe epo is safer than a traditional epo, since its fault mode is to open the equipment circuit breaker. however this safety assurance comes at a price.

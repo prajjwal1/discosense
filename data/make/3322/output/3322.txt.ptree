@@ -1,0 +1,48 @@
+(ROOT
+  (S
+    (NP (JJ such) (NNS types))
+    (VP (VBP have)
+      (ADVP (RB actually))
+      (VP (VBN succeeded)
+        (PP (IN in)
+          (S
+            (VP (VBG imposing)
+              (CC and)
+              (VBG maintaining)
+              (NP
+                (NP (NNS tyrannies))
+                (SBAR
+                  (WHNP (WDT that))
+                  (S
+                    (VP (VBP have)
+                      (VP (VBN ruined)
+                        (NP (NNS societies)
+                          (CC and)
+                          (NNS economies))
+                        (PP (IN in)
+                          (NP (JJ many) (NNS countries)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB however))
+    (NP
+      (NP (DT those))
+      (SBAR
+        (WHNP (WP who))
+        (S
+          (VP (VBP want)
+            (SBAR
+              (S
+                (NP (JJ such) (NNS trials))
+                (VP (MD should)
+                  (VP (VB keep)
+                    (PP (IN in)
+                      (NP (NN mind)))
+                    (NP
+                      (NP (DT the) (NNS guidelines))
+                      (PP (IN of)
+                        (NP (DT the) (VBG nuremberg) (NN war) (NNS crimes))))))))))))
+    (VP (VBZ tribunals))
+    (. .)))
+

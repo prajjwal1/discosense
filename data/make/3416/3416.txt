@@ -1,0 +1,1 @@
+as a consequence, the ground state energy in these type of islands is mainly determined by the ge concentration, while confinement energies due to size quantization are almost negligible. nevertheless a detailed understanding of intermixing processes that occur during island growth is needed in order to precisely design and control the optical properties of the islands.

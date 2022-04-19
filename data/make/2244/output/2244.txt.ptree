@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN summary)))
+    (, ,)
+    (NP
+      (NP (DT the) (NN increase))
+      (PP (IN in)
+        (NP
+          (NP (JJ renal) (NN cortical))
+          (NP
+            (NP (DT no) (NN generation))
+            (PP (IN during)
+              (NP (NN pregnancy)))))))
+    (VP (MD can) (RB not)
+      (VP (VB be)
+        (VP (VBN attributed)
+          (PP (TO to)
+            (NP
+              (NP (VBN increased) (NN abundance)
+                (CC or)
+                (NN activity))
+              (PP (IN of)
+                (NP (NNS enos))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB rather))
+    (NP
+      (NP (NNS nnos))
+      (PP (IN in)
+        (NP
+          (NP (DT the) (JJ soluble) (NN fraction))
+          (PP (IN of)
+            (NP (JJ renal) (NN cortex))))))
+    (VP (VBZ provides)
+      (NP (DT the) (JJ likely) (NN source)))
+    (. .)))
+

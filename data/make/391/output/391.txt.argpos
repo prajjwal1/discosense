@@ -1,0 +1,2 @@
+conn:because conn_POS:IN prev1:thompson prev1_POS:NN with_prev1_full:thompson_because with_prev1_POS_full:NN_IN prev2:reaching prev2_POS:VBG with_prev2_full:reaching_because with_prev2_POS_full:VBG_IN NA
+conn:as_a_result conn_POS:IN_DT_NN sent_pos:0 NA

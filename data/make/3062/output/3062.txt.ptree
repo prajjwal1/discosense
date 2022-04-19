@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (NP (PRP they))
+    (ADVP (RB even))
+    (VP (VBP play)
+      (NP (JJ online) (NNS games))
+      (PP (IN through)
+        (NP (DT the) (NN internet))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB therefore))
+    (NP (NN computer) (NNS skills))
+    (VP (VBP are)
+      (ADJP (JJ important)
+        (PP (IN for)
+          (NP (NNS students)
+            (S
+              (VP (TO to)
+                (VP (VB communicate)
+                  (PP (IN with)
+                    (NP
+                      (NP (PRP$ their) (NNS teachers))
+                      (CC and)
+                      (NP (JJ fellow) (NNS students)))))))))))
+    (. .)))
+

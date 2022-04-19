@@ -1,0 +1,39 @@
+(ROOT
+  (SINV
+    (VP (VBG zooming)
+      (PP (IN in)
+        (PP (TO to)
+          (NP (JJ full) (NN magnification)))))
+    (VP (VBZ shows)
+      (NP (JJ green) (NN colour))
+      (VP (VB present)
+        (ADVP (RB even))
+        (PP (IN at)
+          (NP (NN iso)))))
+    (NP
+      (NP (CD 100))
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (VP (VBZ is)
+            (NP (DT a) (JJ great) (NN shame))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ interestingly) (NN edge) (NN definition))
+    (VP (VBZ seems)
+      (S
+        (NP
+          (NP (JJ sharp) (NN enough))
+          (CC and)
+          (NP (DT the) (NN noise) (NN isnt)))
+        (VP (VBG interfering)
+          (PP (IN with)
+            (NP
+              (NP (DT the) (JJ overall) (NN colour))
+              (PP (IN of)
+                (NP (DT the) (NN image))))))))
+    (. .)))
+

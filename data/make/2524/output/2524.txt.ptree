@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (NP (PRP we))
+    (VP (VBP understand)
+      (SBAR (IN that)
+        (S
+          (NP (PRP you))
+          (VP (VBP need)
+            (S
+              (VP (TO to)
+                (VP (VB have)
+                  (NP (PRP$ your) (JJ genuine) (NN samsung) (NN colour) (NN toner) (NNS cartridges))
+                  (VP (VBN delivered)
+                    (PP (TO to)
+                      (NP (DT the) (NN shipping) (NN address)))
+                    (ADVP
+                      (ADVP (RB as) (RB soon))
+                      (PP (IN as)
+                        (ADJP (JJ possible))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB because) (IN of)
+      (NP (DT this)))
+    (NP (PRP we))
+    (VP (VBD set)
+      (PRT (RP up))
+      (NP
+        (NP (DT a) (JJ wide) (NN network))
+        (PP (IN of)
+          (NP (NNS warehouses))))
+      (PP (DT all) (IN throughout)
+        (NP (NN australia))))
+    (. .)))
+

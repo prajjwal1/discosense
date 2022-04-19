@@ -1,0 +1,51 @@
+(ROOT
+  (S
+    (NP (DT this) (NN morning))
+    (, ,)
+    (NP
+      (NP (PRP$ my) (NN cab) (NN driver))
+      (CC and)
+      (NP (FW i)))
+    (VP (VBD had)
+      (NP
+        (NP (DT a) (NN discussion))
+        (PP (IN about)
+          (NP (DT this)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (ADJP (JJ particular)))
+    (NP (PRP we))
+    (VP (VBD talked)
+      (PP (IN about)
+        (NP
+          (NP (NN liu) (NN xiang))
+          (, ,)
+          (NP (DT the) (JJ chinese) (NN hurdler))))
+      (SBAR
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP (VBD won)
+              (NP (NN gold))
+              (PP (IN in)
+                (NP (JJ athens) (CD 2004))))))
+        (, ,)
+        (CC and)
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP (VBZ is)
+              (VP (VBG representing)
+                (NP
+                  (NP (NN china))
+                  (PP (IN in)
+                    (NP
+                      (NP (NNS hurdles))
+                      (ADVP
+                        (NP (DT this) (NN time))
+                        (RB too)))))))))))
+    (. .)))
+

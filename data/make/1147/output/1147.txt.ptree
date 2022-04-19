@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (SBAR (IN while)
+      (S
+        (ADVP (RB currently))
+        (VP (VBN based)
+          (PP (IN in)
+            (NP (NN america))))))
+    (, ,)
+    (NP (PRP he))
+    (VP (VBZ continues)
+      (PP (TO to)
+        (NP (NN journey) (NN home)))
+      (S
+        (VP (TO to)
+          (VP (VB collaborate)
+            (CC and)
+            (VB jam)
+            (PP (IN with)
+              (NP
+                (NP (NNS locals))
+                (CC and)
+                (NP (JJ legendary) (JJ tribal) (NNS musicians))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN as)
+      (NP (DT a) (NN result)))
+    (NP (PRP he))
+    (ADVP (RB never))
+    (VP (VBZ strays)
+      (ADVP (RB far)
+        (PP (IN from)
+          (NP
+            (NP (DT the) (NN essence))
+            (PP (IN of)
+              (NP (PRP$ his) (JJ lush) (JJ musical) (NNS roots)))))))
+    (. .)))
+

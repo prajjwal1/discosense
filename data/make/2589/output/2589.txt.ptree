@@ -1,0 +1,47 @@
+(ROOT
+  (S
+    (PP (IN as)
+      (PP (IN with)
+        (NP (NN season) (CD 1))))
+    (, ,)
+    (NP (NN aol))
+    (VP (VBZ is)
+      (VP (VBG putting)
+        (ADVP (RB all)
+          (NP (CD 19) (NNS episodes)))
+        (PP (NN online)
+          (PP (IN at)
+            (NP (RB once))))
+        (, ,)
+        (S
+          (VP (VBG allowing)
+            (NP (NNS viewers))
+            (PP (TO to)
+              (NP (NN binge)))))))
+    (. .)))
+
+(ROOT
+  (S (CC but)
+    (NP (DT the) (NN company))
+    (VP (MD will)
+      (ADVP (RB also))
+      (VP (VB promote)
+        (NP (JJ individual) (NNS episodes))
+        (SBAR (IN as)
+          (S
+            (NP (DT the) (NNS weeks))
+            (VP (VBP go)
+              (PP (IN on))
+              (, ,)
+              (S
+                (VP (VBG trying)
+                  (S
+                    (VP (TO to)
+                      (VP (VB drive)
+                        (NP (JJ new) (NN viewership))
+                        (PP (IN while)
+                          (S
+                            (VP (VBG reminding)
+                              (NP (VBG existing) (NNS fans)))))))))))))))
+    (. .)))
+

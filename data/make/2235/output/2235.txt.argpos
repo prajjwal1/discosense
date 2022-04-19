@@ -1,0 +1,1 @@
+conn:in_turn conn_POS:IN_NN prev1:information prev1_POS:NN with_prev1_full:information_in_turn with_prev1_POS_full:NN_IN_NN prev2:category prev2_POS:NN with_prev2_full:category_in_turn with_prev2_POS_full:NN_IN_NN NA

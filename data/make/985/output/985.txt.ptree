@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (ADVP (RB however))
+    (, ,)
+    (NP (DT the) (NNS courts))
+    (VP (VBP have)
+      (VP (VBN interpreted)
+        (NP (JJ fair) (NN use))
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (NP (DT an) (JJ affirmative) (NN defense)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (JJ other) (NNS words)))
+    (NP (DT the) (NN burden))
+    (VP (VBZ is)
+      (PP (IN on)
+        (NP (DT the) (NN defendant)
+          (S
+            (VP (TO to)
+              (VP (VB prove)
+                (NP
+                  (NP (JJ fair) (NN use))
+                  (SBAR
+                    (S
+                      (NP (DT the) (NN plaintiff))
+                      (VP (VBZ does) (RB not)
+                        (VP (VB need)
+                          (S
+                            (VP (TO to)
+                              (VP (VB establish)
+                                (SBAR (IN that)
+                                  (S
+                                    (NP (DT the) (NN use))
+                                    (VP (VBZ falls)
+                                      (PP (IN outside)
+                                        (NP (JJ fair) (NN use))))))))))))))))))))
+    (. .)))
+

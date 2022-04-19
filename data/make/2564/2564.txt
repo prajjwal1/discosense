@@ -1,0 +1,1 @@
+on top of the pcie bus there is a dma engine that makes it possible for a nic to read and write from to host memory without using a cpu. in other words while the nic is active, it will always read and write packets on its own, with minimal cpu intervention.

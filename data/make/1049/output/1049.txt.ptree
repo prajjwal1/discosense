@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (ADVP (RB thus))
+    (, ,)
+    (NP (DT the) (JJ inductive) (NN coupling) (NN technique))
+    (VP (MD may)
+      (VP (VB be)
+        (VP (VBN limited)
+          (PP (IN by)
+            (NP
+              (NP (DT a) (JJ minimum) (NN pitch) (NN requirement))
+              (PP (IN between)
+                (NP (JJ adjacent) (NN receiver) (NNS circuits)))))
+          (PP (JJ due) (TO to)
+            (NP
+              (NP (DT the) (NN length))
+              (PP (IN of)
+                (NP
+                  (NP (DT the) (NN stub) (NN line))
+                  (PP (IN in)
+                    (NP (DT each) (NN coupling) (NN element))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN sum)))
+    (NP
+      (NP (JJ conventional) (NN chip))
+      (PP (TO to)
+        (NP (NN chip) (NN communication) (NNS systems))))
+    (VP (VBP have)
+      (VP (VBN employed)
+        (NP (DT a) (JJ parallel) (NN approach))
+        (S
+          (VP (TO to)
+            (VP (VB increase)
+              (NP (NN information) (NN throughput)))))))
+    (. .)))
+

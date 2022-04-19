@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNS advocates))
+      (PP (IN for)
+        (NP
+          (NP (NNS children))
+          (PP (IN with)
+            (NP (NNS disabilities))))))
+    (VP (VBD welcomed)
+      (NP (DT the) (NN speech)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB specifically))
+    (NP (NN palin))
+    (VP (VBD proposed)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (NNS parents))
+            (PP (IN of)
+              (NP
+                (NP (NNS children))
+                (PP (IN with)
+                  (NP (NNS disabilities))))))
+          (VP (MD should)
+            (VP (VB be)
+              (ADJP (JJ able)
+                (S
+                  (VP (TO to)
+                    (VP (VB choose)
+                      (SBAR
+                        (WHNP (WP what) (NN school))
+                        (S
+                          (NP (PRP$ their) (NNS children))
+                          (VP (MD will)
+                            (VP (VB attend))))))))))))))
+    (. .)))
+

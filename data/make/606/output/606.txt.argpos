@@ -1,0 +1,2 @@
+conn:and conn_POS:CC prev1:room prev1_POS:NN with_prev1_full:room_and with_prev1_POS_full:NN_CC prev2:fitness prev2_POS:NN with_prev2_full:fitness_and with_prev2_POS_full:NN_CC NA
+conn:also conn_POS:RB prev1:is prev1_POS:VBZ with_prev1_full:is_also with_prev1_POS_full:VBZ_RB prev2:there prev2_POS:EX with_prev2_full:there_also with_prev2_POS_full:EX_RB NA

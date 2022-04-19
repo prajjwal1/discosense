@@ -1,0 +1,49 @@
+(ROOT
+  (S
+    (NP (PRP he))
+    (VP
+      (VP (VBD tried)
+        (S
+          (VP (TO to)
+            (VP (VB escape)
+              (PP (IN on)
+                (NP
+                  (NP (DT a) (NN slope))
+                  (PP (IN near)
+                    (NP (DT the) (NN end)))))))))
+      (, ,)
+      (CC but)
+      (VP (VBD was)
+        (VP (VBN caught)
+          (PP (IN by)
+            (NP (CD four) (NNS riders))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nonetheless))
+    (NP (PRP he))
+    (VP
+      (ADVP (RB nonetheless))
+      (VBD prevailed)
+      (PP (IN in)
+        (NP
+          (NP (DT the) (NN sprint))
+          (PP (IN against)
+            (NP (DT these) (CD four)))))
+      (, ,)
+      (S
+        (VP (VBG taking)
+          (NP (DT the) (NN win))
+          (PP (IN on)
+            (NP
+              (NP (DT the) (NNS roads))
+              (SBAR
+                (S
+                  (NP (PRP he))
+                  (VP (VBN trained)
+                    (PRT (RP on))
+                    (PP (IN in)
+                      (NP (PRP$ his) (NN youth)))))))))))
+    (. .)))
+

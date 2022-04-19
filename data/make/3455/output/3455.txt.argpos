@@ -1,0 +1,2 @@
+conn:as_a_result conn_POS:IN_DT_NN sent_pos:0 NA
+conn:thus conn_POS:RB prev1:, prev1_POS:, with_prev1_full:,_thus with_prev1_POS_full:,_RB prev2:independently prev2_POS:RB with_prev2_full:independently_thus with_prev2_POS_full:RB_RB NA

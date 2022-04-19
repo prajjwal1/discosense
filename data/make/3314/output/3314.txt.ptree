@@ -1,0 +1,55 @@
+(ROOT
+  (S
+    (NP (DT a) (NN negotiator))
+    (ADVP (RB typically))
+    (VP (VBZ uses)
+      (NP (DT an) (NN insider) (NN lens))
+      (PP (IN for)
+        (S
+          (VP (VBG making)
+            (NP (NNS judgments))
+            (SBAR
+              (WHADVP (WRB when) (RB deeply))
+              (S
+                (VP (VBN immersed)
+                  (PP (IN in)
+                    (NP
+                      (NP (DT a) (JJ particular) (NN context)
+                        (CC or)
+                        (NN situation))
+                      (SBAR
+                        (S
+                          (NP (DT the) (NN insider))
+                          (VP (VBZ relies)
+                            (PP (IN on)
+                              (NP (JJ intuitive) (NN system) (CD 1) (NN thinking)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN by)
+      (NP (NN contrast)))
+    (NP (DT the) (JJ typical) (NN negotiator))
+    (VP (VBZ adopts)
+      (NP (DT an) (NN outsider) (NN lens))
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (VP (VBN removed)
+            (CC or)
+            (VBN detached)
+            (PP (IN from)
+              (NP
+                (NP
+                  (NP (DT a) (JJ particular) (NN situation))
+                  (SBAR
+                    (S
+                      (NP (DT the) (NN outsider))
+                      (VP (VBZ uses)
+                        (ADJP (JJ rational))))))
+                (, ,)
+                (NP
+                  (NP (NN system) (CD 2))
+                  (VP (VBG thinking)))))))))
+    (. .)))
+

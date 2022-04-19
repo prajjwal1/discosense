@@ -1,0 +1,2 @@
+conn:and conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_and with_prev1_POS_full:,_CC prev2:step prev2_POS:NN with_prev2_full:step_and with_prev2_POS_full:NN_CC NA
+conn:if conn_POS:IN prev1:itself prev1_POS:PRP with_prev1_full:itself_if with_prev1_POS_full:PRP_IN prev2:protect prev2_POS:VB with_prev2_full:protect_if with_prev2_POS_full:VB_IN NA

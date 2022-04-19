@@ -1,0 +1,2 @@
+conn:but conn_POS:CC prev1:screws prev1_POS:NNS with_prev1_full:screws_but with_prev1_POS_full:NNS_CC prev2:the prev2_POS:DT with_prev2_full:the_but with_prev2_POS_full:DT_CC NA
+conn:therefore conn_POS:RB sent_pos:0 NA

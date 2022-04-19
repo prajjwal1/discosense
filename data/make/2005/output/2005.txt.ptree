@@ -1,0 +1,48 @@
+(ROOT
+  (S
+    (PP (VBG following)
+      (NP
+        (NP (NN completion))
+        (PP (IN of)
+          (NP
+            (NP (CD one) (NN month))
+            (PP (IN of)
+              (NP (JJ continuous) (NN service)))))))
+    (, ,)
+    (NP (DT a) (JJ full) (NN time) (NN employee))
+    (VP (MD shall)
+      (VP (VB accrue)
+        (NP
+          (NP (CD eight) (NNS hours))
+          (PP (IN of)
+            (NP (NN credit))))
+        (PP (IN for)
+          (NP (JJ sick) (NN leave)))
+        (PP (IN with)
+          (NP (NN pay)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thereafter)
+      (PP (IN for)
+        (NP
+          (NP (DT each) (JJ additional) (NN month))
+          (PP (IN of)
+            (NP (NN service))))))
+    (, ,)
+    (NP
+      (NP (CD eight) (NNS hours))
+      (PP (IN of)
+        (NP
+          (NP (NN credit))
+          (PP (IN for)
+            (NP
+              (NP (JJ sick) (NN leave))
+              (PP (IN with)
+                (NP (NN pay))))))))
+    (VP (MD shall)
+      (VP (VB be)
+        (VP (VBN accrued))))
+    (. .)))
+

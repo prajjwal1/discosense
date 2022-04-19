@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (NP (DT the) (NN example))
+    (VP (VBZ shows)
+      (SBAR
+        (WHADVP (WRB how))
+        (S
+          (VP (TO to)
+            (VP (VB achieve)
+              (NP
+                (NP (JJ continuous) (NN figure) (NN numbering))
+                (PP (IN in)
+                  (NP (DT the) (NN book) (NN class)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NN conversely))
+    (VP (VBZ heres)
+      (SBAR
+        (WHADVP (WRB how))
+        (S
+          (VP (TO to)
+            (VP (VB achieve)
+              (PP (IN per)
+                (NP
+                  (NP (NN section) (NN figure) (NN numbering))
+                  (PP (IN in)
+                    (NP (DT the) (NN article) (NN class))))))))))
+    (. .)))
+

@@ -1,0 +1,3 @@
+conn:once conn_POS:IN sent_pos:0 NA
+conn:then conn_POS:RB prev1:, prev1_POS:, with_prev1_full:,_then with_prev1_POS_full:,_RB prev2:recorded prev2_POS:VBN with_prev2_full:recorded_then with_prev2_POS_full:VBN_RB NA
+conn:overall conn_POS:RB sent_pos:0 NA

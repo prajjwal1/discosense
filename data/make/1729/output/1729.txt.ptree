@@ -1,0 +1,60 @@
+(ROOT
+  (S
+    (NP (NN google))
+    (VP
+      (VP (VBZ knows)
+        (SBAR
+          (WHNP (WP what))
+          (S
+            (NP (NNS people))
+            (VP (VBP are)
+              (VP (VBG searching)
+                (PP (IN for)))))))
+      (CC and)
+      (VP (VBZ is)
+        (ADVP (RB therefore))
+        (ADJP (JJ able)
+          (S
+            (VP (TO to)
+              (VP
+                (VP (VB compare)
+                  (NP (NN search) (NNS trends))
+                  (PP (IN for)
+                    (NP (JJ different) (NNS terms))))
+                (CC and)
+                (VP (VB show)
+                  (S
+                    (NP (PRP you))
+                    (NP
+                      (NP (DT those))
+                      (PP (IN with)
+                        (NP
+                          (NP (JJ similar) (NNS searched))
+                          (PP (IN for)
+                            (NP (NN pattern))))))))))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (PP (IN for)
+      (NP
+        (NP (NN example) (NNS searches))
+        (PP (IN for)
+          (NP (NN term) (NN beer)))))
+    (VP (VBP correlate)
+      (ADVP (RB nicely)
+        (CC and)
+        (RB not)))
+    (NP
+      (NP
+        (ADJP (RB surprisingly)
+          (PP (TO to)
+            (NP
+              (NP (NNS searches))
+              (PP (IN for)
+                (NP (NN brewery))))))
+        (NN ice) (NN cube) (NNS trays))
+      (CC or)
+      (NP (JJ jalapeno)))
+    (. .)))
+

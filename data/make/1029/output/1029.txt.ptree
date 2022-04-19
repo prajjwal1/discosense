@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (NP (FW i))
+    (VP (VBP am)
+      (ADJP (JJ pleased)
+        (S
+          (VP (TO to)
+            (VP (VB report)
+              (PP (IN on)
+                (NP
+                  (NP (NN behalf))
+                  (PP (IN of)
+                    (NP (DT the) (NN community)))))
+              (SBAR (IN that)
+                (S (, ,)
+                  (PP (TO to)
+                    (NP (DT this) (NN point)))
+                  (, ,)
+                  (NP (PRP it))
+                  (VP (VBZ appears)
+                    (S
+                      (VP (TO to)
+                        (VP (VB be)
+                          (NP (DT a) (NN victory)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB similarly))
+    (NP (PRP we))
+    (VP (VBP want)
+      (S
+        (VP (TO to)
+          (VP (VB see)
+            (NP
+              (NP (DT the) (NN completion)
+                (CC and)
+                (JJ full) (NN duplication))
+              (PP (IN of)
+                (NP (DT the) (JJ western) (NN port) (NN highway))))))))
+    (. .)))
+

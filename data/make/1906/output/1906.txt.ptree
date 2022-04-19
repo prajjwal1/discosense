@@ -1,0 +1,47 @@
+(ROOT
+  (S
+    (ADVP (RB therefore))
+    (, ,)
+    (NP
+      (NP (JJS most))
+      (PP (IN of)
+        (NP
+          (NP (DT the) (NNS proteins))
+          (VP (VBG comprising)
+            (PP (IN of)
+              (NP (NN pre)))))))
+    (VP (VBD made)
+      (SBAR
+        (S
+          (NP (NNS interfaces))
+          (VP (VBP do) (RB not)
+            (VP (VB appear)
+              (S
+                (VP (TO to)
+                  (VP (VB be)
+                    (ADJP
+                      (NP (DT the) (NN target) (NNS proteins))
+                      (VBN involved)
+                      (PP (IN in)
+                        (NP (JJ allosteric) (NN communication))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN on)
+      (NP (DT the) (NN contrary)))
+    (NP (PRP they))
+    (VP (VBP seem)
+      (S
+        (VP (TO to)
+          (VP (VB serve)
+            (PP (IN as)
+              (NP (DT the) (NN effector) (NNS molecules)))
+            (PP (IN for)
+              (S
+                (VP (VBG transmitting)
+                  (NP (DT the) (JJ allosteric) (NN signal))
+                  (PP (TO to)
+                    (NP (DT the) (NN partner) (NN protein))))))))))
+    (. .)))
+

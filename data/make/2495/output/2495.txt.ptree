@@ -1,0 +1,45 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP
+        (NP (JJ roscoe) (NNS arbuckles))
+        (NP (DT the) (NN butcher) (NN boy))))
+    (, ,)
+    (NP
+      (NP (DT the) (NN cut))
+      (PP (IN in)
+        (PP (TO to)
+          (NP (NN fatty)))))
+    (ADVP (RB also))
+    (VP (VBZ matches)
+      (NP
+        (NP (PRP$ his) (NN gesture))
+        (PP (IN of)
+          (S
+            (VP (VBG putting)
+              (NP (PRP$ his) (NNS hands))
+              (PP (IN on)
+                (NP (PRP$ his) (NNS hips))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VBG interestingly)
+        (NP (RB even) (DT this) (JJ early))))
+    (, ,)
+    (NP (NNS directors))
+    (VP (VBP have)
+      (VP (VBN learned)
+        (S
+          (VP (TO to)
+            (VP (VB leave)
+              (NP
+                (NP (DT a) (JJ little) (NN bit))
+                (PP (IN of)
+                  (NP
+                    (NP (VBG overlapping) (NN action))
+                    (PP (IN across)
+                      (NP (DT the) (NN cut)))))))))))
+    (. .)))
+

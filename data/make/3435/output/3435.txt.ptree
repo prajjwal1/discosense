@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (NP (PRP she))
+    (VP (VBD described)
+      (NP
+        (NP (DT the)
+          (ADJP (JJ antebellum)
+            (NP (PRP us)))
+          (NN banking) (NN system))
+        (PP (IN as)
+          (NP (NN decentralisation))))
+      (PP (IN without)
+        (NP
+          (NP (NN freedom))
+          (SBAR
+            (S
+              (NP
+                (NP (DT the) (JJ substantial) (NN regulation))
+                (PP (IN on)
+                  (NP (NNS banks))))
+              (VP (VBD belied)
+                (S
+                  (NP (DT the) (NN word))
+                  (ADJP (JJ free)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB instead))
+    (NP (DT the) (NN system))
+    (VP (VBD was)
+      (VP (VBN fragmented)
+        (PP (IN with)
+          (NP (JJ many) (JJ small) (, ,) (JJ undiversified) (NNS banks)))))
+    (. .)))
+

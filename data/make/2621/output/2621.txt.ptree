@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT an) (NN overview))
+      (PP (IN for)
+        (NP
+          (NP (DT a) (JJ causative) (NN relationship))
+          (PP (IN between)
+            (NP (NN ros)
+              (CC and)
+              (NN endothelial) (NN inflammation))))))
+    (VP (MD will)
+      (VP (VB be)
+        (VP (VBN provided)
+          (PP (IN in)
+            (NP (DT this) (NN review))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (RB particularly) (DT a) (JJ crucial) (NN role))
+      (PP (IN for)
+        (NP
+          (NP (JJ specific) (NN protein) (NN sumoylation))
+          (PP (IN in)
+            (NP (JJ endothelial) (NN inflammation))))))
+    (VP (MD will)
+      (VP (VB be)
+        (VP (VBN presented))))
+    (. .)))
+

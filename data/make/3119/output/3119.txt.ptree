@@ -1,0 +1,54 @@
+(ROOT
+  (S
+    (ADVP (RB however))
+    (, ,)
+    (NP (DT the) (NN scale))
+    (VP
+      (VP (VBZ is)
+        (NP
+          (NP (CD one))
+          (PP (IN of)
+            (NP
+              (NP (DT the) (RBS most) (JJ comprehensive))
+              (PP (IN in)
+                (NP (NN measuring) (NN use)))))))
+      (CC and)
+      (VP (MD could)
+        (ADVP (RB conceivably))
+        (VP (VB be)
+          (ADJP (RB quite) (JJ sensitive)
+            (PP (IN in)
+              (S
+                (VP (VBG detecting)
+                  (NP
+                    (NP (JJ small) (NNS increments))
+                    (PP (IN of)
+                      (NP (NN progress))))
+                  (PP (IN in)
+                    (NP (NN knowledge) (NN use))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB particularly))
+    (NP (DT the) (NN scale))
+    (VP (MD would)
+      (VP (VB be)
+        (ADJP (JJ useful)
+          (PP (IN in)
+            (S
+              (VP (VBG evaluating)
+                (NP
+                  (NP (NNS steps))
+                  (VP (VBN taken)
+                    (PP (IN toward)
+                      (NP (NN implementation)))))))))
+        (SBAR (RB even)
+          (WHADVP (WRB when))
+          (S
+            (NP (DT the) (JJ full) (NN implementation))
+            (VP (VBZ has) (RB not)
+              (ADVP (RB yet))
+              (VP (VBN occurred)))))))
+    (. .)))
+

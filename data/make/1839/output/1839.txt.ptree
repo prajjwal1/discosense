@@ -1,0 +1,51 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN addition)))
+    (, ,)
+    (NP (DT the)
+      (ADJP (RBR more) (JJ europehits))
+      (NN homeand))
+    (VP (VBZ becomes)
+      (SBAR
+        (S
+          (S
+            (ADJP (JJ subject)
+              (PP (IN of)
+                (NP
+                  (NP (JJ normal) (JJ public) (NNS debates))
+                  (CC and)
+                  (NP (NNS controversies))))))
+          (, ,)
+          (X (DT the) (JJR more))
+          (NP (PRP it))
+          (VP (VBZ is)
+            (ADJP (JJ likely))
+            (SBAR (IN that)
+              (S
+                (NP
+                  (NP (NN research))
+                  (PP (IN on)
+                    (NP
+                      (NP (NN meaning) (NNS constructions))
+                      (CC and)
+                      (NP (JJ public) (NN discourse)))))
+                (VP (MD will)
+                  (VP (VB increase)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN sum)))
+    (NP (EX there))
+    (VP (VBZ is)
+      (NP
+        (NP (NN hope))
+        (PP (IN for)
+          (NP
+            (NP (JJ social) (NN constructivism))
+            (PP (IN in)
+              (NP (NN europeanization) (NNS studies)))))))
+    (. .)))
+

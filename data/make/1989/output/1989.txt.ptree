@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (S
+      (NP (DT the) (NN restroom))
+      (VP (VBZ has)
+        (NP
+          (NP
+            (QP (RB about) (CD 100))
+            (NNS visitors))
+          (PP (IN per)
+            (NP (NN day))))))
+    (CC and)
+    (S
+      (NP (EX there))
+      (VP (VBP are)
+        (PP
+          (NP
+            (QP (RB about) (CD 25))
+            (NN business) (NNS days))
+          (IN in)
+          (NP (DT the) (NN month)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB therefore))
+    (NP (DT the) (JJ potential) (JJ total) (NN increase))
+    (VP (MD would)
+      (VP (VB be)
+        (NP
+          (NP
+            (QP (RB about) (CD 12,500))
+            (JJ individual) (NN paper) (NNS towels))
+          (PP (IN per)
+            (NP (NN year))))))
+    (. .)))
+

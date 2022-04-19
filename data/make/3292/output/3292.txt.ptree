@@ -1,0 +1,38 @@
+(ROOT
+  (S
+    (NP
+      (NP (NN use))
+      (PP (IN of)
+        (NP (NN wood)
+          (CC and)
+          (NNS minerals))))
+    (VP (VBD increased)
+      (ADVP (RBS most))
+      (, ,)
+      (PP (DT both) (IN by)
+        (NP
+          (NP (CD 25))
+          (PP (IN per)
+            (NP (NN cent))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN by)
+      (NP (NN contrast)))
+    (NP
+      (NP (DT the) (JJ used) (NN amount))
+      (PP (IN of)
+        (NP (NNS plants))))
+    (VP (VBD decreased)
+      (PP (IN by)
+        (NP
+          (NP (CD 14))
+          (PP (IN per)
+            (NP (NN cent)))))
+      (, ,)
+      (ADJP (RB mainly) (JJ due)
+        (PP (TO to)
+          (NP (JJ diminished) (NN grain) (NN crop)))))
+    (. .)))
+

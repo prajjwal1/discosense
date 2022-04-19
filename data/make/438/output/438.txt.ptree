@@ -1,0 +1,18 @@
+(ROOT
+  (S (CC and)
+    (NP (FW i))
+    (VP (VBP have)
+      (NP (DT no) (NN pain))
+      (PP (IN during)
+        (NP (DT the) (NN day))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN sum)))
+    (NP (NNS things))
+    (VP (VBP arent)
+      (ADJP (RB too) (JJ bad)))
+    (. .)))
+

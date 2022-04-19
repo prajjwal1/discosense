@@ -1,0 +1,55 @@
+(ROOT
+  (S
+    (NP
+      (NP (PRP$ our) (NN work)
+        (CC and)
+        (NN commitment))
+      (PP (TO to)
+        (NP (JJ human) (NNS rights))))
+    (VP
+      (VP (VBZ sustains))
+      (, ,)
+      (VP (VBZ nurtures))
+      (CC and)
+      (VP (VBZ reconstructs)
+        (NP
+          (NP (NN democracy))
+          (, ,)
+          (NP
+            (NP (DT the) (NN rule))
+            (PP (IN of)
+              (NP (NN law))))
+          (CC and)
+          (NP
+            (NP (DT the) (NN development))
+            (PP (IN of)
+              (NP (JJ decent) (NN life) (NNS opportunities)))))
+        (PP (IN for)
+          (NP
+            (NP (DT the) (NN whole))
+            (PP (IN of)
+              (NP (NN society)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB particularly))
+    (NP (PRP$ our) (NNS actions))
+    (VP (VBP favour)
+      (NP
+        (NP (NN liberty))
+        (, ,)
+        (NP
+          (NP (NNS citizens) (NN access))
+          (PP (TO to)
+            (NP (NN justice))))
+        (CC and)
+        (NP
+          (NP (DT the) (NN end))
+          (PP (TO to)
+            (NP
+              (NP (NN discrimination))
+              (PP (IN against)
+                (NP (NNS women))))))))
+    (. .)))
+

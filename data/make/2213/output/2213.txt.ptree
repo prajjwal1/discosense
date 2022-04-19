@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (NP (PRP they))
+    (VP (VBD were)
+      (ADJP (JJ flexible)
+        (CC and)
+        (JJ easy)
+        (S
+          (VP (TO to)
+            (VP (VB work)
+              (PP (IN with))))))
+      (, ,)
+      (PP (IN although) (IN at)
+        (NP
+          (NP
+            (NP (NNS times))
+            (NP (DT a) (NN bit))
+            (ADJP (JJ slow)
+              (S
+                (VP (TO to)
+                  (VP (VB return)
+                    (NP (DT a) (NN call)))))))
+          (CC or)
+          (NP (NN email)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB overall))
+    (NP
+      (NP (DT an) (JJ amazing) (NN experience))
+      (CC and)
+      (NP (FW i)))
+    (VP (MD would)
+      (ADVP (RB highly))
+      (VP (VB recommend)
+        (NP (PRP them))))
+    (. .)))
+

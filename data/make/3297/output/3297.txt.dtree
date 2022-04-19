@@ -1,0 +1,18 @@
+amod(works-3, beethovens-1)
+dep(beethovens-1, greatest-2)
+nsubj(response-6, works-3)
+cop(response-6, are-4)
+poss(response-6, his-5)
+root(ROOT-0, response-6)
+det(demands-10, the-8)
+amod(demands-10, greatest-9)
+prep_to(response-6, demands-10)
+
+advmod(are-5, conversely-1)
+poss(pieces-4, his-2)
+amod(pieces-4, occasional-3)
+nsubj(are-5, pieces-4)
+root(ROOT-0, are-5)
+amod(value-8, subordinate-7)
+prep_of(are-5, value-8)
+

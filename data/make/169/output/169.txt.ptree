@@ -1,0 +1,61 @@
+(ROOT
+  (S
+    (NP (NNS narcissus))
+    (VP (VBP gaze) (, ,)
+      (PP (IN in)
+        (NP (JJ ovids) (NN narrative)))
+      (, ,)
+      (SBAR
+        (SBAR
+          (S
+            (VP (VBZ is)
+              (ADJP (JJ circular)))))
+        (, ,)
+        (CC and)
+        (SBAR (IN for)
+          (S
+            (NP (DT that) (NN reason))
+            (VP (VBD fruitless)
+              (SBAR
+                (S
+                  (NP (PRP$ his) (JJ visual) (NN self) (NN absorption))
+                  (VP
+                    (VP (VBZ evades)
+                      (NP (DT a) (JJ judging) (JJ social) (NN mirror)))
+                    (, ,)
+                    (CC and)
+                    (VP (VBZ does) (RB not)
+                      (VP (VB lead)
+                        (PP (TO to)
+                          (NP (DT a) (JJ platonic) (NN sublimation)))
+                        (ADVP (RB either))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB instead))
+    (NP (CD two) (NN mirror) (NNS traditions))
+    (VP (VBP collide)
+      (NP
+        (NP (RB here) (DT the) (NN mirror))
+        (PP (IN of)
+          (NP (NN self) (NN examination) (NNS clashes))))
+      (PP (IN with)
+        (NP
+          (NP (DT the) (NN mirror))
+          (PP (IN of)
+            (NP (NN illusion)
+              (CC and)
+              (NN deceit)))))
+      (, ,)
+      (ADJP (JJ subject)
+        (PP (IN with)
+          (NP
+            (NP (NN object))
+            (, ,)
+            (NP
+              (NP (DT the) (JJ platonic) (NNS erastes))
+              (PP (IN with)
+                (NP (PRP$ his) (NNS eromenos))))))))
+    (. .)))
+

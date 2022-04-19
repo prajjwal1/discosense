@@ -1,0 +1,38 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (NN guarantee))
+      (PP (IN of)
+        (NP (JJ polands) (NN independence)))
+      (, ,)
+      (VP (VBN provided)
+        (PP (IN by)
+          (NP (NN england))))
+      (, ,))
+    (VP (VBD was) (RB not)
+      (NP
+        (NP (DT a) (NN guarantee))
+        (ADVP (IN at) (DT all))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN on)
+      (NP (DT the) (NN contrary)))
+    (NP (PRP it))
+    (VP (VBD was)
+      (NP
+        (NP (DT a) (NN speculation))
+        (, ,)
+        (SBAR
+          (WHNP (WP$ whose) (NN purpose))
+          (S
+            (VP (VBD was)
+              (NP
+                (NP (DT the)
+                  (ADJP (JJS fastest) (JJ possible))
+                  (NN liquidation))
+                (PP (IN of)
+                  (NP (DT the) (NN polish) (NN state)))))))))
+    (. .)))
+

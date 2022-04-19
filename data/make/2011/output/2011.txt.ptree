@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (S
+      (NP (FW i))
+      (VP (VBP wasnt)
+        (PP (IN in)
+          (NP (PRP$ my) (NN zone)))))
+    (, ,)
+    (NP (PRP$ my) (NN cadence))
+    (VP (VBD was)
+      (ADVP (RB way) (RB too)
+        (SBAR
+          (S
+            (NP (NNS lowi))
+            (VP (VBP mean) (, ,)
+              (ADVP (RB really))
+              (, ,)
+              (SBAR
+                (WHNP (WP what))
+                (S
+                  (VP (VBD was)
+                    (NP
+                      (NP (FW i))
+                      (VP (VBG getting)
+                        (S
+                          (VP (VBN done)
+                            (ADVP (RB anyway))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB yet))
+    (NP (FW i))
+    (VP (VBD pushed)
+      (PRT (RP through)))
+    (. .)))
+

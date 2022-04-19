@@ -1,0 +1,58 @@
+(ROOT
+  (S
+    (NP (DT the) (JJ real) (NN estate) (NN program))
+    (VP
+      (VP (VBZ emphasizes)
+        (NP (DT both) (JJ private)
+          (CC and)
+          (NN public) (NN sector) (JJ real) (NN estate)))
+      (, ,)
+      (CC and)
+      (RB not)
+      (VP
+        (ADVP (RB only))
+        (VBZ focuses)
+        (PP (IN on)
+          (NP (DT the) (NN business)))
+        (NP
+          (NP
+            (NP (NNS aspects))
+            (PP (IN of)
+              (NP (JJ real) (NN estate))))
+          (CONJP (CC but)
+            (RB also))
+          (NP (DT the) (NN design) (NNS elements)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB specifically))
+    (NP (DT the) (NN development) (NN track))
+    (VP (VBZ helps)
+      (SBAR
+        (S
+          (NP (PRP one))
+          (VP (VBP understand)
+            (NP
+              (NP (DT the) (JJ financial) (NNS considerations))
+              (, ,)
+              (NP (NN market) (NN demand))
+              (, ,)
+              (NP (NN project) (NN feasibility))
+              (, ,)
+              (NP (NN financing))
+              (, ,)
+              (CC and)
+              (NP (JJ environmental) (NNS considerations)))
+            (SBAR (IN that)
+              (S
+                (NP
+                  (NP (NN drive) (NNS decisions))
+                  (PP (IN on)
+                    (UCP (IN whether)
+                      (CC and)
+                      (WHADVP (WRB where)))))
+                (VP (TO to)
+                  (VP (VB develop)))))))))
+    (. .)))
+

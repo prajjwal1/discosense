@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (SBAR (IN because)
+      (S
+        (NP (NNS flameless) (NNS candles))
+        (VP (VBP are)
+          (VP (VBN illuminated)
+            (PP (IN by)
+              (NP
+                (NP (DT a) (JJ small) (JJ light) (NN bulb))
+                (, ,)
+                (CONJP (RB rather) (IN than))
+                (NP (DT an) (JJ open) (NN flame))))))))
+    (, ,)
+    (NP (PRP they))
+    (VP
+      (VP (VBP pose)
+        (NP (JJR less) (NN threat))
+        (PP (IN as)
+          (NP (NN fire) (NNS hazards))))
+      (CC and)
+      (VP (VBP do) (RB not)
+        (VP (VB melt)
+          (CC or)
+          (VB lose)
+          (NP (PRP$ their) (NN form))
+          (PP (IN over)
+            (NP (NN time))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nonetheless))
+    (NP
+      (NP (DT the) (NNS bulbs))
+      (PP (IN inside)
+        (NP (DT some) (JJ flameless) (NNS candles))))
+    (VP (MD may)
+      (VP (VB heat)
+        (PRT (RP up))
+        (ADVP (RB significantly))))
+    (. .)))
+

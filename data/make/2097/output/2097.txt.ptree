@@ -1,0 +1,52 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (NN wedge))
+      (VP (VBN shaped)
+        (NP (NN profile))))
+    (VP (VBD was)
+      (VP (VBN designed)
+        (S
+          (VP (TO to)
+            (VP (VB evoke)
+              (NP
+                (NP (DT the) (NN image))
+                (PP (IN of)
+                  (NP
+                    (NP (DT a) (JJ sleek) (NN arrow))
+                    (VP (VBG cutting)
+                      (PP (IN through)
+                        (NP (DT a) (JJ mighty) (NN wind))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (ADJP (JJ particular)))
+    (NP
+      (NP (DT the) (NN body) (NN design))
+      (PP (IN between)
+        (NP
+          (NP (DT the) (JJ front) (NN wheel) (NNS arches))
+          (CC and)
+          (NP (DT the) (NN roof) (NNS pillars)))))
+    (VP (VBZ is)
+      (VP (VBN intended)
+        (S
+          (VP (TO to)
+            (VP (VB express)
+              (NP
+                (NP (DT the) (NN agility)
+                  (CC and)
+                  (NN dynamism))
+                (PP (IN of)
+                  (NP (NN wind))))
+              (S
+                (VP (VBG gusting)
+                  (PRT (RP along))
+                  (NP
+                    (NP (DT the) (NN side))
+                    (PP (IN of)
+                      (NP (DT the) (NN vehicle)))))))))))
+    (. .)))
+

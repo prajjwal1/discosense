@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (PP (IN for)
+      (NP (NN example)))
+    (, ,)
+    (NP
+      (NP (DT the) (JJ august) (CD 2011) (JJ spiffy) (NN pop))
+      (PP (IN for)
+        (NP (NN priceline))))
+    (VP (VBD was)
+      (NP (DT a) (CD 44) (NN rise))
+      (SBAR (IN after)
+        (S
+          (NP (DT the) (NN stock))
+          (VP (VBD had)
+            (VP (VBN lost)
+              (ADVP
+                (NP
+                  (NP (CD 38))
+                  (NP (DT the) (NN day)))
+                (IN before)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP
+      (ADVP (RB similarly))
+      (IN on)
+      (NP (NNP january) (CD 24) (, ,) (CD 2013)))
+    (, ,)
+    (NP (NN netflix))
+    (VP (VBD moved)
+      (PRT (RP up))
+      (NP (CD 43))
+      (PP (IN from)
+        (NP
+          (QP (CD 105) (TO to) (CD 148)))))
+    (. .)))
+

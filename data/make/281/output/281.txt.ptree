@@ -1,0 +1,29 @@
+(ROOT
+  (S (CC but)
+    (VP (VBZ thats)
+      (SBAR (RB only) (IN after)
+        (S
+          (NP (PRP you))
+          (VP (VBP get)
+            (PP (IN with)
+              (NP (PRP it)))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (ADVP (RB otherwise))
+    (VP (VBP expect)
+      (NP
+        (NP (JJ broken) (NNS controllers))
+        (, ,)
+        (NP (NN tv) (NNS sets))
+        (, ,)
+        (NP (NN furniture))
+        (, ,)
+        (CC and)
+        (NP (RB even) (PRP$ your) (NN pet))))
+    (NP (NNS cats)
+      (CC and)
+      (NNS dogs))
+    (. .)))
+

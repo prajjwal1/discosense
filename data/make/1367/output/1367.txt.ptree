@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (NP
+      (NP (PRP$ my) (JJ overall) (NNS thoughts))
+      (PP (IN on)
+        (NP (DT the) (NN beer) (NN dont) (NN change))))
+    (, ,)
+    (ADVP (RB however))
+    (NP (DT the) (NN hop) (NN body))
+    (VP (VBZ is)
+      (ADJP (RB very) (JJ assertive)
+        (PP (IN for)
+          (NP (DT an) (NN esb)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB because) (IN of)
+      (NP (DT this)))
+    (NP (DT the) (NN drinkability))
+    (VP (VBZ has)
+      (VP (VBN been)
+        (VP (VBN increased)
+          (PP (IN from)
+            (NP (DT a) (CD 3.0)))
+          (PP (TO to)
+            (NP
+              (QP (DT a) (CD 3.5)))))))
+    (. .)))
+

@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (NP (JJR faster) (NNS cards))
+    (VP (VBD were)
+      (VP (VBN required)
+        (PP (IN by)
+          (NP
+            (NP
+              (NP (DT the) (VBG increasing) (NNS resolutions))
+              (PP (IN of)
+                (NP (JJ digital) (NNS cameras))))
+            (, ,)
+            (CONJP (RB as) (RB well) (IN as))
+            (NP
+              (NP (JJR more))
+              (VP (VBG demanding)
+                (NP (NNS consumers))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN as)
+      (S
+        (NP (DT a) (NN result) (NN sdhc))
+        (VP (VBD was)
+          (VP (VBN divided)
+            (PP (IN into)
+              (NP (CD three) (NNS classes)))
+            (NP (CD 2) (, ,) (CD 4)
+              (CC and)
+              (CD 6))))))
+    (NP (DT the) (NNS numbers))
+    (VP (VBP represent)
+      (S
+        (NP (DT the) (NN minimum))
+        (ADJP (JJ sustainable))
+        (S
+          (VP (VB write)
+            (NP (NN throughput))
+            (PP (IN in)
+              (NP (NN mbs)))))))
+    (. .)))
+

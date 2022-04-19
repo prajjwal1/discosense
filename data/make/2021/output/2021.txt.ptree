@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (SBAR (IN if)
+      (S
+        (NP (PRP$ your) (NN meter))
+        (VP (VBZ goes)
+          (PRT (RP off)))))
+    (, ,)
+    (NP (PRP you))
+    (VP (VBP do)
+      (NP
+        (NP (NN something))
+        (PP (IN about)
+          (NP (PRP it)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (PP (IN by)
+        (NP (NN contrast)))
+      (NP (DT no) (NNS alarms))
+      (VP (VBP exist)
+        (PP (IN for)
+          (NP (NN radon)))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (DT the) (JJ only) (NN way)
+        (S
+          (VP (TO to)
+            (VP (VB know)
+              (NP (PRP$ its))
+              (PP (IN in)
+                (NP (DT the) (NN house)))))))
+      (VP (VBZ is)
+        (S
+          (VP (TO to)
+            (VP (VB test)
+              (PP (IN for)
+                (NP (PRP it))))))))
+    (. .)))
+

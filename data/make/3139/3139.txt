@@ -1,0 +1,1 @@
+r help discussion boards are useful, but difficult to search, and many of the applications from r help are for statistics related to another field. because of this mismatch, it requires some translation to understand what the suggestion means in econometrics language.

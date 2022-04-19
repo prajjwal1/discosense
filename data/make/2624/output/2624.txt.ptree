@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (NP (JJ cardiac) (NN output))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (NN measure))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (NNS hearts) (NN effectiveness))
+            (PP (IN at)
+              (S
+                (VP (VBG circulating)
+                  (NP (NN blood))
+                  (PP (IN throughout)
+                    (NP (DT the) (JJ circulatory) (NN system))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB specifically))
+    (NP (JJ cardiac) (NN output))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (NN volume))
+        (PP (IN of)
+          (NP
+            (NP (NN blood))
+            (VP (VBN expelled)
+              (PP (IN by)
+                (NP
+                  (NP (DT the) (NN heart))
+                  (PP (IN per)
+                    (NP
+                      (NP (NN beat))
+                      (VP (VBN multiplied)
+                        (PP (IN by)
+                          (NP (DT the) (NN heart) (NN rate)))))))))))))
+    (. .)))
+

@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (ADVP (RB probably))
+    (NP (PRP she))
+    (VP (VBD drew)
+      (NP
+        (ADJP (RB too) (JJ much))
+        (NN water))
+      (S
+        (VP (TO to)
+          (VP (VB cross)
+            (NP (DT the) (NN bar))
+            (PP (IN except) (IN at)
+              (NP
+                (NP (DT the) (NN top))
+                (PP (IN of)
+                  (NP (NN spring) (NNS tides)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB therefore))
+    (NP (PRP she))
+    (VP (VBD went)
+      (PP (IN into)
+        (NP (DT that) (JJ natural) (NN harbor)))
+      (S
+        (VP (TO to)
+          (VP (VB wait)
+            (PP (IN for)
+              (NP
+                (NP (DT a) (JJ few) (NNS days))
+                (PP (IN in)
+                  (NP (NN preference)))))
+            (PP (TO to)
+              (NP
+                (NP (VBG remaining))
+                (PP (IN in)
+                  (NP (DT an) (JJ open) (NN roadstead)))))))))
+    (. .)))
+

@@ -1,0 +1,38 @@
+(ROOT
+  (S
+    (NP (NN miner))
+    (VP (VBD held)
+      (NP (JJ various) (NNS positions))
+      (PP (IN in)
+        (NP
+          (NP (DT the) (JJ old) (NN city) (JJ national) (NN bank))
+          (PP (IN of)
+            (NP (NNP chicago)))))
+      (, ,)
+      (S
+        (VP (VBG being)
+          (VP (VBN promoted)
+            (PP (IN from)
+              (NP (NN time)))
+            (PP (TO to)
+              (NP (NN time)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP
+      (ADVP (RB subsequently))
+      (IN on)
+      (NP
+        (NP (NN account))
+        (PP (IN of)
+          (NP (JJ ill) (NN health)))))
+    (, ,)
+    (NP (PRP he))
+    (VP (VBD was)
+      (VP (VBN provided)
+        (NP (NN support))
+        (PP (IN by)
+          (NP (DT the) (NN community)))))
+    (. .)))
+

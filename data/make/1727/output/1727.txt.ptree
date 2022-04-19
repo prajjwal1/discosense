@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (NP (NNS thats))
+    (VP (RB not)
+      (S
+        (VP (TO to)
+          (VP (VB say)
+            (S
+              (NP (NN kirowan) (NN doesnt))
+              (VP (VB go)
+                (ADJP (JJ crazy)
+                  (PP (IN in)
+                    (NP (DT the) (JJ last) (NN act))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN on)
+      (NP (DT the) (NN contrary)))
+    (NP (PRP you))
+    (VP (MD can)
+      (VP (VB pinpoint)
+        (NP
+          (NP (DT the) (JJ exact) (NN moment))
+          (SBAR
+            (S
+              (NP (PRP he))
+              (VP (VBZ botches)
+                (NP (PRP$ his) (JJ sanity) (NN check))))))))
+    (. .)))
+

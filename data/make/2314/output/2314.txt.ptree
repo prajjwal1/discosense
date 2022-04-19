@@ -1,0 +1,30 @@
+(ROOT
+  (S (CC or)
+    (NP
+      (NP (NN hell))
+      (, ,) (RB even)
+      (ADJP (DT the) (JJR shorter))
+      (, ,))
+    (VP (VBP picture)
+      (NP
+        (NP (JJ enhanced) (NN version))
+        (PP (IN of)
+          (NP
+            (NP (JJ such) (NNS stories))
+            (VP (VBN provided)
+              (PP (IN by)
+                (NP (NN buzzfeed))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nonetheless))
+    (NP (NN someone))
+    (VP (MD should)
+      (ADVP (RB finally))
+      (VP (VB bring)
+        (NP (DT that))
+        (PP (TO to)
+          (NP (PRP$ his) (NN attention)))))
+    (. .)))
+

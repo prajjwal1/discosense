@@ -1,0 +1,44 @@
+(ROOT
+  (S
+    (ADVP (RB additionally))
+    (, ,)
+    (NP (DT a) (JJ separate) (NN security) (NN module))
+    (VP (VBZ does) (RB not)
+      (VP (VB have)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (VP (VBN created)
+                (PP (IN for)
+                  (NP
+                    (NP (DT each) (JJ new) (NN telephony) (NN application))
+                    (CC and)
+                    (NP (JJ corresponding) (JJ new) (NN formatting) (NNS techniques))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN sum)))
+    (NP
+      (NP (DT the) (NN partitioning))
+      (PP (IN of)
+        (NP
+          (NP (DT the) (JJ specialized) (NN formatting) (NNS mechanisms))
+          (PP (IN from)
+            (NP (DT the) (NN security) (NNS mechanisms))))))
+    (VP (MD may)
+      (ADVP (RB significantly))
+      (VP
+        (VP (VB increase)
+          (NP (DT the) (NN versatility)))
+        (CC and)
+        (VP (VB reduce)
+          (NP
+            (NP (DT the) (NNS costs))
+            (PP (IN of)
+              (S
+                (VP (VBG providing)
+                  (NP (NN computer) (NN telephony) (NNS systems)))))))))
+    (. .)))
+

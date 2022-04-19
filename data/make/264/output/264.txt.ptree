@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (PP (IN on)
+      (NP (CD 1990) (NNS s)))
+    (, ,)
+    (NP (PRP$ our) (NN country))
+    (VP (VBZ has)
+      (VP (VBN experienced)
+        (NP
+          (NP (NN deregulation))
+          (, ,)
+          (NP (JJ foreign) (NN bank) (NN penetration))
+          (, ,)
+          (CC and)
+          (NP
+            (NP (DT an) (VBN accelerated) (NN process))
+            (PP (IN of)
+              (NP (NN consolidation)
+                (CC and)
+                (NN competition)))
+            (PP (IN in)
+              (NP (DT the) (NN banking) (NN sector)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (RB particularly) (DT the) (VBG working) (NN paper))
+    (VP (VBZ examines)
+      (NP
+        (NP (DT the) (NN nature))
+        (CC and)
+        (NP
+          (NP (DT the) (NN extent))
+          (PP (IN of)
+            (NP
+              (NP (NNS changes))
+              (PP (IN in)
+                (NP
+                  (NP (NN market) (NN concentration))
+                  (PP (IN of)
+                    (NP (JJ albanian) (NN banking) (NN sector))))))))))
+    (. .)))
+

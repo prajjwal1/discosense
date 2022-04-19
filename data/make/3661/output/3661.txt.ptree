@@ -1,0 +1,23 @@
+(ROOT
+  (S
+    (NP (DT the) (NNS darkness))
+    (VP (MD can)
+      (VP (VB weaken)
+        (NP
+          (NP (DT the) (NN light))
+          (PP (IN in)
+            (NP (PRP$ its) (VBG working) (NN power))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB conversely))
+    (NP (DT the) (NN light))
+    (VP (MD can)
+      (VP (VB limit)
+        (NP
+          (NP (DT the) (NN energy))
+          (PP (IN of)
+            (NP (DT the) (NNS darkness))))))
+    (. .)))
+

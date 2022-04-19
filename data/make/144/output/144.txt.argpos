@@ -1,0 +1,2 @@
+conn:in_sum conn_POS:IN_NN sent_pos:0 NA
+conn:also conn_POS:RB prev1:but prev1_POS:CC with_prev1_full:but_also with_prev1_POS_full:CC_RB prev2:forces prev2_POS:NNS with_prev2_full:forces_also with_prev2_POS_full:NNS_RB NA

@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (NP (NNS shes))
+    (ADVP (JJ alone)
+      (PP (IN in)
+        (NP (DT that) (NN department) (NNS fans) (NN cant))))
+    (VP (VBP wait)
+      (S
+        (VP (TO to)
+          (VP (VB see)
+            (SBAR
+              (WHADVP (WRB where))
+              (S
+                (NP (PRP$ its))
+                (VP (VBD headed))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB interestingly))
+    (NP (DT this) (NN isnt))
+    (VP (VBZ sofers)
+      (NP
+        (NP (RB only) (JJ controversial) (NN romance))
+        (PP (IN of)
+          (NP (DT the) (NN season)))))
+    (. .)))
+

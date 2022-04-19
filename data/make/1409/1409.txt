@@ -1,0 +1,1 @@
+these measurements have very small instrument errors so that, potentially, they can be assimilated as uniquely precise observations. thus the arctic is an ideal region to evaluate the benefit of the assimilation of gps ro data.

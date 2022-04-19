@@ -1,0 +1,2 @@
+conn:however conn_POS:RB prev1:, prev1_POS:, with_prev1_full:,_however with_prev1_POS_full:,_RB prev2:wales prev2_POS:NNS with_prev2_full:wales_however with_prev2_POS_full:NNS_RB NA
+conn:but conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_but with_prev1_POS_full:,_CC prev2:used prev2_POS:VBN with_prev2_full:used_but with_prev2_POS_full:VBN_CC NA

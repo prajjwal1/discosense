@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (NP (NN id))
+    (ADVP (RB frankly))
+    (VP
+      (VP
+        (ADVP (RB rather))
+        (VBP hold)
+        (PP (IN onto)
+          (NP
+            (NP (NN hejda))
+            (PP (IN for)
+              (NP (DT another) (NN year))))))
+      (CC or)
+      (VP
+        (ADVP
+          (NP (CD two))
+          (IN than))
+        (VBP get)
+        (NP
+          (NP (DT a) (NN 2nd))
+          (CC and)
+          (NP (DT a) (NN midtier) (NN prospect)))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN although)
+      (S
+        (S
+          (VP (VBG getting)
+            (NP (DT those) (CD two) (JJ defensive) (NNS prospects))))
+        (VP (MD would)
+          (VP (VB be)
+            (ADJP (RB very) (JJ nice))))))
+    (, ,)
+    (NP (FW i))
+    (VP (MD would)
+      (VP (VB want)
+        (NP
+          (NP (NN something))
+          (VP (VBN proven)
+            (PP (IN for)
+              (NP (NN erik) (NN johnson)))))))
+    (. .)))
+

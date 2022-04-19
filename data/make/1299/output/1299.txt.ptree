@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (JJS most) (NNS cases)))
+    (, ,)
+    (S
+      (NP (NNS dogs))
+      (VP (MD will)
+        (VP (VB keep)
+          (NP
+            (NP (PRP$ their) (JJ anal) (NNS glands))
+            (ADJP (JJ clean)
+              (CC and)
+              (JJ clear))))))
+    (CC and)
+    (S
+      (NP (NNS infections))
+      (ADVP (RB never))
+      (VP (VBP arise)))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (RB yet) (IN while)
+      (S
+        (NP (JJS most) (NNS dogs))
+        (VP (MD will)
+          (ADVP (RB never))
+          (VP (VB have)
+            (NP
+              (NP (DT a) (NN problem))
+              (PP (IN with)
+                (NP (PRP$ their) (JJ anal) (NNS glands))))))))
+    (, ,)
+    (NP (NNS infections))
+    (VP (VBP are) (RB not)
+      (ADJP (JJ uncommon)))
+    (. .)))
+

@@ -1,0 +1,60 @@
+(ROOT
+  (S
+    (NP (FW i))
+    (VP (VBP have)
+      (NP (DT a) (NN pattern))
+      (ADVP (RB here))
+      (, ,)
+      (SBAR (IN that)
+        (S
+          (VP (VBZ is)
+            (PP (IN in)
+              (NP
+                (NP (DT this) (NN book))
+                (SBAR
+                  (S
+                    (NP (FW i))
+                    (VP (VBP have)
+                      (VP (VBN taken)
+                        (PRT (RP out))
+                        (S
+                          (VP (VB form)
+                            (S
+                              (NP
+                                (NP (DT the) (NN library))
+                                (CC and)
+                                (NP (PRP$ its) (NN teaching)))
+                              (NP (PRP me)))))))))))
+            (ADVP
+              (ADVP (RB right) (RB now))
+              (SBAR
+                (WHADVP (WRB how))
+                (S
+                  (S
+                    (VP (TO to)
+                      (VP (VB do)
+                        (NP (DT an) (NN irish)))))
+                  (VP (VBD rose)
+                    (NP (NN motif))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP
+      (ADVP (RB though))
+      (IN on)
+      (NP (DT the) (NN chart)))
+    (, ,)
+    (NP (PRP$ its))
+    (ADVP (RB just))
+    (VP (VBD got)
+      (NP
+        (NP (CD one) (JJ big) (NN sircle))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBZ looks)
+              (PP (IN like)
+                (NP (DT this))))))))
+    (. .)))
+

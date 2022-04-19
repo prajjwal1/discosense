@@ -1,0 +1,49 @@
+(ROOT
+  (S
+    (PP (IN for)
+      (NP (NN example)))
+    (, ,)
+    (NP
+      (NP (DT a) (NN physician))
+      (PP (IN in)
+        (NP (JJ oakland) (NN berkeley))))
+    (VP (MD would)
+      (VP (VB earn)
+        (PP
+          (ADVP
+            (NP (CD 4,212))
+            (RBR more))
+          (IN than)
+          (NP
+            (NP (DT a) (JJ comparable) (NN physician))
+            (PP (IN in)
+              (NP
+                (NP (DT a) (NN locality))
+                (PP (IN with)
+                  (NP (JJ average) (NN practice) (NNS costs)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN by)
+      (NP (NN contrast)))
+    (NP
+      (NP (DT a) (NN physician))
+      (PP (IN in)
+        (NP (JJ south) (NN carolina))))
+    (VP (MD would)
+      (VP (VB earn)
+        (PP
+          (ADVP
+            (NP (CD 2,507))
+            (RBR less))
+          (IN than)
+          (NP
+            (NP (DT a) (JJ comparable) (NN physician))
+            (PP (IN in)
+              (NP
+                (NP (DT a) (NN locality))
+                (PP (IN with)
+                  (NP (JJ average) (NN practice) (NNS costs)))))))))
+    (. .)))
+

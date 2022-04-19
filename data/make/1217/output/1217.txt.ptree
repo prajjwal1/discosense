@@ -1,0 +1,31 @@
+(ROOT
+  (S (CC but)
+    (NP
+      (NP (NN judge) (NN john) (NN wiese))
+      (PP (IN of)
+        (NP
+          (NP (DT the) (NN u.) (NN s.) (NN court))
+          (PP (IN of)
+            (NP (JJ federal) (NNS claims))))))
+    (VP (VBD disagreed) (, ,)
+      (S
+        (VP (VBG dismissing)
+          (NP (DT the) (NN case)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (ADJP (JJ short)))
+    (NP (DT the) (NN judge))
+    (VP (VBD said)
+      (S
+        (NP (DT the) (NN forest) (NN service) (NN isnt))
+        (ADJP (JJ responsible))
+        (SBAR (IN because)
+          (S
+            (NP (DT a) (VBN lost) (NN hunter))
+            (VP (VBD caused)
+              (NP (DT the) (NN cedar) (NN fire)))))))
+    (. .)))
+

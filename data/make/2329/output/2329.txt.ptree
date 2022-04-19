@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNS organisms))
+      (VP (VBG ranging)
+        (PP (IN from)
+          (NP (NNS bacteria)))
+        (PP (TO to)
+          (NP (NNS humans)))))
+    (VP (VB navigate)
+      (NP
+        (NP (NNS environments))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (MD can)
+              (VP (VB contain)
+                (NP
+                  (ADJP
+                    (ADJP (RB dangerously) (RB too) (JJ little))
+                    (CC or)
+                    (ADJP (RB too) (JJ much)))
+                  (NN oxygen))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB yet))
+    (NP (NNS scientists))
+    (VP (VBP know)
+      (NP
+        (NP (RB little) (RB about))
+        (SBAR
+          (WHNP
+            (WHADVP (WRB how))
+            (NNS animals))
+          (S
+            (VP (VBP sense)
+              (NP (NN oxygen) (NNS levels))
+              (PP (IN around)
+                (NP (PRP them))))))))
+    (. .)))
+

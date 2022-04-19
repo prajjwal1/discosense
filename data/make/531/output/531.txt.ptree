@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (S
+      (VP (VBG writing)
+        (PP (IN for)
+          (NP
+            (NP (DT the) (NN court))
+            (PP (IN in)
+              (NP (NN akron)))))))
+    (, ,)
+    (NP (NN justice) (NN powell))
+    (VP (VBD observed)
+      (NP (DT the) (JJ same) (NN phenomenon))
+      (, ,)
+      (PP
+        (ADVP (RB though))
+        (IN in)
+        (NP (JJ hypothetical) (NN response)))
+      (PP (TO to)
+        (NP
+          (NP (DT the) (NN dissent))
+          (PP (IN in)
+            (NP (DT that) (NN case))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN sum)))
+    (NP (PRP it))
+    (VP (VBZ appears)
+      (SBAR (IN that)
+        (S
+          (NP (DT the) (NN dissent))
+          (VP (MD would)
+            (VP (VB uphold)
+              (NP (RB virtually) (DT any) (NN abortion) (NN regulation))
+              (PP (IN under)
+                (NP (DT a) (JJ rational) (NN basis) (NN test))))))))
+    (. .)))
+

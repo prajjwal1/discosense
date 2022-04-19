@@ -1,0 +1,1 @@
+these diverse data sets cause us to rethink some of the workhorse algorithms for data analysis. specifically the traditional binary response model leaves much room for improvement in how it embraces time.

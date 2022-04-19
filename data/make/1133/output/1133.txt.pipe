@@ -1,0 +1,5 @@
+Explicit|||68..77||therefore||1|therefore|||Contingency.Cause|||||||||||0..66|0|but the more we talked, the more they didnt pay no attention to us||||||||78..209|1|if they aint for us they must be agin us, and we are ready to give them the fight of their lives, or to shake hands when it is over|||||||||||||
+Explicit|||194..198||when||1|when|||Temporal.Synchrony|||||||||||137..193|1|to give them the fight of their lives, or to shake hands||||||||199..209|1|it is over|||||||||||||
+Explicit|||120..123||and||1|and|||Expansion.Conjunction|||||||||||68..118|1|therefore if they aint for us they must be agin us||||||||124..209|1|we are ready to give them the fight of their lives, or to shake hands when it is over|||||||||||||
+Explicit|||0..3||but||0|but|||Comparison.Contrast|||||||||||1..2|-1|u||||||||4..66|0|the more we talked, the more they didnt pay no attention to us|||||||||||||
+Explicit|||78..80||if||1|if|||Contingency.Condition|||||||||||68..77;98..118|1|therefore they must be agin us||||||||81..97|1|they aint for us|||||||||||||

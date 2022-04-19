@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (NP (DT the) (NN cake))
+    (VP (VBZ is)
+      (ADVP (RB never))
+      (ADJP (RB pre) (VBN packaged))
+      (, ,)
+      (SBAR (IN as)
+        (S
+          (NP (PRP it))
+          (VP (VBZ is)
+            (VP (VBN sold)
+              (NP (JJ fresh) (NN daily))
+              (PP (IN in)
+                (NP (DT the) (JJ chinese) (NNS bakeries))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB overall))
+    (NP (DT this) (NN cake))
+    (VP (VBZ has)
+      (VP (VBN been)
+        (VP (VBN sold)
+          (ADVP (JJ next)
+            (PP (TO to)
+              (NP (JJ other) (NN chinese) (NNS pastries))))
+          (PP (RB well) (IN before)
+            (NP
+              (NP (DT the) (NN popularising))
+              (PP (IN of)
+                (NP
+                  (NP (JJ western) (NN style) (NNS bakeries))
+                  (PP (JJ such) (IN as)
+                    (NP (NN maxim))))))))))
+    (. .)))
+

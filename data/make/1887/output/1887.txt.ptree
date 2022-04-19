@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (ADVP (RB furthermore))
+    (, ,)
+    (NP (DT these) (NNS principles))
+    (VP (VBP are) (RB not)
+      (NP
+        (NP (NNS claims))
+        (PP (IN about)
+          (NP
+            (NP (DT all))
+            (CC and)
+            (NP
+              (NP (DT any) (JJ video) (NNS games))
+              (VP (VBN played)
+                (PP (IN in)
+                  (NP (DT any) (JJ old) (NN fashion)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB rather))
+    (NP (PRP they))
+    (VP (VBP are)
+      (NP
+        (NP (NNS claims))
+        (PP (IN about)
+          (NP
+            (NP (DT the) (NN potential))
+            (PP (IN of)
+              (NP
+                (NP (JJ good) (NN video) (NNS games))
+                (VP (VBN played)
+                  (PP (IN in)
+                    (NP
+                      (NP (NNS environments))
+                      (SBAR
+                        (WHNP (WDT that))
+                        (S
+                          (VP (VBP encourage)
+                            (NP (JJ overt) (NN reflection))))))))))))))
+    (. .)))
+

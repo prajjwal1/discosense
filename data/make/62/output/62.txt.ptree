@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (ADVP (RB nevertheless))
+    (, ,)
+    (NP (EX there))
+    (VP (VBD was)
+      (NP
+        (NP (DT no) (NN difference))
+        (PP (IN between)
+          (NP
+            (NP (DT the) (CD two) (NNS sites))
+            (PP (VBG following)
+              (NP (NN training)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (JJ other) (NNS words)))
+    (PP (IN despite)
+      (NP (DT the)
+        (ADJP (RB slightly) (JJ different))
+        (NNS baselines)))
+    (, ,)
+    (NP
+      (NP (DT both) (NNS forms))
+      (PP (IN of)
+        (NP (NN instruction))))
+    (VP (VBD produced)
+      (NP (NN equivalent) (NNS outcomes)))
+    (. .)))
+

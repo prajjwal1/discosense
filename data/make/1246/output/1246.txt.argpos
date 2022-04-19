@@ -1,0 +1,5 @@
+conn:when conn_POS:WRB prev1:worse prev1_POS:JJR with_prev1_full:worse_when with_prev1_POS_full:JJR_WRB prev2:is prev2_POS:VBZ with_prev2_full:is_when with_prev2_POS_full:VBZ_WRB NA
+conn:and conn_POS:CC prev1:concentrated prev1_POS:JJ with_prev1_full:concentrated_and with_prev1_POS_full:JJ_CC prev2:is prev2_POS:VBZ with_prev2_full:is_and with_prev2_POS_full:VBZ_CC NA
+conn:by_contrast conn_POS:IN_NN sent_pos:0 NA
+conn:when conn_POS:WRB prev1:gain prev1_POS:VB with_prev1_full:gain_when with_prev1_POS_full:VB_WRB prev2:can prev2_POS:MD with_prev2_full:can_when with_prev2_POS_full:MD_WRB NA
+conn:or conn_POS:CC prev1:and prev1_POS:CC with_prev1_full:and_or with_prev1_POS_full:CC_CC prev2:, prev2_POS:, with_prev2_full:,_or with_prev2_POS_full:,_CC NA

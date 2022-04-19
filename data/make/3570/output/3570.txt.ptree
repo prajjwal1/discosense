@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (NP (DT a) (RB well) (VBN accepted) (NN theory))
+    (VP (VBZ is)
+      (SBAR (IN that)
+        (S
+          (NP (DT the) (JJ sapiential) (NN work))
+          (VP (VBD was)
+            (NP (DT a) (JJ pre) (JJ qumranic) (NN text))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (PP (IN in)
+        (NP (JJ other) (NNS words)))
+      (NP (PRP it))
+      (VP (VBD was) (RB not)
+        (VP (VBN written)
+          (PP (IN for)
+            (NP (DT an) (VBN isolated) (NN sect))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP it))
+      (VP (VBD was)
+        (VP (VBN directed)
+          (PP (IN toward)
+            (NP (DT a) (JJ specific) (NN audience))))))
+    (. .)))
+

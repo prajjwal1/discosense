@@ -1,0 +1,44 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (RB about) (CD 1983)))
+    (, ,)
+    (NP (NN baxter))
+    (VP (VBD started)
+      (S
+        (VP (TO to)
+          (VP (VB use)
+            (NP (DT a)
+              (ADJP (RB patented) (JJR longer))
+              (NN clamp))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB thereafter))
+      (NP
+        (NP (NNS others))
+        (PP (JJ such) (IN as)
+          (NP (NN cutter)))
+        (, ,)
+        (ADJP (JJ mcgaw) (, ,) (JJ ivac)
+          (CC and)
+          (JJ borla))
+        (, ,))
+      (VP (VBD introduced)
+        (NP (NNS clamps))
+        (PP (IN with)
+          (NP (CD two) (NN inch) (NNS housings)))))
+    (CC and)
+    (S
+      (NP
+        (NP (DT a) (NN trend))
+        (PP (IN in)
+          (NP (NN clamp) (NN length))))
+      (VP (VBD was)
+        (VP
+          (ADVP (RB thus))
+          (VBN established))))
+    (. .)))
+

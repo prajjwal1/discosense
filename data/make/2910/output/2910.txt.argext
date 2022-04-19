@@ -1,0 +1,15 @@
+conn:if conn_lc:if conn_cat:Subordinator conn_to_node:IN->SBAR->S conn_node_lsib_size=0 conn_node_rsib_size=1 conn_to_node_relpos:0 0:2
+conn:if conn_lc:if conn_cat:Subordinator conn_to_node:IN->SBAR conn_node_lsib_size=0 conn_node_rsib_size=1 conn_to_node_relpos:0 0:3
+conn:if conn_lc:if conn_cat:Subordinator conn_to_node:IN->SBAR<-S conn_node_lsib_size=0 conn_node_rsib_size=1 conn_to_node_relpos:1 0:6
+conn:if conn_lc:if conn_cat:Subordinator conn_to_node:IN->SBAR<-S<-NP conn_node_lsib_size=0 conn_node_rsib_size=1 conn_to_node_relpos:1 0:7
+conn:if conn_lc:if conn_cat:Subordinator conn_to_node:IN->SBAR<-S<-VP conn_node_lsib_size=0 conn_node_rsib_size=1 conn_to_node_relpos:1 0:10
+conn:if conn_lc:if conn_cat:Subordinator conn_to_node:IN->SBAR<-S<-VP<-PP conn_node_lsib_size=0 conn_node_rsib_size=1 conn_to_node_relpos:1 0:13
+conn:if conn_lc:if conn_cat:Subordinator conn_to_node:IN->SBAR<-S<-VP<-PP<-NP conn_node_lsib_size=0 conn_node_rsib_size=1 conn_to_node_relpos:1 0:16
+conn:if conn_lc:if conn_cat:Subordinator conn_to_node:IN->SBAR<-ROOT<-S<-NP conn_node_lsib_size=0 conn_node_rsib_size=1 conn_to_node_relpos:1 0:21
+conn:if conn_lc:if conn_cat:Subordinator conn_to_node:IN->SBAR->S<-VP conn_node_lsib_size=0 conn_node_rsib_size=1 conn_to_node_relpos:1 0:24
+conn:if conn_lc:if conn_cat:Subordinator conn_to_node:IN->SBAR->S<-VP<-ADVP conn_node_lsib_size=0 conn_node_rsib_size=1 conn_to_node_relpos:1 0:27
+conn:if conn_lc:if conn_cat:Subordinator conn_to_node:IN->SBAR->S<-VP<-VP conn_node_lsib_size=0 conn_node_rsib_size=1 conn_to_node_relpos:1 0:30
+conn:if conn_lc:if conn_cat:Subordinator conn_to_node:IN->SBAR->S<-VP<-VP<-SBAR conn_node_lsib_size=0 conn_node_rsib_size=1 conn_to_node_relpos:1 0:33
+conn:if conn_lc:if conn_cat:Subordinator conn_to_node:IN->SBAR->S<-VP<-VP<-SBAR<-S conn_node_lsib_size=0 conn_node_rsib_size=1 conn_to_node_relpos:1 0:36
+conn:if conn_lc:if conn_cat:Subordinator conn_to_node:IN->SBAR->S<-VP<-VP<-SBAR<-S<-NP conn_node_lsib_size=0 conn_node_rsib_size=1 conn_to_node_relpos:1 0:37
+conn:if conn_lc:if conn_cat:Subordinator conn_to_node:IN->SBAR->S<-VP<-VP<-SBAR<-S<-VP conn_node_lsib_size=0 conn_node_rsib_size=1 conn_to_node_relpos:1 0:40

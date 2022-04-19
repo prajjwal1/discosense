@@ -1,0 +1,47 @@
+(ROOT
+  (S
+    (NP (DT the)
+      (ADJP (RBS most) (JJ notable))
+      (NN happening))
+    (VP (VBZ is)
+      (ADVP
+        (NP (DT the) (NN way))
+        (RB high))
+      (VP (VBG flying)
+        (NP
+          (NP (NNS stocks))
+          (PP (IN from)
+            (NP (JJ last) (NN year)))
+          (, ,)
+          (PP (JJ such) (IN as)
+            (NP
+              (NP (NN facebook) (, ,) (NN tesla) (, ,)
+                (CC and)
+                (NN netflix))
+              (VP (VBN experienced)
+                (NP (JJ notable) (NN sell) (NNS offs))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB overall))
+      (NP (DT the) (NN market))
+      (VP (VBZ seems)
+        (ADJP (JJ fragile))))
+    (CC and)
+    (S
+      (NP (DT the) (JJ upcoming) (NNS earnings) (NN period))
+      (VP (MD could)
+        (ADVP (RB likely))
+        (VP (VB prove)
+          (NP (DT a) (NN catalyst))
+          (PP (IN for)
+            (NP
+              (NP (DT a)
+                (ADJP (RB lot) (JJR more))
+                (NN selling))
+              (PP (IN in)
+                (NP (NNS stocks))))))))
+    (. .)))
+

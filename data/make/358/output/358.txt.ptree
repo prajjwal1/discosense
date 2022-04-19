@@ -1,0 +1,56 @@
+(ROOT
+  (S
+    (S
+      (NP (CC neither)
+        (NP (NNS scdos))
+        (CC nor)
+        (NP
+          (NP (JJ derivative) (NNS securities))
+          (PP (IN in)
+            (NP (NN general)))))
+      (VP (VBP are)
+        (ADJP (JJ unique)
+          (PP (IN in)
+            (S
+              (VP (VBG exacerbating)
+                (NP (DT the) (NN crisis))))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP they))
+      (VP (VBD were)
+        (ADVP (RB hardly))
+        (NP
+          (NP (DT a) (NN help))
+          (PP (TO to)
+            (NP
+              (NP (DT the) (NNS firms))
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (VP (VBD held)
+                    (NP (PRP them))
+                    (PP (IN at)
+                      (NP (DT the) (NN time)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB interestingly))
+    (NP (PRP they))
+    (VP (MD may)
+      (ADVP (RB now))
+      (VP (VB be)
+        (VP (VBG yielding)
+          (NP (NNS profits))
+          (ADVP (RB again))
+          (, ,)
+          (SBAR (IN although)
+            (S
+              (NP (PRP$ their) (NN market))
+              (ADVP (RB now))
+              (VP (VBZ exists)
+                (PP (IN on)
+                  (NP (DT a) (VBN reduced) (NN scale)))))))))
+    (. .)))
+

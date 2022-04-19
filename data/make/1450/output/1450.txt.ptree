@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (NP (NNS teachers))
+    (VP (VBP are)
+      (ADVP (RB sometimes))
+      (ADJP (RB very) (JJ easy)
+        (S
+          (VP (TO to)
+            (VP (VB impress)
+              (PP (IN with)
+                (NP (JJ skilled) (NNS presentations))))))))
+    (. .)))
+
+(ROOT
+  (S (CC but)
+    (NP (PRP they))
+    (VP (VBP need)
+      (S
+        (VP (TO to)
+          (VP (VB be)
+            (ADJP (JJ aware))
+            (SBAR (IN that)
+              (S
+                (NP (DT a) (JJ skilled) (NN presentation))
+                (VP (VBZ is)
+                  (ADJP (RB only) (JJ skilled))
+                  (SBAR (IN if)
+                    (S
+                      (NP (DT the) (NN content))
+                      (VP (VBZ is)
+                        (VP (VBG presenting)
+                          (NP
+                            (NP (DT an) (NN understanding))
+                            (PP (IN of)
+                              (NP (DT the) (NN content)))))))))))))))
+    (. .)))
+

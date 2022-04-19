@@ -1,0 +1,60 @@
+(ROOT
+  (S
+    (ADVP (RB therefore))
+    (, ,)
+    (NP
+      (NP (DT the) (NN variation))
+      (PP (IN in)
+        (NP
+          (NP (NNS results))
+          (SBAR (IN that)
+            (S
+              (NP (NN doyle))
+              (VP (VBD found)))))))
+    (VP (VBZ does) (RB not)
+      (VP (VB stem)
+        (PP
+          (PP (IN from)
+            (NP
+              (NP (DT the) (JJ prior) (NN health))
+              (PP (IN of)
+                (NP (NNS patients)))))
+          (, ,)
+          (CC but)
+          (PP (IN from)
+            (NP
+              (NP (DT the) (NN level))
+              (PP (IN of)
+                (NP
+                  (NP (NN care))
+                  (ADVP (PRP itself)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB specifically))
+    (NP
+      (NP (DT the) (JJR greater) (NNS expenses))
+      (CC and)
+      (NP
+        (NP (NNS benefits))
+        (PP (IN in)
+          (NP (NN heart) (NN treatment)))))
+    (VP (VBP seem)
+      (S
+        (S
+          (VP (TO to)
+            (VP (VB come)
+              (PP (IN from)
+                (NP
+                  (NP (DT a) (JJR broader) (NN application))
+                  (PP (IN of)
+                    (NP (JJ intensive) (NN care) (NN unit) (NNS tools))))))))
+        (CC and)
+        (S
+          (VP (VBG having)
+            (NP (JJR more) (JJ medical) (NNS personnel))
+            (PP (IN on)
+              (NP (NN hand)))))))
+    (. .)))
+

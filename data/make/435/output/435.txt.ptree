@@ -1,0 +1,69 @@
+(ROOT
+  (SINV
+    (VP (VBP suggest)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (JJ upward) (JJ social) (NN comparison))
+            (CC and)
+            (NP (NN envy)))
+          (VP (MD can)
+            (VP (VB be)
+              (ADJP (JJ rampant)
+                (PP (IN in)
+                  (NP
+                    (NP (DT a) (NN peer))
+                    (VP (VBN dominated))))))))))
+    (NP
+      (NP (NN sns) (NN environment))
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (VP (MD can)
+            (VP (VB provide)
+              (NP (JJ explanationto) (JJ negative) (NNS outcomes)))))))
+    (S
+      (NP (JJ passive) (NN following))
+      (VP (VBD was)
+        (VP (VBN shown)
+          (S
+            (VP (TO to)
+              (VP (VB produce)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP
+      (ADVP (RB specifically))
+      (IN in)
+      (NP (DT a) (JJ non) (NN sns) (JJ related) (NN study)))
+    (, ,)
+    (NP (DT the) (NNS authors))
+    (VP (VBP show)
+      (SBAR (IN that)
+        (S
+          (NP (NNS people))
+          (VP (VBP tend)
+            (S
+              (VP (TO to)
+                (VP
+                  (VP (VB underestimate)
+                    (NP
+                      (NP (JJ negative) (NN expe) (NNS riences))
+                      (PP (IN of)
+                        (NP (NNS others)))))
+                  (CC and)
+                  (VP (VB overestimate)
+                    (NP
+                      (NP (PRP$ their) (JJ positive) (NNS experiences))
+                      (, ,)
+                      (SBAR
+                        (WHNP (WDT which))
+                        (S
+                          (VP (VBZ causes)
+                            (NP (NNS negativeemotions))
+                            (PP (TO to)
+                              (NP (NNP proliferate)))))))))))))))
+    (. .)))
+

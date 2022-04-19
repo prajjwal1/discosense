@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (SBAR (IN although)
+      (S
+        (NP (NN honeywell))
+        (VP (VBD moved)
+          (PP (IN for)
+            (NP (NN judgment)))
+          (PP (IN as)
+            (NP
+              (NP (DT a) (NN matter))
+              (PP (IN of)
+                (NP (NN law))))))))
+    (, ,)
+    (NP (PRP they))
+    (VP
+      (VP (VBD did) (RB not)
+        (VP
+          (ADVP (RB so))
+          (VB move)
+          (PP (IN on)
+            (NP (DT this) (NN issue)))))
+      (CC and)
+      (VP
+        (ADVP (RB therefore))
+        (VBD failed)
+        (S
+          (VP (TO to)
+            (VP (VB preserve)
+              (NP (PRP it))
+              (PP (IN for)
+                (NP (NN appeal))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB therefore))
+    (NP (JJ binding) (NN circuit) (NN precedent))
+    (VP (VBZ mandates)
+      (SBAR (IN that)
+        (S
+          (NP (DT the) (NN appeal))
+          (VP (VB be)
+            (VP (VBN dismissed))))))
+    (. .)))
+

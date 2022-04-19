@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (SBAR (IN as)
+      (S
+        (NP (DT the) (NN semiconductor) (NN market))
+        (VP (VBZ recovers))))
+    (, ,)
+    (NP (NN chip) (NNS makers))
+    (ADVP (RB worldwide))
+    (VP (VBP are)
+      (VP (VBN expected)
+        (S
+          (VP (TO to)
+            (VP (VB increase)
+              (NP (PRP$ their) (NN capital) (NNS expenditures))
+              (PP (IN in)
+                (NP (DT the) (JJ next) (JJ few) (NNS years))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP (NN instance)))
+    (NP
+      (NP (DT the) (JJ total) (NN capital) (NNS expenditures))
+      (PP (IN for)
+        (NP
+          (NP (DT the) (NN world))
+          (PP (IN for)
+            (NP (DT the) (NNP 2002) (CD 2004) (NN period))))))
+    (VP (VBZ is)
+      (VP (VBN expected)
+        (S
+          (VP (TO to)
+            (VP (VB grow)
+              (PP (IN at)
+                (NP
+                  (NP (DT a) (JJ compound) (JJ annual) (NN growth) (NN rate))
+                  (PP (IN of)
+                    (NP (CD 52.5) (NN percent))))))))))
+    (. .)))
+

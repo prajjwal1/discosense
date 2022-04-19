@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (NP (NN surf))
+    (VP (VBZ is)
+      (NP (DT a) (JJ reliable) (JJ late) (NN game) (NN stab))
+      (SBAR (IN if)
+        (S
+          (NP (PRP you))
+          (VP (MD cant)
+            (VP (VB afford)
+              (S
+                (VP (TO to)
+                  (VP (VB miss)
+                    (NP (NN hydro) (NN pump))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB because) (IN of)
+      (NP
+        (NP (DT this))
+        (SBAR
+          (S
+            (VP (VBZ sets)
+              (NP (JJ sheer) (NN power)
+                (CC and)
+                (NN speed))
+              (PP (IN under)
+                (NP (NN rain))))))))
+    (, ,)
+    (NP (PRP it))
+    (VP (MD can)
+      (VP (VB function)
+        (PP (DT both) (IN as)
+          (NP
+            (NP (DT a) (NN wallbreaker))
+            (CC and)
+            (NP (DT a) (NN sweeper))))
+        (PP (TO to)
+          (NP (DT some) (NN extent)))))
+    (. .)))
+

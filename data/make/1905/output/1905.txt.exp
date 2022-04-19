@@ -1,0 +1,3 @@
+conn_lc:in_addition conn:in_addition conn_POS:IN_NN xxx£
+conn_lc:also conn:also conn_POS:RB with_prev_full:is_also xxx£
+conn_lc:then conn:then conn_POS:RB with_prev_full:and_then xxx£

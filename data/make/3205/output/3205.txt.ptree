@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (NP (DT these) (NNS goals))
+    (VP (MD can)
+      (VP (VB be)
+        (VP (VBN achieved)
+          (PP (IN with)
+            (NP
+              (NP (DT the) (NN assistance))
+              (PP (IN of)
+                (NP (NN cholesterol)))))
+          (S
+            (VP (VBG lowering)
+              (NP (NNS agents)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB specifically))
+    (NP (NN hmg) (NN coa) (NN reductase) (NNS inhibitors))
+    (VP (VBP have)
+      (VP (VBN shown)
+        (ADVP (RB efficacy))
+        (PP (IN in)
+          (S
+            (VP
+              (VP (VBG preventing)
+                (NP (NNS glomerulosclerosis))
+                (PP (IN by)
+                  (S
+                    (VP (VBG normalizing)
+                      (NP (NN serum) (NN creatinine))))))
+              (CC and)
+              (VP (VBG decreasing)
+                (NP (JJ urinary) (NN albumin) (NN excretion))))))))
+    (. .)))
+

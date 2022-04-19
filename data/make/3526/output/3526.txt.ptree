@@ -1,0 +1,50 @@
+(ROOT
+  (S
+    (SBAR (IN if)
+      (S
+        (NP (DT a) (NN player))
+        (VP (VBZ does)
+          (VP (VB catch)
+            (NP (DT a) (NN ball))))))
+    (, ,)
+    (NP (PRP he)
+      (CC or)
+      (PRP she))
+    (VP (VBZ is)
+      (ADJP (JJ able)
+        (S
+          (VP (TO to)
+            (VP (VB throw)
+              (CC or)
+              (VB place)
+              (NP (PRP it))
+              (PP
+                (PP (IN on)
+                  (NP (DT the) (NN ground)))
+                (, ,)
+                (CC but)
+                (RB only)
+                (PP (TO to)
+                  (NP (PRP themselves)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (JJ other) (NNS words)))
+    (NP (DT the) (NN ball))
+    (VP (MD can) (RB not)
+      (VP (VB be)
+        (VP
+          (VP
+            (ADVP (NN hand))
+            (VBN passed)
+            (PP (TO to)
+              (NP (DT another) (NN player))))
+          (, ,)
+          (CC or)
+          (VP (VBN thrown)
+            (PP (IN into)
+              (NP (DT the) (NN net)))))))
+    (. .)))
+

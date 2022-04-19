@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (NP (DT the) (NNS results))
+    (VP (VBD favored)
+      (NP (DT the) (JJ smith) (NN duo))
+      (PP (IN despite)
+        (NP
+          (NP
+            (NP (JJ recent) (NNS rumors))
+            (PP (IN of)
+              (NP (DT a) (JJ rocky) (NN relationship))))
+          (CC and)
+          (NP
+            (NP (DT the) (JJ imminent) (NN announcement))
+            (PP (IN of)
+              (NP (DT a) (NN breakup)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN by)
+      (NP (NN contrast) (NN buzz)))
+    (S
+      (VP (VBG surrounding)
+        (NP (NN ben) (NN affleck)
+          (CC and)
+          (NN jennifer) (NNS garner))))
+    (VP (VBZ has)
+      (VP (VBN concerned)
+        (NP
+          (NP (DT the) (VBG upcoming) (NN birth))
+          (PP (IN of)
+            (NP (PRP$ their) (JJ third) (NN child))))))
+    (. .)))
+

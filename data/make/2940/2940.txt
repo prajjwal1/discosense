@@ -1,0 +1,1 @@
+evolvica is a package that supports evolutionary computation in mathematica. in particular it contains implementations of evolution on symbolic expressions, an approach that is generally known as genetic programming.

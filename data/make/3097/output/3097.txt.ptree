@@ -1,0 +1,45 @@
+(ROOT
+  (S
+    (SBAR (IN if)
+      (S
+        (NP (DT that))
+        (VP (VBZ is)
+          (ADJP (JJ successful)))))
+    (, ,)
+    (NP (NN dpw))
+    (VP (MD will)
+      (VP (VB begin)
+        (S
+          (VP (VBG replacing)
+            (NP
+              (NP
+                (QP (CD three) (CD 16))
+                (NN foot) (NNS sections))
+              (PP (IN of)
+                (NP (DT the) (CD 54) (NN inch) (NN main))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB because) (IN of)
+      (NP (DT that) (NNS citizens)))
+    (PP (IN in)
+      (NP
+        (NP (DT the) (NN city))
+        (, ,)
+        (CONJP (RB as) (RB well) (IN as))
+        (NP
+          (ADJP (JJ howard)
+            (CC and)
+            (JJ anne))
+          (JJ arundel) (NNS counties))))
+    (, ,)
+    (VP (VBP are)
+      (VP (VBG being)
+        (VP (VBN asked)
+          (S
+            (VP (TO to)
+              (VP (VB conserve)
+                (NP (NN water))))))))
+    (. .)))
+

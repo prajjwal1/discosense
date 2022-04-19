@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (NP (DT all) (FW i))
+    (VP (MD can)
+      (VP (VB see)
+        (SBAR
+          (S
+            (VP (VBZ is)
+              (NP
+                (NP (DT that) (NN hes))
+                (VP (VBG playing)
+                  (ADVP
+                    (ADVP
+                      (NP (DT a) (RB little))
+                      (RB differently))
+                    (SBAR (IN than)
+                      (S
+                        (NP (DT the) (NNS jets))
+                        (VP (VBP want))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (PP (IN in)
+        (NP (JJ particular) (NN hes) (NN playing)))
+      (NP (DT a) (NNP chicago) (NN style))
+      (VP (VBP forecheck)))
+    (, ,)
+    (CC and)
+    (RB not)
+    (S
+      (NP (DT a) (VBG winnipeg) (NN one)))
+    (. .)))
+

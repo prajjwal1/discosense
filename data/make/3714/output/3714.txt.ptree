@@ -1,0 +1,44 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP
+        (NP (NNS terms))
+        (PP (IN of)
+          (NP (PRP$ its) (NN accounting) (NN treatment)))))
+    (, ,)
+    (NP (DT an) (NN expense))
+    (VP
+      (VP (VBZ is)
+        (VP (VBN recorded)
+          (ADVP (RB immediately))))
+      (CC and)
+      (VP (VBZ impacts)
+        (ADVP (RB directly))
+        (NP
+          (NP (DT the) (NN income) (NN statement))
+          (PP (IN of)
+            (NP (DT the) (NN company)))))
+      (, ,)
+      (S
+        (VP (VBG reducing)
+          (NP (PRP$ its) (JJ net) (NN profit)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN contrast)))
+    (NP (DT a) (NN capital) (NN expenditure))
+    (VP (VBZ is)
+      (VP
+        (VP (VBN capitalized))
+        (, ,)
+        (VP (VBN recorded)
+          (PP (IN as)
+            (NP (DT an) (NN asset))))
+        (CC and)
+        (VP (VBN depreciated)
+          (PP (IN over)
+            (NP (NN time))))))
+    (. .)))
+

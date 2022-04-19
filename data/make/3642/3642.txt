@@ -1,0 +1,1 @@
+in geometry, space partitioning is the process of dividing a space into two or more disjoint subsets. in other words space partitioning divides a space into non overlapping regions.

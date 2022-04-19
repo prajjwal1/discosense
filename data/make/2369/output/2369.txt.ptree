@@ -1,0 +1,62 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNS massachusetts))
+      (, ,)
+      (NP (JJ new) (NN york))
+      (, ,)
+      (CC and)
+      (NP (NN pennsylvania)))
+    (VP (VBP have)
+      (NP
+        (NP (DT no) (NN state) (NN law))
+        (PP (CC either)
+          (S
+            (VP (VBG allowing)
+              (CC or)
+              (VBG barring)
+              (NP (NNS employers))))))
+      (, ,)
+      (PP (VBG including)
+        (NP
+          (NP (NNS boards))
+          (PP (IN of)
+            (NP (NN education)))))
+      (, ,)
+      (PP (IN from)
+        (NP
+          (NP (VBG testing) (NNS teachers))
+          (CC or)
+          (NP
+            (NP (JJ other) (NNS employees))
+            (CC or)
+            (NP (JJ prospective) (NNS employees))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (ADVP (RB thus)
+      (PP (IN in)
+        (NP (DT those) (NNS states) (NN drug))))
+    (VP (VBG testing)
+      (PP (IN for)
+        (NP
+          (NP (NNS teachers))
+          (CC and)
+          (NP (JJ other) (NNS employees)))))
+    (VP (VBZ is)
+      (VP (VBN governed)
+        (PP (IN by)
+          (UCP (JJ federal)
+            (CC and)
+            (NN state)))))
+    (NP
+      (NP (JJ constitutional) (NNS requirements))
+      (, ,)
+      (NP
+        (NP (JJ federal) (NNS laws))
+        (, ,)
+        (CC and)
+        (NP (NN state) (NN court) (NNS cases))))
+    (. .)))
+

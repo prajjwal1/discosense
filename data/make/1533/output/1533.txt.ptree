@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (ADVP (RB additionally))
+    (, ,)
+    (NP (DT no) (NN access) (NN control))
+    (VP (VBZ exists)
+      (PP (IN on)
+        (NP (DT these) (NNS routes))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN as)
+      (NP (DT a) (NN result)))
+    (NP
+      (NP (JJ driveway) (NNS connections))
+      (PP (TO to)
+        (NP (NNS residences)
+          (CC and)
+          (NNS businesses))))
+    (VP (VBP are)
+      (VP (VBN located)
+        (PP (IN along)
+          (NP (DT the) (NN route)))
+        (, ,)
+        (S
+          (VP (VBG creating)
+            (NP
+              (NP (JJ numerous) (NNS points))
+              (PP (IN of)
+                (NP (NN conflict))))))))
+    (. .)))
+

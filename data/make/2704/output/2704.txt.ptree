@@ -1,0 +1,49 @@
+(ROOT
+  (S
+    (ADVP (RB further))
+    (, ,)
+    (PP (IN in)
+      (NP (DT some) (NNS examples)))
+    (, ,)
+    (NP (JJ different) (NN vacuum) (NNS consumers))
+    (VP (MD may)
+      (VP (VB be)
+        (VP (VBN reactivated)
+          (PP (IN at)
+            (NP
+              (NP (JJ different) (NNS levels))
+              (PP (IN of)
+                (NP (NN vacuum)))))
+          (PP (IN within)
+            (NP (DT the) (NN system))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP (NN example)))
+    (NP (NN vacuum) (NNS consumers))
+    (VP (MD may)
+      (VP (VB be)
+        (ADJP (JJ reactivated)
+          (CC or)
+          (JJ pneumatically)
+          (PP (VBN coupled)
+            (PP (TO to)
+              (NP
+                (NP (DT a) (NN vacuum) (NN reservoir))
+                (PP (IN with)
+                  (NP
+                    (NP (DT each)
+                      (ADJP (CD 0.1) (NN bar))
+                      (NN decrease))
+                    (PP (IN in)
+                      (NP (NN vacuum)))))))))
+        (SBAR (IN after)
+          (S
+            (NP (DT the) (NN combustion) (NN stability) (NN threshold))
+            (VP (VBZ has)
+              (VP (VBN been)
+                (VP (VBN reached))))))))
+    (. .)))
+

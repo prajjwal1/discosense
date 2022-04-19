@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (NP (PRP she))
+    (ADVP (RB also))
+    (VP (VBD advocated)
+      (PP (IN for)
+        (NP
+          (NP (DT the) (NNS boundaries))
+          (PP (IN of)
+            (NP (JJ acceptable) (JJ social) (NN etiquette)))))
+      (PP (IN towards)
+        (NP (NN modernity)))
+      (, ,)
+      (PP (IN in)
+        (NP
+          (NP (DT a)
+            (ADJP (RB traditionally) (JJ conservative))
+            (NN tibetan) (NN culture))
+          (, ,)
+          (SBAR
+            (WHADVP (WRB where))
+            (S
+              (NP (RBS most) (JJ grown) (NNS women))
+              (VP (VBP wear)
+                (NP (JJ ankle) (NN length) (NNS dresses))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nonetheless))
+    (NP
+      (NP (PRP$ her) (NN participation))
+      (PP (IN in)
+        (NP (DT the) (NN pageant))))
+    (VP (VBD received)
+      (NP (DT an) (NN approval))
+      (PP (IN from)
+        (NP (DT the) (JJ dalai) (NN lama))))
+    (. .)))
+

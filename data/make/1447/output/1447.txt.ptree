@@ -1,0 +1,48 @@
+(ROOT
+  (S
+    (NP (PRP they))
+    (VP (MD can)
+      (ADVP (RB also))
+      (VP (VB transmit)
+        (NP (DT the) (NN video))
+        (PP (TO to)
+          (NP
+            (QP (JJR more) (IN than) (RB just) (CD one))
+            (NN person)))
+        (PP (IN in)
+          (NP (DT the) (NN command)
+            (CC and)
+            (NN control) (NN group)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN as)
+      (NP (DT a) (NN result)))
+    (NP
+      (NP (JJ numerous) (NNS members))
+      (PP (IN of)
+        (NP (DT the) (NN squad))))
+    (VP (MD can)
+      (VP
+        (VP (VB examine)
+          (NP (DT the) (NN video)))
+        (CC and)
+        (VP (VB get)
+          (NP
+            (NP (DT an) (NN idea))
+            (PP (IN of)
+              (SBAR
+                (WHADJP (RB just) (WRB how) (JJ serious))
+                (S
+                  (NP (DT the) (NN situation))
+                  (VP (VBZ is)
+                    (PP (IN without)
+                      (S
+                        (VP (VBG having)
+                          (S
+                            (VP (TO to)
+                              (VP (VB get)
+                                (ADJP (RB too) (JJ close))))))))))))))))
+    (. .)))
+

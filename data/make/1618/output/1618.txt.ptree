@@ -1,0 +1,49 @@
+(ROOT
+  (S
+    (NP (DT the) (NN study))
+    (VP (VBD concluded)
+      (SBAR (IN that) (IN if)
+        (S
+          (NP (DT the) (NN world))
+          (VP (VBD followed)
+            (SBAR
+              (S
+                (NP (JJ cubas) (NN example) (NNS wed))
+                (VP
+                  (ADVP (RB only))
+                  (VBP need)
+                  (NP
+                    (NP (DT the) (NNS resources))
+                    (PP (IN of)
+                      (NP (CD one) (NN earth))))
+                  (S
+                    (VP (TO to)
+                      (VP (VB sustain)
+                        (NP (PRP us))
+                        (ADVP (RB indefinitely))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN by)
+      (NP
+        (NP (NN contrast))
+        (SBAR (IN if)
+          (S
+            (NP (DT the) (NN world))
+            (VP (VBD followed)
+              (NP
+                (NP (DT the) (NN example))
+                (PP (IN of)
+                  (NP (JJ australias) (JJ capitalist) (NN economy)))))))))
+    (, ,)
+    (NP (NNP wed))
+    (VP (VBP need)
+      (NP
+        (NP
+          (QP (RB about) (CD 3.7))
+          (NN earth))
+        (PP (IN like)
+          (NP (NNS planets)))))
+    (. .)))
+

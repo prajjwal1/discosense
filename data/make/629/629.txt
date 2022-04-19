@@ -1,0 +1,1 @@
+the first step in binding is to create authorization and authentication specifications for the database. specifically user authentication is inserted to users document.

@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (ADVP (RB unfortunately))
+    (NP (NNS sketchiness))
+    (VP (VBZ has)
+      (ADVP (RB never))
+      (VP (VBN been)
+        (NP
+          (NP (CD one))
+          (PP (IN of)
+            (NP (PRP$ my) (NNS qualities))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nevertheless))
+    (NP (DT the) (JJ quick) (NNS portraits))
+    (VP
+      (VP (VBD sold)
+        (ADVP (RB well)))
+      (CC and)
+      (VP (VBD encouraged)
+        (NP (DT the) (NN delusion))
+        (SBAR (IN that)
+          (S
+            (NP (FW i))
+            (VP (MD should)
+              (ADVP (RB someday))
+              (VP (VB achieve)
+                (NP (JJ financial) (NN security))
+                (PP (IN by)
+                  (NP (PRP$ my) (NN brush)))))))))
+    (. .)))
+

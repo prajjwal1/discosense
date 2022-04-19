@@ -1,0 +1,47 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT a) (VBG growing) (NN body))
+      (PP (IN of)
+        (NP (NN research))))
+    (VP (VBZ has)
+      (VP (VBN indicated)
+        (NP
+          (NP (DT a) (JJ possible) (NN effect))
+          (PP (IN of)
+            (NP (NN neighborhood)
+              (CC and)
+              (JJ residential) (NN environment))))
+        (PP (IN on)
+          (NP
+            (NP (DT a) (NN variety))
+            (PP (IN of)
+              (NP (NN health) (NNS outcomes)))))
+        (, ,)
+        (PP (VBG including)
+          (NP (JJ cardiovascular) (NN disease)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (JJ particular) (NN neighborhood)))
+    (NP
+      (NP (JJ socioeconomic) (NNS characteristics))
+      (, ,)
+      (PP (JJ such) (IN as)
+        (NP
+          (NP (NN deprivation))
+          (, ,)
+          (NP (NN income) (NN inequality))
+          (, ,)
+          (CC and)
+          (NP (JJ social) (NN network))))
+      (, ,))
+    (VP (VBP have)
+      (VP (VBN been)
+        (VP (VBN associated)
+          (PP (IN with)
+            (NP (JJ cardiovascular) (NN disease))))))
+    (. .)))
+

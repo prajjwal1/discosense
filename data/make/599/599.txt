@@ -1,0 +1,1 @@
+from there, you can get the full suite of twitter tools instead of just post or retweet. likewise tapping someones facebook post will open the app, giving you a non crippled experience since you have access to like, comments and more directly.

@@ -1,0 +1,20 @@
+(ROOT
+  (S
+    (SBAR (IN if)
+      (FRAG
+        (NP (PRP$ its) (NN smiling))))
+    (, ,)
+    (NP (RB then) (DT the) (NN player))
+    (VP (VBZ is)
+      (VP (VBG winning)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB otherwise))
+    (NP (DT the) (NN player))
+    (VP (VBZ is)
+      (VP (VBG losing)
+        (NP (DT the) (NN game))))
+    (. .)))
+

@@ -1,0 +1,26 @@
+(ROOT
+  (S
+    (S
+      (NP (NN life))
+      (VP (VBZ is)
+        (ADJP (JJ short))))
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBZ is)
+        (ADJP (JJ painful))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP
+        (NP (JJ short) (NN dont))
+        (VP (VBN run)
+          (PP (IN from)
+            (NP (PRP$ your) (NN turmoil))))))
+    (, ,)
+    (VP (VB embrace)
+      (NP (PRP it)))
+    (. .)))
+

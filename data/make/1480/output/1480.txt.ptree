@@ -1,0 +1,38 @@
+(ROOT
+  (S
+    (S
+      (NP (DT the) (JJ good) (NN news))
+      (VP (VBZ is)
+        (SBAR (IN that)
+          (S
+            (NP (PRP you))
+            (VP (MD may) (RB not)
+              (VP (VB realize)
+                (NP (PRP it))))))))
+    (CC but)
+    (S
+      (NP (PRP you))
+      (VP (VBP are)
+        (ADVP (RB already))
+        (ADJP (JJ generous))))
+    (. .)))
+
+(ROOT
+  (S (IN for)
+    (NP (NN instance))
+    (VP (VBP do)
+      (SBAR
+        (S
+          (NP (PRP you))
+          (ADVP (RB ever))
+          (VP (VBP give)
+            (NP (NN change))
+            (PP (TO to)
+              (NP
+                (NP (DT a) (JJ homeless) (NN person))
+                (PP (IN on)
+                  (NP (PRP$ your) (NN way) (NN home)))))
+            (PP (IN from)
+              (NP (NN work)))))))
+    (. .)))
+

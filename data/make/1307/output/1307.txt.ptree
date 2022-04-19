@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (NP (PRP it))
+    (VP (VBZ has)
+      (S
+        (VP (TO to)
+          (VP (VB be)
+            (VP (VBN noticed)
+              (SBAR (IN that)
+                (S
+                  (NP (EX there))
+                  (VP (VBD was)
+                    (NP
+                      (NP (DT no)
+                        (ADJP (RB statistically) (JJ significant))
+                        (NNS differences))
+                      (PP (IN at)
+                        (NP (CD 1) (NN year) (NN post) (NN operatively))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB consequently))
+      (NP (PRP$ our) (JJ surgical) (NN modification))
+      (VP (VBD achieved)
+        (NP (DT an) (JJR earlier) (JJ continence) (NN recovery) (NN post))
+        (ADVP (RB operatively))
+        (ADVP (RB however))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBD did) (RB not)
+      (VP (VB increase)
+        (NP (DT the) (JJ final) (NN continence) (NN rate))
+        (PP (IN after)
+          (NP
+            (NP (CD 1) (NN year))
+            (PP (IN of)
+              (S
+                (VP (VB follow)
+                  (PRT (RP up)))))))))
+    (. .)))
+

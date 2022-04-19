@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN fact)))
+    (, ,)
+    (NP (JJ various) (JJ regional) (NN wrestling) (NNS federations)
+      (CC and)
+      (NNS associations))
+    (VP (VB establish)
+      (NP (JJ other) (NN weight) (NNS classes)))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP
+        (NP (JJ particular))
+        (PP (IN in)
+          (NP (NN usa)))))
+    (NP (JJ heavyweight) (NNS classes))
+    (VP (VBP are)
+      (ADJP (RB very) (JJ popular)
+        (PP (IN for)
+          (NP (NNS girls))))
+      (ADVP (RB up)
+        (PP (TO to)
+          (NP (CD 100) (NN kg)))))
+    (. .)))
+

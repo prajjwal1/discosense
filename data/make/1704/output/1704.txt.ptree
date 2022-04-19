@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (NP (DT these) (NNS concerns))
+    (ADVP (RB primarily))
+    (VP
+      (VP (VBP focus)
+        (PP (IN on)
+          (NP
+            (NP (NN government) (NNS contracts))
+            (CC and)
+            (NP (NN research)))))
+      (CC and)
+      (VP (VBP are)
+        (ADJP (JJ predominately)
+          (SBAR
+            (S
+              (NP (DT the) (NNS primes))
+              (VP (VBD mentioned)
+                (ADVP (RB above))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB because)
+      (PP (IN of)
+        (NP
+          (NP (DT this) (NN reliance))
+          (PP (IN on)
+            (NP (NN government) (NNS contracts))))))
+    (, ,)
+    (NP (DT this) (NN segment))
+    (VP (VBD underwent)
+      (NP
+        (NP (DT a) (NN series))
+        (PP (IN of)
+          (NP
+            (NP (NNS consolidations))
+            (CC and)
+            (NP (DT an) (JJ overall) (NN contraction)))))
+      (PP (IN in)
+        (NP
+          (NP (DT the) (NNS 1990s))
+          (CC and)
+          (NP (JJ early) (NNS 2000s)))))
+    (. .)))
+

@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (JJS most) (NNS people))
+        (PP (IN with)
+          (NP (DT the) (NN surname) (NN mccausland))))
+      (CC or)
+      (NP
+        (NP (CD one))
+        (PP (IN of)
+          (NP (PRP$ its) (NNS variants)))))
+    (VP (VBP refer)
+      (PP (TO to)
+        (NP (PRP themselves)))
+      (PP (IN as)
+        (NP (NN irish))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN although)
+      (S
+        (NP (DT some))
+        (VP
+          (VP (VBZ mccauslands)
+            (PP (IN with)
+              (NP (NN protestant))))
+          (CONJP (RB rather) (IN than))
+          (VP (VB irish)
+            (NP (JJ catholic) (NN heritage))
+            (ADVP (RB sometimes))))))
+    (VP (VBP refer)
+      (PP (TO to)
+        (NP (PRP themselves)))
+      (PP (IN as)
+        (NP (NN scotch) (NN irish))))
+    (. .)))
+

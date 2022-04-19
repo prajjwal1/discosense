@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (S
+      (NP (JJ fred) (NN willard))
+      (VP (VBD was)
+        (ADJP
+          (NP (DT a) (RB bit))
+          (JJ disappointing))))
+    (NP (PRP he))
+    (VP (VBD seemed)
+      (ADJP
+        (ADJP (RB very) (JJ uncomfortable))
+        (ADVP (RB up)
+          (PP (IN on)
+            (NP (NN stage))))
+        (, ,)
+        (CC and)
+        (ADJP (RB not) (RB too) (JJ sure)))
+      (PP (IN of)
+        (NP (PRP$ his) (NNS lines))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB otherwise))
+    (NP (NN everyone) (RB else))
+    (VP (VBD was)
+      (ADJP (JJ great)))
+    (. .)))
+

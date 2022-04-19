@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (NP (NN anderson) (NN ive))
+    (VP
+      (VP (VBN been)
+        (VP (VBG working)
+          (PP (IN with)
+            (NP (NN john) (NN hieftje)))))
+      (CC and)
+      (VP
+        (NP
+          (NP (DT a) (NN number))
+          (PP (IN of)
+            (NP (JJ other) (NNS leaders))))
+        (PP (IN on)
+          (NP
+            (NP (DT the) (NN vision))
+            (PP (IN for)
+              (NP (DT that)))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (S
+      (SBAR
+        (WHADVP (RB interestingly) (WRB when))
+        (S
+          (NP (FW i))
+          (VP (VBD moved)
+            (PP (IN into)
+              (NP (PRP$ my) (NN home))))))
+      (, ,)
+      (NP (EX there))
+      (VP (VBD was)
+        (NP
+          (NP (DT a) (NN parcel))
+          (VP (VBN attached)
+            (PP (TO to)
+              (NP (DT the) (NN arboretum)))))))
+    (VP (VBD called))
+    (NP
+      (NP (NN dow) (NN field))
+      (, ,)
+      (NP (DT a) (JJ beautiful) (NN field)))
+    (. .)))
+

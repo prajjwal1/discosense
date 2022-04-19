@@ -1,0 +1,53 @@
+(ROOT
+  (S
+    (SBAR (IN although)
+      (S
+        (NP (PRP it))
+        (VP (VBZ is)
+          (ADJP (RBS most) (JJ exact)
+            (S
+              (VP (TO to)
+                (VP (VB report)
+                  (NP (PRP it))
+                  (ADVP (DT every) (NN time)
+                    (SBAR (IN that)
+                      (S
+                        (NP (PRP it))
+                        (VP (VBZ does) (RB not)
+                          (VP (VB agree)
+                            (PP (IN with)
+                              (NP (NN cc)))))))))))))))
+    (, ,)
+    (NP (DT this))
+    (VP (VBZ causes)
+      (NP (DT the) (NN system)
+        (S
+          (VP (TO to)
+            (VP (VB suffer)
+              (NP (DT a) (JJ considerable) (NN load)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB hence))
+    (NP (PRP it))
+    (VP (VBZ is)
+      (ADJP (JJ preferable)
+        (S
+          (VP (TO to)
+            (VP (VB report)
+              (NP (PRP it))
+              (ADVP (RB only))
+              (SBAR
+                (WHADVP (WRB when))
+                (S
+                  (NP
+                    (NP (DT the) (NN difference))
+                    (PP (IN between)
+                      (NP (NN cm)
+                        (CC and)
+                        (NN cc))))
+                  (VP (VBZ exceeds)
+                    (NP (NN cell) (NN delay) (NN variation) (NN cdv))))))))))
+    (. .)))
+

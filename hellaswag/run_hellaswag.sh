@@ -6,8 +6,8 @@ export LR=2e-5
 # best performing funnel ws:1500
 
 
-export MODEL_PATH='/shared/mlrdir3/disk1/pxb190028/models/discosense/funnel-transformer-xlarge_ws_1500/'
-export OUTPUT_PATH='/shared/mlrdir3/disk1/pxb190028/models/seq_ft/funnel-transformer-xlarge_ws_1500/'
+export MODEL_PATH='google/electra-large-discriminator'
+export OUTPUT_PATH='/shared/mlrdir3/disk1/pxb190028/models/random'
 python3 run_hellaswag.py \
                       --model_name_or_path $MODEL_PATH\
                       --do_train \

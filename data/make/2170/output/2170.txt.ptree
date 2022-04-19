@@ -1,0 +1,58 @@
+(ROOT
+  (S
+    (S
+      (NP (DT this) (NN finding))
+      (VP (VBZ establishes)
+        (NP
+          (NP (DT a) (NN link))
+          (PP (IN between)
+            (NP
+              (NP (CD two) (NNS proteins))
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (VP (MD can)
+                    (VP (VB cause)
+                      (NP (JJ amyotrophic) (JJ lateral) (NN sclerosis))
+                      (SBAR
+                        (WHADVP (WRB when))
+                        (S
+                          (VP (VBN mutated)))))))))))))
+    (, ,)
+    (NP (NN vapb))
+    (VP (VBP als)
+      (NP
+        (QP (CD 8)
+          (CC and)
+          (CD p) (CD 97) (CD als) (CD 14))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB subsequently))
+    (NP (PRP we))
+    (VP (VBD identified)
+      (NP (DT a) (JJ similar) (NN ffat))
+      (PP (IN like)
+        (NP (NN motif)))
+      (PP (IN in)
+        (NP
+          (NP (DT the) (NN asna) (CD 1) (NN subunit))
+          (PP (IN of)
+            (NP
+              (NP (DT the) (JJ transmembrane) (NN domain) (NN recognition) (NN complex))
+              (, ,)
+              (SBAR
+                (WHNP (WDT which))
+                (S
+                  (PP (IN in)
+                    (NP (NN turn)))
+                  (VP (VBZ mediates)
+                    (NP (NN asna) (CD 1) (NN interaction))
+                    (PP (IN with)
+                      (NP
+                        (NP (DT the) (NN msp) (NN domain))
+                        (PP (IN of)
+                          (NP (NN vapb)))))))))))))
+    (. .)))
+

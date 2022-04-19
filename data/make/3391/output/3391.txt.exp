@@ -1,0 +1,3 @@
+conn_lc:if conn:if conn_POS:IN with_prev_full:subordinated_if xxx£
+conn_lc:if conn:if conn_POS:IN with_prev_full:similarly_if xxx£
+conn_lc:also conn:also conn_POS:RB with_prev_full:company_also xxx£

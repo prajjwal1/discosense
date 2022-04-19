@@ -1,0 +1,38 @@
+(ROOT
+  (S
+    (NP
+      (NP (NN respondent) (NN american) (NN commodity) (NN broker))
+      (, ,)
+      (VP (VBN contracted)
+        (PP (IN with)
+          (NP (DT a) (NN cuban) (NN corporation)))))
+    (ADVP (RB largely))
+    (VP (VBD owned)
+      (PP (IN by)
+        (NP (VBN united) (NNS states) (NNS residents)))
+      (S
+        (VP (TO to)
+          (VP (VB buy)
+            (NP (NN cuban) (NN sugar))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB thereafter))
+      (ADJP (JJ subsequent)
+        (PP (TO to)
+          (NP
+            (NP (DT the) (JJ united) (NNS states) (NNS governments) (NN reduction))
+            (PP (IN of)
+              (NP (DT the) (NN cuban) (NN sugar) (NN quota)))))))
+    (, ,)
+    (NP (DT the) (NN cuban) (NN government))
+    (VP (VBD expropriated)
+      (NP (DT the)
+        (NX
+          (NX (NNS corporations) (NN property))
+          (CC and)
+          (NX (NNS rights)))))
+    (. .)))
+

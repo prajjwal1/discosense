@@ -1,0 +1,59 @@
+(ROOT
+  (S
+    (NP (EX there))
+    (VP (VBZ is)
+      (NP (JJ little) (NN doubt))
+      (SBAR (IN that)
+        (S
+          (NP (NNP snofru))
+          (VP (VBD was)
+            (ADVP (RB finally))
+            (VP (VBN buried)
+              (PP (IN in)
+                (NP (DT this) (NN pyramid)))))))
+      (, ,)
+      (SBAR (IN although)
+        (S
+          (NP
+            (NP (DT the) (NNS fragments))
+            (PP (IN of)
+              (NP
+                (NP (JJ human) (NNS remains))
+                (VP (VBN found)
+                  (PP (IN inside)
+                    (NP (DT the) (NN burial) (NN chamber)))))))
+          (VP (VBP are) (RB not)
+            (ADJP (JJ certain)
+              (S
+                (VP (TO to)
+                  (VP (VB have)
+                    (VP (VBN been)
+                      (NP (PRP$ his)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VBG interestingly)
+        (PP (IN during)
+          (NP
+            (NP (DT the) (NN reign))
+            (PP (IN of)
+              (NP (JJ pepi) (FW i)))
+            (PP (IN of)
+              (NP (DT the) (JJ 6th) (NN dynasty)))))))
+    (, ,)
+    (NP (DT this) (NN pyramid))
+    (ADVP (IN along)
+      (PP (IN with)
+        (NP
+          (NP (PRP$ its) (JJ southern) (NN neighbor))
+          (, ,)
+          (NP (DT the) (NN bent) (NN pyramid))
+          (, ,))))
+    (VP (VBD was)
+      (VP (VBN considered)
+        (PP (IN as)
+          (NP (CD one) (NN estate)))))
+    (. .)))
+

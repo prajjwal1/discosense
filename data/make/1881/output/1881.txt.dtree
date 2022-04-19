@@ -1,0 +1,17 @@
+nsubj(prime-6, 67-1)
+nsubj(differ-9, 67-1)
+conj_and(67-1, 71-3)
+nsubj(prime-6, 71-3)
+cop(prime-6, are-4)
+dep(prime-6, both-5)
+root(ROOT-0, prime-6)
+conj_and(prime-6, differ-9)
+prep_by(differ-9, four-11)
+
+prep_because_of(called-6, this-3)
+nsubjpass(called-6, they-4)
+auxpass(called-6, are-5)
+root(ROOT-0, called-6)
+nn(primes-8, cousin-7)
+dobj(called-6, primes-8)
+

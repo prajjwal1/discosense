@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (NP (DT the) (JJ walt) (NN disney) (NN company))
+    (VP (VBZ has)
+      (VP (VBN been)
+        (VP (VBN known)
+          (PP (IN for)
+            (NP (PRP$ their) (JJ strict) (NN construction)
+              (CC and)
+              (NN risk) (NN management) (NNS requirements)))
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (NP (PRP they))
+              (VP (VBD wished)
+                (S
+                  (VP (TO to)
+                    (VP (VB impose)
+                      (PP (IN upon)
+                        (NP (DT the) (JJ french) (NNS workers))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB likewise))
+    (NP (DT the) (JJ walt) (NN disney) (NN company))
+    (VP (VBD had)
+      (S
+        (VP (TO to)
+          (VP (VB cope)
+            (PP (IN with)
+              (NP
+                (NP (NN language) (NNS barriers))
+                (CC and)
+                (NP
+                  (NP (DT an) (JJ unfamiliar) (JJ french) (JJ legal) (NN framework))
+                  (VP (VBN derived)
+                    (PP (IN from)
+                      (NP (DT the) (JJ napoleonic) (NN code)))))))))))
+    (. .)))
+

@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (NP (EX there))
+    (VP (VBP are)
+      (NP
+        (NP
+          (QP (RB about) (CD 1.4) (CD billion))
+          (JJ email) (NNS users))
+        (VP
+          (ADVP (RB globally))
+          (VBG growing)
+          (PP (IN at)
+            (NP
+              (NP (DT the) (NN rate))
+              (PP (IN of)
+                (NP
+                  (NP
+                    (QP (RB over) (CD 100) (CD million)))
+                  (PP (IN per)
+                    (NP (NN year))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN contrast)))
+    (NP
+      (QP (RB about) (CD 500) (CD million))
+      (NNS people))
+    (VP (VBP have)
+      (NP
+        (NP (DT an) (NN account))
+        (PP (IN on)
+          (NP (NN facebook)))))
+    (. .)))
+

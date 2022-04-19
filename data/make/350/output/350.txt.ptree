@@ -1,0 +1,50 @@
+(ROOT
+  (S
+    (NP
+      (NP
+        (ADJP (RB even) (JJ powdered))
+        (NN egg) (JJ white)
+        (CC and)
+        (NN protein) (NNS powders))
+      (, ,)
+      (PP (IN in)
+        (NP (NN general)))
+      (, ,))
+    (ADVP (RB only))
+    (VP (VBP support)
+      (NP
+        (NP (NN muscle) (NN growth))
+        (PP (IN for)
+          (NP
+            (QP (CD 2) (TO to) (CD 3))
+            (NNS hours)))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (PP (IN by)
+      (NP
+        (NP (NN contrast) (JJ liquid) (NN egg))
+        (ADJP (JJ white))))
+    (VP (VBZ supports)
+      (NP (NN muscle) (NN growth))
+      (PP (IN for)
+        (NP
+          (QP (IN up) (TO to) (CD 4) (TO to) (CD 5))
+          (NNS hours)))
+      (, ,)
+      (S
+        (VP (VBG making)
+          (NP (PRP it)))))
+    (NP
+      (NP (DT an) (JJ excellent) (NN means))
+      (PP (IN of)
+        (S
+          (VP
+            (VP (VBG losing)
+              (NP (NN weight)))
+            (CC and)
+            (VP (VBG toning)
+              (NP (NN muscle) (NN fibre)))))))
+    (. .)))
+

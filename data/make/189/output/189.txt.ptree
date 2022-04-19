@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (NP (DT the)
+      (ADJP (RBS most) (JJ important))
+      (NN feature))
+    (VP (VBZ is)
+      (SBAR (IN that)
+        (S
+          (NP (DT the) (NNS warnings) (NN pragma))
+          (VP (VBZ has)
+            (NP (DT a) (JJ lexical) (NN effect))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP
+        (NP (JJ other) (NNS words))
+        (PP (RB rather) (IN than)
+          (S
+            (VP (VBG enabling)
+              (NP
+                (NP (NNS warnings))
+                (PP (IN for)
+                  (NP (DT the) (JJ entire) (NN program))))
+              (ADVP (RB unilaterally)))))))
+    (, ,)
+    (NP (DT some) (NNS files)
+      (CC and)
+      (NNS blocks))
+    (VP (MD can)
+      (VP (VB request)
+        (NP
+          (NP (JJR stricter)
+            (CC or)
+            (JJR looser))
+          (VP (VBG warning)
+            (NP (NNS categories))
+            (PP (IN than)
+              (NP (NNS others)))))))
+    (. .)))
+

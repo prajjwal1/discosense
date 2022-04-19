@@ -1,0 +1,1 @@
+the method used in these experiment preferentially selects for two primer products. in particular one primer is biotinylated and the other is not.

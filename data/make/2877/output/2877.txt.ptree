@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (NN question))
+      (VP (VBN posed)))
+    (VP (VBZ does) (RB not)
+      (VP (VB concern)
+        (NP (DT the) (JJ verses) (NN connection))
+        (PP (IN with)
+          (NP
+            (NP (DT the) (NN context))
+            (, ,)
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (VP (VBZ calls)
+                  (PP (IN for)
+                    (NP (PRP$ its) (JJ own) (NN consideration))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB rather))
+    (NP (DT the) (NN question))
+    (VP (VBZ concerns)
+      (SBAR
+        (WHADVP (WRB how))
+        (S
+          (NP (DT a) (NN christian))
+          (VP (MD should)
+            (VP (VB use)
+              (NP
+                (NP (DT the) (NN verse))
+                (PP (IN with)
+                  (NP (NN reference))))
+              (PP (TO to)
+                (S
+                  (VP (VBG confessing)
+                    (NP (NNS sins))
+                    (PP (TO to)
+                      (NP (CD one) (DT another)))))))))))
+    (. .)))
+

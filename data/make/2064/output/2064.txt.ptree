@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (NP (PRP we))
+    (ADVP (RB only))
+    (VP (VBD made)
+      (NP
+        (NP (DT a) (NN couple))
+        (PP (IN of)
+          (NP (JJ minor) (NNS changes)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP (NN instance)))
+    (NP (PRP we))
+    (VP (VBP use)
+      (S
+        (NP
+          (NP
+            (ADJP (RB slightly) (JJR smaller))
+            (VBN fixed) (NNS resistors))
+          (PP (IN in)
+            (NP
+              (NP (DT the) (JJ base) (NN bias) (NN circuit))
+              (PP (IN of)
+                (NP (DT the) (NN differential) (NN amp))))))
+        (VP (TO to)
+          (VP (VB make)
+            (PRT (RP up))
+            (PP (IN for)
+              (NP (DT the) (JJ added) (JJ trim) (NN pot)))))))
+    (. .)))
+

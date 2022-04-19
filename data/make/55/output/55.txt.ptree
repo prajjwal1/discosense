@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (NP (JJS most) (NNS peoples))
+    (VP (VBN aversion)
+      (PP (TO to)
+        (NP
+          (NP (DT this) (NNS shows))
+          (SBAR
+            (WHNP (WRB how) (JJ ingrained))
+            (S
+              (NP (DT a) (JJ patriarchal) (NN heteronormativty))
+              (VP (VBZ is)
+                (PP (IN within)
+                  (NP (PRP us)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB because) (IN of)
+      (NP (DT this) (JJ overwhelming) (NN power)))
+    (, ,)
+    (NP (PRP we))
+    (VP (VBZ struggle)
+      (S
+        (VP (TO to)
+          (VP (VB envision)
+            (ADVP (RB intersectionality))))))
+    (. .)))
+

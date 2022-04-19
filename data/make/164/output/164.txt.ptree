@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (NP
+      (NP (NN government))
+      (CC and)
+      (NP (JJ other) (JJ private) (NN research) (NN funding) (NNS organizations)))
+    (VP (VBP require)
+      (S
+        (NP (JJ substantial) (JJ preliminary) (NNS data))
+        (VP (TO to)
+          (VP
+            (ADVP (RB even))
+            (VB apply)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN as)
+      (NP (DT a) (NN result)))
+    (NP (PRP it))
+    (VP (VBZ is)
+      (ADJP (RB virtually) (JJ impossible)
+        (PP (IN for)
+          (NP
+            (NP (NNS scientists))
+            (PP (IN with)
+              (NP (NN novel) (NNS approaches))))))
+      (PP (IN for)
+        (S
+          (VP (VBG addressing)
+            (NP (NNS lupus))
+            (S
+              (VP (TO to)
+                (VP
+                  (VP (VB secure)
+                    (NP (NN funding)))
+                  (CC and)
+                  (VP (VB advance)
+                    (NP (PRP$ their) (NNS ideas))))))))))
+    (. .)))
+

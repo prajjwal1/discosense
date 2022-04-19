@@ -1,0 +1,1 @@
+planarization of the low k material by cmp processing can also ensure that the process window is not missed. thereafter the sacrificial layer is removed, and a protective layer is deposited on the low k material and the metal lines.

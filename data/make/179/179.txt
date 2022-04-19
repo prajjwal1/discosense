@@ -1,0 +1,1 @@
+users tastes for syntax vary dramatically, but most users are looking for a common feature set. because of this factory girl supports syntax layers which provide alternate interfaces.

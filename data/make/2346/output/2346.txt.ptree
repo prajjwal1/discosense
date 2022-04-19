@@ -1,0 +1,55 @@
+(ROOT
+  (S
+    (S
+      (VP
+        (ADVP (RB too) (RB often))
+        (VBN dortmund)))
+    (VP (VBD was)
+      (UCP
+        (ADJP (JJ predictable))
+        (, ,)
+        (ADJP
+          (NP (CD one))
+          (JJ paced))
+        (CC and)
+        (VP
+          (ADVP (RB sorely))
+          (VBG lacking)
+          (NP (JJ ilkay) (NN gundogan))))
+      (, ,)
+      (PP (IN upon)
+        (SBAR
+          (WHNP (WP whom))
+          (S
+            (NP (PRP it))
+            (ADVP (RB now))
+            (VP (VBZ is)
+              (ADJP (RB fatally) (JJ dependent)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN contrast) (NNS napoli)))
+    (, ,)
+    (PP (IN with)
+      (S
+        (NP
+          (NP (PRP$ its) (JJ creative) (NNS faculties))
+          (PP (IN in)
+            (NP (JJ full) (NN effect))))
+        (VP (VBG going)
+          (ADVP (RB forward)))))
+    (, ,)
+    (VP
+      (VP (VBD had)
+        (NP (PRP$ its) (NN measure)))
+      (CC and)
+      (VP (VBD was)
+        (ADJP (IN worth)
+          (NP
+            (NP (DT a) (JJR better) (NN margin))
+            (PP (IN for)
+              (NP (PRP$ their) (NN win)))))))
+    (. .)))
+

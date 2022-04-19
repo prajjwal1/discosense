@@ -1,0 +1,60 @@
+(ROOT
+  (S
+    (NP (PRP we))
+    (VP (VBP consider)
+      (SBAR (IN that)
+        (S
+          (NP
+            (ADJP (DT both) (JJ parasitic)
+              (CC and)
+              (JJ mutualistic))
+            (JJ commensalistic) (NNS interactions))
+          (VP (MD may)
+            (VP (VB be)
+              (VP (VBG driving)
+                (NP
+                  (NP (DT the) (JJ assortative)
+                    (ADJP (JJ sociality)
+                      (CC and)
+                      (JJ limited))
+                    (NN dispersal))
+                  (SBAR
+                    (WHNP (WDT that))
+                    (S
+                      (VP (VBP operate)
+                        (PP (IN in)
+                          (NP
+                            (NP (DT the) (NN genesis))
+                            (PP (IN of)
+                              (NP (NNS religions)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (PP (IN in)
+        (NP (NN sum)))
+      (NP (NN religion) (NN diversity))
+      (VP (VBZ appears)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (VP (VBN tied)
+                (ADVP (RB importantly)
+                  (PP (TO to)
+                    (NP (JJ infectious) (NN disease) (NN stress))))
+                (PP (IN across)
+                  (NP (DT the) (NN globe)))))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (DT the) (JJ global) (NN pattern))
+      (VP (VBZ is)
+        (ADJP (JJ consistent)
+          (PP (IN with)
+            (NP
+              (NP (PRP$ our) (NN model))
+              (PP (IN of)
+                (NP (NN religion) (NN genesis))))))))
+    (. .)))
+

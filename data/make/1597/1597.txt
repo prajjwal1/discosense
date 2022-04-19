@@ -1,0 +1,1 @@
+a cost effective database solution was critical in order to allow operators to test the ip. access offerings during a trial period, or to start with relatively small deployments. yet the database had to be highly scalable in order to support the larger deployments of tier 1 mobile operators as they take early stage pilots to full national roll out.

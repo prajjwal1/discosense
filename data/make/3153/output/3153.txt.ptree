@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (NP (DT the) (NNS numbers))
+    (ADVP (RB also))
+    (VP (VBD showed)
+      (SBAR (IN that)
+        (S
+          (NP (NNS studios))
+          (VP (VBP ignore)
+            (NP (JJ hispanic) (NNS moviegoers))
+            (PP (IN in)
+              (NP
+                (NP (DT this) (NN country))
+                (PP (IN at)
+                  (NP (PRP$ their) (JJ own) (NN peril)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN although)
+      (S
+        (NP (NNS hispanics))
+        (ADVP (RB only))
+        (VP (VBP represent)
+          (NP
+            (NP (CD 17) (NN percent))
+            (PP (IN of)
+              (NP
+                (NP (DT the) (NN population))
+                (PP (IN in)
+                  (NP (DT the) (VBN united) (NNS states)
+                    (CC and)
+                    (NNS canada)))))))))
+    (, ,)
+    (NP (PRP they))
+    (VP (VBP comprise)
+      (NP
+        (NP (CD 26) (NN percent))
+        (PP (IN of)
+          (NP (NN ticket) (NNS buyers)))))
+    (. .)))
+

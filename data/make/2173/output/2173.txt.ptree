@@ -1,0 +1,38 @@
+(ROOT
+  (S
+    (NP (DT this) (JJ extended) (NN process))
+    (VP (MD will)
+      (ADVP (RB only))
+      (VP (VB be)
+        (ADJP (JJ necessary))
+        (NP
+          (NP (DT the) (JJ first) (NN time))
+          (SBAR
+            (S
+              (NP (PRP you))
+              (VP (VBP use)
+                (NP
+                  (NP (DT the) (NN knife) (NN sharpener))
+                  (PP (IN for)
+                    (NP
+                      (NP (DT this) (NN type))
+                      (PP (IN of)
+                        (NP (NN knife))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thereafter))
+    (NP (PRP you))
+    (VP (MD will)
+      (VP (VB be)
+        (ADJP (JJ able)
+          (S
+            (VP (TO to)
+              (VP (VB sharpen)
+                (NP
+                  (NP (PRP$ your) (NN knife))
+                  (PP (VBG following)
+                    (NP (DT the) (JJ normal) (JJ sharpening) (NN procedure))))))))))
+    (. .)))
+

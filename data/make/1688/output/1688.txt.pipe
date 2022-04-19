@@ -1,0 +1,2 @@
+Explicit|||0..2;69..73||if then||0|if then|||Expansion.Conjunction|||||||||||3..67|0|the web app is only allowed to run a few dozen stored procedures||||||||3..67;74..139|0|the web app is only allowed to run a few dozen stored procedures there are practically no attack vectors from an exploited website|||||||||||||
+Explicit|||159..161;192..196||if then||1|if then|||Expansion.Conjunction||||||||||||1|||||||||197..225|1|youre going to have problems|||||||||||||

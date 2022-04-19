@@ -1,0 +1,1 @@
+we establish the properties of the symbolic and operational calculi, and we give and make use of explicit oscillatory integral formulas on the symbolic side. in particular we investigate the kernel cut off operator via direct oscillatory integral techniques purely on symbolic level.

@@ -1,0 +1,34 @@
+(ROOT
+  (S (CC and)
+    (NP (NN fsx))
+    (VP (MD can)
+      (VP (VB be)
+        (NP (DT a)
+          (ADJP (RB very) (JJ demanding))
+          (NN application))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB because) (IN of)
+      (NP (DT that)))
+    (NP (PRP it))
+    (VP (MD will)
+      (ADVP (RB sometimes))
+      (VP (VB look)
+        (NP
+          (NP (JJR sharper) (JJ overall))
+          (PP (IN at)
+            (NP (DT a) (JJR lower) (NN res))))
+        (SBAR (IN if)
+          (S
+            (NP (DT the) (NN cpu))
+            (VP (MD can)
+              (VP (VB keep)
+                (PRT (RP up))
+                (PP (IN with)
+                  (S
+                    (VP (VBG updating)
+                      (NP (DT the) (NN scenery) (NNS textures)))))))))))
+    (. .)))
+

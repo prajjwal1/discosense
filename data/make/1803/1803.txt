@@ -1,0 +1,1 @@
+ive also stopped distributing the app store version outside the app store, as the sandboxing has made it quite unusable now. instead there is a non sandboxed up to date version with sparkle updates.

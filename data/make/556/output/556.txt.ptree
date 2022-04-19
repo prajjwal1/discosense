@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (NP (DT this) (NN mandate))
+    (VP
+      (VP (VBZ applies)
+        (PP (TO to)
+          (NP
+            (NP (DT all) (NN hipaa))
+            (VP (VBN covered)
+              (NP (NNS entities))))))
+      (CC and)
+      (VP (VBZ is)
+        (ADJP (JJ effective)
+          (NP (NNP january) (CD 1) (, ,) (CD 2013)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP
+      (ADVP (RB subsequently))
+      (IN on)
+      (NP (NNP january) (CD 1) (, ,) (CD 2014)))
+    (, ,)
+    (NP (VBG operating) (NN rule) (NNS regulations))
+    (VP (MD will)
+      (VP (VB become)
+        (ADJP (JJ effective))
+        (PP (IN for)
+          (NP (JJ electronic) (NNS funds) (NN transfer)
+            (CC and)
+            (JJ electronic) (NN remittance) (NN advice) (NNS transactions)))))
+    (. .)))
+

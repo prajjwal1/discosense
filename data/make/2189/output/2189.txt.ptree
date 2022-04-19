@@ -1,0 +1,48 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (NN thought))
+      (PP (IN of)
+        (S
+          (VP (VBG working)
+            (PP (IN with)
+              (NP (NNS animals)))
+            (ADVP (RB firsthand))
+            (S
+              (VP (TO to)
+                (VP (VB gain)
+                  (NP (NN experience)))))))))
+    (VP (MD may)
+      (VP (VB seem)
+        (PP (IN like)
+          (NP
+            (NP (DT a) (JJ daunting) (NN task))
+            (PP (IN at)
+              (NP (JJ first)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB yet))
+    (NP (PRP we))
+    (VP (VBP see)
+      (SBAR
+        (WHNP
+          (WHADJP (WRB how) (JJ much))
+          (NNS fun))
+        (S
+          (NP
+            (NP (DT some))
+            (PP (IN of)
+              (NP (DT the) (NNS characters))))
+          (VP (VBP have)
+            (PP (IN as)
+              (NP (PRP they)))
+            (S
+              (VP (VB embrace)
+                (NP
+                  (NP (DT the) (NN way))
+                  (PP (IN of)
+                    (NP (DT the) (NN farm) (NN life))))))))))
+    (. .)))
+

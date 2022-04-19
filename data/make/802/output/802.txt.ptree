@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (NP (NN chen))
+    (VP (VBD acknowledged)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (NN quality))
+            (PP (IN of)
+              (NP (NN life))))
+          (VP (VBZ is)
+            (ADJP (JJ difficult)
+              (S
+                (VP (TO to)
+                  (VP (VB measure)
+                    (PP (RB because) (IN of)
+                      (NP (PRP$ its) (JJ subjective) (NN nature)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nonetheless))
+    (NP (PRP he))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (DT the) (NNS findings))
+          (VP (VBP support)
+            (NP
+              (NP (DT the)
+                (ADJP (RBR more) (JJ widespread))
+                (NN use))
+              (PP (IN of)
+                (NP
+                  (NP (NN imrt))
+                  (PP (IN in)
+                    (NP (NN radiation) (NNS clinics))))))
+            (PP (IN throughout)
+              (NP (DT the) (NN country)))))))
+    (. .)))
+

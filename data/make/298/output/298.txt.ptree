@@ -1,0 +1,65 @@
+(ROOT
+  (S
+    (NP (PRP it))
+    (VP (VBZ is) (RB not)
+      (PP (TO to)
+        (NP (PRP$ your) (NN advantage)
+          (S
+            (VP (TO to)
+              (VP (VB spend)
+                (NP (NN time))
+                (PP (IN with)
+                  (NP
+                    (NP (NNS others))
+                    (SBAR
+                      (WHNP (WP who))
+                      (S
+                        (VP (VBP are)
+                          (ADJP (JJ critical)
+                            (CC and)
+                            (JJ hard)
+                            (S
+                              (VP (TO to)
+                                (VP (VB please)
+                                  (SBAR
+                                    (S
+                                      (NP (PRP it))
+                                      (VP (MD will)
+                                        (ADVP (RB only))
+                                        (VP (VB put)
+                                          (NP (PRP you))
+                                          (PP (IN into)
+                                            (NP (DT a) (JJ further) (NN spin))))))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB likewise))
+    (NP (PRP it))
+    (VP (VBZ is) (RB not)
+      (ADJP (JJ wise)
+        (S
+          (VP (TO to)
+            (VP (VB behave)
+              (SBAR (IN that)
+                (S
+                  (NP
+                    (NP (NN way) (NNS yourself))
+                    (VP (VBG being)
+                      (ADJP (RB too) (JJ critical)
+                        (CC and)
+                        (JJ hard)
+                        (S
+                          (VP (TO to)
+                            (VP (VB please)))))))
+                  (VP (MD may)
+                    (VP (VB cause)
+                      (S
+                        (NP (NNS others))
+                        (VP (TO to)
+                          (VP (VB avoid)
+                            (NP (NN contact))
+                            (PP (IN with)
+                              (NP (PRP you)))))))))))))))
+    (. .)))
+

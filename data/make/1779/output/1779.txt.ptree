@@ -1,0 +1,59 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (DT a) (JJ free) (NN market)))
+    (, ,)
+    (NP (EX there))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a)
+          (ADJP (RB very) (JJ necessary))
+          (NN role))
+        (PP (IN for)
+          (NP (NN government)
+            (S
+              (VP (TO to)
+                (VP (VB play)))))))
+      (, ,)
+      (SBAR (RB just) (IN as)
+        (S
+          (PP (IN in)
+            (NP (NN nature)))
+          (NP (EX there))
+          (VP (VBZ is)
+            (NP
+              (NP (DT an) (JJ appropriate) (NN time))
+              (PP (IN for)
+                (NP
+                  (NP (DT the) (NN use))
+                  (PP (IN of)
+                    (NP (NN force))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB specifically))
+    (NP (DT the) (NN government))
+    (VP
+      (VP (VBZ brings)
+        (NP (NN force))
+        (S
+          (VP (TO to)
+            (VP (VB bear)
+              (PP (IN against)
+                (NP
+                  (NP (DT those))
+                  (SBAR
+                    (WHNP (WP who))
+                    (S
+                      (VP (VBP have)
+                        (VP (VBN committed)))))))))))
+      (CC or)
+      (VP (VBP are)
+        (VP (VBG committing)
+          (NP
+            (NP (NN aggression))
+            (PP (IN against)
+              (NP (JJ anothers) (NNS rights)))))))
+    (. .)))
+

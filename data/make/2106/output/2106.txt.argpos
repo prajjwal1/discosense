@@ -1,0 +1,2 @@
+conn:while conn_POS:IN prev1:occurred prev1_POS:VBD with_prev1_full:occurred_while with_prev1_POS_full:VBD_IN prev2:accident prev2_POS:NN with_prev2_full:accident_while with_prev2_POS_full:NN_IN NA
+conn:thereafter conn_POS:RB sent_pos:0 NA

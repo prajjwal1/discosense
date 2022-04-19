@@ -1,0 +1,72 @@
+(ROOT
+  (S
+    (PP (IN for)
+      (NP (DT the) (JJ ungraceful) (NN woman)))
+    (, ,)
+    (SBAR (RB even) (IN if)
+      (S
+        (NP (PRP she))
+        (VP (VBP cultivate)
+          (NP
+            (NP (NN beauty))
+            (PP (IN in)
+              (NP (JJ countless) (NNS ways)))))))
+    (, ,)
+    (VP (MD can) (RB not)
+      (VP (VB become)
+        (ADJP (JJ graceful)
+          (PP (IN in)
+            (NP (NN body))))
+        (SBAR (IN for)
+          (S
+            (NP (JJ natural) (NNS conditions))
+            (VP (VBP are)
+              (VP
+                (VP (VBN fixed))
+                (, ,)
+                (CC and)
+                (VP (VBN confined)
+                  (PP (IN by)
+                    (NP
+                      (NP (NNS limits))
+                      (SBAR
+                        (WHNP (WDT which))
+                        (S
+                          (NP (PRP they))
+                          (VP (MD can) (RB not)
+                            (VP (VB pass)
+                              (PRT (RP over)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB therefore))
+      (NP (DT the) (JJ beautiful) (NN woman))
+      (VP (VBZ is)
+        (ADVP (RB always))
+        (ADJP (JJ beautiful))
+        (, ,)
+        (SBAR (RB even) (IN if)
+          (S
+            (NP (PRP she))
+            (VP (VBZ has)
+              (NP
+                (NP (DT no) (NN taste))
+                (PP (IN for)
+                  (NP (NN beauty)))))))))
+    (CC and)
+    (S
+      (NP (DT the) (NN ungraceful))
+      (VP (MD can) (RB not)
+        (VP
+          (VP (VB make)
+            (S
+              (NP (PRP herself))
+              (ADJP (JJ graceful))))
+          (, ,)
+          (CC nor)
+          (VP
+            (NP (DT the) (JJ graceful) (NN ungraceful))))))
+    (. .)))
+

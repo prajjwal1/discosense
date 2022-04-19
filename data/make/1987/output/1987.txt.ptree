@@ -1,0 +1,51 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT the) (NN table))
+        (PP (IN in)
+          (NP (DT this) (NN mib))))
+      (VP (VBZ is)
+        (ADJP (JJ sparse))))
+    (, ,) (IN so)
+    (S
+      (NP
+        (NP (DT some))
+        (PP (IN of)
+          (NP (DT these) (NNS variables))))
+      (VP (MD may) (RB not)
+        (VP (VB exist)
+          (PP (IN for)
+            (NP
+              (NP (DT a) (JJ particular) (NN entity))
+              (PP (IN at)
+                (NP (DT a) (JJ particular) (NN time))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP (NN example)))
+    (NP
+      (NP (DT a) (NN powered))
+      (PP (IN off)
+        (NP (NN module))))
+    (VP (VBZ does) (RB not)
+      (VP (VB have)
+        (NP
+          (NP (DT a) (NN software) (NN id)
+            (CC and)
+            (NN revision))
+          (SBAR
+            (S
+              (NP (DT a) (NN power) (NN supply))
+              (VP (MD would)
+                (ADVP (RB probably))
+                (VP
+                  (ADVP (RB never))
+                  (VB have)
+                  (NP (NN firmware)
+                    (CC or)
+                    (NN software) (NN information)))))))))
+    (. .)))
+

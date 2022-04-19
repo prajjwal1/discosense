@@ -1,0 +1,51 @@
+(ROOT
+  (S
+    (NP
+      (NP (JJ schwab) (NN advisor) (NNS services))
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (VP (VBZ tracks)
+            (NP (DT the) (NNS deals)))))
+      (, ,))
+    (VP (VBD announced)
+      (NP (NN today))
+      (SBAR (IN that)
+        (S
+          (NP (EX there))
+          (VP (VBD was)
+            (NP
+              (NP (DT a)
+                (ADJP (CD 30) (NN %))
+                (NN increase))
+              (PP (IN in)
+                (NP
+                  (NP (DT the) (JJ total) (NN value))
+                  (PP (IN of)
+                    (S
+                      (VP (VBG m)
+                        (NP (DT a) (NNS transactions))
+                        (PP (IN from)
+                          (NP (CD 2011) (TO to) (CD 2012)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (PP (IN in)
+        (ADJP (JJ short)))
+      (NP (EX there))
+      (VP (VBD were)
+        (NP
+          (NP (JJR fewer) (NNS deals))
+          (PP (IN in)
+            (NP (CD 2012))))))
+    (CC but)
+    (S
+      (NP (DT the) (JJ average) (NN asset) (NN size))
+      (VP (VBD was)
+        (ADJP (RB much) (JJR larger))
+        (NP (JJ last) (NN year))))
+    (. .)))
+

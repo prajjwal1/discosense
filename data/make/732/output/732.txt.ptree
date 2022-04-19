@@ -1,0 +1,45 @@
+(ROOT
+  (FRAG
+    (ADVP (RB solely))
+    (SBAR (IN because)
+      (S
+        (NP
+          (NP (DT an) (JJ economic) (NN error))
+          (VP (VBN incorporated)
+            (PP (IN in)
+              (NP (DT the) (JJ protectionist) (NN regime)))))
+        (VP (VBZ has)
+          (VP (VBN forbidden)
+            (S
+              (NP (PRP them))
+              (VP (TO to)
+                (VP (VB trade)
+                  (ADJP (RB mutually)
+                    (PP (IN in)
+                      (NP (PRP$ their) (JJ various) (NNS riches)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (RB thus) (DT this) (JJ deplorable) (NN system))
+      (, ,)
+      (VP
+        (ADVP (RB already))
+        (VBN ruined)
+        (PP (IN on)
+          (NP (JJ theoretical) (NNS grounds)))
+        (PP (IN by)
+          (NP (JJ economic) (NN science))))
+      (, ,))
+    (ADVP (RB also))
+    (VP (VBZ has)
+      (VP (VBN ranged)
+        (PP (IN against)
+          (NP (PRP it)))
+        (NP
+          (NP (DT the) (JJ terrible) (NN argument))
+          (PP (IN of)
+            (NP (DT the) (NNS facts))))))
+    (. .)))
+

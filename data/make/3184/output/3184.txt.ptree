@@ -1,0 +1,47 @@
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB when))
+      (S
+        (NP (NN noise))
+        (VP (VBZ is)
+          (VP (VBN made)
+            (ADVP (RB only))
+            (ADVP (RB temporarily))))))
+    (, ,)
+    (NP
+      (NP (JJ structural) (NNS changes))
+      (PP (IN of)
+        (NP (DT a) (NN system))))
+    (VP (MD may) (RB not)
+      (VP (VB be)
+        (ADJP (JJ necessary))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN by)
+      (NP (NN contrast)))
+    (NP (DT a) (NN system))
+    (VP (VBZ is)
+      (VP (VBN required)
+        (S
+          (VP (TO to)
+            (VP (VB alter)
+              (NP (PRP$ its) (NN structure))
+              (PP (IN in)
+                (S
+                  (VP (VBG responding)
+                    (PP (TO to)
+                      (NP (DT this) (NN noise))))))
+              (SBAR (IN if)
+                (S
+                  (NP (PRP it))
+                  (VP (VBZ leads)
+                    (PP (TO to)
+                      (NP
+                        (NP (DT a) (JJ permanent) (NN change))
+                        (PP (IN in)
+                          (NP (DT the) (NN environment)))))))))))))
+    (. .)))
+

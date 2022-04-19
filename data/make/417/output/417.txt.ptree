@@ -1,0 +1,57 @@
+(ROOT
+  (S
+    (PP (IN on)
+      (NP (DT the) (CD one) (NN hand)))
+    (, ,)
+    (S
+      (NP (NN money))
+      (VP (VBZ is)
+        (ADJP (JJ scarce))))
+    (CC and)
+    (S
+      (NP (PRP he))
+      (VP (MD can)
+        (ADVP (RB no) (RB longer))
+        (VP (VB pay)
+          (NP (NN child) (NN support))
+          (PP (TO to)
+            (NP
+              (NP (PRP$ his) (JJ ex) (NN wife))
+              (SBAR
+                (S
+                  (NP (PRP he))
+                  (VP (VBZ has)
+                    (ADVP (RB already))
+                    (VP (VBN failed)
+                      (S
+                        (VP (TO to)
+                          (VP (VB pay)
+                            (NP (DT the) (JJ previous) (CD two) (NNS months))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN on)
+      (NP
+        (NP
+          (NP (DT the) (JJ other) (NN hand))
+          (NP (PRP$ his) (JJ financial) (NN position)))
+        (CC and)
+        (NP
+          (NP (DT the) (NN anxiety))
+          (SBAR
+            (S
+              (NP (PRP it))
+              (VP (VBZ causes)
+                (S
+                  (NP (PRP him))
+                  (VP (VB affect)
+                    (NP (PRP$ his) (NN relationship))
+                    (PP (IN with)
+                      (NP (PRP$ his) (NN girlfriend)))))))))))
+    (NP (PRP he))
+    (VP (VBZ has)
+      (VP (VBN become)
+        (NP (RB sexually) (NN impotent))))
+    (. .)))
+

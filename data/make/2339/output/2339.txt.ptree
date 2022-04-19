@@ -1,0 +1,52 @@
+(ROOT
+  (S
+    (PP (IN for)
+      (NP (NN instance)))
+    (, ,)
+    (NP (PRP he))
+    (VP (VBZ is)
+      (ADJP (JJ full)
+        (PP (IN of)
+          (NP (NN praise))))
+      (SBAR (IN for)
+        (S
+          (NP (NN ben))
+          (VP
+            (VP (VBZ bernankes)
+              (NP (NN performance))
+              (PP (IN during)
+                (NP (DT the) (NN crisis))))
+            (, ,)
+            (CC and)
+            (VP (VBD voted)
+              (PP (IN for)
+                (NP (NN barack) (NN obama)))
+              (PP (IN in)
+                (NP (CD 2008)))
+              (, ,)
+              (ADVP (IN albeit)
+                (PP (IN for)
+                  (NP
+                    (NP (JJ civil) (NNS rights))
+                    (CONJP (RB rather) (IN than))
+                    (NP (JJ economic) (NNS reasons))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB nonetheless))
+    (NP (NNS lucas))
+    (VP (VBZ remains)
+      (ADJP (JJ unconvinced))
+      (SBAR (IN that)
+        (S
+          (NP (JJ redistributive) (NNS policies))
+          (VP
+            (VP (MD can)
+              (VP (VB do)
+                (NP (NN anything))))
+            (CC but)
+            (VP (VBP destroy)
+              (NP (JJ economic) (NN growth)))))))
+    (. .)))
+

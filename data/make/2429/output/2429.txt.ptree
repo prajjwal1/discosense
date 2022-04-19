@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (JJ mere) (NN addition))
+      (PP (IN of)
+        (NP
+          (NP (DT the) (JJ descriptive) (NNS terms) (NN online)
+            (CC and)
+            (NN pharmacy))
+          (PP (IN as)
+            (NP
+              (NP (NNS suffixes))
+              (PP (TO to)
+                (NP (JJ complainants) (NN mark))))))))
+    (VP (VBZ fails)
+      (S
+        (VP (TO to)
+          (VP (VB distinguish)
+            (PP (TO to)
+              (NP (DT this) (NN panel)))
+            (NP
+              (NP (DT the) (VBN disputed) (NN domain) (NN name))
+              (PP (IN from)
+                (NP (JJ complainants) (NN trademark))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN by)
+      (NP (NN contrast)))
+    (NP (PRP it))
+    (VP (MD may)
+      (VP (VB increase)
+        (NP
+          (NP (DT the) (NN likelihood))
+          (PP (IN of)
+            (NP (NN confusion))))))
+    (. .)))
+

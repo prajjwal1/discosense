@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNS jesus))
+      (PP (IN in)
+        (NP (DT this) (NN passage))))
+    (VP (VBZ is) (RB not)
+      (VP (VBG speaking)
+        (PP (TO to)
+          (NP (NNS pantheists)
+            (CC or)
+            (NNS polytheists)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB rather))
+    (NP (PRP he))
+    (VP (VBZ is)
+      (VP (VBG addressing)
+        (NP
+          (NP (JJ strict) (NN jewish) (NNS monotheists))
+          (SBAR
+            (WHNP (WP who))
+            (S
+              (VP (VBP believe)
+                (SBAR (IN that)
+                  (S
+                    (NP
+                      (NP (RB only) (DT the) (NN creator))
+                      (PP (IN of)
+                        (NP (DT the) (NN universe))))
+                    (VP (VBZ is)
+                      (NP (NN god)))))))))))
+    (. .)))
+

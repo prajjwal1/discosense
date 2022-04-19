@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (S
+      (NP (FW i))
+      (VP (VBP think)
+        (SBAR
+          (S
+            (NP
+              (NP (DT the) (NN rest))
+              (PP (IN of)
+                (NP (PRP$ her) (NN argument))))
+            (VP (VBZ needs)
+              (NP (DT some) (NN improvement)))))))
+    (, ,)
+    (NP
+      (NP (PRP$ her) (NN answer))
+      (PP (TO to)
+        (NP (DT the) (NN issue))))
+    (ADVP (RB here))
+    (VP (VBZ is)
+      (ADJP (JJ good)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB though))
+    (NP (FW i))
+    (VP (MD will)
+      (VP (VB bold)
+        (NP
+          (NP (DT some) (NNS clarifications))
+          (PP (IN of)
+            (NP (PRP$ my) (JJ own))))))
+    (. .)))
+

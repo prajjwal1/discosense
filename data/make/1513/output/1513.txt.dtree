@@ -1,0 +1,15 @@
+nn(fishing-4, lake-1)
+nn(fishing-4, amador-2)
+nn(fishing-4, trout-3)
+nsubj(hot-6, fishing-4)
+cop(hot-6, is-5)
+root(ROOT-0, hot-6)
+
+det(nobody-4, that-3)
+prep_because_of(trying-7, nobody-4)
+aux(trying-7, is-5)
+advmod(trying-7, really-6)
+root(ROOT-0, trying-7)
+prep_for(trying-7, anything-9)
+nsubj(trying-7, else-10)
+

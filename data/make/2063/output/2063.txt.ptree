@@ -1,0 +1,44 @@
+(ROOT
+  (S
+    (NP (DT this) (NN key))
+    (VP (VBZ is)
+      (VP
+        (NP (PRP itself))
+        (VBN encrypted)
+        (PP (IN in)
+          (NP
+            (NP (DT some) (NN way))
+            (VP (VBG using)
+              (NP
+                (NP (DT a) (NN password)
+                  (CC or)
+                  (NN pass) (NN phrase))
+                (VP (VBN known)
+                  (ADVP (RB only))
+                  (PP (TO to)
+                    (NP (DT the) (NN user))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thereafter)
+      (SBAR (IN in) (NN order)
+        (S
+          (VP (TO to)
+            (VP (VB access)
+              (NP (DT the) (NNS disks) (NN data)))))))
+    (, ,)
+    (NP (DT the) (NN user))
+    (VP (MD must)
+      (VP (VB supply)
+        (NP (DT the) (NN password)
+          (S
+            (VP (TO to)
+              (VP (VB make)
+                (S
+                  (NP (DT the) (NN key))
+                  (ADJP (JJ available)
+                    (PP (TO to)
+                      (NP (DT the) (NN software)))))))))))
+    (. .)))
+

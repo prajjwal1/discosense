@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP we))
+      (VP (VBP have)
+        (NP
+          (QP (CD three) (CD million))
+          (JJ unsold) (NNS cars))))
+    (, ,)
+    (NP
+      (NP
+        (QP (CD five) (CD million))
+        (JJ unsold) (NNS homes))
+      (CC and)
+      (NP
+        (NP (RB nearly) (CD thirty) (NN percent))
+        (PP (IN of)
+          (NP (PRP$ our) (JJ industrial) (NN capacity)))))
+    (VP (VBZ sits)
+      (ADJP (JJ idle)))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP
+        (NP (JJ short) (JJ many))
+        (PP (IN of)
+          (NP (DT the) (NN wealth)))))
+    (NP
+      (NP (VBG producing) (NNS assets))
+      (PP (IN of)
+        (NP (DT this) (NN nation))))
+    (VP (VBP are)
+      (VP (VBG sitting)
+        (ADJP (JJ idle)
+          (PP (IN for)
+            (NP (DT no) (JJ good) (NN reason))))))
+    (. .)))
+

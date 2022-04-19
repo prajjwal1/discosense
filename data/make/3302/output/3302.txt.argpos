@@ -1,0 +1,4 @@
+conn:while conn_POS:IN prev1:uno prev1_POS:NN with_prev1_full:uno_while with_prev1_POS_full:NN_IN prev2:the prev2_POS:DT with_prev2_full:the_while with_prev2_POS_full:DT_IN NA
+conn:although conn_POS:IN prev1:, prev1_POS:, with_prev1_full:,_although with_prev1_POS_full:,_IN prev2:programmed prev2_POS:VBN with_prev2_full:programmed_although with_prev2_POS_full:VBN_IN NA
+conn:nevertheless conn_POS:RB sent_pos:0 NA
+conn:and conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_and with_prev1_POS_full:,_CC prev2:works prev2_POS:VBZ with_prev2_full:works_and with_prev2_POS_full:VBZ_CC NA

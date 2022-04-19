@@ -1,0 +1,38 @@
+(ROOT
+  (S
+    (S
+      (NP (NNS demotions))
+      (ADVP (RB never))
+      (VP (VBP occur)))
+    (, ,)
+    (CC and)
+    (S
+      (NP (NNS promotions))
+      (VP (VBP are)
+        (ADVP (RB typically))
+        (NP (CD one) (NN step) (NNS promotions))
+        (, ,)
+        (SBAR (IN as)
+          (S
+            (VP (VBD stipulated)
+              (PP (IN by)
+                (NP (JJ administrative) (NNS rules)))
+              (PP (IN at)
+                (NP (DT the) (NN university))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN sum)))
+    (NP (DT the) (NN university))
+    (VP (VBZ is)
+      (VP (VBN characterised)
+        (PP (IN by)
+          (NP (DT a)
+            (ADJP (JJ strong)
+              (CC and)
+              (JJ persistent))
+            (JJ internal) (NN labour) (NN market)))))
+    (. .)))
+

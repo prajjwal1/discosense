@@ -1,0 +1,53 @@
+(ROOT
+  (S (CC and)
+    (PP (IN of)
+      (NP (DT the) (JJ last) (CD 20) (NNS winners)))
+    (, ,)
+    (NP
+      (NP (RB only) (CD four) (JJ tabasco) (NN cat))
+      (, ,)
+      (NP
+        (NP (NN thunder) (NN gulch))
+        (, ,)
+        (NP (NN point)
+          (UCP
+            (VP (VBN given))
+            (CC and)
+            (ADJP (JJ afleet)))
+          (NN alex))))
+    (VP
+      (VP (VBD won)
+        (NP (DT the) (NN derby)))
+      (CC or)
+      (VP (VBZ preakness)))
+    (. .)))
+
+(ROOT
+  (SINV
+    (PP (IN in)
+      (NP (JJ short) (JJ strange) (NNS things)))
+    (VP
+      (VP (MD can))
+      (CC and)
+      (VP (VBP do)
+        (VP (VB happen)
+          (S
+            (VP (VBG going)
+              (ADVP (RB once))
+              (S
+                (VP (VBG aroundbig)
+                  (NP (JJ sandy))
+                  (ADVP (RB especially))
+                  (PP (IN over)
+                    (NP
+                      (NP (DT an) (JJ off) (NN track))
+                      (, ,)
+                      (NP (DT a) (JJ good) (NN possibility)))))))))))
+    (NP
+      (NP (VBN given) (NN rain))
+      (PP (IN in)
+        (NP (DT the) (NN forecast)))
+      (PP (IN for)
+        (NP (NN saturday))))
+    (. .)))
+

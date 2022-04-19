@@ -1,0 +1,15 @@
+root(ROOT-0, what-1)
+det(blast-4, a-2)
+amod(blast-4, pleasant-3)
+dep(what-1, blast-4)
+det(past-7, the-6)
+prep_from(blast-4, past-7)
+
+mark(wont-4, although-1)
+nsubj(wont-4, it-2)
+advmod(wont-4, probably-3)
+csubj(bode-5, wont-4)
+root(ROOT-0, bode-5)
+advmod(bode-5, well-6)
+prep_for(bode-5, maxie-8)
+

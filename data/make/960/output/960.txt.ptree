@@ -1,0 +1,48 @@
+(ROOT
+  (S
+    (NP (DT this) (NN book))
+    (VP (VBZ is) (RB not)
+      (ADJP (JJ specific)
+        (PP (TO to)
+          (NP
+            (NP (CD one) (NN brand))
+            (CC or)
+            (NP
+              (NP (NN dialect))
+              (PP (IN of)
+                (NP (NN sql))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB rather))
+    (NP (PRP it))
+    (VP (VBZ describes)
+      (NP
+        (NP
+          (NP (DT the) (NN core))
+          (PP (IN of)
+            (NP (DT the) (NN sql) (NN language))))
+        (CC and)
+        (NP
+          (NP (DT the) (NNS differences))
+          (PP (IN among)
+            (NP
+              (NP (DT the)
+                (ADJP (RBS most) (JJ popular))
+                (NN sql) (NNS variations))
+              (PP (JJ such) (IN as)
+                (NP (NN os)))))
+          (UCP
+            (NP (CD 2))
+            (, ,)
+            (ADJP (JJ oracle))
+            (, ,)
+            (ADJP (JJ sybase))
+            (, ,)
+            (ADJP (JJ ingres))
+            (, ,)
+            (CC and)
+            (NP (JJ dbase) (NN iv))))))
+    (. .)))
+

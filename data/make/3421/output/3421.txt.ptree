@@ -1,0 +1,51 @@
+(ROOT
+  (SBARQ
+    (WHADVP (WRB how))
+    (SQ (MD can)
+      (NP (DT the) (NN government))
+      (VP
+        (VP (VB enforce)
+          (NP
+            (NP (DT the) (NN equality) (NNS provisions))
+            (PP (IN of)
+              (NP (PRP$ our) (NN constitution)))))
+        (CC and)
+        (PRN (, ,)
+          (PP (IN at)
+            (NP (DT the) (JJ same) (NN time)))
+          (, ,))
+        (VP (VB prohibit)
+          (NP (DT any) (NN individual))
+          (PP (IN from)
+            (S
+              (VP (VBG taking)
+                (NP
+                  (NP (NN advantage))
+                  (PP (IN of)
+                    (NP (DT the) (NN right)
+                      (S
+                        (VP (TO to)
+                          (VP (VB enter)
+                            (PP (IN into)
+                              (NP (DT a) (NN contract)))))))))))))))
+    (. .)))
+
+(ROOT
+  (SBARQ
+    (WHADVP
+      (ADVP (IN in) (RB short))
+      (WRB how))
+    (SQ (MD can)
+      (NP (DT the) (NN government))
+      (VP (VB prohibit)
+        (S
+          (VP (VBG consenting)
+            (NP (NNS adults))
+            (PP (IN from)
+              (S
+                (VP (VBG becoming)
+                  (NP
+                    (ADJP (RB legally) (VBN contracted))
+                    (NNS married)))))))))
+    (. .)))
+

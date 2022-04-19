@@ -1,0 +1,52 @@
+(ROOT
+  (S
+    (ADVP (RB often))
+    (, ,)
+    (SBAR
+      (WHNP (WP what))
+      (S
+        (VP (VBZ goes)
+          (ADJP (JJ wrong)
+            (PP (IN in)
+              (NP (NNS photographs)))))))
+    (VP (VBZ is)
+      (SBAR (IN that)
+        (S
+          (NP (DT the) (NN emotion))
+          (VP (VBZ is)
+            (VP (VBN overcome)
+              (PP (IN by)
+                (NP
+                  (NP (DT the) (NN motion))
+                  (PP (IN in)
+                    (NP (DT the) (NN image))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP (NN example)))
+    (NP
+      (NP (DT the) (NN excitement))
+      (PP (IN of)
+        (NP (DT a) (NN football) (NN game))))
+    (VP (MD can)
+      (ADVP (RB often))
+      (VP (VB be)
+        (VP (VBN lost)
+          (PP (IN in)
+            (NP
+              (NP (NNS photographs))
+              (PP (IN in)
+                (NP
+                  (NP
+                    (NP (DT the) (NN movement))
+                    (PP (IN of)
+                      (NP (DT the) (NN team))))
+                  (CC and)
+                  (NP
+                    (NP (DT the) (NN activity))
+                    (PP (IN of)
+                      (NP (DT the) (NN crowd)))))))))))
+    (. .)))
+

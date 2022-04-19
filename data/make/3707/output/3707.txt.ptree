@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (DT a) (NN speech)))
+    (, ,)
+    (NP (NN krenz))
+    (VP (VBD attempted)
+      (NP (DT a) (NN reckoning))
+      (PP (IN with)
+        (NP
+          (NP (NN history))
+          (, ,)
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (ADVP (RB also))
+              (VP (VBD criticized)
+                (NP (PRP$ his) (JJ political) (NN mentor) (NN honecker))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP
+      (ADVP (RB yet))
+      (IN by)
+      (NP (DT this) (NN stage)))
+    (, ,)
+    (NP (NNS events))
+    (VP (VBD were)
+      (ADVP (RB rapidly))
+      (VP (VBG spiralling)
+        (PRT (RP out))
+        (PP (IN of)
+          (NP (PRP$ his) (NN control)))))
+    (. .)))
+

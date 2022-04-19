@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (JJ limited) (NN number))
+      (PP (IN of)
+        (NP (NNS cases))))
+    (VP (VBD was) (RB not)
+      (ADJP (JJ adequate)
+        (S
+          (VP (TO to)
+            (VP (VB study)
+              (NP
+                (NP (RB appropriately) (DT the) (NN learning) (NN curve))
+                (PP (IN of)
+                  (NP (NNS kars)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN although)
+      (S
+        (PP (VBG following)
+          (NP (DT the) (JJ first) (CD 15) (NNS cases)))
+        (, ,)
+        (NP
+          (NP (DT the) (NN means))
+          (PP (IN of)
+            (NP
+              (NP (NN operation) (NN time))
+              (CC and)
+              (NP (JJ abdominal) (JJ cavity) (NN access) (NN time)))))
+        (VP (VBD decreased))))
+    (, ,)
+    (NP (DT the) (JJ same) (NNS decreases))
+    (VP (VBD were)
+      (ADVP (RB also))
+      (VP (VBN observed)
+        (PP (IN in)
+          (NP (JJ conventional) (JJ co) (CD 2) (NN laparoscopy) (NN group)))))
+    (. .)))
+

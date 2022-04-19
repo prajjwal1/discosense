@@ -1,0 +1,54 @@
+(ROOT
+  (S
+    (NP (DT this))
+    (VP (VBZ includes)
+      (S
+        (VP (VBG determining)
+          (NP
+            (UCP
+              (WHADVP (RB exactly) (WRB why))
+              (CC and)
+              (PP (IN under)
+                (WHNP (WP what))))
+            (NNS conditions))
+          (SBAR (IN that)
+            (S
+              (NP (NN step))
+              (VP (VBZ is) (RB not)
+                (ADJP (JJ correct))
+                (, ,)
+                (SBAR (IN in) (NN order)
+                  (S
+                    (VP (TO to)
+                      (VP (VB be)
+                        (ADJP (JJ sure)
+                          (S (RB not)
+                            (VP (TO to)
+                              (VP (VB make)
+                                (NP (DT this) (NN mistake))
+                                (PP (IN in)
+                                  (NP
+                                    (NP (DT a)
+                                      (ADJP (RBR more) (JJ complicated))
+                                      (NN situation))
+                                    (SBAR
+                                      (WHADVP (WRB where))
+                                      (S
+                                        (NP (DT the) (NN misstep))
+                                        (VP (MD may) (RB not)
+                                          (VP (VB be)
+                                            (ADJP (RB so) (JJ obvious))))))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (ADJP (JJ short)))
+    (NP (DT the) (NN problem))
+    (VP (VBZ is)
+      (S
+        (VP (TO to)
+          (VP (VB solve)
+            (NP (DT the) (NN paradox))))))
+    (. .)))
+

@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (NP (NN mccabe))
+    (ADVP (RB thus))
+    (VP (VBD acknowledged)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (DT these) (NN pagan) (NNS stories))
+            (PP (IN with)
+              (NP (JJ similar) (NNS themes))))
+          (VP (VBD did) (RB not)
+            (VP (VB copy)
+              (NP (DT either) (CD one)
+                (NP
+                  (NP (DT another))
+                  (CC or)
+                  (NP (DT some) (JJR earlier) (, ,) (JJ predominant) (NN story)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB rather))
+    (NP (PRP they))
+    (VP (VBD arose)
+      (ADVP
+        (ADVP (RB separately))
+        (CC and)
+        (ADVP (RB even) (RB independently)))
+      (PP (IN of)
+        (NP (DT each) (JJ other))))
+    (. .)))
+

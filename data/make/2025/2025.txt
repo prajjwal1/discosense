@@ -1,0 +1,1 @@
+implementing either all readonly or all readwrite can be done with this approach. by contrast if we want to allow mixed readonly and readwrite, we would need some way of distinguishing.

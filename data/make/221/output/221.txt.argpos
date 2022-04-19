@@ -1,0 +1,2 @@
+conn:though conn_POS:RB prev1:juiced prev1_POS:VBN with_prev1_full:juiced_though with_prev1_POS_full:VBN_RB prev2:are prev2_POS:VBP with_prev2_full:are_though with_prev2_POS_full:VBP_RB NA
+conn:instead conn_POS:RB sent_pos:0 NA

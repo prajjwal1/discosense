@@ -1,0 +1,2 @@
+conn:but conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_but with_prev1_POS_full:,_CC prev2:tonight prev2_POS:NN with_prev2_full:tonight_but with_prev2_POS_full:NN_CC NA
+conn:however conn_POS:RB sent_pos:0 NA

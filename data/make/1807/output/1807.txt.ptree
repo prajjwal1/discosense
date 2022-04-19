@@ -1,0 +1,55 @@
+(ROOT
+  (S
+    (NP (DT the) (JJ conventional) (NN wisdom))
+    (VP (VBZ is)
+      (SBAR (IN that)
+        (S
+          (NP (NNS diabetics))
+          (VP (MD should)
+            (ADVP
+              (ADVP (RB not) (RB fast))
+              (, ,)
+              (CC but)
+              (ADVP (RB i) (RB cant)))
+            (VP (VB find)
+              (NP (NN anything))
+              (PP (IN in)
+                (NP
+                  (NP (DT the) (JJ medical) (NN literature))
+                  (SBAR
+                    (WHNP (WDT that))
+                    (S
+                      (VP (VBZ supports)
+                        (NP (DT that) (NN idea))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN on)
+      (NP (DT the) (NN contrary)))
+    (NP (EX there))
+    (VP (VBP seem)
+      (S
+        (VP (TO to)
+          (VP (VB be)
+            (NP
+              (NP (NNS studies))
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (VP (VBP show)
+                    (SBAR (IN that)
+                      (S
+                        (NP (NNS diabetics))
+                        (VP (VBP have)
+                          (VP (VBN benefitted)
+                            (PP
+                              (PP (IN from)
+                                (NP (NN fasting)))
+                              (CC or)
+                              (PP (IN from)
+                                (NP
+                                  (ADJP (RB very) (JJ low))
+                                  (NN calorie) (NNS diets))))))))))))))))
+    (. .)))
+

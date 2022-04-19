@@ -1,0 +1,51 @@
+(ROOT
+  (S
+    (S
+      (ADVP (RB consequently))
+      (, ,)
+      (NP
+        (NP (DT the) (NN region))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (JJ chalcogenide) (NN material) (NN layer))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (VBZ is)
+                  (VP (VBN heated)
+                    (PP (IN by)
+                      (NP (JJ joule) (NN heat))))))))))
+      (VP (VBZ is)
+        (VP (VBN expanded)
+          (ADVP (RB therefore)))))
+    (, ,)
+    (NP (DT a) (JJR larger) (NN current))
+    (VP (VBZ is)
+      (VP (VBN required)
+        (PP (IN for)
+          (S
+            (VP (VBG crystallizing)
+              (CC or)
+              (VBG amorphizing)
+              (NP (DT the) (JJ chalcogenide) (NN material) (NN layer)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thereby))
+    (NP
+      (NP (DT the) (JJ interface) (NN layer))
+      (VP (VBG comprising)
+        (NP (DT the) (NN semiconductor))))
+    (VP (VBZ is)
+      (ADJP (JJ desired)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (ADJP (JJ amorphous))
+              (PP (RB rather) (IN than)
+                (S
+                  (VP (VBG being)
+                    (ADJP (JJ polycrystalline))))))))))
+    (. .)))
+

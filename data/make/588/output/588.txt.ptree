@@ -1,0 +1,38 @@
+(ROOT
+  (S
+    (NP (PRP he))
+    (VP (VBZ comes)
+      (PRT (RP off))
+      (NP
+        (NP (CD four) (JJ straight) (NNS wins))
+        (, ,)
+        (PP (IN with)
+          (NP
+            (NP (DT the) (JJ past) (CD three))
+            (VP (VBG coming)
+              (PP (IN by)
+                (NP (NN knockout)
+                  (CC or)
+                  (NN tko))))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADVP (RB specifically))
+    (NP
+      (NP (PRP$ his) (JJ last) (CD two) (NNS wins))
+      (SBAR
+        (S
+          (VP (VBD came)
+            (PP (IN with)
+              (NP (DT a) (NN highlight) (NN reel)))
+            (S
+              (VP (VBG flying)
+                (NP
+                  (NP (NN knee))
+                  (CC and)
+                  (NP (DT a) (CD one) (NN punch) (NN ko)))
+                (PP (IN from)
+                  (NP (DT a) (JJ left) (NN hook)))))))))
+    (. .)))
+

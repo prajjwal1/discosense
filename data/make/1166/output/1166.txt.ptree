@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (NP (PRP we))
+    (VP (VBP have)
+      (NP (JJ tentative) (NNS plans)
+        (S
+          (VP (TO to)
+            (VP
+              (ADVP (RB again))
+              (VB make)
+              (NP (DT a) (JJ varietal) (NN viognier)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ overall))
+    (VP (VBD were)
+      (ADVP (RB still))
+      (PP (IN of)
+        (NP (DT the) (NN belief)))
+      (SBAR (IN that)
+        (S
+          (NP (JJ overall) (NNS yields))
+          (VP (MD will)
+            (VP (VB be)
+              (PP (IN between)
+                (NP
+                  (NP
+                    (NP (DT the)
+                      (ADJP (RB relatively) (JJ high))
+                      (NNS yields))
+                    (PP (IN of)
+                      (NP (CD 2006))))
+                  (CC and)
+                  (NP
+                    (NP (DT the)
+                      (ADJP (RB extremely) (JJ low))
+                      (NNS yields))
+                    (PP (IN of)
+                      (NP (CD 2007)))))))))))
+    (. .)))
+

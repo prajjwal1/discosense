@@ -1,0 +1,2 @@
+conn:when conn_POS:WRB prev1:rebellion prev1_POS:NN with_prev1_full:rebellion_when with_prev1_POS_full:NN_WRB prev2:scale prev2_POS:NN with_prev2_full:scale_when with_prev2_POS_full:NN_WRB NA
+conn:instead conn_POS:RB sent_pos:0 NA

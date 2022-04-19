@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (NP (JJ last) (NN semester))
+    (NP (FW i))
+    (VP (VBD took)
+      (NP (DT a) (NN course))
+      (SBAR
+        (WHADVP (WRB where))
+        (S
+          (NP (PRP we))
+          (VP
+            (VP (VBD read))
+            (CC and)
+            (VP (VBD discussed)
+              (NP (JJ scientific) (NNS articles))
+              (NP (DT each) (NN week)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB because) (IN of)
+      (NP (DT that)))
+    (NP (FW i))
+    (VP (VBD was)
+      (ADJP (JJ familiar)
+        (PP (IN with)
+          (NP
+            (NP (DT the) (JJ various) (NNS sections))
+            (PP (IN of)
+              (NP (DT this) (NN article)))))))
+    (. .)))
+

@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (NN story))
+      (PP (IN of)
+        (NP
+          (NP (JJ dubnyks) (NN arrival))
+          (CC and)
+          (NP (DT the) (VBG coinciding) (JJ wild) (NN rise)))))
+    (VP (VBZ is)
+      (ADJP (RB as) (JJ worn)
+        (PP (IN as)
+          (NP
+            (NP (JJ old) (NN pair))
+            (PP (IN of)
+              (NP (NNS jeans)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (ADVP (RB however))
+      (IN with)
+      (S
+        (S
+          (NP (DT the) (NNS leafs))
+          (VP (VBG struggling)))
+        (CC and)
+        (S
+          (NP (DT the) (NN toronto) (NNS media))
+          (ADJP (JJ hungry)
+            (PP (IN for)
+              (NP (DT a) (JJ fresh) (NN story)))))))
+    (, ,)
+    (NP (DT the) (NN netminder))
+    (VP (VBD held)
+      (NP (NN court))
+      (PP (IN for)
+        (NP
+          (NP (DT a) (NN gaggle))
+          (PP (IN of)
+            (NP (NNS cameras)
+              (CC and)
+              (NNS microphones))))))
+    (. .)))
+

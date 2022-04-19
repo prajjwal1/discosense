@@ -1,0 +1,24 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (NN basement))
+      (PP (IN in)
+        (NP (DT the) (NN el) (NN toro) (NN area))))
+    (VP (VBZ consists)
+      (PP (IN of)
+        (NP
+          (NP (DT an) (JJ ordovician) (NN sedimentary) (NN layer))
+          (PP (IN with)
+            (NP (JJ paleogene) (NN miocene) (NNS arenites))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB likewise))
+    (NP (JJ cretaceous) (NN sedimentary) (NNS layers))
+    (VP (VBP are)
+      (VP (VBN found)
+        (PP (IN in)
+          (NP (DT the) (NN area)))))
+    (. .)))
+

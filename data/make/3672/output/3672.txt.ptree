@@ -1,0 +1,57 @@
+(ROOT
+  (S
+    (NP (EX there))
+    (VP (VBD was)
+      (ADVP (RB also))
+      (NP
+        (NP (DT the) (NN nationality) (NN act))
+        (PP (IN of)
+          (NP
+            (NP (CD 1940))
+            (, ,)
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (VP (VBN clarified)
+                  (SBAR
+                    (WHADVP (WRB how))
+                    (S
+                      (VP (TO to)
+                        (VP (VB become)
+                          (CC and)
+                          (VB remain)
+                          (NP (DT a) (NN citizen)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB specifically))
+    (NP (PRP it))
+    (VP (VBD allowed)
+      (NP
+        (NP (NNS immigrants))
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP (VBD were) (RB not)
+              (NP (NNS citizens))))))
+      (, ,)
+      (PP (IN like)
+        (NP
+          (NP (DT the) (NNS filipinos))
+          (CC or)
+          (NP
+            (NP (DT those))
+            (PP (IN in)
+              (NP (DT the) (JJ outside) (NNS territories)))
+            (S
+              (VP (TO to)
+                (VP (VB gain)
+                  (NP (NN citizenship))
+                  (PP (IN by)
+                    (S
+                      (VP (VBG enlisting)
+                        (PP (IN in)
+                          (NP (DT the) (NN army)))))))))))))
+    (. .)))
+

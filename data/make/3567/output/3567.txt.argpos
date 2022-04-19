@@ -1,0 +1,3 @@
+conn:if conn_POS:IN sent_pos:0 NA
+conn:and conn_POS:CC prev1:equally prev1_POS:RB with_prev1_full:equally_and with_prev1_POS_full:RB_CC prev2:pot prev2_POS:NN with_prev2_full:pot_and with_prev2_POS_full:NN_CC NA
+conn:otherwise conn_POS:RB sent_pos:0 NA

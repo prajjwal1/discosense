@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (ADVP (RB additionally))
+    (, ,)
+    (NP (DT the) (NN bill))
+    (VP (MD would)
+      (VP (VB phase)
+        (PRT (RP out))
+        (NP
+          (NP (DT a)
+            (ADJP
+              (ADJP (JJ controversial))
+              (CC and)
+              (ADJP (RB widely) (JJ panned)))
+            (NN lottery) (NN system))
+          (VP (VBN used)
+            (S
+              (VP (TO to)
+                (VP (VB divvy)
+                  (PRT (RP up))
+                  (NP (NNS subsidies)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB instead))
+    (NP (NN tax) (NNS credits))
+    (VP (MD would)
+      (VP (VB be)
+        (VP (VBN allocated)
+          (PP (VBN based)
+            (PP (IN on)
+              (SBAR
+                (WHADJP (WRB how) (JJ many))
+                (S
+                  (NP
+                    (NP (NNS jobs))
+                    (NP (DT a) (NN project)))
+                  (VP (MD would)
+                    (VP (VB create))))))))))
+    (. .)))
+

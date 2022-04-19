@@ -1,0 +1,2 @@
+conn:likewise conn_POS:RB sent_pos:0 NA
+conn:unless conn_POS:IN prev1:, prev1_POS:, with_prev1_full:,_unless with_prev1_POS_full:,_IN prev2:praise prev2_POS:NN with_prev2_full:praise_unless with_prev2_POS_full:NN_IN NA

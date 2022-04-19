@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (S
+      (NP (NNS theres))
+      (VP (VBD limited)
+        (NP (NN stock) (NN availability))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP you))
+      (VP (MD might)
+        (VP (VB find)
+          (NP
+            (NP (DT a) (NN bargain))
+            (PP (IN of)
+              (NP
+                (NP (DT some) (NN footwear))
+                (PP (IN in)
+                  (NP (PRP$ your) (NN size)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP (NN example)))
+    (NP (DT these) (JJ black) (JJ sole) (NNS mens) (NN exhale))
+    (VP
+      (VP (VBP are)
+        (ADJP (JJ available)
+          (PP (IN in)
+            (NP (NN size) (CD 9)))))
+      (CC and)
+      (VP (VBP are)
+        (VP (VBN reduced)
+          (PP (IN from)
+            (ADVP
+              (NP (CD 84.95))
+              (RB down)))
+          (PP (TO to)
+            (NP
+              (QP (RB only) (CD 33.98)))))))
+    (. .)))
+

@@ -1,0 +1,73 @@
+(ROOT
+  (S
+    (S
+      (S
+        (NP
+          (NP (DT the) (NN reaction))
+          (PP (IN of)
+            (NP (DT the) (NNS people))))
+        (VP (VBD was)
+          (NP
+            (NP (CD one))
+            (PP (IN of)
+              (NP (NN fear)
+                (CC and)
+                (NN awe))))))
+      (, ,)
+      (CC and)
+      (S
+        (NP (PRP they))
+        (VP (VBD said)
+          (PP (TO to)
+            (NP (NNS moses))))))
+    (, ,)
+    (VP (VBP do) (RB not)
+      (VP (VB let)
+        (S
+          (NP (NN god))
+          (VP (VB speak)
+            (PP (TO to)
+              (NP (PRP us)))))))
+    (, ,)
+    (CC or)
+    (S
+      (NP (PRP we))
+      (VP (MD shall)
+        (VP (VB die))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (RB yet) (IN while)
+      (S
+        (NP (NNS moses))
+        (VP (VBD was)
+          (VP (VBG speaking)
+            (S
+              (VP (TO to)
+                (VP (VB god)
+                  (PP (IN on)
+                    (NP
+                      (NP (PRP$ their) (NN behalf))
+                      (PP (IN on)
+                        (NP (DT the) (NN mountain))))))))))))
+    (, ,)
+    (NP (PRP$ their) (NN faith))
+    (VP (VBD grew)
+      (ADJP (JJ weak))
+      (, ,)
+      (PP (TO to)
+        (NP
+          (NP (DT the) (NN extent))
+          (SBAR (IN that)
+            (S
+              (NP (PRP they))
+              (VP
+                (VP (VBD fell)
+                  (PP (IN into)
+                    (NP (NN idolatry))))
+                (CC and)
+                (VP (VBD worshipped)
+                  (NP (DT a) (JJ golden) (NN calf)))))))))
+    (. .)))
+

@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (NP (DT the) (NN alternative))
+    (VP (VBZ is)
+      (ADJP (RB too) (JJ dire)
+        (CC and)
+        (JJ unacceptable))
+      (S
+        (VP (TO to)
+          (VP (VB imagine)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thus))
+    (NP (FW i))
+    (VP (VBP am)
+      (VP (VBG giving)
+        (NP (PRP you))
+        (PP (IN until)
+          (NP
+            (NP (DT the) (NN end))
+            (PP (IN of)
+              (NP (DT the) (NN month)
+                (S
+                  (VP (TO to)
+                    (VP
+                      (VP (VB levy)
+                        (NP (JJ appropriate) (NNS fines))
+                        (PP (IN against)
+                          (NP (NN mr.) (NN stormbeard))))
+                      (CC and)
+                      (VP (VB bring)
+                        (NP (PRP him))
+                        (PP (IN into)
+                          (NP
+                            (NP (NN compliance))
+                            (PP (IN with)
+                              (NP (DT the) (NN neighborhood) (NN charter)))))))))))))))
+    (. .)))
+

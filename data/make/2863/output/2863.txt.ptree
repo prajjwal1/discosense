@@ -1,0 +1,50 @@
+(ROOT
+  (S
+    (NP (NN texaco) (NN chevron))
+    (VP (VBD operated)
+      (NP (DT the) (NN facility))
+      (PP (IN as)
+        (NP
+          (NP
+            (NP (DT a) (NN laboratory) (NN complex))
+            (VP (VBN engaged)
+              (PP (IN in)
+                (NP (NN research)))))
+          (, ,)
+          (NP (NN development))
+          (, ,)
+          (CC and)
+          (NP
+            (NP (JJ technical) (NNS services))
+            (VP (VBN related)
+              (PP (TO to)
+                (NP
+                  (NP (NN coal))
+                  (, ,)
+                  (NP (NN petroleum) (NNS products))
+                  (CC and)
+                  (NP (NN energy))))
+              (PP (IN during)
+                (NP (CD 73) (NNS years))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN as)
+      (S
+        (NP
+          (NP (DT a) (NN result) (NN groundwater))
+          (CC and)
+          (NP (NNS soils)))
+        (VP (VBD were)
+          (ADVP (RB heavily))
+          (VP (VBN contaminated)
+            (PP (IN with)
+              (NP (JJ volatile) (JJ organic) (NNS compounds)))))))
+    (, ,)
+    (VP (VB polynuclear)
+      (NP (JJ aromatic) (NNS hydrocarbons)
+        (CC and)
+        (NNS metals)))
+    (. .)))
+

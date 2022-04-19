@@ -1,0 +1,1 @@
+a single context may include several physical processors, or just one. conversely different contexts do not have to be on separate computers for example, a 32 node smp machine could have up to 32 separate contexts.

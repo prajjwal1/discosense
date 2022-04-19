@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP it))
+      (VP (VBD was)
+        (VP (VBG acting)
+          (CC and)
+          (VBG directing)))
+      (, ,)
+      (ADVP (RB however)))
+    (, ,)
+    (NP (DT that))
+    (VP (VBD occupied)
+      (NP (PRP$ his) (NNS interests))
+      (ADVP (RBR more)))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (PP (RB because) (IN of)
+      (NP
+        (NP (DT that) (NN gattorno))
+        (VP (VBN studied)
+          (S
+            (VP (VBG acting) (, ,)
+              (PP (DT both)
+                (PP (IN at)
+                  (NP
+                    (NP (NN home))
+                    (PP (IN in)
+                      (NP (NN cuba)))))
+                (CC and)
+                (PP (IN in)
+                  (NP (NN mexico)))))))))
+    (. .)))
+

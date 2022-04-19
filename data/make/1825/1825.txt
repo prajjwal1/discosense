@@ -1,0 +1,1 @@
+our routing mechanism is more efficient in presence of malicious nodes due to security mechanism. on the other hand iaco and leach cannot distinguish malicious node in their path, and, that is why packet loss or packet misdirection ratio is very high.

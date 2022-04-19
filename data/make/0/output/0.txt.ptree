@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNS patients))
+      (PP (IN with)
+        (NP (JJ progressive)
+          (ADJP (JJ metabolic)
+            (CC or)
+            (JJ neurodegenerative))
+          (NNS conditions))))
+    (VP (VBP are)
+      (ADVP (RB generally))
+      (VP (VBN considered)
+        (NP
+          (NP (JJ poor) (NNS candidates))
+          (PP (IN for)
+            (NP (NN surgery))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (ADJP (RB otherwise) (JJS most))
+        (NNS patients))
+      (PP (IN with)
+        (NP (JJ intractable) (NN epilepsy))))
+    (VP (MD should)
+      (VP (VB be)
+        (VP (VBN considered)
+          (NP
+            (NP (JJ potential) (NNS candidates))
+            (PP (IN for)
+              (NP (NN seizure) (NN surgery)))))))
+    (. .)))
+

@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (NP
+      (NP (NN thai)
+        (CC and)
+        (NN vietnamese) (NNS histories) (NN record))
+      (SBAR
+        (WHNP (WDT that))
+        (S
+          (VP (VBG anouvong)))))
+    (VP (VBD rebelled)
+      (SBAR (IN as)
+        (S
+          (NP
+            (NP (DT the) (NN result))
+            (PP (IN of)
+              (NP (JJ personal) (NN insult))))
+          (VP (VBD suffered)
+            (PP (IN at)
+              (NP
+                (NP (DT the) (NN funeral))
+                (PP (IN of)
+                  (NP (NN rama) (NN ii)))))
+            (PP (IN in)
+              (NP (NN bangkok)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (RB yet) (DT the) (VBG anouvong) (NN rebellion))
+    (VP
+      (VP (VBD lasted)
+        (NP (CD three) (NNS years)))
+      (CC and)
+      (VP (VBD engulfed)
+        (NP
+          (NP (DT the) (NN whole))
+          (PP (IN of)
+            (NP
+              (NP (DT the) (JJ khorat) (NN plateau))
+              (PP (IN for)
+                (NP
+                  (ADJP (RBR more) (JJ complex))
+                  (NNS reasons))))))))
+    (. .)))
+

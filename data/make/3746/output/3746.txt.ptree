@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (NP (NN heart) (NNS sounds))
+    (VP (VBP are)
+      (NP
+        (NP (DT the) (NNS noises))
+        (VP (VBN generated)
+          (PP (IN by)
+            (NP
+              (NP (DT the) (NN beating) (NN heart))
+              (CC and)
+              (NP
+                (NP (DT the) (JJ resultant) (NN flow))
+                (PP (IN of)
+                  (NP (NN blood))))))
+          (PP (IN through)
+            (NP (PRP it))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB specifically))
+    (NP (DT the) (NNS sounds))
+    (VP (VBP reflect)
+      (SBAR
+        (S
+          (NP (DT the) (NN turbulence))
+          (VP (VBD created)
+            (SBAR
+              (WHADVP (WRB when))
+              (S
+                (NP (DT the) (NN heart) (NNS valves))
+                (VP (VBP snap)
+                  (ADJP (VBN shut)))))))))
+    (. .)))
+

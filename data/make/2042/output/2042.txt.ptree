@@ -1,0 +1,44 @@
+(ROOT
+  (S
+    (NP (DT these) (NNS publications))
+    (VP (VBP show)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (NNS thermometers))
+            (PP (VBN based)
+              (PP (IN on)
+                (NP (NN quartz) (NNS resonators)))))
+          (VP (MD can)
+            (VP (VB detect)
+              (NP
+                (NP (NN temperature) (NNS changes))
+                (PP (IN of)
+                  (NP (NNS microkelvins)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (ADJP (JJ particular)))
+    (NP (PRP it))
+    (VP (VBZ has)
+      (VP (VBN been)
+        (VP (VBN known)
+          (PP (IN for)
+            (NP (DT some) (NNS years)))
+          (SBAR (IN that)
+            (S
+              (NP (JJ high) (NN stability) (NNS oscillators))
+              (VP (VBP are)
+                (ADJP (JJ subject)
+                  (PP (TO to)
+                    (NP
+                      (NP (NN temperature) (NNS effects))
+                      (SBAR
+                        (WHNP (WDT that))
+                        (S
+                          (VP (VBZ perturb)
+                            (NP (PRP$ their) (NN accuracy))))))))))))))
+    (. .)))
+

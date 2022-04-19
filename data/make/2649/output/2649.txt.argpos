@@ -1,0 +1,4 @@
+conn:after conn_POS:IN sent_pos:0 NA
+conn:if conn_POS:IN prev1:wondering prev1_POS:VBG with_prev1_full:wondering_if with_prev1_POS_full:VBG_IN prev2:been prev2_POS:VBN with_prev2_full:been_if with_prev2_POS_full:VBN_IN NA
+conn:however conn_POS:RB sent_pos:0 NA
+conn:and conn_POS:CC prev1:quality prev1_POS:NN with_prev1_full:quality_and with_prev1_POS_full:NN_CC prev2:build prev2_POS:VB with_prev2_full:build_and with_prev2_POS_full:VB_CC NA

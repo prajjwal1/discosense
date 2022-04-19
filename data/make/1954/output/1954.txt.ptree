@@ -1,0 +1,52 @@
+(ROOT
+  (S
+    (ADVP (RB also))
+    (, ,)
+    (ADVP (RB frankly))
+    (, ,)
+    (NP
+      (NP (CD nine) (NNS years))
+      (PP (IN of)
+        (NP (JJ full) (NN time) (NN work) (NN experience))))
+    (VP (VBZ is)
+      (PP (IN on)
+        (NP
+          (NP (DT the) (JJ high) (NN side))
+          (PP (IN for)
+            (NP (JJ traditional) (NN mba) (NNS programs))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB however))
+    (NP (DT the)
+      (ADJP (JJ good))
+      (NN news))
+    (, ,)
+    (VP (VBZ is)
+      (SBAR (IN that)
+        (S
+          (NP (PRP you))
+          (VP (VBP intend)
+            (S
+              (VP (TO to)
+                (VP (VB return)
+                  (PP (TO to)
+                    (NP (PRP$ your) (NN family) (NN business)))
+                  (SBAR (IN so)
+                    (S
+                      (NP (PRP they))
+                      (VP (MD may)
+                        (VP (VB overlook)
+                          (NP (PRP$ your) (NN experience) (NN level))
+                          (SBAR (IN since)
+                            (S
+                              (NP (PRP they))
+                              (VP (VBP dont)
+                                (VP (VB have)
+                                  (S
+                                    (VP (TO to)
+                                      (VP (VB place)
+                                        (NP (PRP you))))))))))))))))))))
+    (. .)))
+

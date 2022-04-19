@@ -1,0 +1,52 @@
+(ROOT
+  (S
+    (VP (VB im)
+      (ADVP (RB honestly))
+      (S
+        (ADJP
+          (ADJP
+            (ADJP (RBR more) (JJ familiar)
+              (PP (IN with)))
+            (CC and)
+            (ADJP (JJ excited)
+              (S
+                (VP (TO to)
+                  (VP (VB see))))))
+          (, ,)
+          (CC and)
+          (ADJP (VBN surprised)
+            (PP (IN by)
+              (NP
+                (NP (DT this)
+                  (ADJP (RB heavily) (JJ featured))
+                  (NN camp) (NN resident))
+                (PP (IN than)
+                  (NP
+                    (NP (DT any))
+                    (PP (IN of)
+                      (NP
+                        (NP (DT the) (NNS returnees))
+                        (CC or)
+                        (NP (VBN alleged) (NNS fans))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB likewise))
+    (NP (FW i))
+    (VP (VBD was)
+      (ADJP (RBR more) (JJ interested)
+        (PP (IN in)
+          (NP
+            (NP (JJ cochrans) (NN clam) (NN shell) (NN interview))
+            (VP (VBG setting)
+              (PP (IN than)
+                (SBAR
+                  (WHNP (WP what))
+                  (S
+                    (NP (PRP he))
+                    (VP (VBD was)
+                      (ADVP (RB actually))
+                      (VP (VBG saying)))))))))))
+    (. .)))
+

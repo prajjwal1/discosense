@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (NP (DT the) (NN body))
+    (VP (VBZ goes)
+      (PP (IN through)
+        (NP
+          (NP (DT a) (NN number))
+          (PP (IN of)
+            (NP (JJ natural) (NNS stages)))))
+      (S
+        (VP (TO to)
+          (VP (VB handle)
+            (NP (JJ external) (NNS attacks))
+            (PP (IN as)
+              (NP
+                (NP (NN part))
+                (PP (IN of)
+                  (NP (DT the) (JJ immune) (NN process)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (NN contrast)))
+    (NP (JJ metabolic) (NN inflammation))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (JJ bodys) (JJ natural) (NN response))
+        (PP (TO to)
+          (NP (JJ unnatural) (NNS conditions)))))
+    (. .)))
+

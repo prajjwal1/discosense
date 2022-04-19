@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (NP (PDT all) (DT these) (NNS factors))
+    (VP (VBP are)
+      (ADVP (RB intimately))
+      (VP (VBN connected)
+        (PP (TO to)
+          (NP
+            (NP (DT the) (JJ natural) (NN environment)
+              (CC and)
+              (JJ natural) (NN history))
+            (PP (IN of)
+              (NP (DT the) (NN region)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP
+        (NP (JJ other) (NNS words))
+        (PP (IN in)
+          (NP (NN order)))
+        (S
+          (VP (TO to)
+            (VP (VB understand)
+              (NP (JJ ancient) (NN india)))))))
+    (NP (PRP we))
+    (VP (MD must)
+      (VP (VB look)
+        (PP (IN at)
+          (NP
+            (NP (DT the) (JJ natural) (NN history))
+            (, ,)
+            (NP (NNS languages))
+            (, ,)
+            (NP (NN culture))
+            (CC and)
+            (NP (NNS peoples))))
+        (ADVP (RB together))))
+    (. .)))
+

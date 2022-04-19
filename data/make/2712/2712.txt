@@ -1,0 +1,1 @@
+nielsen collects information on the viewing habits of a few thousand consumers, which is then used to design tv shows for the next season. in contrast web servers can observe the behavior of millions of customers and immediately produce customized content, bundled with customized ads.

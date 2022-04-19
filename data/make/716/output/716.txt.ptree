@@ -1,0 +1,44 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP
+        (NP (DT an) (NN age))
+        (PP (IN of)
+          (NP (NN irony)))))
+    (, ,)
+    (NP (NN paranoia))
+    (VP (MD can)
+      (VP (VB have)
+        (NP (DT a) (JJ comic) (NN edge))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN on)
+      (NP (DT the) (JJ other) (NN hand)))
+    (NP (EX there))
+    (VP (VBD was)
+      (NP
+        (NP (DT that) (JJ memorable) (NN moment))
+        (PP (IN in)
+          (NP (CD 1983)))
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP
+              (NP (DT the) (NNS editors))
+              (PP (IN of)
+                (NP (NN newsweek))))
+            (VP (VBD decided)
+              (S
+                (VP (TO to)
+                  (VP (VB put)
+                    (NP
+                      (NP (DT the) (RB so) (VBN called) (NN hitler) (NN diaries))
+                      (PP (IN on)
+                        (NP
+                          (NP (DT the) (NN cover))
+                          (PP (IN of)
+                            (NP (DT the) (NN magazine))))))))))))))
+    (. .)))
+

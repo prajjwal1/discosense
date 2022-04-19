@@ -1,0 +1,1 @@
+this is intentional, as this functionality should be integrated with the threads system of the underlying implementation, and is thus outside the scope of this srfi. instead it is expected that the set of operations available on primitive i o readers and writers will be augmented by future specifications, as will be the available constructors for these objects.

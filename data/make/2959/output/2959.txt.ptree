@@ -1,0 +1,34 @@
+(ROOT
+  (S (CC but)
+    (NP (DT the) (NN reality))
+    (VP (VBZ is)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (NN michael) (RB long))
+            (, ,)
+            (NP (DT the) (JJ longstanding) (NN state) (NN party) (NN chairman))
+            (, ,))
+          (VP (VBZ holds)
+            (NP
+              (NP (NN veto) (NN power))
+              (PP (IN over)
+                (NP (DT the) (NNS locals) (NN choice))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (JJ other) (NNS words)))
+    (NP (NN chairman))
+    (ADVP (RB long))
+    (VP (MD can)
+      (VP (VB turn)
+        (NP (DT this) (NN race))
+        (PP (IN into)
+          (NP
+            (NP (DT a) (NN re) (NN hash))
+            (PP (IN of)
+              (NP (DT the) (JJ dede) (NN hoffman) (NN show)))))))
+    (. .)))
+

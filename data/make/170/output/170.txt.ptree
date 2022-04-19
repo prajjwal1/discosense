@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (JJ first) (NN aspect))
+      (PP (IN of)
+        (NP (DT the) (NN invention))))
+    (ADVP (RB also))
+    (VP (VBZ encompasses)
+      (NP
+        (NP (DT the) (NNS sequences))
+        (PP (IN of)
+          (NP
+            (NP (NN method) (NNS steps))
+            (VP (VBN described)
+              (PP (IN above)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN in)
+      (NP
+        (NP (JJ particular))
+        (PP (VBG according)
+          (PP (TO to)
+            (NP
+              (NP (DT the) (JJ first) (NN aspect))
+              (PP (IN of)
+                (NP (DT the) (NN invention))))))))
+    (NP
+      (NP (DT a) (NN method))
+      (PP (IN of)
+        (S
+          (VP (VBG dispensing)
+            (NP (NN foam))))))
+    (VP (VBZ comprises)
+      (NP
+        (NP (DT the) (NNS steps))
+        (PP (IN of))))
+    (. .)))
+

@@ -1,0 +1,53 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT some))
+      (PP (IN of)
+        (NP (PRP$ its) (NNS chapters))))
+    (ADVP (RB significantly))
+    (VP (VBP challenge)
+      (NP (VBG prevailing) (JJ critical) (NNS approaches))
+      (, ,)
+      (SBAR (IN while)
+        (S
+          (NP (NNS others))
+          (VP (VBP examine)
+            (NP
+              (NP (JJ little) (JJ studied) (NNS works))
+              (CC or)
+              (NP (JJ unusual) (NNS themes)))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (PP (IN in)
+      (NP (NN sum)))
+    (VP
+      (ADVP (RB much)
+        (PP (IN in)
+          (NP (DT these) (NNS pages))))
+      (VBZ represents)
+      (NP (JJ original) (NN scholarship))
+      (PP (IN by)
+        (NP (VBG leading))))
+    (NP
+      (NP (NNS experts))
+      (PP (IN in)
+        (NP (DT the) (NN field)))
+      (, ,)
+      (SBAR
+        (WHNP (WP$ whose)
+          (NP (NN mastery)
+            (PP (IN of)
+              (NP
+                (NP
+                  (QP (CC and)
+                    (CD enthusiasm)))
+                (PP (IN for)
+                  (NP (DT the) (NNS materials)))))))
+        (S
+          (VP (VBP are)
+            (ADJP (JJ evident)
+              (PP (IN throughout)))))))
+    (. .)))
+

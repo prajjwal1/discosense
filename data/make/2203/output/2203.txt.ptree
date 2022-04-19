@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (PP (IN in)
+      (NP (CD 2010)))
+    (, ,)
+    (NP (NN byd))
+    (VP (VBD sold)
+      (NP
+        (NP (CD 519,800) (NNS vehicles))
+        (, ,)
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (VBZ is)
+              (NP
+                (NP (DT a) (JJ far) (NN cry))
+                (PP (IN from)
+                  (NP (DT the) (CD 800,000) (NNS units))))))))
+      (PP
+        (ADVP
+          (NP (DT the) (NN company) (NN forecast))
+          (RBR earlier))
+        (IN in)
+        (NP (DT the) (NN year))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB likewise))
+    (NP
+      (NP (CD 2011) (NN hasnt))
+      (VP (VBN been)
+        (ADJP
+          (ADJP (RB any) (JJR kinder))
+          (PP (TO to)
+            (NP (DT the) (NN automaker))))
+        (, ,)
+        (PP (IN with)
+          (NP (CD 232,400) (NNS vehicles)))))
+    (VP (VBD sold)
+      (PP (IN from)
+        (NP (NN january)))
+      (PP (IN through)
+        (NP (NN july))))
+    (. .)))
+

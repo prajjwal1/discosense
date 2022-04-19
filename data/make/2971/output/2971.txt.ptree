@@ -1,0 +1,44 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNS nuns))
+      (VP (VBN educated)
+        (NP (PRP me))
+        (PP (IN in)
+          (NP (PRP$ my) (JJ high) (NN school) (NNS days)))
+        (, ,)
+        (S
+          (VP (TO to)
+            (VP (VB say)
+              (SBAR (IN that)
+                (S
+                  (S
+                    (VP (VBG seeing)
+                      (NP (DT an) (NN oblation) (NN run))))
+                  (VP (VBZ is)
+                    (NP
+                      (NP (DT a) (NN culture) (NN shock))
+                      (PP (IN for)
+                        (NP (PRP me))))))))))))
+    (VP (VBZ is)
+      (ADJP (RB so) (JJ much)
+        (PP (IN of)
+          (NP (DT an) (NN understatement)))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (PP (RB because) (IN of)
+      (NP (DT that) (FW i)))
+    (VP (VBD was)
+      (VP (VBN challenged)
+        (S
+          (VP (TO to)
+            (VP (VB question)
+              (NP (DT some))
+              (PRT (RP up)))))))
+    (NP (NNS beliefs)
+      (CC and)
+      (NNS advocacies))
+    (. .)))
+

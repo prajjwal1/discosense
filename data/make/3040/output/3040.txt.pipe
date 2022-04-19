@@ -1,0 +1,4 @@
+Explicit|||86..89||and||0|and|||Expansion.Conjunction|||||||||||0..85|0|if these coordinates are the same, the tagged component is considered to be installed||||||||90..126|0|the model is updated to reflect this|||||||||||||
+Explicit|||0..2||if||0|if|||Contingency.Condition|||||||||||35..85|0|the tagged component is considered to be installed||||||||3..33|0|these coordinates are the same|||||||||||||
+Explicit|||220..223||and||1|and|||Expansion.Conjunction|||||||||||128..219|1|conversely if the coordinates are different, the tagged component is considered uninstalled||||||||224..259|1|the model is updated to that effect|||||||||||||
+Explicit|||139..141||if||1|if|||Contingency.Condition|||||||||||128..138;173..219|1|conversely the tagged component is considered uninstalled||||||||142..171|1|the coordinates are different|||||||||||||

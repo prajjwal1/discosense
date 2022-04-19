@@ -1,0 +1,61 @@
+(ROOT
+  (S
+    (NP (JJ meyers) (NN argument))
+    (ADVP (RB also))
+    (VP (VBZ does) (RB not)
+      (VP (VB say)
+        (S
+          (S
+            (NP (NN thatx))
+            (VP (VBZ is)
+              (ADJP (JJ complex))
+              (ADVP (RB therefore))))
+          (, ,)
+          (S
+            (S
+              (NP (SYM x))
+              (VP (VBZ is)
+                (VP (VBN designed))))
+            (, ,)
+            (CC nor)
+            (SQ (VBZ does)
+              (NP (NN meyer))
+              (VP (VB commit)
+                (NP
+                  (NP (NN thegod))
+                  (PP (IN of)
+                    (NP (DT the) (NN gapsfallacy))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB thus)
+      (PP (IN in)
+        (NP
+          (NP (DT the) (NN absence))
+          (PP (IN of)
+            (NP (JJ viable) (VBG competing) (NNS explanations))))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ follows)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (DT the)
+              (ADJP (RBS most) (JJ likely))
+              (NN explanation))
+            (PP (IN for)
+              (NP (DT this) (NN phenomenon))))
+          (VP (VBZ is)
+            (SBAR (IN that)
+              (S
+                (NP (PRP it))
+                (ADVP (RB too))
+                (VP (VBD arose)
+                  (PP (IN by)
+                    (NP
+                      (NP (NN virtue))
+                      (PP (IN of)
+                        (NP (DT an) (JJ intelligent) (NN cause))))))))))))
+    (. .)))
+

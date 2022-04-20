@@ -176,14 +176,22 @@ count = 0
         #  break
 
 print('#### Incorrectly classified examples ####')
+mis_preds_idx = []
 
 for idx, incorrect_id in enumerate(incorrect_ids):
-    print(non_vector_dataset[incorrect_id])
-    print('Predicted Label: ', incorrect_predicted_label[idx])
-    print()
-    count += 1
-    if count == 1000:
-        break
+    #  print(non_vector_dataset[incorrect_id])
+    print(incorrect_id)
+    mis_preds_idx.append(incorrect_id)
+
+    #  print('Predicted Label: ', incorrect_predicted_label[idx])
+    #  print()
+    #  count += 1
+    #  if count == 1000:
+        #  break
+
+with open("mis_preds_idx.pkl", "wb") as f:
+    pickle.dump(mis_preds_idx, f)
+
 
 
 

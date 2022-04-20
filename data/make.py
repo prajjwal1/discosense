@@ -15,9 +15,9 @@ def get_stats(fname):
         ground_truth = all_options[val['label']]
 
         sentence = context + ' ' + marker + ' ' + ground_truth
-        os.mkdir("make/" + str(f_idx))
+        os.mkdir("make_2/" + str(f_idx))
 
-        with open("make/" + str(f_idx) + "/" + str(f_idx) + ".txt", 'w') as f:
+        with open("make_2/" + str(f_idx) + "/" + str(f_idx) + ".txt", 'w') as f:
             f.write(sentence)
 
 

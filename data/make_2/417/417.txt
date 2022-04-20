@@ -1,0 +1,1 @@
+we present and develop several nonlinear energy conditions suitable for use in the semiclassical regime. in particular we consider the recently formulatedflux energy condition, and the noveltrace of square anddeterminant energy conditions.

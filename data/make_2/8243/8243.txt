@@ -1,0 +1,1 @@
+a running total of the number of coaches of the sharks. thus any coach who had two separate terms as head coach is only counted once.

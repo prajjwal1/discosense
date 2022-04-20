@@ -1,0 +1,1 @@
+based on our experience during cafa, we think that further advances in statistical approaches for function prediction are needed. particularly we would like to point to two open problems we believe could lead to significant advances in protein function prediction.

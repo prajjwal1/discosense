@@ -1,0 +1,1 @@
+make sure that there is no text before the redirect keyword, or the redirect will not work. similarly any existing page can be edited to turn it into a redirect.

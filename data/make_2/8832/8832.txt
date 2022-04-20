@@ -1,0 +1,1 @@
+the first version of ocfs was developed with the main focus to accommodate oracles database management system that used cluster computing. because of that because of that it was not a posix compliant file system.

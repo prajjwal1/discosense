@@ -1,0 +1,1 @@
+moreover, by disposing the source lines on the stacked body ml, the vias for connecting to the source lines can be made shallow, and the vias can be easily constructed. thereby fine vias can be made, and therefore one source line can be formed for each of two series of silicon pillars arranged along the x direction.

@@ -1,0 +1,1 @@
+as you can see from the graphic above, the status still sayspowered on. because of this and because of how svmotion works, there was never any downtime for the end users who may have been accessing this virtual guest.

@@ -1,0 +1,1 @@
+like any physical quantity that is a function of velocity, the kinetic energy of an object depends on the relationship between the object and the observers frame of reference. thus the kinetic energy of an object is not invariant.

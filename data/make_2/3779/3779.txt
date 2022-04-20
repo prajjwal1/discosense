@@ -1,0 +1,1 @@
+if you dont allow designers to create lotusscript or java agents, they are restricted from making any lotusscript or java changes to the database. otherwise their rights are nearly complete.

@@ -1,0 +1,1 @@
+the polar body of an n dimensional unit sphere is itself another unit sphere. thus its mahler volume is just the square of its volume.

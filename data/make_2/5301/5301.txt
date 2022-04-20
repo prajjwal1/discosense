@@ -1,0 +1,1 @@
+typically, the larger in size a function block code is, the less likely the function block code can be trusted. similarly the more functions a source code includes, the less trust it may be ascribed to.

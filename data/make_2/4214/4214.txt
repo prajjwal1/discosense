@@ -1,0 +1,1 @@
+the issue is from executing ssh add. although if i run ssh add manually after creating the tmux session, it works.

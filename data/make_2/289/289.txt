@@ -1,0 +1,1 @@
+following this approach, object oriented architecture ceases to focus around objects and classes. instead the focus becomes the abstraction layers that make up the application.

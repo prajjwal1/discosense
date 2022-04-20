@@ -1,0 +1,1 @@
+on the other hand, the number of non identical pairs increases according to the size of the incomplete part, because all entries in the incomplete part are incorrect matches. therefore the number of non identical pairs differs between a complete dataset and an incomplete dataset.

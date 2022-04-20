@@ -1,0 +1,1 @@
+for example, the information about the message and the subscriber that still needs to be notified may be written to disk, plus the time at which the next retries should occur. hence each delivery process 14 processes any new incoming imap messages, and processes any needed retries.

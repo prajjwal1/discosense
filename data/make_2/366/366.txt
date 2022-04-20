@@ -1,0 +1,1 @@
+it seems the new vim uses input save before opening the filename passed to remote. thus no matter what i do to try to hack around that filename, vim always restores the input afterwards, defeating my attempts to do without an input file.

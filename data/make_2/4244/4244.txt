@@ -1,0 +1,1 @@
+while the bit line is being discharged, the data in the ddc is transferred to the tdc. thereafter the data in the pdc is transferred to the ddc and the data in tdc is transferred to the pdc.

@@ -1,0 +1,1 @@
+the present invention provides a system for recording a log of events that occur to an image file, for example, if the image is e mailed, printed, edited, etc. consequently a user can review the log and know what has been done with the image file previously.

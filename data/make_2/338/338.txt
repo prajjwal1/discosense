@@ -1,0 +1,1 @@
+when you perform a full text search, the search finds the word you specify and words that have the same stem. for example searching for the word address finds files with the word address, addressing, addresses, or addressed in them.

@@ -1,0 +1,1 @@
+because expression of this gene is much more robust in male samples, 323.3, we excluded possibility of sample mixup. therefore we considered that values equal or below the 8.1 threshold were not reliable.

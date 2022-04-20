@@ -1,0 +1,1 @@
+semantic noise measures discrepancies between the expected meaning or behavior of the concept and its actual meaning or behavior in the code. for instance the fact that integer data types overflow is a form of semantic noise.

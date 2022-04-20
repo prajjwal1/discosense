@@ -1,0 +1,1 @@
+several extensions to the above set of workflow patterns have been proposed. in particular the same research groups that developed these patterns, have also proposed a set of workflow data patterns, workflow resource patterns, workflow exception handling patterns, and service interaction patterns.

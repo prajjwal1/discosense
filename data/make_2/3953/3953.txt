@@ -1,0 +1,1 @@
+click on profile at the top of the page, scroll down until you see timezone, and then adjust your time accordingly. for instance if you are in the eastern time zone, you would have been on gmt 5 before daylight savings, now you are gmt 4.

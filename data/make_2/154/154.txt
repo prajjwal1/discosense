@@ -1,0 +1,1 @@
+the users of the earlier release will find that rather than having leaders to deal with, they have proxy objects. as a result it is impossible to edit these leaders in any way.

@@ -1,0 +1,1 @@
+i dont know anything about that other operating systems guest user permissionsbut for ubuntu you can create users with any privileges you like. on the other hand there exists aguest sessionwhich can be accessed from an already started session.

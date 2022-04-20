@@ -1,0 +1,1 @@
+an identifier for the ground transmitter towards which the aircraft is heading is marked as the to waypoint or navaid. similarly the last ground transmitter from which the aircraft is heading is marked as the from waypoint or navaid.

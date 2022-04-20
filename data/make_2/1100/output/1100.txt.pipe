@@ -1,0 +1,2 @@
+Explicit|||160..164||thus||1|thus|||Contingency.Cause|||||||||||0..158|0|the difference is that the main resources are the resources associated to the main source code while the test resources are associated to the test source code||||||||165..248|1|this allows the separation of resources for the main source code and its unit tests|||||||||||||
+Explicit|||95..100||while||0|while|||Temporal.Synchrony|||||||||||46..94|0|the resources associated to the main source code||||||||101..158|0|the test resources are associated to the test source code|||||||||||||

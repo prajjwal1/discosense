@@ -1,0 +1,1 @@
+this sequence also presents a second problem in that it contains no first distance to run, for any possible first distance could be divided in half, and hence would not be first after all. hence the trip can not even begin.

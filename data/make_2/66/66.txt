@@ -1,0 +1,1 @@
+after the new routing tables have been installed, most of the east west traffic will now go over ei, overloading this line. consequently in the next update, cf will appear to be the shortest path.

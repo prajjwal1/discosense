@@ -1,0 +1,1 @@
+mandatory certificate verification is not viable for internet mail delivery. as a result most email that is delivered over tls uses only opportunistic encryption.

@@ -1,0 +1,1 @@
+in actual lay out, however, routing resource is fixed. thus it is possible that horizontal routing resource will not be adequate to to hold oprimal horizontal communication.

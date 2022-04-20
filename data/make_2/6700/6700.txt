@@ -1,0 +1,1 @@
+bruce daniels pointed out that the lisa primarily used raster graphics, which could be implemented with less expensive hardware support. instead graphics primitives were written in software.

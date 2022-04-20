@@ -1,0 +1,1 @@
+im helping assemble a grant proposal that involves a grid style cluster with very large scale storage requirements. specifically it needs to be able to scale into the 100s of tb incentral disk store in addition to commensurate amounts of tape backup.

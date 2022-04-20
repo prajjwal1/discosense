@@ -1,0 +1,1 @@
+however only the root user can look at the quotas for other users and groups. for example say we have a filesystem, dev hdc 1 mounted on usr users, with two users jane and john.

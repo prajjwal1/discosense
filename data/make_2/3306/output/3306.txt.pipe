@@ -1,0 +1,1 @@
+Explicit|||36..45||otherwise||1|otherwise|||Expansion.Alternative|||||||||||0..34|0|if not, is there a reason for this||||||||46..190|1|its just a waste of storage space in gac because precompiled assemblies dont provide much advantage of performance over non precompiled versions|||||||||||||

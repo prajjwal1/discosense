@@ -1,0 +1,1 @@
+delaying a hand off decision may result in less than acceptable communications. for example communication with less than acceptable signal level or fade margin may result.

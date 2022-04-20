@@ -1,0 +1,1 @@
+in mathematics, an index set is a set whose members label members of another set. for instance if the elements of a set a may be indexed or labeled by means of a set j, then j is an index set.

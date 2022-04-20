@@ -1,0 +1,1 @@
+the game lacks a hud style health bar. instead the music gets faster until gon dies from his injuries.

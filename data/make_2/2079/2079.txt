@@ -1,0 +1,1 @@
+while the foregoing examples of rgb gyricons are an improvement over previous rgb gyricons and can display a larger color gamut they still have a somewhat limited color gamut. specifically black is not available and white is available only by displaying all three colors, that is displaying red, green and blue components simultaneously.

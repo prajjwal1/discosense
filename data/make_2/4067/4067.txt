@@ -1,0 +1,1 @@
+on the one hand such analyses may provide insight into specific software systems, which is valuable in itself. on the other hand by collecting information about sets of software systems, we may also use software analysis to come to general insights.

@@ -1,0 +1,1 @@
+the drive magnetic noise of the optical head 6 is detected by the magnetic sensor, and a signal representative thereof is added in opposite phase to the magnetic reproduced signal. thereby the introduced noise can be greatly reduced.

@@ -1,0 +1,1 @@
+these processes are stopped and restarted by the application server on demand, including its execution state. therefore session management is automatic.

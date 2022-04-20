@@ -1,0 +1,1 @@
+this colour set may be non optimum for software cubes of large size where the number of pixels per cubie is small. for instance for instance the differentiation between white and yellow may be problematic.

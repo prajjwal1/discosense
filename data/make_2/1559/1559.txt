@@ -1,0 +1,1 @@
+waveform coders usually operate at a medium to high transmission rate in order to achieve good quality. by contrast parametric coders use a priori knowledge about the source of the signal in order to reproduce the waveform.

@@ -1,0 +1,1 @@
+at action, the analyzer module 520 receives a change event from the spreadsheet application 530. in particular the change event indicates that new content has been placed into a spreadsheet cell.

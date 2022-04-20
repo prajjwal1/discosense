@@ -1,0 +1,1 @@
+no aspheric surface is used, but a shape factor of an air lens formed by a second surface and a third surface is set appropriately. therefore off axial aberration such as coma on the wide angle side and spherical aberration on the telephoto side are corrected appropriately.

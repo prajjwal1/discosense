@@ -1,0 +1,1 @@
+ui biz layer interaction is within the application boundary, therefore dto izing biz layer encourages duplication of a significant portion biz logic in the ui. on the other hand dto solution is a perfect fit for app app interactions.

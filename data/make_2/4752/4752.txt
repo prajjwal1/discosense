@@ -1,0 +1,1 @@
+operation of the audio device 34 is controlled by signals output from the remote processor 38 in response to commands received from the control processor 10. for example gain, compression and filtering are each controllable in response to signals received from the remote processor 38.

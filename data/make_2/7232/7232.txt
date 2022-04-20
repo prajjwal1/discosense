@@ -1,0 +1,1 @@
+it is also shown that feature matching accuracy is above 50% for viewpoint changes of up to 50 degrees. therefore sift descriptors are invariant to minor affine changes.

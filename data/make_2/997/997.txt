@@ -1,0 +1,1 @@
+if the other event is current or pending, the event and the other event may be combined. for example members of one event may be invited to join the other event.

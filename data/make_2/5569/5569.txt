@@ -1,0 +1,1 @@
+the document containing a hyperlink is known as its source document. for example in an online reference work such as wikipedia, or google, many words and terms in the text are hyperlinked to definitions of those terms.

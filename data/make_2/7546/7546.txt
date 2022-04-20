@@ -1,0 +1,1 @@
+while bundling strongly affects photoluminescence, it has much weaker effect on optical absorption and raman scattering. consequently sample preparation for the latter two techniques is relatively simple.

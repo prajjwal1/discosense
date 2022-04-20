@@ -1,0 +1,1 @@
+Explicit|||134..144||conversely||1|conversely|||Comparison.Contrast|||||||||||0..132|0|an application that closes cursors or reuses cursors, does not need as much session memory as an application that keeps cursors open||||||||145..241|1|that same application may need to perform more parse calls, using extra cpu and oracle resources|||||||||||||

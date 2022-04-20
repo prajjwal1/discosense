@@ -1,0 +1,4 @@
+Explicit|||35..38||but||0|but|||Comparison.Contrast|||||||||||0..33|0|well the weather was cooler today||||||||39..72|0|it was also quite breezy at times|||||||||||||
+Explicit|||46..50||also||0|also|||Expansion.Conjunction|||||||||||1..2|-1|e||||||||0..45;51..72|0|well the weather was cooler today, but it was quite breezy at times|||||||||||||
+Explicit|||74..86||nevertheless||1|nevertheless|||Comparison.Concession|||||||||||0..72|0|well the weather was cooler today, but it was also quite breezy at times||||||||87..225|1|the cycling was quite relaxed, especially once id made some progress down the lee valley to the point that ive cycled several times before|||||||||||||
+Explicit|||129..133||once||1|once|||Temporal.Asynchronous|||||||||||74..128|1|nevertheless the cycling was quite relaxed, especially||||||||134..225|1|id made some progress down the lee valley to the point that ive cycled several times before|||||||||||||

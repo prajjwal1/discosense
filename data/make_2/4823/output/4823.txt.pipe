@@ -1,0 +1,3 @@
+Explicit|||59..62||and||0|and|||Expansion.Conjunction|||||||||||0..58|0|if the list is empty, then control passes to operation 745||||||||63..122|0|the nodes are connected using conventional connection logic|||||||||||||
+Explicit|||136..138;162..166||if then||1|if then|||Expansion.Conjunction|||||||||||167..174|1|control||||||||175..241|1|passes to operation 735 where the non optional nodes are connected|||||||||||||
+Explicit|||0..2;22..26||if then||0|if then|||Expansion.Conjunction|||||||||||63..122|0|the nodes are connected using conventional connection logic||||||||27..58|0|control passes to operation 745|||||||||||||

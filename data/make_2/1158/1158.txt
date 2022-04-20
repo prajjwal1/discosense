@@ -1,0 +1,1 @@
+bn pairs basically generalize the bruhat decomposition of matrices into monomial n and triangular b matrices and come with aweyl group n that has to be a coxeter group. conversely tits showed in 1974 that a group with a spherical bn pair of rank at least 3 is oflie type.

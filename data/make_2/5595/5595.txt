@@ -1,0 +1,1 @@
+any collection can be written to store any class. for example collection string can hold strings, and the elements from the collection can be used as strings without any casting required.

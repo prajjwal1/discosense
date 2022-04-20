@@ -1,0 +1,1 @@
+after the regenerated power has been stored until reaching the predetermined limiting value, the energy storage unit 14 is deactivated under the control of the energy control unit 15. thereafter all the regenerated power is returned to the ac power supply 3.

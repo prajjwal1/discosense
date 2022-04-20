@@ -1,0 +1,1 @@
+there are many reasons for wanting to change the fov in an fps. for instance someone who easily fixates on a point wont even notice action happening away from the centre of the screen, and the angle of the fov isnt a huge concern.

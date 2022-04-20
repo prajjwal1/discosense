@@ -1,0 +1,1 @@
+associated with each closed null geodesic is a redshift factor describing the rescaling of the rate of change of the affine parameter around a loop. because of this because of this redshift factor, the affine parameter terminates at a finite value after infinitely many revolutions because the geometric series converges.

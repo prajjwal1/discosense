@@ -1,0 +1,1 @@
+the internet is critical infrastructure, yet its operation depends on the fundamentally insecure dns. thus there is strong incentive to secure dns, and deploying dnssec is generally considered to be a critical part of that effort.

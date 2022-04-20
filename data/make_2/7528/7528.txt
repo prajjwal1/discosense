@@ -1,0 +1,1 @@
+due to the limitations of arcade technology at the time, the car the player is driving is not actually drawn on screen. instead the car is a printed plastic insert that is laid under the screen.

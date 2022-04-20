@@ -1,0 +1,1 @@
+a web site is a collection of web files which typically includes a beginning file called a home page. for example most companies, organizations, or individuals that have web sites have a single url address.

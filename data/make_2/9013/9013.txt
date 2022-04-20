@@ -1,0 +1,1 @@
+notably, there is no explicit dependence on the scattering coefficient in the diffusion equation. instead only the reduced scattering coefficient appears in the expression for d.

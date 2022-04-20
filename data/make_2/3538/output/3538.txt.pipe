@@ -1,0 +1,2 @@
+Explicit|||16..18||if||0|if|||Contingency.Condition|||||||||||0..15|0|this can happen||||||||19..82|0|a hardware failure occurs on the machine where the vm is hosted|||||||||||||
+Explicit|||84..91||instead||1|instead|||Expansion.Alternative|||||||||||0..82|0|this can happen if a hardware failure occurs on the machine where the vm is hosted||||||||92..208|1|the recommended approach is to store data to dedicated persistent storage such as sql azure or windows azure storage|||||||||||||

@@ -1,0 +1,1 @@
+the flip flops maintain these signals until they are explicitly changed by the sequencer. similarly all incoming control signals from the interface are detected and held in flip flops.

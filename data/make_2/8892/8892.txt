@@ -1,0 +1,1 @@
+these circuits, among them, exhibit a large number of important types of behaviour that are fundamental to much of analog electronics. in particular they are able to act as passive filters.

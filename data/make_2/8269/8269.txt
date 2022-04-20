@@ -1,0 +1,1 @@
+one problem in build automation is the tailoring of a build process to a given platform. for instance the compiler used on one platform might not accept the same options as the one used on another.

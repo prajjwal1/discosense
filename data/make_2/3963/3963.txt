@@ -1,0 +1,1 @@
+also, by default, spamsieve will never classify messages from senders in your contacts as spam. nevertheless there a several reasons why such messages might keep ending up in the junk or spam mailbox.

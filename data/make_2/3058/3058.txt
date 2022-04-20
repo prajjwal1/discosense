@@ -1,0 +1,1 @@
+the four static methods have the same signature as the ones from messageloop, with the addition of the first parameter to indicate the target thread. similarly me ssageloopproxy has methods with the same signature as the messageloop counterparts, but is safe for caching a pointer to.

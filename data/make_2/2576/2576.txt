@@ -1,0 +1,1 @@
+if the confidence intervals did not include 1.0, we considered the result statistically significant. subsequently we repeated our analyses for each treatment modality separately.

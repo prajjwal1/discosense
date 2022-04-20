@@ -1,0 +1,2 @@
+Explicit|||16..18||if||0|if|||Contingency.Condition|||||||||||0..14;52..84|0|during daytime survival points will be deducted||||||||19..50|0|the players character is killed|||||||||||||
+Explicit|||133..135||if||1|if|||Contingency.Condition|||||||||||86..132|1|in contrast no survival point will be deducted||||||||136..176|1|the players character is killed at night|||||||||||||

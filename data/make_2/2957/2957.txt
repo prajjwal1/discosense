@@ -1,0 +1,1 @@
+as a result, the total time length of the modified video 500 is increased from 5 minutes to 6 minutes. similarly when the sub video 512 is inserted, the corresponding audio will also be inserted.

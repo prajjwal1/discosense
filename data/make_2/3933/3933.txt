@@ -1,0 +1,1 @@
+if temperatures are too cold or too dry relative to this optimum, the crop will grow more slowly. similarly if temperatures are too hot or too wet, crop yields will be lower.

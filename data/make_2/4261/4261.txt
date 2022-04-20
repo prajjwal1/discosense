@@ -1,0 +1,1 @@
+unicast communication does not enable nodes to discover other cluster members in this way. consequently you must specify the nodes that belong to the cluster.

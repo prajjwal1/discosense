@@ -1,0 +1,1 @@
+the quick start leaflet that comes with the laptop explains how to use it but, comically, the instructions are for windows. however theres a shortcut to a pdf covering ubuntu to be found on the desktop.

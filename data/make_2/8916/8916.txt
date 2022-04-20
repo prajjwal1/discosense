@@ -1,0 +1,1 @@
+most of the logical data model can be derived from the requirements. for instance for instance it knows which entities are needed and in some cases it also can derive the type of an attribute.

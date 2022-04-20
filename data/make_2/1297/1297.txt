@@ -1,0 +1,1 @@
+according to the method of the invention the coa is used while connected to the wlan 3. subsequently the mn 1 leaves the wlan 3 and indicates via a registration request that mn 1 is back home on the gprs umts network.

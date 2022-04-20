@@ -1,0 +1,1 @@
+because most bundle commands rely on unix commands not typically available on windows, e uses the cygwin toolset. therefore bundle commands can therefore use bash, unix command line tools, or scripting languages like ruby or python.

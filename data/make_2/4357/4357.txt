@@ -1,0 +1,1 @@
+the software offers the possibility to project the position of the ionization chambers onto the patients ct. thereby the field specific analysis of deviations between measurements and plan is supported by suitable imaging procedures.

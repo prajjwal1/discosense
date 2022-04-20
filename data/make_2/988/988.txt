@@ -1,0 +1,1 @@
+if there is no record with the elapsed time exceeding one hour, the cpu 30 returns the process to steps 101. in contrast if there is a record with the elapsed time exceeding one hour, the cpu 30 advances the process to steps 114.

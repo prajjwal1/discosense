@@ -1,0 +1,1 @@
+they are a practical option for printed documents, but they are not practical for electronic documents. conversely digital signature is not very practical for printed documents, but it is very well suited to electronic documents.

@@ -1,0 +1,1 @@
+removing recent activitys posts individually are really annoying. instead we should be able to restrict it by activity type.

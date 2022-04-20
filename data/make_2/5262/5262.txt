@@ -1,0 +1,1 @@
+note the code is still pretty ugly, and totally not ready for prime time. specifically resources arent disposed properly at all use at your own peril.

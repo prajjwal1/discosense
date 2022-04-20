@@ -1,0 +1,1 @@
+the number of the urn that contains his number is the pre image of that number under the permutation. hence hence the prisoners survive if all cycles of the permutation contain at most fifty elements.

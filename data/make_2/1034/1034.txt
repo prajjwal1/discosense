@@ -1,0 +1,1 @@
+the storage integrity processing unit 20 stores the rebuild slice, or slices, in the appropriate ds unit 36 in a manner that mimics the write process previously described. in particular the ds processing unit 16 can coordinate the storage and retrieval of data, such as gaming data or social networking data, via a dispersed storage network.

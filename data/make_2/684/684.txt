@@ -1,0 +1,1 @@
+the superglue may eventually cake after repeated implementations, but it does stick to itself remarkably well. likewise wop will be faster, cheaper and function well for the time being, and even when it invariably breaks down, further workarounds will resolve this simply enough.

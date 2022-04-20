@@ -1,0 +1,1 @@
+with a small target like an insect, the level of the reflection coming back falls with the inverse fourth power of the distance. in other words at twice the distance, the level falls 16 times.

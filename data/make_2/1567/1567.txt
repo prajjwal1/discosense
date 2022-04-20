@@ -1,0 +1,1 @@
+that being stated, it would be just as silly to use a stringbuilder for simple concatenations outside of a loopjust in casethat code was ever placed within a loop. similarly its not premature optimization to write a conditional such that the most likely condition is encountered first as long as doing so does not make the code confusing.

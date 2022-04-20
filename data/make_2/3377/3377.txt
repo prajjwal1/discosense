@@ -1,0 +1,1 @@
+no programming language is written in what one might callplain english though. because of this the text of a program is sometimes referred to ascodeor more specifically assource code.

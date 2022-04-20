@@ -1,0 +1,1 @@
+tdm calls for synchronous division of the overall bandwidth of a common backbone into multiple low speed channels and assigns a specific time slot to each channel. in other words if there are four channels, each channel is allocated a fourth of the bandwidth.

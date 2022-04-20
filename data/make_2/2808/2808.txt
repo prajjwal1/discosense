@@ -1,0 +1,1 @@
+last november, we reported that multi user support was discovered in a beta version of instagram for android. however for some reason, instagram quickly pulled the feature, which we can only imagine was because it was not ready yet.

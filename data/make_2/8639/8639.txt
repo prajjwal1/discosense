@@ -1,0 +1,1 @@
+the angular velocity of any one of the poles is a function of its distance in front of the car, the speed of the car, and the distance between the roadway and the poles. thus any particular angular velocity corresponds directly to a distance.

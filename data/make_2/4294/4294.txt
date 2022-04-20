@@ -1,0 +1,1 @@
+camlboxes also use shared memory as transport medium, but it is here not required that the shared block needs to be mapped at the same address. because of this it is also possible to connect processes with camlboxes that are not related to each other.

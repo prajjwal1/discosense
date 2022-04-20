@@ -1,0 +1,1 @@
+studies that involve map recording can often amass a large volume of data with thousands of epochs from multiple sites. subsequently manual analysis of obtained data sets can be time consuming and labor intensive.

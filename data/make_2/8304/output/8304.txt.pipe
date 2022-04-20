@@ -1,0 +1,2 @@
+Explicit|||56..62||before||0|before|||Temporal.Asynchronous|||||||||||0..55|0|it applies a hash function to the username and password||||||||63..92|0|sending them over the network|||||||||||||
+Explicit|||222..228||unless||1|unless|||Expansion.Alternative|||||||||||208..221|1|it non secure||||||||229..257|1|used in conjunction with tls|||||||||||||

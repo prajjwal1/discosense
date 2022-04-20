@@ -1,0 +1,1 @@
+in fact i tested on some videos using same codecs, i get less cpu usage by potplayer compare to kmplayer. nevertheless i will continue to download kmplayer when they release new versions.

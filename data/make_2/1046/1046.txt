@@ -1,0 +1,1 @@
+applicant considers application independent data formats to be a preferred embodiment of the present invention. nonetheless the present invention may be implemented withapplication independent or portable data formats, proprietarydata formats, or some combination of them.

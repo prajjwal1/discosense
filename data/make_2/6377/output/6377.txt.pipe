@@ -1,0 +1,3 @@
+Explicit|||63..66||and||0|and|||Expansion.Conjunction|||||||||||0..61|0|in general, exits have tolls when they precede a barrier toll||||||||67..113|0|exits are free when they follow a barrier toll|||||||||||||
+Explicit|||173..176||and||1|and|||Expansion.Conjunction|||||||||||115..172|1|conversely entrances that precede a barrier toll are free||||||||177..231|1|tolls are paid at entrances just beyond a barrier toll|||||||||||||
+Explicit|||82..86||when||0|when|||Temporal.Synchrony|||||||||||0..81|0|in general, exits have tolls when they precede a barrier toll, and exits are free||||||||87..113|0|they follow a barrier toll|||||||||||||

@@ -1,0 +1,1 @@
+in this paper, we propose a metric to compute the structural and cognitive complexity of class by associating a weight to the class, called as weighted class complexity. on the contrary of the other metrics used for object oriented systems, proposed metric calculates the complexity of a class due to methods and attributes in terms of cognitive weight.

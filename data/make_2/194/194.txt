@@ -1,0 +1,1 @@
+in the case where the user wishes to reflect the settings of the sheet used for printing, the user can select a button b 205. as a result the settings of the sheet used for printing are completed, and then the mfp 100 displays the screen shown in fig.

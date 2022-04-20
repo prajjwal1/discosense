@@ -1,0 +1,1 @@
+the scheduling mechanisms for the partitioned codes may be expanded so that scheduling is controlled by acknowledgment messages of the vpu to the particular unit being reconfigured. in particular the resulting possibility of a conditional execution, i. e. explicit determination of the subsequent partition by the state of the instantaneous partition, is utilized in partitioning.

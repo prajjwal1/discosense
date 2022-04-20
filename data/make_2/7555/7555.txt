@@ -1,0 +1,1 @@
+in general, two rooted trees are isomorphic when one can be obtained from the other by permuting the children of its nodes. in other words the group that acts on the children of a node is the symmetric groups.

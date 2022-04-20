@@ -1,0 +1,1 @@
+this provides zswap with an eviction mechanism for less used swapped pages, which zram lacks. though as a result of its design, at least one already existing swap device is required for zswap to be used.

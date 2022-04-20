@@ -1,0 +1,5 @@
+Explicit|||172..174||if||1|if|||Contingency.Condition|||||||||||159..171;200..212|1|consequently van will die||||||||175..198|1|escaflowne is destroyed|||||||||||||
+Explicit|||159..171||consequently||1|consequently|||Contingency.Cause|||||||||||0..157|0|due to the blood pact and hitomis influence, van becomes injured when the escaflowne is damaged, and these wounds will not close until escaflowne is repaired||||||||172..212|1|if escaflowne is destroyed, van will die|||||||||||||
+Explicit|||65..69||when||0|when|||Temporal.Asynchronous|||||||||||0..64;97..157|0|due to the blood pact and hitomis influence, van becomes injured and these wounds will not close until escaflowne is repaired||||||||70..95|0|the escaflowne is damaged|||||||||||||
+Explicit|||97..100||and||0|and|||Expansion.Conjunction|||||||||||0..95|0|due to the blood pact and hitomis influence, van becomes injured when the escaflowne is damaged||||||||101..157|0|these wounds will not close until escaflowne is repaired|||||||||||||
+Explicit|||129..134||until||0|until|||Temporal.Asynchronous|||||||||||101..128|0|these wounds will not close||||||||135..157|0|escaflowne is repaired|||||||||||||

@@ -1,0 +1,2 @@
+Explicit|||70..74||thus||1|thus|||Contingency.Cause|||||||||||0..68|0|the availability of external data sources is not under agris control||||||||75..170|1|if an external data source is temporary unreachable, it wont be displayed in agris mashup pages|||||||||||||
+Explicit|||75..77||if||1|if|||Contingency.Condition|||||||||||70..74;128..170|1|thus it wont be displayed in agris mashup pages||||||||78..126|1|an external data source is temporary unreachable|||||||||||||

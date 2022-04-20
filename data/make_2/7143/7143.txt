@@ -1,0 +1,1 @@
+a phase difference translates to a delay, which in turn can be interpreted as a direction the sound came from. consequently landlines used by broadcasters for stereo transmissions are equalised to very tight differential phase specifications.

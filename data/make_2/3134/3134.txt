@@ -1,0 +1,1 @@
+among other things, it could use trust to trust packages the invoking user doesnt in fact trust. similarly generalizednewtypederiving can violate constructor access control, by allowing untrusted code to manipulate protected data types in ways the data type author did not intend.

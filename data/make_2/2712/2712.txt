@@ -1,0 +1,1 @@
+proteins and other compounds can be detected and or quantified using standard analytical techniques such as chromatography, gel separation techniques, and the like. likewise methods of detecting nucleic acids are well known in the art and include specific hybridization to probe sequences and amplification methods.

@@ -1,0 +1,1 @@
+thus, it allows to assign colors to the mesh surface without the need of a 2 d parametric uv space. on the other hand a specific ptex texture is more closely related to the surface geometry it was painted for.

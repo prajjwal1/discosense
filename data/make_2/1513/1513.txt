@@ -1,0 +1,1 @@
+even if an attacker manages to learn the users password, it is useless without also having possession of the trusted device. conversely if the user happens to lose the device, the finder of that device wont be able to use it unless he or she also knows the users password.

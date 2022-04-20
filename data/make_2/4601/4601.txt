@@ -1,0 +1,1 @@
+internally, this is what will happen to the administration panel when the content action hook is not being used appropriately. nonetheless if this method is not used appropriately for the external part, the content might not even be showing.

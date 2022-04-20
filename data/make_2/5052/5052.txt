@@ -1,0 +1,1 @@
+during initial testing of an integrated circuit memory device, defective elements are replaced by non defective elements referred to as redundant elements. thus redundant columns may be used in a scheme to replace defective non redundant columns, discovered during initial testing of the integrated circuit memory device.

@@ -1,0 +1,1 @@
+if the linear constraints are infeasible, sinf contains the sum of the infeasibilities of the linear constraints. otherwise sinf contains the sum of the infeasibilities of the nonlinear constraints.

@@ -1,0 +1,1 @@
+Explicit|||133..137||thus||1|thus|||Contingency.Cause|||||||||||0..131|0|a software developer who makes changes to the source code does not know whether or not his her change will impact one or more tests||||||||138..254|1|he she typically just runs all tests to see what type of impact the change to the source code will have on the tests|||||||||||||

@@ -1,0 +1,1 @@
+current signature schemes rely either on integer factorization, discrete logarithm or elliptic curve discrete logarithm problem, all of which can be effectively attacked by a quantum computer. on the other hand bliss on the other hand, is a post quantum algorithm, and is meant to resist quantum computer attacks.

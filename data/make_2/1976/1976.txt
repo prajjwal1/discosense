@@ -1,0 +1,1 @@
+however, as the rotor speed decreases, the commutation position samples become sparser in time, increasing the amount of time required to compute an accurate speed value. as a result the speed computations from commutation information provide a transient response that is too slow for portable ventilator applications.

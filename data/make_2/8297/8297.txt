@@ -1,0 +1,1 @@
+various program analyses can be applied to the ir. in particular expression propagation combines the semantics of several instructions into more complex expressions.

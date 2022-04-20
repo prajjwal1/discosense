@@ -1,0 +1,2 @@
+Explicit|||0..2||if||0|if|||Contingency.Condition|||||||||||66..96|0|the crop will grow more slowly||||||||3..64|0|temperatures are too cold or too dry relative to this optimum|||||||||||||
+Explicit|||108..110||if||1|if|||Contingency.Condition|||||||||||98..107;148..173|1|similarly crop yields will be lower||||||||111..146|1|temperatures are too hot or too wet|||||||||||||

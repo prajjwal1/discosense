@@ -1,0 +1,1 @@
+running a host based scan does not consume network overhead, but can consume processing time and available storage on the host. conversely frequently running a network based scan as part of daily operations increases network traffic during the scan.

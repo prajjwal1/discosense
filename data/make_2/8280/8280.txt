@@ -1,0 +1,1 @@
+in this model, the spin orientation of adjacent mn moments is associated with kinetic exchange of e electrons. consequently alignment of the mn spins by an external magnetic field causes higher conductivity.

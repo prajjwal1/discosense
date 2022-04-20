@@ -1,0 +1,1 @@
+for example, multiple service providers may respond with the same data such as the same job posting. thus the computer program compares the data received by each service provider and displays duplicative data only once.

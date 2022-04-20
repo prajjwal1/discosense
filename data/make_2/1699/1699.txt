@@ -1,0 +1,1 @@
+a strictly conforming application is one that satisfies all must and shall provisions in this document. in contrast a conditionally conforming application is one that satisfies all must provisions in this document, but not all shall provisions.

@@ -1,0 +1,1 @@
+finally, the fourth offset of 110 would define the fourth subfield as beginning at byte 96 and continuing through byte 111. thereafter the 4 individual 16 byte subfields created through the application of the four offsets are concatenated into a single 64 byte field value.

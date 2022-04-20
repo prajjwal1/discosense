@@ -1,0 +1,1 @@
+if apple chose to build arm based pcs, having more than 4 gb of memory could be very useful. thus it would be a big asset to have a mature 64 bit arm chip design with an accompanying operating system and app collection.

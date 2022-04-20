@@ -1,0 +1,1 @@
+you can use success for testing and debugging purposes while developing code for use with the business event system. for example if you are trying to debug multiple subscriptions to the same event, you can modify one of the subscriptions by replacing its rule function with wf rule.

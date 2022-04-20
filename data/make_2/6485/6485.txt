@@ -1,0 +1,1 @@
+most systems within an organization contain the same basic data, redeveloped for a specific purpose. therefore an efficiently designed basic data model can minimize rework with minimal modifications for the purposes of different systems within the organization.

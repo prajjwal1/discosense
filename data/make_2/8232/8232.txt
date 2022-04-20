@@ -1,0 +1,1 @@
+if classification is required, instead of dimension reduction, there are a number of alternative techniques available. for instance the classes may be partitioned, and a standard fisher discriminant or lda used to classify each partition.

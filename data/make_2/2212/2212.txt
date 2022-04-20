@@ -1,0 +1,1 @@
+moreover, reducing the turbine speed reduces the airflow because the compressor runs slower. consequently the turbine inlet temperature remains essentially constant, thus maintaining a high efficiency at partial load.

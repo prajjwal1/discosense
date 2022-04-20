@@ -1,0 +1,1 @@
+after the reconstruction is complete, there no longer is a need for processing the error correction code bits. thereafter processing of the rssi signals and the status of thepanicswitch 114 as described below is performed by the digital signal processor.

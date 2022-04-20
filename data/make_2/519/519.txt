@@ -1,0 +1,1 @@
+however, the penalty for a tlb miss is typically much higher than for a data access a page table walk of a hierarchical page table often involves four or more dram accesses. hence the disclosed techniques can improve performance and reduce power consumption by reducing the number of page table walks.

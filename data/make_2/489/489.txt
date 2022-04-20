@@ -1,0 +1,1 @@
+the values obtained after summation were assigned to a histogram bar. thereafter the sswi histogram was normalized by dividing the bar values to the number of single sweeps included in the analysis.

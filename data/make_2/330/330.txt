@@ -1,0 +1,1 @@
+basically any camera will perform well at higher iso when reduced to web size, just as a benefit of downsampling. specifically i would like to see what is the highest iso one can reasonably use with these cameras for a 7.5 x 10 print.

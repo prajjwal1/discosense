@@ -1,0 +1,1 @@
+the system development is responsible for implementing new features and functionalities to cover functional requirements. in contrast an it operations team monitors as and ensures its maintenance and stable state.

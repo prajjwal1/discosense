@@ -1,0 +1,1 @@
+this enables to work through a proxy object to perform additional functionality when accessing a subject. for example to check the access rights of clients accessing a sensitive object.

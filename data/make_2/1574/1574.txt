@@ -1,0 +1,1 @@
+after removing the mean angular backscatter decrease from the data, shape invariant backscatter is derived and used to generate backscatter grey scale maps. thereafter seafloor areas of different grey scale levels are separated.

@@ -1,0 +1,1 @@
+as a result, the icp framework conceives of the retrofit lifecycle as a continuous loop. similarly opportunities for continuous feedback on how well various methods are performing should be harnessed wherever and whenever possible.

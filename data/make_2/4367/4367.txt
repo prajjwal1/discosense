@@ -1,0 +1,1 @@
+at the beginning, all cognitive patterns of this user are described by simple semantic relations, which are sub properties of cco cognitive characteristic. thereby the most of the topics of the cognitive characteristic relations are information resources from the information service dbpedia and one topic is a information resource from dbtune.

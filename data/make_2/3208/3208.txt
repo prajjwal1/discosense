@@ -1,0 +1,1 @@
+however, the filter 116 are arranged in stripes in the x direction. thereby the number of lines in the transverse direction can be made greater and dots become similar to regular squares so that a natural picture image can be produced.

@@ -1,0 +1,1 @@
+change iterated the string and returned each characters ascii value as a slot in a numeric array. for instance change hello to x would return an array five elements long.

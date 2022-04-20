@@ -1,0 +1,1 @@
+in particular, the construction of the projective harmonic conjugate relation between points is part of the structure of the real projective line. for instance given any pair of points, the point at infinity is the projective harmonic conjugate of their midpoint.

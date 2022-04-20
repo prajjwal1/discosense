@@ -1,0 +1,1 @@
+so today, 23 august 2012, would be stored as 41144, and 23 august 2008 would be stored as 39683. because of this excel needs to know the year in order to calculate the correct number of days.

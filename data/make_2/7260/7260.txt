@@ -1,0 +1,1 @@
+small errors in the detection process greatly affect the pitch of the received signal. as a result single sideband is not used for music or general broadcast.

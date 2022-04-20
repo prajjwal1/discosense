@@ -1,0 +1,1 @@
+those same engineers, however, constantly complain that patching and antivirus software cause performance to deteriorate, and they refuse to comply with our requirements. because of this we isolate the r d network from the rest of our network.

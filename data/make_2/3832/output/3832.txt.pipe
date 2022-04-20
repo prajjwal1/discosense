@@ -1,0 +1,2 @@
+Explicit|||5..9||when||0|when|||Temporal.Synchrony|||||||||||0..3;32..81|0|now it will use due time as a secondary sort criteria||||||||10..30|0|you sort by priority|||||||||||||
+Explicit|||92..94||if||1|if|||Contingency.Condition|||||||||||83..91;112..156|1|likewise it will use priority as a secondary criteria||||||||95..111|1|you sort by time|||||||||||||

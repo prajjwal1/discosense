@@ -1,0 +1,1 @@
+this property is attained because computers have a limited amount of memory and for large problems, not all transpositions can be stored. therefore some transpositions will be calculated more than once.

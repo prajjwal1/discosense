@@ -1,0 +1,2 @@
+Explicit|||0..10||thereafter||0|thereafter|||Temporal.Asynchronous|||||||||||1..2|-1|h||||||||12..51|0|the write pointer is incremented by one|||||||||||||
+Explicit|||53..63||thereafter||1|thereafter|||Temporal.Asynchronous|||||||||||0..51|0|thereafter, the write pointer is incremented by one||||||||64..102|1|the read pointer is incremented by one|||||||||||||

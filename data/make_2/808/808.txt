@@ -1,0 +1,1 @@
+the host 20 file transmit application hxmt of this embodiment of the invention has the ability to substitute tabs for strings of blanks. conversely the data receive application hrcv at host 20 can substitute blanks for tabs.

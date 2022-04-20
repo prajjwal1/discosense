@@ -1,0 +1,1 @@
+all the necessary codecs are built within the multimedia replay, kmp. thereby the video can be played without any additional codecs.

@@ -1,0 +1,1 @@
+ultimately, since the slabs are smaller than the polygons, they provide a significantly easier calculation of texture values. in particular as described to this point, slabs comprise a portion of the result polygon and occur as either a triangle or a four sided polygon.

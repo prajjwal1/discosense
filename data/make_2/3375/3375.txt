@@ -1,0 +1,1 @@
+proponents of unicode argue that this is only true for the simplest cases. for instance in spanish, the digraph ch must be treated as a single letter for alphabetic sorting, but no one proposes to encode it as a single code.

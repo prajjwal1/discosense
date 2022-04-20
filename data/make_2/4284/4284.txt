@@ -1,0 +1,1 @@
+in this particular example, the number of machines fanning in represents the number of emails successfully sent a bit of a subtle point. because of this we can use the length of the context list to increment our counter.

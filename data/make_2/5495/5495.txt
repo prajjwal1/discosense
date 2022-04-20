@@ -1,0 +1,1 @@
+prs taking 20% of flats do not cause flat price to rise. similarly 30% reduction in coe supply do not cause prices to rise.

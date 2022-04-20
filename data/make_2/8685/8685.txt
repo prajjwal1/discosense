@@ -1,0 +1,1 @@
+when all infected files have been cleaned, but the virus remains in the boot sector, files on the system will be infected again. similarly if the boot sectors were disinfected, but the files were still infected, then the boot sector will be re infected.

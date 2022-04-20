@@ -1,0 +1,1 @@
+most computers only perform basic arithmetic operations and can not directly calculate the sine of a given value. instead they use the cordic algorithm or a complex formula such as the following taylor series to compute the value of sine to a high degree of precision.

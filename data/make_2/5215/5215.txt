@@ -1,0 +1,1 @@
+in general, a unix server with a 3270 emulator is the best choice for this. consequently the workstation will talk to the front ending application via an ascii terminal emulation session.

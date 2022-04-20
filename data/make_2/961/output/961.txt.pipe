@@ -1,0 +1,4 @@
+Explicit|||74..78||when||0|when|||Temporal.Synchrony|||||||||||0..73|0|furthermore, since shaders run on the gpu, there is little to no feedback||||||||79..94|0|things go south|||||||||||||
+Explicit|||0..11||furthermore||0|furthermore|||Expansion.Conjunction|||||||||||1..2|-1|u||||||||13..94|0|since shaders run on the gpu, there is little to no feedback when things go south|||||||||||||
+Explicit|||96..107||in contrast||1|in contrast|||Comparison.Contrast|||||||||||0..94|0|furthermore, since shaders run on the gpu, there is little to no feedback when things go south||||||||108..235|1|processing shields users even from the try catch error handling of java and it often specifically points out errors in the code|||||||||||||
+Explicit|||180..183||and||1|and|||Expansion.Conjunction|||||||||||96..179|1|in contrast processing shields users even from the try catch error handling of java||||||||184..235|1|it often specifically points out errors in the code|||||||||||||

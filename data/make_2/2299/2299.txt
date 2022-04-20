@@ -1,0 +1,1 @@
+raising leverage to 501 on the same trade results in a 25% drawdown. consequently during periods of high volatility, the leverage used needs to be dialed down.

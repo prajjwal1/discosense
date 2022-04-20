@@ -1,0 +1,1 @@
+noisy applications can be identified, evaluated and terminated to begin isolating system processes and the communication that is generated. for instance connection attempts to external dns servers or over nonstandard ports through a firewall signal suspicious traffic that might indicate an infection.

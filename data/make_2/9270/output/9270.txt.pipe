@@ -1,0 +1,1 @@
+Explicit|||93..100||instead||1|instead|||Expansion.Alternative|||||||||||0..91|0|for box jenkins models, one does not explicitly remove seasonality before fitting the model||||||||101..205|1|one includes the order of the seasonal terms in the model specification to the arima estimation software|||||||||||||

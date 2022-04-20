@@ -1,0 +1,1 @@
+for security reasons gun log doesnt export your data in anyway. because of this you cannot share data between an iphone and ipad version.

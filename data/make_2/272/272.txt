@@ -1,0 +1,1 @@
+the comparison file name is the base name of the substitute result comparison file. for example some systems interpret very small floating point values as zero, rather than reporting an underflow error.

@@ -1,0 +1,1 @@
+the nilpotency of n can be exploited when calculating f where f is a complex analytic function. for example in principle the jordan form could give a closed form expression for the exponential exp.

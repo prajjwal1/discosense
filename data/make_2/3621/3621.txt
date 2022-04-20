@@ -1,0 +1,1 @@
+we found that, when grasping heavy objects with one hand, humans naturally re oriented the object handle to a preferred configuration prior to lifting the object from the surface. interestingly this pre grasp rotation was not absolutely necessary, because the subjects could still complete the task even when rotation was not permitted.

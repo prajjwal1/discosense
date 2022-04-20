@@ -1,0 +1,1 @@
+second, kempthorne was skeptical of bayesian statistics, which use not only likelihoods but also probability distributions on parameters. nonetheless while subjective probability and bayesian inference were viewed skeptically by kempthorne, bayesian experimental design was defended.

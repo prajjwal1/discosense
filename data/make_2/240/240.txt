@@ -1,0 +1,1 @@
+in a typical video frame, the foreground contains more important information than the background. consequently it is desirable to transmit information corresponding to the foreground at a higher resolution or more frequently than background information.

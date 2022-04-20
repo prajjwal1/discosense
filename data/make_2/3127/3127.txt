@@ -1,0 +1,1 @@
+however, we need to be cautious in that using web services doesnt lead to soa by itself, or implement it. rather since web services are based on industry accepted standards like wsdl, soap, and xml it is one of the best available means to attain soa.

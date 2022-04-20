@@ -1,0 +1,4 @@
+Explicit|||206..210||when||1|when|||Temporal.Synchrony|||||||||||177..205|1|that the web server will use||||||||211..226|1|running foswiki|||||||||||||
+Explicit|||140..153||in particular||1|in particular|||Expansion.Instantiation|||||||||||0..138|0|understanding of how web server security works and how your web server is configured to run cgi scripts or server plugins is also required||||||||154..226|1|you must know the user that the web server will use when running foswiki|||||||||||||
+Explicit|||47..50||and||0|and|||Expansion.Conjunction|||||||||||14..46|0|of how web server security works||||||||51..121|0|how your web server is configured to run cgi scripts or server plugins|||||||||||||
+Explicit|||125..129||also||0|also|||Expansion.Conjunction|||||||||||1..2|-1|n||||||||0..124;130..138|0|understanding of how web server security works and how your web server is configured to run cgi scripts or server plugins is required|||||||||||||

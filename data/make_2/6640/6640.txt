@@ -1,0 +1,1 @@
+an increase of one ev, or one stop, represents a doubling of the amount of light. conversely a decrease of one ev represents a halving of the amount of light.

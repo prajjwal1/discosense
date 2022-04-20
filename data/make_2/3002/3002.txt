@@ -1,0 +1,1 @@
+however, the developers have increased the size of the buffers on commands execution stage. as a result nehalem processors can hold up to 128 micro ops waiting to be executed in the reorder buffer, which is 33% more than core 2 can.

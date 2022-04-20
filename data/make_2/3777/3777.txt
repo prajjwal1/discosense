@@ -1,0 +1,1 @@
+dont create your track at all. rather define it indirectly by placing a bunch of collide able objects around where you want your track to be.

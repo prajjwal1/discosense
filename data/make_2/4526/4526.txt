@@ -1,0 +1,1 @@
+if you dont have too many occurrences of this pattern, you may remove them from the original diagram in juno kepler, then reopen it in luna. otherwise you should simply wait for a fix.

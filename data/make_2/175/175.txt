@@ -1,0 +1,1 @@
+to receive full credit, you need to define an abstract state representation that does not encode irrelevant information. in particular do not use a pacman gamestate as a search state.

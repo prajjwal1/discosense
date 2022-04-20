@@ -1,0 +1,1 @@
+an important feature was that the block graphic characters of code page 437 remained unchanged. in contrast ibms official central european code page 852 did not preserve all block graphics, causing incorrect display in programs such as norton commander.

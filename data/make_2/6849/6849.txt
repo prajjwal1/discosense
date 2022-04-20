@@ -1,0 +1,1 @@
+in order to allow common wired usb devices to be connected, the specification defines device wire adapters. likewise hosts connect to w usb systems through use of a host wire adapter.

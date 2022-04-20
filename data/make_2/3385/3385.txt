@@ -1,0 +1,1 @@
+then that would increase the insentive to remove unnecessary imports. otherwise i would tend to favor something closer to just importing everything.

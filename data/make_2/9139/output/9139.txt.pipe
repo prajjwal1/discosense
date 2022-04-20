@@ -1,0 +1,3 @@
+Explicit|||136..145||similarly||1|similarly|||Expansion.Conjunction|||||||||||0..134|0|for example, the attorney general of colorado in 1936 declared that natives could not vote because they were not citizens of the state||||||||146..191|1|states found ways around voting in other ways|||||||||||||
+Explicit|||0..11||for example||0|for example|||Expansion.Instantiation|||||||||||1..2|-1|o||||||||13..134|0|the attorney general of colorado in 1936 declared that natives could not vote because they were not citizens of the state|||||||||||||
+Explicit|||91..98||because||0|because|||Contingency.Cause|||||||||||68..90|0|natives could not vote||||||||99..134|0|they were not citizens of the state|||||||||||||

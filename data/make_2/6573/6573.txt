@@ -1,0 +1,1 @@
+film style is distinct from film genre, which categorizes films based on similar narrative structures. for instance western films are about the american west, love stories are about love, and so on.

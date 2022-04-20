@@ -1,0 +1,1 @@
+loops were never my strong suit. particularly it seems like its only going to work for a specified number of lines.

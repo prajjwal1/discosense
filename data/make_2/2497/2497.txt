@@ -1,0 +1,1 @@
+both depict the modularity of the present invention at the video analysis and alert levels. in particular a video surveillance analyst can easily reprogram a video surveillance system to accommodate new threat environments by adding new video analysis applications and alert criteria.

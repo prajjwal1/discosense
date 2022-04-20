@@ -1,0 +1,1 @@
+to preserve the highest throughput of the noc, our strategy is to disconnect only the faulty parts of the routers. thereby if an input port router is permanently faulty, it is disabled while maintaining active the others input ports in order to obtain a partial running switch.

@@ -1,0 +1,1 @@
+hadoop is so heavily hyped at the moment that it is difficult to say whether its current experimental use will evolve into a permanent presence in it. overall though, the outlook for big data and big data vendors is oh so sunshiny.

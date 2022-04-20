@@ -1,0 +1,1 @@
+parameters can be selected based of the components that are chosen for a given simulation or selected based of desired operating goals. for instance it may be desirable to have a range of parameters that illustrate the trade offs between higher performance and cost in one example.

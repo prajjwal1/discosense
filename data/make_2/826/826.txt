@@ -1,0 +1,1 @@
+it uses similar rules to automatically guess what kinds of data were produced by the invocation of that form. subsequently daggoo is able to automatically create a biomoby web service wrapper around that web form, and register that new service in the moby central registry.

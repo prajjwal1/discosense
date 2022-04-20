@@ -1,0 +1,1 @@
+it is not always possible to punish the non punishers endlessly since the discount factor makes punishments far away in the future irrelevant for the present. hence a different approach is needed the punishers should be rewarded.

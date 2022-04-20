@@ -1,0 +1,4 @@
+Explicit|||27..29||if||0|if|||Contingency.Condition|||||||||||0..26;82..105|0|if you propose a deal, and dont start name calling||||||||30..80|0|for whatever reason the other owner doesnt like it|||||||||||||
+Explicit|||23..26||and||0|and|||Expansion.Conjunction|||||||||||0..21|0|if you propose a deal||||||||27..80|0|if for whatever reason the other owner doesnt like it|||||||||||||
+Explicit|||0..2||if||0|if|||Contingency.Condition|||||||||||23..105|0|and if for whatever reason the other owner doesnt like it, dont start name calling||||||||3..21|0|you propose a deal|||||||||||||
+Explicit|||116..118||if||1|if|||Contingency.Condition|||||||||||107..115;141..164|1|likewise dont start spouting off||||||||119..139|1|you dont like a deal|||||||||||||

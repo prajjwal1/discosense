@@ -1,0 +1,1 @@
+all routers in the ran will then compute a new next hop forwarding entry for the vhm address. subsequently each router compares the newly computed next hop entry for the vhm address with the old entry in its internal cache routing table.

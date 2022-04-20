@@ -1,0 +1,1 @@
+this implies that we deviate from the classic approach also taken in the two university ranking systems to build a composite indicator by a simple weighted summation of indicators. subsequently a frequency matrix of the university ranks is calculated across the different simulations.

@@ -1,0 +1,1 @@
+in keeping with the dry principle i try to use partials as soon as i am repeating a particular pattern more than once or twice. as a result some of my views consist of ten or more different partials.

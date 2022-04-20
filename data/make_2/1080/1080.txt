@@ -1,0 +1,1 @@
+aptrax only displays total time and application launch count since aptrax was installed. in other words there arent any available filters to display daily app usage, and so on.

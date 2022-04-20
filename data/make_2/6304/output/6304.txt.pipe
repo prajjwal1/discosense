@@ -1,0 +1,2 @@
+Explicit|||109..120||by contrast||1|by contrast|||Comparison.Contrast|||||||||||0..107|0|it is also true that xquery is more orthogonal, in that any expression can be used in any syntactic context||||||||121..231|1|xslt is a two language system in which xpath expressions can be nested in xslt instructions but not vice versa|||||||||||||
+Explicit|||6..10||also||0|also|||Expansion.Conjunction|||||||||||1..2|-1|t||||||||0..5;11..107|0|it is true that xquery is more orthogonal, in that any expression can be used in any syntactic context|||||||||||||

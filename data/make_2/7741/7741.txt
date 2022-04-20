@@ -1,0 +1,1 @@
+the length of each codeword is approximately proportional to the negative logarithm of the probability. therefore the most common symbols use the shortest codes.

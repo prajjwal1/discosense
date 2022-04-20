@@ -1,0 +1,1 @@
+it is often the case that applications sharing resources place a considerable amount of trust in each other. for instance any two unix programs run by the same user can arbitrarily modify each others memory through the debugger system call, ptrace.

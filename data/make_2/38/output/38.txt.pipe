@@ -1,0 +1,4 @@
+Explicit|||16..18||if||0|if|||Contingency.Condition|||||||||||0..15|0|i was wondering||||||||19..86|0|there was an app that would make it appear that your phone was dead|||||||||||||
+Explicit|||161..164||and||1|and|||Expansion.Conjunction|||||||||||100..159|1|if someone sends me a text it will not show up as delivered||||||||165..184|1|if someone calls me|||||||||||||
+Explicit|||100..102||if||1|if|||Contingency.Condition|||||||||||161..184|1|and if someone calls me||||||||103..159|1|someone sends me a text it will not show up as delivered|||||||||||||
+Explicit|||165..167||if||1|if|||Contingency.Condition|||||||||||100..164|1|if someone sends me a text it will not show up as delivered, and||||||||168..184|1|someone calls me|||||||||||||

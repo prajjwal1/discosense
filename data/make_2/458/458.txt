@@ -1,0 +1,1 @@
+the media server is prepared for testing by generating signatures for each chunk and storing these signatures in a chunk signature database. thereafter the testing of the server performed, in which a series of requests are sent to the media server.

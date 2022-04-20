@@ -1,0 +1,1 @@
+in this case, the price variable is said to have total endogeneity once the demand and supply curves are known. in contrast a change in consumer tastes or preferences would be an exogenous change on the demand curve.

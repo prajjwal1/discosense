@@ -1,0 +1,1 @@
+shiwa was designed as a user centred project aiming at lowering barriers among scientific communities by providing services tackling interoperability issues. in particular shiwa work program focuses on improving the efficiency of workflow based in silico experiments by targeting the following three objectives.

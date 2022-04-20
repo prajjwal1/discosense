@@ -1,0 +1,1 @@
+the force due to acceleration, and the thrust pressure. thus just scaling up the size of an object, keeping the same material of construction, and same acceleration, would increase the thrust by the same scaling factor.

@@ -1,0 +1,1 @@
+it has rolled out several versions of platforms based on subsets of its windows code, but it has often taken heat for not providing adequate support, especially for real time features. nevertheless it has a significant installed base in embedded systems, a wide community of windows developers, and an opportunity to tie together its device software with azure cloud services.

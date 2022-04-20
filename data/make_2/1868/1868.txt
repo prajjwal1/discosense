@@ -1,0 +1,1 @@
+the code is user interactive and requests input by prompting questions with suggested input. therefore the user can actually learn about the nature of crude oil and oil weathering by using this code.

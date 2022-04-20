@@ -1,0 +1,1 @@
+by the reactive sputtering, a dc voltage is applied to a metal target in a vacuum chamber to generate plasma. thereby atoms sputtered from the metal target by the generated plasma are reacted with reactive gas introduced into the vacuum chamber.

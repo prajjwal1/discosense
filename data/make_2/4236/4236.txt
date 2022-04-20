@@ -1,0 +1,1 @@
+it was discovered that due to a bug in the associated software, mos calibrations taken since july 13,201 1 were systematically taken without slit 19. in other words there has been no flat or wave taken for this slit since the above mentioned date.

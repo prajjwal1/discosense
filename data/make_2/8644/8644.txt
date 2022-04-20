@@ -1,0 +1,1 @@
+the players dont actually see the players swing or make plays. instead the player picks from a list of managerial choices, and the outcome of each play is printed onscreen in a running box score.

@@ -1,0 +1,1 @@
+perl 6 is a very flexible language that combines a number of different programming paradigms to support various programmers and varying programming tasks. because of this timtowtdi philosophy, perl 6 is a very big programming language with lots of different features and capabilities.

@@ -1,0 +1,1 @@
+proof of space is a protocol similar to proof of secure erasure in that both require the prover to dedicate a specific amount of memory to convince the verifier. nevertheless there are important differences in their design considerations.

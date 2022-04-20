@@ -1,0 +1,1 @@
+on the other hand, player ii has a very simple winning strategy if x is an uncountable discrete space. thus player i did not manage to build a nbhd base at any point that player ii didnt pick, so player i does loses, and player ii wins.

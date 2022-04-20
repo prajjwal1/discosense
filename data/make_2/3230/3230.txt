@@ -1,0 +1,1 @@
+for those implementing web services, i find it unacceptable that users passwords would be stored in such a way. in short it shows a disrespect for their users sensitive information.

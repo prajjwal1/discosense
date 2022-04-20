@@ -1,0 +1,1 @@
+recent studies of optimizing the euv mask features and the illumination shape simultaneously have indicated that different patterns in the same metal layer could require different illuminations. on the other hand a single exposure only offers a single illumination.

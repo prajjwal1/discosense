@@ -1,0 +1,1 @@
+a positive interaction is one where the interaction results in one of the proteins being activated. conversely a negative interaction indicates that one of the proteins being inactivated.

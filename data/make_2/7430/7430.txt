@@ -1,0 +1,1 @@
+after the machine is started, the voltage on the terminal electrode increases until the leakage current from the electrode equals the rate of charge transport. therefore leakage from the terminal determines the maximum voltage attainable.

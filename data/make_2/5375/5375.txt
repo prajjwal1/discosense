@@ -1,0 +1,1 @@
+in my case, the company i work for uses windows and they have a global policy to encrypt local hard drives. as a result a wubi installation would not work.

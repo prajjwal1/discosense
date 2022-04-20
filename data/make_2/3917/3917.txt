@@ -1,0 +1,1 @@
+inadequate test coverage can deceive. for instance 95 percent ratio with 70 percent coverage is bad compared to 80 percent ratio with 90 percent coverage.

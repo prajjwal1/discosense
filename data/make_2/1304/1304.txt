@@ -1,0 +1,1 @@
+because this secure memory is invisible and inaccessible to software which may have malware thereon, the risk of losing control over the plain text data tohackersis virtually eliminated. thereafter the plain text data 3804 is provided to encryption engine 3802, which encrypts data 3806 using key 2.

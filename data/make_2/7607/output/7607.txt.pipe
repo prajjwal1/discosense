@@ -1,0 +1,4 @@
+Explicit|||87..104||on the other hand||1|on the other hand|||Comparison.Contrast|||||||||||0..85|0|the goods must be sold before the principal can be handed back, and the profits split||||||||105..214|1|the investor is allowed to buy goods from the agent if he does not connect any conditions to this transaction|||||||||||||
+Explicit|||64..67||and||0|and|||Expansion.Conjunction|||||||||||0..62|0|the goods must be sold before the principal can be handed back||||||||68..85|0|the profits split|||||||||||||
+Explicit|||23..29||before||0|before|||Temporal.Asynchronous|||||||||||0..22|0|the goods must be sold||||||||30..62|0|the principal can be handed back|||||||||||||
+Explicit|||157..159||if||1|if|||Contingency.Condition|||||||||||129..156|1|to buy goods from the agent||||||||160..214|1|he does not connect any conditions to this transaction|||||||||||||

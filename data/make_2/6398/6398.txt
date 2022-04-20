@@ -1,0 +1,1 @@
+the ratio of wins to losses and ties, expressed as a pair or trio of numbers. for example 6 1 means 6 wins and 1 loss and 5 3 1 means 5 wins, 3 losses and 1 tie.

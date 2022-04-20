@@ -1,0 +1,1 @@
+the regeneration must be accurately controlled because it is very important to provide a clock that is centered over each pixel and does not drift. thus a clock must be recreated that can be used to sample a pixel and move to the next pixel.

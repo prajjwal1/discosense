@@ -1,0 +1,1 @@
+line editors keep a reference to the current line to which the entered commands usually are applied. in contrast modern screen based editors allow the user to interactively and directly navigate, select, and modify portions of the document.

@@ -1,0 +1,1 @@
+at any given point in time, is it clearly defined which triples are contained in it. for example considering a web service which returns different rdf data based on the clients ip address, we would have to sayno.

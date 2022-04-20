@@ -1,0 +1,1 @@
+it then retrieves one or more programs over the network, and then installs them at the client computer 1001, but without the use of a persistent storage mechanism. thus although the program is executed on the client computer 1001, the embedded program must be downloaded each time it is encountered because no persistent storage mechanism is used.

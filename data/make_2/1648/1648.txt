@@ -1,0 +1,1 @@
+gnp uses only the values of output currently produced. therefore it excludes sales of used cars and existing houses.

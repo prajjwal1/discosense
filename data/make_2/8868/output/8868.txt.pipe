@@ -1,0 +1,3 @@
+Explicit|||110..121||in contrast||1|in contrast|||Comparison.Contrast|||||||||||0..108|0|two binary variables are considered positively associated if most of the data falls along the diagonal cells||||||||122..222|1|two binary variables are considered negatively associated if most of the data falls off the diagonal|||||||||||||
+Explicit|||58..60||if||0|if|||Contingency.Condition|||||||||||36..57|0|positively associated||||||||61..108|0|most of the data falls along the diagonal cells|||||||||||||
+Explicit|||180..182||if||1|if|||Contingency.Condition|||||||||||158..179|1|negatively associated||||||||183..222|1|most of the data falls off the diagonal|||||||||||||

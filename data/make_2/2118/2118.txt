@@ -1,0 +1,1 @@
+the effect of this physical configuration is that the antenna excites two continuous slots across its entire width when transceiving radiation. specifically patch 50 and patch 70 are physically disposed at 180 degrees to one another, and they are fed with signals which are 180 degrees out of phase from one another.

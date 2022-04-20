@@ -1,0 +1,1 @@
+however, callers and callees may also select authorized incoming calling parties that follow the callers and callees to whichever telephony device being utilized. in particular filtering preferences for incoming calling parties may be specified according to an incoming calling party authenticated identity.

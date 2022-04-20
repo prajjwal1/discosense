@@ -1,0 +1,1 @@
+the dot matrix construct highlights the absolute numbers of shots, hits and misses but barely addresses the key issue of hit rates. specifically this data set was presumably collected to explore the relationship between hit rates and distances from the target.

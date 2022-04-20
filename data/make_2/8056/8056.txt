@@ -1,0 +1,1 @@
+each instruction executed by a scalar processor typically manipulates one or two data items at a time. by contrast each instruction executed by a vector processor operates simultaneously on many data items.

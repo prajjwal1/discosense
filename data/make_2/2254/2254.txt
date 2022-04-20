@@ -1,0 +1,1 @@
+usually you can match a data value to its name by simply looking at the xml code. for example data about the machine the command ran on is enclosed in xml tags in this manner.

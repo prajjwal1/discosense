@@ -1,0 +1,2 @@
+Explicit|||0..2||if||0|if|||Contingency.Condition|||||||||||66..145|0|they are restricted from making any lotusscript or java changes to the database||||||||3..64|0|you dont allow designers to create lotusscript or java agents|||||||||||||
+Explicit|||147..156||otherwise||1|otherwise|||Expansion.Alternative|||||||||||0..145|0|if you dont allow designers to create lotusscript or java agents, they are restricted from making any lotusscript or java changes to the database||||||||157..189|1|their rights are nearly complete|||||||||||||

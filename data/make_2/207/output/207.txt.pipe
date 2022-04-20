@@ -1,0 +1,2 @@
+Explicit|||148..162||in other words||1|in other words|||Expansion.Restatement|||||||||||0..146|0|another rate control issue involves the presentation time of decoded information frames in relation to the time the buffer receives the next frame||||||||163..248|1|the next i frame must be delivered to the decoder buffer before the buffer is emptied|||||||||||||
+Explicit|||220..226||before||1|before|||Temporal.Asynchronous|||||||||||148..219|1|in other words the next i frame must be delivered to the decoder buffer||||||||227..248|1|the buffer is emptied|||||||||||||

@@ -1,0 +1,1 @@
+two binary variables are considered positively associated if most of the data falls along the diagonal cells. in contrast two binary variables are considered negatively associated if most of the data falls off the diagonal.

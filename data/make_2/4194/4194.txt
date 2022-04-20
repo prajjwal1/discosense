@@ -1,0 +1,1 @@
+it verifies spatially resolved current distribution measurements of a pemfc with straight, parallel gas channels. thereby the calculations can be used for the optimisation of the operating performance of pemfc systems.

@@ -1,0 +1,6 @@
+Explicit|||63..75||consequently||1|consequently|||Contingency.Cause|||||||||||0..61|0|regurgitation often occurs after overfeeding, or with burping||||||||76..240|1|breastfed babies tend to spit up less than bottle fed babies, because they usually take in only as much milk as they need, and because they tend to swallow less air|||||||||||||
+Explicit|||203..210||because||1|because|||Contingency.Cause|||||||||||138..202|1|because they usually take in only as much milk as they need, and||||||||211..240|1|they tend to swallow less air|||||||||||||
+Explicit|||185..187||as||1|as|||Temporal.Synchrony|||||||||||138..184;199..240|1|because they usually take in only as much milk and because they tend to swallow less air||||||||188..197|1|they need|||||||||||||
+Explicit|||138..145||because||1|because|||Contingency.Cause|||||||||||98..136|1|to spit up less than bottle fed babies||||||||146..240|1|they usually take in only as much milk as they need, and because they tend to swallow less air|||||||||||||
+Explicit|||27..32||after||0|after|||Temporal.Asynchronous|||||||||||46..61|0|or with burping||||||||33..44|0|overfeeding|||||||||||||
+Explicit|||199..202||and||1|and|||Expansion.Conjunction|||||||||||185..197|1|as they need||||||||203..240|1|because they tend to swallow less air|||||||||||||

@@ -1,0 +1,1 @@
+i tried to get more information about kopete for kde 4.0 but there are no news yet. however despite the announcements it is still part of svn and was released as part of kde 4.0 beta 1.

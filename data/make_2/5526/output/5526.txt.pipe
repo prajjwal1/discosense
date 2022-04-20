@@ -1,0 +1,1 @@
+Explicit|||132..139||thereby||1|thereby|||Contingency.Cause|||||||||||0..130|0|the mpu prefetches an instruction to be executed but is brought into a stopped condition when the spu is in an executing condition||||||||140..193|1|useless prefetch and discarded prefetch are prevented|||||||||||||

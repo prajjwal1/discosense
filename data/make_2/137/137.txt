@@ -1,0 +1,1 @@
+in this paper, we explore queueing principles that underlie network calculus and exemplify their use. particularly based on the network calculus queueing principles, we show that for gi gi 1, similar inequalities in the theory of queues can be derived.

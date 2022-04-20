@@ -1,0 +1,4 @@
+Explicit|||119..126||because||1|because|||Contingency.Cause|||||||||||104..118|1|create a class||||||||127..147|1|you think you should|||||||||||||
+Explicit|||45..47||so||0|so|||Contingency.Cause|||||||||||0..43|0|there is no need to encapsulate the integer||||||||48..82|0|there is no need to create a class|||||||||||||
+Explicit|||84..98||in other words||1|in other words|||Expansion.Restatement|||||||||||0..82|0|there is no need to encapsulate the integer, so there is no need to create a class||||||||99..198|1|dont create a class because you think you should, create a class because it makes your code simpler|||||||||||||
+Explicit|||164..171||because||1|because|||Contingency.Cause|||||||||||84..163|1|in other words dont create a class because you think you should, create a class||||||||172..198|1|it makes your code simpler|||||||||||||

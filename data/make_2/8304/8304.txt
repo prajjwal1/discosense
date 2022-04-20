@@ -1,0 +1,1 @@
+it applies a hash function to the username and password before sending them over the network. in contrast basic access authentication uses the easily reversible base 64 encoding instead of encryption, making it non secure unless used in conjunction with tls.

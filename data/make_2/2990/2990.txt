@@ -1,0 +1,1 @@
+the position and angle of a conventional robot arm inserted into the body are limited. in contrast according to the present invention, a plurality of robot arms ra may be mounted on a single robot arm stand rs.

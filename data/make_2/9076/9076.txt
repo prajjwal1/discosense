@@ -1,0 +1,1 @@
+from 16 march 2015, opera minis extreme compression mode uses an upgraded version of the presto layout engine that is included in opera 12. consequently opera mini supports most of the web standards supported in opera 12.

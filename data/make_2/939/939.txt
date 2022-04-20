@@ -1,0 +1,1 @@
+a connection device for making such a connection includes a base member of maximum length and a driver member of minimum length. similarly pins 21 and 24 are respectively connected to bus boards at intermediate levels.

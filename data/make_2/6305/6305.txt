@@ -1,0 +1,1 @@
+like an asic, it is optimized in relation to the flow of packets instead of the flow of instructions through a risc core. as a result processing speed is predictable rather than variable.

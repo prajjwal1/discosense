@@ -1,0 +1,1 @@
+this permits the use of a centralized image analysis system 120 which may receive images from multiple offices that may be located anywhere in the world. similarly the analyzed images output may be sent to review stations anywhere in the world.

@@ -1,0 +1,1 @@
+coupons cannot be accepted toward any item that is given free based on our stores advertised sale. for example if an item is advertised as buy 1 get 1 free, and the customer selects two, they may only redeem one manufacturers coupon.

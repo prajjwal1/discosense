@@ -1,0 +1,2 @@
+Explicit|||285..295||as long as||1|as long as|||Temporal.Synchrony|||||||||||296..304|1|doing so||||||||296..304|1|doing so|||||||||||||
+Explicit|||164..173||similarly||1|similarly|||Expansion.Conjunction|||||||||||0..162|0|that being stated, it would be just as silly to use a stringbuilder for simple concatenations outside of a loopjust in casethat code was ever placed within a loop||||||||174..337|1|its not premature optimization to write a conditional such that the most likely condition is encountered first as long as doing so does not make the code confusing|||||||||||||

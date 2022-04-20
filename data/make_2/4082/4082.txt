@@ -1,0 +1,1 @@
+if the collections pane has focus, a report is generated for the selected collection. otherwise a report is generated for the currently selected items.

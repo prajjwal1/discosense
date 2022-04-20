@@ -1,0 +1,1 @@
+all of these multiplexed signals are bandwidth reduced rz signals, and can form a high density wavelength division multiplexing system using a simple structure in comparison to conventional technology. thereby the loss of the optical modulator is decreased and enhancing the high speed operation of the optical modulator becomes easy.

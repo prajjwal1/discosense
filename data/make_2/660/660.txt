@@ -1,0 +1,1 @@
+if you end up deciding to postpone the upgrade based on the results of the test, it actually saved you from a lot of trouble. instead if you go through the testing with the mindset that youre going to upgrade no matter what the test results are, youre just wasting time.

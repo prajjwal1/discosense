@@ -1,0 +1,1 @@
+bioinformatic tools have been developed to simplify the difficult task of visualizing molecular interaction networks and complement them with other types of data. for instance cytoscape is an open source software widely used and lots of plugins are currently available.

@@ -1,0 +1,1 @@
+the different rings were displayed on the operators panel. for example ring 0 may have held a user program, while compilers and assemblers ran in ring 1.

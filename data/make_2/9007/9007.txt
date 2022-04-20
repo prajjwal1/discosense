@@ -1,0 +1,1 @@
+note that commutativity is crucial here it ensures that the sum of two group homomorphisms is again a homomorphism. in contrast the category of all groups is not closed.

@@ -1,0 +1,1 @@
+Explicit|||152..163||by contrast||1|by contrast|||Comparison.Contrast|||||||||||0..150|0|relay agent forwarding is distinct from the normal forwarding of an ip router, where ip datagrams are switched between networks somewhat transparently||||||||164..268|1|relay agents receive dhcp messages and then generate a new dhcp message to send out on another interface|||||||||||||

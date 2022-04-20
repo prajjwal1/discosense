@@ -1,0 +1,1 @@
+the process having the highest priority takes first position in sorted array. hence hence priority wise system processes scheduling is done.

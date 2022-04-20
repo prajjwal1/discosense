@@ -1,0 +1,1 @@
+this provides a means of removing software specific for an ou when the user computer no longer belongs to that ou. for instance a users account belongs to an accounting ou and has special accounting software deployed.

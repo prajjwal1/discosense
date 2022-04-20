@@ -1,0 +1,4 @@
+Explicit|||23..26||and||0|and|||Expansion.Conjunction|||||||||||0..22|0|we all lead busy lives||||||||27..133|0|when you hear bits of information that sound plausible, you dont have time to read the supporting research|||||||||||||
+Explicit|||135..147||consequently||1|consequently|||Contingency.Cause|||||||||||0..133|0|we all lead busy lives and when you hear bits of information that sound plausible, you dont have time to read the supporting research||||||||148..235|1|a manufacturer might believe theyve found a much better product when they really havent|||||||||||||
+Explicit|||212..216||when||1|when|||Temporal.Synchrony|||||||||||190..211|1|a much better product||||||||217..235|1|they really havent|||||||||||||
+Explicit|||27..31||when||0|when|||Temporal.Asynchronous|||||||||||83..133|0|you dont have time to read the supporting research||||||||32..81|0|you hear bits of information that sound plausible|||||||||||||

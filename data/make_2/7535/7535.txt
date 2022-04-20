@@ -1,0 +1,1 @@
+orin specifications are on software only and are independent from hardware. therefore orin can be smoothly integrated with other existing technologies only by developing software.

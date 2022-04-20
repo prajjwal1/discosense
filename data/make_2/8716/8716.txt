@@ -1,0 +1,1 @@
+with its built in mission editing features, the game engine does not limit the gameplay to any specific mode. instead the choice of mission type is left to the mission author.

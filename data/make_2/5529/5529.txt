@@ -1,0 +1,1 @@
+companies often have several blogs listed in our database. for instance all of hewlett packards numerous blogs are being tracked naturally, the best one will be included in the index.

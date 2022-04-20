@@ -1,0 +1,1 @@
+the hardware security module protects the sensitive encryption information from tampering and theft. particularly the hardware security module is configured such that if it is opened, the encryption keys are destroyed such that they cannot be stolen or copied.

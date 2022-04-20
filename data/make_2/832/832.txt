@@ -1,0 +1,1 @@
+a router satisfies selected host commands without involving the controller. for instance the router carries out host read write commands by conducting data between physical data storage and the host, bypassing the controller and thereby reducing controller workload.

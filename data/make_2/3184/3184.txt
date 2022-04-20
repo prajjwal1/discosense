@@ -1,0 +1,1 @@
+i am then pulling a page of most favorited images. however i only want the images to show there if the parent post status is publish.

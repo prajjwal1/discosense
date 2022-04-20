@@ -1,0 +1,1 @@
+users tend to read only interactive control labels, especially those that appear relevant to completing the task at hand. by contrast users read static text when they think they need to.

@@ -1,0 +1,1 @@
+generic functionality by default, the solution is already equipped with a lot of standard generic functionality. for instance for instance dms, document generation, auto e mails, sms, messaging, advanced search, browse through data and export.

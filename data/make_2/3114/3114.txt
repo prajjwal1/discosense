@@ -1,0 +1,1 @@
+we can separately count the steps that lead up to contribution, but this is a supporting metric, and not part of this dashboard plan. for example forking a repository is an indication that someone is considering contribution, but submitting a pull request is the point when they contribute.

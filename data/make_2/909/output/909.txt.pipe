@@ -1,0 +1,1 @@
+Explicit|||48..55||instead||1|instead|||Expansion.Alternative|||||||||||0..46|0|these system calls should not be used directly||||||||56..151|1|the higher level interface provided by the numa functions in the numactl package is recommended|||||||||||||

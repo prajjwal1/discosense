@@ -1,0 +1,1 @@
+many embedded computing systems are space and cost sensitive. as a result available memory is limited, posing serious constraints on program size.

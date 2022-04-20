@@ -1,0 +1,1 @@
+relay agent forwarding is distinct from the normal forwarding of an ip router, where ip datagrams are switched between networks somewhat transparently. by contrast relay agents receive dhcp messages and then generate a new dhcp message to send out on another interface.

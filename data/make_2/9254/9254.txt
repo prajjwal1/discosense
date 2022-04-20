@@ -1,0 +1,1 @@
+traditional x ray machines detect hard and soft materials by the variation in x ray intensity transmitted through the target. in contrast backscatter x ray detects the radiation that reflects from the target.

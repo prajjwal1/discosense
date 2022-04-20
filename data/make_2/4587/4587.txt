@@ -1,0 +1,1 @@
+further, the pressure transducer mentioned above is not suitable for the mass production in view of the structure thereof. particularly it is true in the structure of the electrodes which are provided for electrically connecting the strain gauges within the vacuum chamber to the outside.

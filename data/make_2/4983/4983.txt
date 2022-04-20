@@ -1,0 +1,1 @@
+it should be noted that fifo buffer 24 only needs to hold the number of lines that were updated in one checkpoint period. hence fifo buffer 24 does not need to be as large as fifo buffer 14.

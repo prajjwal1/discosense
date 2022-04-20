@@ -1,0 +1,1 @@
+different modeling languages can be integrated with rules of explosions, decompositions and reusable modeling concepts of various sizes. for example an explosion rule may say that the domain concept product feature may have one or more state diagrams illustrating its behaviour.

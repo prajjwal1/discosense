@@ -1,0 +1,1 @@
+operators are not required to know the underlying principles of a system, to perform a rule based control. for example hospitals have highly proceduralised instructions for fire emergencies.

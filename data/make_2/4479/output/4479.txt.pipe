@@ -1,0 +1,3 @@
+Explicit|||98..111||in particular||1|in particular|||Expansion.Instantiation|||||||||||0..96|0|if someone asks you to give up a seat or move over to accommodate someone, please cheerily agree||||||||112..221|1|the row of seats nearest the door is reserved by law for seniors and persons with disabilities when necessary|||||||||||||
+Explicit|||0..2||if||0|if|||Contingency.Condition|||||||||||75..96|0|please cheerily agree||||||||3..73|0|someone asks you to give up a seat or move over to accommodate someone|||||||||||||
+Explicit|||207..211||when||1|when|||Temporal.Synchrony|||||||||||112..206;212..221|1|the row of seats nearest the door is reserved by law for seniors and persons with disabilities necessary||||||||98..111|1|in particular|||||||||||||

@@ -1,0 +1,1 @@
+therefore, in this paper, we developed an eoq model under trade credit financing with ramp type demand and the demand dependent production rate. subsequently the algorithms are proposed to decide the optimal replenishment cycle and the optimal order quantity for the retailer.

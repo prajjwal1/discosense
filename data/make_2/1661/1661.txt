@@ -1,0 +1,1 @@
+saturated colors also appear grainy, despite high resolutions and, likewise, densities. particularly solid greens can also appear grainy, leading to pattern visibility or what many have called checkerboarding.

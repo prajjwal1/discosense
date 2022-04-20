@@ -1,0 +1,1 @@
+the gist is that one defines a map of properties, and implements a typeclass for accessing them. subsequently one defines a typeclass for each property, whose default methods know how to query them from the properties map.

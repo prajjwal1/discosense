@@ -1,0 +1,1 @@
+even tho its unix based, it runs on c based programming. therefore if you want to learn a language, go with c java.

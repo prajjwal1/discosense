@@ -1,0 +1,1 @@
+software based xml acceleration is ideally suited to theelasticamazon ec 2 cloud, since the more cpu power you add to it, the faster it goes. by contrast asic based xml acceleration products are notelastic, which means they are grounded, not possible to instantiate them asinstancesin the amazon ec 2 cloud.

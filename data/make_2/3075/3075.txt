@@ -1,0 +1,1 @@
+of course, it will work straight away on java classes configured with hibernate xml or entity annotations. although im sure thats not a great option for many.

@@ -1,0 +1,1 @@
+a boundary of conventional dft is theuniform electron gas, which of course extends to infinity. in other words it is diffuse.

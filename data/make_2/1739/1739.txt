@@ -1,0 +1,1 @@
+in this example, job posting 61 calls for a job seeker with, among other things, a bachelors degree in computer science and experience in development in html and asp. similarly a resume 71 represents another data set that comprises information about a job seeker.

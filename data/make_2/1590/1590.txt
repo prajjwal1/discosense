@@ -1,0 +1,1 @@
+either today or tomorrow, apple would release an iphone firmware which would increment the baseband. thereby losing support for the sim interposers available in the market.

@@ -1,0 +1,1 @@
+it is also true that xquery is more orthogonal, in that any expression can be used in any syntactic context. by contrast xslt is a two language system in which xpath expressions can be nested in xslt instructions but not vice versa.

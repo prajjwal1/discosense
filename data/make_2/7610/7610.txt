@@ -1,0 +1,1 @@
+in solid mechanics, quasistatic loading refers to loading where inertial effects are negligible. in other words time and inertial force are irrelevant.

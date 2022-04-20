@@ -1,0 +1,1 @@
+the purpose is to allow access to material for confiscation or digital forensics purposes and use it either as evidence in a court of law or to enforce national security interests. similarly mandatory decryption laws force owners of encrypted data to supply decrypted data to law enforcement.

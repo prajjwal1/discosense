@@ -1,0 +1,1 @@
+without using numerous toggle buttons they may also, depending on your design, struggle to portray which mode the button is on. for instance if it were a volume on off toggle will your design clearly show the current state without the user needing the opposite state to understand.

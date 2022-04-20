@@ -1,0 +1,1 @@
+the player directs ristar to move through them to collect them, similar to the manner in which sonic the hedgehog collects rings, or mario collects coins in their respective games. similarly collecting 100 earns ristar another life.

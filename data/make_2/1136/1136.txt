@@ -1,0 +1,1 @@
+this thesis describes the development of a system for the procedural generation and painterly rendering of trees. specifically the rendered trees are modeled after those found in the oil landscape paintings of 19th century french painter camille.

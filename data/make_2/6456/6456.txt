@@ -1,0 +1,1 @@
+the difficulty of training comes from there being many more observations than there are labels. for example for example in speech audio there can be multiple time slices which correspond to a single phoneme.

@@ -1,0 +1,1 @@
+to distinguish between the two, the use case diagram and abuse case diagrams are kept separate, and related. hence hence abuse cases do not appear in the use case diagrams and vice versa.

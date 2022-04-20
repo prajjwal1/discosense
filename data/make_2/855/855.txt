@@ -1,0 +1,1 @@
+by comparing dna sequences from hundreds to thousands of people either with or without a given disease, researchers have been able to identify regions containing variants that are associated with disease. interestingly more than 90 percent of these variants have been found in non coding regions.

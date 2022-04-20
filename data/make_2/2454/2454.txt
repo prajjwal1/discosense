@@ -1,0 +1,1 @@
+the most you can do is buy more expensive hardware for your database server, but that only takes you so far. therefore the database always becomes a bottleneck and slows down your java applications and may even grind it to a halt if too much load is put on it.

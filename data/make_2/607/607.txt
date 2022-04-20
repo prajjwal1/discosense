@@ -1,0 +1,1 @@
+systems, methods, and software for archiving structured data and associated unstructured data associated are disclosed. particularly the structured and unstructured data are archived such that the structured data and the unstructured data remain associated to each other.

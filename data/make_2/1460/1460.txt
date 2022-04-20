@@ -1,0 +1,1 @@
+in each series, look for the degree and direction of change between the numbers. in other words do the numbers increase or decrease, and by how much.

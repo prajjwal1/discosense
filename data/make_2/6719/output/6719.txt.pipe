@@ -1,0 +1,4 @@
+Explicit|||0..7||however||0|however|||Comparison.Contrast|||||||||||1..2|-1|o||||||||9..60|0|they can also be awarded for specific recent events|||||||||||||
+Explicit|||62..74||for instance||1|for instance|||Expansion.Instantiation|||||||||||0..60|0|however, they can also be awarded for specific recent events||||||||75..193|1|kofi annan was awarded the 2001 peace prize just four years after becoming the secretary general of the united nations|||||||||||||
+Explicit|||135..140||after||1|after|||Temporal.Asynchronous|||||||||||62..134|1|for instance kofi annan was awarded the 2001 peace prize just four years||||||||141..193|1|becoming the secretary general of the united nations|||||||||||||
+Explicit|||18..22||also||0|also|||Expansion.Conjunction|||||||||||0..13|0|however, they||||||||14..17;23..60|0|can be awarded for specific recent events|||||||||||||

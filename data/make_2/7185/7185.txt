@@ -1,0 +1,1 @@
+at the lf band and below, it is far above the thermal noise floor in receiver circuits. therefore inefficient antennas much smaller than the wavelength are adequate for reception.

@@ -1,0 +1,2 @@
+Explicit|||0..5||after||0|after|||Temporal.Asynchronous|||||||||||38..109|0|there no longer is a need for processing the error correction code bits||||||||6..36|0|the reconstruction is complete|||||||||||||
+Explicit|||111..121||thereafter||1|thereafter|||Temporal.Asynchronous|||||||||||0..109|0|after the reconstruction is complete, there no longer is a need for processing the error correction code bits||||||||122..253|1|processing of the rssi signals and the status of thepanicswitch 114 as described below is performed by the digital signal processor|||||||||||||

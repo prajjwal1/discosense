@@ -1,0 +1,1 @@
+another hint at the existence of an intriguing relation between the two categories is the relation to the invariant called the cuplength. thus the real cuplength turns out to be a lower bound for both categories.

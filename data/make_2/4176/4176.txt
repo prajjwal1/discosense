@@ -1,0 +1,1 @@
+only a few oculus demos were available for gnu linux, due to there not being a release of the official sdk. because of that proprietary demos like team fortress 2 also do not include rift support.

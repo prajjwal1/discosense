@@ -1,0 +1,1 @@
+it is noted that the game may be configured to support selection of the characters using other actuators on the controller. for instance in one implementation, a player can depress a button or trigger to cycle through the character profiles of the squad status display 310 in clockwise or counter clockwise rotation.

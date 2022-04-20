@@ -1,0 +1,1 @@
+now, when you sort by priority, it will use due time as a secondary sort criteria. likewise if you sort by time it will use priority as a secondary criteria.

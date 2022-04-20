@@ -1,0 +1,1 @@
+as files are added to a folder, the script will automatically set their extensions to be shown. for example it could be useful to attach such a folder action to downloads, documents and the desktop, or any other folder which frequently receives files withhide extensionchecked.

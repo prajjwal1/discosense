@@ -1,0 +1,1 @@
+perform this task to map ipv 6 addresses to atm and frame relay pvcs. specifically the steps in this section explain how to explicitly map ipv 6 addresses to the atm and frame relay pvcs used to reach the addresses.

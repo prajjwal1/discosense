@@ -1,0 +1,1 @@
+this is an attractive algorithm because nearly sorted sequences are common in practice. thus the performance of existing sort algorithms can be improved by taking into account the existing order in the input.

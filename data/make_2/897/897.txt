@@ -1,0 +1,1 @@
+clamping on a small area, to get the workholding out the way, typically translates to low holding force. thus five axis machining frequently ends up being delicate machining.

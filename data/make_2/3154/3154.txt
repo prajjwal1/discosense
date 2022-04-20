@@ -1,0 +1,1 @@
+in section iii b, we present a mathematical model of the window control algorithm. in particular it does not penalize flows with large propagation delays and it achieves weighted proportional fairness.

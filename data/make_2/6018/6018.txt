@@ -1,0 +1,1 @@
+hence lightning causes crashing noises when picked up by an am radio near a storm. in contrast fm suppresses short term changes in amplitude and is therefore much less prone to noise during storms and during reception of electrical noise impulses.

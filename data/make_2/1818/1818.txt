@@ -1,0 +1,1 @@
+however, the present inventors have discovered that this assumption does not hold for the ftp protocol and for xml. for example the data that should be extracted from a monitored device may be different depending upon the vendor and the particular ftp file.

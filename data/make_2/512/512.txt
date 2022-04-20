@@ -1,0 +1,1 @@
+in the case of a recorded track, a freeze operation of the reproduced output of the head 5 is executed. thereafter similar to step 3 5, the switch sw. sub. 3 is switched to make the memory controller 23 operative and the frozen video image is supplied to the monitor 30.

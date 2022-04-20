@@ -1,0 +1,1 @@
+it is important to note that an excessively high concentration of stable isotope internal standard may cause ion suppression itself, since it will co elute with the analyte of interest. hence the internal standard should be added at an appropriate concentration.

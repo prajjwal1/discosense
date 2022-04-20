@@ -1,0 +1,1 @@
+the new gain can be used to correct the erroneous determination of the gray region due to the overlapping regions therebetween. thereby it obtains a more accurate image.

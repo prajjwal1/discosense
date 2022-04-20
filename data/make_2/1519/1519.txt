@@ -1,0 +1,1 @@
+is it possible to make nginx config to count the same requests from specific user and behave accordingly to the number of handled request. for example the user makes three requests to the same url.

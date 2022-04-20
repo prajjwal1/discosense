@@ -1,0 +1,1 @@
+an application that closes cursors or reuses cursors, does not need as much session memory as an application that keeps cursors open. conversely that same application may need to perform more parse calls, using extra cpu and oracle resources.

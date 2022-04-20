@@ -1,0 +1,1 @@
+they can also be associated with item drains. for example in ultima online, items that were placed on the ground would be gathered by the server.

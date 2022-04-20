@@ -1,0 +1,1 @@
+according to one implementation, however, filters are not coupled via such interface pins. rather alternate implementations are envisioned wherein individual filters make calls to other objects, under the control of the render engine 222, for the desired input.

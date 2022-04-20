@@ -1,0 +1,1 @@
+for this interaction, tonys policy aware client can use policy alternative to satisfy contosos conditions or requirements. similarly policy intersection can be used to check if providers expose endpoints that conform to a standard policy.

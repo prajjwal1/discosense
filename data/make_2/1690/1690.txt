@@ -1,0 +1,1 @@
+amid the many benefits of having the nist sp 800 145 as a tool to facilitate the understanding, the classification and some definitions of the four deployment models are redundant and inconsistent. particularly the definition ofcommunity cloudis a redundant of that of a private cloud, the deployment.

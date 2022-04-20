@@ -1,0 +1,1 @@
+that is, a simpler distribution with a marginally smaller ppcc value may be preferred over a more complex distribution. likewise there may be theoretical justification in terms of the underlying scientific model for preferring a distribution with a marginally smaller ppcc value in some cases.

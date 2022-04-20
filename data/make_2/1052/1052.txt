@@ -1,0 +1,1 @@
+moreover, a time delay in outputting the yaw rate is predicted beforehand by the yaw rate predicting operating device 20. therefore it becomes possible to suppress the unstable movement of the rear wheels during running at high speeds.

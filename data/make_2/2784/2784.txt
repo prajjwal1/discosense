@@ -1,0 +1,1 @@
+since blps employ logical deduction to construct the networks, they cannot be used effectively for abductive plan recognition as is. therefore we extend blps to use logical abduction to construct bayesian networks and call the resulting model bayesian abductive logic programs.

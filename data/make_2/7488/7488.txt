@@ -1,0 +1,1 @@
+mocmex downloads files from remote locations and hides randomly named files on infected computers. therefore the virus is difficult to remove.

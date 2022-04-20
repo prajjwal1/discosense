@@ -1,0 +1,1 @@
+true, you cant run all of your windows applications. although as it happens, thanks to wine and crossover you can run some popular windows programs on linux.

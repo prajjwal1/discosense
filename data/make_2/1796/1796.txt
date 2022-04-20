@@ -1,0 +1,1 @@
+new methods for representing terminologies have been explored, including those that make them more usable by computers. in particular terminologies have been evolving to include knowledge about their terms, especially definitional knowledge.

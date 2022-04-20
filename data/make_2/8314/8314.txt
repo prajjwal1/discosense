@@ -1,0 +1,1 @@
+unlike the clusters with a large number of droplets, small clusters can not always form a hexagonally symmetric structure. instead they produce various more or less symmetric configurations depending on the number of droplets.

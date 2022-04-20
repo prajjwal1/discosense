@@ -1,0 +1,1 @@
+furthermore, since shaders run on the gpu, there is little to no feedback when things go south. in contrast processing shields users even from the try catch error handling of java and it often specifically points out errors in the code.

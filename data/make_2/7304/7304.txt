@@ -1,0 +1,1 @@
+the strain is the ratio of two lengths, so it is a dimensionless quantity. thus strain rate is in units of inverse time.

@@ -1,0 +1,1 @@
+some observers have suggested that openid has security weaknesses and may prove vulnerable to phishing attacks. for example a malicious relaying party may forward the end user to a bogus identity provider authentication page asking that end user to input their credentials.

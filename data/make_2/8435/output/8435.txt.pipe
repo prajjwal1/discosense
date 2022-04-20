@@ -1,0 +1,2 @@
+Explicit|||0..2||if||0|if|||Contingency.Condition|||||||||||50..101|0|the value of the question will be added to the bank||||||||3..48|0|the question is ultimately answered correctly|||||||||||||
+Explicit|||103..112||otherwise||1|otherwise|||Expansion.Alternative|||||||||||0..101|0|if the question is ultimately answered correctly, the value of the question will be added to the bank||||||||113..152|1|the current value of the bank is halved|||||||||||||

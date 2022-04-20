@@ -1,0 +1,1 @@
+the premise is that a single lithographic exposure may not be enough to provide sufficient resolution. hence hence additional exposures would be needed, or else positioning patterns using etched feature sidewalls would be necessary.

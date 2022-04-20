@@ -1,0 +1,1 @@
+these devices usually allow substantial current flow in one direction but negligible current in the other direction. consequently the electrode names use the terms that have substantial ordinary currents.

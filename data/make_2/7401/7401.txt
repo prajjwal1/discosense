@@ -1,0 +1,1 @@
+before production of the game began, the development team decided to remove the nintendo 64 expansion paks from their development kits to guarantee a smooth frame rate on a standard nintendo 64. instead high resolution and letterbox settings were developed for owners of expansion paks.

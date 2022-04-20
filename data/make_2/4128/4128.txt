@@ -1,0 +1,1 @@
+all required passwords and encryption keys for accessing and controlling the devices in layer 700 are initially transferred to system 10 by clients owning the devices. thereafter for security purposes, through a sequence of randomization the passwords and encryption keys are altered and maintained by system 10.

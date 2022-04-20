@@ -1,0 +1,1 @@
+in many cases, web pages do not link directly to a realaudio file. instead they link to a. ram or smil file.

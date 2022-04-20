@@ -1,0 +1,2 @@
+Explicit|||0..2||if||0|if|||Contingency.Condition|||||||||||37..79|0|the object stored there is never evaluated||||||||3..35|0|the stream car is never accessed|||||||||||||
+Explicit|||81..89||likewise||1|likewise|||Expansion.Conjunction|||||||||||0..79|0|if the stream car is never accessed, the object stored there is never evaluated||||||||90..166|1|the stream cdr is a promise to return a stream, and is only forced on demand|||||||||||||

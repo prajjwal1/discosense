@@ -1,0 +1,1 @@
+recently, pharmgkb has embraced a new role broker of pharmacogenomic data for data sharing consortia. in particular we have helped create the international warfarin pharmacogenetics consortium, which is devoted to pooling genotype and phenotype data relevant to the anticoagulant warfarin.

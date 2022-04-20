@@ -1,0 +1,1 @@
+however, acm technology has the ability to implement in silicon the exact hardware required at any given point in time. thus an algorithm that implements the 27 input adder can be downloaded into the acm chip, and this computation is completed in seven clock cycles an order of magnitude improvement over dsp.

@@ -1,0 +1,1 @@
+any associative ring can be made into a lie ring by defining a bracket operator. conversely to any lie algebra there is a corresponding ring, called the universal enveloping algebra.

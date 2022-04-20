@@ -1,0 +1,1 @@
+the server 1030 can obtain the desired data from a data store 1040 or a plurality of data stores. subsequently the client 1010 can display the requested or received data such that the user can value the data and or store the data within the server 1030.

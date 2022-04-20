@@ -1,0 +1,1 @@
+more particularly, the file number which corresponds to an unnecessary message may be deleted from the third memory area 83. likewise the file number of the unnecessary message can be erased or detected even when the file number is stored in the fourth memory area 84.

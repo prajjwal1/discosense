@@ -1,0 +1,1 @@
+the system is able to discern areas devoid of packing material, areas with loose packing, and areas with overly dense packing within the column bed. consequently any packing inconsistencies will be unambiguously identified.

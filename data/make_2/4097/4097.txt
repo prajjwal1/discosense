@@ -1,0 +1,1 @@
+you can add a view to a superview only after a password has been configured for the superview. thereafter issue the view command in view configuration mode to add at least one cli view to the superview.

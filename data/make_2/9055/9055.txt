@@ -1,0 +1,1 @@
+euv further suffers from the shot noise limit, which forces the dose to increase going for successive nodes. on the other hand depositions and etches process entire wafers at once, without the need for wafer stage motion in the process chamber.

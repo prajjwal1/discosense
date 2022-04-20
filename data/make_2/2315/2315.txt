@@ -1,0 +1,1 @@
+this means that we can use this registry to discover all brokers inside a certain group. therefore we created a new discovery protocol that can do that.

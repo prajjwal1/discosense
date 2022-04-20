@@ -1,0 +1,1 @@
+there are several ways in which this can be done. for example one method is to compare the individual weights to a standard mortality rating to determine a mortality ratio for each problem.

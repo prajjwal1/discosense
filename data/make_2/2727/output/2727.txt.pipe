@@ -1,0 +1,2 @@
+Explicit|||0..7||however||0|however|||Comparison.Contrast|||||||||||1..2|-1|o||||||||8..76|0|only the root user can look at the quotas for other users and groups|||||||||||||
+Explicit|||78..89||for example||1|for example|||Expansion.Instantiation|||||||||||0..76|0|however only the root user can look at the quotas for other users and groups||||||||90..176|1|say we have a filesystem, dev hdc 1 mounted on usr users, with two users jane and john|||||||||||||

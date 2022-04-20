@@ -1,0 +1,1 @@
+the statement or statements in the body of a dowhile statement always execute at least one time. by contrast the statement or statements in the body of a while statement arent executed at all if the while expression is false the first time its evaluated.

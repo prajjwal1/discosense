@@ -1,0 +1,1 @@
+for those needing direct, easy, access to the data of ndarrays, this will not remove this ability. rather there are many potential performance optimizations which require changing the implementation details, and numpy developers have been unable to try them because of the high value of preserving abi compatibility.

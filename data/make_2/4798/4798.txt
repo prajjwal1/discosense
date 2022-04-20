@@ -1,0 +1,1 @@
+the first time point usually coincides with a baseline measurement where all the clusters are assigned to the control arm. subsequently clusters begin to receive the active treatment, but, unlike in a standard cross over trial, once the intervention is given, it is not removed.

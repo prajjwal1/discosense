@@ -1,0 +1,1 @@
+instead, they now need to discover the actual current network of every number before routing the call. thus lcr solutions also need to handle mnp when routing a voice call.

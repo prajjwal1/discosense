@@ -1,0 +1,1 @@
+software purchases in the android market currently use google checkout, which ive personally found flaky on my nexus one handset. in contrast ive never had an issue with mobile transactions through apple, nor with amazon or paypal, for that matter.

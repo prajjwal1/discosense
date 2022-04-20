@@ -1,0 +1,1 @@
+if long bitstrings are divided in pieces and then sent on the network individually, the pieces may get lost or delayed or, on some types of networks, take different routes to their destination. as a result pieces may arrive out of sequence.

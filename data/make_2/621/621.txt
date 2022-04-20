@@ -1,0 +1,1 @@
+with a so much high dynamic language you could inspect dynamically generated classes. in other words with ruby you can avoid to use wise mappers, directly and dynamically using our generated classes.

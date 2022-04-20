@@ -1,0 +1,1 @@
+the search for the largest known prime has somewhat of a cult following. consequently a lot of computer power has been expended searching for new mersenne primes, much of which is now done using distributed computing.

@@ -1,0 +1,1 @@
+however, persons skilled in the art will recognize that the inventive concepts have application in unix based systems and other network environments. specifically it is necessary to provide a mechanism by which a network administrator can carry out the functions, as well as other network management tasks.

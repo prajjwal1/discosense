@@ -1,0 +1,1 @@
+you can customize the chat interface to a great degree. for instance you can decide whether to pop up the chat dialog immediately after somebody visits your website or after a few seconds have passed by.

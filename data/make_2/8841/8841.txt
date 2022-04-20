@@ -1,0 +1,1 @@
+bacteria have clustered their reading frames into units, sequestered by co involvement in protein complexes, common pathways, or shared substrates and transporters. thus accurate prediction would involve all of these data, a difficult task indeed.

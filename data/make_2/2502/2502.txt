@@ -1,0 +1,1 @@
+we analyse the accuracy with which we can measure the masses and spins of the imbh and its companion in intermediate mass ratio coalescences. consequently the total mass is measured better than the chirp mass for massive binaries, but the total mass is still partly degenerate with spin, which cannot be accurately measured.

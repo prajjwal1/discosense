@@ -1,0 +1,1 @@
+for example, data associated with video conferencing sessions is useless if it is not deliveredon time. on the other hand traditional best effort data services, such as file or e mail transfer, are not affected by variations in latency.

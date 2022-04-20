@@ -1,0 +1,1 @@
+in addition, the coded digital signal is restored by the decoding process to the digital signal before coding. thereby various kinds of errors are corrected that are contained in the signal by passing through the transmission path.

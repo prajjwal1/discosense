@@ -1,0 +1,1 @@
+many others have thought the same, and have implemented aria within web applications across the web, not just on single page implementations, but have built aria support into cmss as well. in short aria is now entrenched in the web, and it will likely never leave it regardless what the standards are.

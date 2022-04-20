@@ -1,0 +1,1 @@
+the time shown is not the time of sunrise using the mystery classs local time. rather it gives you the time that it is at greenwich, england when the sunrise takes place at the specific mystery class.

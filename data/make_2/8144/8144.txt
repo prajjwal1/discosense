@@ -1,0 +1,1 @@
+weak dependence is a sufficient weak condition that many natural instances of stochastic processes exhibit it. in particular weak dependence is a natural condition for the ergodic theory of random functions.

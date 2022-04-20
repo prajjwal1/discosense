@@ -1,0 +1,1 @@
+Explicit|||139..150||for example||1|for example|||Expansion.Instantiation|||||||||||0..137|0|is it possible to make nginx config to count the same requests from specific user and behave accordingly to the number of handled request||||||||151..196|1|the user makes three requests to the same url|||||||||||||

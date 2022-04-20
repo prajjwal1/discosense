@@ -1,0 +1,1 @@
+in contrast, a vector exists to persist an intermediate or final result of some 3 dimensional computation. in short stream is for controlling computation, and vector is for storing data.

@@ -1,0 +1,1 @@
+just a heads up that weve made some adjustments to fix this in the theme. as a result youll just need to make a few adjustments to your custom css to get the images aligned properly inside the caption box.

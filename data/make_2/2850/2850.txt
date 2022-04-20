@@ -1,0 +1,1 @@
+that is to say, a source potential and a drain potential of the monitoring driving transistor 6014 become high enough to supply a current having the size of imax. similarly a voltage high enough to supply a current having the size of imax is applied to both terminals of the monitoring light emitting element 6011.

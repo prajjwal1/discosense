@@ -1,0 +1,4 @@
+Explicit|||101..113||nevertheless||1|nevertheless|||Comparison.Concession|||||||||||0..99|0|consequently, he was unaware of it, and his troops stood idle while fighting raged a few miles away||||||||114..182|1|the army of the cumberland forced price to withdraw during the night|||||||||||||
+Explicit|||62..67||while||0|while|||Temporal.Synchrony|||||||||||40..61|0|his troops stood idle||||||||68..99|0|fighting raged a few miles away|||||||||||||
+Explicit|||0..12||consequently||0|consequently|||Contingency.Cause|||||||||||1..2|-1|o||||||||14..99|0|he was unaware of it, and his troops stood idle while fighting raged a few miles away|||||||||||||
+Explicit|||36..39||and||0|and|||Expansion.Conjunction|||||||||||0..34|0|consequently, he was unaware of it||||||||40..99|0|his troops stood idle while fighting raged a few miles away|||||||||||||

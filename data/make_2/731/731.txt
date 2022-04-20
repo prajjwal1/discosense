@@ -1,0 +1,1 @@
+another important factor on disease severity is the effect of the mutation on protein expression. conversely patients with only missense or small in frame indel mutations were significantly more likely to have a mild clinical phenotype.

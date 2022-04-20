@@ -1,0 +1,3 @@
+Explicit|||0..7||because||0|because|||Contingency.Cause|||||||||||87..112|0|e uses the cygwin toolset||||||||8..85|0|most bundle commands rely on unix commands not typically available on windows|||||||||||||
+Explicit|||144..153||therefore||1|therefore|||Contingency.Cause|||||||||||114..139|1|therefore bundle commands||||||||140..143;154..231|1|can use bash, unix command line tools, or scripting languages like ruby or python|||||||||||||
+Explicit|||114..123||therefore||1|therefore|||Contingency.Cause|||||||||||0..112|0|because most bundle commands rely on unix commands not typically available on windows, e uses the cygwin toolset||||||||124..231|1|bundle commands can therefore use bash, unix command line tools, or scripting languages like ruby or python|||||||||||||

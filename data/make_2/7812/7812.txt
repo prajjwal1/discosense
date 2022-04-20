@@ -1,0 +1,1 @@
+the c 1 specification was rife with inaccuracies and ambiguities, making it difficult to implement from scratch. nevertheless the protocol came into widespread use because punter released the source code for the original implementation into the public domain.

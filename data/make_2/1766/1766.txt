@@ -1,0 +1,1 @@
+it may scan a document line by line, section by section or it may image an entire page or sheet at once. similarly the document can comprise any material with visual text to be read.

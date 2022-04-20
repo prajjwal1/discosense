@@ -1,0 +1,1 @@
+there is also a claim that the usability of the browser is reduced by not obeying standard windows manipulations. similarly the excessive nesting of tabs has been cited as a sign of generally poor interface design.

@@ -1,0 +1,1 @@
+bs utterances are delivered to ch as messages, but not to a. similarly chs utterances are delivered to b as messages, but not to a.

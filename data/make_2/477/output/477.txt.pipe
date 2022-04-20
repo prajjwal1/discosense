@@ -1,0 +1,3 @@
+Explicit|||86..98||for instance||1|for instance|||Expansion.Instantiation|||||||||||0..84|0|she will start throwing you things after you have a conversation with her about them||||||||99..187|1|she starts throwing you money after battleship bay, when you encounter a vending machine|||||||||||||
+Explicit|||35..40||after||0|after|||Temporal.Asynchronous|||||||||||15..34|0|throwing you things||||||||41..84|0|you have a conversation with her about them|||||||||||||
+Explicit|||151..155||when||1|when|||Temporal.Synchrony|||||||||||86..149|1|for instance she starts throwing you money after battleship bay||||||||156..187|1|you encounter a vending machine|||||||||||||

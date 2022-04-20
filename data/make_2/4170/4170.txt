@@ -1,0 +1,1 @@
+ordinary vpns dont address this need they can actually make matters worse by requiring tunnel reestablishment. on the other hand mobile vpns are explicitly designed to tackle the gaps between disjointed wireless and wired networks.

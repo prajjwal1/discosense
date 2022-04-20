@@ -1,0 +1,1 @@
+for example, it is possible to set the area of the driver ic greater than that of the head main body. in other words the driver ic suffers from no constraints imposed by the area of the head main body.

@@ -1,0 +1,1 @@
+this compound is being mixed together and filtered. particularly when the multiply is preformed, a stream of outputs or readings representing the instantaneous inphase and quadrature of the mixed signal is obtained.

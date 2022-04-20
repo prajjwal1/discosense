@@ -1,0 +1,1 @@
+the general purpose mpu is activated by the start command to start word operation. thereby it is possible to reduce the overhead upon switching which is the disadvantage when a general purpose mpu is used.

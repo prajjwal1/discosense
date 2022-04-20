@@ -1,0 +1,1 @@
+but in the meantime i think this approach is good. though maybe conditionalize it on whether closedirectory is true.

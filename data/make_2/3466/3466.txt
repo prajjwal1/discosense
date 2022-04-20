@@ -1,0 +1,1 @@
+the divide and conquer approach of quicksort is probably where it got the prefix quick by segregating smaller elements from larger elements it eliminates the need for many comparisons. in contrast a selection sort compares every element to every other element.

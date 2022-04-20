@@ -1,0 +1,1 @@
+the premise is that bloggers can write in markdown, a text to html conversion tool, and see a preview of what the post will look like. interestingly the platform is free, but ghost charges for its server.

@@ -1,0 +1,1 @@
+therefore, substantially no depletion layer occurs in the plurality of regions, and carriers generated immediately under the plurality of regions reach the depletion layer without going around the isolation diffusion region. thereby a circuit incorporating light receiving device having a divided light detection photodiode portion having an improved response speed can be achieved.

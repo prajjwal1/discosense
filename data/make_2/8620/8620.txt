@@ -1,0 +1,1 @@
+if a unit supported by aircraft loses in combat, both the unit and the aircraft are eliminated. likewise if a fleet is carrying land units across water when it loses in combat, both the fleet and its cargo are lost.

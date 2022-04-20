@@ -1,0 +1,1 @@
+another object of the invention is to provide a vehicle provided with the hybrid driving apparatus as well as a control method thereof. thereby it is possible to retrain rising of the rotational speed of the power source when the operation is switched from the first control operation to the second operation control.

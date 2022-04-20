@@ -1,0 +1,1 @@
+thus, implementations vary widely, each requiring different hardware and software configurations to be operable, and customers have little flexibility in choosing hardware. for instance adsl service frequently is deployed differently than vdsl service, and adsl deployments themselves can vary from provider to provider.

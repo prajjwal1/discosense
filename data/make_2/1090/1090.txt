@@ -1,0 +1,1 @@
+the special region p ldd lowers the electric field at the edge of the poly gate, making the whole distribution of the surface electric field more uniform. therefore the esd robustness is improved two times and no obvious change of other electric parameters is introduced.

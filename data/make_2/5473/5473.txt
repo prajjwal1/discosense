@@ -1,0 +1,1 @@
+exactly 2 elements of b are mapped. similarly there are 2 4 functions from a to b mapping to 2 or less b in b.

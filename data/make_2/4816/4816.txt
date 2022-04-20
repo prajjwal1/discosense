@@ -1,0 +1,1 @@
+side effects, including i o for example, println assumes the presence of a console and offers no way for you to compare what was printed to what you expected to print. similarly reading from the console assumes that someone is present to type in commands and provides no way for you to provide mock input.

@@ -1,0 +1,1 @@
+does anyone know of a good tutorial discussing how to send javamail with attachments. particularly im trying to send an email with a pdf attachment.

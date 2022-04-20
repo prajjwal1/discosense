@@ -1,0 +1,1 @@
+since every tree with more than one vertex has at least two leaves, every triangulated polygon with more than one triangle has at least two ears. thus the two ears theorem is equivalent to the fact that every simple polygon has a triangulation.

@@ -1,0 +1,1 @@
+statistical control include the extraneous variables in the design. for instance add gender as another independent variable in your study.

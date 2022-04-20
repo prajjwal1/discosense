@@ -1,0 +1,2 @@
+Explicit|||110..121||for example||1|for example|||Expansion.Instantiation|||||||||||0..108|0|when you perform a full text search, the search finds the word you specify and words that have the same stem||||||||122..231|1|searching for the word address finds files with the word address, addressing, addresses, or addressed in them|||||||||||||
+Explicit|||0..4||when||0|when|||Temporal.Synchrony|||||||||||37..108|0|the search finds the word you specify and words that have the same stem||||||||5..35|0|you perform a full text search|||||||||||||

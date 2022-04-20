@@ -1,0 +1,2 @@
+Explicit|||124..133||otherwise||1|otherwise|||Expansion.Alternative|||||||||||0..122|0|obviously, if a non zero value is set, it should be to a value longer than any connection should reasonably be checked out||||||||134..205|1|the pool will occasionally kill connections in active use, which is bad|||||||||||||
+Explicit|||11..13||if||0|if|||Contingency.Condition|||||||||||0..9;39..122|0|obviously it should be to a value longer than any connection should reasonably be checked out||||||||14..37|0|a non zero value is set|||||||||||||

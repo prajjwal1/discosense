@@ -1,0 +1,1 @@
+Explicit|||146..157||as a result||1|as a result|||Contingency.Cause|||||||||||0..144|0|this technique involves concurrently maintaining the state of multiple executable sequences of instructions, called threads, within a single cpu||||||||158..208|1|it is relatively simple and fast to switch threads|||||||||||||

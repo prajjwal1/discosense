@@ -1,0 +1,1 @@
+rather than attempting to defeat or circumvent the spirit of the format, my change was intended to make the format more accessible to editors. in particular my change wasnt intended to allow editors to move thedetailstemplate to parts of the article other than immediately following the heading.

@@ -1,0 +1,1 @@
+the program is designed to minimize the amount of information that the ems provider must input by typing. thus for almost fields, the ems provider must simply select the proper data from a list box, button, or matrix.

@@ -1,0 +1,4 @@
+Explicit|||267..269||or||1|or|||Expansion.Alternative|||||||||||246..266|1|that has been issued||||||||270..290|1|that remains on hand|||||||||||||
+Explicit|||61..64||but||0|but|||Comparison.Contrast|||||||||||0..60|0|the package displays the lot number as do shipping documents||||||||65..155|0|there is no way to identify the propellant used to fill the cartridges in a particular lot|||||||||||||
+Explicit|||157..169||consequently||1|consequently|||Contingency.Cause|||||||||||0..155|0|the package displays the lot number as do shipping documents but there is no way to identify the propellant used to fill the cartridges in a particular lot||||||||170..290|1|the issuing depot has no knowledge of the propellant used in the ammunition that has been issued or that remains on hand|||||||||||||
+Explicit|||36..38||as||0|as|||Temporal.Synchrony|||||||||||0..35|0|the package displays the lot number||||||||39..60|0|do shipping documents|||||||||||||

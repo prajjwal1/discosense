@@ -1,0 +1,1 @@
+an example of this can be a person clicking on an icon. similarly clicking on the right button will present the user with a text menu to select more actions.

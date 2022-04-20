@@ -1,0 +1,3 @@
+Explicit|||41..48||because||0|because|||Contingency.Cause|||||||||||0..40|0|for example, finger is a meronym of hand||||||||49..75|0|a finger is part of a hand|||||||||||||
+Explicit|||77..86||similarly||1|similarly|||Expansion.Conjunction|||||||||||0..75|0|for example, finger is a meronym of hand because a finger is part of a hand||||||||87..120|1|wheels is a meronym of automobile|||||||||||||
+Explicit|||0..11||for example||0|for example|||Expansion.Instantiation|||||||||||1..2|-1|o||||||||13..75|0|finger is a meronym of hand because a finger is part of a hand|||||||||||||

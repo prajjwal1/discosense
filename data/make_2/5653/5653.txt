@@ -1,0 +1,1 @@
+block ciphers can also be used to produce keystreams. for instance ctr mode is a block mode that makes a block cipher produce a keystream and thus turns the block cipher into a stream cipher.

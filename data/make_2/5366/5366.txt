@@ -1,0 +1,1 @@
+in addition, the predicted occurrence probabilities of probable symbols are selectively modified by the predicted probability modifier 704. thereby the predicted occurrence probabilities of probable symbols are maintained close to actual occurrence probabilities.

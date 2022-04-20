@@ -1,0 +1,1 @@
+thus, receipt of more than one device info message would be indicative of an erroneous, insecure or undesirable operating environment. likewise a device should receive a confirmation message from no more than one peer device when in pairing mode for the same reason.

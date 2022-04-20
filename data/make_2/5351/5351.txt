@@ -1,0 +1,1 @@
+according to a further embodiment of the present invention, the steps of acquiring the x ray image and adapting the position of the semitransparent x ray transmitting device are repeated. thereby the position of the semitransparent x ray transmitting device may be dynamically adjusted to a moving region of interest.

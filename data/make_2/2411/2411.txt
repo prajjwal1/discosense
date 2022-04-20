@@ -1,0 +1,1 @@
+in the one to one standby scenario, for each primary server there is a standby server at the remote site. for example our customer marketron has 25 servers in the san francisco and 25 standby servers in salt lake city, utah which is about 700 miles away.

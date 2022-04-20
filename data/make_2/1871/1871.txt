@@ -1,0 +1,1 @@
+another limitation of this approach is due to its hardwired device control structure, as it takes away almost all the degrees of freedom available in a multipixel drive device. hence if total programming flexibility is required, the on chip hardwired approach is not suitable.

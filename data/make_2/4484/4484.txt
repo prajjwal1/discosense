@@ -1,0 +1,1 @@
+however, these optimizations can fall short, with vendors spending more time developing collateral than optimizing the entire solution or unintentionally creating bottlenecks when using a partner. in short this isnt a do it yourself kind of problem.

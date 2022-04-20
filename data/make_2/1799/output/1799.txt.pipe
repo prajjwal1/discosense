@@ -1,0 +1,2 @@
+Explicit|||0..2||if||0|if|||Contingency.Condition|||||||||||60..111|0|the motor being tested is defined as having a fault||||||||3..58|0|the deviations exceed the pre selected threshold values|||||||||||||
+Explicit|||126..130||once||1|once|||Temporal.Asynchronous|||||||||||113..125;165..287|1|specifically the user inputs the necessary parameters for performing thequality assurance testat steps 130 134 as summarized in table 4||||||||131..163|1|the base motor model is selected|||||||||||||

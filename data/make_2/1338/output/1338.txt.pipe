@@ -1,0 +1,2 @@
+Explicit|||191..193||as||1|as|||Temporal.Synchrony|||||||||||156..190|1|would send special resize messages||||||||194..241|1|the user drags the border between the two panes|||||||||||||
+Explicit|||83..96||in particular||1|in particular|||Expansion.Instantiation|||||||||||0..81|0|the real motivation is to allow dragging interactions as a first class ui citizen||||||||97..241|1|i would like to have a draggable version of twopane, which would send special resize messages as the user drags the border between the two panes|||||||||||||

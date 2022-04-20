@@ -1,0 +1,1 @@
+someone cleared at the secret level for some compartment x can not see material in compartment x that is classified top secret. but the reverse is not true a person cleared for top secret with access to x material can also access secret material in compartment x.

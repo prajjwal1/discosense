@@ -1,0 +1,1 @@
+multiple patterning entails the use of many processing steps to form a patterned layer, where conventionally only one lithographic exposure, one deposition sequence and one etch sequence would be sufficient. consequently there are more sources of variations and possible yield loss in multiple patterning.

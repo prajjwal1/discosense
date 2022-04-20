@@ -1,0 +1,1 @@
+when the switch 64 d is turned on, the boosted output of the battery 60 or the solar battery 62 b is supplied to a second selector switch 68. on the other hand the supply of the boosted output is cut off when the switch 64 d is turned off.

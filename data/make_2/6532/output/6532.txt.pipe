@@ -1,0 +1,4 @@
+Explicit|||63..75||for instance||1|for instance|||Expansion.Instantiation|||||||||||0..61|0|this will also not deplete the water available for other uses||||||||76..186|1|nuclear power in japan for instance, uses no cooling towers at all because all plants are located on the coast|||||||||||||
+Explicit|||99..111||for instance||1|for instance|||Expansion.Instantiation|||||||||||0..61|0|this will also not deplete the water available for other uses||||||||63..98;113..186|1|for instance nuclear power in japan uses no cooling towers at all because all plants are located on the coast|||||||||||||
+Explicit|||10..14||also||0|also|||Expansion.Conjunction|||||||||||1..2|-1|h||||||||0..9;15..61|0|this will not deplete the water available for other uses|||||||||||||
+Explicit|||143..150||because||1|because|||Contingency.Cause|||||||||||118..142|1|no cooling towers at all||||||||151..186|1|all plants are located on the coast|||||||||||||

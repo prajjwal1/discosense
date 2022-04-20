@@ -1,0 +1,1 @@
+in addition, adcs supporting smart caching can extend the amount of cacheable content, eliminating many of the requests from even reaching the servers. overall the result can be significant server offload, enabling optimization on the cost of the server infrastructure per user transaction as well.

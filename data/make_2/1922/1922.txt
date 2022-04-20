@@ -1,0 +1,1 @@
+the existence of multiple physical terminals behind each vtep is not visible to the network. in particular the network endoint. provisioned data class defines the manner in which the communications gateway determines which call agent to interact with for telephony operations for the endpoint.

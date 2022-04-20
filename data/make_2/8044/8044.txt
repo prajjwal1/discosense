@@ -1,0 +1,1 @@
+because actual lamps are not designed to handle this much power, this would result in catastrophic failure. similarly an anomalous drop in current will drive the lamp to extinction.

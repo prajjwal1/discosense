@@ -1,0 +1,2 @@
+Explicit|||0..2||if||0|if|||Contingency.Condition|||||||||||36..103|0|the wood will release some of its moisture into the air and dry out||||||||3..35|0|the relative humidity is too low|||||||||||||
+Explicit|||116..118||if||1|if|||Contingency.Condition|||||||||||105..115;154..201|1|conversely the wood absorbs water from the air and expands||||||||119..152|1|the relative humidity is too high|||||||||||||

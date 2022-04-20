@@ -1,0 +1,1 @@
+this is a case where libraries could glean information from wikidata. conversely wikidata was pleased to be informed of the 44,526 scenarios where viaf or loc had sex information but wikidata did not.

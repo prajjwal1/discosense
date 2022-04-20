@@ -1,0 +1,1 @@
+there are many frameworks within the java programming environment. for example java security, a very important topic in new netcentric architectures, provides a java security framework.

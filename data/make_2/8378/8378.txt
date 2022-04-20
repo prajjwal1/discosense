@@ -1,0 +1,1 @@
+since ggp ai must be designed to play multiple games, its design can not rely on algorithms created specifically for certain games. instead the ai must be designed using algorithms whose methods can be applied to a wide range of games.

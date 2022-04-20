@@ -1,0 +1,5 @@
+Explicit|||172..174||so||1|so|||Contingency.Cause|||||||||||99..170|1|consequently there are only about 60 vehicles per 1,000 people in china||||||||175..243|1|we can see that the market has a long way to grow before it ismature|||||||||||||
+Explicit|||0..5||while||0|while|||Temporal.Synchrony|||||||||||6..14;61..97|0|in china and the number of cars is much lower||||||||16..60|0|the absolute number of people is much higher|||||||||||||
+Explicit|||99..111||consequently||1|consequently|||Contingency.Cause|||||||||||0..97|0|while in china, the absolute number of people is much higher and the number of cars is much lower||||||||112..243|1|there are only about 60 vehicles per 1,000 people in china, so we can see that the market has a long way to grow before it ismature|||||||||||||
+Explicit|||61..64||and||0|and|||Expansion.Conjunction|||||||||||0..60|0|while in china, the absolute number of people is much higher||||||||65..97|0|the number of cars is much lower|||||||||||||
+Explicit|||225..231||before||1|before|||Temporal.Asynchronous|||||||||||217..224|1|to grow||||||||232..243|1|it ismature|||||||||||||

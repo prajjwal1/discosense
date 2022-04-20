@@ -1,0 +1,1 @@
+when a browsing john or jane doe has a question, they will look in the categories that fit the problem. for example plumbing questions in the general category will not be easily found.

@@ -1,0 +1,1 @@
+although the memory manager can recover unreachable memory, it can not free memory that is still reachable and therefore potentially still useful. therefore modern memory managers therefore provide techniques for programmers to semantically mark memory with varying levels of usefulness, which correspond to varying levels of reachability.

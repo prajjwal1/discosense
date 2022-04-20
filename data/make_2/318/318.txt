@@ -1,0 +1,1 @@
+while providing a simple and well known api, it is necessarily restricted in its operations due to the limited set of methods in the http protocol. in contrast sparql 1.1 update permits multiple modifications in a single operation, and can use complex sparql queries for constructing data to be inserted, or choosing data to be deleted.

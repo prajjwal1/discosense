@@ -1,0 +1,1 @@
+power calculator can store and reuse pre defined functions, of any arity. for example a function can be set by cube x x x, and later it can be used in an expression like 5 cube.

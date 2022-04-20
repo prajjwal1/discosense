@@ -1,0 +1,1 @@
+isolation reduces the rate of formation of harmful gene combinations, but it also restricts the scope of genetic variation. thus a species remains near a given peak in the fitness landscape and does not find new adaptive peaks.

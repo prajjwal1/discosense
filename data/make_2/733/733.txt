@@ -1,0 +1,1 @@
+in addition some applications allow logins on ip address which open the server host to great risks if the ip address is known to attackers. on the other hand there are ip session hacking which are more serious than spoofing.

@@ -1,2 +1,2 @@
-# commonsense-discourse
-Commonsense Reasoning with DIscourse Markers
+# Discosense: Commonsense Reasoning with Discourse Relations
+Official code for the EMNLP 2022 paper.

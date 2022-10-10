@@ -1,1 +1,0 @@
-c implicitly treats any const global as file scope unless it is explicitly declared extern, unlike c in which extern is the default. conversely inline functions in c are of file scope whereas they have external linkage by default in c.

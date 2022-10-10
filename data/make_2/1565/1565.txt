@@ -1,1 +1,0 @@
-the method may comprise determining an alarm level for at least one component of the wind turbine. thereby the expected remaining lifetime for the component can be prolonged until the next scheduled service event.

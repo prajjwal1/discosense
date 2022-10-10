@@ -1,1 +1,0 @@
-this was generated using a massive mathematica script and i dont think it would be to many peoples interest to run the script for several hours to generate this data. hence i just uploaded the data.

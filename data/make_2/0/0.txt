@@ -1,1 +1,0 @@
-the first test contains all the information necessary to understand the intent and implementation of the test. on the other hand the second test pulled the creation of the validation instance and the stub into a setup method.

@@ -1,1 +1,0 @@
-while the spectral based methods presented in previous section are computationally attractive, they do not always yield sufficient accuracy. in particular for the cases when we have highly correlated signals, the performance of spectral based methods may be insufficient.

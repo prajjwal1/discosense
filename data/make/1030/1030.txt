@@ -1,1 +1,0 @@
-when the prism is used with a sensor using infrared light, the surface of the prism can serve substantially as a plane face for the infrared light. thereby the prism can efficiently reflect the infrared light, allowing the liquid to be optically detected with high reliability.

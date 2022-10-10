@@ -1,4 +1,0 @@
-Explicit|||0..7||because||0|because|||Contingency.Cause||||||||||||0|||||||||8..40|0|now is effectively a random time|||||||||||||
-Explicit|||42..57||on the contrary||1|on the contrary|||Comparison.Contrast|||||||||||0..40|0|because now is effectively a random time||||||||58..149|1|however, if now is a random time, we cannot be random in the way that the argument requires|||||||||||||
-Explicit|||67..69||if||1|if|||Contingency.Condition|||||||||||42..65;92..149|1|on the contrary however we cannot be random in the way that the argument requires||||||||70..90|1|now is a random time|||||||||||||
-Explicit|||58..65||however||1|however|||Comparison.Contrast|||||||||||0..40|0|because now is effectively a random time||||||||42..57;67..149|1|on the contrary if now is a random time, we cannot be random in the way that the argument requires|||||||||||||

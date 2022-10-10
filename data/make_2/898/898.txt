@@ -1,1 +1,0 @@
-when you use the texture functions that allow specifying a depth comparison value, the associated texture unit must be configured for depth compare texturing. otherwise no depth comparison will actually be performed.

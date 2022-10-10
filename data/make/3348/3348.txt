@@ -1,1 +1,0 @@
-fontforge reported lots of mistakes but complied. on the other hand jswolf succeeded very nicely to embolden charis sil but i dont know if he used fontforge or another tool.

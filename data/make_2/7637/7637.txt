@@ -1,1 +1,0 @@
-the widespread implementation of data execution prevention made traditional buffer overflow vulnerabilities difficult or impossible to exploit in the manner described above. instead an attacker was restricted to code already in memory marked executable, such as the program code itself and any linked shared libraries.

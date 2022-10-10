@@ -1,1 +1,0 @@
-a second goal of the project is to provide smaller museums and historical societies with a model for creating similar materials using their own collections and expertise. hence in january 2008, we will offer a downloadable package that will include templates, a database structure, and a guide to creating object lessons using the software.

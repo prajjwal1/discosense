@@ -1,1 +1,0 @@
-apart from eliminating these threats, all parties need to consider an approach to testing and quality assurance which focuses on security and is designed to help reduce potential exposure to risks. therefore the importance of embedding security testing into the sdlc is prevalent now, more than ever.

@@ -1,1 +1,0 @@
-for example, a user visiting a news site on the internet wants to read news articles, but not wanting to see the advertisement on the news site. on the other hand there are circumstances that the operator of the news site wants the user to notice the advertisement on the news site, too.

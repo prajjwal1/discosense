@@ -1,1 +1,0 @@
-utterance based systems, in which frequent utterances are organized in sets to improve the speed of communication exchange, are also in development. similarly research has focussed on the provision of timely access to vocabulary and conversation appropriate for specific interactions.

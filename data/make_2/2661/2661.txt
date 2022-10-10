@@ -1,1 +1,0 @@
-the fluctuation of the osnr of each signal light increases as time elapses. particularly this becomes a serious problem in the case of a submarine cable system used for long distance transmission.

@@ -1,1 +1,0 @@
-a lund score ranging from 0 to 2 may be considered normal since scores in this range exhibit excellent negative predictive values, allowing for the exclusion of true disease. similarly lund scores of 5 or greater may be considered diagnosticallypositivefor the radiographic presence of crs since the scores exhibit high positive predictive values confirming the presence of disease.

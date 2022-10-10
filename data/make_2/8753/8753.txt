@@ -1,1 +1,0 @@
-for a heart rate of 70 bpm, qt would roughly be expected to be equal to or below 0.40s. likewise for 80 bpm, qt would roughly be expected to be equal to or below 0.38s.

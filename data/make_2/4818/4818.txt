@@ -1,1 +1,0 @@
-an embodiment of the present provides integrated network service policies for firewall platforms. specifically the present invention provides network or firewall administrators with the ability to implement policy based schema for security and resource management on firewall platforms.

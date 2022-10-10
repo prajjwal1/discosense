@@ -1,1 +1,0 @@
-the protected application or transaction is communicatively coupled to the authorisation server 101, usually via wireless means but a wired connection, such as a dedicated fibre link, may also be used. similarly the protected application or transaction is also communicatively coupled to the customer database 119.

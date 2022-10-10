@@ -1,1 +1,0 @@
-some suggest the use of eigenvalues as effect size measures, however, this is generally not supported. instead the canonical correlation is the preferred measure of effect size.

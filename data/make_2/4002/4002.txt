@@ -1,1 +1,0 @@
-a primary address must be configured before a secondary address. likewise a secondary address must be unconfigured before unconfiguring a primary address.

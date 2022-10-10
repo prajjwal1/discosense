@@ -1,1 +1,0 @@
-git is designed to allow commits on behalf of a potentially unverified third person. because of this youll need to enforce identity on your own if youre going to maintain responsibility for commits.

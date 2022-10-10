@@ -1,1 +1,0 @@
-circular permutations include those molecules whose structure is equivalent to a molecule that has been circularized and then opened. thus a circularly permuted molecule may be synthesized de novo as a linear molecule and never go through a circularization and opening step.

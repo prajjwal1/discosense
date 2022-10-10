@@ -1,1 +1,0 @@
-in the control flow programming we started with the caller waits for the recipient to be determined. by contrast with semi data flow programming the message, not the sender, waits for the recipient to be determined.

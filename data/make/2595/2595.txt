@@ -1,1 +1,0 @@
-for example, generally, papr may become smaller as the number of carriers for the signal to be wirelessly transmitted becomes smaller. hence the threshold value controller 71 increases the threshold value of the amplitude determining section 22 as the number of carriers for the signal to be wirelessly transmitted becomes smaller.

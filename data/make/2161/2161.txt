@@ -1,1 +1,0 @@
-you can significantly reduce your rendering times. for instance if there isnt anything important behind translucent materials, you can turn down that particular quality or reduce the number of passes that light rays make through there.

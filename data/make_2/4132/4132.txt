@@ -1,1 +1,0 @@
-when a client is doing something, r is locked, processing the clients request before returning to the main loop. on the contrary something running in the main loop can be interrupted pretty much anytime by a clients request.

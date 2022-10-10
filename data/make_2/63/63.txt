@@ -1,1 +1,0 @@
-previous answers to your question pertained mostly on real machines that did support multicharacter literals. specifically on platforms where int is 4 bytes, four byte multicharacter is fine and can be used for convenience, as per ferrucios mem dump example.

@@ -1,1 +1,0 @@
-its far from an ideal solution, but it was only one that i could figure out that is manageable. because of this lack of good sftp support is what has stopped me from purchasing sublime text because i love every other aspect of it.

@@ -1,1 +1,0 @@
-whenever both contain some elements that are not in the other, the two sets are not related by subset inclusion. hence subset inclusion is only a partial order, as opposed to the total orders given before.

@@ -1,1 +1,0 @@
-in particular, network equipment 108 provides video from video communication device 12 and pip content from pip server 106 to video communication device 14, along with pip information. similarly network equipment 108 provides video from video communication device 14 and pip content from pip server 106 to video communication device 12, along with pip information.

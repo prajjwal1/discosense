@@ -1,1 +1,0 @@
-since luminous energy is not included, colors that differ only in its lightness are not distinguished on the diagram. for instance brown, which is just a low luminance mixture of orange and red, will not appear as such.

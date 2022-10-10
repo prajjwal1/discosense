@@ -1,1 +1,0 @@
-i cant think of any high level language that cant interface with it somehow. because of that c is still a popular choice for systems programming type stuff.

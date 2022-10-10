@@ -1,1 +1,0 @@
-on top of everything, it trusts that untrustworthy data from the outside world will not only conform to the rules of sql, but will also be non malicious. however people who write code this way should be summarily fired retroactively to the day you got their resume.

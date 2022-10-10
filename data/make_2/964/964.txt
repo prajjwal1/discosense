@@ -1,1 +1,0 @@
-as opposed to previous solutions, our technique considerably reduces the computational complexity in terms of dependence on network size moreover, it enables the development of precomputation schemes. hence our technique provides a scalable approach to the qos partition problem, for both unicast and multicast.

@@ -1,1 +1,0 @@
-20% of users cancel their subscription after first month because sometimes the search is so painfully slow that the requests would time out. because of that company is loosing 60 k month.

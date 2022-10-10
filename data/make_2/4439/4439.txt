@@ -1,1 +1,0 @@
-the first printhead 10 has a first array 26 of nozzles 28, and the second printhead 12 has a second array 30 of nozzles 28. likewise the third printhead 14 has a third array 32 of nozzles 28, and the fourth printhead 16 has a fourth array 34 of nozzles 28.

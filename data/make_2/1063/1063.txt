@@ -1,1 +1,0 @@
-these merge commits are not filtered out because they do not belong to the commits inside the pull request. instead they are an artifact of merging the pull request 4.

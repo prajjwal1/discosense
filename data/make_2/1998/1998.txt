@@ -1,1 +1,0 @@
-is convex and compact on a given ball. subsequently benchohra and ntouyas discussed the second order differential equation under compact conditions.

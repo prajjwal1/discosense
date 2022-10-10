@@ -1,1 +1,0 @@
-since keys arepressedby touching multiple sensors together, there must be some way to define which sensor is which. for example the top thumb pad isyand the index fingertip pad isa.

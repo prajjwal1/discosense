@@ -1,1 +1,0 @@
-for each simulated 2004 season, the dollars specified for each day in table 5 are allocated to the 84 outcomes according to a combination of meteorological risks and random factors. specifically let d be the dollars invested over the entire pool on day j, from the middle column in table 5.

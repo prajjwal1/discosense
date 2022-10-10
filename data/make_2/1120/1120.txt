@@ -1,1 +1,0 @@
-there is also a timecols command, which specifies that all the time reports are to have the specified columns. similarly analog can plot the bar charts in the time reports according to the number of requests, number of page requests, or number of bytes.

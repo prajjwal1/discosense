@@ -1,2 +1,0 @@
-Explicit|||107..114||however||1|however|||Comparison.Contrast|||||||||||0..105|0|reverse engineering a chip is only useful when the security of authentication lies in the algorithm alone||||||||115..201|1|our authentication chips rely on a secret key, and not in the secrecy of the algorithm|||||||||||||
-Explicit|||42..46||when||0|when|||Temporal.Synchrony|||||||||||0..41|0|reverse engineering a chip is only useful||||||||47..105|0|the security of authentication lies in the algorithm alone|||||||||||||

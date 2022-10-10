@@ -1,1 +1,0 @@
-over 250 device manufacturers from different industrial sectors offer intelligent automation devices with a codesys programming interface. consequently thousands of end users such as machine or plant builders around the world employ codesys for all sorts of automation tasks.

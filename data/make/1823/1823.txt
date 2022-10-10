@@ -1,1 +1,0 @@
-as soon as you have some sort of production workload running in vms you will start thinking about how to protect them from data loss. nevertheless there are several solutions available to back up vms running on free esxi.

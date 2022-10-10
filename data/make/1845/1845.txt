@@ -1,1 +1,0 @@
-a three tiered application environment will also be easier for the technical infrastructure to maintain and operate. for instance if the business requires the functionality provided by a component to be enhanced, only that component will need to be replaced in the runtime environment.

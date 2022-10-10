@@ -1,3 +1,0 @@
-Explicit|||182..188||before||1|before|||Temporal.Asynchronous|||||||||||126..181|1|in particular procedures and functions must be declared||||||||189..202|1|they are used|||||||||||||
-Explicit|||0..5||since||0|since|||Temporal.Asynchronous|||||||||||68..124|0|the language believes strongly in declaration before use||||||||6..66|0|the original pascal was implemented with a one pass compiler|||||||||||||
-Explicit|||126..139||in particular||1|in particular|||Expansion.Instantiation|||||||||||0..124|0|since the original pascal was implemented with a one pass compiler, the language believes strongly in declaration before use||||||||140..202|1|procedures and functions must be declared before they are used|||||||||||||

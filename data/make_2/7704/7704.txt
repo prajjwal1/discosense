@@ -1,1 +1,0 @@
-the calculus style notation is preferred here for better readability in equations. on the other hand the exp style is sometimes more convenient for inline equations, and is necessary on the rare occasions when there is a real distinction to be made.

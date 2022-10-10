@@ -1,1 +1,0 @@
-if facts were true propositions, so it is argued, one would expect the substitutions to preserve truth. nonetheless there are other uses of fact that support the identification.

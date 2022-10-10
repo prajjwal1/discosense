@@ -1,1 +1,0 @@
-for a number of applications, it is advantageous to avoid the shifting induced by using only past data. hence hence a central moving average can be computed, using data equally spaced on either side of the point in the series where the mean is calculated.

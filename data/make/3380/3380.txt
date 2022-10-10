@@ -1,1 +1,0 @@
-it is not used in the sense of a traditional thread or process priority. specifically an activity priority defines an arbitration policy between consumers contending for the same resources.

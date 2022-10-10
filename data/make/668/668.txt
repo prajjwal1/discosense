@@ -1,1 +1,0 @@
-such a conditional probability may be computed using techniques as are known in the art. though a reliability of a combined packet may be determined in any other suitable way.

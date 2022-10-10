@@ -1,1 +1,0 @@
-Explicit|||80..86||in sum||1|in sum|||Expansion.Restatement|||||||||||0..78|0|this can cause significant slowdown in the performance of the individual query||||||||87..216|1|the oracle database administrator will always try changing the optimizer mode for queries as the very first step in oracle tuning|||||||||||||

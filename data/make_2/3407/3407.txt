@@ -1,1 +1,0 @@
-obviously, if a non zero value is set, it should be to a value longer than any connection should reasonably be checked out. otherwise the pool will occasionally kill connections in active use, which is bad.

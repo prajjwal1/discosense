@@ -1,1 +1,0 @@
-for example, you can insert and delete rows, columns, and cells, add borders and shading, and adjust the width of the table. likewise in microsoft excel, you can format cells with a right click.

@@ -1,1 +1,0 @@
-rbtrays one shortcoming is that it doesnt work with heavily skinned windows like winamp and itunes, but these types of programs usually have built in tray options anyway. otherwise rbtray is a handy piece of freeware which will help you keep your sanity while juggling multiple windows.

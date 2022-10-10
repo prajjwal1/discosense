@@ -1,1 +1,0 @@
-additionally, a separate security module does not have to be created for each new telephony application and corresponding new formatting techniques. in sum the partitioning of the specialized formatting mechanisms from the security mechanisms may significantly increase the versatility and reduce the costs of providing computer telephony systems.

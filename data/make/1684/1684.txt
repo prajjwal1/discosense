@@ -1,1 +1,0 @@
-also, the control is so performed that doubly recorded blocks are not doubly restored. consequently no extra processing needs to be performed, and this makes high speed processing possible.

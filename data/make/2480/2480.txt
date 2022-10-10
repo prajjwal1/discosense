@@ -1,1 +1,0 @@
-in one embodiment data corresponding to states desired for a specific sub row in the interferometric modulator array are driven onto the column lines shared by multiple rows and sub rows. subsequently the specific sub row for which the data is intended is driven active, thereby causing the interferometric modulators in that sub row to assume the desired states.

@@ -1,1 +1,0 @@
-this force pushes the passenger back into the seat, until the seat compresses and provides an equal and opposite force. thereafter the passenger is stationary in this frame, because the fictitious force and the real force of the seat are balanced.

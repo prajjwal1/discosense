@@ -1,1 +1,0 @@
-unlike most navigation systems of today, it did not use gps satellites to maintain its position and discern movement of the vehicle. rather it was an inertial navigation system, because it contained a helium gas gyroscope that could detect both rotation and movement.

@@ -1,1 +1,0 @@
-langfred is often overlooked because the academic paper itself is not about statistical methodology. rather because the model in the paper involved moderated mediation, a very large appendix was included, in which the definitions and procedures for the regression analysis was developed.

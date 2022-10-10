@@ -1,1 +1,0 @@
-likewise, in the majority of casesalsaconfis not required to configure sound. rather thealsamixertool is used to unmute the master and pcm channels and turn up the volume, and thealsactl storeis used to save the sound defaults.

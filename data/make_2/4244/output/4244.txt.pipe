@@ -1,3 +1,0 @@
-Explicit|||87..97||thereafter||1|thereafter|||Temporal.Asynchronous|||||||||||0..85|0|while the bit line is being discharged, the data in the ddc is transferred to the tdc||||||||98..189|1|the data in the pdc is transferred to the ddc and the data in tdc is transferred to the pdc|||||||||||||
-Explicit|||0..5||while||0|while|||Temporal.Synchrony|||||||||||40..85|0|the data in the ddc is transferred to the tdc||||||||6..38|0|the bit line is being discharged|||||||||||||
-Explicit|||144..147||and||1|and|||Expansion.Conjunction|||||||||||87..143|1|thereafter the data in the pdc is transferred to the ddc||||||||148..189|1|the data in tdc is transferred to the pdc|||||||||||||

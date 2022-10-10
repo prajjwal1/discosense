@@ -1,1 +1,0 @@
-the proxy server 180 also performs a bounds check on the datetime stamp and rejects the request if the datetime stamp is off by more than 24 hours in either direction. thereby the proxy server 180 can safely dispose wireless client 405 datetime stamps once the datetime stamps become more than 24 hours old.

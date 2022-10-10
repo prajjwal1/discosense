@@ -1,1 +1,0 @@
-no, you have to build a house according to that blueprint to have something to inhabit. similarly you have to create an instance of the controller class in order to use it in your program.

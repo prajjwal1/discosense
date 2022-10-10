@@ -1,1 +1,0 @@
-the contest is asking you to pick the correct order of 3 races from a set of 15. hence there are 2730 distinct combinations of answers.

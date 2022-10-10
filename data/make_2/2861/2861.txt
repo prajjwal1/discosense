@@ -1,1 +1,0 @@
-one can see that the real parameters of ptr gratings allow recording of 100% mirrors in spectral range from 350 nm to 1550 nm in several millimeters thick ptr glass plate. thus we have material enabling volume hologram recording with unique parameters and mathematical tools for calculations of diffractive optical elements produced in those glasses.

@@ -1,1 +1,0 @@
-for some privileges, the communication of privileged information to a third party can undermine or vitiate the privilege. for example if a reporter stores notes or drafts of a story at a cloud providers website, any privilege that the reporter had may be undermined.

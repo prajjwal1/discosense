@@ -1,1 +1,0 @@
-alternatively, ac can be used, and is more efficient for certain applications such as fluorescent field lighting. in particular high frequency ac greatly increases the efficiency of such lighting, and makes the cost of ballasts much lower, thus increasing the practicability of widespread field lighting.

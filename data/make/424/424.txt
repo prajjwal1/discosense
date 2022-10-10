@@ -1,1 +1,0 @@
-you call tail on numbers, which call merge with numbers as parameters, which calls tails on numbers, which calls merge, which calls tail. by contrast in super lazy haskell, when you pattern match, it does barely any work.

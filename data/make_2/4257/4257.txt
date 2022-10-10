@@ -1,1 +1,0 @@
-the btx server acts as a kernel, and executes in protected mode in the most privileged level. in contrast the btx clients, execute in user mode.

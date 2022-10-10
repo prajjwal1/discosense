@@ -1,1 +1,0 @@
-for example, a typical query might be phrasedfind all company x pesticide use permits within 30 feet miles meters of a stream. conversely a query might focus on a particular facility or subfacility type and workin reverseto find, for example, all clients with wellheads within one mile of pesticide spray permits.

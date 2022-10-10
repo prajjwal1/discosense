@@ -1,1 +1,0 @@
-certain maneuvers cannot be detected with high accuracy. for instance a turn may be too gradual to detect using the signal produced by a magnetic compass.

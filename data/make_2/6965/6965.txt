@@ -1,1 +1,0 @@
-second, if the king and rook are on their original squares, castling may or may not be allowed. because of this because of this ambiguity, it would be necessary to make separate evaluations for states in which castling is or is not possible.

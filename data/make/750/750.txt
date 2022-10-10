@@ -1,1 +1,0 @@
-in the case of failover environments, best practise places an upper limit of 50% of each servers individual capacity to provide the space required for failover. by contrast clustered nas allows horizontal scaling across a number of devices with all of them being active and able to see all files in the cluster.

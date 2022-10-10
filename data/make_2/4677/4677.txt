@@ -1,1 +1,0 @@
-background information this section assumes that you are already familiar with the basic operation of dhcp. in particular you should be sure that you have read through and understood the section on dhcp operation before proceeding.

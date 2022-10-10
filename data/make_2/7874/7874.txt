@@ -1,1 +1,0 @@
-syntactic noise measures discrepancies between the concept and the syntax used to represent it. for instance the semi colon at the end of statements in c can be considered as syntactic noise, because it has no equivalent in the concept space.

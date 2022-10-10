@@ -1,2 +1,0 @@
-Explicit|||0..2||if||0|if|||Contingency.Condition|||||||||||46..124|0|the high starting torque for the psc compressor motor may not last long enough||||||||3..44|0|the cool down process is not accomplished|||||||||||||
-Explicit|||221..227||before||1|before|||Temporal.Asynchronous|||||||||||180..220|1|to remain off for at least three minutes||||||||228..256|1|it can automatically restart|||||||||||||

@@ -1,1 +1,0 @@
-wai provides universal formatting standards for websites so they can remain accessible to people with disabilities. for example developing or adopting e learning material can enable accessibility for people with visual impairment.

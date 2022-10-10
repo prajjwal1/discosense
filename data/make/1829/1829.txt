@@ -1,1 +1,0 @@
-a logical unit number manager 404 cooperates with a file manager 406 to logically organize the stored information as named files, directories and luns. in sum the storage appliance 300 may provide nas services through the file manager 406, while also providing san services, including lun emulation, through the lun manager 404.

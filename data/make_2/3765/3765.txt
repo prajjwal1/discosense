@@ -1,1 +1,0 @@
-unlike windows xp, windows 7 and windows vista doesnt support viewing of animated gif files. though you can use default windows photo viewer to open gifs but it only shows a still image of gif considering it is an animated one.

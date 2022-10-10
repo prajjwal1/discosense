@@ -1,1 +1,0 @@
-quality parameters were determined by model calibration of measured wastewater oxygen uptake rates applying a model that describes the aerobic breakdown of wastewater organic matter. thereafter the distributions of the parameters were analyzed.

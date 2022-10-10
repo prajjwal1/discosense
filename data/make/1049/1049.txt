@@ -1,1 +1,0 @@
-thus, the inductive coupling technique may be limited by a minimum pitch requirement between adjacent receiver circuits due to the length of the stub line in each coupling element. in sum conventional chip to chip communication systems have employed a parallel approach to increase information throughput.

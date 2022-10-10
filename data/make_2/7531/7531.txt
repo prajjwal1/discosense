@@ -1,1 +1,0 @@
-the aircraft will then fly directly to the ndb. similarly the aircraft will track directly away from the ndb if the needle is maintained on the 180 degree mark.

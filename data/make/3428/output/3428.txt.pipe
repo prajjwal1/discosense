@@ -1,2 +1,0 @@
-Explicit|||33..35||if||0|if|||Contingency.Condition|||||||||||0..32|0|radiation can kill you very fast||||||||36..68|0|you are very close to the source|||||||||||||
-Explicit|||70..79||otherwise||1|otherwise|||Expansion.Alternative|||||||||||0..68|0|radiation can kill you very fast if you are very close to the source||||||||80..99|1|it is a slow killer|||||||||||||

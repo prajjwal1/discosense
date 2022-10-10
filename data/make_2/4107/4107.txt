@@ -1,1 +1,0 @@
-model the enterprise data, ontology, decomposing business processes into services appears to me as yet another set ofobsessions. for instance decomposing business processes into services simply tells you for that process, that service interface works.

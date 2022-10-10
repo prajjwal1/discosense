@@ -1,1 +1,0 @@
-if only one page is added at the beginning, but more pages will be added later on, you will need to call wizard. setforcepreviousandnextbuttons before the wizard is opened. otherwise the next and back buttons will appear only if more than one page is in the page list.

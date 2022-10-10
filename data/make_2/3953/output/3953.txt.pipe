@@ -1,3 +1,0 @@
-Explicit|||81..85||then||0|then|||Temporal.Asynchronous||||||||||||0|||||||||0..80;86..114|0|click on profile at the top of the page, scroll down until you see timezone, and adjust your time accordingly|||||||||||||
-Explicit|||53..58||until||0|until|||Temporal.Asynchronous|||||||||||0..52;77..114|0|click on profile at the top of the page, scroll down and then adjust your time accordingly||||||||59..75|0|you see timezone|||||||||||||
-Explicit|||129..131||if||1|if|||Contingency.Condition|||||||||||166..218|1|you would have been on gmt 5 before daylight savings||||||||132..164|1|you are in the eastern time zone|||||||||||||

@@ -1,4 +1,0 @@
-Explicit|||118..121||and||1|and|||Expansion.Conjunction|||||||||||55..117|1|therefore therefore the patients symptoms will not be improved||||||||122..167|1|the function of the limb will remain impaired|||||||||||||
-Explicit|||65..74||therefore||1|therefore|||Contingency.Cause|||||||||||122..167|1|the function of the limb will remain impaired||||||||55..64;75..117|1|therefore the patients symptoms will not be improved|||||||||||||
-Explicit|||40..42||if||0|if|||Contingency.Condition|||||||||||0..39|0|by definition, a nonunion will not heal||||||||43..53|0|left alone|||||||||||||
-Explicit|||55..64||therefore||1|therefore|||Contingency.Cause|||||||||||0..53|0|by definition, a nonunion will not heal if left alone||||||||65..167|1|therefore the patients symptoms will not be improved and the function of the limb will remain impaired|||||||||||||

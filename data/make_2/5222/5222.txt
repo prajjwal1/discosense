@@ -1,1 +1,0 @@
-when a barcode reader scans this pattern on an item, the item is identified and its price sent to the cash register for tabulation. similarly a fingerprint consists of a series of whorls and ridges on your fingertip, which together form a pattern that is unique to you.

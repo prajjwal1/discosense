@@ -1,1 +1,0 @@
-if no uncorrectable errors are discovered in the regenerated data packet, an acknowledgment is sent back to the sender. conversely if the regenerated data packet contains uncorrectable errors, no acknowledgment is sent, forcing a subsequent re transmission of that data packet.

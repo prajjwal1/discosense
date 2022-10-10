@@ -1,1 +1,0 @@
-the accompaniment score may be saved in a convenient memory element that is accessible by at least the output manager 18. similarly the performance score may be stored in a memory element that is shared by at least the input processor 14 and the score processor 12.

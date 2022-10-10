@@ -1,1 +1,0 @@
-the real time glucose values provided by the mysentry monitor, as received from the minimed paradigm real time revel insulin pump, are not intended to be used directly for making therapy adjustments. rather they provide an indication that may require a confirmation finger stick measurement.

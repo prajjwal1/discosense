@@ -1,1 +1,0 @@
-the fundamental quandle is a very powerful invariant of knots. in particular if two knots have isomorphic fundamental quandles then there is a homeomorphism of three dimensional euclidean space, which may be orientation reversing, taking one knot to the other.

@@ -1,1 +1,0 @@
-to play additional messages, the user must activate the play button for each message. for example to play the second message, the user would activate the play button twice.

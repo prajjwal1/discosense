@@ -1,1 +1,0 @@
-forming hierarchies of interrelated concepts about class relationships is an example of the domain of this system. for instance the general class of plants includes the classes of fruits and vegetables, which, in turn, include the classes of apples and lettuce, etc.

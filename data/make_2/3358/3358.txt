@@ -1,1 +1,0 @@
-since, the code values of the platen vary, there is a chance that the algorithm may mistake platen information for photograph information. consequently since platen information does not contain the copy protection pattern, it could cause the algorithm to report false results, e. g.

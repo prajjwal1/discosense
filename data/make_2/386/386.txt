@@ -1,1 +1,0 @@
-this will enable researchers to query citation indexes more efficiently by locating articles grouped by citation types. for example it can enable a researcher to locate all background material needed to understand a specific article by locating allbackgroundcitations.

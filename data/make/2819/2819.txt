@@ -1,1 +1,0 @@
-tissue dyed with both types of dyes will emit light at roughly the same intensity from moving tissue and electrically inactive tissue. by contrast electrically active tissue will emit light at a different intensity at the wavelength of the electrically sensitive dye than at the wavelength of the electrically insensitive reference dye.

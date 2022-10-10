@@ -1,1 +1,0 @@
-transaction recovery is not implemented for glassfish v 3 prelude, even if the jts and omg add on components are installed. therefore all transaction service attributes and properties pertaining to transaction recovery or transaction logs are not implemented.

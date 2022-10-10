@@ -1,1 +1,0 @@
-because the measure of total cccs does not capture the many possible patient specific scenarios, the method trades patient specificity for ease of administration. because of this it is more useful in quality improvement than in the evaluation of individual cases.

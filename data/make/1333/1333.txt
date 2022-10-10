@@ -1,1 +1,0 @@
-when setting up the account, all old items are transferred as they should. but then, new sent mail is not showing up in the sent items folder locally.

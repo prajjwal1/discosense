@@ -1,1 +1,0 @@
-if name denotes a primitive type or void an attempt will be made to locate a user defined class in the unnamed package whose name is name. therefore this method cannot be used to obtain any of the class objects representing primitive types or void.

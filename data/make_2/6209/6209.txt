@@ -1,1 +1,0 @@
-note that new devices since symbian may be capable of upgrading to later systems, such as symbian anna and symbian belle. therefore you may see a device being listed in many systems.

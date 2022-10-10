@@ -1,1 +1,0 @@
-Explicit|||131..137||in sum||1|in sum|||Expansion.Restatement|||||||||||0..129|0|it should be understood that other database interfaces may be used to allow business objects to access data in data warehouse 203||||||||138..274|1|the database access objects provide a wrapping function between a business object and a conventional interface of the data warehouse 203|||||||||||||

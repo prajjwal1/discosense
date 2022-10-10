@@ -1,3 +1,0 @@
-Explicit|||113..123||thereafter||1|thereafter|||Temporal.Asynchronous|||||||||||0..111|0|the original images are then cropped to reflect the selected landmarks, thereby generating piecewise images 604||||||||124..215|1|the images are warped to generate the registered face images 606 that include the landmarks|||||||||||||
-Explicit|||24..28||then||0|then|||Temporal.Asynchronous|||||||||||1..2|-1|h||||||||0..23;29..111|0|the original images are cropped to reflect the selected landmarks, thereby generating piecewise images 604|||||||||||||
-Explicit|||72..79||thereby||0|thereby|||Contingency.Cause|||||||||||0..70;108..111|0|the original images are then cropped to reflect the selected landmarks 604||||||||80..107|0|generating piecewise images|||||||||||||

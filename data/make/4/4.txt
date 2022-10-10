@@ -1,1 +1,0 @@
-gtri later added an autonomous mission payload computer to enable the aircraft to run its autonomous behaviors and algorithms. because of that a representative from the maneuver battle lab said the real interest for the maneuver center of excellence was not the aircraft, but the algorithms.

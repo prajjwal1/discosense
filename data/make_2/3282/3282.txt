@@ -1,1 +1,0 @@
-where is a scaling function that ensures a seamless transition from low to high spatial frequencies. specifically compensates for the fact that the imaged speckle contrast is, in general, not equal to one even for objects that are in focus.

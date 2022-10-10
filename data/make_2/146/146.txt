@@ -1,1 +1,0 @@
-also, you need to make sure that no one got in through any of the ports you do have open. in short youll need to do some detective work.

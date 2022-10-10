@@ -1,1 +1,0 @@
-a first category of tests and test data collected may be referred to as informational or information only. for example an informational test may include registering the versions of control software used and registering versions of the firmware loaded on the instrument control electronics modules.

@@ -1,1 +1,0 @@
-in a test mode, a current switching circuit passes equal test currents through the first and second nodes instead of the access current and the reference current, respectively. thereby offset of the current sense amplifier in the data read circuit can be evaluated.

@@ -1,1 +1,0 @@
-during vibration, the detector remains balanced in weight against the actuator and will hardly be deviated or less affected by the vibrating action. hence unwanted signal components are rarely generated from the detectors and the angular velocity sensor will give a minimum of output offset signal change throughout a wide range of temperature.

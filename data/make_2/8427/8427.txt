@@ -1,1 +1,0 @@
-it follows that even among the finite heyting algebras there exist infinitely many that are subdirectly irreducible, no two of which have the same equational theory. hence hence no finite set of finite heyting algebras can supply all the counterexamples to non laws of heyting algebra.

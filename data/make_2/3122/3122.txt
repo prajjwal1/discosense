@@ -1,1 +1,0 @@
-if a device owner is also the user, then the user may optionally suspend or remove it. similarly the device owner may choose to have or not have the application and the corresponding security partition 210.

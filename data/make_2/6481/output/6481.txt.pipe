@@ -1,3 +1,0 @@
-Explicit|||87..94||instead||1|instead|||Expansion.Alternative|||||||||||0..85|0|dmarc doesnt directly address whether or not an email is spam or otherwise fraudulent||||||||95..194|1|dmarc requires that a message not only pass dkim or spf validation, but that it also pass alignment|||||||||||||
-Explicit|||175..179||also||1|also|||Expansion.Conjunction|||||||||||110..161|1|that a message not only pass dkim or spf validation||||||||110..174;180..194|1|that a message not only pass dkim or spf validation, but that it pass alignment|||||||||||||
-Explicit|||163..166||but||1|but|||Comparison.Contrast|||||||||||110..161|1|that a message not only pass dkim or spf validation||||||||167..194|1|that it also pass alignment|||||||||||||

@@ -1,1 +1,0 @@
-lets eliminate xp home since it cannot join a domain, has no multi processor support, does not have remote desktop, and it has very limited file access controls. in short its not meant to run servers.

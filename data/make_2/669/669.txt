@@ -1,1 +1,0 @@
-for instance, characters that are set to offensive fighting have an increased chance to hit their opponents, while their chances to successfully block attacks are reduced. conversely characters that are fighting defensively will receive a bonus to their defence, while the strength of their attacks is reduced.

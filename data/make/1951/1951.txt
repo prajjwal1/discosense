@@ -1,1 +1,0 @@
-i thought about trying to solve this with intelligent mangling, but there is always a boundary case. for instance if you mangle anything with x eclipse 1 in some way, what if there is a global variable x eclipse 1.

@@ -1,1 +1,0 @@
-business methods for establishing and managing sla relationships between providers and subscribing customers have been implemented in content hosting environments. specifically those implemented business methods manage the cost benefit analysis associated with resource allocation choices.

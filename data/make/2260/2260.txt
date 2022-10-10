@@ -1,1 +1,0 @@
-renaud doesnt think dynahand is secure enough for protecting sensitive information, such as bank accounts or health records. rather she believes it could be useful for social sites, where a user wants her account to be private but where nothing disastrous would happen if someone broke into it.

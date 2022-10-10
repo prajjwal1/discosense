@@ -1,1 +1,0 @@
-unlike territory control, the number of aerogates occupied does not determine the winning team. in other words if a teams flag is taken, that team loses, even if they occupy the majority of aerogates.

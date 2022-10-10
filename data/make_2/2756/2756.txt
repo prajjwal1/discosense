@@ -1,1 +1,0 @@
-similarly, the compressed update package is potentially smaller in size than its corresponding small update package. yet it should be appreciated that the compressed delta is considered as one form of a small delta.

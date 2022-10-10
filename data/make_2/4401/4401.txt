@@ -1,1 +1,0 @@
-when a classname like this is used as if it were a property, the property it confers is inheritance. specifically err baddata is defined as inheriting from the exception base class.

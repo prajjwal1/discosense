@@ -1,1 +1,0 @@
-tiobe index is sensitive to the ranking policy of the search engines on which it is based. for instance in april 2004 google performed a cleanup action to get rid of unfair attempts to promote the search rank.

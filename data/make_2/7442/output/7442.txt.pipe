@@ -1,2 +1,0 @@
-Explicit|||142..149||instead||1|instead|||Expansion.Alternative|||||||||||0..140|0|with gsm number portability now in place, lcr providers can no longer rely on using the network root prefix to determine how to route a call||||||||150..232|1|they must now determine the actual network of every number before routing the call|||||||||||||
-Explicit|||209..215||before||1|before|||Temporal.Asynchronous|||||||||||142..208|1|instead they must now determine the actual network of every number||||||||216..232|1|routing the call|||||||||||||

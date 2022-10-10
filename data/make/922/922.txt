@@ -1,1 +1,0 @@
-especially on public networks, information can be grabbed during transmission, then be decrypted. because of this people could potentially acquire your usernames and passwords without too much trouble.

@@ -1,1 +1,0 @@
-these publications show that thermometers based on quartz resonators can detect temperature changes of microkelvins. in particular it has been known for some years that high stability oscillators are subject to temperature effects that perturb their accuracy.

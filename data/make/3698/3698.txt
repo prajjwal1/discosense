@@ -1,1 +1,0 @@
-if its smiling, then the player is winning. otherwise the player is losing the game.

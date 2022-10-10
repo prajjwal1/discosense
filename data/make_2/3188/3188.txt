@@ -1,1 +1,0 @@
-you may decide, for example, that closing the current document would be a good use for mouse button 5. in other words we need to simulate the keypress of ctrl f 4.

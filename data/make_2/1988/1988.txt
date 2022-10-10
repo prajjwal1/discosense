@@ -1,1 +1,0 @@
-naturally occurring positive feedback systems such as the budding yeast galactose response also required some continuing signal to maintain an active stable state. in contrast neither natural nor synthetic versions of the classic prokaryotic genetic toggle switch, which employs two directly opposed repressors, required a maintenance signal for bistability.

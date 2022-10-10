@@ -1,1 +1,0 @@
-for example, when a call is triggered, the called number should always be displayed. thus if a call is triggered by a malicious application, the user can see, and take appropriate action.

@@ -1,1 +1,0 @@
-for example, dk has a basic duration of fifteen seconds, but upon repetition is performed four times slower. consequently its actual duration is five times longer, at a minute and a quarter.

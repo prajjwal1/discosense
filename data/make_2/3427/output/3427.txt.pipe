@@ -1,1 +1,0 @@
-Explicit|||208..211||and||1|and|||Expansion.Conjunction|||||||||||99..206|1|rather there are many potential performance optimizations which require changing the implementation details||||||||212..315|1|numpy developers have been unable to try them because of the high value of preserving abi compatibility|||||||||||||

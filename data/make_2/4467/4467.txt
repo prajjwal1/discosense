@@ -1,1 +1,0 @@
-because the previous algorithms provide no score to limit the prediction to highly confident regions, recall is always nearly equal to one for these algorithms. on the other hand our algorithm is able to make predictions with high precision at the expense of reduced recall.

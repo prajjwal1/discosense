@@ -1,1 +1,0 @@
-there is a need for improved patient movement tracking techniques that can be performed in real time. in particular but without limitation, there is a need for real time tracking of a patients head position in a high field strength fmri without disrupting the scanning by the fmri.

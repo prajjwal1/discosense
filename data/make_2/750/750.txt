@@ -1,1 +1,0 @@
-the graph can be done quite easily using css alone, but it would not resize in its container the way the foreground image does. on the other hand perception speaking, at first glance, i wasnt sure what it wastook a moment to realize it was a graph.

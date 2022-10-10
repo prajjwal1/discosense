@@ -1,1 +1,0 @@
-this operation can be performed on the implicit tree structure because the heaps being merged are never arbitrary. rather the two heaps are formed as part of sifting a node up the multi way tree.

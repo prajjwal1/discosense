@@ -1,1 +1,0 @@
-thereafter, received information bits are written into successive storage locations in memory 50 until the input address counter reaches the packet length count of 210. thereafter the input address counter remains at a count of 210 until it is reset by the next received packet start signals.

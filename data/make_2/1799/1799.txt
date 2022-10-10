@@ -1,1 +1,0 @@
-if the deviations exceed the pre selected threshold values, the motor being tested is defined as having a fault. specifically once the base motor model is selected, the user inputs the necessary parameters for performing thequality assurance testat steps 130 134 as summarized in table 4.

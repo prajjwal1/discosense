@@ -1,1 +1,0 @@
-the blackhand edition uses both the wii remote and the nunchuk if an enemy is on their knees, the player can pull the controllers upwards to lift them off the ground. similarly swinging the controllers from side to side swings an enemy around.

@@ -1,1 +1,0 @@
-it can also be detected from an autocorrelation plot. specifically non stationarity is often indicated by an autocorrelation plot with very slow decay.

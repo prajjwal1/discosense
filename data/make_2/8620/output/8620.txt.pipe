@@ -1,3 +1,0 @@
-Explicit|||152..156||when||1|when|||Temporal.Synchrony|||||||||||96..151|1|likewise if a fleet is carrying land units across water||||||||157..175|1|it loses in combat|||||||||||||
-Explicit|||105..107||if||1|if|||Contingency.Condition|||||||||||96..104;177..214|1|likewise both the fleet and its cargo are lost||||||||108..175|1|a fleet is carrying land units across water when it loses in combat|||||||||||||
-Explicit|||0..2||if||0|if|||Contingency.Condition|||||||||||49..94|0|both the unit and the aircraft are eliminated||||||||3..47|0|a unit supported by aircraft loses in combat|||||||||||||

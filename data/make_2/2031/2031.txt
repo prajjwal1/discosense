@@ -1,1 +1,0 @@
-for example, when a subscriber sees a bill for an 800 number, he usually does not see the termination point from which the call originates. rather he will see that his 800 number had received so many call attempts.

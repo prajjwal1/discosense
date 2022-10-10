@@ -1,1 +1,0 @@
-if the value is less than the critical values shown, you should assume that prices show no statistically significant trend. for example if the slope is at a relatively high level and begins to turn down, you may consider selling or opening a short position.

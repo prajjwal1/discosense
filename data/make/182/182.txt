@@ -1,1 +1,0 @@
-existing navigation and timing signals provided by various existing satellite navigation systems often do not provide satisfactory system performance. in particular the signal power, bandwidth, and geometrical leverage of such navigation and timing signals are generally insufficient to meet the needs of many demanding usage scenarios.

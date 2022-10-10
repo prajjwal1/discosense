@@ -1,1 +1,0 @@
-there are few provisions made to maintain privacy or anonymity among matched individuals. therefore there is a need for social matching methods and systems that address privacy concerns with regard to communications, identities, and user profile data access.

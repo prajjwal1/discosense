@@ -1,1 +1,0 @@
-the number of readings n in one horizontal scan period is two. specifically the number n is not a multiple of three.

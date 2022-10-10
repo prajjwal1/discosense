@@ -1,1 +1,0 @@
-this recommendation is problematic in my view because there is no singularly defensible magnitude for these weights. in short any weighting by study quality is arbitrary, and i strongly recommend against this practice.

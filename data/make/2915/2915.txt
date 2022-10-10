@@ -1,1 +1,0 @@
-make sure the partition you create is just slightly larger than the pagefile, so that page file fragmentation is kept to a minimum. likewise keep the data partition well defragmented and as empty as possible to insure that the data is positioned close as possible to the pagefile partition.

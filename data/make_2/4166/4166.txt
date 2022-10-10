@@ -1,1 +1,0 @@
-applied to a heat exchanger, the optimally tuned pid controller will reach its stability limit when process flow either decreases by 21% or increases by 14%. by contrast optimally tuned pi and pid controllers will only reach their stability limit when flow decreases by 36% and 32% respectively.

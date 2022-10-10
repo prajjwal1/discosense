@@ -1,1 +1,0 @@
-unlike on a computer, ios devices dont have a visible, system wide file system. instead files that can be used by an app can only be fully used, beyond just viewing them, via that app.

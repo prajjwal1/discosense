@@ -1,1 +1,0 @@
-in addition, thermal energy may be generated in the distal tip conductor, thereby further reducing the efficiency of rf energy transmission to the heart tissue. specifically the thermal energy may dry out or desiccate adjacent blood and tissues, thereby creating a high impedance at the conductive interface between the tissues to be treated and the conductor.

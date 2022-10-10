@@ -1,1 +1,0 @@
-when the non inverting output terminal of flip flop 152 is at a logic low state, the first timing interval generator 110 is enabled to receive a triggering input signal. conversely when the inverting output terminal of flip flop 152 is at a logic low state, the second timing interval generator 120 is enabled to receive a triggering input signal.

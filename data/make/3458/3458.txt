@@ -1,1 +1,0 @@
-if the unbound count is zero the binding for this portion of the data transfer is complete. otherwise the algorithm restarts with the remaining unbound portion.

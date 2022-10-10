@@ -1,1 +1,0 @@
-currently, cloud providers do not provide adequate sla for their service offerings. particularly most providers guarantee only the availability of their services.

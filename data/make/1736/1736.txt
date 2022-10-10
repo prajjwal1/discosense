@@ -1,1 +1,0 @@
-ranked players are then matched using a simple algorithm. for example in a 4 player round the matchups would be seed 1 v seed 4 and seed 2 v seed 3.

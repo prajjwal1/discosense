@@ -1,1 +1,0 @@
-an image is considered to consist of a composition of a user selected subject and its background. specifically the user can designate a region of the image as opaque subject, free of any elements of the background.

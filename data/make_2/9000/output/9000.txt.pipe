@@ -1,2 +1,0 @@
-Explicit|||74..87||in particular||1|in particular|||Expansion.Instantiation|||||||||||0..72|0|the placement delete functions are called from placement new expressions||||||||88..156|1|they are called if the constructor of the object throws an exception|||||||||||||
-Explicit|||104..106||if||1|if|||Contingency.Condition|||||||||||74..103|1|in particular they are called||||||||107..156|1|the constructor of the object throws an exception|||||||||||||

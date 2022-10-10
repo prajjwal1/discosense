@@ -1,1 +1,0 @@
-the cost effectiveness acceptability curves presented in our analysis are a way of directly addressing both these issues. in particular they convey information about the whole range of uncertainty rather than focusing exclusively on the 95% confidence limits.

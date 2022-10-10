@@ -1,1 +1,0 @@
-for example, cubemember is used in column and row headers in a typical solution. because of this cubevalue usually refers to a series of cells and slicers.

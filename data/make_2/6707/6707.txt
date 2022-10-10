@@ -1,1 +1,0 @@
-constellation cards represent star constellations in the sky which impact play in some way. for example a given constellation might confer an additional power to the neopets in play, or otherwise might change the game in some fashion.

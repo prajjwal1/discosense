@@ -1,1 +1,0 @@
-Explicit|||167..178||as a result||1|as a result|||Contingency.Cause|||||||||||0..165|0|as you can tell, it contains a lot of metadata, such as layer information, comments, and xml namespaces that are often unnecessary to render the asset in the browser||||||||179..264|1|it is always a good idea to minify your svg files by running through a tool like svgo|||||||||||||

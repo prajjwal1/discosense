@@ -1,1 +1,0 @@
-this includes determining exactly why and under what conditions that step is not correct, in order to be sure not to make this mistake in a more complicated situation where the misstep may not be so obvious. in short the problem is to solve the paradox.

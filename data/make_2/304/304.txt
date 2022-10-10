@@ -1,1 +1,0 @@
-the cause is absent, 0, or present, 1, and its effect was correspondingly binary as absent, 0, or present, 1. thereby the philosophy of formal causality was tied to the discrete mathematics of binary arithmetic.

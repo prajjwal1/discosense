@@ -1,1 +1,0 @@
-maybe instead of lowering the price limit, we should simply say that major exchange stocks with a market cap over 100 m are exempt unless they drop under 50 cents. otherwise the 1.50 price limit should apply.

@@ -1,1 +1,0 @@
-but mesh generation is where you have the most direct influence on how fast, how converged and how accurate your cfd solutions is. because of that you need a mesher thats flexible, robust and reliable.

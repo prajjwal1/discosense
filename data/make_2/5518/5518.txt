@@ -1,1 +1,0 @@
-the light emitting layer includes a quantum well layer, where electrons and holes are recombined to emit light with a wavelength corresponding to the energy gap of the quantum well layer. hence to increase the light emission efficiency of the blue led, it is effective to increase the recombination efficiency of electrons and holes.

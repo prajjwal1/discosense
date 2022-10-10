@@ -1,1 +1,0 @@
-this slow down ramps up rather badly. consequently the hard limit is artificially put in because of this ramp up in access time.

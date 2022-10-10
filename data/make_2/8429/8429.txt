@@ -1,1 +1,0 @@
-first, the extreme events observed in each year must be independent from year to year. in other words the maximum river flow rate from 1984 can not be found to be significantly correlated with the observed flow rate in 1985.

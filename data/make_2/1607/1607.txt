@@ -1,1 +1,0 @@
-operations take place as described above until specific items a, b, c, and d have all been printed. thereafter the microprocessor 32 actuates the motor 12 until solid line 66 arrives in the cutting plane of the tool 16, 14.

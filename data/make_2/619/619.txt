@@ -1,1 +1,0 @@
-if a corpse npc player is behind the mouse, itll still go away very easily. though i wonder if its just for tooltips that are connected to where the mouse is.

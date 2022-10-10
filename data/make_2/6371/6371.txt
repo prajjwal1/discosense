@@ -1,1 +1,0 @@
-however, more complex tools require multiple steps from the programmed robot. for instance some complex tools can have multiple conventional side pulls that mate with the core to add rigidity to the core and reduce the core mass.

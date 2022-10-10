@@ -1,1 +1,0 @@
-references are widely used in programming, especially to efficiently pass large or mutable data as arguments to procedures, or to share such data among various uses. in particular a reference may point to a variable or record that contains references to other data.

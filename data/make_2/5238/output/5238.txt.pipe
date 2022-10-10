@@ -1,2 +1,0 @@
-Explicit|||0..5||while||0|while|||Temporal.Synchrony|||||||||||68..138|0|they dont have to configure switches to get traffic to its destination||||||||6..66|0|the tunnels make use of the physical network to send packets|||||||||||||
-Explicit|||140..151||by contrast||1|by contrast|||Comparison.Contrast|||||||||||0..138|0|while the tunnels make use of the physical network to send packets, they dont have to configure switches to get traffic to its destination||||||||152..221|1|other sdn approaches use methods such as openflow to program switches|||||||||||||

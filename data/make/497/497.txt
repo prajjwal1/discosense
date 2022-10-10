@@ -1,1 +1,0 @@
-unlike traditional bar stem interfaces we have chosen not to turn the aerodynamic profile of the bar into a round shape to integrate into the stem. instead the stem is of the same profile shape as the bar.

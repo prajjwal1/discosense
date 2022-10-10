@@ -1,1 +1,0 @@
-each ogg page also provides the time offset of the contained data, which allows efficient seeking that is both accurate and compatible with streaming. in contrast many other formats seek to byte positions in the stream or rely on a table of contents for seeking information.

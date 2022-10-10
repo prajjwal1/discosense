@@ -1,1 +1,0 @@
-because symbols are, by default, referenced from the schematic and not embedded within it, problems can occur in a schematic using a particular symbol if that symbol file is modified. for instance if pins are moved in the symbol, the schematic net lines will no longer connect to the correct pins.

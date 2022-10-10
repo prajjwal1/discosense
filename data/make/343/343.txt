@@ -1,1 +1,0 @@
-websites with ssl encryption start with https rather than http. in other words ssl is so commonplace that it is built into the webs infrastructure and browser functionality.

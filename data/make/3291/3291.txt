@@ -1,1 +1,0 @@
-and then develop a system which can learn from those training examples. in other words the neural network uses the examples to automatically infer rules for recognizing handwritten digits.

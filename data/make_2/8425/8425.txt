@@ -1,1 +1,0 @@
-however decomposable heronian triangles must have two sides that are the hypotenuse of pythagorean triangles. hence hence all heronian triangles that are not pythagorean have at least two sides that are divisible by primes of the form 4 k 1.

@@ -1,1 +1,0 @@
-it takes an average of 49 seconds from launch to the login prompt on vmware. in contrast both virtualbox and qemu take an average of 18 seconds.

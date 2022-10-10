@@ -1,1 +1,0 @@
-using dating sites as part of a con isnt new, but using stolen accounts to do it is, especially at scale. interestingly the phishing kits found in the wild now disproportionately seek logins for dating sites, as compared to banking sites and other traditional fraud targets.

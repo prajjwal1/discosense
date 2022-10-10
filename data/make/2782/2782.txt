@@ -1,1 +1,0 @@
-this threshold is elaborately designed so that a node can just be elected once in a certain time interval. hence all nodes nearly take turns to serve as ch, which achieves a uniform distribution of energy consumption among all sensors.

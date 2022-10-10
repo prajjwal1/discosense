@@ -1,1 +1,0 @@
-on the other hand, the audio prompt may have informed the user that an unintended selection is about to be made. therefore the user can attempt to select a different user interface control.

@@ -1,1 +1,0 @@
-this forces the endpoint times to be varied as well. by contrast hamiltons principle does not require the conservation of energy, but does require that the endpoint times t and t be specified as well as the endpoint states q and q.

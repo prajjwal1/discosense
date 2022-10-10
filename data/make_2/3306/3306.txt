@@ -1,1 +1,0 @@
-if not, is there a reason for this. otherwise its just a waste of storage space in gac because precompiled assemblies dont provide much advantage of performance over non precompiled versions.

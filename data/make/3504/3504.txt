@@ -1,1 +1,0 @@
-the player can use towns to replenish strength, buy equipment, and discover clues about their next destination. conversely the player fights monsters at random intervals on the world map and in dungeons.

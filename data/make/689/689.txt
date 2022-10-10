@@ -1,1 +1,0 @@
-accordingly, when a prediction block is different for each skipped block, in addition to information of coding skip, information of the prediction method must be coded. as a result coding skip cannot be effectively performed.

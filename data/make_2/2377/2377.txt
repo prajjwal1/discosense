@@ -1,1 +1,0 @@
-ideas borrowed from google chrome the ie 9 beta has a stripped down orminimalistlook, adopting some of the features seen in the google chrome browser. for instance opening a new tab in ie 9 brings up apopular sitesscreen showing the logos of the most visited web pages.

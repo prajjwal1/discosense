@@ -1,1 +1,0 @@
-it only acquires significance if we fix it within some context of use. thus it fails to say anything because the sentence as such does not yet determine some particular use.

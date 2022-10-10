@@ -1,1 +1,0 @@
-in addition, all of the defects not of interest may not be nuisance defects. for instance systematic defects that have relatively low or no yield impact may be defects not of interest and not nuisance defects.

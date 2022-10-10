@@ -1,1 +1,0 @@
-thus, even though data in memory cells is destroyed during the first half of the refresh operation, there are no impediments to subsequent operations. hence when this third aspect is applied to a memory circuit, the refresh command generation circuit generates refresh commands according to the state of input of external commands.

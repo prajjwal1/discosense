@@ -1,1 +1,0 @@
-the links in the overlay multicast tree are selected from links already in the overlay network. in other words the overlay multicast tree is embedded in the overlay network.

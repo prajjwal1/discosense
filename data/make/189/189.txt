@@ -1,1 +1,0 @@
-the most important feature is that the warnings pragma has a lexical effect. in other words rather than enabling warnings for the entire program unilaterally, some files and blocks can request stricter or looser warning categories than others.

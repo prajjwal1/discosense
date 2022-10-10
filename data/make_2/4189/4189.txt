@@ -1,1 +1,0 @@
-since the original pascal was implemented with a one pass compiler, the language believes strongly in declaration before use. in particular procedures and functions must be declared before they are used.

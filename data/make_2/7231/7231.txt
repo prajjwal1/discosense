@@ -1,1 +1,0 @@
-the dog function will have strong responses along edges, even if the candidate keypoint is not robust to small amounts of noise. therefore in order to increase stability, we need to eliminate the keypoints that have poorly determined locations but have high edge responses.

@@ -1,1 +1,0 @@
-the cad application further maintains other types of information relevant to the corresponding loyalty or reward programs. for example the cad application may maintain two fields, a store paper coupon quantity field and a manufacturer coupon quantity field.

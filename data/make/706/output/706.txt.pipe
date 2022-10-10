@@ -1,2 +1,0 @@
-Explicit|||131..133||if||1|if|||Contingency.Condition|||||||||||120..130;193..276|1|conversely no acknowledgment is sent, forcing a subsequent re transmission of that data packet||||||||134..191|1|the regenerated data packet contains uncorrectable errors|||||||||||||
-Explicit|||0..2||if||0|if|||Contingency.Condition|||||||||||74..118|0|an acknowledgment is sent back to the sender||||||||3..72|0|no uncorrectable errors are discovered in the regenerated data packet|||||||||||||

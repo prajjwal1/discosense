@@ -1,1 +1,0 @@
-in addition, aspects of each mode of transmission may be dynamically adjusted. for instance the predetermined intervals may be dynamically adjusted to comport with changing bandwidth limits.

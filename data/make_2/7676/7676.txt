@@ -1,1 +1,0 @@
-similarly, a suitable device specific css style sheet or a set of in line styles might be generated from abstract style definitions. likewise a device specific layout might be generated from abstract layout definitions.

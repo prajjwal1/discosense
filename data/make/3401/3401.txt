@@ -1,1 +1,0 @@
-furthermore, the direct current voltage regulator 24 can be so implemented that it can provide different but respectively constant release voltages for different brakes in different types of wind turbines. thereby the driving device 1 according to the present invention can be applicable widely and economically.

@@ -1,1 +1,0 @@
-the voice call system and electronic apparatuses includes at least one speaker and at least one microphone, respectively. particularly in the apparatuses including both the speaker and microphone, a voice signal output from the speaker may be received by the microphone of the same apparatuses.

@@ -1,1 +1,0 @@
-m not sure whether exporting as pdf svg eps should get you really large images. though logically you should be able to resize vector formats to whatever size you want without loss of information.

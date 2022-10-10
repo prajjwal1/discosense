@@ -1,1 +1,0 @@
-all these web servers point to the same codebase, and they all reside in the same local area network. as a result they can access a file stored somewhere in the local area network using a unc path.

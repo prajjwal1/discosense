@@ -1,1 +1,0 @@
-okay, lets imagine that we experience wall voltage brown out of 10% so the raw voltage feeding the regulator falls to 306 vdc, which will cause the rail voltages to fall to 180 vdc. in contrast with the zener string in place, the rail voltages will fall less than 2 v, as the 12 au 7 reduces its conduction to 5 ma.

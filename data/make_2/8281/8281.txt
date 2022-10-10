@@ -1,1 +1,0 @@
-uri attribute value in versions prior to opera 9, all uri attribute values are resolved to full uri. hence hence the value from getattribute and getattributenode could be wrong if relative uris are used.

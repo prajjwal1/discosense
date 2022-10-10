@@ -1,1 +1,0 @@
-another way that companies use etl is to move information to another application permanently. for instance the new application might use another database vendor and most likely a very different database schema.

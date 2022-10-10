@@ -1,1 +1,0 @@
-this policy is suitable for link speeds of 3 mbps or higher. however in an ipsec environment, it is good to remember that load sharing gre tunnels over multiple physical interfaces exacerbate anti replay drops.

@@ -1,1 +1,0 @@
-in a psg, a constituent contains at least one member, but has no upper bound. in contrast with merge theory, a constituent contains at most two members.

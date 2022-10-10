@@ -1,1 +1,0 @@
-obviously there is a major difference in available power here as the i 3 is a dual core and our test rig is a i 7 quad. however once you accept this huge variance in potential cpu cycles you realise that our 600 gaming rig based on the aria 540 bundle performs surprisingly well.

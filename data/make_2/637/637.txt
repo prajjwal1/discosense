@@ -1,1 +1,0 @@
-the short training sequence in each of the above preambles may or may not be the same as the legacy short training sequence defined by the 802.11 a standard. similarly the elt sequence may be the same as the legacy long training sequence or any one of the elt sequences described.

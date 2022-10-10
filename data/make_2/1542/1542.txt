@@ -1,1 +1,0 @@
-at this time, priority may be given to first touch sensing unit 140 of the digital pen method, which can express a sensed value more minutely. however this is merely an example and a coordinate value sensed by a touch sensing unit set by the user may be displayed.

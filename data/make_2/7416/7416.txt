@@ -1,1 +1,0 @@
-considered as a real 2 dimensional analytic manifold, the open unit disk is therefore isomorphic to the whole plane. in particular the open unit disk is homeomorphic to the whole plane.

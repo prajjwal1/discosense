@@ -1,4 +1,0 @@
-Explicit|||69..73||when||0|when|||Temporal.Synchrony|||||||||||18..68;103..144|0|get dropped out of broadband access down to 1 xrtt but when you leave a broadbandaccess area||||||||74..101|0|you leave your calling area|||||||||||||
-Explicit|||107..111||when||0|when|||Temporal.Synchrony|||||||||||18..106|0|get dropped out of broadband access down to 1 xrtt when you leave your calling area, but||||||||112..144|0|you leave a broadbandaccess area|||||||||||||
-Explicit|||261..263||if||1|if|||Contingency.Condition|||||||||||146..260|1|for instance if you lived in kansas, you would get 1 xrtt in your local area, and would get broadbandaccess speeds||||||||264..296|1|you travelled to dc or san diego|||||||||||||
-Explicit|||103..106||but||0|but|||Comparison.Contrast|||||||||||69..101|0|when you leave your calling area||||||||107..144|0|when you leave a broadbandaccess area|||||||||||||

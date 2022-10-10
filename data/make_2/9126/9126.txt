@@ -1,1 +1,0 @@
-the current installed capacity in the state is 185 mw, but the state itself consumes 610 mw. in other words it imports electricity.

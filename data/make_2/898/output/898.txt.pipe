@@ -1,2 +1,0 @@
-Explicit|||0..4||when||0|when|||Temporal.Synchrony|||||||||||83..157|0|the associated texture unit must be configured for depth compare texturing||||||||5..81|0|you use the texture functions that allow specifying a depth comparison value|||||||||||||
-Explicit|||159..168||otherwise||1|otherwise|||Expansion.Alternative|||||||||||0..157|0|when you use the texture functions that allow specifying a depth comparison value, the associated texture unit must be configured for depth compare texturing||||||||169..215|1|no depth comparison will actually be performed|||||||||||||

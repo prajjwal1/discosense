@@ -1,3 +1,0 @@
-Explicit|||0..4||when||0|when|||Temporal.Synchrony|||||||||||71..122|0|the rotor is pulled downwards by the tension spring||||||||5..69|0|the hull then moves from a crest of a wave to a trough of a wave|||||||||||||
-Explicit|||14..18||then||0|then|||Temporal.Asynchronous|||||||||||1..2|-1|h||||||||0..13;19..122|0|when the hull moves from a crest of a wave to a trough of a wave, the rotor is pulled downwards by the tension spring|||||||||||||
-Explicit|||124..131||thereby||1|thereby|||Contingency.Cause|||||||||||0..122|0|when the hull then moves from a crest of a wave to a trough of a wave, the rotor is pulled downwards by the tension spring||||||||132..200|1|the energy accumulated in the spring is converted to electric energy|||||||||||||

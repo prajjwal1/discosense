@@ -1,1 +1,0 @@
-therefore, gif variations without lzw compression were developed. for instance for instance the libungif library, based on eric s. raymonds giflib, allows creation of gifs that followed the data format but avoided the compression features, thus avoiding use of the unisys lzw patent.

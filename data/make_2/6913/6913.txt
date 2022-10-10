@@ -1,1 +1,0 @@
-there are efforts to run debian on mobile devices, but this is not a project goal yet since the debian linux kernel maintainers would not apply the needed patches. nevertheless there are packages for resource limited systems.

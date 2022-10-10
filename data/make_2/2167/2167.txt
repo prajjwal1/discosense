@@ -1,1 +1,0 @@
-using a plan guide to try and add nolock if it isnt already present in the query text will lead to an error. though the code shown in example k seems to contradict that, so maybe it is worth a shot after all.

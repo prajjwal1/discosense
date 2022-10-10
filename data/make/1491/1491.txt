@@ -1,1 +1,0 @@
-any scanning artifacts can be removed by appropriate algorithms or by a human operator. likewise a stomatological number can be assigned to each tooth of the model 851 by an algorithm or by an operator.

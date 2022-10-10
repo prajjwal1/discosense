@@ -1,1 +1,0 @@
-if no column is provided, returns all mappings corresponding to a either the line we are searching for or the next closest line that has any mappings. otherwise returns all mappings corresponding to the given line and either the column we are searching for or the next closest column that has any offsets.

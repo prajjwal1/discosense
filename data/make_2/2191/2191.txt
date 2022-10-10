@@ -1,1 +1,0 @@
-when the end of the diffusing region is reached, the process is complete. otherwise the process continues until the end of the diffusing region is reached.

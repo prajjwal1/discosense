@@ -1,1 +1,0 @@
-we apply this theorem to develop a general approach for studying the l abelian complexity of 2 automatic sequences. in particular we prove that the period doubling word and the thue morse word have 2 abelian complexity sequences that are 2 regular.

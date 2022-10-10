@@ -1,1 +1,0 @@
-an fcm is in this case a so called functional component module, by means of which an appliance functionality is thus covered. conversely the havi network stations should also be addressed from the upnp side.

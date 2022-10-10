@@ -1,1 +1,0 @@
-this data synchronization includes phase alignment 508 and bit alignment 510, as previously described. thereafter the data signals are deserialized 512 by demultiplexing.

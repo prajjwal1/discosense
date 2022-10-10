@@ -1,1 +1,0 @@
-if the list is empty, then control passes to operation 745 and the nodes are connected using conventional connection logic. by contrast if the list is not empty, then control passes to operation 735 where the non optional nodes are connected.

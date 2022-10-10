@@ -1,1 +1,0 @@
-along with being the most well known, make is probably the most difficult to use in a very large and highly configurable system. because of this many alternatives have been developed.

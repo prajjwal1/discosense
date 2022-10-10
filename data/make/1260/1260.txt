@@ -1,1 +1,0 @@
-as the name suggests, simplesu doesnt concentrate on packing a lot of features. instead xda senior member n 0 p developed it to be the lightest, simplest, and most barebones root access management app around.

@@ -1,1 +1,0 @@
-microbioreactors, have been largely limited to e. coli to date however. conversely mini scale systems have supported many other cell types including yeasts, filamentous actinobacteria, and mammalian cells.

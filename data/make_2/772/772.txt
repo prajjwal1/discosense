@@ -1,1 +1,0 @@
-therefore, with each elementary interval we associate the subset of filters that are stabbed in this coordinate by values in this interval. in particular the first stage of the search is performed by locating the elementary interval on the first axis that contains the first coordinate of the packet.

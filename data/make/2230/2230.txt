@@ -1,1 +1,0 @@
-similarly, if the run is black, run 132 may be substituted by the concatenation of fields 140, 152 and 154. hence 3272 pixels of digitized data may be replaced by a 26 bit code.

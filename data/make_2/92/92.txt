@@ -1,1 +1,0 @@
-processing of alarms in accordance with the present invention includes the assumption that if alarm b is activated, then alarm a should be activated. in other words alarm processing in the present invention waits for the same period of time as when alarm b was initially activated.

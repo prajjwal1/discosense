@@ -1,1 +1,0 @@
-the voice signal outputted from the signal voice converting and synthesizing circuit 71 is supplied to the speaker 72. thereby the message is outputted by voice from the speaker 72.

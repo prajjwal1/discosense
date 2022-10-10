@@ -1,1 +1,0 @@
-probability is a measure, and it is quite common for non empty sets to have 0 measure. conversely an event happens almost surely if it happens with probability 1.

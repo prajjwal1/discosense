@@ -1,1 +1,0 @@
-the uncensored data was defined as the waiting duration which ended within the red light period. otherwise the waiting duration was called as the censored data as long as it ended within the green light period.

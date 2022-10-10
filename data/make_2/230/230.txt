@@ -1,1 +1,0 @@
-there is no need to encapsulate the integer, so there is no need to create a class. in other words dont create a class because you think you should, create a class because it makes your code simpler.

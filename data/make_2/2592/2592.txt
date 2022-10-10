@@ -1,1 +1,0 @@
-for a binary storage unit there is only one data state aside from the ground state, while the multi state case will have additional states. for example consider the case where each storage element or cell stores a total of 3 bits or eight states.

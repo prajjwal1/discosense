@@ -1,1 +1,0 @@
-the set output of the flip flop 32 is applied to the character generator 7, thereby to specify a printing operation of the japanese kana letters. similarly if and when the numerical value code 62 is introduced to the character generator 7, then the japanese kana character is printed.

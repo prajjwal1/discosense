@@ -1,1 +1,0 @@
-in the case of a failure of individual authentication or billing process for a certain reason, failure concerned information 113 is notified to the software radio apparatus 100. thereafter the procedure is ended.

@@ -1,1 +1,0 @@
-but the faster search speed is reduced by more seeking in the term enum of the index. because of this the ideal precisionstep value can only be found out by testing.

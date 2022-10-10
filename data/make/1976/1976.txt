@@ -1,1 +1,0 @@
-effectively, the wire command is called when you click the anchor point of a wire stub and drag it. for example three wires are stretched from the free end towards the right, top, and bottom directions, respectively.

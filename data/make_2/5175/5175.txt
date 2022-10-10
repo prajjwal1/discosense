@@ -1,1 +1,0 @@
-with this update, the code has been improved to validate ip addresses. as a result valid ipv 4 addresses, as well as hostnames, are more reliably distinguished.

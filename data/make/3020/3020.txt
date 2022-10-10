@@ -1,1 +1,0 @@
-i was just bout to export when i noticed my partner in crime had exported the widescreen video in the standard 43 ratio. because of this it wasnt exported anamorphically the exporter placed the black widescreen bars on the top and bottom.

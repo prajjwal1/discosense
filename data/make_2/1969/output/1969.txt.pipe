@@ -1,3 +1,0 @@
-Explicit|||0..4||next||0|next|||Temporal.Asynchronous|||||||||||1..2|-1|e||||||||6..106|0|block 200 processes the call as is normal and control may pass to block 110 to get additional events|||||||||||||
-Explicit|||48..51||and||0|and|||Expansion.Conjunction|||||||||||0..47|0|next, block 200 processes the call as is normal||||||||52..106|0|control may pass to block 110 to get additional events|||||||||||||
-Explicit|||146..148;173..177||if then||1|if then|||Expansion.Conjunction||||||||||||1|||||||||133..145;149..172;178..215|1|to block 210 the caller hung up, and to block 110 to get additional events|||||||||||||

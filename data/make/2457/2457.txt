@@ -1,1 +1,0 @@
-moreover, there is no requirement that mirrored logical volumes in one physical disk storage device need to be mirrored on a single mirroring physical disk storage device. for example the locations of the lvj and m 2 lva logical volumes could be interchanged.

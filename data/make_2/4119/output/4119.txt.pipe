@@ -1,2 +1,0 @@
-Explicit|||97..106||otherwise||1|otherwise|||Expansion.Alternative|||||||||||0..95|0|the uncensored data was defined as the waiting duration which ended within the red light period||||||||107..209|1|the waiting duration was called as the censored data as long as it ended within the green light period|||||||||||||
-Explicit|||160..170||as long as||1|as long as|||Temporal.Synchrony|||||||||||97..159|1|otherwise the waiting duration was called as the censored data||||||||171..209|1|it ended within the green light period|||||||||||||

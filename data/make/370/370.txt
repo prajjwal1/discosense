@@ -1,1 +1,0 @@
-however, this inconsistency in the display is transient and the display is corrected after few seconds. as a result the standby controller card doesnt generate alarm if an uplink clock source becomes unlockable.

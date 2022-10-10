@@ -1,1 +1,0 @@
-if we assume normal dry ish skin, and casual or accidental contact with an exposed contact, bus bar or terminalat what voltage does that sort of dangerous current become more possible. in other words for normal everyday applications, at what level of voltage does it start to become necessary to insulate, or cover, exposed contacts etc.

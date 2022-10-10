@@ -1,1 +1,0 @@
-lets first find the zeroes of tangent. because of that identity, the zeroes of tangent will be exactly the same as the zeroes of sine.

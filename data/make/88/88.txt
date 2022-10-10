@@ -1,1 +1,0 @@
-four constant regions is not meant to be limiting. for example in one embodiment the convolution filter may have a large number of regions each with an assigned filter value.

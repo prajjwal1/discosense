@@ -1,1 +1,0 @@
-the programs are built from similar programs used to control actual experiments, so they have the same look and feel as the experimental programs. in particular experimental noise is incorporated into the simulations in a realistic way.

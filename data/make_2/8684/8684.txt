@@ -1,1 +1,0 @@
-they can be correlated across time and across series for the same individual and horizon, etc. similarly heteroskedasticity can be defined across individuals for the same series, time, and horizon, across individuals and different series for the same time and horizon, etc.

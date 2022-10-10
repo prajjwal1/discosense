@@ -1,1 +1,0 @@
-the quickbooks data file was converted from a quicken data file containing a r transactions that were recorded without assigning category to them. thus uncategorized payment and invoice amounts appear in quickbooks p l reports as uncategorized expenses and uncategorized income, respectively.

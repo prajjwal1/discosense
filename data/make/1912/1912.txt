@@ -1,1 +1,0 @@
-peak propulsive efficiency can be obtained by adjusting these parameters. particularly when input power coefficient is less than 2.8, the rigid tail generates larger thrust force and higher propulsive efficiency than flexible tail.

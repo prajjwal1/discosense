@@ -1,1 +1,0 @@
-note the bottom tabs will not look correct in dreamweavers design view due to how dreamweaver handles the display of spry widgets is not compatible with the changes made above. in particular in design view you will likely see the content of each tab, and only see the first tab displayed.

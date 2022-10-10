@@ -1,1 +1,0 @@
-typically, the statistical frequencies of the values to be coded have an order. particularly that order is based upon the probable frequency of occurrence of the different values.

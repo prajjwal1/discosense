@@ -1,1 +1,0 @@
-if the system commands an increase in speed where an at or before rta waypoint is crossed, then that waypoint may be considered redundant and may be ignored. as a result the speed for that phase will increase and the aircraft will reach the waypoint early.

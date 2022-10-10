@@ -1,1 +1,0 @@
-note that the periodic intensity pattern is clear at a specific energy depending on the g 1 g 2 distance while the periodic intensity patterns at different x ray energies are more blurry. therefore g 2, which must be an amplitude type and has a pitch equal to the period of the intensity pattern, can filter out the x rays of a specific energy range.

@@ -1,1 +1,0 @@
-the mathematical modeling is developed on the basis of fourier optics, making possible the understanding of the different influences of each of the physical effects invoked in digital holography. particularly it is demonstrated that spatial resolution in the reconstructed plane can be written as a convolution product of functions that describe these influences.

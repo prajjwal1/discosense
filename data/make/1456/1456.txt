@@ -1,1 +1,0 @@
-however, a literal interpretation of tamper proof was considered to be too stringent, since there would always be some conceivable, albeit unreasonable, method to overcome tamper proof features. nonetheless where tamper resistance is the sole method of providing security, it is intended that the features be very robust.

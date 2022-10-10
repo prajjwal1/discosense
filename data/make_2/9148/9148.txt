@@ -1,1 +1,0 @@
-more generally, a ring is a length one module over itself. similarly the projective line over a ring is a one dimensional space over the ring.

@@ -1,1 +1,0 @@
-one was about making the technology available downlevel to windows xp. thus our beta 1 bits that are being released today actually do work on xp.

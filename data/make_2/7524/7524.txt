@@ -1,1 +1,0 @@
-as a result, compiler and tool updates may break the ability to compile older projects easily without warning. nonetheless ci techniques are considered the more modern approach.

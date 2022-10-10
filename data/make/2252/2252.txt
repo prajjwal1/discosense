@@ -1,1 +1,0 @@
-barring some relevant partial results, all the noncommutative geometry structure is a generalization of riemannian geometry, that is a geometry where the metric tensor is positively defined. conversely physics deals with the geometric structure known as pseudo riemannian manifold that allows one to give a mathematically rigorous description of causality.

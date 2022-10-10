@@ -1,1 +1,0 @@
-the fluids is less dense than water, and this is consistent with the buoyant force when suspended in liquid being less than that when suspended in water. similarly if wfluid is less than wwater, the term on the right in the above expression is greater than one, indicating that the fluid is denser than water.

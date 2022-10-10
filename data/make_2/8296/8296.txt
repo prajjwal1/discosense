@@ -1,1 +1,0 @@
-decompilers are usually unable to perfectly reconstruct the original source code, and as such, will frequently produce obfuscated code. nonetheless decompilers remain an important tool in the reverse engineering of computer software.

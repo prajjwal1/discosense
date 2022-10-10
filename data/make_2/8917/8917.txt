@@ -1,1 +1,0 @@
-where the information is coming from is defined using references. for instance for instance order. approved is a piece of available information that is either produced during the process or is already an available piece of information.

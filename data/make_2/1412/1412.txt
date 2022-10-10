@@ -1,1 +1,0 @@
-for example, the diversity channel 210 would simply be identified by position 4 in the bitmap, or region id 0100. similarly the diversity channel 212 would be identified by position 6 in the bitmap, or region id 0110.

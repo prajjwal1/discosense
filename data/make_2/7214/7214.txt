@@ -1,1 +1,0 @@
-dmls eliminates the need for tool production however such technologies are impervious to economies of scale. therefore it is recommended to design parts with least amount of superfluous volumes, building only the relevant geometries.

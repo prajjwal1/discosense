@@ -1,1 +1,0 @@
-another rate control issue involves the presentation time of decoded information frames in relation to the time the buffer receives the next frame. in other words the next i frame must be delivered to the decoder buffer before the buffer is emptied.

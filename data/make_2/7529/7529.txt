@@ -1,1 +1,0 @@
-non autonomous mechanics describe non relativistic mechanical systems subject to time dependent transformations. in particular this is the case of mechanical systems whose lagrangians and hamiltonians depend on the time.

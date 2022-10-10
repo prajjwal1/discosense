@@ -1,1 +1,0 @@
-on the other hand the hearing device comprises anrf signal processing stage. thereby utmost care should be taken to prevent rf signals from mutually interfering with the audio signals as processed in the audio signal processing stage.

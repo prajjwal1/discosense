@@ -1,1 +1,0 @@
-brightness is affected most by what is surrounding the object. in other words the object can look lighter or darker depending on what is around it.

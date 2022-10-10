@@ -1,1 +1,0 @@
-67 and 71 are both prime, and differ by four. because of this they are called cousin primes.

@@ -1,1 +1,0 @@
-the real motivation is to allow dragging interactions as a first class ui citizen. in particular i would like to have a draggable version of twopane, which would send special resize messages as the user drags the border between the two panes.

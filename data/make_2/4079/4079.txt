@@ -1,1 +1,0 @@
-the article you linked in turn links to this article at gamasutra that has possible answers to your problem, in the section on smoothing the path. specifically you can modify your heuristic to give a higher cost penalty to choices that require a change in direction.

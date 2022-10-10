@@ -1,1 +1,0 @@
-intermediate values might be useful to trade off planning time against quality of plan. particularly people switching from ms sql server will want to enable this option with a moderately high value, as that database does join collapsing automatically.

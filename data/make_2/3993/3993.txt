@@ -1,1 +1,0 @@
-a low level api lets programmers access more intricate hardware features but requires more coding. in contrast a high level api may be capable of performing extensive processing with one function call from the application.

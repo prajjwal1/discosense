@@ -1,1 +1,0 @@
-while some of these systems have been modified to carry data and allow checking e mail, the maximum data rate is usually less than 9,600 bps. in contrast existing two way broadband services using ku band satellites provide download speeds exceeding 500 kbps.

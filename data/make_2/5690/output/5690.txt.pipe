@@ -1,5 +1,0 @@
-Explicit|||0..7||instead||0|instead|||Expansion.Alternative|||||||||||1..2|-1|n||||||||9..101|0|they now need to discover the actual current network of every number before routing the call|||||||||||||
-Explicit|||122..126||also||1|also|||Expansion.Conjunction|||||||||||0..101|0|instead, they now need to discover the actual current network of every number before routing the call||||||||103..121;127..171|1|thus lcr solutions need to handle mnp when routing a voice call|||||||||||||
-Explicit|||78..84||before||0|before|||Temporal.Asynchronous|||||||||||23..77|0|to discover the actual current network of every number||||||||85..101|0|routing the call|||||||||||||
-Explicit|||146..150||when||1|when|||Temporal.Synchrony|||||||||||132..145|1|to handle mnp||||||||151..171|1|routing a voice call|||||||||||||
-Explicit|||103..107||thus||1|thus|||Contingency.Cause|||||||||||0..101|0|instead, they now need to discover the actual current network of every number before routing the call||||||||108..171|1|lcr solutions also need to handle mnp when routing a voice call|||||||||||||

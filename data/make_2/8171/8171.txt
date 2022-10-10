@@ -1,1 +1,0 @@
-by now, enumerative induction has been shown to exist, but is found rarely, as in programs of machine learning in artificial intelligence. likewise machines can be programmed to operate on probabilistic inference of near certainty.

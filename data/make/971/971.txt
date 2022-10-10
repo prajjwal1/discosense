@@ -1,1 +1,0 @@
-just store what the user entered exactly as it was entered. otherwise you start getting into this issue of who converted where and worrying about double.

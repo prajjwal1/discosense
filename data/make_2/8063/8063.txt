@@ -1,1 +1,0 @@
-with advances in sonet and sdh chipsets, the traditional categories of network elements are no longer distinct. nevertheless as network architectures have remained relatively constant, even newer equipment can be examined in light of the architectures they will support.

@@ -1,3 +1,0 @@
-Explicit|||102..106||thus||1|thus|||Contingency.Cause|||||||||||0..100|0|the internet is critical infrastructure, yet its operation depends on the fundamentally insecure dns||||||||107..229|1|there is strong incentive to secure dns, and deploying dnssec is generally considered to be a critical part of that effort|||||||||||||
-Explicit|||148..151||and||1|and|||Expansion.Conjunction|||||||||||102..146|1|thus there is strong incentive to secure dns||||||||152..229|1|deploying dnssec is generally considered to be a critical part of that effort|||||||||||||
-Explicit|||41..44||yet||0|yet|||Comparison.Contrast|||||||||||0..39|0|the internet is critical infrastructure||||||||45..100|0|its operation depends on the fundamentally insecure dns|||||||||||||

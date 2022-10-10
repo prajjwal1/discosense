@@ -1,1 +1,0 @@
-we have further extended the present formulation directed toward the spectral filter problem. in particular we have utilized the gaussian damping function for the purpose.

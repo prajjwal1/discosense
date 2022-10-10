@@ -1,1 +1,0 @@
-if the stream car is never accessed, the object stored there is never evaluated. likewise the stream cdr is a promise to return a stream, and is only forced on demand.

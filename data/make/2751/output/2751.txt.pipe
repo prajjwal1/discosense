@@ -1,3 +1,0 @@
-Explicit|||79..81||if||0|if|||Contingency.Condition|||||||||||31..78|0|lynas cannot make money from these two products||||||||82..102|0|conditions are ideal|||||||||||||
-Explicit|||28..30||if||0|if|||Contingency.Condition|||||||||||20..27;104..141|0|because lynas will never make money from them||||||||31..102|0|lynas cannot make money from these two products if conditions are ideal|||||||||||||
-Explicit|||20..27||because||0|because|||Contingency.Cause|||||||||||0..19|0|this is distressing||||||||28..141|0|if lynas cannot make money from these two products if conditions are ideal, lynas will never make money from them|||||||||||||

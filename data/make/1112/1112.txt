@@ -1,1 +1,0 @@
-unlike brmi, we do not throw an exception when the value of the future is requested. rather the request for the value of a future initiates the communication with the server, for all outstanding futures.

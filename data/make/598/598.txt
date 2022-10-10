@@ -1,1 +1,0 @@
-at the time this document was created, no working group was chartered to advance the pics rdf xml mapping. consequently this document in its current version has no formal standing in w 3 c process and is provided here for reference and discussion amongst pics and rdf implementors.

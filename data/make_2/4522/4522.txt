@@ -1,1 +1,0 @@
-unfortunately, amorphous silicon does not form a suitable active layer for drive ics, which are usually cmos devices that require an active layer of single crystalline silicon. because of this drive ics are usually connected to a tft substrate using a tab system.

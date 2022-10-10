@@ -1,1 +1,0 @@
-while the full version of cubase features unlimited audio and midi tracks, lesser versions have limits. for instance cubase elements 6 has a maximum of 48 audio track and 64 midi tracks and cubase artist 6 offer 64 audio and 128 midi tracks.

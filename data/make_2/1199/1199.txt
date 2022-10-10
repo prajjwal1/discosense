@@ -1,1 +1,0 @@
-this is circumvented in kwin now by making sure that qopenglcontext has correct information once the compositing context is made current. nevertheless we are still hitting a bug causing a crash.

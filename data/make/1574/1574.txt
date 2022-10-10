@@ -1,1 +1,0 @@
-and neither will such themes and plugins be lost when wordpress is upgraded via subversion. likewise such themes and plugins can only be updated via ftp, not subversion.

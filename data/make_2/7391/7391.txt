@@ -1,1 +1,0 @@
-transifex itself was originally an open source project, but the development of an open source version of the software was discontinued in 2013. hence any further improvement of transifex is only available to users of the proprietary transifex saas.

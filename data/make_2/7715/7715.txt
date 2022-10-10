@@ -1,1 +1,0 @@
-the pyra design aims for modularity and openness in software and hardware alike. for instance for instance the pcb is separated in three parts cpu board, mainboard and the display board.

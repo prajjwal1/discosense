@@ -1,1 +1,0 @@
-lambs do not directly contribute to performance or mortality as lamb survival is included in the recruitment component of the other age groups. consequently the values for the contribution of the lamb age class to v is always zero.

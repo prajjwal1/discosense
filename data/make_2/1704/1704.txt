@@ -1,1 +1,0 @@
-then, in the discharge cell having undergone the sustain discharge, the voltage difference between sustain electrode sui and scan electrode sci exceeds the breakdown voltage. thereby a sustain discharge occurs between sustain electrode sui and scan electrode sci again.

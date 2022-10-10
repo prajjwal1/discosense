@@ -1,1 +1,0 @@
-delta one products can sometimes be synthetically assembled by combining options. for instance you can be long a forward on wti crude oil at price x by buying a x strike call and selling a x strike put.

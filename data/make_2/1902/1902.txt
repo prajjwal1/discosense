@@ -1,1 +1,0 @@
-said adapting may also comprise modifying said mood model in dependence of corresponding mood models for other users. for example a mood model forhappyof another user may be used for adapting the mood model forhappyof said user.

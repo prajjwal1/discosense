@@ -1,1 +1,0 @@
-the program attempts to produce well formed collections. in particular it will print a warning and exclude any file whose name contains newline or doublequote.

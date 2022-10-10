@@ -1,1 +1,0 @@
-the placement delete functions are called from placement new expressions. in particular they are called if the constructor of the object throws an exception.

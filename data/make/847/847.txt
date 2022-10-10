@@ -1,1 +1,0 @@
-and fsx can be a very demanding application. because of that it will sometimes look sharper overall at a lower res if the cpu can keep up with updating the scenery textures.

@@ -1,1 +1,0 @@
-these indicating operations warn the user that the battery 20 is nearly exhausted. subsequently the power of the camera is turned off via the dpu 12 and the power circuit 21, and control returns to steps 24.

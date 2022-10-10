@@ -1,1 +1,0 @@
-the availability of external data sources is not under agris control. thus if an external data source is temporary unreachable, it wont be displayed in agris mashup pages.

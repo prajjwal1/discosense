@@ -1,2 +1,0 @@
-Explicit|||44..53||otherwise||1|otherwise|||Expansion.Alternative|||||||||||0..42|0|if its smiling, then the player is winning||||||||54..83|1|the player is losing the game|||||||||||||
-Explicit|||0..2;16..20||if then||0|if then|||Expansion.Conjunction|||||||||||21..31|0|the player||||||||32..42|0|is winning|||||||||||||

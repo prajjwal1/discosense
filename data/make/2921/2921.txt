@@ -1,1 +1,0 @@
-the dial screen gets a frosted glass translucence that dynamically changes depending on your background. otherwise there are only a couple of significant updates.

@@ -1,1 +1,0 @@
-the methods used are close to the humans way of reasoning, i. e. it uses inexact and incomplete knowledge, and it is able to produce control actions in an adaptive way. therefore ci therefore uses a combination of five main complementary techniques.

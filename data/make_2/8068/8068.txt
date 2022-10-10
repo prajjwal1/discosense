@@ -1,1 +1,0 @@
-it was unfinished, forcing the programmers to fix software bugs when encountered. in contrast working closely with the engine code allowed them to write additional features.

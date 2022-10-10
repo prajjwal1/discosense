@@ -1,1 +1,0 @@
-you dont need to change any code to benefit from these speedups it all happens automatically when you use those standard r functions that linear algebra computations. on the other hand it doesnt help with general r code that doesnt make use of math libraries, but thats where parallel programming comes in.

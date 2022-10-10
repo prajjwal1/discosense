@@ -1,1 +1,0 @@
-although the tapr ohl aims to maintain the philosophy of open source software, there are obvious differences in physical reality which require some differences in licenses. as a result the license defines two conditions, documentation, as in design information and products, as in the physical products created from them.

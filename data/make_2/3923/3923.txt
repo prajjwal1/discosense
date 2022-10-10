@@ -1,1 +1,0 @@
-although apple has announced that cocoa will be 64 bit in leopard, they have publically confirmed that carbon wont be. therefore a 32 bit lisp would still be needed to use carbon, even on leopard running on 64 bit hardware.

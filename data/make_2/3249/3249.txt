@@ -1,1 +1,0 @@
-that is doable, well add that to the cases and extract into the repot 164412 q 164425 pgroth have we decided on the test case naming convention. likewise xml is staged as well incorporating all feedback from the f 2 f meeting.

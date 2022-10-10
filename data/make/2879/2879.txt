@@ -1,1 +1,0 @@
-the present data writing method also includes moving at least one second data in the physical blocks of another one of the flash memory modules during the first data is written. thereby when the host system is about to write data into the other flash memory module, the time for executing the write command is effectively reduced.

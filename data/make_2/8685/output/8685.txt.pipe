@@ -1,4 +1,0 @@
-Explicit|||139..141;212..216||if then||1|if then|||Expansion.Conjunction|||||||||||177..210|1|but the files were still infected||||||||217..252|1|the boot sector will be re infected|||||||||||||
-Explicit|||177..180||but||1|but|||Comparison.Contrast|||||||||||181..210|1|the files were still infected||||||||129..175;181..252|1|similarly if the boot sectors were disinfected the files were still infected, then the boot sector will be re infected|||||||||||||
-Explicit|||43..46||but||0|but|||Comparison.Contrast|||||||||||5..41|0|all infected files have been cleaned||||||||47..83|0|the virus remains in the boot sector|||||||||||||
-Explicit|||0..4||when||0|when|||Temporal.Synchrony|||||||||||85..127|0|files on the system will be infected again||||||||5..83|0|all infected files have been cleaned, but the virus remains in the boot sector|||||||||||||

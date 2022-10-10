@@ -1,1 +1,0 @@
-the equality relation for most datatypes is the identity relation. on the other hand equality need not cover the entire value space of the datatype.

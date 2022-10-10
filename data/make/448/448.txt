@@ -1,1 +1,0 @@
-although it is most exact to report it every time that it does not agree with cc, this causes the system to suffer a considerable load. hence it is preferable to report it only when the difference between cm and cc exceeds cell delay variation cdv.

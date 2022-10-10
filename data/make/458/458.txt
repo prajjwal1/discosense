@@ -1,1 +1,0 @@
-for instance, we can stabilize breathers and oscillatory patterns of large amplitudes successfully avoiding chaos. on the other hand this method can be used to suppress spatiotemporal chaos and turbulence in systems where these phenomena are already present.

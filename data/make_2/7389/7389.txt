@@ -1,1 +1,0 @@
-a topological group is a mathematical object with both an algebraic structure and a topological structure. thus one may perform algebraic operations, because of the group structure, and one may talk about continuous functions, because of the topology.

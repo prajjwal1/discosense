@@ -1,1 +1,0 @@
-it is this floating gate which allows the eprom device to store charge, thereby programming the eprom device. conversely when the eprom device is unprogrammed, the floating gate is uncharged.

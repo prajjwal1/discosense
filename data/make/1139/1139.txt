@@ -1,1 +1,0 @@
-the predictions are validated against existing experimental data provided. in particular a comparison of two advanced turbulent combustion models is presented.

@@ -1,1 +1,0 @@
-intuitive and minimalist syntax and semantics are used. particularly minimalist semantics means less things to remember and more possibilities.

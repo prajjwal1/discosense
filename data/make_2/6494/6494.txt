@@ -1,1 +1,0 @@
-the maintenance road numbers are only unique in a specific county and some roads can be designated with multiple road numbers. for example bryants corner road in kent county is designated as road 205, road 103, and road 219.

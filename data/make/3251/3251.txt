@@ -1,1 +1,0 @@
-for example, metals typically expand faster than silicon, whereas voids, for example, filled with a gas having negligible expansion relative to the silicon substrate. hence a combination of metal with voids produces an effective material with a coefficient of expansion comparable to the substrate.

@@ -1,3 +1,0 @@
-Explicit|||26..33||because||0|because|||Contingency.Cause|||||||||||0..25|0|this property is attained||||||||34..75|0|computers have a limited amount of memory|||||||||||||
-Explicit|||76..79||and||0|and|||Expansion.Conjunction|||||||||||0..75|0|this property is attained because computers have a limited amount of memory||||||||80..136|0|for large problems, not all transpositions can be stored|||||||||||||
-Explicit|||138..147||therefore||1|therefore|||Contingency.Cause|||||||||||0..136|0|this property is attained because computers have a limited amount of memory and for large problems, not all transpositions can be stored||||||||148..201|1|some transpositions will be calculated more than once|||||||||||||

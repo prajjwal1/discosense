@@ -1,3 +1,0 @@
-Explicit|||0..5||while||0|while|||Temporal.Synchrony|||||||||||49..98|0|they may slip or tear out the phillips screw head||||||||6..47|0|pozidriv screwdrivers fit phillips screws|||||||||||||
-Explicit|||111..116||while||1|while|||Temporal.Synchrony|||||||||||100..110;182..279|1|conversely they will cam out if enough torque is applied, potentially damaging the screw head or screwdriver||||||||117..180|1|phillips screwdrivers will loosely fit and turn pozidriv screws|||||||||||||
-Explicit|||200..202||if||1|if|||Contingency.Condition|||||||||||100..199|1|conversely while phillips screwdrivers will loosely fit and turn pozidriv screws, they will cam out||||||||203..279|1|enough torque is applied, potentially damaging the screw head or screwdriver|||||||||||||

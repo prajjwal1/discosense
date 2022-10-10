@@ -1,1 +1,0 @@
-sublimerge comes with predefined commands that will improve your workflow with versioned files. for instance you can quickly compare your working copy to any revision.

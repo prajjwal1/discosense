@@ -1,1 +1,0 @@
-if the data islittle endian that data tends to be spread and so the indexes can give maximum performance. conversely if the data is repetitious, the indexes may not be very effective.

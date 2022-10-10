@@ -1,1 +1,0 @@
-we consider cluster based network servers in which a front end directs incoming requests to one of a number of back ends. specifically we consider content based request distribution the front end uses the content requested, in addition to information about the load on the back end nodes, to choose which back end will handle this request.

@@ -1,1 +1,0 @@
-as opposed to it, this embodiment allows the user to register with another cellular network distant from the current point. for instance it is possible to register with the cellular network in osaka while staying in tokyo or register with a swedish cellular network while staying in japan.

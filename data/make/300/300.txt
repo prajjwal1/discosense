@@ -1,1 +1,0 @@
-accordingly, a need exists for a simplified and more practical method of forming a photoresist pattern for via formation under the 0.18 run design rule. particularly a need exists for a method allowing precise critical dimension control using conventional optical lithography equipment such as an inexpensive i line lithography system.

@@ -1,1 +1,0 @@
-because the genetic code is deciphered as a sequence, both the identity and the order of the nucleotides are important in determining the encoded amino acid. thus dna sequencing has become the method of choice for analysis of mutations that result in amino acid changes.

@@ -1,1 +1,0 @@
-each of the four channels in each elastomer has only one inlet and one outlet. thus if the fluid reaches the outlet, it indicates that the fluid has reached every point in the channel.

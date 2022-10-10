@@ -1,1 +1,0 @@
-strong associations are evidenced between the disease and the ancestor nodes of the causal genetic marker node, in the forest. in contrast very weak associations are obtained for other nodes.

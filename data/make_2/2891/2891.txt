@@ -1,1 +1,0 @@
-make sure that you keep the same waveform bit set to 1 while you write the 0 to the gate bit, so that the release cycle starts. otherwise the sound will stop entirely, as it also will if the volume register or the frequency register is set to 0.

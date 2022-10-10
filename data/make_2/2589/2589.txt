@@ -1,1 +1,0 @@
-all players have error correction circuitry, which is designed to compensate for this jitter, but this circuitry isnt entirely accurate either. by contrast with downloads, the music simply streams from the hard drive there are no moving parts.

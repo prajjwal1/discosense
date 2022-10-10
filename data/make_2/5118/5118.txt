@@ -1,1 +1,0 @@
-each bit line is approximately aligned with at least one of the underlying schottky diodes formed between the two dimensional metallic layer and the underlying portion of the two dimensional diode layer. as a result the read only memory is fabricated with only two alignment steps so that bit line pitch and word line pitch are each substantially decreased.

@@ -1,1 +1,0 @@
-third, decreasing speed decreases the motorcycles cornering radius. conversely accelerating while turning increases the motorcycles cornering radius.

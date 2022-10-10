@@ -1,1 +1,0 @@
-as the benchmark for graphical fidelity keeps going up, a given generations physical ram limits get you less and less as the gen goes on. by contrast my nothing special pentium 3 desktop built in 2001 started with 512 mb of ram and 32 mb for the gpu, ended with 1.5 gb of ram and 256 mg for the gpu.

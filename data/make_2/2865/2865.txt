@@ -1,1 +1,0 @@
-in addition some algorithms have additional requirements on the string type. particularly it is required that an algorithm can create a new string of the given type.

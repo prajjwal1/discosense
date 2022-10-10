@@ -1,1 +1,0 @@
-these aspects represent opportunities for future work. likewise introducing a mechanistic model of how risk perception evolves instead of imposing risk evolution curves is worth pursuing, particularly in light of the interpretation caveats described in the previous paragraph.

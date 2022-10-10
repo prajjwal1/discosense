@@ -1,1 +1,0 @@
-i have a large iso file on a server, and i need to access the file in it, without having root access. thus i cant simply mount it.

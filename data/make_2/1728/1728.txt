@@ -1,1 +1,0 @@
-waterfall employed an iterative approach whereas agile has refactoring. nevertheless both have failed to address the issues and complexities surrounding the emergence for the development of enterprise wide solutions.

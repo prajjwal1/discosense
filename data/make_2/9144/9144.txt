@@ -1,1 +1,0 @@
-thus measurement can be viewed as an information channel with quantum input and classical output, that is, performing measurement on a quantum system transforms quantum information into classical information. on the other hand preparing a quantum state takes classical information to quantum information.

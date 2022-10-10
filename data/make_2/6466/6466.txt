@@ -1,1 +1,0 @@
-a cooperative game and its dual are in some sense equivalent, and they share many properties. for example the core of a game and its dual are equal.

@@ -1,1 +1,0 @@
-the latter member is connected to the circuit of the centrifuge motor. thereby upon closure of switch 3211, switch 329 of relay 325 and switch 239, which are both magnetically coupled to the coil 327, respectively, will close and open.

@@ -1,1 +1,0 @@
-i have a web app that collects new employee info, one of the fields beingbirth date. however since many of the employees were born earlier than 1970 i am unable to turn these into ruby time date objects.

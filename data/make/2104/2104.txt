@@ -1,1 +1,0 @@
-positional arguments are stored as a reference to a list in the args item while named configuration parameters are stored as a reference to a hash array in the config item. for example loading a plugin as shown here.

@@ -1,1 +1,0 @@
-this technology would allow for navigation accuracy of 5 km, and that error would improve as we better measure pulse profiles of known pulsars in the future. in short the authors argue that this navigation technique is feasible and would provide significant improvement over how we currently steer spacecraft at large distances.

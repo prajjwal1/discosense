@@ -1,1 +1,0 @@
-there is an inherent risk in installing such applications as they are not quality controlled nor have they gone through the apple approval and application approval process. hence they may contain vulnerable or malicious code that could allow the device to be compromised.

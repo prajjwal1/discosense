@@ -1,1 +1,0 @@
-in other words, setting the value of one array to another array doesnt make a copy of the content of the original array. rather it simply creates another array whose elements refer to the contents of the elements of the original array.

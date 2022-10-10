@@ -1,1 +1,0 @@
-therefore, the frequency and voltage requirements must be experimentally determined and confirmed after the final packaging stage. in sum each individual processor must be tested to determine its optimal operating parameters after packaging.

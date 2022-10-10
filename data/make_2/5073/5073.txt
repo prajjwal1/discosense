@@ -1,1 +1,0 @@
-many uses of uri do not require a server at all, and client limitations still exist with respect to the narrow subset of uris that serve as http urls. in particular mobile devices such as pdas and cellphones, which are widely deployed and used, have all sorts of differing restrictions on length of http urls.

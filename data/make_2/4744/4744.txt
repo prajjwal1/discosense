@@ -1,1 +1,0 @@
-if the cool down process is not accomplished, the high starting torque for the psc compressor motor may not last long enough. because of this the ice machines logic may be schemed to remain off for at least three minutes before it can automatically restart.

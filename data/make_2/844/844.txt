@@ -1,1 +1,0 @@
-reverse engineering a chip is only useful when the security of authentication lies in the algorithm alone. however our authentication chips rely on a secret key, and not in the secrecy of the algorithm.

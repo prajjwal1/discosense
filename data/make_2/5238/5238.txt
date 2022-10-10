@@ -1,1 +1,0 @@
-while the tunnels make use of the physical network to send packets, they dont have to configure switches to get traffic to its destination. by contrast other sdn approaches use methods such as openflow to program switches.

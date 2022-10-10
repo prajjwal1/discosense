@@ -1,1 +1,0 @@
-the less frequently the allocation is performed, the less frequently storage space 113 needs to be locked. consequently by reserving several slots more than the minimum necessary to accommodate each active snapshot chain during each allocation process, contention for short term memory 112 is reduced.

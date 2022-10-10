@@ -1,1 +1,0 @@
-applied mathematicians model the real world with non linear equations and then try to solve them. specifically they translate problems into a function f from numbers to numbers and look for some number r such that.

@@ -1,4 +1,0 @@
-Explicit|||130..140||conversely||1|conversely|||Comparison.Contrast|||||||||||0..128|0|typically a stock will run higher when its added to an index, because all the mutual funds tracking the index have to buy shares||||||||141..231|1|when its removed, the theory is that it should fall since those same funds will be selling|||||||||||||
-Explicit|||62..69||because||0|because|||Contingency.Cause|||||||||||39..60|0|its added to an index||||||||70..128|0|all the mutual funds tracking the index have to buy shares|||||||||||||
-Explicit|||193..198||since||1|since|||Temporal.Asynchronous|||||||||||178..192|1|it should fall||||||||199..231|1|those same funds will be selling|||||||||||||
-Explicit|||141..145||when||1|when|||Temporal.Synchrony|||||||||||130..140;159..231|1|conversely the theory is that it should fall since those same funds will be selling||||||||146..157|1|its removed|||||||||||||

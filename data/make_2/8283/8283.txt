@@ -1,1 +1,0 @@
-each attribute can then be broken down into a number of levels. for instance levels for screen format may be led, lcd, or plasma.

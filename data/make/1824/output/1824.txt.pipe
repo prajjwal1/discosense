@@ -1,3 +1,0 @@
-Explicit|||93..102||otherwise||1|otherwise|||Expansion.Alternative|||||||||||0..91|0|if subjects have difficulty speaking during the task, then the retrospective method is fine||||||||103..164|1|use the concurrent method because it takes only half the time|||||||||||||
-Explicit|||0..2;54..58||if then||0|if then|||Expansion.Conjunction|||||||||||3..52|0|subjects have difficulty speaking during the task||||||||3..52;59..91|0|subjects have difficulty speaking during the task the retrospective method is fine|||||||||||||
-Explicit|||129..136||because||1|because|||Contingency.Cause|||||||||||93..128|1|otherwise use the concurrent method||||||||137..164|1|it takes only half the time|||||||||||||

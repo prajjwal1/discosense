@@ -1,1 +1,0 @@
-then use the xr package in order to reference an external document the long version of your paper in this case. consequently feed the long versions labels to each of the short version environments.

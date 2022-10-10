@@ -1,1 +1,0 @@
-Explicit|||114..121||instead||1|instead|||Expansion.Alternative|||||||||||0..112|0|most computers only perform basic arithmetic operations and can not directly calculate the sine of a given value||||||||122..267|1|they use the cordic algorithm or a complex formula such as the following taylor series to compute the value of sine to a high degree of precision|||||||||||||

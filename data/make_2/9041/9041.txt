@@ -1,1 +1,0 @@
-when the current market price is above the average price, the market price is expected to fall. in other words deviations from the average price are expected to revert to the average.

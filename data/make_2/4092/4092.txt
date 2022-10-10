@@ -1,1 +1,0 @@
-finally, we use this threshold to provide likely minimum masses and radial velocity amplitudes for the general population of kepler candidates. likewise we use this threshold to provide constraints on the maximum radii of low mass planets found by radial velocity surveys.

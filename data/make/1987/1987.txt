@@ -1,1 +1,0 @@
-the table in this mib is sparse, so some of these variables may not exist for a particular entity at a particular time. for example a powered off module does not have a software id and revision a power supply would probably never have firmware or software information.

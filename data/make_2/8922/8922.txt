@@ -1,1 +1,0 @@
-when the ring laser device is rotating, then it rotates with respect to that background. in other words in other words invariance of the speed of light provides the reference for the self calibrating property of the ring laser interferometer.

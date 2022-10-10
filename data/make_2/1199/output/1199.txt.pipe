@@ -1,2 +1,0 @@
-Explicit|||138..150||nevertheless||1|nevertheless|||Comparison.Concession|||||||||||0..136|0|this is circumvented in kwin now by making sure that qopenglcontext has correct information once the compositing context is made current||||||||151..193|1|we are still hitting a bug causing a crash|||||||||||||
-Explicit|||92..96||once||0|once|||Temporal.Asynchronous|||||||||||53..91|0|qopenglcontext has correct information||||||||97..136|0|the compositing context is made current|||||||||||||

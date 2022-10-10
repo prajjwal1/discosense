@@ -1,1 +1,0 @@
-this is important because prognostics is a dynamic process where predictions get updated with an appropriate frequency as more observation data become available from an operational system. similarly the performance of prediction changes with time that must be tracked and quantified.

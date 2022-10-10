@@ -1,1 +1,0 @@
-however, when you create a website, youre locating it at a web address, which, if you delete the website and start over, can be difficult to reuse. because of this i suggest creating a test website and then, once youre happy with the set up, copying that test site to make your real site.

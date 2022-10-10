@@ -1,1 +1,0 @@
-you can use the opatch utility to patch multiple oracle dbs from a central location. but sometimes that works and sometimes it doesnt, based on the complexity of those db setups.

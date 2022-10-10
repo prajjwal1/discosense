@@ -1,1 +1,0 @@
-typically, this device uses high voltages to permanently destroy or create internal links within the chip. consequently a prom can only be programmed once.

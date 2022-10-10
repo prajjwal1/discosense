@@ -1,1 +1,0 @@
-doesnt mean the vulnerability is fixed, but makes it harder to exploit, grossman said. in sum defending against sql injection attacks requires a combination of internal and external security.

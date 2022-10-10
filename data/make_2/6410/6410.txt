@@ -1,1 +1,0 @@
-guccifer failed to activate the vpn client before logging on. as a result he left a real, moscow based internet protocol address in the server logs of an american social media company.

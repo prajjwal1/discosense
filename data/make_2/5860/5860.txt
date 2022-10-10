@@ -1,1 +1,0 @@
-on other models, an optimal design can be either better or worse than a non optimal design. therefore it is important to benchmark the performance of designs under alternative models.

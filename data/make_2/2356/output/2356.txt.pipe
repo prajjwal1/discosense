@@ -1,4 +1,0 @@
-Explicit|||105..107||if||1|if|||Contingency.Condition|||||||||||96..104;209..240|1|likewise he may become permanently blind||||||||108..207|1|your adorable puppy presents with juvenile cataracts a month or two after you have brought him home|||||||||||||
-Explicit|||23..25||if||0|if|||Contingency.Condition|||||||||||0..21;66..94|0|even the cutest puppy can become crippled for life||||||||26..64|0|he or she later develops hip displasia|||||||||||||
-Explicit|||36..41||later||0|later|||Temporal.Asynchronous|||||||||||1..2|-1|v||||||||0..35;42..94|0|even the cutest puppy, if he or she develops hip displasia, can become crippled for life|||||||||||||
-Explicit|||176..181||after||1|after|||Temporal.Asynchronous|||||||||||108..175|1|your adorable puppy presents with juvenile cataracts a month or two||||||||182..207|1|you have brought him home|||||||||||||

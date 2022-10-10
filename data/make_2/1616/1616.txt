@@ -1,1 +1,0 @@
-this is especially helpful in the case of small file, high i o, random read intensive workflows such as virtualization, oltp and large scale home directory file repositories. however the benefits are not limited to such scenarios.

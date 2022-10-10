@@ -1,1 +1,0 @@
-too high a temperature can lead to solder spattering or balling as well as oxidation of the paste, the attachment pads and the component terminations. similarly fluxes may not fully activate if the temperature is too low.

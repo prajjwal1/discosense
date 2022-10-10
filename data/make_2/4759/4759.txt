@@ -1,1 +1,0 @@
-thirdly, p 2 p has decentralized control, there is no hierarchy, no central controller telling any of the nodes how to behave. because of this the system is incredibly robust to those arrivals, departures and failures, providing there is a large enough number of nodes within the network to begin with.

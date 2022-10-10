@@ -1,1 +1,0 @@
-todays update to the mountain lion developer preview has introduced a bunch of new options for facebook users. specifically facebook will now support native os x banner notifications, as seen in the screenshot above, for actions such as wall posts and inbox messages.

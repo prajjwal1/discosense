@@ -1,1 +1,0 @@
-a simplified version of lsf was later open sourced circa 2007, eventually named openlava and under a gpl license compatible with gnu queue. thus both gnu parallel and openlava may be considered related gpl d projects, although the latter is not formally a gnu project.

@@ -1,1 +1,0 @@
-the range of possibilities is too narrow to allow a law of digit frequencies to hold. in other words benfords law needs data that are neither totally random nor overly constrained, but rather lie somewhere in between.

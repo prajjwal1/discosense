@@ -1,1 +1,0 @@
-his research interests can be summarized as developing effective and efficient data analysis techniques for novel data intensive applications. particularly he is currently interested in various techniques of data mining, data warehousing, online analytical processing, and database systems, as well as their applications in bioinformatics, privacy preservation, and education.

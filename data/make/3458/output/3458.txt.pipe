@@ -1,2 +1,0 @@
-Explicit|||0..2||if||0|if|||Contingency.Condition|||||||||||29..90|0|the binding for this portion of the data transfer is complete||||||||3..28|0|the unbound count is zero|||||||||||||
-Explicit|||92..101||otherwise||1|otherwise|||Expansion.Alternative|||||||||||0..90|0|if the unbound count is zero the binding for this portion of the data transfer is complete||||||||102..159|1|the algorithm restarts with the remaining unbound portion|||||||||||||

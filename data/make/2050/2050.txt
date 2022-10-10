@@ -1,1 +1,0 @@
-since so many errors are creeping into published documents, we wanted to find out if this is caused by confusion over which words should be lowercase. in particular we wanted to find out if the inconsistencies were caused by different preferences for.

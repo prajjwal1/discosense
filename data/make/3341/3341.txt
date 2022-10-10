@@ -1,1 +1,0 @@
-market participants, on the other hand, may think that the probability is actually much higher because prices do jump and change rapidly within small time frames. hence the pronounced shape of the implied volatility smile at short maturities.

@@ -1,1 +1,0 @@
-in general, exits have tolls when they precede a barrier toll, and exits are free when they follow a barrier toll. conversely entrances that precede a barrier toll are free and tolls are paid at entrances just beyond a barrier toll.

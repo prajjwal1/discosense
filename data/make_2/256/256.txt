@@ -1,1 +1,0 @@
-the user requests a number to be dispensed by pressing one of the buttons 16 on the token at step 52. subsequently at step 54, the software in memory 30 selects the first available random number from the internal memory 32.

@@ -1,1 +1,0 @@
-for cheap removable media like floppy disks, this is the preferred method. however hard drives are expensive and hard to melt, so the shred utility tries to achieve a similar effect non destructively.

@@ -1,1 +1,0 @@
-every new term greater than million is one million times larger than the previous term. thus billion means a million millions, trillion means a million billions, and so on.

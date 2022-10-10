@@ -1,1 +1,0 @@
-further, it is possible to shift the means for encoding and decoding the audio signals in the signal processing chain. particularly it is not required to first encode the microphone signal and then decode the same again in the means for echo suppression.

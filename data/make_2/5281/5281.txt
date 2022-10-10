@@ -1,1 +1,0 @@
-but sometimes you will need the result set at once. for example when map ing a list one would sometimes coerce python to return the whole resulting list.

@@ -1,1 +1,0 @@
-some methods are special in that are activated in response to an event. for example the buttons click event handler is a method that is automatically obeyed when the user clicks the button.

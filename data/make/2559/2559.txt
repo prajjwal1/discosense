@@ -1,1 +1,0 @@
-as an example, links to available alternatives meant for human consumption might use the html a element since these are rendered by user agents. in contrast links meant for use by bots might use the html link element as an example, this reflects present practice when publishing pointers to atom rss feeds.

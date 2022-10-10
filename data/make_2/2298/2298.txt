@@ -1,1 +1,0 @@
-the package displays the lot number as do shipping documents but there is no way to identify the propellant used to fill the cartridges in a particular lot. consequently the issuing depot has no knowledge of the propellant used in the ammunition that has been issued or that remains on hand.

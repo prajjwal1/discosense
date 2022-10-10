@@ -1,1 +1,0 @@
-picturefill performs a html 5 shiv style workaround to get picture elements recognized in ie browsers. because of that you must reference it from the head of your document.

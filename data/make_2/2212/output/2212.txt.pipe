@@ -1,4 +1,0 @@
-Explicit|||93..105||consequently||1|consequently|||Contingency.Cause|||||||||||0..91|0|moreover, reducing the turbine speed reduces the airflow because the compressor runs slower||||||||106..216|1|the turbine inlet temperature remains essentially constant, thus maintaining a high efficiency at partial load|||||||||||||
-Explicit|||166..170||thus||1|thus|||Contingency.Cause||||||||||||1|||||||||171..216|1|maintaining a high efficiency at partial load|||||||||||||
-Explicit|||57..64||because||0|because|||Contingency.Cause|||||||||||0..56|0|moreover, reducing the turbine speed reduces the airflow||||||||65..91|0|the compressor runs slower|||||||||||||
-Explicit|||0..8||moreover||0|moreover|||Expansion.Conjunction|||||||||||1..2|-1|o||||||||10..91|0|reducing the turbine speed reduces the airflow because the compressor runs slower|||||||||||||

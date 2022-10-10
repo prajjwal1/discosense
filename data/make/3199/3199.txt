@@ -1,1 +1,0 @@
-to help with modeling and mapping concurrency, semantics for message passing are similar for actors and objects. consequently decisions made about concurrent behavior are easily changed.

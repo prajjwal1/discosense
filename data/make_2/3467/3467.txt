@@ -1,1 +1,0 @@
-solaris x 86 booted fromcdin just under five seconds or so with vmware, yet with virtualbox it required minutes. likewise the install process was painfully slow.

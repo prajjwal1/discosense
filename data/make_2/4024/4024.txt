@@ -1,1 +1,0 @@
-im maintaining a legacy xml web service system, and is trying to return an xml fragment as part of a soap response. in short soap response gave me this.

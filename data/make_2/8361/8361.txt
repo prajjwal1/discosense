@@ -1,1 +1,0 @@
-the utility of a deviating player can not be higher than his minmax payoff. hence hence all players stay on the intended path.

@@ -1,1 +1,0 @@
-we also investigated the number of each site of pssm features in the optimal feature set. particularly the amino acid at site 6 has been shown to be imperfectly conserved and in most case was a d residue.

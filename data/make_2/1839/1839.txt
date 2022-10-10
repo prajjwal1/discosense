@@ -1,1 +1,0 @@
-also, another wrong or missing code example could occasionally be a violation of thesingle agency coderule. specifically when a gs code and title exists and is authorized only for one designated agency, sometimes others decide unilaterally to use it.

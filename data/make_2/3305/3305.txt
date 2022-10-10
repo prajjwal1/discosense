@@ -1,1 +1,0 @@
-the write buffer and the neighbor cell buffer may be each composed of registers. thereby when a buffer having a small capacity of about several words is sufficient, the chip area of a flash memory can be reduced.

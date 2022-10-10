@@ -1,1 +1,0 @@
-thus, the generated objects in a coarser segmentation inherit information from smaller objects generated with finer scale parameters. subsequently the rankings are trained using the same plots of training and validated using the same validation plots used in previous classifications.

@@ -1,1 +1,0 @@
-multi layer devices are effective at narrow band rejection or transmission of light. in particular dichroic filters are important as they pass a narrow band of light while reflecting the out of band wavelengths.

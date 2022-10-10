@@ -1,1 +1,0 @@
-one possible method for heat to perform orchestration of standing up cloud stacks could be to leverage a task service for the steps of spinning up and connecting cloud resources. conversely customers wanting to run meta task flows could leverage heat as one task where orchestration of a stack is a single task in the larger meta task flow.

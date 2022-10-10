@@ -1,1 +1,0 @@
-when restarting in such case, requires the safety switch to be held for a safe restart. thereafter various functions are initialized and the main loop is entered whereat the driver await operator input.

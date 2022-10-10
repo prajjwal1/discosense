@@ -1,1 +1,0 @@
-this is a simple task but can become quite annoying if this functionality is required on a regular basis. hence it would be nice if we could simply call a static method from any page that would deal with the client side javascript required to display the alerts.

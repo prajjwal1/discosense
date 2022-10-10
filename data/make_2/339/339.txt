@@ -1,1 +1,0 @@
-this fixes the etch and deposition threshold temperatures for a given process chemistry and set of process conditions. thereafter the wafer temperature is set to a value lying above the threshold deposition temperature and below the threshold etch temperature.

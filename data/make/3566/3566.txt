@@ -1,1 +1,0 @@
-this action arms the anti handling device. thereafter any attempt to disarm the mine by unscrewing the pressure plate to remove the fuze will automatically release the spring loaded firing pin inside it, triggering detonation.

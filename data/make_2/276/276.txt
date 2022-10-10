@@ -1,1 +1,0 @@
-temperature profiles and outlet gas concentrations of the reactors are presented during start up, steady state and transient experiments. thereby the main focus lies on complete conversion of hydrocarbons in the autothermal reformer to avoid catalyst poisoning in the downstream components.

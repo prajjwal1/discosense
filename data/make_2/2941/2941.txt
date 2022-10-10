@@ -1,1 +1,0 @@
-after the printer output of the page of image finished, the decoding process of the next page was started. specifically since the printer output and the decoding process were performed alternately, the decoding process was stopped during the printer output, whereas the printer output was stopped during the decoding process.

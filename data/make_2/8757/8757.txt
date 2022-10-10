@@ -1,1 +1,0 @@
-the main board only used a single large connector for power, keyboard, tape recorder and even video output. hence hence it was easy to disconnect the board and work on both sides of it outside the casing.

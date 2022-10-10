@@ -1,1 +1,0 @@
-seismic interpretation models that incorporate snells law are very complex requiring supercomputers to process enormous amounts of data and sometimes yield bogus results. nonetheless the oil and gas industries routinely base decisions involving billions of dollars on the results of these models.

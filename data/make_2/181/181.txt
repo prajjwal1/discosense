@@ -1,1 +1,0 @@
-it was noted that after the pan and discretionary data are encrypted a substitution can be performed in step 427 to package the data for the transaction. particularly in accordance with the example described with reference to.

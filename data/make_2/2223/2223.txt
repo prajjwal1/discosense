@@ -1,1 +1,0 @@
-in the dcf mode, there is no central control, and stations compete for transmission time. in contrast in the point coordinated function mode, the ap polls the stations, inquiring whether any of the stations have frames to transmit.

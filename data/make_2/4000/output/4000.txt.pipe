@@ -1,3 +1,0 @@
-Explicit|||73..75||if||0|if|||Contingency.Condition|||||||||||0..72|0|for example, data associated with video conferencing sessions is useless||||||||76..102|0|it is not deliveredon time|||||||||||||
-Explicit|||104..121||on the other hand||1|on the other hand|||Comparison.Contrast|||||||||||0..102|0|for example, data associated with video conferencing sessions is useless if it is not deliveredon time||||||||122..235|1|traditional best effort data services, such as file or e mail transfer, are not affected by variations in latency|||||||||||||
-Explicit|||0..11||for example||0|for example|||Expansion.Instantiation|||||||||||1..2|-1|o||||||||13..102|0|data associated with video conferencing sessions is useless if it is not deliveredon time|||||||||||||

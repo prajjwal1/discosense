@@ -1,1 +1,0 @@
-each of the medical data fields may indicate that a response or attribute is either required or optional for the respective data field. specifically the user interface of.

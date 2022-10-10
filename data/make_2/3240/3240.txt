@@ -1,1 +1,0 @@
-after obtaining this plot, the slope of the best fit line is determined at step 840. subsequently the local stochastic fractal dimension is calculated at step 850 using the formula shown below by plugging in the slope value obtained from step 840 above.

@@ -1,1 +1,0 @@
-the code sensewill help that programmer choose the best variation and guide him or her to plot a sequence of behavior preserving transformations to get from here to there. in short a programmer who writes clean code is an artist who can take a blank screen through a series of transformations until it is an elegantly coded system.

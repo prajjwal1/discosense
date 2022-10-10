@@ -1,1 +1,0 @@
-an element that fires specifies previous states that would have made it fire and rules out other states. similarly an element that does not fire rules out previous states of affairs that would have made it fire and thereby contributes to specifying the actual repertoire.

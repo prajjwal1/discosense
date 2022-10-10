@@ -1,1 +1,0 @@
-this paper uses regression analysis to investigate the relationship between military expenditure and stock market performance for the united states and the united kingdom. specifically the study applies the bierens guo unit root procedures to ascertain the time series properties of the variables in the study.

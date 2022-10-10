@@ -1,1 +1,0 @@
-this statement is a consequence of the second corollary in the article on the induced homomorphism. nevertheless we give an independent proof for the present situation.

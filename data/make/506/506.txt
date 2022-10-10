@@ -1,1 +1,0 @@
-knowledge of the dynamics of solutions to this reduced system, which computer simulation can help to determine, would be useful in predicting the behavior of solutions to the unabridged vlasov maxwell system. hence we design, construct, and implement a novel algorithm that couples efficient finite difference methods with a particle in cell code.

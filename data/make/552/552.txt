@@ -1,1 +1,0 @@
-if that set of nodes does not form a quorum, sun cluster software halts the node and fencesthe node from the disks. thus sun cluster software prevents the node from accessing the disks.

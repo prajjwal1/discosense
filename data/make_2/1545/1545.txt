@@ -1,1 +1,0 @@
-however, the current data models that support cultural heritage aggregations are not designed to fully accommodate and integrate collection level data. therefore we have developed a set of general requirements for the representation of collections in digital aggregation systems.

@@ -1,1 +1,0 @@
-unlike the earlier eyetoy games, the players image is not shown inside the antigrav game. instead the players movement is reflected in the animated character in the game.

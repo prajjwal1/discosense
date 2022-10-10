@@ -1,1 +1,0 @@
-i manually created an empty database with same filepath and filesize using sql, that worked. interestingly a 1 gb database copy failed with same errors and succeeded on 2nd try.

@@ -1,1 +1,0 @@
-dmarc doesnt directly address whether or not an email is spam or otherwise fraudulent. instead dmarc requires that a message not only pass dkim or spf validation, but that it also pass alignment.

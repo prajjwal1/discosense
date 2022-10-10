@@ -1,4 +1,0 @@
-Explicit|||0..2||if||0|if|||Contingency.Condition|||||||||||83..111|0|you will need to call wizard||||||||3..81|0|only one page is added at the beginning, but more pages will be added later on|||||||||||||
-Explicit|||226..228||if||2|if|||Contingency.Condition|||||||||||173..225|2|otherwise the next and back buttons will appear only||||||||229..267|2|more than one page is in the page list|||||||||||||
-Explicit|||173..182||otherwise||2|otherwise|||Expansion.Alternative|||||||||||113..171|1|setforcepreviousandnextbuttons before the wizard is opened||||||||183..267|2|the next and back buttons will appear only if more than one page is in the page list|||||||||||||
-Explicit|||44..47||but||0|but|||Comparison.Contrast|||||||||||3..42|0|only one page is added at the beginning||||||||48..81|0|more pages will be added later on|||||||||||||

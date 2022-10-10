@@ -1,1 +1,0 @@
-we can see that the momentum operator is invariant and keeps its shape in noncommutative space. therefore we can rewrite conformal algebra in terms of the new coordinates.

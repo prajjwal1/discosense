@@ -1,1 +1,0 @@
-design patterns, which have moved object oriented programming to a new level, provide programmers with a language to communicate with others about their designs. as a result programs become more readable, more reusable, and more easily extensible.

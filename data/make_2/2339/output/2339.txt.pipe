@@ -1,3 +1,0 @@
-Explicit|||63..65||as||0|as|||Temporal.Synchrony|||||||||||0..62|0|in a point to point link, udld hello packets can be considered||||||||66..127|0|a heart beat whose presence guarantees the health of the link|||||||||||||
-Explicit|||205..207||if||1|if|||Contingency.Condition|||||||||||178..204|1|the link must be shut down||||||||208..262|1|it is not possible to reestablish a bidirectional link|||||||||||||
-Explicit|||129..139||conversely||1|conversely|||Comparison.Contrast|||||||||||0..127|0|in a point to point link, udld hello packets can be considered as a heart beat whose presence guarantees the health of the link||||||||140..262|1|the loss of the heart beat means that the link must be shut down if it is not possible to reestablish a bidirectional link|||||||||||||

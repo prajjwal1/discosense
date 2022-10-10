@@ -1,3 +1,0 @@
-Explicit|||63..72||otherwise||1|otherwise|||Expansion.Alternative|||||||||||0..61|0|if the word is correct, the game is over and the guesser wins||||||||73..160|1|the other player may choose to penalize the guesser by adding an element to the diagram|||||||||||||
-Explicit|||0..2||if||0|if|||Contingency.Condition|||||||||||24..40|0|the game is over||||||||3..22|0|the word is correct|||||||||||||
-Explicit|||41..44||and||0|and|||Expansion.Conjunction|||||||||||0..40|0|if the word is correct, the game is over||||||||45..61|0|the guesser wins|||||||||||||

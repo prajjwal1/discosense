@@ -1,1 +1,0 @@
-at that point, or just slightly below it, the comparator willtrip, turning the fet mn 1 off and opening the controllers return path. consequently the fet 10 will also be turned off.

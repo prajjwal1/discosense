@@ -1,1 +1,0 @@
-there are valid performance reasons for using goto in c it compiles down to a single instruction and is the nicest way to build a state machine. on the other hand using goto in perl is very slow the interpreter has to walk up and down the optree to look for the label.

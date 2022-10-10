@@ -1,1 +1,0 @@
-the connections between units, whose strength or weighing depend upon previous experience. thus the output of a given unit depends upon the output of the previous unit weighted by the strength of the connection.

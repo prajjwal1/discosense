@@ -1,1 +1,0 @@
-all three other projects depend on this project and thus nothing will compile. but there are two project solutions.

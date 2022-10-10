@@ -1,1 +1,0 @@
-then, at first, a generalized linear model was fitted for analyzing provenance effect. subsequently genetic variability was studied within the best provenance by bayesian inference via gibbs sampling.

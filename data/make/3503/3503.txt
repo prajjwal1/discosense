@@ -1,1 +1,0 @@
-x is said to be complete if every cauchy filter converges. conversely on a uniform space every convergent filter is a cauchy filter.

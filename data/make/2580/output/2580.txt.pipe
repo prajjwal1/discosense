@@ -1,1 +1,0 @@
-Explicit|||145..162||on the other hand||1|on the other hand|||Comparison.Contrast|||||||||||0..143|0|there are valid performance reasons for using goto in c it compiles down to a single instruction and is the nicest way to build a state machine||||||||163..267|1|using goto in perl is very slow the interpreter has to walk up and down the optree to look for the label|||||||||||||

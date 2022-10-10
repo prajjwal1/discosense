@@ -1,1 +1,0 @@
-placing this at the end of a formated line, begins the next line with inherited indentation and font features, but with double spaced appearance. consequently this template cannot be used inline to create alignment between adjacent text lines, or to space out titles, etc.

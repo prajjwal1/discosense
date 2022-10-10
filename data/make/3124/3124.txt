@@ -1,1 +1,0 @@
-for example, by starting the hvac unit and the pool pump at the same random offset may go unnoticed by a consumer. otherwise the consumer may question why both devices start at different times, while both are scheduled to start at the same time.

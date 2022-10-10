@@ -1,1 +1,0 @@
-using this design the limitations regarding number of layers described above are eliminated. thereby the transducer 70 can be made as powerful as necessary, similarly to what is described above with reference to.

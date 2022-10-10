@@ -1,1 +1,0 @@
-as discussed above the refresh, write, and run modes are mutually exclusive and are separated by guardbands. hence they do not have contention during operations.

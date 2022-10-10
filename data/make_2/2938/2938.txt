@@ -1,1 +1,0 @@
-installation should run all the way to complete installation of all packages after you have given your basic information. otherwise there may be something wrong while executingapm source.

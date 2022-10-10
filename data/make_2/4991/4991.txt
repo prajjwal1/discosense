@@ -1,1 +1,0 @@
-in particular, a layer of photoresist is applied on a chrome coated reticle blank. thereafter the pattern for a particular layer to be formed on a semiconductor wafer is transferred onto the reticle as for example by a laser pattern generator or e beam.

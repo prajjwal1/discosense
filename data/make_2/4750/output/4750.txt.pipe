@@ -1,5 +1,0 @@
-Explicit|||98..101||and||0|and|||Expansion.Conjunction|||||||||||44..96|0|x is part of z. for instance madrid is part of spain||||||||102..121|0|spain is part of eu|||||||||||||
-Explicit|||0..2;39..43||if then||0|if then|||Expansion.Conjunction|||||||||||3..37|0|x is part of y, and y is part of z||||||||44..121|0|x is part of z. for instance madrid is part of spain, and spain is part of eu|||||||||||||
-Explicit|||123..132||therefore||0|therefore|||Contingency.Cause|||||||||||1..2|-1|f||||||||0..121;134..154|0|if x is part of y, and y is part of z, then x is part of z. for instance madrid is part of spain, and spain is part of eu madrid is part of eu|||||||||||||
-Explicit|||60..72||for instance||0|for instance|||Expansion.Instantiation|||||||||||1..2|-1|f||||||||0..58;73..154|0|if x is part of y, and y is part of z, then x is part of z madrid is part of spain, and spain is part of eu, therefore, madrid is part of eu|||||||||||||
-Explicit|||19..22||and||0|and|||Expansion.Conjunction|||||||||||3..17|0|x is part of y||||||||23..37|0|y is part of z|||||||||||||

@@ -1,1 +1,0 @@
-we didnt build atom as a traditional web application. instead atom is a specialized variant of chromium designed to be a text editor rather than a web browser.

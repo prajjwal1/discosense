@@ -1,1 +1,0 @@
-the nrlmodel enforces nrl cardinality rules. thus at the moment nrlmodel is mostly usable for handling properties with a maximum cardinality of 1.

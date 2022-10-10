@@ -1,1 +1,0 @@
-customers can proactively monitor the system and keep operational costs down. in other words cisco ucs rack servers can be managed the same way as ucs blade servers with full workload mobility across both blades and racks.

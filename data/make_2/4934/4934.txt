@@ -1,1 +1,0 @@
-as used herein, unless expressly stated otherwise, connected means that one element feature is directly or indirectly connected to another element feature, and not necessarily mechanically. likewise unless expressly stated otherwise, coupledmeans that one element feature is directly or indirectly coupled to another element feature, and not necessarily mechanically.

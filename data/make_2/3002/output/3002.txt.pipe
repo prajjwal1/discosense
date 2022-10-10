@@ -1,2 +1,0 @@
-Explicit|||0..7||however||0|however|||Comparison.Contrast|||||||||||1..2|-1|o||||||||9..90|0|the developers have increased the size of the buffers on commands execution stage|||||||||||||
-Explicit|||92..103||as a result||1|as a result|||Contingency.Cause|||||||||||0..90|0|however, the developers have increased the size of the buffers on commands execution stage||||||||104..231|1|nehalem processors can hold up to 128 micro ops waiting to be executed in the reorder buffer, which is 33% more than core 2 can|||||||||||||

@@ -1,1 +1,0 @@
-modify the path set by the aforementioned variable to the folder containing your images. for example in the version of the code in the tutorial, the images are stored in the animation folder.

@@ -1,1 +1,0 @@
-this interface communicates with an oware engine through an adapted version of the universal chess interface protocol, which makes it suitable for use with multiple mancala playing programs. although currently only the aalina game engine supports this protocol.

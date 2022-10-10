@@ -1,1 +1,0 @@
-a continuous function in l might blow up near 0 but must decay sufficiently fast toward infinity. on the other hand continuous functions in l need not decay at all but no blow up is allowed.

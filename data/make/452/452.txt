@@ -1,1 +1,0 @@
-compared to many sites, we have a disproportionately high percentage of linux users. because of this its been a long running complaint that we use flash for the network graph.

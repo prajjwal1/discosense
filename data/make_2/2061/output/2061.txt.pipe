@@ -1,2 +1,0 @@
-Explicit|||155..157||if||1|if|||Contingency.Condition|||||||||||142..154;222..316|1|specifically itll take you to the method declaration on an interface instead of the concrete implementation||||||||158..220|1|you control click command click on a method invocation in code|||||||||||||
-Explicit|||0..3||but||0|but|||Comparison.Contrast|||||||||||1..2|-1|u||||||||4..140|0|one of the downsides of dependency injection is that it makes it a little harder for development tools to reason about and navigate code|||||||||||||

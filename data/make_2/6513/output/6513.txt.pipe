@@ -1,3 +1,0 @@
-Explicit|||85..94||therefore||1|therefore|||Contingency.Cause|||||||||||0..83|0|for example, hospitals have highly proceduralised instructions for fire emergencies||||||||95..228|1|when one sees a fire, one can follow the necessary steps to ensure the safety of the patients without any knowledge of fire behaviour|||||||||||||
-Explicit|||95..99||when||1|when|||Temporal.Synchrony|||||||||||85..94;117..228|1|therefore one can follow the necessary steps to ensure the safety of the patients without any knowledge of fire behaviour||||||||100..115|1|one sees a fire|||||||||||||
-Explicit|||0..11||for example||0|for example|||Expansion.Instantiation|||||||||||1..2|-1|o||||||||13..83|0|hospitals have highly proceduralised instructions for fire emergencies|||||||||||||

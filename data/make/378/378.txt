@@ -1,1 +1,0 @@
-you can keep changes in scenarios where a conflict has occurred by overwriting the database values with your changed values. thus the data in table 2 would be persisted in the database.

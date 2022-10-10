@@ -1,1 +1,0 @@
-this license fee is one of the few sources of money that helps pay the bills for the jcp tck process itself. nonetheless sun and now oracle has always had a way to grant tck scholarships for non profits and academic institutions.

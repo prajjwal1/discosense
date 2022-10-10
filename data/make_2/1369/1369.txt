@@ -1,1 +1,0 @@
-with these 14 pieces a pyramid in 3 levels must be built. however only pieces with the same color may lie together.

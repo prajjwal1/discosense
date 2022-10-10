@@ -1,1 +1,0 @@
-next, block 200 processes the call as is normal and control may pass to block 110 to get additional events. otherwise control passes to block 210 if the caller hung up, and then to block 110 to get additional events.

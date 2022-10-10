@@ -1,1 +1,0 @@
-ones conflicts are resolved by controlling rather than by passively evaluating. in short fisher and ury, though covering much the same material as in other adr literature, are accessible.

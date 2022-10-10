@@ -1,1 +1,0 @@
-child loggers propagate messages up to their parent loggers. because of this it is unnecessary to define and configure all the loggers an application uses.

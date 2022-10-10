@@ -1,1 +1,0 @@
-if your source directory has subdirectories, then you should specify your include paths relative to the root of your source directory. for example if you have subdirectories misc and sets, then source code in sets can should include headers in misc as misc types.

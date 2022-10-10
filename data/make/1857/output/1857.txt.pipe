@@ -1,3 +1,0 @@
-Explicit|||82..94||for instance||1|for instance|||Expansion.Instantiation|||||||||||0..80|0|adbpa is a good place to start as an overview, but details are obviously lacking||||||||95..213|1|it doesnt display information about active directory replication or if any dcs havent replicated over a period of time|||||||||||||
-Explicit|||160..162||or||1|or|||Expansion.Alternative|||||||||||105..159|1|display information about active directory replication||||||||163..213|1|if any dcs havent replicated over a period of time|||||||||||||
-Explicit|||47..50||but||0|but|||Comparison.Contrast|||||||||||0..45|0|adbpa is a good place to start as an overview||||||||51..80|0|details are obviously lacking|||||||||||||

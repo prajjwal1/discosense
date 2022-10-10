@@ -1,1 +1,0 @@
-this makes easy keys not so easy as a side effect of this definition, isnamed acts as a nominal, which has consequences for the computational properties of the profiles. in particular ontology entailment becomes np hard with keys in owl 2 el.

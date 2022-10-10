@@ -1,1 +1,0 @@
-however, since terms such asic chipadequately describe such devices, the rtwg prefers to not relegate the usage of the word component to that single structural level. similarly the word module has often been used to designate a multi chip substrate that is a board component such as the multi chip module.

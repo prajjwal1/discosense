@@ -1,1 +1,0 @@
-one of samvermettes comments says that there is a bug in ios simulator. nevertheless i have encountered the same issue with a release build, even in 2 separate applications.

@@ -1,1 +1,0 @@
-similarly, the lower the level, the more business environment specific the protocol becomes. thus a good dividing line for the protocol layers that exist in the communication module 200 is at the data link layer 257.

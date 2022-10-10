@@ -1,1 +1,0 @@
-while conventional resources such as wordnet are developed by trained linguists, online semantic resources can now be automatically extracted from the content collaboratively created by the users. thereby the knowledge acquisition bottlenecks and coverage problems pertinent to conventional lexical semantic resources can be overcome.

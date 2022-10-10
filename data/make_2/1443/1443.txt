@@ -1,1 +1,0 @@
-each sports figure has an associated event that the sports figure is involved in and associated point values that may be accumulated based on the sports figures performance. for instance a basketball player may count for points based on 3 pointers made, a boxer if he knocks his opponent out, or an auto racer if he gets in a crash.

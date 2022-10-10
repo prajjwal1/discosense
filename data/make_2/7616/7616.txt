@@ -1,1 +1,0 @@
-redundant paths in the network meant that a bridge could forward a frame in multiple directions. therefore therefore loops could cause ethernet frames to not reach their destination, flooding the network.

@@ -1,1 +1,0 @@
-subsequently, corresponding code images are generated and printed recorded on a paper sheet. thereafter the next precode image or a plurality of precode images for the next page are generated, and code images are generated and printed recorded.

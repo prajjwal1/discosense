@@ -1,1 +1,0 @@
-such schemes, however, have not been successfully implemented. in particular it has proven difficult to provide cost effective and accurate voice verification over a telephone network.

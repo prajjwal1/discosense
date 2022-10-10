@@ -1,1 +1,0 @@
-this approach allows users the flexibility to download various client downloads or not, depending upon what is most important to them. specifically with this approach, when a specific function is called, it is determined whether the client download is stored locally at the client system.

@@ -1,1 +1,0 @@
-this problem is difficult for large instances. specifically it is np hard, meaning that it is conjectured that there does not exist a polynomial time algorithm which finds the optimal allocation.

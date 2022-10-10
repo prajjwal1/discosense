@@ -1,1 +1,0 @@
-we only made a couple of minor changes. for instance we use slightly smaller fixed resistors in the base bias circuit of the differential amp to make up for the added trim pot.

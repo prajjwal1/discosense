@@ -1,1 +1,0 @@
-however, these same schemes cannot be applied to desktop and server environments due to system and performance requirements. for instance several voltage frequency adjustments schemes developed to maximize batter life for mobile processors implement deep reductions in the processor operating frequency by adjusting the bus ratio.

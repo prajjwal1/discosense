@@ -1,1 +1,0 @@
-the movement of the drawknob affects the state of the switch or reed contact. similarly with a sam that utilises a tilting tablet, the player will tilt the tablet up or down by hand to operate it.

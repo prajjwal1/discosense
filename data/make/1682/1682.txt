@@ -1,1 +1,0 @@
-this paper presents a new approach to optimising corecursive programs by factorisation. in particular we focus on programs written using the corecursion operator unfold.

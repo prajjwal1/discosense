@@ -1,1 +1,0 @@
-under this condition, while the anodic oxide of aluminum is etched, silicon oxide is not etched. thereby only the anodic oxide 606 could be thus etched without etching the gate wire 605 and the silicon oxide film 604 which is the gate insulating film.

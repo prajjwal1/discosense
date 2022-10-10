@@ -1,1 +1,0 @@
-the fromculture method selects from among installed keyboards. specifically this method performs the following operations.

@@ -1,1 +1,0 @@
-we show that this algebra representation can be defined on the sole basis of a quantization map of the classical poisson algebra, and identify the conditions for its existence. in particular the corresponding non commutative star product carried by this representation is obtained directly from the quantization map via deformation quantization.

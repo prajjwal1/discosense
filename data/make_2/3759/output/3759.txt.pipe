@@ -1,7 +1,0 @@
-Explicit|||62..64||if||0|if|||Contingency.Condition|||||||||||0..61|0|if you are the host of a wordpress blog, you may be wondering||||||||65..120|0|widgets are something that could be of a benefit to you|||||||||||||
-Explicit|||246..249||and||1|and|||Expansion.Conjunction|||||||||||230..245|1|if you use them||||||||250..261|1|if you dont|||||||||||||
-Explicit|||0..2||if||0|if|||Contingency.Condition|||||||||||41..120|0|you may be wondering if widgets are something that could be of a benefit to you||||||||3..39|0|you are the host of a wordpress blog|||||||||||||
-Explicit|||250..252||if||1|if|||Contingency.Condition|||||||||||195..249|1|there wont be much of a difference if you use them and||||||||253..261|1|you dont|||||||||||||
-Explicit|||191..194||but||1|but|||Comparison.Contrast|||||||||||122..189|1|in short it depends on what you are attempting to do with your blog||||||||195..261|1|there wont be much of a difference if you use them and if you dont|||||||||||||
-Explicit|||122..130||in short||1|in short|||Expansion.Restatement|||||||||||0..120|0|if you are the host of a wordpress blog, you may be wondering if widgets are something that could be of a benefit to you||||||||131..261|1|it depends on what you are attempting to do with your blog, but there wont be much of a difference if you use them and if you dont|||||||||||||
-Explicit|||230..232||if||1|if|||Contingency.Condition|||||||||||195..229;246..261|1|there wont be much of a difference and if you dont||||||||233..245|1|you use them|||||||||||||

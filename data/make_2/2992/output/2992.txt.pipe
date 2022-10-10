@@ -1,2 +1,0 @@
-Explicit|||51..57||unless||0|unless|||Expansion.Alternative|||||||||||0..50|0|c implicitly treats any const global as file scope||||||||58..131|0|it is explicitly declared extern, unlike c in which extern is the default|||||||||||||
-Explicit|||184..191||whereas||1|whereas|||Comparison.Contrast|||||||||||133..183|1|conversely inline functions in c are of file scope||||||||192..234|1|they have external linkage by default in c|||||||||||||

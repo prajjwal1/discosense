@@ -1,1 +1,0 @@
-the adjustable attenuator is adjusted to produce a zero, or null reading on the meter. thereafter the pickup head is rotated 90 for maximum deflection on the meter and, again, the variable attenuator is adjusted to provide a null.

@@ -1,3 +1,0 @@
-Explicit|||141..149||although||1|although|||Comparison.Concession|||||||||||204..301|1|it can be approximated by assuming an internal current limiting resistor and an ideal transformer||||||||150..202|1|as noted, the current limited behavior is not linear|||||||||||||
-Explicit|||70..73||but||0|but|||Comparison.Contrast|||||||||||0..69|0|this is no problem if used on a variac with current monitoring though||||||||74..139|0|the practical upper limit on operating voltage is only about 4 kv|||||||||||||
-Explicit|||63..69||though||0|though|||Comparison.Contrast|||||||||||1..2|-1|h||||||||0..62;70..139|0|this is no problem if used on a variac with current monitoring but the practical upper limit on operating voltage is only about 4 kv|||||||||||||

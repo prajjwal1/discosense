@@ -1,1 +1,0 @@
-the arduino you see is actually a prototyping tool, thats not a secret, they say so on the website very near the top of the page. however for a long time i failed to appreciate what that really meant.

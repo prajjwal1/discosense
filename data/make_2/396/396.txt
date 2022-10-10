@@ -1,1 +1,0 @@
-on the one hand it can be open because it is up to the receiving end to determine whether or not to accept it. on the other hand a repository administrator might want to prevent items being exported out of a collection.

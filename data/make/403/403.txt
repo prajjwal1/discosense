@@ -1,1 +1,0 @@
-if anyone has any practical solutions to these problems, please let me know. otherwise im back to using nape physics and my own proprietary image management for conjurer.

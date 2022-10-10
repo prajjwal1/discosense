@@ -1,1 +1,0 @@
-the atc then returns the tool received to the tool magazine 19, which starts an operation for selecting a tool to be used in a still subsequent stage. on the other hand the composite tool rest 6 starts carrying out a processing operation by a newly fixed tool with predetermined timing.

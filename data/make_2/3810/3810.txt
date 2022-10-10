@@ -1,1 +1,0 @@
-the joomla architecture requires that every article belong to a section and a category. because of that before you start creating the sections and categories, you need to think of the names that you might need.

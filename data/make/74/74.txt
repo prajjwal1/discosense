@@ -1,1 +1,0 @@
-the robust and efficient flight control of insects provide a powerful model system for autonomous micro robots. conversely robots offer a robust experimental platform on which to test biological hypotheses.

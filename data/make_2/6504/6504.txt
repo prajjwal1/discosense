@@ -1,1 +1,0 @@
-during daytime, if the players character is killed, survival points will be deducted. in contrast no survival point will be deducted if the players character is killed at night.

@@ -1,1 +1,0 @@
-the mpu prefetches an instruction to be executed but is brought into a stopped condition when the spu is in an executing condition. thereby useless prefetch and discarded prefetch are prevented.

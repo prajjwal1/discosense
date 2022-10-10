@@ -1,1 +1,0 @@
-from a business architecture pov, a business capability is the value proposition a business brings to the market. for example in this tread a post referred to marketing as a capability.

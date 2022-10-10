@@ -1,1 +1,0 @@
-it was first shown by blumer, et al. that occam learning implies pac learning, which is the standard model of learning in computational learning theory. in other words parsimony implies predictive power.

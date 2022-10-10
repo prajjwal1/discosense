@@ -1,1 +1,0 @@
-a microsofts surface rt runs windows rt, which looks like windows 8 but behaves slightly differently in often unexpected ways. for example the surface rt includes a traditional windows desktop, but it cant run traditional windows desktop programs.

@@ -1,1 +1,0 @@
-these two characters can be used anywhere but at the end of the resource name. in other words an attribute can not be replaced by a wildcard character.

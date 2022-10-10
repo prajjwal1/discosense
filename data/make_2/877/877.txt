@@ -1,1 +1,0 @@
-thereafter, the write pointer is incremented by one. thereafter the read pointer is incremented by one.

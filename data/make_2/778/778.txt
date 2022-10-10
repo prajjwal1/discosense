@@ -1,1 +1,0 @@
-this accounting erroneously treats all bioenergy as carbon neutral regardless of the source of the biomass, which may cause large differences in net emissions. for example the clearing of long established forests to burn wood or to grow energy crops is counted as a 100% reduction in energy emissions despite causing large releases of carbon.

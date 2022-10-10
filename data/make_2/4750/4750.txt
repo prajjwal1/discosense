@@ -1,1 +1,0 @@
-if x is part of y, and y is part of z, then x is part of z. for instance madrid is part of spain, and spain is part of eu, therefore, madrid is part of eu.

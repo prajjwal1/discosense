@@ -1,1 +1,0 @@
-ligand analogues can be coupled by different means to signal development elements to change their equilibrium binding constants for ligand receptor. thereby one can design ligand analogues that exhibit larger or smaller magnitude equilibrium binding constants than does the ligand for the ligand receptor.

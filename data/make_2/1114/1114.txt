@@ -1,1 +1,0 @@
-the main cufflinks shape is composed by a cube, a sphere and an elliptic toroid, all modelled by implicit equations. particularly for this model the cube sides measure exactly 4 x pi.

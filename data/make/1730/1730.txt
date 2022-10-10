@@ -1,1 +1,0 @@
-i have lost the password for mindcontrolinjustice, but when i try to request another password wordpress sends a reset for mindcontroljustice not mindcontrolinjustice. because of that the reset does not work.

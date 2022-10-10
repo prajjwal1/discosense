@@ -1,1 +1,0 @@
-whatever option you choose, your service implementation should ensure that users cannot query another users roles and privileges unless they have administrative privileges themselves. in other words exposing on the internet a web service which enables anybody to identify privileged user accounts for your backend is a bad idea.

@@ -1,1 +1,0 @@
-if you changed it to 2 x pr, people receiving anything less than 100% challenge bonus would accumulate score when they train. thereby putting more score into the system, especially down low.

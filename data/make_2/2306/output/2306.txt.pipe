@@ -1,3 +1,0 @@
-Explicit|||127..131||when||1|when|||Temporal.Synchrony|||||||||||118..126;165..207|1|likewise it blocks until there is something to pull||||||||132..164|1|a value is pulled from a channel|||||||||||||
-Explicit|||175..180||until||1|until|||Temporal.Asynchronous|||||||||||118..174|1|likewise when a value is pulled from a channel it blocks||||||||181..207|1|there is something to pull|||||||||||||
-Explicit|||94..99||until||0|until|||Temporal.Asynchronous|||||||||||34..93|0|by default, when a value is pushed onto a channel it blocks||||||||100..116|0|it is pulled off|||||||||||||

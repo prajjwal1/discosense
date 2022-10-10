@@ -1,4 +1,0 @@
-Explicit|||0..7||in fact||0|in fact|||Expansion.Conjunction|||||||||||1..2|-1|n||||||||9..128|0|connallys wife, nellie connally, stated that he held on to his hat until he was put on a stretcher at parkland hospital|||||||||||||
-Explicit|||76..81||until||0|until|||Temporal.Asynchronous|||||||||||54..75|0|he held on to his hat||||||||82..128|0|he was put on a stretcher at parkland hospital|||||||||||||
-Explicit|||130..134||thus||1|thus|||Contingency.Cause|||||||||||0..128|0|in fact, connallys wife, nellie connally, stated that he held on to his hat until he was put on a stretcher at parkland hospital||||||||135..213|1|it is reasonably clear that connally continued to hold the hat after being hit|||||||||||||
-Explicit|||198..203||after||1|after|||Temporal.Asynchronous|||||||||||182..197|1|to hold the hat||||||||204..213|1|being hit|||||||||||||

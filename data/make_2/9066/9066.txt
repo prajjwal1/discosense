@@ -1,1 +1,0 @@
-it defines a contraction. on the other hand on the other hand it can be checked that t 0 by computing directly on powers z using stokes theorem to transfer the integral to the boundary.

@@ -1,1 +1,0 @@
-the youngs modulus enables the calculation of the change in the dimension of a bar made of an isotropic elastic material under tensile or compressive loads. for instance it predicts how much a material sample extends under tension or shortens under compression.

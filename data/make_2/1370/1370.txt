@@ -1,1 +1,0 @@
-you see, spammers rely on speed, and their spam shooting applications are built to quickly bombard a domains mx records, but they rarely listen to the recipients mail servers reply. because of that the spammers will not obey your servers request for them totry again later.

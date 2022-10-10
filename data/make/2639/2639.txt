@@ -1,1 +1,0 @@
-it should be noted, however, that the differential equations that can be explicitly solved form but a small minority. thus most functions must be studied by indirect methods.

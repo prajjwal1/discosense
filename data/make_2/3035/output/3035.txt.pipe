@@ -1,3 +1,0 @@
-Explicit|||0..2||if||0|if|||Contingency.Condition|||||||||||35..75|0|the supplementary spare area is assigned||||||||3..33|0|the primary spare area is full|||||||||||||
-Explicit|||77..87||thereafter||1|thereafter|||Temporal.Asynchronous|||||||||||0..75|0|if the primary spare area is full, the supplementary spare area is assigned||||||||88..183|1|if the assigned supplementary spare area becomes full, the supplementary spare area is extended|||||||||||||
-Explicit|||88..90||if||1|if|||Contingency.Condition|||||||||||77..87;143..183|1|thereafter the supplementary spare area is extended||||||||91..141|1|the assigned supplementary spare area becomes full|||||||||||||

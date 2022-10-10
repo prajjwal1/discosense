@@ -1,1 +1,0 @@
-the six time slots 750,750 a, 750 b, 750 c, 750 d, 750 e, are arranged independent from each other. hence each station can offer ntsc, hdtv, and or super hdtv services independently of the other stations through selecting a particular channel of the time slots.

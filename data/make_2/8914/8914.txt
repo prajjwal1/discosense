@@ -1,1 +1,0 @@
-calculated attributes attributes can be calculated which means they are not stored but calculated when needed. for instance for instance the total of one instance of orders is the sum of the total of its lines.

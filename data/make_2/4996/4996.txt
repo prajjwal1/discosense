@@ -1,1 +1,0 @@
-this technique involves concurrently maintaining the state of multiple executable sequences of instructions, called threads, within a single cpu. as a result it is relatively simple and fast to switch threads.

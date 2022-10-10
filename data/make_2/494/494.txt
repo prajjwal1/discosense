@@ -1,1 +1,0 @@
-you would have to use both, but how would you know about the other root if i hadnt just told you. conversely public key hashes must be correct.

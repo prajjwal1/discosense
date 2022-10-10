@@ -1,1 +1,0 @@
-for example, if a stationary touch actuation exceeds an amount of time, e. g. five seconds, then the position of the finger on the rotational input is stored as a reference position. thereafter rotation of the finger away from the reference point generates a rotation signal that is proportional to the amount of angular deflection.

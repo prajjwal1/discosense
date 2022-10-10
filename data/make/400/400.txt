@@ -1,1 +1,0 @@
-this kind of rule is called strictness. in contrast haskell is often called alazy language, meaning that expressions arent evaluated until theyre needed.

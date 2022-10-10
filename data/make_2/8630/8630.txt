@@ -1,1 +1,0 @@
-cognitive architectures tend to be focused on the structural properties of the modeled system, and help constrain the development of cognitive models within the architecture. likewise model development helps to inform limitations and shortcomings of the architecture.

@@ -1,1 +1,0 @@
-every shader instruction gets substituted by mmx sse instructions, and register allocation is handled automatically. because of this substitution, dependent instructions are close together, causing inefficiencies.

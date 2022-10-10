@@ -1,1 +1,0 @@
-many reliability enhancements were done and much extra tests firings were performed. yet even as of 2015 design issues where found to have caused failures.

@@ -1,1 +1,0 @@
-the sensitivities of systematic effects are studied and the detectors are calibrated to the desired precision and accuracy. particularly the position accuracy of the mcp is calibrated below 10 m and the resolution is improved to 85 m fwhm.

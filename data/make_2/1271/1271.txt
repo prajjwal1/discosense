@@ -1,1 +1,0 @@
-however, changes in tone preference and a call for higher output led ric to discontinue the use of this capacitor in favor of a more balanced sound. nevertheless many users added this capacitor back into the circuit, experimenting with and sometimes preferring the sound of the older configuration, despite the resulting drop in volume.

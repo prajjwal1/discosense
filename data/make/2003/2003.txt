@@ -1,1 +1,0 @@
-it may be generated for any polygon having substantially the same shape, regardless of the number of vertices. thus fewer pixels may be affected by the spikes in the triangulation 60 than in the conventional triangulation 50.

@@ -1,1 +1,0 @@
-it is impossible to capture all the characteristics using equations. for instance rocks are discontinuous, but modeling rock as a continuous material is reasonable at large scale as it describes the properties accurately enough.

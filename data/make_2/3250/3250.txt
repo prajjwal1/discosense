@@ -1,1 +1,0 @@
-from here on in, the most advanced piece of technology ill be using is a rust proof pitchfork. in other words good bye.

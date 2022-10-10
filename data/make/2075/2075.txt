@@ -1,1 +1,0 @@
-the links are serial links when the path is a single bit wide path. otherwise the links are parallel links.

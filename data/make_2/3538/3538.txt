@@ -1,1 +1,0 @@
-this can happen if a hardware failure occurs on the machine where the vm is hosted. instead the recommended approach is to store data to dedicated persistent storage such as sql azure or windows azure storage.

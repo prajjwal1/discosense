@@ -1,1 +1,0 @@
-hence, cpu 1 normally performs its machine cycles, normal or long, according to its own needs. particularly if cpu 1 wants to access the memory, it generates command c 23 which, suitably timed by signal tp 6, is transferred through nand 33 and nand 54 and generates command gomm.

@@ -1,1 +1,0 @@
-although, as the number of available sub channels is reduced due to high sir, so is the available bandwidth. in other words as available sub channels are reduced, the number of users that can gain access to communication channel 1200 is also reduced.

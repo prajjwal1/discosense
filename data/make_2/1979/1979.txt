@@ -1,1 +1,0 @@
-sata cables better for btx as i had to awkwardly route them to the bottom of the case and back up. otherwise the sata connectors would be upside down.

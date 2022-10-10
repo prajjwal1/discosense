@@ -1,1 +1,0 @@
-we also suffer because we dont have random access to all the data like an rdbms does. because of that it is not unheard of for us to recommend that you run joins or sorts on the database server where the data is coming from.

@@ -1,1 +1,0 @@
-this provides isolation in much the same way that crossovers bottles work. thus applications may use different versions and configurations of wine as appropriate.

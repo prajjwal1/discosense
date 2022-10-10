@@ -1,1 +1,0 @@
-jsss lacks the various css selector features, supporting only simple tag name, class and id selectors. on the other hand since it is written using a complete programming language, stylesheets can include highly complex dynamic calculations and conditional processing.

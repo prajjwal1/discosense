@@ -1,1 +1,0 @@
-thus, it is possible to align a receiving null with transmissions originating from an undesirable direction such as a multipath direction or the direction of a jamming transmitter. conversely transmitting nulls can be aligned with directions that may interfere with other receivers.

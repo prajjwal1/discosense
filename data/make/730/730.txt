@@ -1,1 +1,0 @@
-this text based format has many advantages, including, but not limited to readability, good compression and ease of reconstruction. however as developers, openxml has significant benefits for us.

@@ -1,1 +1,0 @@
-the syntax of a typed variable declaration is identical to the ada syntax for an object declaration. by contrast the syntax of an untyped variable declaration is identical to an ada assignment statement.

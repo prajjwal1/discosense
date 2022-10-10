@@ -1,1 +1,0 @@
-now, this argument is tenable only under the cover of a complex setup using real analysis, so that the simple argument being made seems like godels incompleteness theorem. yet the answer is simply baked into his assumption of how various assets generate payoffs, and so has this faux endogeneity that economists love.

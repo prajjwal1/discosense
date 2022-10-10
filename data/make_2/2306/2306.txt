@@ -1,1 +1,0 @@
-it is important to remember that, by default, when a value is pushed onto a channel it blocks until it is pulled off. likewise when a value is pulled from a channel it blocks until there is something to pull.

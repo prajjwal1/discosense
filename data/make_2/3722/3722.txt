@@ -1,1 +1,0 @@
-please make sure that your desire variant is supported by the ruu, before flashing it. otherwise you may end up with a bricked or a partially unusable phone.

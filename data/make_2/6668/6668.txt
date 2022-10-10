@@ -1,1 +1,0 @@
-background switcher added a slideshow tab to display properties and allows automatically changing the desktop wallpaper periodically. although background switcher is now retired, a replacement, known as wallpaper changer, is now available from microsoft.

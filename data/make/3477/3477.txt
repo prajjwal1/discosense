@@ -1,1 +1,0 @@
-if the word is correct, the game is over and the guesser wins. otherwise the other player may choose to penalize the guesser by adding an element to the diagram.

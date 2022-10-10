@@ -1,1 +1,0 @@
-understanding of how web server security works and how your web server is configured to run cgi scripts or server plugins is also required. in particular you must know the user that the web server will use when running foswiki.

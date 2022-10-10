@@ -1,1 +1,0 @@
-several studies on bittorrent have indicated that there exist files, containing malware, available for download via bittorrent. in particular one small sample indicated that 18% of all executable programs available for download contained malware.

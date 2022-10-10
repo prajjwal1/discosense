@@ -1,1 +1,0 @@
-therefore, the client can use various instances of the web proxy interchangeably. for example different copies of the same web proxy may be used on a personal computer and a laptop computer associated with a given client.

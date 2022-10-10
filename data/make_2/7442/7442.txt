@@ -1,1 +1,0 @@
-with gsm number portability now in place, lcr providers can no longer rely on using the network root prefix to determine how to route a call. instead they must now determine the actual network of every number before routing the call.

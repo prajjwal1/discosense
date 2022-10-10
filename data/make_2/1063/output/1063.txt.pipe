@@ -1,2 +1,0 @@
-Explicit|||41..48||because||0|because|||Contingency.Cause|||||||||||12..40|0|commits are not filtered out||||||||49..106|0|they do not belong to the commits inside the pull request|||||||||||||
-Explicit|||108..115||instead||1|instead|||Expansion.Alternative|||||||||||0..106|0|these merge commits are not filtered out because they do not belong to the commits inside the pull request||||||||116..166|1|they are an artifact of merging the pull request 4|||||||||||||

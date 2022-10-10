@@ -1,1 +1,0 @@
-several mailing lists software now propose various options to deal with members posting from a domain with p reject. for instance for instance mailman 2.1. 16 and onward have such options.

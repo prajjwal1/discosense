@@ -1,1 +1,0 @@
-processing of image edges plays a very important role when it comes to achieving a high quality image. particularly the processing quality of high contrast image edges of pictures or texts is crucial to image quality.

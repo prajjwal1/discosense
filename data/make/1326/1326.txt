@@ -1,1 +1,0 @@
-furthermore, it also gives some details about data acquisition, instrumentation and processing technique that focuses on observation principle and new technologies used in modern geodetic astronomy. hence in the scope of this project astro geodetic observations are performed with a new ccd equipped telescope designed as zenith camera in istanbul.

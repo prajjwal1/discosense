@@ -1,1 +1,0 @@
-a user viewing the screen can share the url information with a friend of the user by pressing the share button. thereby the user becomes a distributor of the url information.

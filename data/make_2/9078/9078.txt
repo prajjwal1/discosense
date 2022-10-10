@@ -1,1 +1,0 @@
-the direction of the movement of the carriers in the channel is from the source to the drain. hence hence the relationship between these three components is that the gate controls the carrier movement from the source to the drain.

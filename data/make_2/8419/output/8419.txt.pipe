@@ -1,3 +1,0 @@
-Explicit|||134..136||if||1|if|||Contingency.Condition|||||||||||123..133;157..173|1|particular dynamic resizing||||||||137..156|1|the hash table uses|||||||||||||
-Explicit|||120..133||in particular||1|in particular|||Expansion.Instantiation|||||||||||0..118|0|although the average cost per operation is constant and fairly small, the cost of a single operation may be quite high||||||||134..274|1|if the hash table uses dynamic resizing, an insertion or deletion operation may occasionally take time proportional to the number of entries|||||||||||||
-Explicit|||0..8||although||0|although|||Comparison.Concession|||||||||||70..118|0|the cost of a single operation may be quite high||||||||9..68|0|the average cost per operation is constant and fairly small|||||||||||||

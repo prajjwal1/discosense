@@ -1,1 +1,0 @@
-in this construction, when rotating the brush roller 21 by the brush roller drive motor 200, the flicker 48 is driven to rotate via the gears 51 and 50. thereby the flicker 48 and the brush roller 21 are rotated at different circumferential velocities.

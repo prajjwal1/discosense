@@ -1,1 +1,0 @@
-the dietary data from the different days could affect actual dietary intake. thus 8 days out of all days were randomly selected through the survey select procedure using sas.

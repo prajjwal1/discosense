@@ -1,1 +1,0 @@
-a hsm operation is generally an operation for automatically moving data between classes of storage devices, such as between high cost and low cost storage devices. for instance an hsm operation may involve movement of data from primary storage devices 104 to secondary storage devices 108, or between tiers of secondary storage devices 108.

@@ -1,1 +1,0 @@
-has anyone found a way to force borderless printing from the canon pixma pro 9000 with non standard paper sizes when printing from ps cs 4. in particular i want to print borderlessly using a 9.5 x 13 sheet.

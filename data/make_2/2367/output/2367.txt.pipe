@@ -1,3 +1,0 @@
-Explicit|||0..4||when||0|when|||Temporal.Synchrony|||||||||||39..86|0|the safety switch to be held for a safe restart||||||||5..38|0|restarting in such case, requires|||||||||||||
-Explicit|||88..98||thereafter||1|thereafter|||Temporal.Asynchronous|||||||||||0..86|0|when restarting in such case, requires the safety switch to be held for a safe restart||||||||99..201|1|various functions are initialized and the main loop is entered whereat the driver await operator input|||||||||||||
-Explicit|||133..136||and||1|and|||Expansion.Conjunction|||||||||||88..132|1|thereafter various functions are initialized||||||||137..201|1|the main loop is entered whereat the driver await operator input|||||||||||||

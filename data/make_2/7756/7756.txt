@@ -1,1 +1,0 @@
-in its simplest form, fermats method might be even slower than trial division. nonetheless the combination of trial division and fermats is more effective than either.

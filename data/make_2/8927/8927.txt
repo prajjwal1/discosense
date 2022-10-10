@@ -1,1 +1,0 @@
-the polar body of a polyhedron or polytope is its dual polyhedron or dual polytope. in particular the polar body of a cube or hypercube is an octahedron or cross polytope.

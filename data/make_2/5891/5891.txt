@@ -1,1 +1,0 @@
-note that the template opens two nested tables and closes only the inner one. therefore therefore after the template call and optional extra table rows, a closing tag is required.

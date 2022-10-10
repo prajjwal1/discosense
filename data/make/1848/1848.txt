@@ -1,1 +1,0 @@
-the repeat flag is set in step 1700 indicating that this method is in use. thereafter the process moves to the routine 1800, wherein the logo data compacted by the repeat method is transferred to the logo disc 94.

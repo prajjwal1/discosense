@@ -1,1 +1,0 @@
-the simplest numerical integration technique, one commonly taught in freshman calculus, can be extraordinarily efficient when applied with skill to the right problem. conversely a more sophisticated integration technique such as gauss quadrature can fail miserably when naively applied.

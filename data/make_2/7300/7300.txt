@@ -1,1 +1,0 @@
-the ssdm technology is patented by cypress semiconductor. hence hence the microcontrollers supporting ssdm signal generation using dedicated hardware modules are psoc devices from cypress semiconductor.

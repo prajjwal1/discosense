@@ -1,1 +1,0 @@
-im studying types and programming languages, and have some trouble getting my head around the concepts of the 5th chapter, the untyped lambda calculus. specifically redex, reduction and the various.

@@ -1,1 +1,0 @@
-he shows that various seemingly promising answers to these questions are wrong. in particular stored items are not necessarily words, and words are not necessarily stored.

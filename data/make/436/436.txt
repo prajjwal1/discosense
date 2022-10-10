@@ -1,1 +1,0 @@
-to obtain a space efficient design over 64 64 pixels means that standard processing electronics used off chip cannot be implemented. therefore the analog signal processing at each pixel is a tailored design for ldbf signals with balanced optimization for signal to noise ratio and silicon area.

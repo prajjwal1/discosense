@@ -1,1 +1,0 @@
-severe leakage usually results from improperly installed connectors or faults in the cable shield. for example in the united states, signal leakage from cable television systems is regulated by the fcc, since cable signals use the same frequencies as aeronautical and radionavigation bands.

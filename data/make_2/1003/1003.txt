@@ -1,1 +1,0 @@
-a software developer who makes changes to the source code does not know whether or not his her change will impact one or more tests. thus he she typically just runs all tests to see what type of impact the change to the source code will have on the tests.

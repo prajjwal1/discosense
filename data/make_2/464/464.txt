@@ -1,1 +1,0 @@
-i think we need to be clear on the terminology being used here. for example in your first question, you say you want to match the first 300 characters but then mention othercharactersthat you imply should not be counted.

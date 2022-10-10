@@ -1,1 +1,0 @@
-particularly, a bs first transmits a general page message including a broadcast page information in every first slot of a broadcast cycle. thereafter a ms can determine the type and time of the message transmission based on the broadcast page and receive broadcast messages in consecutive slots of the broadcast cycle.

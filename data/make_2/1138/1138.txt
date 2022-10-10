@@ -1,1 +1,0 @@
-then, the network address selector 23 sends to the terminal tj, the network address of the computer with which it communicated successfully in step 64. conversely if the attempt to communicate in step 64 is not successful, then thenobranch is taken from step 65 to step 66.

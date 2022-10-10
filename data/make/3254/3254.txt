@@ -1,1 +1,0 @@
-thereve been some improvements in cvs, so you might want to go check that out. particularly it doesnt crash randomly when kxine is closed.

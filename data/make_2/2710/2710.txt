@@ -1,1 +1,0 @@
-note that all modules in a pro gram must be compiled with the same value for this option. because of that you must not use this option with the default runtime libraries gcc builds.

@@ -1,1 +1,0 @@
-this should be possible because of the implicit nature of coupling and hence no barrier on timescale. although the non linear outer iterations may put a cap on cfl.

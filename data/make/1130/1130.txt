@@ -1,1 +1,0 @@
-the start of the imaging cycle is marked by a pitch pulse. thereafter the next count stored in the counter is decremented to zero by the clock pulse counts.

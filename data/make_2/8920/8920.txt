@@ -1,1 +1,0 @@
-when past data is available about the performance of a team or a specific player, sabermetrics can be used to predict the average future performances for the next season. thus a prediction can be made with a certain probability about the number of wins and loses.

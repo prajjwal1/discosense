@@ -1,1 +1,0 @@
-you should be aware that post install scripts and the package management system uses disk space inside this overhead area. consequently the multiplier does not produce an image with all the theoretical free disk space.

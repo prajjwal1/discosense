@@ -1,1 +1,0 @@
-the language is somewhat unusual in that the programmer can not edit the source code directly as text. instead keywords are presented as hyperlinks in a browser based html interface.

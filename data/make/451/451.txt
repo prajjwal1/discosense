@@ -1,1 +1,0 @@
-i dont get the sense that sybase iq actually boasts a lot of direct workload management features. however there are such features in sybases flagship ase product, so hopefully adding something similar to sybase iq is a product future.

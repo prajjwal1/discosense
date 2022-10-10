@@ -1,1 +1,0 @@
-numerical results are given to illustrate that the model can give better phase gradients and hence a more accurate psf. as a result the restored images are much more accurate when compared to the traditional tikhonov regularization model.

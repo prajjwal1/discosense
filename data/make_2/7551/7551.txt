@@ -1,1 +1,0 @@
-sampling oscilloscopes achieve their large bandwidths by not taking the entire signal at a time. instead only a sample of the signal is taken.

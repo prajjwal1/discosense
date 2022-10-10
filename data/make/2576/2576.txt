@@ -1,1 +1,0 @@
-with the arrival of new cnv datasets featuring improved breakpoint accuracy, it should become possible to better distinguish between false positive predictions and genes that are actually subject to dosage compensation. subsequently this will make it possible to determine the frequency of dosage compensation of copy number varied genes.

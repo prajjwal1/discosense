@@ -1,1 +1,0 @@
-the timing of the children of an animation group is based on the timing of the group. specifically times for the children are based on the parents transformed time.

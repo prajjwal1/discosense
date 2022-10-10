@@ -1,1 +1,0 @@
-first, tweets obtained from each account through twitter api were separated onto different lines with a period. subsequently these were broken down into morphemes using the japanese language morpheme analysis software chasen.

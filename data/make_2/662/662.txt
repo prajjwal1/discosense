@@ -1,1 +1,0 @@
-here, pre planned units of work such as test cases lead to the discovery of defects, which must be fixed. hence further units of work are generated dynamically, as defects are discovered during execution of the test cases.

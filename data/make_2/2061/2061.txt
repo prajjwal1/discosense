@@ -1,1 +1,0 @@
-but one of the downsides of dependency injection is that it makes it a little harder for development tools to reason about and navigate code. specifically if you control click command click on a method invocation in code, itll take you to the method declaration on an interface instead of the concrete implementation.

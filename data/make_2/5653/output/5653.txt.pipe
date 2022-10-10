@@ -1,3 +1,0 @@
-Explicit|||142..146||thus||1|thus|||Contingency.Cause|||||||||||92..96|1|that||||||||97..141;147..190|1|makes a block cipher produce a keystream and turns the block cipher into a stream cipher|||||||||||||
-Explicit|||54..66||for instance||1|for instance|||Expansion.Instantiation|||||||||||0..52|0|block ciphers can also be used to produce keystreams||||||||67..190|1|ctr mode is a block mode that makes a block cipher produce a keystream and thus turns the block cipher into a stream cipher|||||||||||||
-Explicit|||18..22||also||0|also|||Expansion.Conjunction|||||||||||0..13|0|block ciphers||||||||14..17;23..52|0|can be used to produce keystreams|||||||||||||

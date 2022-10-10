@@ -1,1 +1,0 @@
-studies of web evolution we have studied the evolution of several aspects of the web at large. in particular we have investigated how much web pages change over time, and how stable sets of near identical web pages are over time.

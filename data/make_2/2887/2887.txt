@@ -1,1 +1,0 @@
-net debug is defined by default during debug builds. thus the use of the methods of this class does not affect performance or size of release builds.

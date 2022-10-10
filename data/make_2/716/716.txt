@@ -1,1 +1,0 @@
-unit 7, has been read, then the shift registers and the transpose element 40 would be full if they were 8 bits deep. thereafter assume that the transpose element 40 is read broadside, one shift register after the other, to load ram 20.

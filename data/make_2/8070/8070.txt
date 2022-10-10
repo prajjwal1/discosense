@@ -1,1 +1,0 @@
-asking systolic questions often stimulates questions in related fields. thus a notion of systolic category of a manifold has been defined and investigated, exhibiting a connection to the lusternik schnirelmann category.

@@ -1,1 +1,0 @@
-the decoder within the set top terminal is reset to flush from its buffer any residual audio or video data from the previously decoded information stream. thereafter the set top terminal awaits a new information stream to arrive from the information server while presenting the customer with the predefined image and audio.

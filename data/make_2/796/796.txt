@@ -1,1 +1,0 @@
-after power supply recovery at 1000 airbox will resume playback from the point in the playlist that is 1000 hours away from its beginning. in short airbox willforwardthe playlist to the time point of power supply recovery, taking 000000 as initial time.

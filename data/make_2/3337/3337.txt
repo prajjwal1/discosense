@@ -1,1 +1,0 @@
-sysos spriteop, 12 is no longer used to save any of the window managers sprite areas because they are too esoteric. in particular risc os 6 has zero named sprites in its wimp sprite pool and its tool sprite areas header is at a higher address than the rest of the data.

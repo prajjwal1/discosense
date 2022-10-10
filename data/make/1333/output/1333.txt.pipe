@@ -1,4 +1,0 @@
-Explicit|||0..4||when||0|when|||Temporal.Synchrony|||||||||||29..73|0|all old items are transferred as they should||||||||5..27|0|setting up the account|||||||||||||
-Explicit|||75..78||but||1|but|||Comparison.Contrast|||||||||||0..73|0|when setting up the account, all old items are transferred as they should||||||||79..149|1|then, new sent mail is not showing up in the sent items folder locally|||||||||||||
-Explicit|||59..61||as||0|as|||Temporal.Synchrony|||||||||||0..58|0|when setting up the account, all old items are transferred||||||||62..73|0|they should|||||||||||||
-Explicit|||79..83||then||1|then|||Temporal.Asynchronous|||||||||||75..78;85..88|1|but new||||||||89..149|1|sent mail is not showing up in the sent items folder locally|||||||||||||

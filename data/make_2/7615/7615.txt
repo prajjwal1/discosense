@@ -1,1 +1,0 @@
-while mainly used to obtain invariants of knots, they can be viewed as algebraic constructions in their own right. in particular the definition of a quandle axiomatizes the properties of conjugation in a group.

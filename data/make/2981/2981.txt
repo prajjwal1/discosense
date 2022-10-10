@@ -1,1 +1,0 @@
-the current paper reviews strategies suitable for addressing biofouling, one aspect of biosensor biocompatibility. specifically this paper addresses the effect of membrane biofouling on sensor sensitivity from the standpoint of glucose transport limitations.

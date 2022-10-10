@@ -1,1 +1,0 @@
-one class of the region based techniques involves the concept of region expansion, wherein the image issegmented first into atomic regions of constant grey levels. thereafter similar adjacent atomic regions are merged sequentially until the merged regions become sufficiently different and these distinct merged regions are called segmented regions inthe image.

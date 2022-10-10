@@ -1,3 +1,0 @@
-Explicit|||0..7||because||0|because|||Contingency.Cause|||||||||||91..182|0|problems can occur in a schematic using a particular symbol if that symbol file is modified||||||||8..89|0|symbols are, by default, referenced from the schematic and not embedded within it|||||||||||||
-Explicit|||63..66||and||0|and|||Expansion.Conjunction|||||||||||33..62|0|referenced from the schematic||||||||67..89|0|not embedded within it|||||||||||||
-Explicit|||151..153||if||0|if|||Contingency.Condition|||||||||||113..150|0|a schematic using a particular symbol||||||||154..182|0|that symbol file is modified|||||||||||||

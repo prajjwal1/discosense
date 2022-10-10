@@ -1,1 +1,0 @@
-therefore, each module in the device is designed to operate at each optimal speed. because of this system clocks of themodules in the device are sometimes asynchronous to each other.

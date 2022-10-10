@@ -1,1 +1,0 @@
-well do this with the same kind of pci sas adapter bracket as before. interestingly intel also sells a sas expander that uses the pci format and yet does not have external sff 8088 ports.

@@ -1,1 +1,0 @@
-the updated version does not search the temporary table schema for functions and operators any more. similarly an attacker could put forged tables into the temporary table schema to trick the security definer function into using attacker defined data for processing.

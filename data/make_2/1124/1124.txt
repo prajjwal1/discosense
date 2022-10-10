@@ -1,1 +1,0 @@
-the combination of hyperspectral imagery with lidar derived height statistics to evaluate structural information contained in the spectral data provides an exciting field of possibilities for remote sensing of forested environments. in contrast the inclusion of in situ data in the evaluation of the basal area prediction allowed field based evaluation of the prediction results.

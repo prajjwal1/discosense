@@ -1,1 +1,0 @@
-so the underlying file structure of the dn 60 is designed to provide robustness and peace of mind. because of this access to your footage requires a second step.

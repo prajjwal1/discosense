@@ -1,1 +1,0 @@
-but any program that requires substantial computing power will suffer because of the processor. for example i loaded windows xp during testing and noticed it took nearly 90 minutes to load service pack 3 on top of the winxp sp 2 install.

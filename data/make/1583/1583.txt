@@ -1,1 +1,0 @@
-is to reliably deliver packets from their sources to their destinations within acceptable time delays. thus an important performance measure of a packet network is its throughput rate in packets delivered per second.

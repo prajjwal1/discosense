@@ -1,1 +1,0 @@
-one priority level is assigned to one raid group. instead one priority level may be assigned to a plurality of raid groups.

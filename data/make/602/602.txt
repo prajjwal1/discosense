@@ -1,1 +1,0 @@
-it is quite thorough in that it covers not just the fundamentals of the algebra, but also incorporates quite a few physical applications for motivation. for example at this point its well understood that quantum spin is really a geometric property of the particles themselves.

@@ -1,1 +1,0 @@
-if the payor does not have an online account established, the payor must sign up for an online account and provide a credit card number to fund the online account. thereafter the amount of funds are transferred to the payee and the system sends an e mail notification to the payee indicating that the funds have beenreceivedon the payees behalf.

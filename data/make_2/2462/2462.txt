@@ -1,1 +1,0 @@
-here is a final thought about wraplines. in short the printed output might cut off the right hand part of long lines.

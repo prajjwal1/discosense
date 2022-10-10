@@ -1,1 +1,0 @@
-basically, facebook doesnt like the request for authentication because it has no idea who the requestor is. therefore i need to tell facebook about my application.

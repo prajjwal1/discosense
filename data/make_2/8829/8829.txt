@@ -1,1 +1,0 @@
-numerical modeling uses mathematical models to describe the physical conditions of geological scenarios using numbers and equations. nevertheless some of their equations are difficult to solve directly, such as partial differential equations.

@@ -1,1 +1,0 @@
-if the question is ultimately answered correctly, the value of the question will be added to the bank. otherwise the current value of the bank is halved.

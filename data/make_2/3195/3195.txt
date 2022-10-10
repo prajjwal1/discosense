@@ -1,1 +1,0 @@
-even though we performed the analysis for disk like quantum dot, all the conclusions are quite general and remain valid for any emitter with nanometer dimensions. particularly we found that the strong inhomogeneity of the electric field near the nanowire surface results in a variety of dipole forbidden transitions in the quantum dot energy spectra.

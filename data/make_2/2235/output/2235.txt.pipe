@@ -1,3 +1,0 @@
-Explicit|||106..115||therefore||1|therefore|||Contingency.Cause|||||||||||0..104|0|the more applications for finance that you make in a short period the more likely you are to be rejected||||||||116..238|1|if you are rejected for finance you should make sure that you wait around three months before you make another application|||||||||||||
-Explicit|||116..118||if||1|if|||Contingency.Condition|||||||||||106..115;148..238|1|therefore you should make sure that you wait around three months before you make another application||||||||119..147|1|you are rejected for finance|||||||||||||
-Explicit|||203..209||before||1|before|||Temporal.Asynchronous|||||||||||174..202|1|you wait around three months||||||||210..238|1|you make another application|||||||||||||

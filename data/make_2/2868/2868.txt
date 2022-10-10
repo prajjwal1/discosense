@@ -1,1 +1,0 @@
-because emissions from the different converters cannot be separated for technical reasons, we treated all converter emissions as bart eligible. thus the fact that converter 1, which is not a bart eligible unit, is inoperable, does not affect our bart analysis.

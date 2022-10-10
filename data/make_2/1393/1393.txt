@@ -1,1 +1,0 @@
-the policies in this document are based upon the understanding that globally unique ipv 6 unicast address space is licensed for use rather than owned. specifically ip addresses will be allocated and assigned on a license basis, with licenses subject to renewal on a periodic basis.

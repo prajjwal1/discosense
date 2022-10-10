@@ -1,1 +1,0 @@
-the movie index is a neuroscience based model for predicting the perceptual quality of a motion picture or video against a pristine reference video. thus the movie index is a full reference metric.

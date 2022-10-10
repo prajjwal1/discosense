@@ -1,1 +1,0 @@
-in this sense, it is the strongest way to measure the information content of a discrete random variable. in particular the min entropy is never larger than the shannon entropy.

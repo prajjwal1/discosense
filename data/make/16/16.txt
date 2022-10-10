@@ -1,1 +1,0 @@
-the major advantage with this control is that menu item functionality is applied to each tab page instead of tabcontrol. in other words we can have different menu items for different tab pages.

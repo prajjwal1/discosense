@@ -1,1 +1,0 @@
-it shows all seven days of the week, obviously, but what its missing is an overview of the whole month, which to me is a necessary complement. by contrast heres how ical looked and worked in previous versions of the operating system.

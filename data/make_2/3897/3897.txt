@@ -1,1 +1,0 @@
-that limit is per directory, not for the whole filesystem, so you could work around it by further sub dividing things. for instance instead of having all the user subdirectories in the same directory split them per the first two characters of the name so you have something like.

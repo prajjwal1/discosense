@@ -1,1 +1,0 @@
-signal strength changes indicated the spacecraft was in a slow roll. nevertheless it was possible to lock the spacecraft to an uplink signal, but no response was observed to any commands sent to it.

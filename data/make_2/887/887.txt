@@ -1,1 +1,0 @@
-now, of course, the question of whether its a good thing that it is easy to compile a vb application for the mac is something else entirely. nonetheless mono now seems to represent an inexpensive alternative to realbasic for writing cross platform applications.

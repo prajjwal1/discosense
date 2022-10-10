@@ -1,1 +1,0 @@
-more frequency modulation results for a larger current i pump and for a smaller pump capacitor cpump. likewise less frequency modulation occurs for a smaller value of pump current i pump and also for a larger pump capacitor cpump.

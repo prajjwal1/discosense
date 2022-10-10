@@ -1,1 +1,0 @@
-green eggs and ham is an optimal example to illustrate lzss compression because the book itself only contains 50 unique words, despite having a word count of 170. thus words are repeated, however not in succession.

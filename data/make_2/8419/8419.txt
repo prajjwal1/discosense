@@ -1,1 +1,0 @@
-although the average cost per operation is constant and fairly small, the cost of a single operation may be quite high. in particular if the hash table uses dynamic resizing, an insertion or deletion operation may occasionally take time proportional to the number of entries.

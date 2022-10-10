@@ -1,1 +1,0 @@
-hence, such smart memory computing can process multiple calculations simultaneously to yield high speed operation. in contrast a conventional scalar computer only processes one calculation at a time and, therefore, is considerably slower.

@@ -1,1 +1,0 @@
-typically, typing does not enter text directly into the document. instead users modify the document text by entering these commands on a text only terminal.

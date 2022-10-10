@@ -1,1 +1,0 @@
-the analytical solutions for the electronic energy eigenvalues are a generalization of the lambert w function which can be obtained using a computer algebra system within an experimental mathematics approach. consequently it is included as an example in most quantum chemistry textbooks.

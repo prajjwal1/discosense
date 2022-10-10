@@ -1,1 +1,0 @@
-developers can carry out performance analysis all along the software lifecycle, and testers can be ready early enough to test happy flow, negative flow, and alternative flow cases. in sum everyone can be on the same page and there are no surprises at the end of the project.

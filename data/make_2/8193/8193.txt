@@ -1,1 +1,0 @@
-in practice, however, this can be achieved as dynamic css by using javascript to modify the stylesheets applicable to the document at runtime. because of this because of this jsss was often used in the creation of dhtml.

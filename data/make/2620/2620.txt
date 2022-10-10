@@ -1,1 +1,0 @@
-we could retain collecting lists, and live without the split behavior, or even sublist, though these would be important losses. conversely they could be re added, but at that point, its simplicity has completely disappeared.

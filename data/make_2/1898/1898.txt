@@ -1,1 +1,0 @@
-similarly, you are using java for what i would call a systems programing job. because of that you are hitting the reverse of the problems that c has.

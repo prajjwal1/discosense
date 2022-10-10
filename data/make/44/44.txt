@@ -1,1 +1,0 @@
-that being said i keep a list of my caches in my notebook with the coordinates. but the coords are not in the traditional lat long format, they are kept in the utm coord scheme.

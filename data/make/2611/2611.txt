@@ -1,1 +1,0 @@
-this report replaces read only access to submitted application data and the application detail report. in other words you can no longer navigate to pages within epsap and view application data after the final submittal.

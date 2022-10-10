@@ -1,1 +1,0 @@
-mounting local drives has several advantages. for example you dont need to worry about running out of drive letters because you can connect to more than 26 drives with mounted drives.

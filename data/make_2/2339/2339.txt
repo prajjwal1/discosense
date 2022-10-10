@@ -1,1 +1,0 @@
-in a point to point link, udld hello packets can be considered as a heart beat whose presence guarantees the health of the link. conversely the loss of the heart beat means that the link must be shut down if it is not possible to reestablish a bidirectional link.

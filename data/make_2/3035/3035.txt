@@ -1,1 +1,0 @@
-if the primary spare area is full, the supplementary spare area is assigned. thereafter if the assigned supplementary spare area becomes full, the supplementary spare area is extended.

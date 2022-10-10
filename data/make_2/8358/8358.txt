@@ -1,1 +1,0 @@
-a convenient block size would be 8 bits, although this is not required. similarly a convenient modulus would be 255, although, again, others could be chosen.

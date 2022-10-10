@@ -1,1 +1,0 @@
-this is no problem if used on a variac with current monitoring though but the practical upper limit on operating voltage is only about 4 kv. although as noted, the current limited behavior is not linear, it can be approximated by assuming an internal current limiting resistor and an ideal transformer.

@@ -1,1 +1,0 @@
-while uncontrolled residual stresses are undesirable, some designs rely on them. in particular brittle materials can be toughened by including compressive residual stress, as in the case for toughened glass and pre stressed concrete.

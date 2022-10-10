@@ -1,1 +1,0 @@
-most things are straight forward but i have some issues with the footline. in particular i dont want a footline on the title.

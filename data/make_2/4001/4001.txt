@@ -1,1 +1,0 @@
-a raging debate in the web development community is whether nosql databases like redis will replace traditional relational databases. but if youve been a programmer for more than a few years, you know that rarely does a technology come along and completely wipe another off the technology landscape.

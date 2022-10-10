@@ -1,1 +1,0 @@
-message properties allow a consuming client to ask that only those messages be delivered which fit a given criteria. for instance a consuming client might indicate an interest for payroll messages concerning part time employees located in new jersey.

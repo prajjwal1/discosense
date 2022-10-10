@@ -1,1 +1,0 @@
-their aegis combat system differs from a traditional rotating radar that mechanically rotates 360 degrees for each sweep scan of the airspace. instead aegis uses a passive electronically scanned array, which allows continual tracking of targets simultaneous with area scans.

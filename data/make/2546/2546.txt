@@ -1,1 +1,0 @@
-for this reason, greedy algorithms tend to produce sub optimal solutions especially for larger problems. in contrast in our approach, we use concorde the tsp solver to find the globally optimal solution for the tsp equivalent of our clustering problem.

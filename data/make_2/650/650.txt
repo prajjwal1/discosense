@@ -1,1 +1,0 @@
-microformats differ from rss feeds in that you cant subscribe to them. instead microformats are embedded into webpages and discovered by search engines like google or technorati.

@@ -1,1 +1,0 @@
-the transmission and reception of the ultrasonic waves may be performed only when the b a coefficient starts to decrease. thereby only a rate of decrease is obtained.

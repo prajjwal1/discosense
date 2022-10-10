@@ -1,1 +1,0 @@
-although the playing area includes cliffs and hills, these additions do not actually represent changes in the the height of the land. instead they just represent an obstacle around which units must move.

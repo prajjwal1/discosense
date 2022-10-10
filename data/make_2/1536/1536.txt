@@ -1,1 +1,0 @@
-this is necessary to solve interoperability issues between the cmts and the policy server application manager. specifically hard limits on the maximum value for the reserved rate r parameter, as well a limit on the derived docsis upstream nominal polling interval are configured.

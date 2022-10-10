@@ -1,1 +1,0 @@
-frames containing higher frequency components contribute more to the perception of flicker. hence by forcing the use of fewer bits to represent higher frequency components, the magnitude of the higher frequency components is reduced, thereby reducing flicker.

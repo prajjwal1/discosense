@@ -1,1 +1,0 @@
-versions of functions and reference information are also tracked. thereby a time at which to recreate the state of the system is selectable and the data elements that were available at or before the selected time are identifiable.

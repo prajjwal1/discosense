@@ -1,1 +1,0 @@
-prior calendars, web or internet type calendars, have employed overlays, which are superimposed over a calendar. conversely if the user were able to delete the overlay, the overlay would not be available to overlay on other users calendars.

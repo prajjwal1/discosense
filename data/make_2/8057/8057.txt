@@ -1,1 +1,0 @@
-the human ortholog of drosophila suppressor of fused, has a conserved sequence, this means that particular amino acids have remained the same throughout evolution. consequently they have very similar roles in repressing hedgehog signalling.

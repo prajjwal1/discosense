@@ -1,1 +1,0 @@
-an example might be given as 1.0 millivolt offset error, regardless of the range or gain settings. in contrast gain errors do depend on the magnitude of the input signal and are expressed as a percentage of the reading, such as 0.1%.

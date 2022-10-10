@@ -1,2 +1,0 @@
-Explicit|||0..2||if||0|if|||Contingency.Condition|||||||||||35..84|0|a report is generated for the selected collection||||||||3..33|0|the collections pane has focus|||||||||||||
-Explicit|||86..95||otherwise||1|otherwise|||Expansion.Alternative|||||||||||0..84|0|if the collections pane has focus, a report is generated for the selected collection||||||||96..150|1|a report is generated for the currently selected items|||||||||||||

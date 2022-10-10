@@ -1,1 +1,0 @@
-Explicit|||166..179||in particular||1|in particular|||Expansion.Instantiation|||||||||||0..164|0|references are widely used in programming, especially to efficiently pass large or mutable data as arguments to procedures, or to share such data among various uses||||||||180..264|1|a reference may point to a variable or record that contains references to other data|||||||||||||

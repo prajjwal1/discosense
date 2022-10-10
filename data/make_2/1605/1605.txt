@@ -1,1 +1,0 @@
-the domination of the near end echo is thus dealt with to provide an accurate characterization of the echo in the circuit. specifically the invention separates and measures the magnitude of each echo by adaptively converging on each echo component beginning with the near end echo.

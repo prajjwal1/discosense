@@ -1,1 +1,0 @@
-there are several justification methods being applied for positioning of headings or items of tables. for example for headings in horizontalsettings often centering is used, taking the left right balance is taken into account.

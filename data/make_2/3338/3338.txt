@@ -1,1 +1,0 @@
-a photo mask having stripe patterns formed in a similar size, of which maskinglineis 126 m wide and of which openingspaceis 135 m wide, respectively, is used for photolithography. hence each pixel is divided into amaskedand an exposed sub pixel domains.

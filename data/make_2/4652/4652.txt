@@ -1,1 +1,0 @@
-image segmentation remains a difficult task, however, due to both the tremendous variability of object shapes and the variation in image quality. in particular medical images are often corrupted by noise and sampling artifacts, which can cause considerable difficulties when applying classical segmentation techniques such as edge detection and thresholding.

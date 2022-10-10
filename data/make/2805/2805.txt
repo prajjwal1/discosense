@@ -1,1 +1,0 @@
-or the execution of the unnecessary instruction is inhibited, leaving the unnecessary instruction in the program. thereby the unnecessary instruction overlapping the prior instruction is easily detected.

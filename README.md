@@ -1,7 +1,16 @@
-# Discosense: Commonsense Reasoning with Discourse Relations
+# Discosense: Commonsense Reasoning with Discourse Connectives
 Official code for the EMNLP 2022 paper.
 
 Data can be found in `/data` directory. The directory contains the training and test set.
+
+### Huggingface Datasets
+You can use `discosense` in two lines of code
+```
+from datasets import load_dataset
+train_dataset = load_dataset("prajjwal1/discosense", split="train")
+test_dataset = load_dataset("prajjwal1/discosense", split="test")
+```
+
 
 Generative Models can be found here:
 

@@ -1,13 +1,13 @@
 [
     {
         "idx": 0,
-        "context": "Patients with progressive metabolic or neurodegenerative conditions are generally considered poor candidates for surgery.",
-        "marker": "otherwise",
-        "option_0": "This is the condition where chemotherapy would be most beneficial.",
-        "option_1": "Patients at an advanced stage, or with other potentially reversible conditions, should be managed differently.",
-        "option_2": "This procedure is not useful and there is no documented benefit for these conditions when compared to surgical alternatives.",
-        "option_3": "Most patients with intractable epilepsy should be considered potential candidates for seizure surgery.",
-        "label": 3
+        "context": "Although it took a while to assemble, the instructions are easy to follow.",
+        "marker": "overall",
+        "option_0": "This tv stand is worth purchasing for.",
+        "option_1": "The dining room set is a quality item that will last for the only thing I will complain about was the fact that there was dust in the boxes.",
+        "option_2": "The stool works well for our needs.",
+        "option_3": "The desk took less than 1 hour to assemble and has a contemporary look with espresso-colored legs.",
+        "label": 0
     },
     {
         "idx": 1,
@@ -391,13 +391,13 @@
     },
     {
         "idx": 39,
-        "context": "Although it took a while to assemble, the instructions are easy to follow.",
-        "marker": "overall",
-        "option_0": "This tv stand is worth purchasing for.",
-        "option_1": "The dining room set is a quality item that will last for the only thing I will complain about was the fact that there was dust in the boxes.",
-        "option_2": "The stool works well for our needs.",
-        "option_3": "The desk took less than 1 hour to assemble and has a contemporary look with espresso-colored legs.",
-        "label": 0
+        "context": "Patients with progressive metabolic or neurodegenerative conditions are generally considered poor candidates for surgery.",
+        "marker": "otherwise",
+        "option_0": "This is the condition where chemotherapy would be most beneficial.",
+        "option_1": "Patients at an advanced stage, or with other potentially reversible conditions, should be managed differently.",
+        "option_2": "This procedure is not useful and there is no documented benefit for these conditions when compared to surgical alternatives.",
+        "option_3": "Most patients with intractable epilepsy should be considered potential candidates for seizure surgery.",
+        "label": 3
     },
     {
         "idx": 40,

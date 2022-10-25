@@ -1,5 +1,7 @@
 # Discosense: Commonsense Reasoning with Discourse Connectives
-Official code for the EMNLP 2022 paper.
+Official code for the EMNLP 2022 [paper](https://arxiv.org/pdf/2210.12478.pdf).
+
+This repo is a work in progress. 
 
 Data can be found in `/data` directory. The directory contains the training and test set.
 
@@ -48,16 +50,19 @@ Output: Sentence 1 (ground truth)
 
 
 `[control code] can be replaced by these discourse markers:
-`although` & `in other words` & `particularly`\\
-`as a result` &  `in particular` & `rather`\\
-`by contrast` & `in short` & similarly`\\
-`because of this` & `in sum` & `specifically`\\
-`because of that` & `interestingly` & `subsequently`\\
-`but` & `instead` & `thereafter`\\
-`consequently` & `likewise` & `thereby`\\
-`conversely` & `nevertheless` & `therefore`\\
-`for example` & `nonetheless` & `though`\\
-`for instance` & `on the contrary` & `thus`\\
-`hence` & `on the other hand` & `yet`\\
-`however` & `otherwise` &\\
-`in contrast` & `overall` & 
+
+| -------------------------------------------------------------------------------------- | ----------------------------
+| `although` | `in other words` | `particularly`| 
+| `as a result` |  `in particular` | `rather`|
+| `by contrast` | `in short` | `similarly` |
+| `because of this` | `in sum` | `specifically` |
+| `because of that` | `interestingly` | `subsequently` |
+| `but` | `instead` | `thereafter` |
+| `consequently` | `likewise` | `thereby` |
+| `conversely` | `nevertheless` | `therefore` |
+| `for example` | `nonetheless` | `though`  |
+| `for instance` | `on the contrary` | `thus` |
+| `hence` | `on the other hand` | `yet` |
+| `however` | `otherwise` |
+| `in contrast` | `overall` | 
+

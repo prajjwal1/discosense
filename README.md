@@ -1,5 +1,15 @@
 # Discosense: Commonsense Reasoning with Discourse Connectives
-Official code for the EMNLP 2022 [paper](https://arxiv.org/pdf/2210.12478.pdf).
+
+
+<h4>
+EMNLP 2022
+</br>
+Prajjwal Bhargava. Vincent Ng
+</h4>
+<hr>
+
+
+**Paper:** [arXiv](https://arxiv.org/pdf/2210.12478.pdf)
 
 This repo is a work in progress. 
 
@@ -20,20 +30,24 @@ These models were trained as follows:
 Input: [control code] Sentence 1
 Output: Sentence 2 (ground truth)
 
-- [ctrl_discovery_1](https://huggingface.co/prajjwal1/ctrl_discovery_1)
-- [ctrl_discovery_2](https://huggingface.co/prajjwal1/ctrl_discovery_2)
-- [ctrl_discovery_3](https://huggingface.co/prajjwal1/ctrl_discovery_3)
-- [ctrl_discovery_4](https://huggingface.co/prajjwal1/ctrl_discovery_4)
-- [ctrl_discovery_5](https://huggingface.co/prajjwal1/ctrl_discovery_5)
-- [ctrl_discovery_6](https://huggingface.co/prajjwal1/ctrl_discovery_6)
-- [ctrl_discovery_7](https://huggingface.co/prajjwal1/ctrl_discovery_7)
-- [ctrl_discovery_8](https://huggingface.co/prajjwal1/ctrl_discovery_8)
-- [ctrl_discovery_9](https://huggingface.co/prajjwal1/ctrl_discovery_9)
-- [ctrl_discovery_10](https://huggingface.co/prajjwal1/ctrl_discovery_10)
-- [ctrl_discovery_11](https://huggingface.co/prajjwal1/ctrl_discovery_11)
-- [ctrl_discovery_12](https://huggingface.co/prajjwal1/ctrl_discovery_12)
-- [ctrl_discovery_13](https://huggingface.co/prajjwal1/ctrl_discovery_13)
-- [ctrl_discovery_14](https://huggingface.co/prajjwal1/ctrl_discovery_14)
+|  Model name           |  Model Links
+| -------------------------------------------------------------------------------------- | ----------------------------
+| `ctrl_discovery_1` | [Model Link](https://huggingface.co/prajjwal1/ctrl_discovery_1)         |
+| `ctrl_discovery_2` | [Model Link](https://huggingface.co/prajjwal1/ctrl_discovery_2)         |
+| `ctrl_discovery_3` | [Model Link](https://huggingface.co/prajjwal1/ctrl_discovery_3)         |
+| `ctrl_discovery_4` | [Model Link](https://huggingface.co/prajjwal1/ctrl_discovery_4)         |
+| `ctrl_discovery_5` | [Model Link](https://huggingface.co/prajjwal1/ctrl_discovery_5)         |
+| `ctrl_discovery_6` | [Model Link](https://huggingface.co/prajjwal1/ctrl_discovery_6)         |
+| `ctrl_discovery_7` | [Model Link](https://huggingface.co/prajjwal1/ctrl_discovery_7)         |
+| `ctrl_discovery_8` | [Model Link](https://huggingface.co/prajjwal1/ctrl_discovery_8)         |
+| `ctrl_discovery_9` | [Model Link](https://huggingface.co/prajjwal1/ctrl_discovery_9)         |
+| `ctrl_discovery_10` | [Model Link](https://huggingface.co/prajjwal1/ctrl_discovery_10)         |
+| `ctrl_discovery_11` | [Model Link](https://huggingface.co/prajjwal1/ctrl_discovery_11)         |
+| `ctrl_discovery_12` | [Model Link](https://huggingface.co/prajjwal1/ctrl_discovery_12)         |
+| `ctrl_discovery_13` | [Model Link](https://huggingface.co/prajjwal1/ctrl_discovery_13)         |
+| `ctrl_discovery_14` | [Model Link](https://huggingface.co/prajjwal1/ctrl_discovery_14)         |
+
+
 
 We also provide these generative models also.
 
@@ -41,28 +55,56 @@ These models were trained as follows:
 Input: [control code] Sentence 2
 Output: Sentence 1 (ground truth)
 
-- [ctrl_discovery_flipped_1](https://huggingface.co/prajjwal1/ctrl_discovery_flipped_1)
-- [ctrl_discovery_flipped_2](https://huggingface.co/prajjwal1/ctrl_discovery_flipped_2)
-- [ctrl_discovery_flipped_3](https://huggingface.co/prajjwal1/ctrl_discovery_flipped_3)
-- [ctrl_discovery_flipped_4](https://huggingface.co/prajjwal1/ctrl_discovery_flipped_4)
-- [ctrl_discovery_flipped_5](https://huggingface.co/prajjwal1/ctrl_discovery_flipped_5)
-- [ctrl_discovery_flipped_6](https://huggingface.co/prajjwal1/ctrl_discovery_flipped_6)
-
-
-`[control code] can be replaced by these discourse markers:
-
+|  Model Name           |  Model Links
 | -------------------------------------------------------------------------------------- | ----------------------------
-| `although` | `in other words` | `particularly`| 
-| `as a result` |  `in particular` | `rather`|
-| `by contrast` | `in short` | `similarly` |
-| `because of this` | `in sum` | `specifically` |
-| `because of that` | `interestingly` | `subsequently` |
-| `but` | `instead` | `thereafter` |
-| `consequently` | `likewise` | `thereby` |
-| `conversely` | `nevertheless` | `therefore` |
-| `for example` | `nonetheless` | `though`  |
-| `for instance` | `on the contrary` | `thus` |
-| `hence` | `on the other hand` | `yet` |
-| `however` | `otherwise` |
-| `in contrast` | `overall` | 
+| `ctrl_discovery_flipped_1` | [Model Link](https://huggingface.co/prajjwal1/ctrl_discovery_flipped_1)         |
+| `ctrl_discovery_flipped_2` | [Model Link](https://huggingface.co/prajjwal1/ctrl_discovery_flipped_2)         |
+| `ctrl_discovery_flipped_3` | [Model Link](https://huggingface.co/prajjwal1/ctrl_discovery_flipped_3)         |
+| `ctrl_discovery_flipped_4` | [Model Link](https://huggingface.co/prajjwal1/ctrl_discovery_flipped_4)         |
+| `ctrl_discovery_flipped_5` | [Model Link](https://huggingface.co/prajjwal1/ctrl_discovery_flipped_5)         |
+| `ctrl_discovery_flipped_6` | [Model Link](https://huggingface.co/prajjwal1/ctrl_discovery_flipped_6)         |
+
+
+`[control code]` can be replaced by these discourse markers:
+
+| `although` | `in other words` | `particularly`|  `rather`| <br />
+| `as a result` |  `in particular` | `similarly` | <br />
+| `by contrast` | `in short` | `in sum` | `specifically` |  <br />
+| `because of this` |  `interestingly` | `subsequently` | `because of that` | <br />
+| `but` | `instead` | `thereafter` | `thereby` | `likewise` | <br />
+| `consequently` | `conversely` | `nevertheless` | `therefore` | <br />
+| `for example` | `nonetheless` | `though`  | `for instance` | <br />
+| `on the contrary` | `thus` | `hence` | `on the other hand` | `yet` | <br />
+| `however` | `otherwise` | `in contrast` | `overall` | <br />
+
+
+To run Conditional or non Conditional Adversarial Filtering, 
+```
+export OUTPUT_DIR='../../experiments/albert_large_meh' # This is the directory where the model will be saved
+export RAW_DATA='../data/raw_valid_split2.json' # This is the input data (option need to be generated for this JSON)
+export TRAIN_DATA='../data/gen_train.json'
+export BS=16                                    
+export CONTEXT_COL='sentence1'            # Key to use for getting context
+export TO_PREDICT_COL='sentence2'         # Sentence which requires to be generated by the model
+export MARKER_COL='marker' 
+export EPOCHS=4
+export WARMUP_STEPS=4000
+
+export CLASSIFICATION_MODEL='/shared/mlrdir2/disk1/pxb190028/roberta_large_146' # Discriminator LM
+export AUTOREGRESSIVE_MODEL='prajjwal1/ctrl_discovery_5'                        # Generator LM
+export VALIDATION_DATA='../data/gen_valid_split2_fire_M4.json'                  # File path for validation data
+export FILE_OUTPUT_PATH='../data/gen_valid_split2_fire_M4_M5.json'              # File that will be saved after AF has completed
+
+# `replace_one` will replace only one option during AF (to generate all 3 options, remove this flag)
+# `run_inference_only` will perform inference (for training, remove this flag)
+
+
+python3 run_af.py --replace_one --run_inference_only --classification_model_name_or_path $CLASSIFICATION_MODEL 
+                  --autoregressive_model_name_or_path $AUTOREGRESSIVE_MODEL --raw_data_path $RAW_DATA 
+                  --train_data_path $TRAIN_DATA --validation_data_path $VALIDATION_DATA --output_dir $OUTPUT_DIR
+                   --per_device_train_batch_size $BS  --per_device_eval_batch_size $((BS*8))
+                   --num_train_epochs $EPOCHS --file_output_path $FILE_OUTPUT_PATH --context_col $CONTEXT_COL 
+                   --to_predict_col $TO_PREDICT_COL --marker_col $MARKER_COL --fp16 --save_total_limit 1 --save_strategy epoch
+                   --evaluation_strategy epoch --warmup_steps $WARMUP_STEPS
+```
 

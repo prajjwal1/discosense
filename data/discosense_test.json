@@ -2000,6 +2000,16 @@
         "label": 2
     },
     {
+        "idx": 200,
+        "context": "And whewell who also originated the words cathode and ion spearheaded global research with his work on tides.",
+        "marker": "interestingly",
+        "option_0": "Groundbreaking work often seems to happen in groups.",
+        "option_1": "He was the only chemist to hold three british nobels, not including chemistry legend linus pauling who had won two nobels.",
+        "option_2": "It took us seven and a half years, but we got there, he says.",
+        "option_3": "Although whewell was technically american, he is best remembered as a brit who worked at a british institution and whose greatest achievement was never translated into english.",
+        "label": 0
+    },
+    {
         "idx": 201,
         "context": "He was lifted with a little over eight minutes remaining in favor of James strange, who logged three saves.",
         "marker": "overall",
@@ -2469,6 +2479,36 @@
         "option_3": "Initially, most crickets remained on the web.",
         "label": 0
       },
+      {
+        "idx": 248,
+        "context": "Your assessment in your earlier post was quite correct the head is turned more than you had it shown especially the nose.",
+        "marker": "nonetheless",
+        "option_0": "The photo is breathtaking.",
+        "option_1": "You have some nice things happening.",
+        "option_2": "In my oppinion you and my other enthusiast readers are definitely to be congratulated of that.",
+        "option_3": "This nose is just so easy on the eye.",
+        "label": 1
+    },
+    {
+        "idx": 249,
+        "context": "Then, these tape portions t 1 and t 2 obtained by dividing the tape are placed side by side in the vertical direction as viewed in this figure.",
+        "marker": "thereby",
+        "option_0": "A continuous tape having a uniform pitch is produced.",
+        "option_1": "The length of tape portion t 1, which is taken as a starting point, is decreased by 1 m 2, and therefore, the length.",
+        "option_2": "One longitudinal continuous tape portion has been manufactured.",
+        "option_3": "A large label, whose width is wider than that of the tape, can be formed.",
+        "label": 3
+    },
+    {
+        "idx": 250,
+        "context": "Most crickets quickly disentangled themselves from the web and then dropped to the bottom of the enclosure.",
+        "marker": "thereafter",
+        "option_0": "Many of the recordings captured vibrations produced by crickets coming into contact with capture threads.",
+        "option_1": "Crickets were hand fed cricket flour saline, and allowed to forage between 16 and 20 h for a food frequency of 10 hour.",
+        "option_2": "All individuals were released outdoors into a quiet area.",
+        "option_3": "Initially, most crickets remained on the web.",
+        "label": 0
+    },
       {
         "idx": 251,
         "context": "Sublethal levels of these sugars in pollen, honey, or nectar could modify effects of sugars in supplementary diets.",
